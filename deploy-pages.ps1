@@ -8,7 +8,7 @@
 
 param(
     [switch]$SkipBuild,
-    [string]$NodePath = "C:\Users\AD10209\node\node-v22.14.0-win-x64"
+    [string]$NodePath = "C:\node\node-v22.14.0-win-x64"
 )
 
 $ErrorActionPreference = "Stop"

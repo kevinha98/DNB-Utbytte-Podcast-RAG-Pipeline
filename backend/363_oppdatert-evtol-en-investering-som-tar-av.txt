@@ -1,0 +1,1364 @@
+Episode 363: Oppdatert: eVTOL – en investering som tar av?
+Publisert: Wed, 12 Ju
+Vert: Marius Brun Haugen
+Gjest: Audun Wickstrand Iversen
+Varighet: 29 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/oppdatert-evtol-en-investering-som-tar-av
+
+--- Transkripsjon ---
+
+[00:00:00] Hei, jeg er Marius fra Utbytte og håper du har en riktig god sommer.
+
+[00:00:05] I løpet av første halvår har vi dekket mange forskjellige markedsrelaterte case og begivenheter.
+
+[00:00:11] Flere av episodene med langsiktige tematikker er like relevant i dag som tidligere i år, og for å gi dere litt ekstra å lytte til,
+
+[00:00:19] nå som vi som lager podcasten er på ferie, har vi valgt ut fire av våre egne favorittepisoder i reprise.
+
+[00:00:27] Men med en liten gulerot til deg som har hørt de før.
+
+[00:00:31] På slutten av hver episode har vi nemlig hektet på en fersk kommentar til det episoden handlet om,
+
+[00:00:37] for å gi deg en oppdatering på hva som har skjedd siden sist.
+
+[00:00:41] God lytt, og takk for at du hører på podcasten fra oss i DNB.
+
+[00:00:49] Audun Vikstrand Iversen forvalter fondet DNB Disruptive Muligheter som investerer i fremtiden.
+
+[00:00:55] En nisje som har fanget Auduns oppmerksomhet er evtolindustrien.
+
+[00:01:01] Evtol står for Electrical Vertical Takeoff and Landing.
+
+[00:01:05] Dette er elektriske fly som kan frakte 4-6 passasjerer og lett å lande som et helikopter.
+
+[00:01:14] Audun funderer på om evtol kan bli en del av miksen i måten å transportere mennesker og vare på, særlig i urbane strøk.
+
+[00:01:22] Det er riktig, Marius. Og du vet at vi de siste 400 årene har bygd veier i Norge.
+
+[00:01:28] Det begynte med disse kjærveiene.
+
+[00:01:30] Og de viktigste stamnettene på de ble kalt kongeveiene.
+
+[00:01:34] Og jeg tror vi kommer til de nye kongeveiene blir ikke lagd på bakken, de blir lagd i luften.
+
+[00:01:40] Ja, og jeg på min side ser på skrekkblannet fryd på det hele og tenker at her snakker vi jo ikke bare om rekkevidde angst som vi er vant til fra elbilen, men rekkevidde panikk.
+
+[00:01:52] Og begge er vi nysgjerrig på å lære mer om hvor langt industrien har kommet og utviklingen av flyene, hvor stort markedet kan bli,
+
+[00:02:00] hvor gode investeringsmuligheter dette her vil gi.
+
+[00:02:04] Derfor har Audun og jeg vært i Tyskland, der vi møtte Evtool-selskapet Lilium og batteriselleprodusenten Custom Sales.
+
+[00:02:13] Og hva vi har funnet ut skal dere få høre mer om i dagens episode.
+
+[00:02:17] Velkommen til Utbytte, DNB-podcasten der vi forklarer hva som skjer innen globale økonomien og finansmarkedene.
+
+[00:02:33] Jeg er Marius Brunhaugen og med meg har jeg Audun Vikstrand Iversen.
+
+[00:02:38] Velkommen tilbake i studio, Audun. Hyggelig å være på tur.
+
+[00:02:42] Takk skal du ha, Marius. Det er alltid en glede å reise på døren med deg.
+
+[00:02:45] Det aller gøyeste og viktigste som jeg sitter igjen med etter at vi har vært i Tyskland og besøkt Evtool-produsenten Lilium,
+
+[00:02:54] som altså lager flyene, så Evtool altså, som det heter på fagspråket, det var å se selve flyet.
+
+[00:03:01] Se på denne modellen i riktig størrelse som de viste frem til oss. Ta på det.
+
+[00:03:08] Sitte inni det. For dette her, det er en sånn ting man nesten må se med egne øyne for å bli overbevist om at dette her kan bli en del av hverdagen vår innenfor, er du enig?
+
+[00:03:19] Ja, altså, så er det, alle vi har jo sånne små forestillinger i hodet om en sånn science-fiction-film,
+
+[00:03:24] og om noen år så begynner vi å lage dokumentarer om science-fiction i den forstanden at vi ser at disse tingene begynner å bevege seg ut blant oss.
+
+[00:03:32] Og dette er et område som folk naturlig nok ikke skjønner seg veldig mye av enda.
+
+[00:03:38] Men som jeg tror vi gradvis kommer til å se, kommer mye, mye nærmere oss og vår hverdag.
+
+[00:03:44] Det er et stykke frem, fortsatt, selv om man antar at de første kommersielle rutene vi startet i slutten av 2024, i 2025,
+
+[00:03:54] det er ikke så forferdelig lenge til, i hvert fall ikke i forhold til der hvor folk tror at dette er.
+
+[00:03:59] For dette er mye, mye nærmere enn det vi tror.
+
+[00:04:01] Og så er det en del sånne store hølder som vi skal gjennom,
+
+[00:04:06] fordi disse flyene skal være veldig sikre, og ordet sikkerhet og luftfart er mye høyere standard enn det er på bilveien.
+
+[00:04:15] Man prater om 10 minus 9, og det vil si at hvis du kjører en milliard timer i lufta, så skal du bare feile i en time.
+
+[00:04:27] Og det er en sånn standard som denne industrien også har blitt møtt med,
+
+[00:04:30] som gjør at de må ha veldig mye sertifiserte utstyrsprosenter, de må ha mange ulike godkjennelser,
+
+[00:04:36] og det er et løp som de har holdt på med en del år,
+
+[00:04:39] men hvor flere av disse aktørene nå tror at de kommer i mål i løpet av 2024 og 2025.
+
+[00:04:46] Og så skal man treffe på et marked, og så skal man også ha,
+
+[00:04:52] dette er en industri som er veldig sånn regulatorisk drevet,
+
+[00:04:55] for det ene er å få lov til å fly,
+
+[00:04:57] det andre er å organisere all flytrafikken.
+
+[00:05:00] Og man har noe som heter Traffic Air Management, TAM,
+
+[00:05:04] som i dag er veldig manuelt,
+
+[00:05:06] drevet, man har selvfølgelig veldig mye digitale løsninger for å styre den flytrafikken,
+
+[00:05:11] det er 35 000 fly cirka som flyr rundt omkring i verden,
+
+[00:05:15] og så skal vi få inn sånn par 300 000 droner,
+
+[00:05:18] det er heller ikke helt på plass.
+
+[00:05:20] Og så skal vi ha sånne små, vi bygger ikke sånne store gardemobaner,
+
+[00:05:23] men her bygger man en sånn type parkeringsplass pluss,
+
+[00:05:27] som en landingsfelt for disse flyene,
+
+[00:05:29] og den er mye lettere å få til, men det er også en infrastruktur som skal på plass.
+
+[00:05:33] Så for meg, i DNB Distributen muligheter,
+
+[00:05:36] så investerer vi litt i en investeringsstrategi i fremtiden,
+
+[00:05:40] hvor vi har veldig liten andel i dag,
+
+[00:05:43] men jeg ser at hvis dette tar av i løpet av ett til to år,
+
+[00:05:46] så kan det bli en stor del av porteføljen.
+
+[00:05:48] Men jeg bruker nå mye tid på å forberede meg på det som kommer,
+
+[00:05:53] men det er for mye usikkerhet,
+
+[00:05:55] fordi at både disse regulatoriske tingene,
+
+[00:05:58] og så er det en sånn finansiering,
+
+[00:06:00] flere av disse selskapene har vært flinke til å hente penger,
+
+[00:06:02] så det er veldig mye kontanter på balansen i dag,
+
+[00:06:05] men som også skal brukes da i de neste to årene.
+
+[00:06:08] Og det er flere aktører som forsøker å produsere disse flyene,
+
+[00:06:13] og vil vinne dette kappløpet,
+
+[00:06:15] det er europæere, kinesere, amerikanere,
+
+[00:06:17] og de ulike evtolene kommer i litt forskjellige former og fasonger,
+
+[00:06:21] noen ser ut som typiske droner som vi kjenner fra før,
+
+[00:06:25] men dette tyske selskapet som vi var og besøkte,
+
+[00:06:28] der så det mer ut som et slags fly,
+
+[00:06:32] og vi flikket også fløyetsimulator,
+
+[00:06:34] Audun, og en av de tingene som jeg har merkt meg,
+
+[00:06:37] nå er jeg ikke en helikopterpilot,
+
+[00:06:40] men det virker som at teknologien gjør at det er ganske enkelt
+
+[00:06:47] å manøvrere disse evtolene i forhold til et helikopter,
+
+[00:06:51] mindre komplisert rett og slett.
+
+[00:06:53] Ja, og det er det de sier,
+
+[00:06:54] i og med at jeg heller ikke er pilot,
+
+[00:06:56] så må man nesten høre på hva andre sier,
+
+[00:06:58] og det er nettopp det man sier,
+
+[00:06:59] og jeg tror mange av oss som har vårt første opplevelse,
+
+[00:07:04] altså droner, er jo disse DJ-dronene
+
+[00:07:06] som kom for sånn type ti år siden,
+
+[00:07:09] og da oppdager man ganske fort at det er ganske lett
+
+[00:07:11] å manøvrere egentlig, hvis du tenker at du skal kjøre i luften,
+
+[00:07:14] som er sånn disse små dronene som tar kamera og så videre,
+
+[00:07:18] og veldig mye av de samme prinsippene er jo overført i disse her,
+
+[00:07:21] som gjør at man både ser at man kan ha en ganske trygg opplevelse,
+
+[00:07:27] samtidig som man også ser at over tid,
+
+[00:07:30] en eller annen gang etter 20-30,
+
+[00:07:32] at man også kan innføre da,
+
+[00:07:34] at dette er selvkjørende droner.
+
+[00:07:36] Hvis vi tar et lite steg tilbake,
+
+[00:07:38] jeg tror lytterne våre allerede har skjønt at du har jo fulgt med på dette her en stund,
+
+[00:07:42] altså hva var det som fanget evt. interessen din i utgangspunktet?
+
+[00:07:47] Nei, altså veldig ofte så er det jo sånn at
+
+[00:07:49] når man ser etter nye idéer,
+
+[00:07:51] så skal det være enkelt å forstå,
+
+[00:07:53] og for meg så er det sånn,
+
+[00:07:54] jeg er en ganske enkel mann fra Drammen egentlig,
+
+[00:07:56] så for meg så er jo dette med å tenke at lufta er en mye bedre infrastruktur,
+
+[00:08:02] enn å drive og borre og kjøre,
+
+[00:08:04] røre rundt og så videre,
+
+[00:08:06] alt det vi holder på med på den fysiske veien,
+
+[00:08:08] på landjorden.
+
+[00:08:09] Og så er det to andre ting som er veldig viktige,
+
+[00:08:12] og det er at dette,
+
+[00:08:13] selv om man ønsket det for 20 år siden,
+
+[00:08:15] så har det vært teknisk umulig.
+
+[00:08:17] Men det som har skjedd med batteriindustrien,
+
+[00:08:19] er at disse batteriene,
+
+[00:08:21] de har blitt lettere,
+
+[00:08:22] de har fått høyere energitetthet,
+
+[00:08:24] og de har blitt billigere.
+
+[00:08:25] Og det er en sånn teknologi som nå fortsatt er i veldig kraftig bevegelse,
+
+[00:08:29] og det er muliggjort det,
+
+[00:08:30] sammen med at man har fått lettere og sterkere materialer,
+
+[00:08:33] slik som karbonfiber,
+
+[00:08:34] som vi ser flere av disse designene er knyttet til.
+
+[00:08:37] Fordi på det flyet som vi så der nede i Tyskland,
+
+[00:08:40] det veier tre tonn.
+
+[00:08:42] Ett tonn av det er batterier,
+
+[00:08:44] som gjør at du er nødt til å ha veldig spesialiserte batterier,
+
+[00:08:48] og de er nødt til å bli billige og enda bedre.
+
+[00:08:51] Og den teknologiske utviklingen der,
+
+[00:08:54] som startet for så vidt med sånne lithium-batterier,
+
+[00:08:57] som vi hadde i mobiltelefonene,
+
+[00:09:00] så tok elbilene over,
+
+[00:09:02] og drevet frem den utviklingen,
+
+[00:09:04] veldig kraftig over de siste ti årene her.
+
+[00:09:07] Og så tror jeg nå at vi kommer til å se at disse batteriene
+
+[00:09:10] muligheter applikasjoner i en rekke andre produkter,
+
+[00:09:13] inkludert disse flyene.
+
+[00:09:14] Det blir jo kanskje som å spørre hvorfor trenger vi elbiler,
+
+[00:09:18] men hvorfor trenger vi eventuelt,
+
+[00:09:20] når vi har vanlige helikopter og fly?
+
+[00:09:23] Jo, de kommer med noen sånne fordeler,
+
+[00:09:26] og det ene er et sånt helikopter,
+
+[00:09:28] og igjen, det er ikke alle som har kjørt helikopter,
+
+[00:09:31] men vi har jo forhold til det på film,
+
+[00:09:32] og da ser vi at det er to ting.
+
+[00:09:34] Altid det bråker mye, folk holder seg rundt ørene,
+
+[00:09:37] og så kommer det sånn kraftig lufttrykk.
+
+[00:09:38] Begge de to tingene gjør at det er veldig uegnet
+
+[00:09:41] for transport rundt og i byene.
+
+[00:09:44] Disse elektriske helikopterne,
+
+[00:09:45] der reduserer du lyden med ca. 80%,
+
+[00:09:48] og lufttrykket forsvinner nesten helt,
+
+[00:09:51] fordi man fordeler disse rotorene opp på flere andre,
+
+[00:09:56] ikke en stor rotor, men flere mindre.
+
+[00:09:58] Og så er det da utslippsfritt,
+
+[00:10:00] og det gjør at, sånn som i oktober i fjor,
+
+[00:10:04] sto sjefen for United Airlines,
+
+[00:10:06] som er et stort flyselskap i USA,
+
+[00:10:07] sammen med ordføreren i New York,
+
+[00:10:11] sammen med et selskap som heter Age Aviation,
+
+[00:10:13] og så sto de på en landingsplass for helikopteret,
+
+[00:10:16] og så sa de at her skal det lande elektriske helikopter i 2025,
+
+[00:10:20] som tar oss fra Newark,
+
+[00:10:23] som er en av de store flyplassene i USA,
+
+[00:10:25] til Downtown Manhattan på ti minutter.
+
+[00:10:28] Og det skal koste like mye som en Uber X,
+
+[00:10:31] altså sånn overkant av 100 dollar,
+
+[00:10:34] og hvis man får til det,
+
+[00:10:36] så har man åpnet opp et massemarked,
+
+[00:10:39] så det blir ikke et leketøy for rik folk som noen tror,
+
+[00:10:44] og det ønsker heller ikke bransjen,
+
+[00:10:46] fordi de vet at dette er, akkurat som bilindustrien,
+
+[00:10:48] det er helt avhengig av å få volym.
+
+[00:10:50] Så de første rutene, som vi ser,
+
+[00:10:52] de vil komme i tilknytning til at det er en transporttjeneste,
+
+[00:10:56] som da egentlig disrupterer,
+
+[00:10:58] eller blir en konkurrent mot bilkøen,
+
+[00:11:00] så vi kan få ned biltrafikken,
+
+[00:11:02] i alle fall hvis det kommer opp i volym,
+
+[00:11:03] og så spaser vi bilen,
+
+[00:11:04] så sparer det masse tid.
+
+[00:11:05] Så jeg tror at disse tjenestene,
+
+[00:11:08] det er det første området vi ser det på,
+
+[00:11:09] også gradvis så kan vi se masse andre såkalte user case,
+
+[00:11:13] som har med ambulanse å gjøre,
+
+[00:11:15] som har med brannslukning og så videre,
+
+[00:11:17] men det er liksom motoren i dette markedet.
+
+[00:11:21] Ja, da kan det bare stemme i,
+
+[00:11:22] altså flere av de vi snakket med i Tyskland,
+
+[00:11:24] som jobbet med å lage flyene, elevtolene,
+
+[00:11:27] de kommer jo fra nettopp Airbus eller Boeing,
+
+[00:11:30] de virket jo veldig oppriktige når de sa at,
+
+[00:11:33] dette her var det de så på som deres sjanse,
+
+[00:11:36] til å gi tilbake til fremtidige generasjoner,
+
+[00:11:39] i form av mindre direkte utslipp da,
+
+[00:11:42] i motsetning til de tradisjonelle fly og helikopteren,
+
+[00:11:46] og får man aksept for at dette er også et sånt ESG-fremskritt,
+
+[00:11:51] hos myndighetene og opinionen,
+
+[00:11:53] så vil man jo komme et viktig stykke på vei,
+
+[00:11:56] mot kommersialisering selvsagt.
+
+[00:11:57] Absolutt, og der har man jo testet litt grann,
+
+[00:12:00] av noen å gi og besøke en tysk produsent,
+
+[00:12:03] det finnes en annen også tysk stortselskap,
+
+[00:12:05] som heter Volocopter,
+
+[00:12:06] som kanskje har kommet enda litt grann lenger,
+
+[00:12:09] og disse amerikanske produsentene,
+
+[00:12:12] mot de tyske produsentene skiller seg litt,
+
+[00:12:14] for at de amerikanske produsentene da,
+
+[00:12:17] gjennom Ager og Yobi,
+
+[00:12:18] som er to store aktører som er ganske langt fremme,
+
+[00:12:21] de ligger litt nærmere en sånn type bilindustri,
+
+[00:12:26] altså de samarbeider med bilprodusenter når det gjelder produksjon,
+
+[00:12:29] mens de tyske, i alle fall disse to,
+
+[00:12:32] de er mye mer knyttet,
+
+[00:12:33] inn mot Airbus,
+
+[00:12:34] du ser på hvilken type folk som har kommet inn,
+
+[00:12:36] hvem er samarbeidspartneren deres,
+
+[00:12:38] og hele økosystemet av underleverandører,
+
+[00:12:40] som du kunne trygge seg,
+
+[00:12:42] er veldig knyttet inn mot,
+
+[00:12:44] jeg kaller det den tradisjonelle flyindustrien,
+
+[00:12:45] og det er noe å si når du tenker investeringer,
+
+[00:12:47] fordi at sannsynligvis,
+
+[00:12:49] så kan denne designen til de tyske produsentene,
+
+[00:12:52] være mer solid i en industriell sammenheng,
+
+[00:12:55] som gjør at de bygger en plattform,
+
+[00:12:57] som de kan skalere sine fly på,
+
+[00:13:00] altså gjør de større etter hvert som tiden går,
+
+[00:13:03] og det bildet er ikke så klart i Afrika for meg,
+
+[00:13:06] når det gjelder de amerikanske aktørene,
+
+[00:13:08] så det er litt sånne forskjellige ting her,
+
+[00:13:12] og noen av de veilvalgene vi gjør nå,
+
+[00:13:13] kan få ganske store konsekvenser,
+
+[00:13:15] i en sånn type 5-10 års perspektiv.
+
+[00:13:17] Ja, som jeg sa innledningsvis,
+
+[00:13:19] det man ser for seg,
+
+[00:13:21] i hvert fall nå i starten da,
+
+[00:13:23] det er at disse eventuallene skal frakte 4-6 personer,
+
+[00:13:27] det kommer til å være bemannet med en pilot,
+
+[00:13:30] men kan ikke du ta oss igjennom,
+
+[00:13:33] på en måte tidslinjen,
+
+[00:13:34] hvordan det ser ut fremover?
+
+[00:13:37] Jo, og så skal vi legge til der sånn,
+
+[00:13:38] for vi har også en kinesisk aktør som heter Ehang,
+
+[00:13:41] og de har ingen pilot,
+
+[00:13:43] de ligger kanskje nærmest til å få godkjennelsen,
+
+[00:13:45] vi venter litt på det,
+
+[00:13:47] vi har ventet litt på den noen måneder nå,
+
+[00:13:49] så vi tror den kommer i 2023.
+
+[00:13:50] Kanskje det er nettopp derfor,
+
+[00:13:51] fordi de ikke har pilot?
+
+[00:13:53] Ja, men det er bare to personer,
+
+[00:13:57] men de vil ikke få godkjennelse for å fly i Europa og USA,
+
+[00:14:01] i hvert fall ikke sånn til å begynne med,
+
+[00:14:03] og akkurat nå så dreier det seg om å få lov til,
+
+[00:14:07] eller få godkjent designet sitt,
+
+[00:14:09] og det er tre sånne ulike faser,
+
+[00:14:11] man har kommet igjennom en sånn type halvannen til to av fasene,
+
+[00:14:16] og når man har fått godkjennelsen for,
+
+[00:14:18] sier at dette kan fly,
+
+[00:14:19] det man har testet på alle disse redundancy,
+
+[00:14:24] eller hva skjer hvis noe går feil,
+
+[00:14:28] hvordan kan det lande og så videre,
+
+[00:14:29] så er det veldig, veldig sånn safety fokus,
+
+[00:14:32] og det tror jeg er veldig bra for industrien,
+
+[00:14:34] og når man har fått den godkjennelsen,
+
+[00:14:36] så skal man få godkjennelse for å produsere,
+
+[00:14:38] og slik at man vet at dette designet ikke blir en sånn powerpoint,
+
+[00:14:42] men også blir implementert i produksjonsprosessen,
+
+[00:14:45] og så skal man få kommersielle driftsavtaler,
+
+[00:14:48] og det er nok den siste, den letteste biten,
+
+[00:14:50] sånn som Joby og Ager,
+
+[00:14:52] begge de to prater om slutten av 2024,
+
+[00:14:55] begynnelsen av 2025,
+
+[00:14:56] det er en tidslinje som har blitt sjøvet på par-tre ganger,
+
+[00:15:01] så det er usikkerhet der,
+
+[00:15:03] Lilium som jeg har besøkt det,
+
+[00:15:05] de prater nok mer om sånn type 2025,
+
+[00:15:08] og i mellomtiden også vil vi se at de kanskje får noen av disse godkjennelsene,
+
+[00:15:12] vi vil se at de begynner å akkurat nå,
+
+[00:15:13] når de tester disse flyene,
+
+[00:15:15] det er jo piloter som er oppe og flyr,
+
+[00:15:17] så gjør man det med en joystick fra bakken,
+
+[00:15:20] det er ingen, det er ikke bemannede fly ennå,
+
+[00:15:23] fordi man driver og tester ut hvilke type tekniske begrensninger som finnes,
+
+[00:15:27] om man skal fly høyt og fort og lavt og gjøre mange rare bevegelser,
+
+[00:15:31] i lufta for å teste hva dette blir egentlig.
+
+[00:15:33] Men innen det neste året eller annet,
+
+[00:15:35] så kommer vi til å høre om flere av disse selskapene,
+
+[00:15:37] som har gjort flyvninger med pilot.
+
+[00:15:39] Ja.
+
+[00:15:39] Ok, batteriene nevnte du,
+
+[00:15:41] de er jo helt kritisk for at dette her skal gå,
+
+[00:15:44] i tillegg til godkjennelse fra europeiske og amerikanske luftfartsmyndigheter,
+
+[00:15:49] batteriene de må energi til å sørge for at man kan lette å lande vertikalt,
+
+[00:15:54] de må ha kraft til å sende fly vertikalt når det er i luften,
+
+[00:15:57] og i tillegg så må de kunne lades fort,
+
+[00:15:59] og de skal jo helst,
+
+[00:16:01] vare så lenge som mulig da.
+
+[00:16:04] Er du mer overbevist om at de knekker batterikoden,
+
+[00:16:07] for bruk i EV-tolene etter besøket vi hadde i Tyskland?
+
+[00:16:12] Vi var også besøk på denne high-end batterifabrikken Custom Sales.
+
+[00:16:16] Ja, og både ja og nei,
+
+[00:16:18] fordi at dette er ikke,
+
+[00:16:20] dette er sånne type løsninger som er lette å produsere,
+
+[00:16:26] lette da Goldstein selvfølgelig,
+
+[00:16:27] i et laboratorie,
+
+[00:16:28] altså nå skal de begynne å skalere.
+
+[00:16:30] Svaret på det,
+
+[00:16:31] vet vi ikke helt før det har kommet til gjennom
+
+[00:16:33] for en ganske stor omfattende pilot,
+
+[00:16:35] som flere av disse batteriprodusentene,
+
+[00:16:37] som er spesialister inn mot disse type batteriene,
+
+[00:16:40] har varslet,
+
+[00:16:41] og noen har kommet til lenger enn andre,
+
+[00:16:43] men igjen,
+
+[00:16:44] samme type bilde,
+
+[00:16:45] fordi her kan man ikke bruke,
+
+[00:16:48] man trenger noen andre tekniske egenskaper
+
+[00:16:50] enn man trenger på bilbatterier,
+
+[00:16:51] så her må man holde på med litt produktutvikling,
+
+[00:16:54] men i det store og hele,
+
+[00:16:55] det er så mye smarte folk som jobber med dette,
+
+[00:16:57] så det er tilgang på talent,
+
+[00:16:59] og det er tilgang på kapital,
+
+[00:17:01] og det er store markeder,
+
+[00:17:03] dette er hotte områder å jobbe i,
+
+[00:17:04] vi møtte jo flere av disse menneskene,
+
+[00:17:06] unge menneskene som jobbet der,
+
+[00:17:07] som var kjempestolte av å jobbe der,
+
+[00:17:09] vi spurte jo flere av dem,
+
+[00:17:10] er du stolt av å jobbe her?
+
+[00:17:11] Altså, så står de bare og smiler,
+
+[00:17:13] så de føler de er med på et eller annet form for industrieventyr,
+
+[00:17:16] og det er utrolig viktig,
+
+[00:17:17] når man jobber med sånn type utvikling,
+
+[00:17:19] som kan ha både liksom finansielle skjer,
+
+[00:17:21] det kan være et tilbakeslag og så videre,
+
+[00:17:22] men at det er en sånn kultur som sier,
+
+[00:17:25] jeg er stolt,
+
+[00:17:26] og det opplevde vi i Tyskland.
+
+[00:17:28] Nei, det er helt klart,
+
+[00:17:30] det er både en avansert og sårbar produksjon,
+
+[00:17:34] i alle fall det inntrykket jeg fikk,
+
+[00:17:38] det blir jo veldig spennende da,
+
+[00:17:39] å følge prosessen nå,
+
+[00:17:41] når de skal begynne å skalere,
+
+[00:17:43] og det er klart,
+
+[00:17:44] jeg ble overrasket da,
+
+[00:17:45] det er utrolig mange direkte variabler,
+
+[00:17:48] inni en produksjon av et sånt batteriselle,
+
+[00:17:53] 4500,
+
+[00:17:55] så da er det ganske mye,
+
+[00:17:55] du må justere på,
+
+[00:17:57] hvis du først må endre på en liten ting.
+
+[00:17:59] Ja, og et stikkord fra alle disse batteriprodusentene,
+
+[00:18:03] som vi også har hørt i Tyskland,
+
+[00:18:04] det er jo automatisering,
+
+[00:18:06] fordi at det er så høyt presisjonsnivå,
+
+[00:18:11] under så høyt tidspress,
+
+[00:18:13] at dette kan ikke menneskelene så gjøre,
+
+[00:18:15] og dette underbygger en annen trend,
+
+[00:18:16] som vi har pratet om mange ganger før,
+
+[00:18:18] som går på automatisering,
+
+[00:18:19] og robotisering av produksjonslinjer,
+
+[00:18:23] og batterier er et veldig godt eksempel,
+
+[00:18:25] for nå er det så avansert,
+
+[00:18:27] samtidig som man skal skalere,
+
+[00:18:29] så er det bare våre menneskehender,
+
+[00:18:31] og våre svetter på fingrene,
+
+[00:18:33] det må holdes langt unna disse prosessene,
+
+[00:18:36] som gjør at vi mennesker,
+
+[00:18:38] vi blir stående utenfor glassburet,
+
+[00:18:40] og kikker på at alt går som det skal.
+
+[00:18:42] Og det gjøres jo også mye nybrottsarbeid,
+
+[00:18:44] i forhold til å bruke data,
+
+[00:18:48] fra batteriene underveis,
+
+[00:18:50] slik at man kan optimalisere de,
+
+[00:18:52] rapportere til myndigheter, et cetera,
+
+[00:18:55] dette er bare nok et eksempel på hvordan
+
+[00:18:58] alt dette med data og industri,
+
+[00:19:00] det smelter sammen,
+
+[00:19:02] det ser vi jo gang på gang nær sagt,
+
+[00:19:04] uansett hvilken fremtidsrettet bransje vi er i.
+
+[00:19:07] Ja, og vi så det ...
+
+[00:19:09] At man forsøker.
+
+[00:19:11] Ja, og dette er ...
+
+[00:19:13] Batterier har vært litt sånn black box,
+
+[00:19:17] batterier er batteri,
+
+[00:19:19] men også der, som på mange andre produkter,
+
+[00:19:22] så skal man nå ha muligheten til å følge produkten,
+
+[00:19:25] tilbake, vite når det ble produsert,
+
+[00:19:27] hvilke type underleverandører som var involvert i det,
+
+[00:19:29] hvilke type materiale det var,
+
+[00:19:31] hvordan det ble oppbevart, og så videre.
+
+[00:19:33] Og det ser jeg at den ...
+
+[00:19:34] Alle disse prosessene nå blir datafisert.
+
+[00:19:37] Og igjen, da trenger man mye skipper, og så videre.
+
+[00:19:41] Så mange av lytterne våre vet jeg den,
+
+[00:19:44] har du fem kategorier du investerer etter,
+
+[00:19:46] og Evtol går definitivt inn under kategorien som heter
+
+[00:19:50] urban mobilitet.
+
+[00:19:52] Men er du sikker på at det er avkastning å hente her,
+
+[00:19:54] på å være tidlig ute?
+
+[00:19:56] Nå er vi ikke så veldig tungt investert akkurat nå.
+
+[00:20:00] Og så ser jeg at om noen år,
+
+[00:20:03] type 12-18 måneder,
+
+[00:20:05] så kan det godt tenkes at dette er en stor andel av fondet.
+
+[00:20:08] Men vi må litt nærmere,
+
+[00:20:10] og se at de får disse myndighetsgodkjennelsene.
+
+[00:20:14] Markedet tror jeg er der,
+
+[00:20:16] det har jeg veldig stor tro på.
+
+[00:20:18] Men vi må gjennom denne her
+
+[00:20:20] regulatoriske fasen.
+
+[00:20:22] Ikke sant?
+
+[00:20:23] Vi har pratet tidligere om at det jeg sier skaper
+
+[00:20:26] distruktive forretningsmodeller,
+
+[00:20:28] det er tre krefter.
+
+[00:20:29] Det er teknologi,
+
+[00:20:30] reguleringer,
+
+[00:20:31] og endring for brukeravferd.
+
+[00:20:33] Teknologien kommer,
+
+[00:20:35] forbrukeravferden er der,
+
+[00:20:37] og nå står vi med den ene delen av den
+
+[00:20:40] distruktive jerntrengelen som er reguleringer,
+
+[00:20:42] som er den store hørdelen.
+
+[00:20:44] Så dette er jo definitivt høy risiko aksjer forløpig.
+
+[00:20:50] Du har noen lytteposter,
+
+[00:20:53] og så er du klar til å gå inn
+
+[00:20:56] hvis du ser at dette her kommer for fullt.
+
+[00:20:59] Ja, i det øyeblikket, de tingene skjer,
+
+[00:21:01] så har jeg gjort hjemmeleksene mine,
+
+[00:21:03] jeg vet hvilke type selskaper jeg skal ha,
+
+[00:21:05] og cirka hvor mye.
+
+[00:21:07] Tid og finansiering, det er liksom
+
+[00:21:09] de to store jokerne for investorene,
+
+[00:21:12] men det er du forberedt på.
+
+[00:21:13] Ja, og så dette her,
+
+[00:21:15] jeg synes er utrolig fascinerende
+
+[00:21:17] å få lov til å følge så tett.
+
+[00:21:21] Det er masse å lære,
+
+[00:21:23] og jeg tror at om noen år,
+
+[00:21:25] når vi kikker opp i lufta,
+
+[00:21:27] så er det flere av oss som kommer til å tenke at
+
+[00:21:29] her er de nye kongeveiene våre,
+
+[00:21:31] hva er det vi holder på med når vi liksom
+
+[00:21:33] lagde svære hull i fjellene,
+
+[00:21:35] og lagde ti felles motorveier.
+
+[00:21:37] Fordi dette her, over tid,
+
+[00:21:39] kan bli et stort volumarked.
+
+[00:21:41] Og vi vet jo enda ikke hvem som blir vinnerne her da,
+
+[00:21:45] om det er de europeiske, kinesiske
+
+[00:21:47] eller amerikanske selskapene.
+
+[00:21:49] Nei, altså.
+
+[00:21:50] Og så har vi en sørkoreansk joker,
+
+[00:21:52] så det er,
+
+[00:21:54] igjen, det er spennende.
+
+[00:21:56] Masse flinke folk, masse kapital,
+
+[00:21:58] som jakter etter en forretningsmodell,
+
+[00:22:00] som kan være med å endre verden.
+
+[00:22:02] Og et argument jeg plukte opp som
+
+[00:22:04] tyskerne vi besøkte brukte,
+
+[00:22:06] det var blant annet at når
+
+[00:22:08] gigantiske leverandører da,
+
+[00:22:10] som de har knyttet til seg,
+
+[00:22:12] som Honnevel, vil samarbeide med dem,
+
+[00:22:14] så er det på en måte et bevis på at
+
+[00:22:16] fra leverandørsiden
+
+[00:22:18] ser de også at Evtoul har
+
+[00:22:20] fremtiden foran seg da.
+
+[00:22:22] De vil ikke bruke tid og ressurser
+
+[00:22:24] å krefte på det, hvis ikke.
+
+[00:22:26] Nei, og det er jo deler av den tradisjonelle
+
+[00:22:28] flyindustrien, iallfall de som sitter med veldig
+
+[00:22:30] lange briller, som lurer på
+
+[00:22:32] hvordan ser vi egentlig ut
+
+[00:22:34] i år 2035?
+
+[00:22:36] Og hvis man lykkes med å skalere
+
+[00:22:38] for eksempel denne modellen
+
+[00:22:40] som Lilium har, som er mer
+
+[00:22:42] jet enn
+
+[00:22:44] elbilmotor, for å si det sånn,
+
+[00:22:46] som har en mye kraftigere design,
+
+[00:22:48] så er det viktig å se at de kan bygge seg oppover
+
+[00:22:50] og helt enkelt få større og større rekkevidde.
+
+[00:22:52] Og det er en ganske stor
+
+[00:22:54] prosentandel av flyene
+
+[00:22:56] i dag, som er på sånn
+
+[00:22:58] 200-250 kilometer lengde.
+
+[00:23:00] Så flyselskapene,
+
+[00:23:02] de må følge med.
+
+[00:23:04] Men for å oppsummere da,
+
+[00:23:06] Audun, altså jeg synes dette har vært utrolig
+
+[00:23:08] fascinerende og gøy å få
+
+[00:23:10] et innblikk i
+
+[00:23:12] er Evtoul en del av fremtiden,
+
+[00:23:14] og hvor attraktivt kan det bli
+
+[00:23:16] å investere i? Dette kan bli kjempebra.
+
+[00:23:18] Også skal vi holde igjen
+
+[00:23:20] hestene litt nå, de neste
+
+[00:23:22] 12-18 månedene, og så skal vi
+
+[00:23:24] ta en fot i bakken. Det vil jeg gjerne gjøre
+
+[00:23:26] med deg og lytterne dine,
+
+[00:23:28] Marius. Så skal
+
+[00:23:30] jeg fortsette å gjøre gjemleksene mine og følge
+
+[00:23:32] med, og så skal jeg
+
+[00:23:34] holde disse litt mindre posisjonene,
+
+[00:23:36] og så får vi se om vi ordentlig
+
+[00:23:38] gønner på på et eller annet tidspunkt her.
+
+[00:23:46] Ja, kjære lyttere, det dere hører
+
+[00:23:48] fra nå og ut episoden,
+
+[00:23:50] det er spilt inn i slutten av
+
+[00:23:52] juni og er ment som en liten oppdatering
+
+[00:23:54] på hva som har skjedd siden vi spilte inn
+
+[00:23:56] det dere allerede har hørt.
+
+[00:23:58] Det gjorde vi jo tidligere i
+
+[00:24:00] mars i år.
+
+[00:24:02] Jeg sitter her med Audun Vikstrand Iversen
+
+[00:24:04] selvfølgelig, og jeg må si Audun at
+
+[00:24:06] turen vår til Tyskland og
+
+[00:24:08] eutolindustrien
+
+[00:24:10] selv nå, som vi har fått det noen måneder
+
+[00:24:12] på avstand, det sitter i
+
+[00:24:14] som et skikkelig
+
+[00:24:16] gøy og lærerik opplevelse
+
+[00:24:18] som jeg håper vi fikk formidlet
+
+[00:24:20] til kundene og lytterne våre.
+
+[00:24:22] Så er spørsmålet da,
+
+[00:24:24] hva har skjedd med eutolindustrien
+
+[00:24:26] siden mars? Audun,
+
+[00:24:28] har det blitt nådd noen nye milepæler?
+
+[00:24:30] Det er ingenting som står stille i
+
+[00:24:32] eutolindustrien, så siden vi har
+
+[00:24:34] vært der, så tenkte jeg kunne
+
+[00:24:36] si litt om industrien,
+
+[00:24:38] litt om selskapene, og litt om disse
+
+[00:24:40] aksjene som vi har pratet om.
+
+[00:24:42] Og på industrien så har det vært sånn at
+
+[00:24:44] disse amerikanske myndighetene
+
+[00:24:46] de har kommet med en del sånne
+
+[00:24:48] regulatoriske rammevilkår
+
+[00:24:50] som begynner å se veldig positivt ut
+
+[00:24:52] fordi de har klargjort en del sånne ting som
+
+[00:24:54] har hengt litt i lufta, blant annet
+
+[00:24:56] med dette med å trene opp piloter,
+
+[00:24:58] dette med å lage dronekorridorene,
+
+[00:25:00] dette med å lage reglene for
+
+[00:25:02] hvordan disse landingsplassene
+
+[00:25:04] kommer til å være. Så alt det der
+
+[00:25:06] er i bevegelse, og det er utrolig
+
+[00:25:08] viktig for å skape den
+
+[00:25:10] troverdigheten rundt dette økosystemet
+
+[00:25:12] som må på plass. For det er i stort sett
+
+[00:25:14] ikke bare disse helikopterne som skal
+
+[00:25:16] fly deg og meg, det er jo alt
+
+[00:25:18] rundt også. Og det ser vi nå
+
+[00:25:20] at der har man begynt
+
+[00:25:22] å ta veldig mange viktige
+
+[00:25:24] avklaringer, så det har vært veldig viktig.
+
+[00:25:26] Også i den samme strengen så er det
+
+[00:25:28] noen i industrien som er litt kritiske
+
+[00:25:30] for hvor sent det går i Europa.
+
+[00:25:32] Ikke sant, så det skjer
+
+[00:25:34] ting i USA, mens
+
+[00:25:36] i Europa så trenger man litt mer tid
+
+[00:25:38] på å tenke seg om, og det er
+
+[00:25:40] jo ikke noe nytt, det har vi jo
+
+[00:25:42] mange eksempler på. Ja, og så
+
+[00:25:44] er det da, som sagt, disse signalene fra
+
+[00:25:46] amerikanske myndigheter at dette skal vi gjøre,
+
+[00:25:48] det har vi også
+
+[00:25:50] gjenspeilt seg litt på når vi kommer ned på
+
+[00:25:52] selskapsnivå. Fordi der
+
+[00:25:54] er Joby som er den største, og det er
+
+[00:25:56] de som har milliard dollar i cash,
+
+[00:25:58] og de har holdt på lengst og har kanskje det mest
+
+[00:26:00] krevende designet, men igjen da
+
+[00:26:02] et design som kanskje er
+
+[00:26:04] enda mer skalerbart, og kanskje
+
+[00:26:06] mer lønnsomt hvis de får det til. De har fått
+
+[00:26:08] en veldig stor kontrakt med
+
+[00:26:10] levering av disse helikopterne til
+
+[00:26:12] beredskapsindustrien
+
+[00:26:14] og
+
+[00:26:16] forsvarsindustrien i USA, for bruk
+
+[00:26:18] av disse helikopterne
+
+[00:26:20] når det gjelder å redde
+
+[00:26:22] mennesker. Og den skal leveres allerede
+
+[00:26:24] første halvåret neste år.
+
+[00:26:26] Og Joby, de har da
+
+[00:26:28] en sånn, den designen deres er vertikalt
+
+[00:26:30] integrert, så det vil si at de lagrer
+
+[00:26:32] ned disse delene selv. Og det
+
+[00:26:34] har de nå begynt da å masseprodusere
+
+[00:26:36] i sin fabrikk
+
+[00:26:38] i Kalifornien. Og
+
+[00:26:40] Age Aviation, de har
+
+[00:26:42] valgt en sånn litt annen design, så de samarbeider
+
+[00:26:44] med flyindustrien og bilindustrien
+
+[00:26:46] og der har de et samarbeid med
+
+[00:26:48] Stellantis, som er egentlig
+
+[00:26:50] først og fremst en bilprodusent,
+
+[00:26:52] for å bruke deres produksjonslokaler.
+
+[00:26:54] Så de avtalene har også kommet på plass
+
+[00:26:56] siden vi pratet sammen sist.
+
+[00:26:58] Også har du da Lilium. Og det viktigste som har skjedd
+
+[00:27:00] der, det er at de har vært ute og hentet penger.
+
+[00:27:02] De fikk inn
+
+[00:27:04] 250 millioner,
+
+[00:27:06] som gjør at de på samme måte som
+
+[00:27:08] de to andre, Joby og Ager,
+
+[00:27:10] har nå finansiering frem til
+
+[00:27:12] den kommersielle fasen.
+
+[00:27:14] Kanskje trenger Lilium litt mer penger,
+
+[00:27:16] men nå har de iallfall
+
+[00:27:18] fjernet et sånt overheng
+
+[00:27:20] som vi diskuterte. Ja.
+
+[00:27:22] Og aksjemarkedet da, hvordan har det reagert
+
+[00:27:24] siden mars?
+
+[00:27:26] Snakker vi vertical take-off,
+
+[00:27:28] eller hard landing?
+
+[00:27:30] Nei, dette er jo en sånn
+
+[00:27:32] sektor som svinger litt,
+
+[00:27:34] men det har vært en veldig hyggelig utvikling.
+
+[00:27:36] Jeg tror når vi pratet sammen, så var vel cirka dette
+
+[00:27:38] 2% av fondet.
+
+[00:27:40] Litt sånn forsiktig bett.
+
+[00:27:42] Og uten at de har kjøpt så veldig mye mer,
+
+[00:27:44] så utgjør dette nå drøye 4% av fondet.
+
+[00:27:46] Og det er fordi Age of Aging
+
+[00:27:48] har gått fra sånn
+
+[00:27:50] 1,80 dollar til
+
+[00:27:52] 4,60.
+
+[00:27:54] Og Joby har gått fra 4 til
+
+[00:27:56] nesten 8. Og Lilium, som har
+
+[00:27:58] hentet penger, den
+
+[00:28:00] har ikke gjort så mye, men det er ikke noe sånn stort bett.
+
+[00:28:02] Men den gikk jo
+
+[00:28:04] fra vi gjør der, så falt den ned til
+
+[00:28:06] 40 cent fra 1,10.
+
+[00:28:08] Og så har den nå gått opp igjen
+
+[00:28:10] til 1,30-1,40.
+
+[00:28:12] Så dette er bare et uttrykk
+
+[00:28:14] på at markedet nå
+
+[00:28:16] tar en del av disse signalene på at
+
+[00:28:18] det virker som at man skal være i stand til å
+
+[00:28:20] gjøre dette kommersielt i 2025.
+
+[00:28:22] Og markedet
+
+[00:28:24] har blitt litt bedre, litt mer risk-on.
+
+[00:28:26] Og da har disse selskapene
+
+[00:28:28] rett og slett falt for mye.
+
+[00:28:30] Og så har det kommet litt flere
+
+[00:28:32] analysedekninger på selskapene.
+
+[00:28:34] Så det er rett og slett mer, man begynner å tro på det
+
+[00:28:36] og man ser økosystemet som utvikler seg.
+
+[00:28:38] Så det er positivt. Det blir kjempespennende
+
+[00:28:40] å følge med til høsten.
+
+[00:28:42] Så i sum, så er det fortsatt mange gode grunner
+
+[00:28:44] til å følge med på dette her
+
+[00:28:46] videre. Det kommer i hvert fall
+
+[00:28:48] du å få med litt til å gjøre.
+
+[00:28:50] Ja, her skal vi følge med på.
+
+[00:28:52] For dette kan være kjempespennende.
+
+[00:28:54] Da har vi fått gitt dere lyttere
+
+[00:28:56] en liten
+
+[00:28:58] oppdatering, så da gjenstår det bare
+
+[00:29:00] å si fortsatt god sommer
+
+[00:29:02] alle sammen, og takk for at
+
+[00:29:04] du hører på Utbytte.
+
+[00:29:20] Denne sendingen ble publisert i podcasten Utbytte.
+
+[00:29:22] Innholdet i sendingen er å anses som
+
+[00:29:24] markedsføringsmateriale fra DNB og er ment
+
+[00:29:26] å være generell spareveiledning.
+
+[00:29:28] Sendingen skal ikke oppfattes som et tilbud om å kjøpe
+
+[00:29:30] eller selge finansielle instrumenter,

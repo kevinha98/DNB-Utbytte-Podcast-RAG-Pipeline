@@ -1,0 +1,45 @@
+name: Protect Precious Data
+
+on:
+  pull_request:
+  push:
+
+jobs:
+  block-destructive-path-changes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Detect destructive changes in protected paths
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          if [[ "${{ github.event_name }}" == "pull_request" ]]; then
+            base="${{ github.event.pull_request.base.sha }}"
+            head="${{ github.event.pull_request.head.sha }}"
+          else
+            base="${{ github.event.before }}"
+            head="${{ github.sha }}"
+          fi
+
+          # First push to a new branch can have all-zero base.
+          if [[ "$base" == "0000000000000000000000000000000000000000" ]]; then
+            base=$(git rev-list --max-parents=0 "$head" | tail -n1)
+          fi
+
+          changes=$(git diff --name-status -M "$base" "$head" -- backend/storage backend/venv312 || true)
+
+          blocked=$(echo "$changes" | awk -F '\t' '
+            /^D/ { print "DELETE: " $2 }
+            /^R/ { print "RENAME: " $2 " -> " $3 }
+          ')
+
+          if [[ -n "$blocked" ]]; then
+            echo "Destructive changes to protected paths are not allowed:"
+            echo "$blocked"
+            exit 1
+          fi

@@ -1,0 +1,1651 @@
+Episode 309: Kaoset i Storbritannia - har det noe å si for oss?
+Publisert: Wed, 26 Oc
+Vert: Marius Brun Haugen
+Varighet: 44 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/kaoset-i-storbritannia-har-det-noe-a-si-for-oss
+
+--- Transkripsjon ---
+
+[00:00:00] Velkommen til Utbytte, den B-podkasten der vi forklarer hva som skjer i den globale økonomien og finansmarkedene.
+
+[00:00:08] Jeg er Marius Brunhaugen, men i denne episoden skal du ikke få høre mer fra meg.
+
+[00:00:13] Deremot skal du få høre fra kreditstrategen vår, Ole Kjennerud, og rente- og valutaanalytiker Ingvild Borgen.
+
+[00:00:20] De holdt nylig et webinar om kaoset i Storbritannia, der de først og fremst bruker tiden på sårbarhetene.
+
+[00:00:27] Dette synliggjør også for resten av Europa, og ikke minst knyttet til omstillingen fra et laverente til et høyrenteregime.
+
+[00:00:36] Og jeg synes alt i alt at Ole og Ingvild hadde en veldig interessant diskusjon om hvilke lærdommer vi kan trekke ut fra det som skjer i Storbritannia nå.
+
+[00:00:46] Og du får også høre mer om usikkerheten knyttet til utsiktene for global vekst, inflasjon og renter.
+
+[00:00:54] Og med det så gjenstår det bare å si god lytt, og takk!
+
+[00:00:57] Takk for at du hører på Utbytte.
+
+[00:01:00] Kaos i rentemarkedene i Storbritannia, kaos for pensjonskassen i Storbritannia, og for øvrig en ganske stor usikkerhet i globale markeder om hvor verden er på vei, hvordan det skal gå med inflasjonen.
+
+[00:01:20] Og det er temaene for i dag, Ingvild.
+
+[00:01:22] Ja, store temaer. Vi tar jo litt utgangspunkt i at dere som hører på har lest litt om det som har skjedd i Storbritannia de siste ukene selv.
+
+[00:01:30] Men vi må ta en liten gjennomgang av hovedpunktene.
+
+[00:01:35] Så det som skjedde var at den nye regjeringen, eller trust-regjeringen, la jo frem et såkalt minibudsjett, eller de kalte det et minibudsjett, få dager etter at de kom i regjering.
+
+[00:01:46] Og det budsjettet innebar blant annet ganske omfattende støtteordninger for bedrifter og husholdninger som følger av de høye strømprisene,
+
+[00:01:53] og store og permanente skattekutt til de rikeste og til bedrifter.
+
+[00:01:59] Ja.
+
+[00:02:00] Og slå altså å kutte, eller altså kutte inntektsiden, øke kostnadene, og det hele skulle gjeldsfinansieres.
+
+[00:02:09] Og det ble jo umiddelbart et spørsmål om, ja, men hvordan er dette bra da? Skal ikke dette her, blir det ikke veldig mye mer gjeld på grunn av dette her?
+
+[00:02:18] Og så sa de sånn, ja, men vi skal få opp veksten, og så kanskje vi kommer med en plan senere om hvordan vi potensielt skal finansiere disse tingene.
+
+[00:02:26] Men det skulle ikke komme før i november.
+
+[00:02:30] Og økonomer er jo strengt tatt ikke enige i at å kutte skattene på den måten er noe som er så vekstrømmende.
+
+[00:02:37] Vi husker de gigantiske skattekuttene til Trump i 2018.
+
+[00:02:40] Ja.
+
+[00:02:41] Null effekt på veksten. Så vi vet vel kanskje det at det er ikke alltid det funker i form av vekst, høyere vekst.
+
+[00:02:49] Og så er det jo noe med bakteppet til denne budsjettfremleggelsen, som er at Storbritannia, som de fleste vestlige økonomier, har hatt en kraftig oppgang i inflasjonen,
+
+[00:02:58] den høyeste inflasjonsraten på 40 år.
+
+[00:02:59] Og at Bank of England, sentralbanken, var på god vei til å heve rentene for å få inflasjonen ned, altså prøve å dempe etterspørselen i økonomien.
+
+[00:03:07] Så det er jo særlig to ting som er spesielt med det budsjettet.
+
+[00:03:09] Det er både det at de foreslår et budsjett, et veldig ekspansivt budsjett, og så bidra til å øke etterspørselen i en økonomi,
+
+[00:03:18] der høy etterspørsel er nettopp et problem som sentralbanken prøver å håndtere.
+
+[00:03:23] Og så var det jo også det uansvarlige i det, det å på en måte ta for gitt.
+
+[00:03:29] Dette her, det må jo investorene gidde å hjelpe oss med.
+
+[00:03:33] Dette må dere jo kunne finansiere for oss.
+
+[00:03:34] Og det var jo svaret fra...
+
+[00:03:36] Og vi ser jo av markedsgravene her, hvis vi ser på rentene, at det ble en ganske kraftig respons, umiddelbart.
+
+[00:03:43] Så det ballet på seg etter hvert da.
+
+[00:03:45] Det ballet på seg, altså investorene svarte med, og man kan vel si det,
+
+[00:03:48] dumpe brittiske statsobligasjoner, selge hvertfall i stort månn.
+
+[00:03:52] Noe som gjorde at rentene steg, særlig rentene på statsobligasjoner med litt lengre løpetid.
+
+[00:03:59] Og en oppgang i både 10- og 30-årsrentene på omtrent 1 prosentpoeng i løpet av få dager.
+
+[00:04:04] Så helt ekstremt store bevegelser.
+
+[00:04:06] Så veldig tydelig beskjed fra investorene, dette likte de ikke.
+
+[00:04:09] Men så var det jo en liten twist på det hele, i form av at den brittiske pensjonsfondindustrien bidro til å forsterke bevegelsene.
+
+[00:04:16] Kan du si, er det mulig å ha en sånn enkel, kjapp forklaring av hvordan de gjorde det?
+
+[00:04:21] Jeg tror det er umulig, men bakteppet her er jo lavere renter, som har vært en langvarig brydde for pensjonskassene.
+
+[00:04:29] Det er internasjonalt egentlig, men vi så jo mye problemer knyttet til at rentene plutselig steg nå.
+
+[00:04:33] I form av at pensjonskassene gjennom lang tid har posisjonert seg for, sikret seg mot videre rentefall.
+
+[00:04:41] Brukt sopper for å redusere ulempen, kostnaden av at rentene skulle falle videre.
+
+[00:04:48] Men når da rentene plutselig steg massivt, så måtte de stille sikkerhet mot disse soppene.
+
+[00:04:55] Så da fikk de marginkrav.
+
+[00:04:57] Og dette er jo noe vi har opplevd.
+
+[00:04:59] I de siste årene, mars 2020, ekstremt for hele fondsindustrien, pensjonskasser da også,
+
+[00:05:06] så måtte de stille sikkerhet for valutarelaterte hedger.
+
+[00:05:10] Men nå kom det da i form av disse rentesoppene.
+
+[00:05:13] Så man måtte stille kontanter, og det er kanskje det som vi er mest overrasket over her.
+
+[00:05:17] Hvorfor var det dette kravet om kontanter, når vi i Norge har klart å endre det litt,
+
+[00:05:24] disse avtalene som gjør at man kan stille obligasjonene som sikkerhet?
+
+[00:05:27] Det var tydeligvis ikke en mulighet for.
+
+[00:05:29] Det var en mulighet for de britiske pensjonskassene på den samme måten.
+
+[00:05:32] Og derfor måtte de hele selge?
+
+[00:05:33] De måtte selge.
+
+[00:05:34] Og du fikk denne initielle renteoppgangen, som var supernegativ for dem,
+
+[00:05:39] men da måtte de stille mer kontanter i sikkerhet mot hedgerne sine.
+
+[00:05:43] Og det kunne de kunne gjøre ved å selge unna statsobligasjoner,
+
+[00:05:46] men da steg rentene enda mer.
+
+[00:05:47] Og så da måtte de stille enda mer kontanter som sikkerhet.
+
+[00:05:50] Man kom inn i det man kaller dødsspiral, rett og slett.
+
+[00:05:54] Ja, og det var jo som noen omtatte dette som at dette var nesten et Lehman moment,
+
+[00:05:59] for det britiske pensjonssystemet.
+
+[00:06:01] Rokken, så vennskrise, for når rentene stiger på denne måten her,
+
+[00:06:04] så er det egentlig superbra, for nå var det en alt av forpliktelser de sitter med.
+
+[00:06:08] Men det var en likviditetskrise ut av proporsjoner.
+
+[00:06:13] Og markedet for britiske statsobligasjoner ble jo da,
+
+[00:06:17] altså det var jo så ekstreme tilstander der,
+
+[00:06:19] at det ble i Bank of Englands egen ord dysfunksjonelt.
+
+[00:06:22] Og når markedet for statsobligasjoner,
+
+[00:06:25] på samme måte som markedet for valuta, blir dysfunksjonelt,
+
+[00:06:27] så er jo det noe som setter hele landets økonomi i fare.
+
+[00:06:32] Og der du nevner jo lignende episoder med dødsspiraler,
+
+[00:06:36] og det at fonden får morginkrav og så videre.
+
+[00:06:40] Vi har jo hatt to nylige tilfeller av det,
+
+[00:06:42] både i Norge i mars 2020, og i USA i mars 2020.
+
+[00:06:47] Og begge de tilfellene hvor vi fikk brannsalg av amerikanske statsobligasjoner,
+
+[00:06:51] og vi fikk en kraftig svekkelse av den norske krona,
+
+[00:06:54] begge de tilfellene endte jo med at sentralbanken måtte intervenere,
+
+[00:06:57] i markedet.
+
+[00:06:59] Og det var jo også det som skjedde nå i Storbritannia,
+
+[00:07:01] at Bank of England måtte annonsere et par dager etter at regjeringen la frem budsjettet,
+
+[00:07:06] nå må vi igjen gjøre kvantitative lettelser.
+
+[00:07:08] Ja, som er et paradoks, fordi de har egentlig vetat at de skal gjøre det motsatte.
+
+[00:07:13] De skal redusere beholdningen sin.
+
+[00:07:14] Så de skal ha rentene opp, og redusere beholdningen.
+
+[00:07:16] Men nå var det altså 13 dager, skal vi kjøpe GILTS,
+
+[00:07:21] brittiske statsobligasjoner, for et ganske stort volume.
+
+[00:07:24] Og det er når man fikk den nyheten,
+
+[00:07:26] så fikk man jo litt inntrykk av at nå er ting virkelig,
+
+[00:07:29] nå går verden av hengslene.
+
+[00:07:30] Det at en så stor sentralbank begynner å gjøre QE igjen,
+
+[00:07:34] når de prøver å få ned inflasjonen og sette opp rentene.
+
+[00:07:38] Og QE er jo på en måte et av de mest,
+
+[00:07:40] ja, mer jeg skal ikke kalle det desperat virkemiddel,
+
+[00:07:43] men det er jo et virkemiddel man har brukt for å virkelig desperat prøve å få opp,
+
+[00:07:48] stimulere økonomien da, når det å kutte rentene ikke har vært nok i seg selv.
+
+[00:07:51] Så det å komme med det nå virket helt absurd.
+
+[00:07:53] Men igjen, det var jo noe de ble tvunget til å gjøre,
+
+[00:07:56] på grunn av denne dysfunksjonaliteten i markedet for statsopplikasjoner.
+
+[00:07:59] Nettopp, og det er en viktig distinsjon her da.
+
+[00:08:01] De ble ikke tvunget til å gjøre det fordi de var redde for at veksten og inflasjonen skulle bli for lav,
+
+[00:08:06] som har vært hensynet som Fed og ECB har lenet seg mot hele veien tidligere.
+
+[00:08:11] Nå var det rett og slett bare likviditeten i markedet.
+
+[00:08:14] De måtte stabilisere markedet.
+
+[00:08:16] Og jeg vil jo si tiltaket de kom med,
+
+[00:08:19] tok en helt annen form også enn det vi har sett fra sentralbanken opp gjennom de siste 10-15 årene.
+
+[00:08:24] Ja, og den motsatt.
+
+[00:08:26] Statsviljen som Bank of England hadde mot å faktisk lansere QE på nytten av,
+
+[00:08:30] den har jo kommet veldig stert frem i løpet av de siste dagene bare.
+
+[00:08:34] Fordi ja, når de først har konstatert det, så bidro det jo til å stabilisere markedet noe.
+
+[00:08:38] Punnet var fortsatt veldig svagt, rentene fortsatt veldig høye, så det var på en måte ikke nok.
+
+[00:08:43] Og så kom det jo i starten av forrige uke at Bank of England-sjef Bailey sa,
+
+[00:08:47] vi skal slutte å støtte markedet som planlagt nå på fredag.
+
+[00:08:51] Det er det som har vært planen hele tiden, og den planen holder vi oss til.
+
+[00:08:53] Så dere har tre dager på dere.
+
+[00:08:56] Da sa han til pensjonsmannen til å fikse ting.
+
+[00:08:58] Og det ble jo, det var litt sånn hard melding å få, var det mange som mente.
+
+[00:09:03] Det er litt vel, og det var mange som mente at Bailey gamblet litt når han kom med en sånn hard beskjed.
+
+[00:09:09] Satte sin egen kredibilitet i fare.
+
+[00:09:12] Og så fikk vi jo også motsettende beskjed i Financial Times som kunne melde om andre i Bank of England
+
+[00:09:17] som sa nei, nei slapp av, vi skal fortsette.
+
+[00:09:19] Og så kom det en offisiell uttalelse, masse frem og tilbake.
+
+[00:09:22] Men det ble jo klart da at Bank of England sto på sitt, de skulle avslutte.
+
+[00:09:26] Og helt tydelig at de ikke var fornøyde med den rollen de ble tvunget til å ta da.
+
+[00:09:30] Med å på en måte støtte opp markedet når politikerne handlet så uansvarlig som de gjorde.
+
+[00:09:35] For den underliggende konflikten der er det nettopp at det er uforenelig å holde på med QE
+
+[00:09:40] samtidig som du skal gjøre alt mulig annet for å få ned inflasjonen.
+
+[00:09:45] De to funker ikke sammen.
+
+[00:09:48] Og det er jo også det som markedet sa.
+
+[00:09:50] Det funker ikke at sentralbanken holder på å skulle få ned inflasjonen når vi har politikere som da bidrar til å få inflasjonen opp.
+
+[00:09:55] Og resultatet av det hele, eller vi har jo i hvert fall kommet et skritt videre nå,
+
+[00:10:00] kom nyheter i går om at den nye finansministeren Hunt mer eller mindre reverserer nesten alt i dette minibudsjettet.
+
+[00:10:08] Det blir ikke skattekutt, det blir skattehevinger faktisk som var planlagt initielt.
+
+[00:10:14] Og denne støtteordningen blir betydelig mindre omfattende.
+
+[00:10:17] Mye mindre ekspansiv tiltak da.
+
+[00:10:20] Så markedet har virkelig disiplinert politikerne her?
+
+[00:10:22] Ja, jeg synes jo dette er...
+
+[00:10:25] En fantastisk sånn illustrasjon da, på hvordan markedene kan ha den rollen.
+
+[00:10:30] At politikere kommer med noe som er direkte uansvarlig.
+
+[00:10:34] Og da sier markedet bra.
+
+[00:10:36] Nei, det går ikke.
+
+[00:10:37] Og sentralbanken sier også egentlig fra da.
+
+[00:10:40] Det var jo det Bailey gjorde.
+
+[00:10:41] Dette gidder ikke vi være med på støtte.
+
+[00:10:42] Men det leder jo til et spørsmål om litt av implikasjonene her, og hvilke lærdom vi kan trekke på generell basis.
+
+[00:10:49] Er det sånn at dette innebærer at potensialet for en finanspolitisk dimensjon,
+
+[00:10:55] mulans, i andre land også, er redusert?
+
+[00:10:59] For det er jo veldig interessant.
+
+[00:11:01] For vi har jo snakket om etter finanskrisen.
+
+[00:11:05] Da var det jo pengepolitikken som måtte trå til å senke rentene,
+
+[00:11:09] begynne med disse kvantitetsrettelsene.
+
+[00:11:10] Det var pengepolitikken som fikk ansvaret for å få økonomien på fot igjen.
+
+[00:11:14] Og finanspolitikken var jo da veldig innstrammende, både i USA og Europa.
+
+[00:11:18] Og det bidro jo til at den vekstgjeninnhentingen etter finanskrisen ble litt treg.
+
+[00:11:25] Og så har man tenkt nå da, at nå har det blitt snudd på hodet.
+
+[00:11:31] Nå er det høy inflasjon. Nå må pengepolitikken være innstrammende.
+
+[00:11:34] Men da kan finanspolitikken...
+
+[00:11:36] Og så har vi jo fått masse støttepakker, og vi har jo fått mye ekspansivt.
+
+[00:11:41] Det er jo ikke Storbritannia. Jeg er jo ikke først ute akkurat med dette her.
+
+[00:11:43] Så da har man tenkt, ja, men da kan politikerne bidra til at ting ikke blir så ille.
+
+[00:11:47] Og da er jo det som har skjedd i Storbritannia nå interessant,
+
+[00:11:51] i form av at markedet sier, nei, det kan det ikke.
+
+[00:11:53] Ja.
+
+[00:11:54] Men en distinsjon her er vel kanskje at mange av de støttepakkene som man har utformet inntil nylig,
+
+[00:12:02] for Europa generelt, er at man har prøvd å dempe fallet.
+
+[00:12:06] Man har sett at her har energiprisene steget så mye at du kommer til å kvele etterspørselen,
+
+[00:12:14] selvfølgelig spesielt i Europa.
+
+[00:12:16] Og så prøver man å dempe det fallet litt grann.
+
+[00:12:18] Man skal fortsatt ha et fall, men tiltakene har dempet fallet.
+
+[00:12:22] Så kommer da britene på med et nytt forslag om at vi skal ikke bare dempe det fallet,
+
+[00:12:26] vi skal akselerere.
+
+[00:12:28] Vi skal booste etterspørselen, for vi liker jo ikke det.
+
+[00:12:30] Vi vil jo ikke at folk skal ha det ille.
+
+[00:12:32] Så vi vil heller at folk skal ha det bra.
+
+[00:12:34] Det er gode intensjoner, men kanskje ikke helt det man trenger når inflasjonen er så høy.
+
+[00:12:37] Så det er litt av distinsjonen, eller forskjellen da, mellom mye av det som har blitt gjort på fastlands-
+
+[00:12:43] eller kontinentale Europa, og verst og fremst der britene kommer.
+
+[00:12:45] Skattekuttene da, permanente skattekuttene.
+
+[00:12:47] Ja, ikke sant? Permanente skattekuttene.
+
+[00:12:48] Ja.
+
+[00:12:50] Altså DNB sitt makro-team har jo et syn om at Europa, eurozonen, skal inn i en ganske kraftig resesjon nå.
+
+[00:12:57] Men så har vi et mer positivt syn på eurozonen et år frem i tid.
+
+[00:13:01] Vi tror at eurozonen skal komme seg ut av resesjonen.
+
+[00:13:04] Og en viktig grunn til det er at vi tror på nettopp finanspolitisk stimulanse da.
+
+[00:13:10] Og at europeiske politikere skal investere i blant annet grønn omstilling, forsvarsoppbygging.
+
+[00:13:15] Våpen og grønne ting.
+
+[00:13:16] Ja.
+
+[00:13:17] De tingene vi virkelig liker den hele dagen.
+
+[00:13:18] De vi trenger da.
+
+[00:13:19] Det er Europa.
+
+[00:13:20] Det er det Europa virkelig trenger.
+
+[00:13:21] Og særlig Tyskland trenger nå om dagen.
+
+[00:13:23] Så det er jo ikke, jeg mener det er ikke en fjernantakelse.
+
+[00:13:26] Men det å ha et positivt syn på eurozonen, det er jo aldri, det er aldri kontroversielt.
+
+[00:13:32] Du blant annet synes jo det.
+
+[00:13:34] Og kom jo med en gang etter, eller ikke kort tid etter markedsturbulansen i Storbritannia.
+
+[00:13:40] Så kom du bort og gned deg i hendene og sa nå, nå må dere reversere i det synet deres på eurozonen.
+
+[00:13:47] For nå har dere fått bevist at det der kan ikke eurozonen.
+
+[00:13:49] Det der kan ikke Europa gjøre.
+
+[00:13:50] Og det mener jeg jo fortsatt at potensialet for en sånn finanspolitisk drevet oppgangskonjunktur for eurozonen virker jo veldig usannsynlig da.
+
+[00:14:02] Og enda mer usannsynlig nå som vi fikk den type respons i markedene.
+
+[00:14:06] Ja, men da, da må jeg bare få nevne da at Tyskland, Europas største økonomi, i skyggen av Storbritannia, eller egentlig ikke så mye i skyggen, det har vært en hel oppmerksomhet på det også.
+
+[00:14:17] Mm.
+
+[00:14:18] Lanserte jo en giga, en gigantisk støttepakke til tysk industri og tyske husholdninger.
+
+[00:14:24] Vi kaller det energistøttepakke eller noe sånt.
+
+[00:14:27] Som er kjempestor, kjempestor, 200 milliarder euro.
+
+[00:14:31] Så kan man ikke sammenligne det budsjettet i Storbritannia, for det innebar skattekutt, ikke sant, permanente skattekutt.
+
+[00:14:39] Og dette her er mer en støttepakke, men hvis vi skal se på størrelsen på den tyske støttepakken, så utgjør den 5% av tysk BNP.
+
+[00:14:46] Mm.
+
+[00:14:47] Og det er det som de 18. foreslåtte av Tress-regjeringen, utgjorde 1,8% av brittisk BNP per år.
+
+[00:14:52] Så uansett da, dette var svære greier som kom fra Tyskland også.
+
+[00:14:57] Og hvordan reagerte markedet? Kan du si det?
+
+[00:15:00] Et skuldertrekk.
+
+[00:15:02] Tyske statsrenter falt. De falt relativt til amerikanske statsrenter, og de er, har fått blitt lavere da, enn tilsvarende amerikanske statsrenter.
+
+[00:15:11] Så det er jo et tegn på da at når det gjaldt, Tyskland fikk lov da.
+
+[00:15:15] Tyskland fikk lov av markedet å komme med en sånn finanspolitisk boost.
+
+[00:15:20] Og det ble om noe kanskje tatt godt imot.
+
+[00:15:23] Men samtidig da, så det var jo en artikkel jeg sendte til deg som snakket om at dette synes jo Belgia var kjempeurettferdig.
+
+[00:15:30] For de hadde jo ikke den samme muligheten, for de visste at hvis vi kom med den samme pakka dimensjonert for vår økonomi, så kommer vi til å bli straffet av markedet.
+
+[00:15:39] Så da ble det litt sånn, dette kan ikke dere drive med, for da er det en konkurransevridning som ikke er bra for oss.
+
+[00:15:43] Mm.
+
+[00:15:44] En konkurransevridning som ikke er bra for resten av Europa. Så det skaper disse gnissninger.
+
+[00:15:49] Helt klart, men som Tyskland da sier, og som den tyske finansministeren sa da, og som vi også snakket om.
+
+[00:15:55] Tyskland har fått så mye tyn i så mange år på at de ikke bruker nok penger, for at de ikke bidrar nok til å øke etterspørselen i sin økonomi.
+
+[00:16:04] Og de som eurozons desidert største økonomi, det ganger hele eurozonen at Tyskland gjør det.
+
+[00:16:11] Så de sier, nå klager dere selv når vi gjør det.
+
+[00:16:13] Det har dere bedt om i så mange år.
+
+[00:16:14] Det er veldig sant.
+
+[00:16:15] Ja.
+
+[00:16:16] For det var jo det som skjedde, og de likte ikke at de skulle gi gass egentlig.
+
+[00:16:19] Nei.
+
+[00:16:20] At Tyskland skulle klare seg bra. Hvis vi først skal ha det ille, så skal alle ha det ille.
+
+[00:16:24] Ja.
+
+[00:16:25] Det var liksom beskjedet fra Belgia. Men jeg synes jo fortsatt det er relevant da, med tanke på det.
+
+[00:16:29] Igjen da, det handlingsrommet som si, Frankrike, Italia, Spania, Belgia, Nederland og så videre, potensielt vil ha fremover i form av hvor mye de kan støtte økonomiene.
+
+[00:16:40] Hvor mye de kan satse på disse prosjektene.
+
+[00:16:43] I en periode der rentene må være høye for å få ned inflasjonen.
+
+[00:16:48] Det er helt riktig, men igjen det at sørauropæiske land blir straffet av markedet når de fører uansvarlig politikk, det er jo ikke et nytt fenomen.
+
+[00:16:56] Så det er på en måte en virkelighet de allerede er veldig kjent med.
+
+[00:17:00] Men jeg mener bare at forskjellen på markedsreaksjonen på det Storbritannia gjorde og det Tyskland gjorde, viser at det var en grad av uansvarlighet i det Storbritannia gjorde som gjorde at de ble ekstra hardt straffet.
+
+[00:17:12] Som man ikke kan ekstrapolere og si at andre land også vil oppleve i like stor grad.
+
+[00:17:17] Også var det nettopp dette med pensjonskasser som også forsterket rentebevegelsene.
+
+[00:17:22] I hvert fall i giltmarkedet så bidro det til en helt syk volatilitet som man ikke kan bare si at dette kommer til å skje i euromarkedet også.
+
+[00:17:30] Det blir også litt søkt da.
+
+[00:17:32] Men samtidig, du fikk en ganske markante reprising av renteforventningene i Storbritannia.
+
+[00:17:38] Med synet på styringsrenten til Bank of England som løftet seg fra 4,5 til 1,5.
+
+[00:17:43] Bare basert på denne skattepakken.
+
+[00:17:45] Og Bank of England sa jo også at når dere gjør det så må vi bare sette rapporterne enda mer.
+
+[00:17:49] Så det er jo litt den dimensjonen der også vi står overfor her.
+
+[00:17:53] Men vi har jo på en måte skrevet i titlen på dette webinaret, hva betyr det for oss?
+
+[00:18:02] Og det vi snakker om her, at det er bra at markedet kan ha den disiplinerende effekten på politikerne.
+
+[00:18:10] Det er jo en type dynamikk som vi ikke har her i Norge.
+
+[00:18:13] Fordi vi trenger jo ikke markedet, vi er ikke avhengig av investerernes velvilje.
+
+[00:18:17] Hvis vi har lyst til å bruke mer penger.
+
+[00:18:19] For vi tar det bare fra oljefondet vårt.
+
+[00:18:21] Men det erfaringen fra Storbritannia viser er jo nettopp at det er ikke greit å føre en uansvarlig politikk.
+
+[00:18:28] I hvert fall ikke nå når vi er i et høyinflasjonsregime.
+
+[00:18:32] Og det viser jo egentlig da viktigheten av at politikerne holder seg i skinnet.
+
+[00:18:37] Og viktigheten av handlingsreglene som vi har.
+
+[00:18:40] Så det er jo det som renser den offentlige pengebruken.
+
+[00:18:43] Nøkternhet.
+
+[00:18:45] Ja, absolutt.
+
+[00:18:46] Så det er implikasjon nummer en.
+
+[00:18:48] De som ikke opererer med nøkternhet som mål, kan potensielt bli straffet gjennom markedsdynamikken.
+
+[00:18:55] På en helt annen måte egentlig enn det vi har sett de siste ti årene.
+
+[00:18:59] Fordi da var problemet egentlig for lav inflasjon.
+
+[00:19:02] Man ønsket mer stimuli da.
+
+[00:19:04] Ikke mindre.
+
+[00:19:05] Men nå er problemet for høy inflasjon.
+
+[00:19:07] Og for høy etterspørsel relativt til tilbudet.
+
+[00:19:09] Så å bruke finanspolitisk stimuli som et stort argument for at
+
+[00:19:14] nå skal ikke ting gå så ille likevel, det er kanskje ikke realistisk.
+
+[00:19:19] Men jeg tror fortsatt på at Tyskland kan bruke det vekst.
+
+[00:19:21] Tyskland kan sikkert gjøre akkurat hva de vil,
+
+[00:19:24] men så får vi se med resten av Europa.
+
+[00:19:27] Men implikasjon nummer to er jo også det som her har man hatt
+
+[00:19:32] i en ett-ti år spesielt, altså siden finanskrisen,
+
+[00:19:36] det begynner å bli 15 år siden,
+
+[00:19:37] med lave renter som har gjort at aktører har tatt risiko
+
+[00:19:44] på kanskje en uansvarlig måte.
+
+[00:19:46] Bedrifter som har økt gjelden sin,
+
+[00:19:49] basert på en forventning, et syn eller håp
+
+[00:19:52] om at rentene aldri skal komme seg opp fra null,
+
+[00:19:55] spesielt innenfor noen eiendomstelskaper,
+
+[00:19:57] som jeg har snakket om før.
+
+[00:19:58] Eller hvis du er i fondsbransjen,
+
+[00:20:01] om det er pensjonsfond eller andre typer ting,
+
+[00:20:03] at man har tatt mer risiko på balansen,
+
+[00:20:06] giret opp mer enn det man,
+
+[00:20:07] har gjort tidligere,
+
+[00:20:09] fordi du har rigget hele strukturen din
+
+[00:20:12] for at rentevolatiliteten skal være lav,
+
+[00:20:15] og rentene skal være lave.
+
+[00:20:17] Og så ser man jo med en gang nå som det premisset ikke holder,
+
+[00:20:21] at for det første, rentevolatiliteten er jo ikke lav lenger,
+
+[00:20:24] fordi sentralbankene er ikke der,
+
+[00:20:26] og garanterer lav rentevolatilitet.
+
+[00:20:28] Og samtidig så ser vi at utsiktene og usikkerheten
+
+[00:20:31] om hvor rentene skal,
+
+[00:20:32] er en helt annen enn det man tenkte for 6, 12 og 24 måneder siden.
+
+[00:20:37] Og markedsutslagene som følger den risikoen man da har tatt,
+
+[00:20:43] og premisset for det ikke lenger funker,
+
+[00:20:46] de kan bli ganske store.
+
+[00:20:48] Som vi nå har erfart med Storbritannia,
+
+[00:20:49] med rentebevegelsene,
+
+[00:20:51] og implikasjonene det hadde for det brittiske pensjonssystemet.
+
+[00:20:55] Og måten jeg tenker på dette er at
+
+[00:20:57] når du får den type kaos i rentemarkedene,
+
+[00:21:00] så gir det en ekstremt stor sannsynlighet
+
+[00:21:02] for at du får kaos i et annet sted i finansmarkedet.
+
+[00:21:06] Og jeg personlig trodde at,
+
+[00:21:07] at det ville være hedgefond som ville havne i problemer her,
+
+[00:21:10] og at noen ville da gå under,
+
+[00:21:12] som følge av den renteforlateriteten.
+
+[00:21:14] Det skjedde ikke,
+
+[00:21:15] men det kom i pensjonssystemet i stedet.
+
+[00:21:17] For jeg tenker på ekstrem bevegelser gir ekstreme utslag.
+
+[00:21:23] Så det er implikasjon nummer to,
+
+[00:21:25] at når du nå er i ferd med å etablere deg over i et nytt renteregime,
+
+[00:21:31] så kommer det til å avdekke en del sånn groms på sjøbunnen.
+
+[00:21:35] Og jeg bruker det bildet om at,
+
+[00:21:37] nå er vi på en måte i et scenario der tidevannet trekker seg tilbake,
+
+[00:21:42] og vi endelig får se hvor mye søppel som har samlet seg på havbunnen.
+
+[00:21:47] Og du er inne på hedgefond,
+
+[00:21:49] at du trodde at det var der det kanskje skulle smelle,
+
+[00:21:52] og det leste jeg en kommentar i Financial Times,
+
+[00:21:54] som påpekte det at det er jo litt sånn typisk for de store krisene,
+
+[00:21:58] når det virkelig skjer noe i markedet,
+
+[00:22:00] så skjer det jo i AAA-segmentet,
+
+[00:22:03] det du trodde var bunnsikkert.
+
+[00:22:06] Ja.
+
+[00:22:06] Fordi alle vet at hedgefond driver med mye rart,
+
+[00:22:08] og de er i risiko av natur der de skal være,
+
+[00:22:12] men det er det som man trodde skulle være bunnsolide sikkert,
+
+[00:22:16] pensjonsfond, boliglovensobligasjoner i USA i 2007,
+
+[00:22:20] det er når det smeller der at det ...
+
+[00:22:22] Ja, det er triple A-segmentet.
+
+[00:22:23] Ja, da er det tegn på at vi virkelig har en mer sånn,
+
+[00:22:26] ikke systemisk krise, men kanskje ...
+
+[00:22:29] Det er svarte svaner da, som man hele tiden snakker om vil komme,
+
+[00:22:32] men aldri helt vet hvor.
+
+[00:22:34] Nei.
+
+[00:22:35] Så det er jo aldri hajulmarkedet.
+
+[00:22:36] Som kødder det til for verdensøkonomien,
+
+[00:22:38] for hajulmarkedet er rigget for at ting går dårlig.
+
+[00:22:41] Det er derfor vi har hajulmarkedet,
+
+[00:22:43] at ting tidligst går dårlig.
+
+[00:22:45] Så alle som er der vet hvordan risiko ser ut,
+
+[00:22:50] og hvordan man skal behandle det.
+
+[00:22:52] Men i triple A, det er ingen som tenker på noe sånt,
+
+[00:22:55] at ting kan gå dårlig.
+
+[00:22:57] Man er ikke rigget for det i det hele tatt.
+
+[00:22:59] Og en ting også som denne krisen i Storbritannia viser,
+
+[00:23:04] en implikasjon,
+
+[00:23:05] er jo også det at etter finanskrisen var det veldig mye fokus på bankene.
+
+[00:23:10] Bankene har tatt for mye risiko og må oppkapitaliseres.
+
+[00:23:13] Og så har jo da fondsindustrien tatt over litt rollen til bankene,
+
+[00:23:18] i hvert fall i å være aktive i markedet,
+
+[00:23:20] mens de møter jo ikke samme krav til oppkapitalisering i det hele tatt.
+
+[00:23:23] Og det har vært en villet politikk.
+
+[00:23:25] Man skal flytte banklån ut av bankene og over i fondsindustrien.
+
+[00:23:30] Og de er ikke regulert?
+
+[00:23:32] De er jo ikke regulert.
+
+[00:23:33] De har ikke noe krav om egenkapital på samme måte som bankene har.
+
+[00:23:37] De må ha litt, men ...
+
+[00:23:39] Ikke like mye.
+
+[00:23:40] Og det er jo ...
+
+[00:23:41] I dag kan vi lese på Financial Times en fransk sentralbanksjef
+
+[00:23:44] som sier at det som har skjedd i Storbritannia viser for oss alle
+
+[00:23:48] at fond må bygge opp mer likviditet, må bygge opp mer kapital.
+
+[00:23:52] Det er resultatet av det som skjer der.
+
+[00:23:55] Så det har jo store implikasjoner.
+
+[00:23:57] Og det er noe som både Fed og SEB har snakket om i en lengre periode,
+
+[00:24:01] at likviditetsrisikoen i fondsindustrien, og spesielt på obligasjonsfond,
+
+[00:24:06] hvor du har eiendeler, obligasjoner, som tidligvis kan ta flere uker å omsette,
+
+[00:24:11] så du har investorer som kan ta penger ut på dagen,
+
+[00:24:15] men du sitter med eiendeler som kan ta veldig lang tid å kvitte deg med,
+
+[00:24:19] og den løpetidsrisikoen ...
+
+[00:24:20] Og da må du selge det sikreste av det sikreste.
+
+[00:24:22] Det er typisk statsobligasjoner.
+
+[00:24:23] Det er ingen som er pent med det, ikke sant?
+
+[00:24:25] Nei. Da får man sånne dødsspiraler som vi har sett mange av de siste årene.
+
+[00:24:30] Ja.
+
+[00:24:31] Så mer markedsvolatilitet.
+
+[00:24:35] Men det er som følge av høye renter og disse sårbarhetene.
+
+[00:24:39] Det er en ting.
+
+[00:24:40] Men vi må snakke litt om sentralbankens rolle også.
+
+[00:24:45] For det er implikasjon nummer tre potensielt her.
+
+[00:24:48] Hvilken rolle kan sentralbankene stille?
+
+[00:24:52] Fordi vi har veldig lenge snakket om denne Fed-putten, eller sentralbank-putten.
+
+[00:24:56] Det at ved det minste tegn til svakhet, enten i realekonomi eller i markedet,
+
+[00:25:00] så har sentralbankene vært der, kommet.
+
+[00:25:04] Det beste eksempelet på det er jo det som skjedde i USA på slutten av 2018.
+
+[00:25:09] Fed var på vei til å heve rentene, eller hadde hevet rentene en del.
+
+[00:25:12] Og redusere balansen, ikke sant?
+
+[00:25:14] Ja, tok inn likviditet.
+
+[00:25:16] Markedene, det gikk sånn tålig greit, helt til det ikke gjorde det.
+
+[00:25:19] Børsen falt 15% i løpet av desember.
+
+[00:25:21] Det er ikke et spesielt kraftig fall i løpet av en måned.
+
+[00:25:25] Men det var nok til å få Fed til å snu på helen og si slapp av, slapp av.
+
+[00:25:28] Vi skal kutte rentene igjen.
+
+[00:25:29] Vise hvor følsom sentralbankene tidligere har vært da.
+
+[00:25:33] For børsero og for svakhet i økonomien.
+
+[00:25:35] At de virkelig bare stiller opp.
+
+[00:25:39] Og det har gitt denne mentaliteten om at ok, det kan være litt dårlig stemning i markedene.
+
+[00:25:43] Men det vil aldri være lenge.
+
+[00:25:45] Da skal du kjøpe.
+
+[00:25:46] Ja, buy the dip.
+
+[00:25:47] Kjøp når det faller.
+
+[00:25:48] Så Fed-putten, denne sentralbank-forsikringen som har vært til stede egentlig helt siden 2008,
+
+[00:25:53] eller siden finanskrisen, har jo lagt grunnlaget for buy the dip-mentaliteten.
+
+[00:25:57] Og den er det jo fortsatt.
+
+[00:25:58] Ja, det henger i hvert fall i da.
+
+[00:26:02] Det var kjempedårlig stemning i juni.
+
+[00:26:04] Og så i juli så ser man at forventningene til hva Fed skal gjøre fremover,
+
+[00:26:09] kommer til å øke sannsynlig for at det blir en resesjon.
+
+[00:26:12] Og da må jo Fed kutte igjen.
+
+[00:26:14] Så aksjemarkedene begynte allerede i juli å posisjonere seg for at Fed skulle kutte rentene.
+
+[00:26:20] Selv om inflasjonen var på 9%.
+
+[00:26:23] Ja, så det er håp om at sentralbankene fortsatt er der.
+
+[00:26:26] Den henger i.
+
+[00:26:27] Men det er på en måte to litt forskjellige diskusjoner.
+
+[00:26:32] Det ene er jo hvorvidt sentralbankene skal kutte når inflasjonen,
+
+[00:26:36] eller når resesjonen blir et faktum.
+
+[00:26:39] Det kan vi snakke litt om etterpå.
+
+[00:26:40] Men det andre er jo den der, er sentralbankpulten helt borte nå?
+
+[00:26:44] Og jeg mener jo at eksempelet i Storbritannia viser at nei, den er ikke helt borte.
+
+[00:26:49] Fordi de stepper jo inn når de må intervenere i markedet,
+
+[00:26:53] fordi essensielle markeder da, stats- og obligasjonsmarkedet,
+
+[00:26:56] blir dysfunksjonelt, slutter å fungere. Da kommer de.
+
+[00:27:00] Og det er jo det at sentralbankene på en måte blir tvunget til å ta den rollen,
+
+[00:27:05] som «buyer last research», er jo noe som er et resultat av reguleringen etter finanskrisen da,
+
+[00:27:12] og at banker og finansinstitusjoner har fått høyere krav til kapitalbeholdning og likviditetsbeholdning,
+
+[00:27:18] sånn at det er dyrt for bankene å ta den rollen.
+
+[00:27:21] Før så kunne jo banker i mye større grad oppdre som stabilisatorer i markedet,
+
+[00:27:26] det kan de ikke nå lenger. Da får vi sånne type dødsspiraler,
+
+[00:27:30] og da må sentralbankene steppe inn.
+
+[00:27:32] Så jeg mener jo at det er en rolle som sentralbankene nå er seg bevisst i veldig stor grad.
+
+[00:27:37] De vet at hvis ikke vi gjør dette, så rakner det fullstendig.
+
+[00:27:41] Men så ser vi jo også fra Bank of England at de er ikke...
+
+[00:27:47] Det å komme med tiltak nå versus for tre år siden, når man var bekymret for deflasjon,
+
+[00:27:53] tiltakene tar en helt annen form.
+
+[00:27:55] Ja.
+
+[00:27:56] Det er ikke QE forever.
+
+[00:27:58] Det er ikke whatever it takes.
+
+[00:28:00] Nei, men det er 13 dager, og så må du stå på egne føtter.
+
+[00:28:05] Og til og med så hadde Bank of England gitt seg selv en liten sånn klausul der det sto
+
+[00:28:09] vi kjøper ikke til en hvilken som helst pris.
+
+[00:28:11] Nei.
+
+[00:28:12] Det er grenser for hvor mye vi gidder å betale.
+
+[00:28:14] Og det er også veldig tydelig da, det er langt fra unlimited QE,
+
+[00:28:17] whatever it takes, og så videre.
+
+[00:28:19] Og så igjen, det er en usikkerhet om vi kan ekstrapolere fra det Bank of England nå har gjort
+
+[00:28:24] til Fed, SEB og så videre.
+
+[00:28:26] Men jeg synes likevel det sier noe om mentaliteten og den konflikten som man potensielt kan ha
+
+[00:28:33] i sentralbankene når de skal kjempe mot høy inflasjon og potensielt også drive med redningsaksjoner
+
+[00:28:39] i markedene samtidig.
+
+[00:28:41] Det er ikke like enkelt som det man hadde i 2016 for eksempel,
+
+[00:28:45] når SEB kom med sin store bazooka, som vi kallte det da.
+
+[00:28:48] Og det er jo...
+
+[00:28:50] Putten, jeg synes det er litt naivt hvis man skal kjøpe risikoaktiver i dag,
+
+[00:28:55] basert på at her skal for eksempel Fed eller SEB trå til,
+
+[00:29:00] på en måte som man typisk har sett gjennom de siste 15 årene.
+
+[00:29:04] Så implikasjonen av dette da, at Fed-putten, sentralbank-putten,
+
+[00:29:08] den er der, men den sitter veldig langt inne,
+
+[00:29:11] det er jo mer markedsvolatilitet.
+
+[00:29:14] At buy the rip kanskje ikke alltid er en like god strategi lenger.
+
+[00:29:18] Nei, kanskje ikke.
+
+[00:29:19] Nei.
+
+[00:29:20] Og at potensielt at dårlige nyheter faktisk...
+
+[00:29:23] Er dårlige nyheter.
+
+[00:29:24] ...kan ha en negativ innvirkning på prising av risikoaktiver,
+
+[00:29:27] som det tydeligvis ikke har hatt.
+
+[00:29:29] Nei.
+
+[00:29:30] Men hvis vi skal gjøre oss litt ferdige med Storbritannia,
+
+[00:29:34] og se mer på sånn markedsutvikling, renteutsiktene fremover,
+
+[00:29:38] så er det jo...
+
+[00:29:39] Vi har snakket veldig mye om politiker og pengepolitikk,
+
+[00:29:41] men det er jo hva skjer med veksten og hva skjer med inflasjonen.
+
+[00:29:44] Ja, for det leder jo egentlig til det,
+
+[00:29:45] hvis vi ikke kan stole så mye på disse sentralbankene,
+
+[00:29:48] hva da...
+
+[00:29:49] Da betyr dette enda mer.
+
+[00:29:50] Og bare for å begynne med en graf her,
+
+[00:29:52] som viser da...
+
+[00:29:53] BNP-veksten globalt, basert på IMF-tall,
+
+[00:29:56] så historien frem til og med 2021,
+
+[00:29:58] og IMF sine anslag for de neste...
+
+[00:30:02] Ja, frem til 2026.
+
+[00:30:03] Og du ser jo at her har du litt sånn spesielle perioder
+
+[00:30:06] rundt 2020 og 2021,
+
+[00:30:08] og så venter vel IMF at du skal ha en real vekst
+
+[00:30:11] for global økonomi på litt over 3% i år.
+
+[00:30:14] Så mesteparten av det er jo nå historien.
+
+[00:30:17] Men til neste år så forventer de en svak oppbremsing,
+
+[00:30:21] sånn at vi får en vekst...
+
+[00:30:23] på 2,8%.
+
+[00:30:25] Og så i 2024,
+
+[00:30:27] så skal vi tilbake en litt over 3%.
+
+[00:30:29] Og det er jo bare for å sette det i perspektiv,
+
+[00:30:31] gjennomsnittlig vekst mellom finanskrisen og koronakrisen
+
+[00:30:33] var på cirka 3,5% i global BNP.
+
+[00:30:36] Så 2,8% er ikke veldig lavt.
+
+[00:30:38] Og bare for å sette litt kontekst her,
+
+[00:30:40] en måned i forveien,
+
+[00:30:42] disse tallene kom i forrige uke eller noe sånt nå,
+
+[00:30:45] en måned før så skrev IMF også en lang rapport
+
+[00:30:49] om levekostnadskrisen for Europa.
+
+[00:30:53] Den er knyttet til høye energipriser,
+
+[00:30:55] hvor de hensyn tar både de direkte effektene av at
+
+[00:30:57] gass er dyrt, strøm er dyrt,
+
+[00:30:59] og de indirekte effektene som oppstår fordi
+
+[00:31:01] alle andre må sette opp prisene som følger av at strøm er dyrt.
+
+[00:31:04] Og de andre indirekte effektene som kommer som følger av at
+
+[00:31:07] vi får subsidier for å håndtere at ting er blitt dyrt.
+
+[00:31:10] Så når de hensyn tar alle disse tingene her,
+
+[00:31:12] så finner de at du har den største levekostnadskrisen i Europa,
+
+[00:31:16] i hvert fall tilbake til 1970-tallet.
+
+[00:31:18] Og det er veldig, veldig bredt basert.
+
+[00:31:21] Det er jo det du mener der er det litt mismatch,
+
+[00:31:24] fordi Europa er ikke en miniputt-økonomi.
+
+[00:31:26] Europa er verdens nest største økonomi.
+
+[00:31:28] Så når det går så dårlig i Europa, da bør det gå ganske dårlig.
+
+[00:31:31] Og i USA så har du litt bedre lønnsvekst.
+
+[00:31:33] Men fortsatt noe av det samme.
+
+[00:31:35] Ja, så du har en levekostnadskrise der også,
+
+[00:31:39] men i Europa er den mer prekær.
+
+[00:31:42] Og hvis du tar den tredje økonomien der ute, Kina,
+
+[00:31:45] det er jo bare disse tre økonomiene som finnes, er det ikke?
+
+[00:31:48] Men det går ikke spesielt bra i Kina heller da.
+
+[00:31:50] Nei.
+
+[00:31:51] Om det er nullvekst, eller om det er fall i BNP.
+
+[00:31:54] Det vet vi ikke, for vi får jo ikke tallene.
+
+[00:31:56] Nei, nå har vi droppet å publisere tall.
+
+[00:31:58] Det er så ille der at de ikke tør å publisere tall, tydeligvis.
+
+[00:32:01] Men det går ikke veldig bra i Kina.
+
+[00:32:03] Du har hatt en kollaps i boligmarkedet,
+
+[00:32:05] de stenger ned byer på byer,
+
+[00:32:08] som følger av en litt sånn rar strategi knyttet til korona.
+
+[00:32:12] Så ting funker ikke helt bra økonomisk sett i Kina heller.
+
+[00:32:16] Så det å satse på her at den globale veksten skal holdes oppe,
+
+[00:32:19] fordi Kina går bra?
+
+[00:32:20] Nei, jeg er ikke der i det hele tatt.
+
+[00:32:22] Nei.
+
+[00:32:23] Og hvis jeg kan si det der,
+
+[00:32:26] IMFs anslag er kanskje litt veldig optimistiske,
+
+[00:32:28] men det ligner jo på med konsensusanslaget vårt,
+
+[00:32:31] altså DNBs makro-team sitt eget anslag,
+
+[00:32:33] om at det skal gå dårlig, men det skal ikke gå kjempedårlig.
+
+[00:32:38] Og der er du uenig.
+
+[00:32:40] Ja, fordi måten jeg ser på dette her,
+
+[00:32:42] så IMF ser for seg en liten dump i veien,
+
+[00:32:45] slik at du må senke farten litt.
+
+[00:32:47] Mens konsensus,
+
+[00:32:49] og vi har vel kanskje en litt mer dramatisk dump,
+
+[00:32:52] men du kan fortsatt kjøre over den.
+
+[00:32:55] Mens når jeg ser på verden,
+
+[00:32:57] så tenker jeg at her er et høl i veien,
+
+[00:33:00] og du kommer til å ødelegge bilen hvis du kjører over det.
+
+[00:33:04] På grunn av levekostnadskrisen og veldig svak vekst i Kina.
+
+[00:33:07] Kina er en ting, vi kan droppe det for nå,
+
+[00:33:11] men når du ser på realintektsveksten til rusåndingene i USA,
+
+[00:33:14] eller eurozonen for den saks skyld,
+
+[00:33:16] det har skjedd to ganger siden 2. verdenskrig.
+
+[00:33:18] At du har hatt den type fall i USA før.
+
+[00:33:22] Det ene var finanskrisen,
+
+[00:33:24] det andre var resesjonen i 1973.
+
+[00:33:26] Fall i levekostnadene.
+
+[00:33:28] Ja, oppgang i levekostnadene.
+
+[00:33:31] Nedgang i realintektene.
+
+[00:33:33] Det har skjedd to ganger før finanskrisen.
+
+[00:33:36] Da var det primært høyere arbeidsledighet,
+
+[00:33:38] som bidro til at kjøpekraften for rusåndingssektoren som helhet ble redusert.
+
+[00:33:42] Og så var det resesjonen i 1973-1974,
+
+[00:33:45] hvor du hadde energirasjonering,
+
+[00:33:47] ekstrem oppgang i matprisene og energiprisene,
+
+[00:33:50] på linje med det man har i dag.
+
+[00:33:52] Du hadde en vekst i konsumprisene på 10% år over år.
+
+[00:33:54] Egentlig helt identisk.
+
+[00:33:56] Da så du også at det virkelig begynte å butte for økonomien,
+
+[00:33:59] og du hadde en dramatisk utvikling for veksten,
+
+[00:34:02] med dyp og ganske langvarig resesjon.
+
+[00:34:05] Så du tror mer på en dyp og langvarig resesjon, det er det du sier?
+
+[00:34:08] Ja.
+
+[00:34:09] Jeg ser ikke dette som konsistent.
+
+[00:34:11] At du på den ene siden skal ha så kraftig fall i kjøpekraften,
+
+[00:34:15] en sånn type forverring i kjøpekraften,
+
+[00:34:18] og samtidig klare å ha en dynamikk der bedriftene,
+
+[00:34:22] som da har en nedgang i topplinjen sin,
+
+[00:34:24] dårligere i bunnlinjen også,
+
+[00:34:26] fordi du har marginvolatilitet som følger alt som skjer med kostnadene dine.
+
+[00:34:29] At du da skal klare å holde investeringer oppå den slags,
+
+[00:34:33] det skjer ikke.
+
+[00:34:34] Du er negativt ansett til vekstutsiktene.
+
+[00:34:39] Mer negative enn oss og konsensus og IMF.
+
+[00:34:42] Men, inflasjonen.
+
+[00:34:44] Jeg tror ikke du har tid til å gå gjennom alle du har.
+
+[00:34:46] En lang liste av grunner til at inflasjonen skal være høy,
+
+[00:34:50] både på kort sikt og på lang sikt.
+
+[00:34:53] Kan du velge ut noen av de viktigste?
+
+[00:34:56] Hvis vi tar det kortsiktige da,
+
+[00:34:59] så er det for det første de treghetene du har i inflasjonen,
+
+[00:35:03] som følger at en del varigrupper,
+
+[00:35:05] for eksempel boligrelaterte kostnader,
+
+[00:35:07] er indeksert til det inflasjonen er her og nå.
+
+[00:35:11] Så veksten i boligrelaterte kostnader,
+
+[00:35:13] vil stige i tråd med det som skjer med inflasjonen nå.
+
+[00:35:17] Så når du har en ekstremt høy inflasjon i dag,
+
+[00:35:19] så gir det også mulighet for videre høy inflasjon
+
+[00:35:22] i en viktig del av KPI.
+
+[00:35:24] Og sånn ser vi her hjemme også.
+
+[00:35:26] Det er tregheter i måten man setter opp prisene.
+
+[00:35:30] En ting.
+
+[00:35:32] Det andre er jo effekten av lønninger.
+
+[00:35:34] Så lenge du har en unaturlig høy lønnsvekst,
+
+[00:35:36] relativt til hva som er produktivitetsveksten i økonomien,
+
+[00:35:38] så gir det et kostnadspress i bedriftene,
+
+[00:35:41] som man kun klarer å endre.
+
+[00:35:42] At man kun klarer å enten håndtere gjennom at
+
+[00:35:44] det kostnadspresset blir borte.
+
+[00:35:46] Altså du hakker lenger den lønnsveksten.
+
+[00:35:48] Lønnsveksten kommer ned.
+
+[00:35:49] Skjer ikke helt av seg selv.
+
+[00:35:51] Eller nummer to.
+
+[00:35:52] Du må sett ta det ut til høyere konsumpriser.
+
+[00:35:54] At ferdigvarerprisene dine stiger.
+
+[00:35:56] Så så lenge du har en lønnsvekst som ligger forholdsmessig
+
+[00:36:00] langt over det som er underregnet produktivitetsvekst,
+
+[00:36:03] så er det veldig inflatorisk.
+
+[00:36:05] En såkalt lønnsprisspirale som man er så redd for.
+
+[00:36:08] Og der mener jeg også at vi er.
+
+[00:36:10] Og så er det nummer tre på det kortsiktige.
+
+[00:36:12] Det er ting som er knyttet til opportunisme og så videre.
+
+[00:36:15] At når du har tall fra Bank of International Settements
+
+[00:36:18] så viser det at desto høyere inflasjonen er,
+
+[00:36:21] desto lettere blir det for hver enkelt aktør
+
+[00:36:25] å sette opp prisene sine uforholdsmessig mye.
+
+[00:36:27] Uavhengig om det skyldes høyere kostnader
+
+[00:36:30] eller bare den typen av opportunisme.
+
+[00:36:32] At oi, her kan jeg jo ta ut mer marginer.
+
+[00:36:34] Så man ser en slags konvergens på tvers av land
+
+[00:36:37] og alle varergrupper.
+
+[00:36:39] Når inflasjonen blir tilstrekkelig høy.
+
+[00:36:41] Spesielt det man finner er at over fem prosent
+
+[00:36:43] så er det super lett for bedrifter å sette opp prisene
+
+[00:36:47] uten at de mister salg.
+
+[00:36:50] Så vi som forbrukere, vår evne til å stille spørsmål ved en prisoppgang
+
+[00:36:56] blir etter hvert så dårlig at ok, eggprisene stiger
+
+[00:36:59] men det skyldes bare sikkert at nå stiger jo alt.
+
+[00:37:02] Når vi slutter som forbrukere å tilpasse forbruket vårt
+
+[00:37:07] de relative prisene
+
+[00:37:09] så er det et kjempeproblem for inflasjonsdynamikken.
+
+[00:37:13] Og der er vi egentlig også litt.
+
+[00:37:15] Og når det gjelder mer langsiktige faktorer
+
+[00:37:17] så er det jo dette med deglobalisering
+
+[00:37:19] det at man skifter produksjon hjem fra Kina
+
+[00:37:22] på grunn av mer sånn politiske...
+
+[00:37:24] Den ligger da på en måte etter resesjonen.
+
+[00:37:26] For jeg tenker jo igjen at resesjonen kommer jo.
+
+[00:37:30] Ja, det er det jo mange som tenker.
+
+[00:37:32] Men mer sånn at det at man har flyttet produksjon til Kina
+
+[00:37:38] det har jo selvfølgelig bidratt til at vi har hatt lavere inflasjon
+
+[00:37:41] i Vesten i lang, lang tid.
+
+[00:37:42] Og hvis det nå går litt i revers
+
+[00:37:44] så tilsier det varig høyere inflasjon.
+
+[00:37:47] Og både gjennom at det er dyrere å produsere ting her hjemme
+
+[00:37:51] enn det det er i Kina.
+
+[00:37:53] Men kanskje viktigste av alt, fordi
+
+[00:37:55] hver gang du har hatt litt sånn press i kapasiteten
+
+[00:37:59] i USA
+
+[00:38:01] og Nike eller Amazon eller noe sånt den vurderer
+
+[00:38:04] eller Walmart skal vurdere, skal vi produsere dette her på hjembane?
+
+[00:38:06] Eller skal vi produsere det i et lavkostnadsland som Kina?
+
+[00:38:09] Så har de sett at hvis vi bare flytter det til Kina
+
+[00:38:12] så slipper vi å så om for høyere lønnsvekst her hjemme.
+
+[00:38:16] Så man har sett at den globaliseringseffekten
+
+[00:38:19] har primært virket deflatorisk
+
+[00:38:21] fordi du har klart å frikoble produktiviteten i økonomien
+
+[00:38:26] med reallønningene til arbeiderne.
+
+[00:38:28] Så reallønningen til arbeiderne har stagnert
+
+[00:38:31] de siste 40 årene
+
+[00:38:32] mens produktiviteten bare steget, steget, steget.
+
+[00:38:35] Og den fremover, kanskje ikke så sannsynlig.
+
+[00:38:39] Men det er det jo ganske bred enighet om egentlig
+
+[00:38:43] at det å ha inflasjon på 1-2%
+
+[00:38:45] det kanskje byttes ut med å ha inflasjon på 2-3%.
+
+[00:38:48] Og da er jo spørsmålet
+
+[00:38:50] hvis du fortsetter å operere med et inflasjonsmål på 2
+
+[00:38:53] og du hele tiden stanger på oppsiden av det
+
+[00:38:55] på samme måte som sentralbankene kjørte renten i null
+
+[00:38:59] og drev med QE
+
+[00:39:01] fordi inflasjonen var litt for lav
+
+[00:39:03] Da skal vi høre en ting.
+
+[00:39:05] Men bare en liten sånn
+
+[00:39:07] Du er jo innenforstått med det at
+
+[00:39:10] du er veldig negativ til økonomien
+
+[00:39:13] og så er du negativ med tanke på at du tror
+
+[00:39:15] at inflasjonen skal være høy nå den nærmeste tiden
+
+[00:39:18] Mye høyere enn det konsensusforventningen er.
+
+[00:39:21] Og du må jo da være enig i at
+
+[00:39:23] du kan kanskje ikke ha rett på begge deler.
+
+[00:39:25] Fordi hvis det går så dårlig med økonomien som du tror
+
+[00:39:28] da vil jo inflasjonen komme ned.
+
+[00:39:31] Men hvis inflasjonen fortsetter å være så høy som du tror
+
+[00:39:33] det tilsier at det ikke skal gå så dårlig med økonomien.
+
+[00:39:37] Så du kan ha rett på en av de.
+
+[00:39:39] Så hvis man sier at det går bra med økonomien
+
+[00:39:41] så er det i hvert fall inkonsistent
+
+[00:39:43] med synet om at inflasjonen skal ned.
+
+[00:39:45] Hvis det blir en liten fartstomp
+
+[00:39:47] også i mitt hodet inkonsistent
+
+[00:39:49] med at inflasjonen kommer ned.
+
+[00:39:51] For da har du det gapet mellom tilbudet og et spørsmål.
+
+[00:39:54] Det er et godt poeng, Ingrid.
+
+[00:39:56] Ja, men hvis jeg skal hape på noe
+
+[00:39:58] eller for min del så håper jeg på en kraftig resesjon
+
+[00:40:01] og at inflasjonen kommer ned.
+
+[00:40:03] Det vil jo være det beste.
+
+[00:40:04] Definitivt.
+
+[00:40:05] Hvis ikke så har vi det inflasjonsproblemet
+
+[00:40:06] hengende med oss i lang, lang tid.
+
+[00:40:07] Da er det 1970-tallet på nytte, ikke sant?
+
+[00:40:09] Men 1970-tallet viser jo også at du kan ha en dyp resesjon
+
+[00:40:12] og likevel ikke fikse inflasjonsproblemet.
+
+[00:40:14] Men igjen, 70-tallet var visst nok veldig spesielt.
+
+[00:40:19] Skal vi ta siste graf?
+
+[00:40:22] Disse grafene liker vi veldig godt.
+
+[00:40:24] Det viser styringscentrene.
+
+[00:40:26] Det er vakre grafer.
+
+[00:40:28] Jeg pleier å si at de er spektakulære
+
+[00:40:30] og da er det ofte noen som ler
+
+[00:40:31] fordi de tror jeg er ironisk.
+
+[00:40:32] Men jeg mener de er spektakulære.
+
+[00:40:34] Jeg synes det.
+
+[00:40:35] De viser da styringsrenta til den europeiske sentralbanken og Fed
+
+[00:40:39] og så viser de markedsprisingen
+
+[00:40:41] altså investorens forventning til hva disse rentene skulle være
+
+[00:40:43] 2-3 år til frem i tid på ulike tidspunkter i år.
+
+[00:40:46] Blå linje i januar.
+
+[00:40:49] Mørke grønn linje i juni.
+
+[00:40:52] Og gul linje nå.
+
+[00:40:54] Og det som er spektakulært med den er jo hvordan
+
+[00:40:58] Det er januar som er spektakulært.
+
+[00:40:59] Det er veldig spesielt.
+
+[00:41:00] Endringene er spektakulære men også januar er spektakulært
+
+[00:41:03] i form av at da var man innenforstått med at ok
+
+[00:41:06] inflasjonen er høy og det er ikke bare midlertidig.
+
+[00:41:09] Vi skal ha høy inflasjon i en lang periode.
+
+[00:41:11] Men likevel så priset markedet inn at ECB skulle ha negativ rente
+
+[00:41:15] nesten i 3 år fremover.
+
+[00:41:16] Og Fed skulle ikke ha en høyere rente enn 1,6 eller 1,7%.
+
+[00:41:20] Så vi ligger i USA med en inflasjon på nesten 6%
+
+[00:41:23] og så tror markedet at Fed på dette tidspunktet
+
+[00:41:26] skal stramme inn mindre enn det de gjorde i 2016.
+
+[00:41:29] Det er helt utrolig.
+
+[00:41:32] Det er helt sjukt.
+
+[00:41:34] Det samme gjelder oss som har laget prognoser
+
+[00:41:38] og det samme gjelder jo sentralbankene selv.
+
+[00:41:41] Hvis du ser selv sine egne renteforventninger
+
+[00:41:43] så har de også beveget seg akkurat på samme måte.
+
+[00:41:45] Så det viser jo bare noe sånn, tror jeg, veldig menneskelig
+
+[00:41:49] i at man står der og har hatt null renter
+
+[00:41:51] og negative renter i lang tid.
+
+[00:41:53] Og det å da si nei, om ett år skal Fed styringstente være 4-5%
+
+[00:41:57] det var bare helt utopisk.
+
+[00:41:59] Man klarte ikke å se det for seg.
+
+[00:42:01] Så det har blitt en sånn gradvis justering i
+
+[00:42:04] ok, kanskje vi skal så, og kanskje vi skal så høyt.
+
+[00:42:06] Men det som også gjør at vi må tenke litt
+
+[00:42:10] når vi ser denne grafen er jo det menneskelige i oss
+
+[00:42:13] som gjør at vi ikke klarer å se for oss så ekstremt høye rentenivåer.
+
+[00:42:16] Er det noe som fortsatt påvirker oss
+
+[00:42:20] og som gjør at den tanken, for nå tenker jo mange at
+
+[00:42:23] nå er vi snart på toppen. Nå er toppen der.
+
+[00:42:26] Nå skal det ned igjen etter hvert.
+
+[00:42:27] Ja, det kan ikke gå over 5%.
+
+[00:42:29] Nei, det går ikke.
+
+[00:42:30] Helt umulig.
+
+[00:42:31] Så da er spørsmålet, er det riktig, er vi på toppen nå
+
+[00:42:33] eller er vi fortsatt da preget av denne mentaliteten?
+
+[00:42:36] Ja.
+
+[00:42:37] Det vet vi ikke.
+
+[00:42:39] Vi har ikke noe svar på det.
+
+[00:42:40] Men vi kan vel si det sånn at både for vekst og inflasjon
+
+[00:42:43] og ikke minst rentutsiktene så er det ekstremt stor usikkerhet om dagen.
+
+[00:42:46] Den grafen der i seg selv betyr bare at vi har veldig lite oversikt
+
+[00:42:51] over hvordan endringer i makro faktisk kan påvirke rentutsikten.
+
+[00:42:57] Og det å være skråsikker på noe her er...
+
+[00:43:01] Og så vil jeg også si at det er ikke bare det at vi har innsett
+
+[00:43:04] at inflasjon er et problem som må håndteres med veldig høye renter
+
+[00:43:08] som vi ikke har vært vant til.
+
+[00:43:09] Det er også den usikkerheten på hvordan skal sentralbankene håndtere dette her?
+
+[00:43:13] Hvor tuff i trynet er de?
+
+[00:43:14] Ja, tar de det på alvor og så videre?
+
+[00:43:16] Ja, og hvordan ser de selv på den sentralbankputten da?
+
+[00:43:21] Og jeg synes jo vi har fått tydeligere og tydeligere signaler
+
+[00:43:24] fra sentralbankene i den siste tiden om at det er
+
+[00:43:27] de er opptatt av inflasjonen, de skal bekjempe inflasjonen
+
+[00:43:29] koste hva det koster vil.
+
+[00:43:30] Og vi får jo også, altså Powell i Fed trekker jo veldig mye paralleller
+
+[00:43:33] tilbake til Paul Volcker, den store Fed-sjefen som virkelig bekjempet
+
+[00:43:39] inflasjonen på tidlig 80-tall.
+
+[00:43:41] Får jo inntrykk av at de har tenkt å gå ordentlig tilverks denne gangen
+
+[00:43:46] og ikke gjenta feilen fra 70-80-tallet.
+
+[00:43:48] Og de feilene ikke sett og bremta nok og kutte for raskt
+
+[00:43:52] når du ser at det går dårligere med økonomien.
+
+[00:43:55] Det er det inntrykket jeg får hvertfall.
+
+[00:43:57] Ja, det er det.
+
+[00:43:58] Og det tilser jo da kanskje at vi ikke er helt ferdig med renteoppgang enda da.
+
+[00:44:03] Kanskje ikke helt.
+
+[00:44:04] Takk til dere der hjemme som har stått med på sendingen.
+
+[00:44:08] Og takk til deg Emil.
+
+[00:44:09] Takk til deg Ole.
+
+[00:44:10] Ja, da takker du for oss.

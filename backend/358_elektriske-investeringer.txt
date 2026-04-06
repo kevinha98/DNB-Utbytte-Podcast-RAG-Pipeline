@@ -1,0 +1,1651 @@
+Episode 358: Elektriske investeringer
+Publisert: Wed, 21 Ju
+Vert: Marius Brun Haugen
+Varighet: 32 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/elektriske-investeringer
+
+--- Transkripsjon ---
+
+[00:00:00] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen globale økonomien og finansmarkedene.
+
+[00:00:07] Jeg er Marius Bruun Haugen, og i denne episoden skal dere få høre opptaket fra et direkte sendt webinar jeg nylig holdt for noen av kundene våre, sammen med Stian Uland, som er forvalter i fondet DNB Miljøinvest.
+
+[00:00:20] DNB Miljøinvest er et grønt fond som hovedsakelig investerer i selskaper som bidrar til å redusere energirelaterte klimautslipp.
+
+[00:00:29] Stian forklarer blant annet hvordan han mener de grønne aksjene er i syklen etter den voldsomme oppturen og deretter nedturen i verdsettelse som vi har vært vittne til de siste årene.
+
+[00:00:40] Han går også nærmere inn på elektrifiseringstrenden, investeringer i verdikjeden til elektriske biler, elektrisitetsnettet og selskaper som har løsninger for å spare energi.
+
+[00:00:53] God fornøyelse, og takk for at du hører på Utbytte.
+
+[00:00:56] Du, jeg var inne og sjekket.
+
+[00:01:07] Hvordan fondet har gjort det før vi gikk på sending, altså DNB Miljøinvest som du er med å forvalte, og den viste det at avkastningen er 20 prosent så langt i år, godt foran indeks på 12 prosent, så det er jo gøy.
+
+[00:01:24] Det er alltid fint å være foran indeks, selv om vi her snakker om det korte bildet, og så må man jo også nevne at vi er inne i en sektor her som har hatt det tøft i det siste.
+
+[00:01:34] Så bak verdensindeksen er vi et par prosent.
+
+[00:01:37] Så det er alltid gøy å være foran indeks.
+
+[00:01:39] Det er viktig å nyansere og selvfølgelig tenke langsiktig.
+
+[00:01:44] Vi skal komme tilbake til det også, eksponeringen man får gjennom fondet.
+
+[00:01:52] Men som du sier, det har vært noen utfordrende år for denne type grønne investeringer, så kan ikke du prøve å starte med å gi oss et bilde.
+
+[00:02:05] Hvor er vi i syklen?
+
+[00:02:07] Og har all overprisingen blitt tatt ut av den grønne boblen som vi så i 2020?
+
+[00:02:16] Ja, 2020 er et år som mange husker.
+
+[00:02:19] Indeksen vår var opp masse og slo verdensindeksen med mange, mange tittals prosent.
+
+[00:02:26] Den toppet i januar 2021.
+
+[00:02:28] Det er da to år og fem måneder siden omtrent.
+
+[00:02:32] Og det mest nærliggende sammenligningspunktet som vi ser er,
+
+[00:02:37] er Nasdaq og dotcom-bobla i Q2000.
+
+[00:02:41] Hvis vi sammenligner med den, så tok det da to år og seks måneder omtrent fra topp til bunn.
+
+[00:02:46] Så hvis man skal tenke på tid, så har vi en måned igjen til vi bevåner.
+
+[00:02:51] Nasdaq-indeksen var nær 80 prosent, noe sånt, topp til bunn.
+
+[00:02:56] Vi er nær 50 prosent, topp til bunn.
+
+[00:02:58] Så hvis man ser på den vinklingen, så har vi litt mer å gå.
+
+[00:03:03] Men det er mange selskap der ute som har falt mye.
+
+[00:03:07] Og som egentlig har levert ganske gode finansielle tall.
+
+[00:03:13] Eller i hvert fall det de lovte for to-tre år siden da de kom på markedet.
+
+[00:03:17] De er der ute og jobber og vokser salget.
+
+[00:03:21] Og så får vi se om inntjeningen kommer.
+
+[00:03:23] Det er jo ofte det som er problemet i denne sektoren.
+
+[00:03:26] At salg og vekst er det mye av, men inntjening, avkastning på kapitalen,
+
+[00:03:31] er vanskelig for mange selskap.
+
+[00:03:34] Dere kan investere i mye forskjellig gjennom,
+
+[00:03:37] om fondene, alt fra sol og vind til batterier,
+
+[00:03:41] hydrogen, biodrivstoff, mye annet spennende knyttet til elektrifisering og så videre.
+
+[00:03:49] Hvis man ser på disse ulike undersektorene,
+
+[00:03:52] er det veldig forskjeller på hvordan de er priset relativt til hverandre,
+
+[00:03:57] som gjør at noe stikker seg ut som veldig mye mer attraktivt.
+
+[00:04:02] Det vil jeg egentlig ikke si.
+
+[00:04:03] Vi investerer bottom-up i selskaper,
+
+[00:04:06] heller enn i trender eller sektorer.
+
+[00:04:09] Så vi vil alltid se på det fra en selskapsvinkling.
+
+[00:04:13] Om vi tror at selskapet har konkurranse på trenden,
+
+[00:04:16] har en kultur, har mennesker som gjør interessante ting.
+
+[00:04:20] Det er det som er hovedfokus for oss,
+
+[00:04:21] ikke noe enn om vi tror på en sektor eller ikke.
+
+[00:04:24] Men man kan jo nevne solsektoren som en sektor som var veldig sterk i fjor,
+
+[00:04:29] og som har kommet litt ned i år.
+
+[00:04:31] Sånn vil det alltid være i noen sektorer som gjør det bedre enn andre.
+
+[00:04:35] Ja, absolutt.
+
+[00:04:37] Hele bakteppet her for investeringer i fornybar energi,
+
+[00:04:41] det går jo på behovet for å nå klimamål,
+
+[00:04:44] den sirkulære økonomien som man sikter mot og så videre.
+
+[00:04:47] Sånn du ser det.
+
+[00:04:49] Altså, hvor langt har verden kommet i energiomstillingen?
+
+[00:04:53] Ikke langt.
+
+[00:04:54] Og det er noe man alltid må ha i bakhodet,
+
+[00:04:58] når man tenker på en investering i miljøtemaet.
+
+[00:05:01] Her har vi en boble som har drevet for oss frem til en overprising i markedet.
+
+[00:05:07] Men bak det er det jo en energiomstilling som er en megatrend.
+
+[00:05:12] Hvis man ser på tidligere energiomstillinger fra biomasse til kull,
+
+[00:05:17] fra kull til olje og gass,
+
+[00:05:19] og den som er inne nå fra olje og gass til fornybar,
+
+[00:05:22] så tok de tidligere omstillingene 40-50 år, noe sånt,
+
+[00:05:28] fra å gå fra 20% av energimiksen til 80%.
+
+[00:05:32] Og vi er jo nå på omtrent 20% mer eller mindre for fornybar.
+
+[00:05:37] Så det virker ganske sannsynlig at vi nå har tre, fire, fem, ti år foran oss,
+
+[00:05:43] for hvor vi skal se energiomstillingen spille seg ut.
+
+[00:05:46] Og man trenger jo heftige investeringer for å komme dit.
+
+[00:05:52] Jeg leste i IA, de har en sånn flagship-rapport som de visst nok kommer med hvert år.
+
+[00:05:57] Det er ikke så lenge siden de kom med den nye World Energy Investments, heter den,
+
+[00:06:01] der de sier at investeringene i ren energi,
+
+[00:06:05] det må vokse med noe sånt som 14% i året, frem mot 2030,
+
+[00:06:10] for at man skal klare å nå disse net zero-målene eller være i rute til det.
+
+[00:06:15] Så det er masse penger som skal inn hvis man skal få dette til.
+
+[00:06:19] Og det driver jo en vekst.
+
+[00:06:21] Så det er mange nok muligheter til å investere kapital i energiomstillinger.
+
+[00:06:29] Og hvis du er et selskap som opererer her, så har du mange muligheter til å investere kapital,
+
+[00:06:35] en din kapitalkostnad, eller under.
+
+[00:06:38] Vår oppgave som vi ser det er å fokusere mye på konkurransekraft.
+
+[00:06:44] Hvilke selskaper som gjør noe som ikke andre kan gjøre like godt som de.
+
+[00:06:48] Noen som innoverer raskere enn andre.
+
+[00:06:50] Noen som har et eller annet som gjør at de kan investere til en høyere avkastning
+
+[00:06:54] på kapitalen enn det kapitalen koster.
+
+[00:06:57] For vekst er det noe.
+
+[00:06:59] Det har vi nok av eksempel på at det er.
+
+[00:07:01] Men likevel er det jo sånn, man leser jo stadig at hele omstillingen går for trekt.
+
+[00:07:09] Senest var det Equinor som pekte på dette her i Energy Perspectives-analysen
+
+[00:07:16] som de kom frem med.
+
+[00:07:17] Det er liksom gjenganger. Alt går for sakte.
+
+[00:07:21] Det er lett å komme til den konklusjonen når du tilbringer tid i miljøtemaet
+
+[00:07:25] og tenker på energiomstillingen.
+
+[00:07:27] Men det finnes også andre synspunkter.
+
+[00:07:31] Hvis man tar en titt på Tesla sin masterplan nummer tre,
+
+[00:07:36] så får du jo et mer positivt syn på at dette kan gå.
+
+[00:07:41] Og forhåpentligvis så kommer vi jo til et punkt hvor ting bare akselererer
+
+[00:07:44] og at det ikke er så altfor langt unna.
+
+[00:07:46] Men vi får se, vi får se.
+
+[00:07:48] Kan ikke du si litt om hvordan dere definerer hele miljøtemaet
+
+[00:07:51] og investeringsuniverset?
+
+[00:07:53] Si det litt mer i detalj.
+
+[00:07:56] Det første å si er jo at det finnes ingen definisjon på miljøtemaet
+
+[00:08:01] som ikke alle er enige om.
+
+[00:08:03] Så man står i grunnen litt fritt til å definere det sånn som man vil.
+
+[00:08:06] Og folk gjør det på forskjellige måter.
+
+[00:08:08] Det vi har gjort er for det første ta en bred tilnærming til miljøtemaet.
+
+[00:08:14] Så vi tenker på selskap, i prinsippet i de fleste sektorer som finnes,
+
+[00:08:19] som bidrar til et bedre miljø.
+
+[00:08:22] Ofte er dette å redusere CO2-utslipp, men det kan være andre ting også.
+
+[00:08:27] Og litt mer konkret så har vi da definert tre selskap som bidrar til et bedre miljø.
+
+[00:08:34] Og det er tre temaer eller notemar, som vi mener passer den beskrivelsen.
+
+[00:08:43] Det første er energi.
+
+[00:08:44] Det er åpenbart.
+
+[00:08:45] Det har de aller fleste type miljøfond.
+
+[00:08:46] Du har vind, du har sol, du har biodrivstoff, ikke sant?
+
+[00:08:47] Og så har du hele verdikjeden her.
+
+[00:08:48] Du har de som leverer teknologien.
+
+[00:08:49] Du har de som bygger og utvikler.
+
+[00:08:50] Du er de som eier solparker, vindparker et acceptance.
+
+[00:08:51] Dette er energi.
+
+[00:08:52] leverer teknologien,
+
+[00:08:55] du har de som bygger
+
+[00:08:56] og utvikler, du har de som eier
+
+[00:08:58] solparker, vindparker, etc.
+
+[00:09:00] Dette er energi, ganske åpenbart.
+
+[00:09:03] Tema nummer to handler om
+
+[00:09:04] elektrifisering.
+
+[00:09:06] Hvis du da skaper energi
+
+[00:09:08] på en miljøvennlig måte,
+
+[00:09:10] omdannet til elektrisitet, gjerne,
+
+[00:09:12] så må du da bruke denne elektrisiteten
+
+[00:09:14] der du tidligere kanskje brukte
+
+[00:09:15] fossile brennstoffer, energikilder.
+
+[00:09:18] To typiske undertema
+
+[00:09:20] der er elektriske biler
+
+[00:09:22] og også batterier.
+
+[00:09:25] Og det andre er
+
+[00:09:26] strømnettet, investering av strømnettet.
+
+[00:09:29] Så elektrifisering er nummer to.
+
+[00:09:31] Og nummer tre handler om
+
+[00:09:33] ressurseffektivitet.
+
+[00:09:35] Ofte er dette
+
+[00:09:36] energieffektivitet, men det kan være
+
+[00:09:38] andre ting også.
+
+[00:09:41] Så energieffektivitet handler om
+
+[00:09:43] å bruke energi mer effektivt.
+
+[00:09:45] Tenk på
+
+[00:09:46] varmepumper, for eksempel.
+
+[00:09:48] En effektiv måte
+
+[00:09:49] å varme opp hjemme på sammenlignet med andre
+
+[00:09:52] muligheter. Så det er de tre
+
+[00:09:54] temaene som vi ser på.
+
+[00:09:57] Og da er det
+
+[00:09:58] mye man kan investere
+
+[00:10:01] i. Dette med
+
+[00:10:02] biodrivstoff.
+
+[00:10:05] Det har ikke jeg fått helt
+
+[00:10:07] under huden. Altså i hvilken grad er det en del
+
+[00:10:09] av løsningen
+
+[00:10:10] på energiomstillingen?
+
+[00:10:13] Ja, det er egentlig et godt spørsmål.
+
+[00:10:15] Men du kan jo tenke deg
+
+[00:10:16] for eksempel etanol
+
+[00:10:19] som er et biodrivstoff.
+
+[00:10:20] Så da planter man mais
+
+[00:10:22] i USA, og så
+
+[00:10:24] lager man etanol på det.
+
+[00:10:27] Og så blander man det inn i bensinen
+
+[00:10:28] til folk som kjører bil rundt i USA.
+
+[00:10:32] Og så tenker man
+
+[00:10:32] der starter man i hvert fall
+
+[00:10:35] petroleumbasert bensin.
+
+[00:10:38] Men på den andre siden så bruker
+
+[00:10:39] du jo et sted mellom
+
+[00:10:41] en tredjedel og halvparten av maisen som
+
+[00:10:43] gror i USA, går til dette
+
+[00:10:45] og ikke matproduksjon. Og så er det
+
+[00:10:47] kanskje veldig dyrt også? Du trenger litt
+
+[00:10:49] subsidier, men det kommer jo litt
+
+[00:10:51] å komme ned over tid, men det er
+
+[00:10:53] riktig. Jeg tror hovedproblemet er
+
+[00:10:55] avskoging når du tenker på biodrivstoff.
+
+[00:10:57] Så selv om du vokser denne maisen
+
+[00:10:59] i USA, så kan du ikke plante
+
+[00:11:01] mat der. Må du plante mat et annet sted?
+
+[00:11:03] Kanskje må du plante sojabønner?
+
+[00:11:05] Og sånn kan du egentlig snakke om
+
+[00:11:06] all type biodrivstoff.
+
+[00:11:09] Selv den mest avanserte.
+
+[00:11:11] Så om det er en del av løsningen
+
+[00:11:13] eller ikke, det finnes
+
+[00:11:15] gode argumenter på begge sider der.
+
+[00:11:16] Der vi har investert er i et selskap som heter
+
+[00:11:18] Darling Ingredients.
+
+[00:11:21] Det er et amerikansk selskap som
+
+[00:11:23] hovedsakelig samler inn
+
+[00:11:25] innsatsfaktorer til biodrivstoff.
+
+[00:11:28] Og da snakker vi ikke
+
+[00:11:29] mais eller sojabønner eller
+
+[00:11:31] gud forbi palmolje.
+
+[00:11:33] Da snakker vi brukt frityrolje.
+
+[00:11:36] Da snakker vi avfallsprodukter
+
+[00:11:37] fra slakterier som laver
+
+[00:11:39] olje på det som kommer ut
+
+[00:11:41] av slakteriet etter at kjøttet er tatt bort.
+
+[00:11:44] Så samler de inn disse her tingene
+
+[00:11:46] her, som jo er
+
+[00:11:47] waste. Dette har
+
+[00:11:50] egentlig ikke så mye annet brukt.
+
+[00:11:52] Og så laver de
+
+[00:11:54] fornybar diesel på dette. Og i fremtiden
+
+[00:11:56] også sustainable aviation
+
+[00:11:58] fuel, som de kaller det, som fly
+
+[00:12:00] kan gå på.
+
+[00:12:02] Og på en måte, du kan si argumentet
+
+[00:12:04] at hvis du
+
+[00:12:05] øker etterspørselen etter brukt frityrolje,
+
+[00:12:09] så øker du
+
+[00:12:10] etterspørselen etter sojaolje,
+
+[00:12:13] ikke sant, som brukes på
+
+[00:12:14] sojabønner. Og så
+
+[00:12:16] sojabønnerolje er ganske likt som
+
+[00:12:18] palmolje. Så det
+
+[00:12:20] er en sånn link til avskoging.
+
+[00:12:22] Selv fra de mest bærekraftige
+
+[00:12:24] innsatsfaktorene. Men på den andre
+
+[00:12:27] siden, så brukes disse
+
+[00:12:29] produktene, fornybar diesel, til forskjell
+
+[00:12:31] fra etanol, og
+
+[00:12:32] sustainable aviation fuel til fly.
+
+[00:12:34] De går jo inn i tungtransport.
+
+[00:12:37] Diesel for tungtransport.
+
+[00:12:39] Og i fremtiden til fly.
+
+[00:12:41] Og den type
+
+[00:12:41] bruk, hvor du kanskje ikke kan
+
+[00:12:44] elektrifisere alt bort.
+
+[00:12:47] Så du kan si argument på begge sider,
+
+[00:12:49] men vi er investert i dette selskapet
+
+[00:12:51] fordi vi tror det er et veldig
+
+[00:12:53] godt selskap, veldig godt drevet
+
+[00:12:54] av en sjef som har
+
+[00:12:57] holdt på med dette i 20 år.
+
+[00:13:00] Bygget opp et selskap
+
+[00:13:01] med konkurransefortrinn, med en viss
+
+[00:13:03] kultur, med en god
+
+[00:13:05] forståelse av hvilken rolle
+
+[00:13:07] de har i verden, og hvor de kan
+
+[00:13:08] skape verdier.
+
+[00:13:11] Spennende. I forhold til
+
+[00:13:13] elektriske biler.
+
+[00:13:17] Får man eksponering mot
+
+[00:13:17] det i Miljøinvestfondet?
+
+[00:13:19] Det har jeg nettopp regnet på.
+
+[00:13:22] Og den eksponeringen har
+
+[00:13:23] ligget på rundt 14 prosent av fondet.
+
+[00:13:26] Så omtrent 14 prosent
+
+[00:13:27] av Miljøinvest i dag er
+
+[00:13:29] ganske direkte eksponert
+
+[00:13:32] mot... Er det Tesla
+
+[00:13:33] eller er det andre ting også?
+
+[00:13:35] Vi har to, la oss kalle det
+
+[00:13:38] elektriske bilselskap.
+
+[00:13:40] Det ene er Tesla, og det andre
+
+[00:13:41] er kinesiske BYD.
+
+[00:13:43] Tilsammen er disse to posisjonene
+
+[00:13:45] omtrent 3 prosent av fondet.
+
+[00:13:48] Og det har jo vært gøy
+
+[00:13:49] å være Tesla-aksjonær
+
+[00:13:51] de siste ukene. Nå skal vi ikke bli for kortsiktig,
+
+[00:13:53] men jeg tror aksjene har steget
+
+[00:13:55] noe sånn som 11-12 dager
+
+[00:13:57] på rad, eller noe sånt, som har
+
+[00:13:59] hatt en bra streak nå.
+
+[00:14:02] Det er en investering vi har vært heldige med.
+
+[00:14:04] Så der skjer det mye.
+
+[00:14:06] Men det er klart, hele dette med
+
+[00:14:07] elektriske
+
+[00:14:08] biler. Hvilke vurderinger gjør
+
+[00:14:11] det der i forhold til
+
+[00:14:13] for eksempel
+
+[00:14:14] Kina? De er jo
+
+[00:14:17] langt fremme her, og de har...
+
+[00:14:21] Det blir vel også
+
+[00:14:22] som en del av denne
+
+[00:14:23] en stor konkurrent til flere av de store
+
+[00:14:25] selskapene, som for eksempel Tesla.
+
+[00:14:28] Jeg tror det er
+
+[00:14:29] veldig stor sannsynlighet for at
+
+[00:14:32] Kina tar hele bilmarkedet
+
+[00:14:34] om bare noen få år.
+
+[00:14:36] Det de holder på med der er på et helt annet
+
+[00:14:38] nivå. Sånn som vi
+
+[00:14:40] forstår det, sitter han særlig i Oslo,
+
+[00:14:42] hvor vi leser ting og snakker med folk.
+
+[00:14:44] Hvorfor er det på et helt annet nivå? Hva er det de gjør?
+
+[00:14:46] De laver biler som er bedre kvalitet
+
+[00:14:48] og laver pris enn noen andre kan.
+
+[00:14:50] Så europeiske
+
+[00:14:52] industrien går
+
+[00:14:54] dårlige tider i møte.
+
+[00:14:55] Det er lett å trekke den konklusjonen.
+
+[00:14:59] Nei, det er definitivt
+
+[00:15:02] spennende. Men dette
+
+[00:15:04] med elektriske
+
+[00:15:05] biler, det er noe dere
+
+[00:15:08] ser på som bare kommer til å
+
+[00:15:10] fortsette å vokse
+
+[00:15:12] mye i tiden
+
+[00:15:14] fremover.
+
+[00:15:16] Og fra et sånn investeringssynspunkt
+
+[00:15:18] så er dette noe
+
+[00:15:20] som man
+
+[00:15:21] bør ha, er det sånn å forstå?
+
+[00:15:24] Det at elektriske biler
+
+[00:15:25] vokser raskt, jeg tror ikke vi er de eneste
+
+[00:15:27] som har oppfattet det.
+
+[00:15:29] Men det er jo et godt eksempel på det
+
+[00:15:31] vi snakket om tidligere, at her har du en
+
+[00:15:34] ekstremt rask vekst,
+
+[00:15:36] særlig de siste to-tre årene,
+
+[00:15:38] og særlig Kina, må man legge til.
+
+[00:15:41] Men fremdeles så er det
+
+[00:15:42] sånn, hva er tallet?
+
+[00:15:44] 10 millioner biler pluss,
+
+[00:15:46] som er elektriske, som selges i året,
+
+[00:15:49] og det selges omtrent 80 millioner
+
+[00:15:50] biler i året. Så du ligger på
+
+[00:15:52] en sånn 10-15%
+
+[00:15:54] som er elektriske i verden, hvis du tar med
+
+[00:15:56] hybrid også, kanskje.
+
+[00:15:58] Så det er jo langt å gå, fra 10-15%
+
+[00:16:01] og opp til
+
+[00:16:02] 80-90%. Så du har
+
+[00:16:04] den der megatrenden som ligger bak dekket,
+
+[00:16:06] den raske veksten her er ikke
+
+[00:16:08] syklisk, sånn som den fremstår for oss.
+
+[00:16:11] Vi hadde et
+
+[00:16:11] tilsvarende webinar
+
+[00:16:14] i forrige uke, som dreide seg
+
+[00:16:16] konkret om Tesla, med en av
+
+[00:16:18] forvalterkollegaene dine, Audun Wikstrand
+
+[00:16:21] Iversen, får bare oppfordre de som
+
+[00:16:22] følger med til å gå inn og se det, hvis ikke
+
+[00:16:24] dere har gjort det.
+
+[00:16:26] Men poenget mitt var at
+
+[00:16:28] da gikk vi litt mer i dybden på
+
+[00:16:30] Tesla, og Tesla er jo mye mer enn
+
+[00:16:32] bare bil.
+
+[00:16:34] Det er batterier,
+
+[00:16:36] det er teknologi,
+
+[00:16:38] det er masse annet også.
+
+[00:16:40] Og det er egentlig neste spørsmålet mitt til deg,
+
+[00:16:42] altså sånn, utover liksom
+
+[00:16:44] elektriske biler, hva annet spennende er det
+
+[00:16:46] som ligger i hele elektrifiseringstema?
+
+[00:16:50] Altså tre av de 14%
+
+[00:16:52] ligger i disse to elektriske biltidsskaperne.
+
+[00:16:54] Så har vi omtrent 6%
+
+[00:16:56] som ligger i, la oss kalle det
+
+[00:16:58] gruveselskaper. Så der har du
+
+[00:17:00] sjeldne jordarter, og i enda
+
+[00:17:02] større grad, litium.
+
+[00:17:04] Og dette er jo, her kan vi ikke
+
+[00:17:06] snakke om, skal vi si,
+
+[00:17:08] mennesker, kultur og konkurransfåttrinn
+
+[00:17:10] i like stor grad som på andre
+
+[00:17:12] investeringer vi har. Men vi tror
+
+[00:17:14] jo da at denne elektrifiseringstrenden er
+
+[00:17:16] så sterk, at gruvirksomheten,
+
+[00:17:20] de materialene man trenger,
+
+[00:17:21] ikke klarer å henge med
+
+[00:17:22] i den fasen vi er nå.
+
+[00:17:24] Og så er et annet element at de selskapene vi har
+
+[00:17:26] valgt i stor grad
+
+[00:17:28] nesten utlukkens opererer
+
+[00:17:30] utenfor Kina. Så du har
+
+[00:17:32] den dimensjonen med at hvis du
+
+[00:17:34] prøver å spre risiko litt
+
+[00:17:36] de vestlige landene, hvis de ikke vil
+
+[00:17:38] at 80-90-100% av verdikjeden
+
+[00:17:41] skal ligge i Kina,
+
+[00:17:42] så har disse selskapene noe å tilby da.
+
+[00:17:46] Det er vel ikke
+
+[00:17:46] base case vårt at de kommer til å
+
+[00:17:49] tjene mer på å selge en commodity
+
+[00:17:50] enn noen som har vært innom Kina.
+
+[00:17:53] Men det er et interessant
+
+[00:17:54] aspekt når du tenker på
+
+[00:17:56] geopolitisk kamp om ressurser.
+
+[00:17:59] Hvor flinke er disse
+
+[00:18:00] selskapene til å
+
+[00:18:03] utvinne,
+
+[00:18:05] få tak i disse mineralene,
+
+[00:18:07] hva er det, innsatsfaktorene på en
+
+[00:18:08] miljømessig
+
+[00:18:10] og bærekraftig måte da? Det er vel noe
+
+[00:18:12] de er nødt til å se på?
+
+[00:18:14] Ja, det er helt riktig. Så her er det selskapene
+
+[00:18:16] som vi har brukt ekstra mye
+
+[00:18:18] tid på når det kommer til å
+
+[00:18:21] sjekke
+
+[00:18:24] hvordan de opererer, om de følger alle lover,
+
+[00:18:26] hva slags utvinningsmetoder de har.
+
+[00:18:28] Det er jo litt forskjell på det.
+
+[00:18:30] Hva slags holdninger de har til vann
+
+[00:18:32] for eksempel er ofte viktig.
+
+[00:18:34] Menneskerettigheter kan være viktig
+
+[00:18:36] når man opererer
+
+[00:18:38] langt ut på landet
+
+[00:18:40] i forskjellige land i verden.
+
+[00:18:42] Så ja, vi tror at disse også
+
+[00:18:44] er best in class
+
+[00:18:47] når det kommer til mining.
+
+[00:18:50] Batterier er vel et annet
+
+[00:18:52] tema. Meningen er delte.
+
+[00:18:54] Man kan være for og imot.
+
+[00:18:56] Om man skal ha batterifabrikker i
+
+[00:18:58] Norge eller i Europa
+
+[00:19:00] eller hvor de skal være.
+
+[00:19:02] Hvem som skal subsidiere
+
+[00:19:04] og få de i gang og så videre.
+
+[00:19:06] Men batterier
+
+[00:19:08] det trenger vi jo
+
+[00:19:10] hvis vi skal få til
+
+[00:19:12] dette her. Og lagre
+
+[00:19:14] strøm.
+
+[00:19:16] Den koden trenger vi å knekke
+
+[00:19:18] i stor
+
+[00:19:20] skala. Si litt hvordan
+
+[00:19:22] du ser på dette med batterier
+
+[00:19:24] og eventuelt eksempler på selskaper
+
+[00:19:26] som passer inn.
+
+[00:19:28] Ja.
+
+[00:19:30] Jeg tror ikke batterier er
+
+[00:19:32] selve kjernen som ikke er
+
+[00:19:34] løst enda i energiomstillingen.
+
+[00:19:36] Og da snakker vi
+
+[00:19:38] også batterier til strømnettet
+
+[00:19:40] for å kunne lagre energi.
+
+[00:19:42] Da snakker vi litiumbatterier
+
+[00:19:44] som kan lagre energi i noen timer
+
+[00:19:46] for å stabilisere
+
+[00:19:48] forbruken. Men vi snakker jo også
+
+[00:19:50] andre typer batterier i fremtiden.
+
+[00:19:52] Eller andre lagringsmekanismer iallfall
+
+[00:19:54] som kan lagre energi i mer enn noen timer.
+
+[00:19:56] Så det er kjempeviktig.
+
+[00:19:58] Og hvis man ser på
+
+[00:20:00] det som heter
+
+[00:20:02] Inflation Reduction Act.
+
+[00:20:04] Det var jo egentlig mer Inflation Increase Act.
+
+[00:20:06] For her investeres det jo
+
+[00:20:08] virkelig i batterifabrikker
+
+[00:20:10] i USA og andre steder.
+
+[00:20:12] Det er jo en av de veldig konkrete tingene som
+
+[00:20:14] allerede vi ser kommer ut av den lovgivningen.
+
+[00:20:16] De har gjort det veldig gunstig for
+
+[00:20:18] nasjonale og internasjonale selskaper
+
+[00:20:20] å etablere seg i USA.
+
+[00:20:22] Sånne typer ting.
+
+[00:20:24] Og en annen dimensjon
+
+[00:20:26] er at her også så framstår det
+
+[00:20:28] iallfall for oss sånn som vi ser det
+
+[00:20:30] at det er Kina
+
+[00:20:32] det er der det skjer.
+
+[00:20:34] I Kina har du 100 batteriselskaper som kjemper
+
+[00:20:36] på teknologi, på skala
+
+[00:20:38] og som er på et helt annet nivå
+
+[00:20:40] enn resten av verden.
+
+[00:20:42] BYD
+
+[00:20:44] som vi er jo og driver jo litt med batterier
+
+[00:20:46] så der har vi jo på en måte en eksponering der.
+
+[00:20:48] Men det er masse lederens selskaper
+
+[00:20:50] i Kina. Det andre alternativet
+
+[00:20:52] er Korea. Så i Korea
+
+[00:20:55] der har du LG Chem
+
+[00:20:57] du har SK, du har Samsung
+
+[00:20:59] du har noen flere mindre
+
+[00:21:01] som er veldig gode på batterier
+
+[00:21:03] og kan utfordre Kina.
+
+[00:21:05] Og der har vi en investering
+
+[00:21:07] det er 1% av fondet i LG Chem
+
+[00:21:09] som er
+
+[00:21:11] den største batteriprodusenten
+
+[00:21:13] utenfor Kina.
+
+[00:21:15] Og det har jo egentlig vært et bett på at
+
+[00:21:17] de som nå får lov
+
+[00:21:19] til å etablere seg i USA
+
+[00:21:21] kanskje også i Europa
+
+[00:21:23] til Koreanerne.
+
+[00:21:25] Hvis ikke du vil ha kinesere der
+
+[00:21:27] så må du nesten gå til Koreanerne
+
+[00:21:29] for å få lederens batteriselskaper.
+
+[00:21:31] Ja, ja. Nei også er det klart
+
+[00:21:33] det er mange utfordringer
+
+[00:21:35] med dette her med batteriene
+
+[00:21:37] som du peker på.
+
+[00:21:39] Det kommer sikkert å bli knukket mange koder
+
+[00:21:41] fremover ettersom mange forskere
+
+[00:21:43] prøver å holde på med det.
+
+[00:21:45] Jeg var nede i Tyskland og besøkte en
+
+[00:21:47] batterifabrikk
+
+[00:21:49] der hvor de laget
+
+[00:21:51] sånne litiumbatterier som de bruker
+
+[00:21:53] for elektriske farkoster
+
+[00:21:55] som forhåpentligvis skal fly i luften
+
+[00:21:57] etter hvert.
+
+[00:21:59] Men poenget er at selv om man har teknologien
+
+[00:22:01] i dag til å lage et batteri
+
+[00:22:03] som er enda bedre
+
+[00:22:05] på en måte enn det som er
+
+[00:22:07] markedsstandarden
+
+[00:22:09] så er det en ting å bare klare å lage det batteriet
+
+[00:22:11] men en annen ting er å sette det i
+
+[00:22:13] i storskala produksjon
+
+[00:22:15] så det er masse utfordringer
+
+[00:22:17] som ligger hos disse selskapene fremover
+
+[00:22:19] men forhåpentligvis
+
+[00:22:21] så vil jo man finne løsninger
+
+[00:22:23] på disse tingene relativt raskt
+
+[00:22:25] men ok
+
+[00:22:27] i forhold til elektrisitet da
+
+[00:22:29] en ting er batterier, men dette med elektrisitet
+
+[00:22:31] nettet
+
+[00:22:33] altså gridden som det heter
+
+[00:22:35] på godt norsk
+
+[00:22:37] det har vi jo lest om
+
+[00:22:39] er underinvestert i Norge
+
+[00:22:41] er det tilsvarende ute også
+
+[00:22:43] i resten av verden
+
+[00:22:45] og det er en utfordring
+
+[00:22:47] det er et stort problem
+
+[00:22:49] et problem vi egentlig ikke har adressert
+
+[00:22:51] godt nok
+
+[00:22:53] man setter opp vindmøller
+
+[00:22:55] og solcellerpaneler på takene
+
+[00:22:57] men elektrisitet nettet
+
+[00:22:59] det har tak i kapasitet på de traveleste dagene
+
+[00:23:01] etterpå er man jo at
+
+[00:23:03] hvis du skal sette opp en vindpark
+
+[00:23:05] og så må du koble den til elektrisitet nettet
+
+[00:23:07] så tar dette fem år, ti år
+
+[00:23:09] før du får gjennomsøknaden din
+
+[00:23:11] så det tar veldig lang tid
+
+[00:23:13] og det er jo en utfordring seg selv
+
+[00:23:15] et annet problem er
+
+[00:23:17] at, og det har blitt snakket om lenge
+
+[00:23:19] jo mer sol og vind du får på nettet
+
+[00:23:21] jo mindre kull og gass
+
+[00:23:23] som er baseload
+
+[00:23:25] jevnt og trutt hele tiden
+
+[00:23:27] jo mer svingninger får du
+
+[00:23:29] jo mer stress får du på nettet
+
+[00:23:31] så jo mer batterier trenger du
+
+[00:23:33] og kanskje også jo mer
+
+[00:23:35] smart teknologi trenger du
+
+[00:23:37] for å kunne balansere nettet
+
+[00:23:39] når sol og vind går opp og ned
+
+[00:23:41] så det er jo to av utfordringene
+
+[00:23:43] til nettet
+
+[00:23:45] som gjør at det er et veldig spennende tema
+
+[00:23:47] tror vi
+
+[00:23:49] hva kommer til å skje her da
+
+[00:23:51] er det lett å finne de klare kandidatene
+
+[00:23:53] å satse på
+
+[00:23:55] eller er det
+
+[00:23:57] en vanskelig del av
+
+[00:23:59] sektoren å investere i
+
+[00:24:01] ja, jeg tror det er et veldig viktig
+
+[00:24:03] samfunnsproblem å finne løsning på
+
+[00:24:05] hvordan man kan akselerere de investeringene
+
+[00:24:07] i nettet, for det muliggjør
+
+[00:24:09] fornybar energi, det muliggjør andre ting
+
+[00:24:11] veksten i seg selv på nettet
+
+[00:24:13] er vel lavere kan man si
+
+[00:24:15] enn i andre deler av vårt space
+
+[00:24:17] som har mye vekst
+
+[00:24:19] man kan investere i de som lager
+
+[00:24:21] de som lager kablene
+
+[00:24:23] de som lager trafostasjonene
+
+[00:24:25] et cetera
+
+[00:24:27] vi har to investeringer
+
+[00:24:29] den ene er Schneider Electric
+
+[00:24:31] og den andre er Hubble
+
+[00:24:33] som er to selskaper som leverer litt av hvert
+
+[00:24:35] kan man si, inntil strømnettet
+
+[00:24:37] alt fra sikringsbokser
+
+[00:24:39] til trafostasjoner
+
+[00:24:41] til isoleringsdeler
+
+[00:24:43] som gjør at ikke strømmen går
+
+[00:24:45] fra strømkabelen
+
+[00:24:47] og inn i bygninger
+
+[00:24:49] og andre ting som strømmen ikke skal gå
+
+[00:24:51] masse sånne
+
+[00:24:53] små ting her og der kan man si
+
+[00:24:55] det er omtrent 5% av fondet
+
+[00:24:57] i dag til sammen, de to investeringene
+
+[00:24:59] Hva med løsninger
+
+[00:25:01] eller selskaper
+
+[00:25:03] som har løsninger for å
+
+[00:25:05] spare energi da
+
+[00:25:07] hvor er det man finner de beste
+
+[00:25:09] investeringene her
+
+[00:25:11] for det var litt det vi snakket om innledningsvis
+
+[00:25:13] det handler jo om
+
+[00:25:15] like mye å klare å
+
+[00:25:17] begrense energibruken
+
+[00:25:19] som det er å finne nye måter å produsere energi på
+
+[00:25:21] når man tenker på
+
+[00:25:23] miljøinvesteringer
+
+[00:25:25] og miljøinvest kanskje for noen
+
+[00:25:27] så er det veldig lett å tenke på sol og vind
+
+[00:25:29] kanskje man tenker litt hydrogen eller
+
+[00:25:31] carbon capture eller et eller annet sånt som man hører om
+
+[00:25:33] som jo er
+
+[00:25:35] kjernen av energiomstillingen
+
+[00:25:37] men energieffektivitet har alltid vært
+
+[00:25:39] et veldig viktig område
+
+[00:25:41] for oss
+
+[00:25:43] og et stort investeringsområde for oss
+
+[00:25:45] her er det veldig mange forskjellige selskaper
+
+[00:25:47] veldig mye forskjellig innen sin nisje
+
+[00:25:49] et eksempel på
+
+[00:25:51] noe som vi eier er Kingspan
+
+[00:25:53] som er et irsk selskap
+
+[00:25:55] det er omtrent 2% av fondet i dag
+
+[00:25:57] og det de leverer på, det de er lederne
+
+[00:25:59] i sin nisje på er
+
+[00:26:01] isolering
+
+[00:26:03] så tenkte jeg en sandwich med stål
+
+[00:26:05] isolering, stål
+
+[00:26:07] så sender de disse platerne ut
+
+[00:26:09] og det er jo
+
+[00:26:11] her kommer ikke Kina inn
+
+[00:26:13] og utkonkurrerer det
+
+[00:26:15] man må ha noen lovgivning
+
+[00:26:17] fra statene
+
+[00:26:19] for å drive dette
+
+[00:26:21] eller subsidier
+
+[00:26:23] det finnes den type drivkrefter også
+
+[00:26:25] men tenk for eksempel
+
+[00:26:27] hvis du kjører ut fra Oslo
+
+[00:26:29] så kjører du mot Gademoen
+
+[00:26:31] på høyre side der så ligger det en
+
+[00:26:33] snøpark
+
+[00:26:35] hvor man kan stå på å ski
+
+[00:26:37] man har jo ikke bygd den
+
+[00:26:39] man kan stå på å ski året rundt
+
+[00:26:41] man har ikke bygd den for å
+
+[00:26:43] nå klimamålene
+
+[00:26:45] man har ikke bygd den for at folkene
+
+[00:26:47] har lyst å stå på å ski om sommeren
+
+[00:26:49] også er det opp til eieren å tenke hvordan
+
+[00:26:51] skal vi kunne drive dette som en bedrift
+
+[00:26:53] og da har de da gått til Kingspan
+
+[00:26:55] for å få isolert hele bygget
+
+[00:26:57] topp til tå
+
+[00:26:59] med disse platerne som er den beste isoleringen
+
+[00:27:01] de har kanskje også gått til Kingspan for å kjøpe
+
+[00:27:03] ferdig isolerte rør
+
+[00:27:05] som man kan sende fjernvarme ut på
+
+[00:27:07] hvis man genererer fjernvarme
+
+[00:27:09] eller fjernkulle
+
+[00:27:11] så her har vi på en måte et selskap som opererer
+
+[00:27:13] med litt andre drivere
+
+[00:27:15] med kanskje
+
+[00:27:17] litt mindre tøff konkurranse
+
+[00:27:19] enn de typiske sol- og vindselskaperne
+
+[00:27:21] hvor man kan
+
+[00:27:23] generere konkurransekraft
+
+[00:27:25] og være bedre enn andre
+
+[00:27:27] vokse gjennom oppkjøp år ut
+
+[00:27:29] år inn og da skape
+
+[00:27:31] verdier også for aksjonærene
+
+[00:27:33] er det generelt mange
+
+[00:27:36] muligheter og vil det bare komme mer og mer
+
+[00:27:38] antageligvis i årene som kommer
+
+[00:27:40] med tanke på
+
+[00:27:42] nye krav som stilles til
+
+[00:27:44] nye bygg
+
+[00:27:46] både private og bedriftsbygg
+
+[00:27:48] og så videre
+
+[00:27:50] når ting også skal moderniseres
+
+[00:27:52] og så videre
+
+[00:27:54] det må jo være mange selskaper her
+
+[00:27:56] som står klare til å
+
+[00:27:58] bistå med nettopp
+
+[00:28:00] sånn type energieffektivisering
+
+[00:28:02] som igjen vil skape
+
+[00:28:04] forhåpentligvis gode investeringsmuligheter
+
+[00:28:06] det er helt klart
+
+[00:28:08] det er regulatoriske drivere her også
+
+[00:28:10] og hvis du skal gjøre byggene i Europa
+
+[00:28:12] mer energieffektive
+
+[00:28:14] sånn at de bruker mindre energi
+
+[00:28:16] sånn at vi blir mindre avhengig av russisk gass
+
+[00:28:18] hvis du tar den tankerekka
+
+[00:28:20] så er det klart at det er jo en driver for et type
+
+[00:28:22] Kingspan selskap
+
+[00:28:24] men hvis du skal bygge en batterifabrikk i Arizona
+
+[00:28:26] eller hvor du skal bygge den i sørstaten
+
+[00:28:28] i USA hvor det er 40 grader
+
+[00:28:30] hele sommeren
+
+[00:28:32] da er det liksom økonomisk
+
+[00:28:34] å ha god isolering i bygget ditt
+
+[00:28:36] så det er ganske mange sånn
+
+[00:28:38] rent økonomiske driver også
+
+[00:28:40] for den type selskap
+
+[00:28:42] og hvis du ser på den type selskap som Kingspan representerer
+
+[00:28:44] selskaper som har vokst
+
+[00:28:46] gjemt og trutt over lang tid
+
+[00:28:48] alltid tjent penger, dominerer sin nisje
+
+[00:28:50] har skala på R&D
+
+[00:28:52] som gjør at de har konkurransfortrinn
+
+[00:28:54] så er det faktisk omtrent
+
+[00:28:56] en tredjedel av miljøinvest i dag
+
+[00:28:58] som kanskje ikke alle er klare over
+
+[00:29:00] Bra
+
+[00:29:02] mange gode grunner til å se nærmere på
+
+[00:29:04] miljøinvest fondene
+
+[00:29:06] hvis vi skal avslutte
+
+[00:29:08] i dag
+
+[00:29:10] så er det med et tema som vi ikke har brukt så mye tid på
+
+[00:29:12] nemlig sol og vind
+
+[00:29:14] det har kommet inn litt spørsmål om det underveis
+
+[00:29:16] få så bare henvise til at vi
+
+[00:29:18] gjorde en oppdatering
+
+[00:29:20] med særlig fokus på
+
+[00:29:22] vind med din kollega Kristian Rom
+
+[00:29:24] som vi sendte ut i
+
+[00:29:26] podcastversjon
+
+[00:29:28] tidligere i år
+
+[00:29:30] det ligger ute tilgjengelig og er
+
+[00:29:32] fortsatt
+
+[00:29:34] lyttbart så vi anbefaler alle som
+
+[00:29:36] vil ha mer om vindsektoren
+
+[00:29:38] og hvordan miljøinvest teamet ser på det
+
+[00:29:40] om å høre på den
+
+[00:29:42] men bare sånn
+
+[00:29:44] kort generelt om
+
+[00:29:46] sol og vind
+
+[00:29:48] og hva som er mest spennende der
+
+[00:29:50] før vi runder av, Stian
+
+[00:29:52] Dette er jo store sektorer for fondene
+
+[00:29:54] man kan jo nevne Vestas
+
+[00:29:56] som er en stor posisjon
+
+[00:29:58] folk kjenner kanskje til den aksjen
+
+[00:30:00] CAD leier oss en posisjon
+
+[00:30:02] som vi har hatt en periode nå
+
+[00:30:04] hvor offshore og vind
+
+[00:30:06] er et tema vi liker
+
+[00:30:08] Innen sol eier vi ganske mye
+
+[00:30:10] altså vi eier
+
+[00:30:12] vi eier Skatech
+
+[00:30:14] her har vi jo en som utvikler
+
+[00:30:16] og eier vindparker
+
+[00:30:18] vi eier ganske mye eksponering
+
+[00:30:20] inn mot sol på tak
+
+[00:30:22] spesielt i USA
+
+[00:30:24] så sol
+
+[00:30:26] sol til forskjell fra vind
+
+[00:30:29] kan man se for seg
+
+[00:30:31] at har argumenter for at det skal være
+
+[00:30:33] smått lokalt distribuert
+
+[00:30:35] hvis du tar
+
+[00:30:37] hvis du tar vind
+
+[00:30:39] og så dobler du diameteren
+
+[00:30:41] så får du fire ganger arealet
+
+[00:30:43] hvis du tar sol
+
+[00:30:45] en solpanel
+
+[00:30:47] og liksom dobler
+
+[00:30:49] så får du bare dobbelt så mye arealet
+
+[00:30:51] hvis du dobler antall stål
+
+[00:30:53] så dobler du antall arealet
+
+[00:30:55] så du har kanskje ikke den skala effekten i sol
+
+[00:30:57] så vi tror at vi har mening å ha det på tak
+
+[00:30:59] hvis du tar det på tak
+
+[00:31:01] kobler det med batteri
+
+[00:31:03] og en smart hjerne som man kaller inverter
+
+[00:31:05] så har du da en liten lokal
+
+[00:31:07] power plant
+
+[00:31:09] i huset ditt
+
+[00:31:11] hvor du da i fremtiden
+
+[00:31:13] men mer og mer i fremtiden
+
+[00:31:15] kan da selge denne elektrisiteten inn til nettet
+
+[00:31:17] og ta nettet når strømmen er billig
+
+[00:31:19] og at dette kan være en løsning
+
+[00:31:21] på noe av det vi snakket om tidligere
+
+[00:31:23] med strømnettet og balansere det
+
+[00:31:25] hvis du har store nok antall
+
+[00:31:27] folk som har denne kapasiteten
+
+[00:31:29] til å generere og lagre strøm hjemme
+
+[00:31:31] så kan du da
+
+[00:31:33] forhindre noen av de
+
+[00:31:35] blackout, brownout
+
+[00:31:37] disse utfordringene som strømnettet har
+
+[00:31:39] mye av i USA
+
+[00:31:41] og andre steder
+
+[00:31:43] det er definitivt
+
+[00:31:45] mye spennende som skjer
+
+[00:31:47] og selv om det av og til kan virke som om
+
+[00:31:49] ting går litt tregt
+
+[00:31:51] så skjer det jo veldig mye
+
+[00:31:53] det er i hvert fall følelsen jeg
+
+[00:31:55] sitter igjen med
+
+[00:31:57] særlig etter at det har vært ekstra fokus
+
+[00:31:59] på disse tingene da
+
+[00:32:01] de siste 3-4 årene
+
+[00:32:03] tusen takk for at du kom hit
+
+[00:32:05] og ga oss en oppdatering
+
+[00:32:07] Stian og sist men ikke minst
+
+[00:32:09] tusen takk folkens
+
+[00:32:11] til alle dere som fulgte med
+
+[00:32:24] denne sendingen ble publisert i podkasten Utbytte
+
+[00:32:26] innholdet i sendingen er å anses
+
+[00:32:28] som markedsføringsmateriale fra DNB
+
+[00:32:30] og er ment å være generell spareveiledning
+
+[00:32:32] sendingen skal ikke oppfattes som et tilbud
+
+[00:32:34] om å kjøpe eller selge finansielle instrumenter

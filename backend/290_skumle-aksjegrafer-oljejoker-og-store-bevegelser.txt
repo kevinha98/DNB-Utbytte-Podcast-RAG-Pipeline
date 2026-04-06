@@ -1,0 +1,1305 @@
+Episode 290: Skumle aksjegrafer, oljejoker og store bevegelser
+Publisert: Sat, 20 Au
+Vert: Marius Brun Haugen
+Varighet: 28 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/skumle-aksjegrafer-oljejoker-og-store-bevegelser
+
+--- Transkripsjon ---
+
+[00:00:06] Er det rom for videre oppgang, eller priser aksjemarkedet nå innen at alt skal gå tilnærmet perfekt?
+
+[00:00:14] Er ikke investorene bekymret for at oljeprisen skal videre ned?
+
+[00:00:19] Og hvilke viktige signaler har vi fått fra selskapene som har rapportert denne uken?
+
+[00:00:25] Dette her skal vi diskutere i dagens episode.
+
+[00:00:37] Velkommen til Utbytte, den B-podcasten der vi forklarer hva som skjer innen global økonomien og finansmarkedene.
+
+[00:00:44] Jeg er Marius Bruun Haugen, og med meg har jeg aksjestrateg i Denby Markets, Paul Harper.
+
+[00:00:52] Når vi sitter her, Paul, så er det fredag 19. august. Klokken har akkurat passert 12.
+
+[00:00:59] Jeg lurer på hva det er du har prioritert denne uken.
+
+[00:01:03] Er du å følge med på innsamlingsaksjonen til en statu til minne om Valerossen Freie,
+
+[00:01:08] eller har du valgt å konsentrere deg om det som har skjedd i aksjemarkedet?
+
+[00:01:10] Som vanlig er jeg ikke mer kreativ enn å følge med på.
+
+[00:01:14] På aksjemarkedet, selv om det alltid er mye annet man kan sikkert la seg forstyrre av,
+
+[00:01:20] så prøver jeg å holde fokuset på det som er hovedinteressen.
+
+[00:01:24] Samme her. Jeg hadde vel strengt at jeg ikke regnet med noe annet,
+
+[00:01:27] og jeg tenker det er like greit at vi får holde oss til det vi forsøker å være gode på, nemlig aksjer.
+
+[00:01:33] Ja, det har skjedd en god del. Den amerikanske 10-årsjenten har klatret til 2,9 prosent.
+
+[00:01:40] Oljeprisen er rundt 95 dollar fate.
+
+[00:01:43] Noe ned for uken, som det ser ut akkurat nå.
+
+[00:01:47] Europeiske gasspriser, derimot, er nærmere 400 dollar per fat, målt i oljeekvivalenter.
+
+[00:01:53] Oslo-Børs er temmelig flat for uken, mens USA er i forsiktig positivt terreng.
+
+[00:01:59] Nå gjenstår nok fredagens handel.
+
+[00:02:02] I tillegg har vi hatt mange selskaper som har rapportert,
+
+[00:02:06] og det har kommet noen kraftige nesestyver og noen reale oppturer.
+
+[00:02:09] Hvis du skal velge en ting å starte med, hva er det viktigste som har skjedd denne uken?
+
+[00:02:13] Ja, nå synes jeg det er litt strengt med å bare si én ting,
+
+[00:02:17] for det er jo alltid veldig mye forskjellige ting å følge med på til enhver tid.
+
+[00:02:21] Så som makroperson er det alltid makroting som jeg kanskje synes er det som er mest interessant,
+
+[00:02:27] men jeg synes også litt innenfor teknisk analyse, noen ganske uvanlig tydelige signaler der, synes jeg.
+
+[00:02:35] Selskapsrapporter, som du har nevnt, indeksrevekting,
+
+[00:02:38] så jeg får la deg velge hvordan du vil ta det, hvilken rekkefølge.
+
+[00:02:42] Ja, nei, jeg tenker vi...
+
+[00:02:43] Vi starter med makron slik vi preier, og så graver vi oss ned i det litt mer selskapsspesifikke etter hvert.
+
+[00:02:51] Som vi snakket om i forrige episode, så kan man jo til en viss grad si at markedet priser inn
+
+[00:02:57] at Fed skal lykkes med å få til en myk landing, og jeg tenker, er ikke det litt vel optimistisk?
+
+[00:03:04] Og det jeg mener er at sånn ting ser ut nå, så er vel en myk landing det beste man kan håpe på,
+
+[00:03:10] og hvis det allerede er priset inn, så kan det jo bli vanskelig,
+
+[00:03:13] å levere det som trengs for en videre børsoppgang.
+
+[00:03:16] Ja, det er klart at det er jo ikke noe enkelt å få akkurat den riktige balansen mellom vekst og inflasjon,
+
+[00:03:22] og som du sier, oddsen for at de får det til er ikke noe sånn spesielt god,
+
+[00:03:27] i hvert fall hvis du ser på hvor mange ganger de har fått dette til tidligere,
+
+[00:03:31] så er svaret litt ettersom hvor snill du er med definisjonen her,
+
+[00:03:35] enten null eller muligens en eller to tilfeller,
+
+[00:03:39] så dette er hvis du ser tilbake til 60-tallet.
+
+[00:03:43] Og spesielt dagens situasjon virker enda litt vanskeligere enn de fleste av disse andre,
+
+[00:03:49] så om man kan samlinge med, så må jeg si i utgangspunktet,
+
+[00:03:52] så skal man kanskje ikke legge alt for stor sannsynlighet på at dette får det til.
+
+[00:03:56] Men vi har jo hatt en periode nå hvor liksom dårlige nyheter,
+
+[00:03:59] det som i utgangspunktet skal være dårlige nyheter, det har blitt tatt godt imot.
+
+[00:04:04] Hvor lenge kan dårlige makronyheter være gode nyheter?
+
+[00:04:10] Jeg tror vi skal sette litt på spissen,
+
+[00:04:12] så blir det egentlig frem til de dårlige nyhetene ser ut som de er så dårlige,
+
+[00:04:16] at det blir recessjon ut av det.
+
+[00:04:18] Så jeg tror vi kan egentlig argumentere for at om det er litt dårligere vekst,
+
+[00:04:24] da er det en sånn slags soft patch, om man vil kalle det det,
+
+[00:04:27] om estimatene bare kommer ned en 3-4 prosent,
+
+[00:04:30] så er ikke det så dramatisk hvis rentene også kommer ned samtidig.
+
+[00:04:34] Så det er jo sånn at vi kan egentlig bruke som et eksempel hva som har skjedd hittil i år,
+
+[00:04:39] at estimatene er opp 13%.
+
+[00:04:42] Men i Norden for 2023, mens kursutviklingen er ned 13%.
+
+[00:04:48] Så den inntjeningen blir egentlig tromfet av renter, i hvert fall på kort sikt.
+
+[00:04:54] Så på samme måte som vi har hatt en dårlig utvikling til tross for god utvikling i inntjening,
+
+[00:04:59] så kan det motsatte også skje.
+
+[00:05:01] Så det er det at så lenge man unngår recessjon,
+
+[00:05:05] så tror jeg man er villig til å tåle i hvert fall noen dårlige nyheter.
+
+[00:05:09] Du har to skumle grafer.
+
+[00:05:12] Du har vist meg denne uken,
+
+[00:05:14] og den ene går på amerikanske høyrenteobligasjoner,
+
+[00:05:19] som har dippet de siste dagene.
+
+[00:05:22] Hvorfor er det litt skummelt?
+
+[00:05:24] Stort sett så korrelerer høyrenteobligasjoner med aksjer.
+
+[00:05:29] Så det er jo egentlig sånn at de har en felles driver
+
+[00:05:32] som utvikling i selskapsinntjening og risikoappetitt generelt.
+
+[00:05:39] Det er jo selvfølgelig en del andre driver også inne i,
+
+[00:05:42] men det hovedgreie er at de stort sett går i samme retning.
+
+[00:05:47] Men det som er litt skummelt ...
+
+[00:05:49] Samme retning som aksjer?
+
+[00:05:52] Ja, så å si prisen på high yield,
+
+[00:05:56] så ikke utvikling i selve renten der.
+
+[00:06:00] Så hvis man for eksempel da tar en graf opp av high yield ETF-en,
+
+[00:06:05] og samlinger det med S&P ETF-en,
+
+[00:06:08] så stort sett så ser de ganske like ut,
+
+[00:06:10] men de tilfellene hvor det er noe sprik,
+
+[00:06:14] som regel så er det sånn at det er high yield som leder aksjer og ikke motsatt.
+
+[00:06:18] Nå har vi da hatt de siste dagene at high yield har begynt å legge aksjer litt,
+
+[00:06:23] og ser man tilbake til tilsvarende situasjoner hvor det samme har skjedd,
+
+[00:06:28] så har det gjerne vært sånn at aksjer da har følt high yield i etterkant,
+
+[00:06:32] og det skjer både på topper og bunner.
+
+[00:06:34] Her snakker vi veldig korte svingninger,
+
+[00:06:36] men likevel verdt å holde et øye på.
+
+[00:06:38] Det andre grafen som du har vist meg,
+
+[00:06:42] som også er litt sånn skummel fra et teknisk perspektiv,
+
+[00:06:47] det er S&P 500-indeksen,
+
+[00:06:49] for den snudde ned i møte med 200-dagers glidende snitt.
+
+[00:06:53] Ja, så det er jo som vi har nevnt i flere podkaster tidligere,
+
+[00:06:58] delte meninger om hvor mye vekt man skal legge på teknisk analyse,
+
+[00:07:01] men det jeg synes man kan i hvert fall påstå her,
+
+[00:07:04] er at stort sett så er det sånn at kurser leder det,
+
+[00:07:08] det fundamentale,
+
+[00:07:10] så hvis man skal ignorere teknisk analyse,
+
+[00:07:12] da skal man være jammen veldig god til å fange opp fundamentale endringer ganske fort.
+
+[00:07:18] Og det vi har sett nå de siste dagene,
+
+[00:07:20] er at noen av de aller mest klassiske tekniske signaler nå,
+
+[00:07:26] flere av de gir omtrent samme inntrykk omtrent samtidig,
+
+[00:07:29] og det er ikke så ofte at bildet er så tydelig, synes jeg,
+
+[00:07:31] og som du nevner, så er en av disse tingene den 200-dagers glidende snitt,
+
+[00:07:36] som da ofte blir sett på som,
+
+[00:07:38] at motstandsnivå eller støttenivå akkurat nå,
+
+[00:07:42] så er jo indeksen under den 200-dagers glidende snitt,
+
+[00:07:46] og det kom akkurat opp og touchet tidligere i uken,
+
+[00:07:49] og så kom litt ned igjen,
+
+[00:07:50] så det bekrefter at det er motstandene i det bildet.
+
+[00:07:54] Så du har først det som er en faktor,
+
+[00:07:56] så er det også at markedet så ganske overkjøpt ut,
+
+[00:07:59] med RSI på over 70 litt tidligere i uken,
+
+[00:08:01] så det er enda en tikk in the box, kan du si.
+
+[00:08:05] Og så hvis du ser på S&P 500 i en litt større sammenheng,
+
+[00:08:08] da ser på det i løpet av det siste året,
+
+[00:08:12] så har du egentlig en ganske stor hodeskulder-toppe
+
+[00:08:15] som har utviklet seg også.
+
+[00:08:17] Så det er liksom en toppformasjon i mer sånn big picture,
+
+[00:08:21] pluss at du da har en del motstandsnivåer,
+
+[00:08:24] som har da holdt i hvert fall nå de siste dagene,
+
+[00:08:28] og så får vi se om det fortsetter,
+
+[00:08:30] men klarte ikke å bryte opp,
+
+[00:08:31] så synes jeg den grafen egentlig ser ganske bearish ut.
+
+[00:08:33] Så skal vi vel heller ikke glemme at det fortsatt er ferietid i USA,
+
+[00:08:36] som i hvert fall historisk betyr at det er litt mindre aktivitet
+
+[00:08:41] og volymer enn normalt,
+
+[00:08:43] og dermed så øker jo også sjansene for at man får noen utslag
+
+[00:08:46] som det kanskje ikke er helt holdig på lengre sikt.
+
+[00:08:49] Ja, så det kan jo si at på kort sikt så synes jeg
+
+[00:08:52] sånne ting ser litt skummelt ut på chartet,
+
+[00:08:54] men man kan jo også snude rundt og si at
+
+[00:08:57] ser man litt lenger frem i tid,
+
+[00:09:00] så har vi da en del fundamentale faktorer
+
+[00:09:02] som faktisk kanskje begynner å se litt bedre ut.
+
+[00:09:05] For eksempel det at inflasjonen
+
+[00:09:06] kommer ned relativt fort nå antageligvis,
+
+[00:09:09] de neste månedene,
+
+[00:09:10] så det oddsen for at du får en soft landing
+
+[00:09:13] kan kanskje egentlig se høyere ut
+
+[00:09:15] om noen uker enn det det gjør akkurat nå,
+
+[00:09:18] så både det at inflasjonen kommer ned,
+
+[00:09:20] men vi har jo også egentlig hatt en del
+
+[00:09:22] ganske OK makrotall de siste ukene,
+
+[00:09:24] så vi har hatt retail sales var litt bedre enn ventet,
+
+[00:09:27] industrial production var bedre enn ventet,
+
+[00:09:29] jobless claims var en annen så bedre,
+
+[00:09:31] Philly Fed Survey var litt bedre,
+
+[00:09:33] så flere makrotall egentlig sier at
+
+[00:09:36] det er ikke noe bråstopp i amerikansk økonomi
+
+[00:09:38] samtidig som inflasjonen kommer ned,
+
+[00:09:40] og akkurat den kombinasjonen er jo egentlig
+
+[00:09:42] ganske bra for aksjemarkedet.
+
+[00:09:43] Så du kan si på veldig kort sikt,
+
+[00:09:45] så er det bearish ut,
+
+[00:09:46] jeg må ville til å se en måned eller to fremover,
+
+[00:09:48] så er det kanskje ikke så gærent,
+
+[00:09:50] men så er det mer sånn tre til seks måneder pluss
+
+[00:09:53] som blir vanskelig å se for seg
+
+[00:09:54] at du helt får til den myke landingen.
+
+[00:09:57] Så det blir veldig sånn frem og tilbake her,
+
+[00:09:58] og da er det veldig vanskelig å ha noe sånn
+
+[00:10:00] veldig tydelig budskap synes jeg akkurat nå.
+
+[00:10:02] – Vi skal holde oss ganske så kortsiktige litt til.
+
+[00:10:08] Neste uke så er det nemlig det klassiske
+
+[00:10:11] Jackson Hole-møtet, der får vi høre fra
+
+[00:10:14] den amerikanske sentralbanken tradisjon tro.
+
+[00:10:18] Kan vi vente noe interessant?
+
+[00:10:19] – Ja, det kommer sikkert noe interessant ut av dette her,
+
+[00:10:23] men det har jo vært veldig mye fokus nå på
+
+[00:10:26] renteutviklingen og hvor høyt det er
+
+[00:10:29] de må sette renten opp etterhvert,
+
+[00:10:31] og jeg tror jeg har vært inne på dette her flere ganger,
+
+[00:10:34] men akkurat for øyeblikket nå så er det et gap
+
+[00:10:37] mellom hva som er priset inn i Fed Funds Futures
+
+[00:10:40] og den rentebanen som Fed indikerte
+
+[00:10:44] siste gang de publiserte den såkalte dot-platen.
+
+[00:10:47] Så jeg tror ikke vi får noe fasitsvar på noe her,
+
+[00:10:50] men i hvert fall kanskje noen hint om til hvilken grad
+
+[00:10:53] det er snakk om at markene må justere seg opp
+
+[00:10:56] til den rentebanen, eller om Fed justerer rentebanen
+
+[00:10:59] ned til denne markedet her.
+
+[00:10:59] Jeg mistenker at i første omgang så kommer nok
+
+[00:11:02] Fed til å stå på sitt, i hvert fall etter det to møter til.
+
+[00:11:07] Jeg kan ikke utelukke at de kapitulerer på et eller annet
+
+[00:11:09] tidspunkt, men jeg tror det er litt for tidlig
+
+[00:11:11] for dem å gjøre det helt ennå.
+
+[00:11:12] Ja, men bra. Skal vi gå videre til det norske markedet,
+
+[00:11:16] så er det naturlig å starte med oljeprisen, synes jeg.
+
+[00:11:21] Altså, en ting som jeg tenker det er verdt å snakke om,
+
+[00:11:25] det er de oljerelaterte aksjene.
+
+[00:11:27] De har holdt seg greit.
+
+[00:11:29] I denne uken, hvis man tar opp en graf der man sammenligner
+
+[00:11:33] energiindeksen på Oslo Børs med oljeprisen
+
+[00:11:36] de siste 30 dager, så får man en slags high-cheft.
+
+[00:11:41] Altså, siden starten av august, så viser det enda at
+
+[00:11:44] olje har sklidd nedover, mens energi har holdt seg
+
+[00:11:49] steget forsiktig.
+
+[00:11:50] Så det jeg egentlig lurer på, er sier markedet her
+
+[00:11:52] at de ikke tror på oljepriser på 90-tallet spesielt lenge,
+
+[00:11:57] eller at de heller ikke er bekymret for at oljeprisen
+
+[00:11:59] skal sli videre?
+
+[00:12:01] Jeg tror det viktige her er at skal du sammenligne
+
+[00:12:04] utviklingen i aksjekursene med oljeprisen,
+
+[00:12:06] så må du også ha et eller annet for gassprisutviklingen.
+
+[00:12:09] Som du nevnte litt tidligere, så regner du ut hvor
+
+[00:12:12] gassprisen er i oljeekvivalenter, så er det opp imot
+
+[00:12:16] 400 dollar fatetilsvarende, så da blir jo den utviklingen
+
+[00:12:21] der ekstremt viktig i det regnestykket.
+
+[00:12:24] Og spesielt når man tenker på Equinor for eksempel,
+
+[00:12:27] som blir det største
+
+[00:12:29] selskapet her, så er det opp imot 40% av inntjeningen,
+
+[00:12:35] eller volymen det er i gass, og da blir jo inntjening
+
+[00:12:38] egentlig mye mer sensitiv til gassprisutviklingen
+
+[00:12:41] enn oljeprisen, og gassprisene da har jo vært
+
+[00:12:43] veldig sterke nå en periode.
+
+[00:12:45] Så uten at vi skal bruke for mye tid på olje
+
+[00:12:48] denne gangen, det kommer vi til å komme med tilbake
+
+[00:12:50] til kanskje neste uke eller uken etter der, når vi
+
+[00:12:55] kommer med oppdaterte anslag på oljeprisen, så gir det
+
+[00:12:59] fortsatt mening å være eksponert mot energisektoren
+
+[00:13:04] sånn som du ser det, eller hva?
+
+[00:13:05] Ja, vi synes det. Du kan si på kort sikt, så blir det
+
+[00:13:08] litt binært da at skulle det komme en eller annen
+
+[00:13:12] fredsavtale i Ukraina, så vil i så fall gassprisen
+
+[00:13:15] antageligvis falle.
+
+[00:13:16] Men hva er det som tyder på det da, Paul?
+
+[00:13:18] Ikke så veldig mye, tror jeg. Du kan si i hvert fall
+
+[00:13:21] sånn det ser ut akkurat nå, så det er ikke noe som
+
+[00:13:23] jeg tror er så veldig sannsynlig, så jeg er helt
+
+[00:13:26] komfortabel med å fortsatt ha Equinor i ukens portefølje
+
+[00:13:29] for eksempel, så det er jo det at det kan falle
+
+[00:13:32] plutselig, og det er ikke noe man kan egentlig
+
+[00:13:34] analysere seg frem til hvor sannsynlig det er,
+
+[00:13:38] men jeg tror ikke det er noe som man skal legge til
+
+[00:13:41] grunn i hvert fall. Men så er det jo også da når
+
+[00:13:44] vi tenker på oljeprisen på litt lengre sikt,
+
+[00:13:46] det er en sånn tema som vi har vært inne på flere
+
+[00:13:49] ganger, at signalene oljeselskapene har fått
+
+[00:13:52] fra politikerne er at fossil energi er noe vi vil
+
+[00:13:56] bli kvitt etter hvert, og da vil ikke de gjøre
+
+[00:13:59] investeringer som tar 10-20 år før du får payback.
+
+[00:14:03] Så da blir det til at det blir heller mindre prosjekter
+
+[00:14:06] som de gjør, og da blir det ikke den type boom-bust-syklen
+
+[00:14:12] som det har vært tidligere, hvor du har en periode
+
+[00:14:14] med sterk oljepris, så kommer det store investeringer,
+
+[00:14:16] og så blir det alt for mye olje senere.
+
+[00:14:19] Så her tror jeg det ender opp med at olje kan bli
+
+[00:14:22] en mye mer stabil lønnsom inntekt over i hvert fall
+
+[00:14:27] en god stund.
+
+[00:14:28] Litt sånn som tobakkeindustrien har vært,
+
+[00:14:32] at det blir veldig lønnsomt for de som driver på med det
+
+[00:14:35] og ikke alt for mye konkurranse.
+
+[00:14:42] Resultatsesongen har rullet og gått videre.
+
+[00:14:46] Vi har fått noen ganske store utslag denne uken,
+
+[00:14:49] og vi skal tekke frem to eksempler på selskaper
+
+[00:14:52] som er til rake motsetninger i hvordan markedet
+
+[00:14:56] har reagert på tallene.
+
+[00:14:57] Så kan vi ta Oddfjell Tankers på den ene siden,
+
+[00:15:01] og IT eller teknologiselskapene.
+
+[00:15:03] Teknologiselskapet Crayon på den andre,
+
+[00:15:05] da opp og ned henholdsvis 20 prosent.
+
+[00:15:08] Hvis vi starter med Oddfjell,
+
+[00:15:10] så har shippingteamet hevet kursmålet fra 65 til 90 kroner
+
+[00:15:16] i en tar kjøp, og det er etter at de leverte
+
+[00:15:19] det som har vært sterkeste kvartalet siden 2007.
+
+[00:15:25] Så det sier jo litt.
+
+[00:15:26] Dette her er jo kjemikalietank og terminaler,
+
+[00:15:30] men shipping lever jo litt sitt eget liv,
+
+[00:15:33] kan du si, og det er ulike segmenter,
+
+[00:15:35] men tankpål, det har jo generelt vært i sige
+
+[00:15:38] nå en liten stund, og det ser ut til å fortsette
+
+[00:15:41] i riktig retning enn så lenge,
+
+[00:15:42] også for stortank som har begynt å røre på seg.
+
+[00:15:45] Ja, tank har jo vært et veldig fint sted å være
+
+[00:15:47] for de som er investert i shipping,
+
+[00:15:50] og i Oslo Børs er jo en litt sånn spesiell situasjon
+
+[00:15:54] hvor akkurat de sektorene hvor det er mye av i Oslo
+
+[00:15:56] og ikke noe særlig andre steder,
+
+[00:15:58] er nettopp det som har gått veldig bra i år.
+
+[00:16:00] Så det har liksom energi er en ting,
+
+[00:16:02] men fisk har jo gått bra, spesielt i starten av året,
+
+[00:16:05] og så har det shipping som det heller ikke er så voldsomt
+
+[00:16:07] mye av utenfor Norges grenser,
+
+[00:16:10] og der har det jo også vært veldig stert,
+
+[00:16:12] og spesielt nå innenfor både produkttank og stortank
+
+[00:16:16] nå de siste ukene.
+
+[00:16:18] Så jeg synes det er vanskelig å vedde mot shipping,
+
+[00:16:22] for de har jo også kommet litt i den samme situasjonen
+
+[00:16:25] som vi var inne på med oljeselskapene,
+
+[00:16:28] at på grunn av forskjellige nye miljøkrav
+
+[00:16:31] og usikkerheter rundt helt hva det blir til,
+
+[00:16:34] så har det vært lite bestillinger av nye skip
+
+[00:16:36] nå i de fleste segmentene,
+
+[00:16:38] med kanskje mulig unntak av konteiner,
+
+[00:16:40] og da i stedet for å få denne voldsomme boom-bust-syklen
+
+[00:16:44] som det gjerne har vært tidligere,
+
+[00:16:46] så kan man egentlig få litt mer forutsigbarhet
+
+[00:16:49] i inntjeningen fremover,
+
+[00:16:50] så både ser ting ut bra nå,
+
+[00:16:53] men det kan godt hende at det holder seg bra
+
+[00:16:55] i mye lengre tid enn det har vært vanlig.
+
+[00:16:58] Så byggere som ikke stikker markedet
+
+[00:17:00] som ofte har vært tendensen,
+
+[00:17:01] så vi synes tank og produkttank
+
+[00:17:04] ser veldig spennende ut,
+
+[00:17:06] og det er kanskje den segmenten
+
+[00:17:07] som har best momentum av noe som helst
+
+[00:17:09] akkurat nå på børsen.
+
+[00:17:11] Og så hvis vi tar Krøyen,
+
+[00:17:13] da snakker vi altså tech-innfrid,
+
+[00:17:16] det er vel ikke helt med rapporten sin,
+
+[00:17:18] kanskje også litt usikkerhet
+
+[00:17:20] rundt gjeldsforpikkelser og så videre,
+
+[00:17:23] men analysetiden vårt gjentar kjøp.
+
+[00:17:27] Når vi ser på tech-aksjene,
+
+[00:17:29] så skal vi også huske at
+
+[00:17:31] generelt så har jo ikke tech funket så bra
+
+[00:17:34] denne uken, i hvert fall norsk tech,
+
+[00:17:36] når det er eksemkonduktor,
+
+[00:17:37] også ned for uken, Paul.
+
+[00:17:39] Ja, så tech har jo vært et vanskelig sted
+
+[00:17:42] å være i store deler av året,
+
+[00:17:44] så kan du kanskje si at
+
+[00:17:46] Krøyens tilfelle,
+
+[00:17:48] så har jo de kanskje klart seg
+
+[00:17:49] litt bedre enn en del annet innenfor tech,
+
+[00:17:53] og da hvis du først skuffer på tallene,
+
+[00:17:55] så får du skikkelig smekke for det,
+
+[00:17:59] så jeg tror du kan si at
+
+[00:18:01] i normale tider så hadde kanskje ikke
+
+[00:18:04] aksjen falt såpass mye på de tallene,
+
+[00:18:06] men det er nettopp det at
+
+[00:18:07] tålmodigheten for noe gromt
+
+[00:18:10] innenfor tech er relativt begrenset,
+
+[00:18:13] og da når de skuffer litt,
+
+[00:18:15] så får du en stor reaksjon.
+
+[00:18:17] Men går vi til cleantech,
+
+[00:18:19] altså det som er mye fornybart,
+
+[00:18:21] så ser vi at hvis vi ser på
+
+[00:18:23] iShares clean energy ETF-en,
+
+[00:18:25] så er den også flatet ut
+
+[00:18:27] den uken etter flere uker
+
+[00:18:30] med større nivåer.
+
+[00:18:31] Det er en solid oppgang.
+
+[00:18:33] Er det rentene her som vi må se til,
+
+[00:18:36] eller blir det sånn for lett
+
+[00:18:37] å forklare det med renter?
+
+[00:18:39] Altså rentene er nok en ting,
+
+[00:18:41] at som du nevnte tidligere,
+
+[00:18:42] så har rentene sakte men sikkert
+
+[00:18:44] krabbet litt oppover nå etter hvert,
+
+[00:18:47] og jeg synes man kan også kanskje se det
+
+[00:18:48] litt i sammenheng med det vi snakket om
+
+[00:18:50] rundt S&P chart.
+
+[00:18:53] Vi har jo hatt nå en ganske solid
+
+[00:18:55] rebound fra midten av juni en gang.
+
+[00:18:59] Nå begynner det å kanskje
+
+[00:19:00] se litt slitent ut
+
+[00:19:02] både på hovedindeksen,
+
+[00:19:04] men når vi ser på
+
+[00:19:06] noen av disse forskjellige
+
+[00:19:07] subindeksene, så har clean energy
+
+[00:19:10] vært en av de som har gjort det veldig bra
+
+[00:19:12] i den oppgangsperioden, og da er det
+
+[00:19:14] også naturlig at det er kanskje der du
+
+[00:19:16] begynner å flate ut når du ser
+
+[00:19:18] at store indekser som S&P
+
+[00:19:20] også begynner å slite litt
+
+[00:19:22] mer. Så renter er nok
+
+[00:19:24] absolutt en del av det, men det er nok også
+
+[00:19:26] kanskje litt gevinnssikring at når du har
+
+[00:19:28] fått en såpass bra periode, så
+
+[00:19:30] når man alltid er i et punkt hvor
+
+[00:19:31] man tenker at nå er det kanskje greit å
+
+[00:19:33] ta litt penger av bordet, og at
+
+[00:19:36] det ikke nødvendigvis behøver å bety så veldig mye
+
+[00:19:38] mer enn det.
+
+[00:19:39] Vi skulle nevne Elmera Group,
+
+[00:19:43] også kjent som Fjordkraft.
+
+[00:19:45] Det er vel holdingsselskapet her
+
+[00:19:46] som har skiftet navn.
+
+[00:19:49] Der gjenta vi
+
+[00:19:50] Hollandbefalingen, har satt
+
+[00:19:52] kursmålet ødelite opp til
+
+[00:19:54] 23 kroner fra 22.
+
+[00:19:57] Slo forventningene for
+
+[00:19:58] Q2, men
+
+[00:20:01] så setter Ole Martin,
+
+[00:20:02] analytikeren vår, litt spørsmålstein med
+
+[00:20:04] hva skal vi si, kvaliteten
+
+[00:20:06] i
+
+[00:20:07] den biten.
+
+[00:20:12] Men likevel
+
+[00:20:13] er aksjen noe
+
+[00:20:14] å ha på watchlisten.
+
+[00:20:16] Den er jo utbombet, det er kanskje ikke riktig
+
+[00:20:18] ord, men den har jo sklidd
+
+[00:20:20] og vært out of favor lenge.
+
+[00:20:22] Jeg synes egentlig dette er noe man skal se
+
+[00:20:24] litt nærmere på.
+
+[00:20:26] Som du sier så har det jo vært i en lang
+
+[00:20:28] negativ trend her ganske lenge.
+
+[00:20:31] Og igjen tilbake til det tekniske
+
+[00:20:32] analysepoenget mitt, at her
+
+[00:20:34] fikk du da egentlig en sånn klassisk
+
+[00:20:36] toppformasjon, og de som følte med
+
+[00:20:38] på teknisk analyse ville ha vært ganske tidlig
+
+[00:20:40] ute med å ta gevinst i denne her når det
+
+[00:20:42] først begynte å toppe ut. Men systematene
+
+[00:20:44] de tok egentlig en god stund
+
+[00:20:46] før de begynte å falle.
+
+[00:20:48] Så nå på samme måte
+
+[00:20:50] da så har vi egentlig sett at kursene
+
+[00:20:52] har begynt å flate ut.
+
+[00:20:54] Skal ikke si at den negative trenden er
+
+[00:20:56] helt definitivt bruttet enda, men det
+
+[00:20:58] er ganske nærme, tror jeg.
+
+[00:21:01] Tallene som kom i går, da de
+
+[00:21:02] første inntrykk var veldig bra,
+
+[00:21:05] så viste det seg at noe av det var
+
+[00:21:06] kanskje litt sånne engangseffekter
+
+[00:21:08] eller noe hedging gains, som det ikke var sånn veldig
+
+[00:21:10] tydelig på hvor stor effekt det egentlig var
+
+[00:21:12] eller ikke. Men jeg synes man
+
+[00:21:14] begynner å se noe tegn til at
+
+[00:21:16] kanskje det verste er bak oss.
+
+[00:21:19] Og når vi ser på prising av selskapet
+
+[00:21:20] så er det rundt sånn 6 ganger PE.
+
+[00:21:23] Så det er jo et nivå som sier at
+
+[00:21:24] markedet har egentlig gitt litt opp med den aksjen.
+
+[00:21:27] Det er jo alltid litt sånn risiko
+
+[00:21:28] å kjøpe aksjer som bare er billig uten
+
+[00:21:31] å ha noe annet som gir deg
+
+[00:21:33] noen grunn til å kjøpe.
+
+[00:21:34] Så den type value trap-risikoen
+
+[00:21:37] er der, men hvis du først begynner å få oppjustering
+
+[00:21:39] i estimater, det er det som gjerne
+
+[00:21:40] er forskjellen fra en value trap og
+
+[00:21:42] noe som faktisk er verdt å satse litt
+
+[00:21:45] på. Så tenker du
+
+[00:21:47] at dette her kan komme noe tilbake til
+
+[00:21:48] normalen, så er det ikke sånn helt fa-fetched
+
+[00:21:50] å tro at 6 ganger PE kan bli 9 ganger
+
+[00:21:52] for eksempel. Og da har du en ganske
+
+[00:21:54] fin gevinst hvis det skulle
+
+[00:21:56] slå ut. Og hvis du først får tillit
+
+[00:21:58] tilbake til caset, så tror jeg også
+
+[00:22:00] høyere enn 9 her innenfor
+
+[00:22:02] det som er mulig å oppnå.
+
+[00:22:05] Så får man først litt tegn til at
+
+[00:22:06] denne bunnformasjonen
+
+[00:22:08] utvikler seg, estimatene begynner å trekke litt
+
+[00:22:10] oppover, så tror jeg det kan være grei
+
+[00:22:13] å oppsi det her etterhvert. Men vi er litt
+
+[00:22:14] usikre på om det er for tidlig utgjent da, eller ikke?
+
+[00:22:17] Ja, altså etter min mening
+
+[00:22:19] så har jo de vært ganske
+
+[00:22:21] på bærtur i måten de har behandlet
+
+[00:22:22] forbrukerkundene sine på.
+
+[00:22:25] Det må jeg vel si.
+
+[00:22:27] Og det tror jeg de vil få svif for
+
+[00:22:29] faktisk en god
+
+[00:22:30] til, men som du sier
+
+[00:22:33] det er godt mulig at det er veldig mye negativt prisetiden
+
+[00:22:35] at det skal lite til for å dytte aksjekursen
+
+[00:22:37] opp da, men denne tilliten hos
+
+[00:22:39] kundene, nei
+
+[00:22:40] jeg tror ikke det er noe de fikser med
+
+[00:22:42] på 1, 2, 3 altså.
+
+[00:22:44] Nei, men det er liksom noe som gjør det
+
+[00:22:46] også mulig at du behøver ikke
+
+[00:22:48] å ta i med denne her helt nøyaktig
+
+[00:22:51] for det er nettopp som du sier at det tar tid
+
+[00:22:53] å bygge dette opp igjen, så
+
+[00:22:54] om du misser de første 10 prosentene
+
+[00:22:56] her, så er ikke det noe krise
+
+[00:22:58] for det er fortsatt mye å gå på.
+
+[00:23:00] Jeg tror ikke du tar ut alt sammen med en gang
+
+[00:23:02] for det er nettopp det at du må bygge det litt
+
+[00:23:04] sten på sten. Et kvartal
+
+[00:23:06] er ikke noe trend, men to kvartaler
+
+[00:23:08] begynner å hjelpe litt, og så får du en tredje kvartal
+
+[00:23:11] eller et tredje kvartal som
+
+[00:23:12] også eventuelt blir bra, så kan
+
+[00:23:14] det begynne sakte, men sikkert å etablere
+
+[00:23:16] en positiv momentum. Så jeg tror ikke
+
+[00:23:18] om det viser seg at bunnen er allerede bak oss
+
+[00:23:20] så har du fortsatt litt tid før
+
+[00:23:22] denne ideen har løpt fra deg.
+
+[00:23:24] Norske skog må vi altså nevne.
+
+[00:23:26] Jeg synes den har klatret fint
+
+[00:23:28] denne uken. Du har jo den i porteføljen med
+
+[00:23:30] anbefalte aksjer
+
+[00:23:31] på analistim her, en kjøpsanbefaling
+
+[00:23:34] på den.
+
+[00:23:36] Er det noe nytt her? Nei, vi vet i hvert fall
+
+[00:23:38] om det går ned neste uke, hva grunnen er
+
+[00:23:40] siden du tar det opp.
+
+[00:23:42] Men jeg tror det var en av konkurrentene
+
+[00:23:44] våre som oppgraderte
+
+[00:23:45] kursmålet på denne her litt tidligere uken
+
+[00:23:48] så det har nok bidratt litt
+
+[00:23:50] men ellers så fikk
+
+[00:23:52] det et voldsomt løft etter at de rapporterte
+
+[00:23:54] Q2-tall, så var det en sånn
+
+[00:23:55] liten konsolidering, så jeg tror dette egentlig bare
+
+[00:23:58] er en videreføring av den trenden som har
+
+[00:23:59] vært før, at det egentlig da bare
+
+[00:24:02] trengte en liten pustepause etter det voldsomme
+
+[00:24:04] løftet fra tallene.
+
+[00:24:06] Ellers, du nevnte innledningsvis at
+
+[00:24:08] en viktig ting å ha på
+
+[00:24:10] vårt-listen er
+
+[00:24:12] indeksreviktingen
+
+[00:24:14] og i dag er det en
+
+[00:24:16] cut-off-dato, hva betyr det på?
+
+[00:24:19] Ja, så det er en del
+
+[00:24:20] sånne tekniske greier inn i dette her
+
+[00:24:22] men sånn veldig enkelt og kort
+
+[00:24:24] fortalt, så revektes
+
+[00:24:26] OCBX-indeksene, OCFX
+
+[00:24:28] og OBX-indeksene i
+
+[00:24:30] september, men selve grunnlaget
+
+[00:24:32] for å beregne hva som skal inn
+
+[00:24:34] og ut, er basert på hva kursene
+
+[00:24:36] er ved stengetid i dag
+
+[00:24:38] så vi kan gjette
+
+[00:24:40] noglunde nøyaktig, håper jeg
+
+[00:24:42] hva som blir endringene
+
+[00:24:44] i og med at det ikke har en tendens til å skje alt
+
+[00:24:46] for mye på siste dagen her
+
+[00:24:48] men utifra dette her, så kan
+
+[00:24:50] man da begynne å beregne
+
+[00:24:51] hva er det passiv fonden
+
+[00:24:54] må gjøre, for de må da kjøpe det som kommer inn
+
+[00:24:56] i indeks og selge det som går ut
+
+[00:24:58] og det blir snakk om noen kroner
+
+[00:25:00] flyt ut av dette her, og så i tillegg
+
+[00:25:02] så er det da aktiv forvaltere som
+
+[00:25:04] ikke nødvendigvis behøver å følge disse
+
+[00:25:06] endringene, men de må i hvert fall ta stilling
+
+[00:25:08] til det, så hvis i utgangspunktet
+
+[00:25:11] de er nøytral
+
+[00:25:12] til posisjonert
+
+[00:25:14] i forhold til sektoreksponeringen for eksempel
+
+[00:25:16] hvis de vil fortsette å være nøytral
+
+[00:25:18] på sektorbasis, så må de faktisk
+
+[00:25:20] gjøre noe. Hvis de bare sitter stille
+
+[00:25:22] så blir de da plutselig undervektet i enkelting
+
+[00:25:24] de var nøytral i tidligere og overvektet
+
+[00:25:26] i noe annet. Så
+
+[00:25:28] våre best guess på endringene her
+
+[00:25:30] er at vår energi kommer inn,
+
+[00:25:32] Kadler, Hafnia og
+
+[00:25:33] Nykaud kommer inn, og at AKBP
+
+[00:25:36] får en ganske stor økning i vekten
+
+[00:25:38] og så ut tror vi det blir
+
+[00:25:40] Akkabon Capture, Gaming Innovation
+
+[00:25:42] Nordic Nano Vector
+
+[00:25:44] og Pexip. Så det blir
+
+[00:25:46] en del ekstra flyt i disse
+
+[00:25:48] aksjene, og så i tillegg til de som
+
+[00:25:50] tilpasser seg på grunn av
+
+[00:25:52] indeks som de har som
+
+[00:25:54] benchmark, så blir det jo også andre som
+
+[00:25:56] prøver å spekulere i dette her og prøver
+
+[00:25:58] å kjøpe før passivefondene kjøper
+
+[00:26:00] og så videre. Så det skaper
+
+[00:26:02] også en del ekstra aktivitet i
+
+[00:26:04] disse aksjene. Så dette er noe
+
+[00:26:06] som er verdt å følge litt med på.
+
+[00:26:08] 7. september er når vi får bekreftet
+
+[00:26:10] hva endringene er, men
+
+[00:26:12] selve revettingen skjer ikke før etter
+
+[00:26:14] Claus Fredag 16. september.
+
+[00:26:16] Så det er litt tid fremdeles, men
+
+[00:26:18] nå kommer de forskjellige datene hvor
+
+[00:26:20] det viktige beregningsgrunnlaget
+
+[00:26:23] kommer, og den første av det er
+
+[00:26:24] Cut-off-datoen som er i dag.
+
+[00:26:26] Sist, men ikke minst, hvis vi
+
+[00:26:28] titter inn i neste uke, så er det
+
+[00:26:30] Sjømat-rapporteringsuke
+
+[00:26:32] på børsen.
+
+[00:26:34] Har du troen på at det skal
+
+[00:26:36] komme noe positivt på? Ja, Sjømat
+
+[00:26:38] er jo ganske interessant
+
+[00:26:40] her, for at sektoren hadde en veldig
+
+[00:26:42] bra start på år, og så har det ikke gjort
+
+[00:26:44] så voldsomt mye etter det. Det har egentlig
+
+[00:26:46] kommet litt ned, og
+
+[00:26:48] det har vært en del gevinnssikring
+
+[00:26:50] i takt med at lakseprisen har
+
+[00:26:52] kommet litt ned fra ekstremt høye nivåer.
+
+[00:26:55] Men det er det
+
+[00:26:56] at når priserne
+
+[00:26:58] er såpass høyt, så
+
+[00:27:00] klart i retningen har det vært negativt.
+
+[00:27:03] Men nivået er
+
+[00:27:04] fortsatt såpass høyt at oddsen er at
+
+[00:27:06] det er kanskje større sannsynlighet at estimatene
+
+[00:27:08] justeres opp enn ned, tror jeg.
+
+[00:27:11] Så jeg tror på et eller annet
+
+[00:27:12] tidspunkt så er Sjømat noe man skal
+
+[00:27:14] eie. Det kan godt hende at det er
+
+[00:27:16] noen uker til at det sånne
+
+[00:27:18] sångmønstre er gjerne sånn at du skal ha det på høsten.
+
+[00:27:21] Så mulig at
+
+[00:27:22] det ikke nødvendigvis behøver å gjøre så voldsomt
+
+[00:27:24] mye umiddelbart, men disse
+
+[00:27:26] tallene som kommer nå blir i hvert fall
+
+[00:27:28] en interessant indikator om
+
+[00:27:30] hvordan ting har utviklet seg i det siste.
+
+[00:27:33] Og vi tror stort sett
+
+[00:27:34] at det blir en grei rapporteringssesong.
+
+[00:27:37] Det er alltid noen
+
+[00:27:38] som kommer til å skuffe og noen som
+
+[00:27:40] gjør det bedre enn ventet, og av de som vi tror
+
+[00:27:42] kommer til å gjøre det best, så er det vel
+
+[00:27:44] egentlig Måsevold og Grieg Seafood
+
+[00:27:46] som vi tror kommer til å levere best
+
+[00:27:48] tall i forhold til konsensus. Det er de som har
+
+[00:27:50] minst del av produksjonen
+
+[00:27:52] på faste kontrakter,
+
+[00:27:54] så de har fått størst glede av
+
+[00:27:56] spotprisutviklingen. Nå er jo
+
+[00:27:58] dette kjent det også, så det er alltid
+
+[00:28:00] litt vanskelig å vite helt hvordan markedet
+
+[00:28:02] kommer til å reagere på tallene,
+
+[00:28:04] men det er i hvert fall en del
+
+[00:28:06] interessant å følge med, for sjømat er den siste
+
+[00:28:08] sektoren som egentlig ikke har rapportert noen tall enda.
+
+[00:28:11] Og jeg skal til Bergen
+
+[00:28:12] og Vestland på Børse
+
+[00:28:14] neste uke for å møte et par
+
+[00:28:16] sjømatselskapene, analytikere
+
+[00:28:18] og forvaltere, så forhåpentligvis
+
+[00:28:20] da, så har vi noen nyttige oppdateringer
+
+[00:28:22] til dere lyttere i
+
+[00:28:24] neste uke også.
+
+[00:28:27] Nå har vi kommet til veisende for
+
+[00:28:28] denne gang, da gjenstår det
+
+[00:28:30] bare å si, Paul, takk for at du
+
+[00:28:32] var med nok en gang, og
+
+[00:28:34] sist men ikke minst, tusen takk, folkens,
+
+[00:28:36] til alle dere som hørte på.
+
+[00:28:49] Denne podcasten og

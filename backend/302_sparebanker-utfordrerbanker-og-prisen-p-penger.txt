@@ -1,0 +1,595 @@
+Episode 302: Sparebanker, utfordrerbanker og prisen på penger
+Publisert: Sat, 01 Oc
+Vert: Marius Brun Haugen
+Varighet: 20 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/sparebanker-utfordrerbanker-og-prisen-pa-penger
+
+--- Transkripsjon ---
+
+[00:00:14] I denne episoden skal vi få en oppdatering på utsiktene for den norske banksektoren, høre fra utfordrebanken Aprila, og diskutere situasjonen rundt kapitaltilgangen for de små og mellomstore bedriftene i Norge.
+
+[00:00:36] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen global økonomien og finansmarkedene.
+
+[00:00:44] Jeg er Marius Brunhaugen, og med meg har jeg aksjeanalytiker Håkon Astrup og Aprila-banksjefen Halvor Lande. Velkommen begge to.
+
+[00:00:54] Takk for det, Marius.
+
+[00:00:55] Halvor, du er tidligere gründer. Du har vært i McKinsey, og Jaggu har du ikke vært i tre år, er det vel, her i DNB også?
+
+[00:01:04] Og nå har du vært i Aprila Bank siden 2019. Kan ikke du starte med å fortelle oss og lytterne kort om Aprila Bank, hvem det er og hva det gjør?
+
+[00:01:14] Det skal jeg gjøre. Så Aprila Bank er en heldigital bank for bedrifter, og vi har kun låneprodukter.
+
+[00:01:23] Så vi har ikke driftskonto eller betaling eller sånne ting, kun lån og kredit.
+
+[00:01:28] Og vi er både integrert i regnskapssystemer, regnskapssystemene til Visma og Fiken, og også tilgjengelig for kunder som ikke bruker de regnskapssystemene på aprila.no for alle.
+
+[00:01:40] Og hovedproduktet vårt er kassekredit, der vi opplever voldsom vekst om dagen.
+
+[00:01:45] Og hovedfokuset vårt er på småbedrifter med under 20 millioner kroner i omsetning.
+
+[00:01:52] Og typisk lånestørrelse er fra 50 000 kroner opp til 5 millioner for de aller største, men snittet ligger rundt 150 000 kroner.
+
+[00:02:02] Og så får vi funding fra privatpersoner via vanlig innskuddselesparekonto.
+
+[00:02:09] Så kort fortalt.
+
+[00:02:10] Så dere er i medvind om dagen, er det sånn å forstå?
+
+[00:02:13] Ja, vi bokser raskt, og så nådde vi en stor milepel i andre kvartal, der vi gikk med overskudd for første gang.
+
+[00:02:20] Så 1,6 millioner, så det var gøy.
+
+[00:02:24] Og veksten er fremdeles sterk.
+
+[00:02:25] Så litt i forhold til hele forretningsmodellen.
+
+[00:02:29] Du sier ikke den der, vil du være med hjem og se på bankfilialen min.
+
+[00:02:33] Du sier mer, vil du være med hjem og se på bankteknologien min.
+
+[00:02:36] Ja, riktig. Vil du se på maskinlæringsmodellene våre.
+
+[00:02:39] Ikke sant.
+
+[00:02:40] Ja, ja.
+
+[00:02:40] Tikkeren er aprila, handles på IOTC-markedet.
+
+[00:02:45] Kursen var vel rundt fem kroner, nå så på den i går.
+
+[00:02:49] Hvordan er utviklingen i de viktigste nøkkeltalene for dere, hvis du kan gi oss et bilde av det?
+
+[00:02:54] Ja, det viktigste nøkkeltallet er jo resultat etter skatt.
+
+[00:02:58] Og det er som sagt positiv utvikling.
+
+[00:03:00] Ellers så er det andre nøkkeltallet som vi følger med, er løpende inntekter.
+
+[00:03:06] Rent og gebyr inntekter.
+
+[00:03:08] Det var ved utgangen av andre kvartal.
+
+[00:03:10] Det var et nøkkeltall på 112 millioner kroner, som var en dobling cirka fra i fjor.
+
+[00:03:15] Et annet viktig nøkkeltall for oss er bruttemargin før tapp.
+
+[00:03:19] Det var også opp fra 73 prosent i fjor til 84 prosent i andre kvartal.
+
+[00:03:24] Og siste nøkkeltallet vårt er netto rentemargin etter tapp.
+
+[00:03:29] Der lå vi i 2021 på 12 prosent, og hittil i år så ligger vi på 14 prosent.
+
+[00:03:36] Jeg leste at i et intervju som ble gjort for deg med deg av skiftet,
+
+[00:03:41] var det vel i forbindelse med at du gikk inn i rollen som sjef for Aprila,
+
+[00:03:46] at ditt oppdrag var å ta Aprila fra start-up til scale-up.
+
+[00:03:51] Hvor langt har du kommet med det?
+
+[00:03:52] Jeg føler at nå er vi i scale-up-fasen.
+
+[00:03:55] Vi har helt klart product-market-fit med kassakrydprodukter.
+
+[00:03:59] Vi har passert 100 millioner i inntekter, og veksten er veldig sterk.
+
+[00:04:04] Så nå er det hovedsakelig omskalering.
+
+[00:04:07] Er det noe dere gjør bedre enn de tradisjonelle bankene?
+
+[00:04:11] Vi er i hvert fall veldig annerledes enn de tradisjonelle bankene
+
+[00:04:14] i den forstånden at vi bruker maskinlæring for både å beregne risiko og priser real-time.
+
+[00:04:22] Det er unikt i Norge i bedriftsmarkedet.
+
+[00:04:27] Men den største forskjellen er kanskje at vi gir lån til småbedrifter i stor skala.
+
+[00:04:34] Det er et marked som tradisjonelt ikke har fått lån i bankene.
+
+[00:04:37] Så vi bygger et nytt marked.
+
+[00:04:39] Det er det største forskjellen på oss og andre banker.
+
+[00:04:42] Jeg kaller deg en utfordrerbanke, bare for å tegne litt bildet av dette her.
+
+[00:04:47] Hva med konkurrentene innen de som gjør det samme som dere?
+
+[00:04:51] Er det mange av de?
+
+[00:04:51] Det er kanskje et par stykker.
+
+[00:04:53] Kred er jo en svensk finansieringsvirksomhet som også har etablert seg i Norge og en rekke andre land.
+
+[00:05:01] Og så sier vel Svea at de fokuserer ikke bare på mellomstore bedrifter, men også småbedrifter.
+
+[00:05:09] Kanskje de to direkte konkurrentene som vi ser i dag.
+
+[00:05:12] Men det er ikke sånn at det er overfylt i rommet der dere prøver å ta en stadig større del av markedet?
+
+[00:05:18] Nei, det er definitivt Blue Ocean, ikke Red Ocean.
+
+[00:05:21] Ok, ok.
+
+[00:05:22] Håkon, vi må få med deg også.
+
+[00:05:23] Vi får jo undersøke at du ikke har dekning på Aprilabank og dermed hverken kursmål eller anbefaling.
+
+[00:05:29] Men kjenner jeg deg rett, så følger du med i denne delen av banklandskapet som Aprilabank opererer også.
+
+[00:05:36] Og for å starte et sted, det er vel sunt.
+
+[00:05:39] Etablerte delen av bransjen blir utfordret?
+
+[00:05:42] Absolutt, Marius.
+
+[00:05:43] Det er jo utvilt sånn veldig spennende det som skjer på den fronten.
+
+[00:05:46] Og som Halva var inne på, så er det jo særlig lån til småbedrifter.
+
+[00:05:50] Det er et område hvor bankene ikke har vært veldig aktive.
+
+[00:05:53] Det er jo fordi at de ofte har litt høyere kostnader.
+
+[00:05:56] Og når du skal gå gjennom og gå samme type kreditprosesser på en stort selskap som et lite selskap,
+
+[00:06:01] så tar det såpass mye kostnader for bankene at man rett og slett ikke gjør så mye av det.
+
+[00:06:08] Og så har man også sett at man har tapt litt mer på akkurat de lånene også.
+
+[00:06:12] Så dette er helt klart et blue ocean.
+
+[00:06:15] Er det muligheter for samarbeid også her mellom typiske utfordrerne og de tradisjonelle bankene nettopp?
+
+[00:06:21] Fordi de kommer inn og tar en rolle som kanskje de store etablerte av ulike årsaker ikke vil ta.
+
+[00:06:27] Og så kan man heller kanskje få det til å fungere sammen på en eller annen måte?
+
+[00:06:31] Helt klart, og det ser vi jo allerede tegn til.
+
+[00:06:34] Prida har jo avtalt med blant annet DNB, og DNB har jo som regel et kundeforhold,
+
+[00:06:43] og da kan man samarbeide. Så jeg tror helt klart at her er det flere muligheter fremover.
+
+[00:06:48] Bra! Da har vi fått en liten innføring i hvem dere er og hva dere gjør, Halvor.
+
+[00:06:54] Nå skal vi snakke mer om markedsutsiktene og det som skjer,
+
+[00:06:59] og Håkon, de norske bankene de er jo nede i området 15-20% fra toppet,
+
+[00:07:04] åpne ved starten av året, og vi skal jo ikke glemme her at 2021 selvfølgelig var kjempebra for bankene, sparebankene,
+
+[00:07:13] men i år har det ikke vært like gøy, i hvert fall som vi kanskje trodde når vi sto i inngangen til 2022.
+
+[00:07:21] Det har kommet utbytte, et cetera, men likevel, det har falt.
+
+[00:07:26] Så hvis vi starter bare med prisingen, altså hvordan er denne banken nå?
+
+[00:07:29] Helt riktig, Marius. Prisingen har kommet ned, og ser vi på de norske bankene som vi følger,
+
+[00:07:34] så ser vi at snittet av de bankene handler jo nå på under ni ganger neste års forventet inntjening,
+
+[00:07:40] og man begynner å se under bokverdi også.
+
+[00:07:43] Så prisingen har helt klart kommet ned, og man merker jo et økt fokus da,
+
+[00:07:47] fra hvis vi går tilbake til i fjor, hvor det var fokus på de positive effektene ved høyere rente,
+
+[00:07:53] til at det nå da er mer fokus på de negative effektene av høyere rente.
+
+[00:07:58] Vi vet jo alle at rentene øker, og etter alle solmerker skal videre opp.
+
+[00:08:04] Vi har fått merke på kroppen bare denne uken at bankene er raske til å sette opp lånerentene som vanlig,
+
+[00:08:09] så økes de mer enn innskuddsrentene, som jo er bra for marginene.
+
+[00:08:13] Dette har du snakket om før, Håkon.
+
+[00:08:16] Samtidig som du sier, så ser vi at bekymringene økes for resesjonen i Europa,
+
+[00:08:22] og det spøker da for bankenes lånevekst og lånetapp lenger nede i gata,
+
+[00:08:28] så er vi der nå at disse resesjonsbekymringene veier mye tyngre,
+
+[00:08:34] og det rymmer store enn rentekleden.
+
+[00:08:36] Vi ser i hvert fall klare tegn til det i prisingen av bankene,
+
+[00:08:39] og vi tror jo også at tapene må komme opp,
+
+[00:08:43] men du må huske på at hvis vi ser nå i andre kvartal og i første kvartal i år,
+
+[00:08:47] så var jo tapene sås i null for norske banker,
+
+[00:08:50] men det er helt klart det vi ser i kursen om dagen,
+
+[00:08:53] at man begynner å bekymre seg for at resesjonen skal gi, som du sier,
+
+[00:08:58] da laver utgangsvekst, og så da høyere utgangsvekst.
+
+[00:09:01] Men tapene, om de kommer, de kommer vel ikke nå i år,
+
+[00:09:04] de kommer vel heller mer i 2023, 2024, og så videre?
+
+[00:09:07] Jo da, som sagt så kan jo ikke tapene være null for alltid,
+
+[00:09:11] så vi tror at de skal komme opp,
+
+[00:09:13] men at det skal være relativt håndterbart da, når det større legger seg.
+
+[00:09:17] Hvilke sektorer er det usikkerheten er størst da?
+
+[00:09:20] Er det typisk eiendom og næringseiendom, eller er det andre ting?
+
+[00:09:26] Nå har vi jo sett at rentene plutselig har begynt å stige ganske mye,
+
+[00:09:30] og så har vi jo at vi kommer fra en periode hvor rentene har fallet,
+
+[00:09:34] så du kan jo si at alle som har tjent på det lavrenteregimen
+
+[00:09:39] som vi har hatt en lang periode, det er jo der hvor man kanskje må se litt nærmere,
+
+[00:09:44] og da er næringseiendom absolutt et område som det er større usikkerhet rundt nå da,
+
+[00:09:49] enn det det var for eksempel for to til tre år siden.
+
+[00:09:53] Halvor, i hvilken grad forbereder dere dere da for trangere tider i norsk økonomi?
+
+[00:09:57] Altså våre dører er åpne for kunder i høyeste grad,
+
+[00:10:00] og vi har, vi godkjenner like stort,
+
+[00:10:04] stor andel, om ikke større, av lånesøknaden i dagen for et år siden for eksempel.
+
+[00:10:09] Når det er sagt, så merker jo våre kunder også den nye virkeligheten på kroppen,
+
+[00:10:17] merker at det er vanskeligere å kvitte seg med varelager,
+
+[00:10:21] det er høyere strømpriser og andre prisfaktorer,
+
+[00:10:26] redusert etterspørsel generelt,
+
+[00:10:29] så man merker det,
+
+[00:10:34] også på tallene at andelen for sent betalinger øker fra rundt syv prosent til rundt åtte prosent i dag.
+
+[00:10:41] Vi ser allerede flere mislål og konkurser,
+
+[00:10:45] og det forventer vi at det kommer til å fortsette fremover.
+
+[00:10:48] Men det er ikke der at dere er mer selektive på prosjektene dere låner ut og selskapene dere låner ut penger til?
+
+[00:10:56] Nei, det er jeg ikke.
+
+[00:10:58] Ok, jeg kommer litt tilbake til det mot slutten også.
+
+[00:11:01] Håkon, jeg tror mange lurer på typisk hva gjør jeg nå,
+
+[00:11:03] høsten har virkelig, det har blitt en sånn klassisk september,
+
+[00:11:07] hvor det virkelig stormer litt i aksjemarkedet nå.
+
+[00:11:11] Så heter det jo så gjerne at det er i regnvei du ofte skal kjøpe,
+
+[00:11:14] men det krever at du har på en måte litt risikokapasitet,
+
+[00:11:18] at du tåler en støyt og kan være langsiktig,
+
+[00:11:20] som Thor-Andre Lysbo sa her i episoden vi hadde i forrige uke.
+
+[00:11:25] Sparebankene, de har jo historisk gitt bra langsiktig avkastning til investorerne,
+
+[00:11:30] og ganske stabile utbytter blant annet.
+
+[00:11:32] Altså, er det noen grunn til at det skal bli så veldig annerledes denne gangen?
+
+[00:11:35] Nei, vi tror ikke det, og jeg tror at når støv har lagt seg her,
+
+[00:11:39] så tror jeg at norske sparebanker skal ha klart seg veldig bra.
+
+[00:11:44] Som sagt her, så må man jo regne med at tapene skal litt opp.
+
+[00:11:47] Det har jo vært nulletap, og det er jo ikke bærekraftig på sikt.
+
+[00:11:51] Men som du også var inne på, Marius, så har jo renten kommet opp,
+
+[00:11:54] og det har vært med på å styrke marginene for bankene.
+
+[00:11:59] Og når prisingen er såpass lav som den er nå,
+
+[00:12:02] hvor man begynner å nærme seg bokverdier på flere banker og under det for andre,
+
+[00:12:08] så ser vi for oss totalavkastning her framover på over ti prosent.
+
+[00:12:14] Og for alle som er opptatt av utbytte,
+
+[00:12:18] man kunne jo fortsette å forvente fra både sparebankene og store banker,
+
+[00:12:23] som både vår egen DNB og SR Bank.
+
+[00:12:27] Ja, bankene er godt kapitalisert,
+
+[00:12:30] og fortsatt lønnsomt.
+
+[00:12:32] Slik at utbyttene forventer vi også skal stige i årene fremover.
+
+[00:12:38] Om en månedstid eller så, så kommer bankene og rapporteringssesongen til å dra seg i gang igjen.
+
+[00:12:44] Hva kommer til å bli fokuset da, tror du?
+
+[00:12:47] Fokuset blir jo da på kreditkvaliteten.
+
+[00:12:50] Om bankene har sett noen tegn til at ting har begynt å endre seg,
+
+[00:12:53] kanskje særlig på næringseiendom, som du var inne på,
+
+[00:12:56] så er det jo å se på marginene, og hvordan effekten av høyere rente,
+
+[00:13:01] har slått inn på bankene.
+
+[00:13:03] Og så er det jo alltid litt fokus på kapital,
+
+[00:13:07] hvordan er jo utbyttekapasiteten,
+
+[00:13:09] og så er det jo også da litt disse andre inntektene.
+
+[00:13:11] Nå har det jo vært litt ruklede finansmarkedet blant annet,
+
+[00:13:13] og litt mer usikkerhet i boligmarkedet,
+
+[00:13:15] hvordan det har slått inn på bankenes andre inntekter.
+
+[00:13:18] Men hva er det du kommer til å se til da?
+
+[00:13:20] Altså, bankene flest kommer vel til å si ja, men dette går bra,
+
+[00:13:22] og så kommer de til å prøve å si at dette har vi veldig kontroll på,
+
+[00:13:25] det er vel det de kommer til å prøve å formidle?
+
+[00:13:27] Absolutt, og da er det jo å prøve å bore litt ned i tallen da,
+
+[00:13:30] se for eksempel på hva slags belåningsgrad man har
+
+[00:13:33] på nærings- og eiendomsporteføljen,
+
+[00:13:35] det samme litt på boliglandssiden,
+
+[00:13:37] så det er å prøve å grave litt i detaljene som banken gir.
+
+[00:13:43] Ok, la oss gå fra markedet til å avslutte med å snakke litt mer
+
+[00:13:48] om dette med tilgang på finansiering for små og mellomstore bedrifter,
+
+[00:13:52] og prisen på penger.
+
+[00:13:54] For når vi spiller inn denne episoden,
+
+[00:13:56] så er det altså onsdag 28. september.
+
+[00:13:58] I morgen så går,
+
+[00:14:00] DNBs arrangement Next av stabelen her i Oslo.
+
+[00:14:04] Dette er en møteplass for gründere og tidligfasi-investorer
+
+[00:14:08] som Venture Capital etc.
+
+[00:14:11] Der så skal jeg ha en live podcast,
+
+[00:14:14] hvor bakteppet er at prisen på penger da har blitt dyrere,
+
+[00:14:18] og at hverdagen både for gründere og investorer dermed
+
+[00:14:22] sannsynligvis er litt mer utfordrende.
+
+[00:14:25] Selv om det definitivt er lyspunkter også,
+
+[00:14:28] så er det en tilgang på mye kapital der ute tydeligvis.
+
+[00:14:31] Dette opptaket fra Next,
+
+[00:14:33] det vil vi gjøre tilgjengelig her i Utbyttepodcasten.
+
+[00:14:36] Bare noen få dager etter at denne episoden som du hører på nå har kommet ut,
+
+[00:14:40] så vet dere det.
+
+[00:14:41] Så flere gode grunner til å lytte inn fremover.
+
+[00:14:44] Men Håkon, opplever du at bankene er mer forsiktige
+
+[00:14:48] i forhold til hva de låner ut til det SMB-markedet nå,
+
+[00:14:52] sammenlignet med hvor de var for et år eller to siden?
+
+[00:14:55] Til nå så merker vi ikke noe av det.
+
+[00:14:57] Nesten det motsatte.
+
+[00:14:58] Det har vært veldig høy etterspørsel blant kundene,
+
+[00:15:01] særlig da i dette litt større SMB-markedet,
+
+[00:15:05] hvor det har vært sterk vekst.
+
+[00:15:09] Så vi tror jo at den veksten vil komme noe ned etter hvert
+
+[00:15:13] som investeringslysten hos bedriftene kommer ned,
+
+[00:15:16] også at den kritiske etterspørselen da faller noe.
+
+[00:15:19] Men inntil nå så har den vært veldig, veldig sterk.
+
+[00:15:23] Halvor, du sa jo tidligere at dere fortsatt
+
+[00:15:26] låner ut, pengesekken er åpen.
+
+[00:15:31] Hva er det som er viktig at disse små, mellomstore bedriftene
+
+[00:15:35] kan presentere da for dere, for å få dere med på lånelaget?
+
+[00:15:39] Altså det ideelle er jo selvfølgelig god egenkapitalsituasjon
+
+[00:15:43] og positiv ebit-pagin.
+
+[00:15:46] Ja, men det er det ikke alle som har.
+
+[00:15:47] Det er ikke alle som har det.
+
+[00:15:49] Og da strekker vi oss veldig langt for å gi lån likevel,
+
+[00:15:54] men da blir det vesentlig høyere rente da.
+
+[00:15:56] Så det er et tips til småbedrifter som skal ha lån hos oss,
+
+[00:16:01] det er å gjøre det du kan for å sørge for at
+
+[00:16:06] i hvert fall egenkapitalen din er positiv,
+
+[00:16:09] så får du godt betalt for det i form av både større rammer og lavere renter.
+
+[00:16:14] Så bare prøv liksom å forklare for oss,
+
+[00:16:16] altså hvor mye dyrere er det å låne nå
+
+[00:16:19] i sammenligning med for rett til to år siden for en typisk start-up?
+
+[00:16:23] Det kommer vel an på forutsetningene her som du sier?
+
+[00:16:25] Ja, gjennomsnittsrenten er vel kanskje litt høyere,
+
+[00:16:33] to prosentpoeng eller noe sånt,
+
+[00:16:35] men det er jo ekstremt, det avhenger veldig av bedriften.
+
+[00:16:39] Så vi gir renter fra 0,79 prosent i måneden
+
+[00:16:44] opp til 2,59 prosent i måneden avhengig av risikoen på selskapet.
+
+[00:16:49] Så det er det som moves the needle i forhold til hvor dyrt det blir.
+
+[00:16:54] Det er, har du positiv eller negativ ebit?
+
+[00:16:58] Og hva er egenkapitalsituasjonen din?
+
+[00:17:01] Men jeg regner jo med at dere på en måte er hands on
+
+[00:17:04] og snakker mye med en del av disse selskapene som dere har et kundeforhold til.
+
+[00:17:09] Hva er på en måte løypemeldingene dere får fra de nå
+
+[00:17:12] som dere har hatt et forhold til nå over et par år
+
+[00:17:15] og som jo er på vei, ikke sant?
+
+[00:17:19] Vi er inne i et klima hvor ting er i ferd med å bli dyrere og vanskeligere.
+
+[00:17:23] Ja.
+
+[00:17:24] Nei, det er at det er et mer krevende marked i alle bransjer.
+
+[00:17:29] Det er en veldig tydig tilbakemelding,
+
+[00:17:32] men det som også er interessant å se når vi ser på tallene er at,
+
+[00:17:36] fordi vi har jo tilgang til løpende regnskapstall for de fleste av kundene våre,
+
+[00:17:39] og da ser vi at ja, kostnadene deres stiger raskt,
+
+[00:17:43] har steget i snitt med 9 prosent det siste året,
+
+[00:17:46] men inntektene deres har steget i snitt med 10 prosent.
+
+[00:17:50] Så de har faktisk klart å ta mye av kostnadene over på,
+
+[00:17:53] eller mer enn alle kostnadene over på kundene så langt da.
+
+[00:17:58] Og disse selskapene som er i en veldig tydelig fase,
+
+[00:18:02] opplever du også at dere står der med penger,
+
+[00:18:06] men at det også er andre kapitalkilder tilgjengelig for de fortsatt?
+
+[00:18:12] Nei, når det gjelder fremmedkapitalsiden,
+
+[00:18:15] så ser vi veldig lite andre tilbydere i markedet.
+
+[00:18:19] Vi håper jo faktisk at det skal bli mer,
+
+[00:18:21] fordi vi er genuint bekymret for tilgangen på fremmedkapital
+
+[00:18:25] til småbedrifter og oppstartsbedrifter.
+
+[00:18:27] Jeg mener at det er et problem, særlig i Norge.
+
+[00:18:29] Men når det gjelder egenkapitaltilgangen,
+
+[00:18:33] så er jo det store bildet at over de siste ti årene,
+
+[00:18:36] så er den blitt mye, mye bedre.
+
+[00:18:39] Det er for en del synes du ikke gjent i Sverige,
+
+[00:18:41] men den begynner jo nå å være på et akseptabelt nivå,
+
+[00:18:45] også er det sikkert litt vanskeligere i markedet å hente penger nå enn for et år siden.
+
+[00:18:51] Men har du god forretningsidé og godt team og god plan,
+
+[00:18:55] så klarer du å hente penger i dagens marked også.
+
+[00:18:57] Men det er, som du sa, litt høyere pris på den kapitalen.
+
+[00:19:01] Ja, ja, interessant dette her.
+
+[00:19:03] Håkon, regner du med at du kommer til å holde et øye på Aprilia Bank fremover også?
+
+[00:19:09] Absolutt, det er veldig spennende det som skjer.
+
+[00:19:11] Ikke minst at det er bra at kredittilgangen til de små bedriftene øker,
+
+[00:19:18] og det gjør Aprilia en veldig god jobb.
+
+[00:19:21] Ok, avslutningsvis så kan vi jo ta med at de dere kommer til å høre mer fra da i neste episode fra DNB Next,
+
+[00:19:29] det er forvalter Audun Wikstrøm Iversen.
+
+[00:19:33] Han har, mange av dere har hørt her i podcasten før, han investerer i vekstselskaper på Børs,
+
+[00:19:38] og er som sagt hyppig gjest her i Utbytte.
+
+[00:19:41] Også skal jeg snakke med Karianne Melby fra Storskogen, som investerer i selskaper i en tidlig fase,
+
+[00:19:48] og Peter Barnflett Hansen som leder ladeselskapet Zaptek som handles på Euronext Growth.
+
+[00:19:55] Så det skal bli interessant å få deres perspektiver på flere av disse tingene her.
+
+[00:20:00] Håper dere to også kommer til å høre på denne episoden da.
+
+[00:20:03] Det skal vi gjøre.
+
+[00:20:04] Herlig, herlig. Jeg ser Håkon nikker her også, det er godt å høre.
+
+[00:20:07] Da gjenstår det bare å si tusen takk for at dere kom, og sist men ikke minst, tusen takk folkens til alle dere som hørte på.

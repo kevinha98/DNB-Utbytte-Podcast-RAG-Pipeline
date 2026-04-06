@@ -1,0 +1,973 @@
+Episode 353: Oppside i nordisk small cap?
+Publisert: Thu, 18 Ma
+Vert: Marius Brun Haugen
+Varighet: 28 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/oppside-i-nordisk-small-cap
+
+--- Transkripsjon ---
+
+[00:00:00] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen globale økonomien og finansmarkedene.
+
+[00:00:08] Jeg er Marius Bruun Haugen, og i denne episoden skal det handle om små og mellomstore nordiske aksjer, eller small cap, som vi sier på godt norsk.
+
+[00:00:19] Historisk har vi funnet svært så attraktive investeringsmuligheter blant selskapene i denne delen av aksjemarkedet,
+
+[00:00:26] så hvordan ser veien videre ut for nordisk small cap, og hvilke selskap har best forutsetninger for å klare seg i det markedet vi nå befinner oss i?
+
+[00:00:36] Tirsdag 16. mai hadde jeg Hans-Marius Li Ludvigsen, som forvalter fondet DNB Nordic Small Cap,
+
+[00:00:42] og aksjestrateg Paul Harper fra DNB Markets innom i studio for et direkte sendt webinar om nettopp dette.
+
+[00:00:50] Hans-Marius forklarer blant annet hvorfor han liker den svenske gamingssektoren,
+
+[00:00:54] mens Paul forklarer hvorfor shipping skriner bra på hans parametre for øyeblikket.
+
+[00:01:00] Opptaket fra asiansen skal dere få høre nå. God lytt, og takk for at du hører på Utbytte.
+
+[00:01:07] Hans-Marius, nå har fondet ditt, DNB Nordic Small Cap, vært oppe og gått i nesten tre og et halvt år,
+
+[00:01:23] og det har levert en avkastning på 83 prosent siden oppstart, og det er jo veldig bra.
+
+[00:01:29] Men det har vært noen volatile år.
+
+[00:01:31] Det har vært noen volatile år også, så hvordan vil du oppsummere perioden?
+
+[00:01:35] Det har vært i summen en god start, og som du sier så har vi vært oppe og løpt i drøye tre år nå.
+
+[00:01:42] Men det har jo vært tre veldig forskjellige år.
+
+[00:01:45] Vi sjøsatt jo den skuta her rett inn i en pandemi, hvor det så ut som hele verden skulle gå under,
+
+[00:01:52] og det så ut som en god stund, men så gikk vi jo ikke under,
+
+[00:01:56] og 2020 ble jo et veldig godt børsår til slutt,
+
+[00:02:01] kanskje i det segmentet small cap aksjer som vi opererer i.
+
+[00:02:07] 2021 ble jo også et veldig godt år, om ikke like bra som 2020,
+
+[00:02:11] så ble det på en måte en delvis forlengelse av det.
+
+[00:02:14] Absolutt.
+
+[00:02:15] Og så gikk vi ordentlig på trynet i markedet i 2022 igjen,
+
+[00:02:18] hvor vi måtte gi tilbake mye av det vi hadde tjent, i hvert fall gjennom 2021,
+
+[00:02:22] og også delvis gjennom 2020, da man på en måte kom ut av pandemien
+
+[00:02:27] og fikk høyere renter og høyere inflasjon.
+
+[00:02:30] Og det gikk jo spesielt hardt.
+
+[00:02:31] Det gikk jo spesielt hardt utover disse small cap aksjene igjen,
+
+[00:02:34] og både det universet og fondet mitt fikk kjenne på det.
+
+[00:02:38] Og så har kanskje i år vært hakket bedre igjen,
+
+[00:02:41] men ikke noe sånn voldsom fest, selv om børsene har startet konstruktivt,
+
+[00:02:46] så er det jo primært de store selskapene som har drevet avkastningen hittil i år.
+
+[00:02:51] Ja, men i summa så, opp over 80 prosent siden oppstart, det er bra,
+
+[00:02:57] og tidligere i år ble det også belønnet med fem stjerner,
+
+[00:03:01] til fondet i Morningstar-ratingen, det er ikke alle for rundt, så gratulerer så mye.
+
+[00:03:06] Hvem skulle tro det? Ja, tusen takk.
+
+[00:03:08] Ja, men det er jo gøy.
+
+[00:03:09] Det er gøy, ja da, absolutt.
+
+[00:03:11] Men det gøyeste er jo å prøve å beholde det, selvfølgelig.
+
+[00:03:14] Ja, selvfølgelig, selvfølgelig.
+
+[00:03:15] Så det er jo spørsmålet da, hvordan ser markedet ut nå, sånn du vurderer det?
+
+[00:03:19] Er det mer å gå på videre etter at det har startet greit?
+
+[00:03:22] Ja, jeg er jo stort sett alltid positiv til markedet.
+
+[00:03:25] Ja, det er klart det må jo være.
+
+[00:03:27] Det må man jo, er man jo programforpliktig til å være, men,
+
+[00:03:30] men som jeg sa, så er det jo de store selskapene som har drevet veldig mye av avkastningen hittil i år,
+
+[00:03:36] og jeg tror jo at hvis dette er et marked som skal holde seg, spesielt i kjølvannet et så svagt fjorår,
+
+[00:03:43] så er jo jeg positiv på vegne av disse mindre selskapene, om at de etter hvert kan ta igjen det tapte,
+
+[00:03:49] og outperforme disse større selskapene.
+
+[00:03:53] Og i så fall så er jo jeg positivt innstillt til både Norden og fondet,
+
+[00:03:59] og fondet mitt.
+
+[00:04:01] Og det man også ser er jo at selskapene har levert across the board ganske gode førstekvartalsrapporter,
+
+[00:04:07] som tyder på at ting går fortsatt veldig bra.
+
+[00:04:12] Er det noen sånn spesifikke industrier eller sektorer som skiller seg ut i positiv favør hos deg?
+
+[00:04:20] Altså der vi begynner å bli eller er positive nå, det er jo en del av disse industrien som hadde en voldsom etterspørselsevekst under pandemien.
+
+[00:04:30] Eksempelet på det er for eksempel videospill eller mobilspill, og en del produkter innenfor det å ha kjeledyr, som så en sånn voldsom boom under pandemien.
+
+[00:04:40] Og aksjekursene gikk jo banana, så man begynte å ekstrapolere denne etterspørselseveksten.
+
+[00:04:45] Og så kom man jo ut av pandemien og måtte begynne å legge vekstbanene tilbake til mer normale nivåer,
+
+[00:04:52] og aksjekursene fulgte med ned og kanskje vel så det.
+
+[00:04:56] Men det man begynner å se i en del av disse segmentene nå er at man er tilbake på den mer sekulære veksttrenden som man var på før covid.
+
+[00:05:05] Og da tror vi disse aksjene har overreagert på undersiden og er altfor billige i dag.
+
+[00:05:10] Så vi har jo store posisjoner innen gaming, både videospill og mobilspill, og har også begynt å kjøpe oss opp i en del av disse mer kjeledyrelaterte selskapene, for å ta noen eksempler.
+
+[00:05:22] Hva er de tre største posisjonene til fondet per nå, det?
+
+[00:05:26] De tre største posisjonene nå er Embracer, som driver med videospill, som for øvrig får seg en kraftig på trynet i dag.
+
+[00:05:34] Og så er det Stillfront, som driver med mobilspill. Og så er det Humble Group, som driver med økologiske og sunne konsumvarer.
+
+[00:05:46] Alright. Og så vet vi jo alle hvordan markedet har vært i år, og er det noe på det jeg har snakket om,
+
+[00:05:55] er det liksom, blir det resesjon, eller blir det ikke resesjon, og blir det resesjon, blir det en hard landing, eller blir det en myk landing for økonomien, og så videre.
+
+[00:06:04] Hva tenker du om small cap, hvis vi kommer inn i en betydelig mer rugglete periode på børsen enn det vi har hatt hittil i år?
+
+[00:06:12] Det er et godt spørsmål. Og så for det første er jeg veldig sikker på at Paul er mye flinkere til enn meg til å spå om det blir en resesjon, og eventuelt hvor hard den blir.
+
+[00:06:20] Men det man i alle fall vet av disse small caps, spesielt i Norden, det er jo at,
+
+[00:06:32] beskytte inntjeningen i nedgangstider.
+
+[00:06:36] Dette er jo ofte selskaper som har veldig sterke posisjoner
+
+[00:06:41] innenfor ganske unike nischer.
+
+[00:06:44] Så selve det operasjonelle er jeg ikke så bekymret for,
+
+[00:06:47] selv om det selvfølgelig er risiko knyttet til det
+
+[00:06:50] å være et lite selskap når ting blir uglete.
+
+[00:06:53] Men så vet man jo at small caps, altså aksjekursene,
+
+[00:06:56] reagerer jo ofte mer negativt når ting blir surt på børsen.
+
+[00:06:58] Sånn var det oppskriftsmessig under covid,
+
+[00:07:01] sånn var det i 2022, sånn vil det sikkert bli
+
+[00:07:03] hvis vi skal mye ned denne gangen også.
+
+[00:07:05] Men så reagerer de jo ofte sterkere og raskere opp igjen etterpå.
+
+[00:07:09] Så det er veldig dyrt å på en måte sitte på sidelinjen
+
+[00:07:12] unødvendig å misse et av disse dragene opp.
+
+[00:07:15] Og så tror jeg det er viktig å huske på at vi har
+
+[00:07:17] 2000 selskaper å velge blant i dette small cap-spacet.
+
+[00:07:22] Så vi finner alltid eksponering som er mindre utsatt
+
+[00:07:25] for nedgangstider hvis det skulle bli nødvendig.
+
+[00:07:29] Paul, noe sånn innledende.
+
+[00:07:31] Hvilke tanker om nordisk small cap generelt,
+
+[00:07:34] sånn fra ditt perspektiv?
+
+[00:07:36] Et interessant poeng er når du ser på large cap-aksjen i Norden.
+
+[00:07:41] Hvis du ser borti fra helse,
+
+[00:07:43] så er veldig mye av de største selskapene ganske syklisk.
+
+[00:07:45] Det er mye industri i Sverige, for eksempel,
+
+[00:07:47] og råvarer i Norge,
+
+[00:07:49] liksom blanding av råvarer og industri i Finland.
+
+[00:07:52] Sånn sett er en del av de type small cap-aksjene,
+
+[00:07:56] hvis de er litt mer i det vekstsegmentet,
+
+[00:07:58] så er ikke det nødvendigvis like påvirket av økonomien.
+
+[00:08:01] Som mange av de sånne tungvekterne som det har i Norden.
+
+[00:08:04] Så jeg synes det er et viktig punkt å få frem,
+
+[00:08:07] at small cap er litt mer volatilt når det er vanskelig,
+
+[00:08:11] men det er sånn mulig å finne segmenter innenfor small cap,
+
+[00:08:14] som ikke nødvendigvis er like utsatt for en tung økonomi
+
+[00:08:18] som andre sektorer.
+
+[00:08:20] Og så er det også sånn at størrelsen på selskapet er jo en faktor,
+
+[00:08:24] men styrken i balansen er gjerne en viktig faktor hvis det er tungt.
+
+[00:08:29] Så det er veldig viktig å få frem det.
+
+[00:08:30] Det er veldig viktig å få frem det.
+
+[00:08:31] Da er det viktigere å gjøre en sånn bottom-up-analyse som plukker frem
+
+[00:08:35] hvilke selskaper er det som tåler en periode kanskje uten tilgang til finansiering.
+
+[00:08:40] For eksempel at de klarer å jobbe seg gjennom en litt tyngre periode
+
+[00:08:44] med det de har på balansen allerede.
+
+[00:08:46] Og helst da har de kanskje positiv kontantstrøm
+
+[00:08:49] som gjør det mye lettere å overleve i en litt tyngre periode.
+
+[00:08:52] Så da får man litt bedre betalt for å gjøre den bottom-up-jobben
+
+[00:08:56] og prøve å finne de enkeltselskapene som da klarer å stå imot
+
+[00:08:59] i en litt tyngre makt.
+
+[00:09:01] Akro bak tepe.
+
+[00:09:02] Så sterk balanse er vel for så vidt alltid bra da,
+
+[00:09:07] men klart ekstra viktig i en rugglite periode.
+
+[00:09:11] Ja, det er nettopp det du sier.
+
+[00:09:12] Det er jo alltid bra generelt sett,
+
+[00:09:14] men når du er på vei opp igjen så er de selskapene som går best
+
+[00:09:17] de som nesten gikk kong på vei ned.
+
+[00:09:19] Det er veldig viktig å ha sterk balanse
+
+[00:09:22] når du er på vei inn i en tyngre periode.
+
+[00:09:25] Når du er på vei ut igjen så er det mye mindre viktig å følge med på balansen.
+
+[00:09:29] Så det er hvor mye
+
+[00:09:31] tid du skal bruke på det er egentlig avhengig av hvor du er i syklusen.
+
+[00:09:34] Ok.
+
+[00:09:35] Du nevnte at rapporteringssesongen har vært grei, Hans Marius.
+
+[00:09:40] Du skal utprodere litt mer.
+
+[00:09:42] Hva er det som du har bitt deg merke i som er verdt å ta med seg videre?
+
+[00:09:49] Jeg har i hvert fall bitt meg merke i at de fleste selskapene rapporterer
+
+[00:09:52] at det går fortsatt ganske bra,
+
+[00:09:54] og de som sier noe om andre kvartal og det de har i pipeline eller orderbøkene,
+
+[00:10:00] det er fortsatt ganske oppløftende å se.
+
+[00:10:03] Så den eventuelle resesjonen er det i hvert fall
+
+[00:10:06] forløpig ganske mange selskaper som ikke ser noe tegn til.
+
+[00:10:10] Og så er det jo selvfølgelig alltid usikkerhet rundt
+
+[00:10:13] hvor mye transparens det egentlig er i disse orderbøkene.
+
+[00:10:17] Men i sum så synes jeg det har vært en god rapporteringssesong.
+
+[00:10:21] I tillegg til, som vi nevnte innledningsvis,
+
+[00:10:23] at det er tegn til at en del av disse undersegmentene i markedet
+
+[00:10:27] som hadde denne boomen under covid,
+
+[00:10:30] og som har hatt etterspørselsfallet i kjølevannet av covid,
+
+[00:10:34] begynner å finne fest igjen og kanskje er tilbake på en mer trendvekst,
+
+[00:10:38] som jeg også tror markedet har vært litt interessert i å se når disse skulle bunne ut.
+
+[00:10:43] Har du sett noen andre utslag på small cap aksjene
+
+[00:10:46] versus de store i rapporteringssesongen, Poul?
+
+[00:10:50] Jeg har ikke lagt merke til noe sånn veldig systematisk rundt det,
+
+[00:10:53] men det har vært egentlig bedre enn ventet rapporteringssesong.
+
+[00:10:56] Det tror jeg de fleste er nok ganske enige i.
+
+[00:10:59] Det som jeg synes er,
+
+[00:11:00] det er kanskje mer utfordrende er når vi kommer litt lenger ute i året,
+
+[00:11:04] så er det ikke like sterk medvind antageligvis fra økonomien,
+
+[00:11:08] men også inflasjonen,
+
+[00:11:09] for det er noe som er egentlig positivt til inntjening til selskapene,
+
+[00:11:12] at inntjening er jo noe med noe.
+
+[00:11:14] Så i starten av året har det hatt ganske bra vekst i BNP,
+
+[00:11:18] men også forholdsvis sterk inflasjon.
+
+[00:11:21] Hvis vi antar at veksten i økonomien blir gradvis litt saktere gjennom året,
+
+[00:11:25] og i tillegg at inflasjonen kommer ned,
+
+[00:11:27] så tror jeg det er en større utfordring på inntjening når vi begynner å se,
+
+[00:11:30] som Q3, Q4, enn det er i Q1 og Q2 i år.
+
+[00:11:33] Så jeg tror den perioden, det at det har gått forholdsvis bra nå,
+
+[00:11:37] er kanskje noe som har overrasket en del,
+
+[00:11:39] men jeg er mer bekymret når vi ser litt lenger ut i året enn første halvdel.
+
+[00:11:45] Hans Marius trakk jo fram eksempler på noen sektorer
+
+[00:11:49] som typisk ikke er så store i Norge,
+
+[00:11:51] men heller i Sverige, som også er der største delen av dine investeringer går,
+
+[00:11:59] på grunn av hvordan markedet er.
+
+[00:12:00] Det har jeg satt sammen, Hans Marius.
+
+[00:12:02] Men Paul, hvis vi ser på norsk small cap,
+
+[00:12:05] hva skriner mest attraktivt på dine parametre?
+
+[00:12:08] Det er veldig mye shipping-aksjer som kommer godt ut på de forskjellige faktorene vi ser på.
+
+[00:12:13] De fleste av dem handler på ganske lave multipler, for eksempel.
+
+[00:12:16] Det er nok delvis fordi at de er i en periode nå hvor det er litt sånn type super profit,
+
+[00:12:20] så det er ikke noe man kan anta varer i evig tid.
+
+[00:12:24] Og så er det jo noe som er litt uvanlig i shipping,
+
+[00:12:27] at i gode tider pleier de gjerne å bestille masse sånne nye båter,
+
+[00:12:30] så da i det etterspørselen begynner å dabbe av,
+
+[00:12:33] så får du plutselig massevis av ny kapasitet.
+
+[00:12:35] Det er jo det som ser ut til kanskje å være litt annerledes denne gangen.
+
+[00:12:38] Det er nettopp det at det har vært forholdsvis forsiktig bestilling så langt.
+
+[00:12:42] Det er noen unntak i enkelte segmenter,
+
+[00:12:44] men det har ikke vært den bølgen av nye bestillinger som det ofte pleier å være i shipping,
+
+[00:12:49] så det burde i hvert fall gi mulighet til at det kan vare litt lenger enn det pleier.
+
+[00:12:53] Så på prising så ser det attraktivt ut.
+
+[00:12:55] Du får direkte avkastning i mange tilfeller som er godt over ti prosent.
+
+[00:12:59] Og så har jo veldig mange av de hatt en sånn ganske positiv utvikling i inntjening,
+
+[00:13:04] at selskapene har levert bedre enn ventet,
+
+[00:13:07] og at de har en stigende inntjeningsforventning i tillegg til lav prising,
+
+[00:13:12] og det er blant de tingene som gjerne fungerer best
+
+[00:13:15] når du klarer å finne kombinasjonen av de faktorene.
+
+[00:13:18] Ja, det er mye shipping og energi blant small capen i Norge, Hans Marus.
+
+[00:13:23] Blir det for syklisk for deg?
+
+[00:13:26] Nei, altså vi har en liten annerledes,
+
+[00:13:29] en del både energi og shipping aksjeri i fondet,
+
+[00:13:32] men det er klart når du har Norden som nedslagsfelt,
+
+[00:13:35] så utgjør shipping og energi kanskje 4-5 prosent av aksjeuniverset ditt.
+
+[00:13:41] Og det er definitivt ikke mitt kjernekompetanseområde,
+
+[00:13:45] så det er veldig sjelden det utgjør noe mer av fondet i hvert fall.
+
+[00:13:48] Så det betyr noe, men ikke så veldig mye.
+
+[00:13:51] Ja, men som du sa, du har investert i gaming.
+
+[00:13:56] Altså, hvorfor?
+
+[00:13:58] Er gaming en bransje og sektor i vekst?
+
+[00:14:03] Det er nok fordi, altså for det første så blir det jo flere og flere mennesker globalt
+
+[00:14:08] som har muligheten til å game, og det begynner jo også å bli litt mer stuereint
+
+[00:14:14] å på en måte ha gaming som en hobby, eller noen har det jo til og med som jobb.
+
+[00:14:19] Man har jo sett det vokse frem liksom, både det å streame og det å konkurrere hardere i gaming,
+
+[00:14:26] så det er jo en hel sånn infrastruktur som vokser frem.
+
+[00:14:31] Så vi tror jo det er en underliggende vekst i det markedet her som kan pågå i mange år til.
+
+[00:14:38] I tillegg så er det jo interessant å se for eksempel det vi ser nå om at Microsoft forsøker å kjøpe opp Activision,
+
+[00:14:46] at det kommer til å bli, tror vi, en del konsolidering i den bransjen her,
+
+[00:14:50] for det er en kamp om content der ute.
+
+[00:14:54] Det ser man i mange bransjer.
+
+[00:14:55] Spesielt i streamingbransjen, men også i gamingbransjen,
+
+[00:14:58] der det er mange av de store gigantene, spesielt i USA, som har lyst til å få tak i content.
+
+[00:15:03] Så vi tror jo det kommer til å bli flere sammenslåinger og oppkjøp i den bransjen,
+
+[00:15:07] og at det kommer til å lønne seg å være investert i den over tid.
+
+[00:15:11] Ja, og her er disse nordiske og svenske gamingselskapene typisk oppkjøpskandidater?
+
+[00:15:19] Ja, altså både og. Embracer som er den største posisjonen i fondet,
+
+[00:15:24] har jo historisk egentlig vært en konsolidator, altså kjøpt opp veldig mange selskaper,
+
+[00:15:29] og det har for så vidt stillfrontet også, men dette har vært mindre oppkjøp.
+
+[00:15:33] Skal man se noen sånn voldsomt stor bransjesammenslåing hvor disse selskapene er involvert,
+
+[00:15:41] så tror vi vel heller de vil bli kjøpt opp enn å kjøpe opp noen store, ja.
+
+[00:15:45] Men det er klart det er flere måter det kan skje på. Det må ikke skje gjennom et oppkjøp.
+
+[00:15:49] I Embracer venter vi jo for eksempel på flere sånne partnerskapsdealer,
+
+[00:15:54] der hvor du kanskje selger unna en del av katalogen din med spill til en av disse store tech-gigantene,
+
+[00:15:59] eller du kan ta på deg en rolle som utvikler av en del spill som skal utgis over de neste x antall årene.
+
+[00:16:06] Så det er flere måter å samarbeide på i det spaceet der.
+
+[00:16:10] Embracer annonserte vel i går at de teamer opp med Amazon for å utvikle et game basert på Ringenes herre-universe.
+
+[00:16:20] Er det et sånt eksempel på sånne ting som kan vise seg?
+
+[00:16:24] Det kan vise seg å slå positivt ut lenger nede, selv om det kanskje ikke gir helt mening å prise inn enda før man helt vet hva det blir til.
+
+[00:16:32] Absolutt. Det viser jo også Amazons vilje til å satse på gaming.
+
+[00:16:38] De har jo tidligere annonsert at Embracer skal utvikle et Tomb Raider-spill for Amazon.
+
+[00:16:45] Det er jo naturlig å tro at Amazon kanskje vil utvikle en ny film eller TV-serie basert på Tomb Raider IPN.
+
+[00:16:52] Og i går annonserte de at de skal lage et stort Ringenes herre multiplayer online-spill som sikkert kommer en 3-5 år opp i løypa.
+
+[00:17:02] Men det er jo et stort spill og et spill i en vektklasse som Embracer i utgangspunktet aldri har vært i stand til å konkurrere i tidligere.
+
+[00:17:09] Så det er veldig fint å se at de kan være med og delta i den type partnerskap-deals som vi tror det kommer flere av.
+
+[00:17:18] Men klart akkurat i dag så drukner jo den nyheten litt i en relativt stor del.
+
+[00:17:30] ventet. Hva er det
+
+[00:17:32] selskapet må
+
+[00:17:33] bevise for å få, hva skal vi si,
+
+[00:17:37] tilliten tilbake
+
+[00:17:38] blant investorene? Det er ganske
+
+[00:17:40] mye akkurat nå, men
+
+[00:17:42] det de først og fremst må bevise er
+
+[00:17:44] at de gjør som de har lovet. Nå har de
+
+[00:17:46] sagt at de skal underskrive en
+
+[00:17:48] stor partnerskapsavtale,
+
+[00:17:51] sånn som
+
+[00:17:51] den ringende særedelen i går,
+
+[00:17:55] men ganske mange
+
+[00:17:56] ganger større enn den, innen utgangen
+
+[00:17:58] av juni. Det må de levere på.
+
+[00:18:01] Og så må de rett og slett vise at de
+
+[00:18:02] kan holde det de lover når det kommer til
+
+[00:18:03] inntjeningsguidance, for nå har de
+
+[00:18:06] misset et par ganger på rad.
+
+[00:18:08] De har laget et par spill som har gått mye
+
+[00:18:10] dårligere enn de så for seg, så
+
+[00:18:12] sånn sett har man jo vært i stand til å se denne
+
+[00:18:14] delvis komme. De siste
+
+[00:18:16] spillslipene nå har vært bedre, og det er ganske
+
+[00:18:18] mange oppløftende nyheter
+
+[00:18:20] om spill som folk
+
+[00:18:22] gleder seg til kommer, så hvis de
+
+[00:18:24] leverer, så tror jeg man tar et steg
+
+[00:18:26] opp på den tillitskruven igjen.
+
+[00:18:28] Og da tror jeg aksjen er alt for alt
+
+[00:18:30] for billig der den er nå. Men du har et
+
+[00:18:32] tillitsproblem når du misser en
+
+[00:18:34] del ganger på rad.
+
+[00:18:35] Embracer og en ene aksjen du trakk fram, en annen
+
+[00:18:38] stor posisjon i fondene, er Stillfront,
+
+[00:18:40] en annen gaming-aksje. Hva er forskjellen
+
+[00:18:42] på disse to?
+
+[00:18:44] Sånn er eksponeringen man får.
+
+[00:18:46] Stillfront er kun inn mot
+
+[00:18:48] mobilspill egentlig. De har litt
+
+[00:18:49] browserspill på PC også, men det er primært et
+
+[00:18:52] mobilspillselskap, mens Embracer
+
+[00:18:54] i hovedsak er et PC
+
+[00:18:56] og konsolspillselskap,
+
+[00:18:58] som også har innslag av mobilspill
+
+[00:19:00] og brettspill også.
+
+[00:19:02] Men Stillfront er et litt lettere
+
+[00:19:04] dyr å forholde seg til. Det er mobilspill.
+
+[00:19:07] Og hva er det som
+
+[00:19:08] på en måte tilsier bedre markeder for
+
+[00:19:10] Stillfront?
+
+[00:19:12] Hva er det
+
+[00:19:14] selskapet gjør, eller skal gjøre
+
+[00:19:16] for å klare å
+
+[00:19:17] vise til vekst
+
+[00:19:19] som man vel går og venter på?
+
+[00:19:22] Særlig den organiske veksten,
+
+[00:19:23] hvis jeg har forstått det riktig. Det er helt riktig.
+
+[00:19:25] Så Stillfront er et veldig godt eksempel
+
+[00:19:27] på et sånt selskap som så
+
+[00:19:29] en vanvittig etterspørselsboom
+
+[00:19:31] under covid. Og de
+
+[00:19:33] gjorde en del oppkjøp og
+
+[00:19:35] gjorde sikkert sine interne prioriteringer
+
+[00:19:38] og baserte seg på at
+
+[00:19:39] det oppsvinget i etterspørsel
+
+[00:19:41] kunne vare en stund. Og så
+
+[00:19:43] kom man ut av pandemien, og mobilspill var ikke like
+
+[00:19:45] populært å bruke penger på
+
+[00:19:47] lenger når folk kunne ut og svinge seg
+
+[00:19:49] i stedet. Og da fikk man
+
+[00:19:51] et ganske raskt fall i etterspørselen.
+
+[00:19:54] Og så har mobilspillselskapene
+
+[00:19:55] famlet litt på vei
+
+[00:19:57] ned der og prøvd å finne ut
+
+[00:19:59] av hvor mye er det optimalt å bruke på
+
+[00:20:01] å kjøpe inn kunder. Hvor mye er det optimalt
+
+[00:20:03] å bruke på å utvikle nye spill
+
+[00:20:05] i et marked som uansett er ganske
+
+[00:20:07] svagt. Det man ser nå er
+
+[00:20:09] at markedet begynner å finne fest igjen.
+
+[00:20:11] Ikke noe sånn supersprekt, men nå
+
+[00:20:13] begynner man å få såpass svake
+
+[00:20:15] sammenlignbare tall at man kanskje er tilbake
+
+[00:20:17] på en vekst i løpet av Q2 og Q3.
+
+[00:20:20] Og i tillegg så har de beste spillselskapene
+
+[00:20:22] sånn som Stillfront nå
+
+[00:20:23] lagt planer for hvordan de kan tilpasse
+
+[00:20:25] seg den nye normalen
+
+[00:20:27] med å bruke mindre penger på å utvikle
+
+[00:20:29] spill. Det er ikke vits i å kaste bort
+
+[00:20:31] 13-14 prosent av topplinja
+
+[00:20:33] når du uansett ikke har et marked
+
+[00:20:35] som vokser. Så de kutter ned på disse tingene
+
+[00:20:38] for å rett og slett tjene mer penger.
+
+[00:20:40] Og det kommer til å være positivt når
+
+[00:20:41] markedet snur.
+
+[00:20:42] Er selskapet mye gjeld? Hvor viktig er det
+
+[00:20:45] at de klarer å innfri på disse
+
+[00:20:47] vekstforventningene
+
+[00:20:49] sine og at de
+
+[00:20:50] klarer å håndtere
+
+[00:20:53] de forplikkelsene de har?
+
+[00:20:55] Vi snakket om balanse og sånne ting tidligere.
+
+[00:20:57] Ja.
+
+[00:20:57] De har en del gjeld
+
+[00:20:59] og de gjorde en del oppkjøp med
+
+[00:21:02] earn-out som er på en måte
+
+[00:21:03] gjeld de skylder selskapene
+
+[00:21:05] de har kjøpt opp hvis de går så
+
+[00:21:07] og så bra i fremtiden. Så det er
+
+[00:21:09] viktig at Stillfront tjener
+
+[00:21:11] penger, men har man et tilnærmet
+
+[00:21:13] flatt marked og med de
+
+[00:21:15] estimatene man har i Stillfront på
+
+[00:21:17] margin og kontantgenerering
+
+[00:21:19] så tror vi det er
+
+[00:21:21] tilnærmet null problem.
+
+[00:21:23] Men det er klart, jo mer gjeld du har,
+
+[00:21:25] jo smalere blir det rommet du har
+
+[00:21:27] til å
+
+[00:21:27] navigere, og dessviktigere blir det å følge med.
+
+[00:21:29] Ja, Paul.
+
+[00:21:31] Bra å lære litt om gaming-sektoren også.
+
+[00:21:33] Det er ikke den vi snakker oftest om
+
+[00:21:35] i de vanlige oppdateringene våre.
+
+[00:21:37] Ja, jeg må innrømme gaming er ikke noe
+
+[00:21:39] jeg kan så veldig mye om, og det er ikke noe
+
+[00:21:41] jeg bruker fritiden på heller,
+
+[00:21:43] så det har vært egentlig en lærerik prosess
+
+[00:21:45] dette her også, å bare få litt bedre forståelse for
+
+[00:21:48] akkurat dette her, men
+
+[00:21:50] det er sånn jeg sier, en bransje som
+
+[00:21:52] det var kanskje overrasket litt hvor sterkt
+
+[00:21:54] det var gjennom covid, og det gjenstår å se på det,
+
+[00:21:56] i en resesjonsscenario, så kan det godt hende at
+
+[00:21:59] dette er noe som folk kanskje velger å prioritere
+
+[00:22:02] og beholde. Det er litt sånn hvor
+
+[00:22:05] syklisk eller hvor defensivt sektoren er.
+
+[00:22:08] Det er noe som, det er jo forholdsvis ung sektor,
+
+[00:22:11] det er ikke sånn at vi har ti sykluser
+
+[00:22:13] å se tilbake til hva var det som skjedde
+
+[00:22:15] i snitt hver gang, så det er jo et segment som
+
+[00:22:18] er egentlig ganske spennende å følge litt med på
+
+[00:22:21] også fra et makroperspektiv, hvor robust
+
+[00:22:24] det kan være i en litt vanskelig
+
+[00:22:26] periode. Når Paul begynner å game,
+
+[00:22:28] da er kanskje veksten ferdig i gaming-spacen.
+
+[00:22:31] Da har vi nådd toppen. Mettningspunktet.
+
+[00:22:34] Det er en indikator du får følge litt med på.
+
+[00:22:36] Ja, det skal jeg gjøre. Det er bra.
+
+[00:22:39] En tredje aksje som vi snakket litt om,
+
+[00:22:43] og som også er en stor posisjon i fondet,
+
+[00:22:46] det er Humble, Hans Marius, og ja,
+
+[00:22:50] der startet jeg litt med blanke ark,
+
+[00:22:52] så du får fortelle oss hva dette er.
+
+[00:22:54] Ja, det er ikke så mange som vet det.
+
+[00:22:56] Humble er en gruppe med merkevarer innenfor
+
+[00:23:00] egentlig bærekraftig og sunne produkter.
+
+[00:23:04] Så de driver med noen produkter innenfor
+
+[00:23:06] personlig hygiene, altså de har bambustannbørster
+
+[00:23:09] og Q-tips og en del av disse tingene her,
+
+[00:23:11] og noen bleier og noen greier. Men kronjuvelen
+
+[00:23:14] ligger i det som heter future snacking, som
+
+[00:23:16] egentlig er, ikke sunt, men mindre usunt
+
+[00:23:21] godteri og snacks, som kan være noen
+
+[00:23:24] vingummi og sjokolade med tilnærmet null sukker.
+
+[00:23:29] Det kan være proteinbarer og en del sånne
+
+[00:23:32] treningsprodukter man spiser i forbindelse med trening.
+
+[00:23:36] Og dette ligger det gode marginer i, er det sånn?
+
+[00:23:39] Dette er det gode marginer og høy vekst i,
+
+[00:23:42] ikke minst. Så dette er jo et selskap som
+
+[00:23:45] hadde et bud på seg rett før jul på det
+
+[00:23:48] dobbelte av der kursen er i dag. Utvikler seg
+
+[00:23:51] ekstremt bra operasjonelt, og hovedeierne har takket nei
+
+[00:23:54] av dette budet. Og så har man også her dessverre
+
+[00:23:57] en balanse som gjør at aksjekursen har fått et lokk på seg.
+
+[00:24:00] For du har litt for mye gjeld og et litt for dyrt
+
+[00:24:03] obligasjonslån som du må gjøre noe med her i løpet av
+
+[00:24:06] tre-fire måneder. Men vi tror jo man kommer frem til
+
+[00:24:09] en veldig mye mer konstruktiv løsning på det enn
+
+[00:24:12] hva markedet priser inn i dag. Og det er nok en av
+
+[00:24:14] de mest spennende aksjene vi ser i Norden i dag.
+
+[00:24:18] Ja, ja, Paul. Det er jo mer enn det svenske markedet,
+
+[00:24:23] det er mer enn bare gaming og konsum også.
+
+[00:24:28] Det er mye finans, det er annen type industri.
+
+[00:24:33] Noe som kommer ut på toppen av hodet hos deg som er spennende.
+
+[00:24:38] Jeg er jo litt på den forsiktige siden når det gjelder
+
+[00:24:42] markedsutsiktene, så jeg mener at det er fornuftig
+
+[00:24:45] å ha en del sånne forholdsvis defensiv eksponering.
+
+[00:24:49] Og med defensiv så mener vi sektorer som ikke er så eksponert
+
+[00:24:53] mot syklussen, så en del IT kommer innenfor det de vil kalle defensiv.
+
+[00:24:57] Andre ting blir litt mer sånne type ting, sånne varer man trenger,
+
+[00:25:01] litt sånn uavhengig av hvordan det går i økonomien,
+
+[00:25:03] sånn mat for eksempel. Også i europris er en aksje vi har
+
+[00:25:07] i ukesportefølgen som jeg tenker er forholdsvis defensiv,
+
+[00:25:10] hvor du har to tredjedeler av salget er egentlig sånne type
+
+[00:25:14] konsumvarer, sånne type såpe, sjampo, mat og sånne type ting.
+
+[00:25:20] Ting som man må ha uansett.
+
+[00:25:21] Nettopp.
+
+[00:25:22] Så det er de tingene som gjerne blir minst påvirket
+
+[00:25:25] hvis det går litt tyngre i økonomien.
+
+[00:25:28] Så det å ha en slags base i porteføljen med relativt defensiv aksjer,
+
+[00:25:33] tror jeg er noe som er fornuftig, for over tid så er det egentlig
+
+[00:25:37] viktig å unngå de store smellene på veien ned.
+
+[00:25:40] Bare fordi at matematikken jobber litt imot deg,
+
+[00:25:43] at hvis aksjer faller 50% så må det dobles til å komme opp igjen
+
+[00:25:46] til start, så klarer du å begrense den nedsiden i en litt mer utfordrende
+
+[00:25:51] situasjon, så får du mye mer betalt på vei opp igjen neste gang,
+
+[00:25:56] og da kan det trekke deg mye mer ut på risikokurven.
+
+[00:25:59] Så det er litt det å ikke nødvendigvis ha de største sjansene
+
+[00:26:03] på denne delen av syklusen som er det jeg synes er kanskje
+
+[00:26:06] mest viktig å ha litt i bakhodet.
+
+[00:26:09] Bra, hvis vi skal avslutte der vi startet.
+
+[00:26:13] Det er mange grunner til å eie nordiske aksjer.
+
+[00:26:17] Det er en verden i miniatyr, det har gitt god avkastning over
+
+[00:26:20] tid, og small cap-segmentet som vi har snakket om i dag
+
+[00:26:26] har definitivt levert historisk.
+
+[00:26:29] Pål, mange gode grunner til å ha det i porteføljen
+
+[00:26:33] hvis man titter noen år frem i tid.
+
+[00:26:37] Ja, over tid har jeg sett at nordiske selskaper er stort sett
+
+[00:26:41] ganske ryddig, det er ikke så mye sånne type skjelett som
+
+[00:26:44] faller ut av skapet med jevne mellomrom som det kanskje gjør
+
+[00:26:47] i en del andre markeder.
+
+[00:26:49] Vi har en slags mer kvalitetsramme på utvalget av selskapene
+
+[00:26:54] som du har i universet der, og det er også viktig det med at
+
+[00:26:59] du har en god governance og så videre, at det ikke er sånne type
+
+[00:27:03] tull og tøys som du må drive å forholde deg til over tid.
+
+[00:27:06] Det er litt det at nettopp sånne type ting, å unngå sånne
+
+[00:27:10] overraskelser, er det som eventuelt gjør at i et litt tyngre
+
+[00:27:14] marked at det blir et eventuelt 20%-fall i stedet for et 60-70%-fall.
+
+[00:27:19] Som kan skje hvis ting virkelig smeller i en negativ retning.
+
+[00:27:24] Så det er en sånn type kvalitetspreg over nordiske aksjer som du ikke
+
+[00:27:27] finner på samme måte i andre geografiske områder.
+
+[00:27:30] Bra det, med det så runder vi av for nå, så da gjenstår det bare å si
+
+[00:27:35] tusen takk til dere begge, og så gleder vi oss til å følge fondet
+
+[00:27:40] videre, Hans Marius. Og sist men ikke minst, tusen takk folkens
+
+[00:27:44] til alle dere som fulgte med.
+
+[00:28:02] Denne sendingen ble publisert i podkasten Utbytte.

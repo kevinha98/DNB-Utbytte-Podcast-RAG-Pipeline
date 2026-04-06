@@ -1,0 +1,575 @@
+{"episode_id": 100, "segment_index": 0, "start": 1.97, "end": 11.97, "text": "En spillbasert læringsplattformen KAHUT har lykkes med å skabe engasjemang i hjemme, på skolen og arbeidsplasser hverden over."}
+{"episode_id": 100, "segment_index": 1, "start": 11.97, "end": 17.47, "text": "Dette har gitt selskapet en stor, global og atraktiv brukerbaser."}
+{"episode_id": 100, "segment_index": 2, "start": 17.47, "end": 24.13, "text": "Men hvordan skal de lykkes med å utnytte dette til å bygge en skalærbar og lønnsom forretningsmodell?"}
+{"episode_id": 100, "segment_index": 3, "start": 24.13, "end": 31.13, "text": "Det skal vi snakke med Eilert Hanuam, som er chefen i KAHUT i dagens episode."}
+{"episode_id": 100, "segment_index": 4, "start": 36.51, "end": 44.51, "text": "Velkommen til utbyttet, DNB-podtkasten, der vi forklarer hva som skjer i den globale økonomien og finansmarkene."}
+{"episode_id": 100, "segment_index": 5, "start": 44.51, "end": 52.8, "text": "Jeg er Marius Brunhagen fra DNB Markets, og i dag har jeg som hem meg KAHUT-chefen, hei hei Eilert."}
+{"episode_id": 100, "segment_index": 6, "start": 52.8, "end": 54.8, "text": "Hei hei, takk for imutasjonen."}
+{"episode_id": 100, "segment_index": 7, "start": 54.8, "end": 59.8, "text": "Veldig hyggelig at du tar det tid til å være med når vi spiller inn dette her."}
+{"episode_id": 100, "segment_index": 8, "start": 59.8, "end": 63.8, "text": "Så er det altså tårstag 28. mai, klokken er 11."}
+{"episode_id": 100, "segment_index": 9, "start": 63.8, "end": 67.8, "text": "Har du rukket å spille noen rundur KAHUT allerede, Eilert?"}
+{"episode_id": 100, "segment_index": 10, "start": 67.8, "end": 74.8, "text": "I dag har vi sett mest på det som kommer av ny funksjonalitet, og ikke brukt så mye det som allerede finnes."}
+{"episode_id": 100, "segment_index": 11, "start": 74.8, "end": 81.8, "text": "Hvertfall for min egen bel, men det er jo noen hundretusende rundt på kring i verden som har spilt KAHUT allerede i dag."}
+{"episode_id": 100, "segment_index": 12, "start": 81.8, "end": 88.8, "text": "Så bra, det vil jeg ikke på. Hadde vi gjort dette her på Teams eller en annen form for video, så kunne vi være lagt inn en runde KAHUT eller to."}
+{"episode_id": 100, "segment_index": 13, "start": 88.8, "end": 92.8, "text": "Men sin dette podcast, så skal vi nøye oss med å prate."}
+{"episode_id": 100, "segment_index": 14, "start": 92.8, "end": 102.8, "text": "Og da om det som er relevant å vite for lytterne våre som jo er interessert i KAHUT fra et investeringsperspektiv, høres ikke det bra ut?"}
+{"episode_id": 100, "segment_index": 15, "start": 102.8, "end": 107.8, "text": "Det høres veldig bra ut. KAHUT er absolutt et av mine viktigste favoritt temor."}
+{"episode_id": 100, "segment_index": 16, "start": 108.8, "end": 118.8, "text": "Ganske snart så skal vi gå inn på mer i detaljer og hvordan dere planlegger for å lykke med å kalle kommersialisere KAHUT i store skala,"}
+{"episode_id": 100, "segment_index": 17, "start": 118.8, "end": 124.8, "text": "men kan ikke du innledningsvis kort fortelle hvem KAHUT er og hva dere gjør sånn at vi hamner oss alle fra bynnsen?"}
+{"episode_id": 100, "segment_index": 18, "start": 126.31, "end": 134.31, "text": "KAHUT er et norsk selskap, eller faktisk nesten et internasjant selskap, men som happens to be a non slow,"}
+{"episode_id": 100, "segment_index": 19, "start": 134.31, "end": 148.31, "text": "som har brukere og kunder over hele verden. Det kommer fra en spillbasert enkel quiz og har blitt en læringsplattform."}
+{"episode_id": 100, "segment_index": 20, "start": 149.31, "end": 158.31, "text": "Blir jeg unnfanget som et prosjekt på NTNU med et megetyktig grønne tim, sammen med professor Alf Ingevang,"}
+{"episode_id": 100, "segment_index": 21, "start": 158.31, "end": 168.31, "text": "som er professor i gamification på NTNU i dag, som så behovet for å gjøre undervisning og læring mer interessant,"}
+{"episode_id": 100, "segment_index": 22, "start": 168.31, "end": 179.31, "text": "spesielt for store grupper, og forstå at hvis man skal få til det, making learning awesome, som også er selskapet slagord,"}
+{"episode_id": 100, "segment_index": 23, "start": 179.31, "end": 189.31, "text": "så må man ha noe software som kan hjelpe den som foreleser ved, uavhandling, ingen om det er en lærer eller en leder i en yksmet,"}
+{"episode_id": 100, "segment_index": 24, "start": 189.31, "end": 197.31, "text": "for den selv, til å få det til å skje. Og det er egentlig utgangspunktet og grunnlaget for KAHUT,"}
+{"episode_id": 100, "segment_index": 25, "start": 197.31, "end": 208.31, "text": "så enkelt, men ikke vel så vanskelig, nemlig å skape det som gjør at interessen blant de som hører på blir vekket,"}
+{"episode_id": 100, "segment_index": 26, "start": 208.31, "end": 212.31, "text": "og at kunnskapet blir formittlet og delt på en morsomre måte."}
+{"episode_id": 100, "segment_index": 27, "start": 212.31, "end": 225.31, "text": "Og det jeg fikk en om ene KAHUT har klart å skape, er jo nå et koncept som har blitt brukt av 1,3 milliarder deltagende spillere siste to måneder,"}
+{"episode_id": 100, "segment_index": 28, "start": 225.31, "end": 240.31, "text": "og vi har rundt 17 millioner aktive kontor som da er mennesker, enten de er lærer eller andre som presenterer,"}
+{"episode_id": 100, "segment_index": 29, "start": 240.31, "end": 247.31, "text": "inkludert studenter selvfølgelig, som lager KAHUT-er og holder de for andre deltagere."}
+{"episode_id": 100, "segment_index": 30, "start": 247.31, "end": 257.31, "text": "Så litt av etter annøkelstikkordene her, det er å skape engasjemang, og jeg har jo spilt KAHUT selv i ulike sammenhenger flere ganger,"}
+{"episode_id": 100, "segment_index": 31, "start": 257.31, "end": 264.31, "text": "og må jo si at det er jo virkelig det det gjør, det bidrar til å skape et skikkelig engasjemang,"}
+{"episode_id": 100, "segment_index": 32, "start": 264.31, "end": 271.31, "text": "men engasjemang det er ikke bare for de som spiller også hos investorene, der det er notert på Mercure Market,"}
+{"episode_id": 100, "segment_index": 33, "start": 271.31, "end": 280.31, "text": "og hvis jeg er så riktig så har det mer enn 3.000 investorer nå, og har det gitt mesmak å være notert på Børs?"}
+{"episode_id": 100, "segment_index": 34, "start": 280.31, "end": 289.31, "text": "Du, det har det. Vi var jo først på O2-seristen, frem til oktober 4, hvor vi ble listet på Mercure Markets."}
+{"episode_id": 100, "segment_index": 35, "start": 289.31, "end": 300.31, "text": "Da hadde vi rundt 380 aksjonaller, nå har vi vel 3.380, så det har økt signifikant på de 7-8 månedene vi har vært på Mercure,"}
+{"episode_id": 100, "segment_index": 36, "start": 300.31, "end": 305.31, "text": "og det har vært veldig bra for å både kunne kommunisere effektivt med våre investorer,"}
+{"episode_id": 100, "segment_index": 37, "start": 305.31, "end": 309.31, "text": "men også for å få en handelplass for aksjon."}
+{"episode_id": 100, "segment_index": 38, "start": 309.31, "end": 323.31, "text": "Vi tenker at det er en del av en reise, fordi vi har også sagt at Kahut skal på en hovedlisting i løpet av 12-15 måneder,"}
+{"episode_id": 100, "segment_index": 39, "start": 323.31, "end": 333.31, "text": "som vi satt tilbake i Q1, altså område 12 måneder fra nå, og at Mercure er en fin handelplass for å kunne fortsette å bygge selskapet,"}
+{"episode_id": 100, "segment_index": 40, "start": 333.31, "end": 337.31, "text": "til det er klart for en kanskje enda større liste."}
+{"episode_id": 100, "segment_index": 41, "start": 338.31, "end": 349.31, "text": "Men uten sammenligning for øvrig, ser du det som positivt at flere andre teknologiselskaper på Oslo Børs opplever medvind og positivt oppmerksomhet om dagen?"}
+{"episode_id": 100, "segment_index": 42, "start": 349.31, "end": 357.31, "text": "Absolutt. Det er ikke noe grunn til det, ingen at vi ikke skal få flere succesverksomheter i Norge,"}
+{"episode_id": 100, "segment_index": 43, "start": 357.31, "end": 365.31, "text": "som både er listed og som ikke minst er bygget på teknologi, og kanskje aller viktigst skallerbar teknologi."}
+{"episode_id": 100, "segment_index": 44, "start": 365.31, "end": 374.31, "text": "Så det er noe vi absolutt hilser velkommen i, både som privat invester, men også som kollegi og alt selskap,"}
+{"episode_id": 100, "segment_index": 45, "start": 374.31, "end": 379.31, "text": "i det mångfald vi egentlig alle ønsker oss på Oslo Børs."}
+{"episode_id": 100, "segment_index": 46, "start": 380.34, "end": 385.34, "text": "Nå kan jeg løyde. Vi tar litt mer om, hva skal vi si, statusen."}
+{"episode_id": 100, "segment_index": 47, "start": 385.34, "end": 393.34, "text": "Og for første kvartal, det er ikke så lenge sin dere rapporterte, så ladre fram det som i hvert fall for mitt uttrent øyevirker,"}
+{"episode_id": 100, "segment_index": 48, "start": 393.34, "end": 401.34, "text": "som solid definitivt, solid vekst, både når man ser på kontor, bruker og betalen bruker."}
+{"episode_id": 100, "segment_index": 49, "start": 401.34, "end": 405.34, "text": "Vi så også at det ble tatt veldig mot av market."}
+{"episode_id": 100, "segment_index": 50, "start": 405.34, "end": 413.34, "text": "Var du selv positivt overrasket av hva dere leverte i første kvartal, eller var det bare som akkurat som planlagt?"}
+{"episode_id": 100, "segment_index": 51, "start": 413.34, "end": 425.34, "text": "Vi kom jo med en oppdatering på Q1-tallene våre andre april, så vi følte at det var en ganske bra momentum på vei ut av kvartalet,"}
+{"episode_id": 100, "segment_index": 52, "start": 425.34, "end": 433.34, "text": "som vi også har informert om, ikke minst farten inn i april, som vi også hadde med på vår kvartalsbestansjon i maj."}
+{"episode_id": 100, "segment_index": 53, "start": 433.34, "end": 447.34, "text": "I først skal vi si litt overrasket over hvor fortbruksmønstre endret seg, både for at selvfølgelig store arrangementer ble dedusert eller avlyst,"}
+{"episode_id": 100, "segment_index": 54, "start": 447.34, "end": 457.34, "text": "eller flyttet til digitaler plattformer, og at behovet for å kunne gjenn sørge for at læring og kunstkapstelling ble interessant,"}
+{"episode_id": 100, "segment_index": 55, "start": 457.34, "end": 463.34, "text": "da overvideomøter eksploderte i mars og inn i andre kvartal."}
+{"episode_id": 100, "segment_index": 56, "start": 463.34, "end": 471.34, "text": "Slik at den endringen i hele samfunnet og i veldig mange land som skjedde allerede i mars,"}
+{"episode_id": 100, "segment_index": 57, "start": 471.34, "end": 481.34, "text": "det ble vi selvfølgelig overrasket over, og vi var blant i selskapen som var heldige i forhold til å ha infrastruktur og kapasitet på plass,"}
+{"episode_id": 100, "segment_index": 58, "start": 481.34, "end": 485.34, "text": "til å kunne hantere den endringen som kom over natten."}
+{"episode_id": 100, "segment_index": 59, "start": 485.34, "end": 493.34, "text": "Vi kom jo ikke ut noen koronavirus og situasjon rundt det, som du peker på."}
+{"episode_id": 100, "segment_index": 60, "start": 493.34, "end": 499.34, "text": "Mange har begynt å bruke digitale verkter, både i jobb og skolesammenheng,"}
+{"episode_id": 100, "segment_index": 61, "start": 499.34, "end": 505.34, "text": "også for å holde kontakt med venner og besjente. Har dere klart å dra nytte dette her allerede?"}
+{"episode_id": 100, "segment_index": 62, "start": 505.34, "end": 511.34, "text": "Jeg vil si at vår første kvartalstall som jo ble bedre enn vi også hadde guided på,"}
+{"episode_id": 100, "segment_index": 63, "start": 511.34, "end": 519.34, "text": "vi hente med 220 prosent vekst i fakturerte omsettning i første kvartal vs første kvartal i fjord,"}
+{"episode_id": 100, "segment_index": 64, "start": 519.34, "end": 524.34, "text": "også med en sterk økning fra fjerkvartal i fjord som var bra,"}
+{"episode_id": 100, "segment_index": 65, "start": 524.34, "end": 533.34, "text": "og vi hadde en positiv cashflow fra adrift, selv om vi trossalt kunne fakturerte for 6,4 millioner dollar i første kvartal,"}
+{"episode_id": 100, "segment_index": 66, "start": 533.34, "end": 539.34, "text": "men vi så vel det at vi klarte både å tilgjengøre produkte for de som ikke betaler,"}
+{"episode_id": 100, "segment_index": 67, "start": 539.34, "end": 546.34, "text": "altså våre gratis produkter, men også for de som betaler i den farten som kanskje våre bruker forventet"}
+{"episode_id": 100, "segment_index": 68, "start": 546.34, "end": 554.34, "text": "i slutten av kvartalet med det som skjedde med koronavirus og hvordan det påvikkede både skoler og viksmetter."}
+{"episode_id": 100, "segment_index": 69, "start": 554.34, "end": 561.34, "text": "Så det vi er mest fornøyd med er vel at vi har klart å både levere et enda bedre produkt tilpasset i tiden vi er i,"}
+{"episode_id": 100, "segment_index": 70, "start": 561.34, "end": 571.34, "text": "samtidig som vi økte totalbruken av gratis kontor, og samtidig økte antall såkte kontor,"}
+{"episode_id": 100, "segment_index": 71, "start": 571.34, "end": 577.34, "text": "mens vi hadde en forbedring, en sterk forbedring i cashflow kontra første kvartal i fjord."}
+{"episode_id": 100, "segment_index": 72, "start": 577.34, "end": 585.34, "text": "I forhold til de betalende brukerne er det noen land eller regioner som har skilt seg ut der de siste montene"}
+{"episode_id": 100, "segment_index": 73, "start": 585.34, "end": 589.34, "text": "med kalde sterkere vekst, bedre resultater."}
+{"episode_id": 100, "segment_index": 74, "start": 589.34, "end": 597.34, "text": "Det er helt klart en stor rade samme mønstre som vi har sett til, nemlig at Europa og USA kan da stå for brorparten"}
+{"episode_id": 100, "segment_index": 75, "start": 597.34, "end": 602.34, "text": "og både bruk og omsettning i verden, men vi har betalende kunder i 150 land."}
+{"episode_id": 100, "segment_index": 76, "start": 602.34, "end": 609.34, "text": "Vi har ikke en akkurat oversikt over hvilke landene eller hvilke regioner som har hatt størst endring basert på det som har skjedd,"}
+{"episode_id": 100, "segment_index": 77, "start": 609.34, "end": 617.34, "text": "men vi hadde jo i april et salg som var like stort som hele første kvartal på nye licenser."}
+{"episode_id": 100, "segment_index": 78, "start": 617.34, "end": 623.34, "text": "Det har helt klart vært et skifte her i både bruken av kahut,"}
+{"episode_id": 100, "segment_index": 79, "start": 623.34, "end": 633.34, "text": "men også i interessen for å investere i en kahut licens kontra hva vi har så før koronaepidemien trods alt ændret en god del."}
+{"episode_id": 100, "segment_index": 80, "start": 633.34, "end": 638.34, "text": "Mønstre bruker på både digital og fysiske møteplasser."}
+{"episode_id": 100, "segment_index": 81, "start": 638.34, "end": 644.34, "text": "Har du noen helt konkrete eksempler på hva som er de viktigste justeringene eller tilpasningene"}
+{"episode_id": 100, "segment_index": 82, "start": 644.34, "end": 649.34, "text": "som du har gjort i siste måneder som følge av virus situasjonen?"}
+{"episode_id": 100, "segment_index": 83, "start": 649.34, "end": 657.34, "text": "Vi hadde en del prosjekter gående for dette skjedd som dreide seg om hvordan man skulle kunne,"}
+{"episode_id": 100, "segment_index": 84, "start": 657.34, "end": 664.34, "text": "for eksempel, lære tilby jemilekser eller forberedne prøver via kahut,"}
+{"episode_id": 100, "segment_index": 85, "start": 664.34, "end": 673.34, "text": "og på samme måte ikke bruker kahut i team som er kanskje forskjellige tidsoner eller sitter i forskjellige lokasjoner."}
+{"episode_id": 100, "segment_index": 86, "start": 673.34, "end": 679.34, "text": "Den funksjonaliteten ble selvfølgelig viktig og populær akkurat nå."}
+{"episode_id": 100, "segment_index": 87, "start": 679.34, "end": 687.34, "text": "Vi så at bruken av den delen av plattformen økte fem ganger siden samme periode i fjor,"}
+{"episode_id": 100, "segment_index": 88, "start": 687.34, "end": 690.34, "text": "nå i april og i 17. mars."}
+{"episode_id": 100, "segment_index": 89, "start": 690.34, "end": 693.34, "text": "Det er vel en viktigste endring."}
+{"episode_id": 100, "segment_index": 90, "start": 693.34, "end": 698.34, "text": "Det var noe vi har jobbet med i en stund, men som selvfølgelig kom både på plass"}
+{"episode_id": 100, "segment_index": 91, "start": 698.34, "end": 703.34, "text": "og som vi kunne fortsatt accelerere utviklingen av, nå inn i andre kvartal."}
+{"episode_id": 100, "segment_index": 92, "start": 703.34, "end": 708.34, "text": "Vi har også prioritert å gjøre mer på den delen av plattformen enn andre prosjekter"}
+{"episode_id": 100, "segment_index": 93, "start": 708.34, "end": 712.34, "text": "som kanskje hadde vært mer aktuelle hvis det var fortsatt store arrangementer"}
+{"episode_id": 100, "segment_index": 94, "start": 712.34, "end": 716.34, "text": "og møteplasser som var viktigste bruk i Europa."}
+{"episode_id": 100, "segment_index": 95, "start": 716.34, "end": 720.34, "text": "Vi skal komme litt tilbake til funksjonalitet og utvikling etterpå,"}
+{"episode_id": 100, "segment_index": 96, "start": 720.34, "end": 725.34, "text": "men dere gjorde også det, jeg håper å si, kunststyrke,"}
+{"episode_id": 100, "segment_index": 97, "start": 725.34, "end": 729.34, "text": "men som mange andre selskaper som har rapporteret tal,"}
+{"episode_id": 100, "segment_index": 98, "start": 729.34, "end": 734.34, "text": "så har de kuttet ut geiding rett og sett, fordi usikkerheten krisen har skapt"}
+{"episode_id": 100, "segment_index": 99, "start": 734.34, "end": 737.34, "text": "har gjort at det har blitt for stort og for vanskelig å geide,"}
+{"episode_id": 100, "segment_index": 100, "start": 737.34, "end": 743.34, "text": "men dere geidet både for andre kvartal og 2020, er dere i rute?"}
+{"episode_id": 100, "segment_index": 101, "start": 743.34, "end": 748.34, "text": "Føler det, vi går da den siste oppdateringen til markedet 7. mai,"}
+{"episode_id": 100, "segment_index": 102, "start": 748.34, "end": 756.34, "text": "sånn at vi føler oppsutt at vi hadde samme syn på verden da som vi har nå,"}
+{"episode_id": 100, "segment_index": 103, "start": 756.34, "end": 759.34, "text": "og vi har heller ikke endret geiding siden da."}
+{"episode_id": 100, "segment_index": 104, "start": 759.34, "end": 761.34, "text": "Kan dere minne oss på malene?"}
+{"episode_id": 100, "segment_index": 105, "start": 761.34, "end": 769.34, "text": "Ja, veldig kort oppsummert, så sier vi at vi skal i andre kvartal få til minimum 8 millioner dollar i omsetning,"}
+{"episode_id": 100, "segment_index": 106, "start": 769.34, "end": 772.34, "text": "altså opp fra 6,4 millioner dollar i første kvartal,"}
+{"episode_id": 100, "segment_index": 107, "start": 772.34, "end": 777.34, "text": "og det er tilsvaret da en 250 prosent vekst kontra andre kvartal i fjord,"}
+{"episode_id": 100, "segment_index": 108, "start": 777.34, "end": 780.34, "text": "og 25 prosent veksta over første kvartal,"}
+{"episode_id": 100, "segment_index": 109, "start": 780.34, "end": 783.34, "text": "og at vi skal klare å ha 25 prosent cash conversion,"}
+{"episode_id": 100, "segment_index": 110, "start": 783.34, "end": 786.34, "text": "altså 25 prosent av de 8 millioner dollarene skal være free cash flow,"}
+{"episode_id": 100, "segment_index": 111, "start": 786.34, "end": 790.34, "text": "det vil si minimum 2 millioner dollar i free cash flow i andre kvartal."}
+{"episode_id": 100, "segment_index": 112, "start": 790.34, "end": 798.34, "text": "Får vi til det, så synes vi at det er et veldig bra momentum,"}
+{"episode_id": 100, "segment_index": 113, "start": 798.34, "end": 803.34, "text": "spesielt fordi vi fortsetter å øke investeringene i plattformen,"}
+{"episode_id": 100, "segment_index": 114, "start": 803.34, "end": 807.34, "text": "så det vil si vi fortsetter å ansette utviklere og bygge mer funksjonalitet,"}
+{"episode_id": 100, "segment_index": 115, "start": 807.34, "end": 811.34, "text": "og kommer til å også lansere en ny funksjonalitet i løpet av andre kvartal,"}
+{"episode_id": 100, "segment_index": 116, "start": 811.34, "end": 814.34, "text": "som har med de både for situasjonen vi er i,"}
+{"episode_id": 100, "segment_index": 117, "start": 814.34, "end": 816.34, "text": "men også for den siktige bruken av kvartal,"}
+{"episode_id": 100, "segment_index": 118, "start": 816.34, "end": 821.34, "text": "og kvartal 17 millioner aktive brukere på plattformen."}
+{"episode_id": 100, "segment_index": 119, "start": 821.34, "end": 830.34, "text": "Hvor lett eller vanskelig er det å konverterere bruker til å bli betalende brukere?"}
+{"episode_id": 100, "segment_index": 120, "start": 830.34, "end": 836.34, "text": "Kvartal har ikke jobbet med kommersielle produkter på sin plattform,"}
+{"episode_id": 100, "segment_index": 121, "start": 836.34, "end": 839.34, "text": "mer enn siden begynnelsen av 2018,"}
+{"episode_id": 100, "segment_index": 122, "start": 839.34, "end": 846.34, "text": "så vi er sånn sett to år pluss på vei i den reisen,"}
+{"episode_id": 100, "segment_index": 123, "start": 846.34, "end": 852.34, "text": "som er å kommersialisere både produkterne i form av funksjonalitet,"}
+{"episode_id": 100, "segment_index": 124, "start": 852.34, "end": 854.34, "text": "pakketerer i folket pris,"}
+{"episode_id": 100, "segment_index": 125, "start": 854.34, "end": 859.34, "text": "og ikke minst informere brukere om hva man kan,"}
+{"episode_id": 100, "segment_index": 126, "start": 859.34, "end": 861.34, "text": "og ikke kan i de forskjellige variantene."}
+{"episode_id": 100, "segment_index": 127, "start": 861.34, "end": 874.47, "text": "Men så langt så har vi da kommertert cirka 200 og noen og 20.000 betalende brukere,"}
+{"episode_id": 100, "segment_index": 128, "start": 874.47, "end": 876.47, "text": "av de 17 millioner,"}
+{"episode_id": 100, "segment_index": 129, "start": 876.47, "end": 879.47, "text": "så det er jo en nærmere og svel halan,"}
+{"episode_id": 100, "segment_index": 130, "start": 879.47, "end": 884.47, "text": "kanskje rundt 2 prosent i løpet av neste 12 måneder,"}
+{"episode_id": 100, "segment_index": 131, "start": 884.47, "end": 891.47, "text": "som har blitt kommertert av våre totalt antall aktive brukere,"}
+{"episode_id": 100, "segment_index": 132, "start": 891.47, "end": 893.47, "text": "til betalende brukere."}
+{"episode_id": 100, "segment_index": 133, "start": 893.47, "end": 897.47, "text": "Så sånn sett er vi tidlig i den reisen."}
+{"episode_id": 100, "segment_index": 134, "start": 897.47, "end": 903.5, "text": "Hvis vi samlinger oss med andre plattformer som bruker til internasjonalt,"}
+{"episode_id": 100, "segment_index": 135, "start": 903.5, "end": 907.5, "text": "så har vi en liten andel enda som betaler,"}
+{"episode_id": 100, "segment_index": 136, "start": 907.5, "end": 910.5, "text": "men vi tror at det økosystemet vi har,"}
+{"episode_id": 100, "segment_index": 137, "start": 910.5, "end": 915.5, "text": "både brukere og ikke minst de 6 millioner aktive lærerne,"}
+{"episode_id": 100, "segment_index": 138, "start": 915.5, "end": 917.5, "text": "vi har på plattformen vår,"}
+{"episode_id": 100, "segment_index": 139, "start": 917.5, "end": 921.5, "text": "representerer en ekstremt spennende mulighet for oss"}
+{"episode_id": 100, "segment_index": 140, "start": 921.5, "end": 926.5, "text": "til å fortsette å kunne lege til betalende brukere på plattformen,"}
+{"episode_id": 100, "segment_index": 141, "start": 926.5, "end": 930.5, "text": "samtidig som vi også ønsker å øke antall gratis brukere på plattformen."}
+{"episode_id": 100, "segment_index": 142, "start": 930.5, "end": 935.5, "text": "Vil du si at dere hele tiden kommer nærmere kaldesukseeopskriften"}
+{"episode_id": 100, "segment_index": 143, "start": 935.5, "end": 938.5, "text": "på hva som er nøkling til kommertering?"}
+{"episode_id": 100, "segment_index": 144, "start": 938.5, "end": 943.5, "text": "Ja, jeg tror det finnes vel ikke en nøkkel til kommertering,"}
+{"episode_id": 100, "segment_index": 145, "start": 943.5, "end": 947.5, "text": "det er som i nesten alle gode viksmetter,"}
+{"episode_id": 100, "segment_index": 146, "start": 947.5, "end": 952.5, "text": "mange atributer som til samme utgjør den store forskjellen."}
+{"episode_id": 100, "segment_index": 147, "start": 952.5, "end": 955.5, "text": "Vi tror vel her at det å ha et stekt gratis produkt,"}
+{"episode_id": 100, "segment_index": 148, "start": 955.5, "end": 958.5, "text": "vi sier for eksempel at kahut er gratis for alltid for lærerne,"}
+{"episode_id": 100, "segment_index": 149, "start": 958.5, "end": 961.5, "text": "men er det ikke sant så har vi over 100.000 lærer som betaler"}
+{"episode_id": 100, "segment_index": 150, "start": 961.5, "end": 963.5, "text": "for en premium version."}
+{"episode_id": 100, "segment_index": 151, "start": 963.5, "end": 965.5, "text": "Vi har det gratis for private personer,"}
+{"episode_id": 100, "segment_index": 152, "start": 965.5, "end": 967.5, "text": "men du kan selvfølgelig også betale et abonnement,"}
+{"episode_id": 100, "segment_index": 153, "start": 967.5, "end": 970.5, "text": "og for viksmetter så er det ikke mulig å bruke gratis,"}
+{"episode_id": 100, "segment_index": 154, "start": 970.5, "end": 975.5, "text": "der skal du betale det for en licens hvis du bruker kahut i en kommersiell samling."}
+{"episode_id": 100, "segment_index": 155, "start": 975.5, "end": 979.5, "text": "Vi tror at så lenge vi fortsetter å investere i mer funksjonaltid,"}
+{"episode_id": 100, "segment_index": 156, "start": 979.5, "end": 983.5, "text": "i bedre funksjonaltid og i bedre opplevelse for både de som"}
+{"episode_id": 100, "segment_index": 157, "start": 983.5, "end": 986.5, "text": "holder en prestasjon og ikke minst de som deltar en prestasjon,"}
+{"episode_id": 100, "segment_index": 158, "start": 986.5, "end": 989.5, "text": "så vil vi kunne klare å fortsette også å"}
+{"episode_id": 100, "segment_index": 159, "start": 989.5, "end": 993.5, "text": "kommerterere bruker det til betalt versioner."}
+{"episode_id": 100, "segment_index": 160, "start": 993.5, "end": 997.5, "text": "I kanskje en av større omfangene vi har gjort på de første år"}
+{"episode_id": 100, "segment_index": 161, "start": 997.5, "end": 999.5, "text": "da vi har jobbet med det."}
+{"episode_id": 100, "segment_index": 162, "start": 999.5, "end": 1004.5, "text": "Så veldig viktig å centralt her hele veien,"}
+{"episode_id": 100, "segment_index": 163, "start": 1004.5, "end": 1009.5, "text": "det er utvikling av god funksjonalitet og brukvennlig funksjonaltid."}
+{"episode_id": 100, "segment_index": 164, "start": 1009.5, "end": 1012.5, "text": "Det er eneste måten, jeg vil si, du kan overleve"}
+{"episode_id": 100, "segment_index": 165, "start": 1012.5, "end": 1015.5, "text": "som et teknologiselskap, å komme til noe elige øke"}
+{"episode_id": 100, "segment_index": 166, "start": 1015.5, "end": 1018.5, "text": "investeringene i produkt,"}
+{"episode_id": 100, "segment_index": 167, "start": 1018.5, "end": 1021.5, "text": "fordi det finnes selvfølgelig en rekke konkurrenter,"}
+{"episode_id": 100, "segment_index": 168, "start": 1021.5, "end": 1023.5, "text": "det finnes en rekke alternativ."}
+{"episode_id": 100, "segment_index": 169, "start": 1023.5, "end": 1026.5, "text": "Man kan bruke uansett hvilken tjeneste der snakker om,"}
+{"episode_id": 100, "segment_index": 170, "start": 1026.5, "end": 1029.5, "text": "og hvis man ikke selv er sin egen største konkurrent"}
+{"episode_id": 100, "segment_index": 171, "start": 1029.5, "end": 1032.5, "text": "i form av å levere en bedre tjeneste i morgenen enn du har i dag,"}
+{"episode_id": 100, "segment_index": 172, "start": 1032.5, "end": 1035.5, "text": "så vil noen andre være det."}
+{"episode_id": 100, "segment_index": 173, "start": 1035.5, "end": 1038.5, "text": "Ja, det makes sense."}
+{"episode_id": 100, "segment_index": 174, "start": 1038.5, "end": 1046.4, "text": "Hvis vi ser løft og blikke litt eilert,"}
+{"episode_id": 100, "segment_index": 175, "start": 1046.4, "end": 1049.4, "text": "hvilken av disse tre hovedomredende rådne deres"}
+{"episode_id": 100, "segment_index": 176, "start": 1049.4, "end": 1053.4, "text": "hjemme, jobb og skole blir det viktigste framholdet?"}
+{"episode_id": 100, "segment_index": 177, "start": 1053.4, "end": 1059.87, "text": "Så langt kan du si at rundt 75% av omsetning"}
+{"episode_id": 100, "segment_index": 178, "start": 1059.87, "end": 1064.87, "text": "og betalende, eller inntekter fra"}
+{"episode_id": 100, "segment_index": 179, "start": 1064.87, "end": 1069.87, "text": "betalende bruker kommer fra forretningssegmentet,"}
+{"episode_id": 100, "segment_index": 180, "start": 1069.87, "end": 1072.87, "text": "rundt 20% fra skole,"}
+{"episode_id": 100, "segment_index": 181, "start": 1072.87, "end": 1075.87, "text": "og vi tror vel at den bruken kan jo justeres noe"}
+{"episode_id": 100, "segment_index": 182, "start": 1075.87, "end": 1078.87, "text": "etter hvert som vi lanserer nye tjenester også for"}
+{"episode_id": 100, "segment_index": 183, "start": 1078.87, "end": 1081.87, "text": "med større omfang for privatpersoner,"}
+{"episode_id": 100, "segment_index": 184, "start": 1081.87, "end": 1084.87, "text": "den store delen av omsetning vil dere også"}
+{"episode_id": 100, "segment_index": 185, "start": 1084.87, "end": 1087.87, "text": "i de nærmeste årene komme fra virksomheter."}
+{"episode_id": 100, "segment_index": 186, "start": 1087.87, "end": 1089.87, "text": "Og så fra det perspektive, fra omsetning,"}
+{"episode_id": 100, "segment_index": 187, "start": 1089.87, "end": 1092.87, "text": "så er det jobb og skole, eller atworken et sko,"}
+{"episode_id": 100, "segment_index": 188, "start": 1092.87, "end": 1095.87, "text": "som vi kaller det, som blir det viktigste."}
+{"episode_id": 100, "segment_index": 189, "start": 1095.87, "end": 1098.87, "text": "Men når det gjelder antal brukere, så er det klart"}
+{"episode_id": 100, "segment_index": 190, "start": 1098.87, "end": 1101.87, "text": "et privatsegment hvor vi har rundt 10 millioner"}
+{"episode_id": 100, "segment_index": 191, "start": 1101.87, "end": 1104.87, "text": "aktive kontor, som er da enten forældre,"}
+{"episode_id": 100, "segment_index": 192, "start": 1104.87, "end": 1107.87, "text": "sportsklubber, privatpersoner eller studenter"}
+{"episode_id": 100, "segment_index": 193, "start": 1107.87, "end": 1110.87, "text": "som bruker kahut i en annen sammenheng,"}
+{"episode_id": 100, "segment_index": 194, "start": 1110.87, "end": 1113.87, "text": "som er den aller største brukermassen."}
+{"episode_id": 100, "segment_index": 195, "start": 1113.87, "end": 1116.87, "text": "Og derfor, vi synes, det er et privilegium å kunne ha"}
+{"episode_id": 100, "segment_index": 196, "start": 1116.87, "end": 1118.87, "text": "både produkter og tjenester som passer både"}
+{"episode_id": 100, "segment_index": 197, "start": 1118.87, "end": 1120.87, "text": "til hjemmejobb og skolesegmentene,"}
+{"episode_id": 100, "segment_index": 198, "start": 1120.87, "end": 1123.87, "text": "slik at vi kan fortsette å utvikle kahut"}
+{"episode_id": 100, "segment_index": 199, "start": 1123.87, "end": 1126.87, "text": "dydre inn alle disse tre hovedområdene."}
+{"episode_id": 100, "segment_index": 200, "start": 1126.87, "end": 1128.87, "text": "Og det er jo også, til en vis grad,"}
+{"episode_id": 100, "segment_index": 201, "start": 1128.87, "end": 1130.87, "text": "succesen til kahut og grunnen,"}
+{"episode_id": 100, "segment_index": 202, "start": 1130.87, "end": 1134.9, "text": "til at kahut klarer å få over en million"}
+{"episode_id": 100, "segment_index": 203, "start": 1134.9, "end": 1137.9, "text": "nye sign-ups hver måned,"}
+{"episode_id": 100, "segment_index": 204, "start": 1137.9, "end": 1140.9, "text": "uten å bruke penger på markedsføring."}
+{"episode_id": 100, "segment_index": 205, "start": 1140.9, "end": 1143.9, "text": "Men hvordan skal du lykkes deg?"}
+{"episode_id": 100, "segment_index": 206, "start": 1143.9, "end": 1148.9, "text": "Altså være nøkkeln for å klare denne veksten,"}
+{"episode_id": 100, "segment_index": 207, "start": 1148.9, "end": 1153.9, "text": "klare å fortsette å utvikle gode, solide produkter"}
+{"episode_id": 100, "segment_index": 208, "start": 1153.9, "end": 1156.9, "text": "og tjenester samtidig som man får"}
+{"episode_id": 100, "segment_index": 209, "start": 1156.9, "end": 1159.9, "text": "konverterte for åpnervis stadig flere"}
+{"episode_id": 100, "segment_index": 210, "start": 1159.9, "end": 1161.9, "text": "til å bli betalende brukere,"}
+{"episode_id": 100, "segment_index": 211, "start": 1161.9, "end": 1164.9, "text": "og skal du samtidig holde kontroll på kostnaderne?"}
+{"episode_id": 100, "segment_index": 212, "start": 1164.9, "end": 1166.9, "text": "Hvordan skal du klare det?"}
+{"episode_id": 100, "segment_index": 213, "start": 1166.9, "end": 1168.9, "text": "Jeg tror vi har en ganske bra kostnadskontroll,"}
+{"episode_id": 100, "segment_index": 214, "start": 1168.9, "end": 1170.9, "text": "hvis man ser på veksten i kostnaderne,"}
+{"episode_id": 100, "segment_index": 215, "start": 1170.9, "end": 1172.9, "text": "fra fjerkortal til førstkortal,"}
+{"episode_id": 100, "segment_index": 216, "start": 1172.9, "end": 1174.9, "text": "og så var vi av forkastet i nødvendigvis"}
+{"episode_id": 100, "segment_index": 217, "start": 1174.9, "end": 1177.9, "text": "implicit gjennom free cash flow i andre kortal."}
+{"episode_id": 100, "segment_index": 218, "start": 1177.9, "end": 1182.9, "text": "Så det tror jeg nok at det er mulig å"}
+{"episode_id": 100, "segment_index": 219, "start": 1182.9, "end": 1185.9, "text": "trekke ganske bra for en analytiker"}
+{"episode_id": 100, "segment_index": 220, "start": 1185.9, "end": 1187.9, "text": "eller investorer."}
+{"episode_id": 100, "segment_index": 221, "start": 1187.9, "end": 1189.9, "text": "Når de gjelder økning og omsetning,"}
+{"episode_id": 100, "segment_index": 222, "start": 1189.9, "end": 1191.9, "text": "så er det klart at det dreier seg om"}
+{"episode_id": 100, "segment_index": 223, "start": 1191.9, "end": 1193.9, "text": "at det er de brukte og tjenester som har en mer di"}
+{"episode_id": 100, "segment_index": 224, "start": 1193.9, "end": 1195.9, "text": "for brukere og for klunder."}
+{"episode_id": 100, "segment_index": 225, "start": 1195.9, "end": 1197.9, "text": "Man kan kanskje markedsføre seg selv"}
+{"episode_id": 100, "segment_index": 226, "start": 1197.9, "end": 1200.9, "text": "til en kort siktig succes i en kort periode,"}
+{"episode_id": 100, "segment_index": 227, "start": 1200.9, "end": 1203.9, "text": "men over tid så er det bare gode produkter"}
+{"episode_id": 100, "segment_index": 228, "start": 1203.9, "end": 1206.9, "text": "som vinner, hvis man skal behålle kunder,"}
+{"episode_id": 100, "segment_index": 229, "start": 1206.9, "end": 1209.9, "text": "og at det skal være verdt å tilbyde det"}
+{"episode_id": 100, "segment_index": 230, "start": 1209.9, "end": 1212.9, "text": "til brukere den eksisterende nye."}
+{"episode_id": 100, "segment_index": 231, "start": 1212.9, "end": 1214.9, "text": "Så jeg tror det aller viktigste er jo at"}
+{"episode_id": 100, "segment_index": 232, "start": 1214.9, "end": 1217.9, "text": "vi har et koncept som er så populært,"}
+{"episode_id": 100, "segment_index": 233, "start": 1217.9, "end": 1219.9, "text": "at det er World of Mouth som er den viktigste"}
+{"episode_id": 100, "segment_index": 234, "start": 1219.9, "end": 1221.9, "text": "markedsføringens apparater,"}
+{"episode_id": 100, "segment_index": 235, "start": 1221.9, "end": 1224.9, "text": "og det gjør at vi bruker ingen penger"}
+{"episode_id": 100, "segment_index": 236, "start": 1224.9, "end": 1226.9, "text": "på markedsføring, vi bruker pengene på"}
+{"episode_id": 100, "segment_index": 237, "start": 1226.9, "end": 1228.9, "text": "å utvikle produkter i stedet."}
+{"episode_id": 100, "segment_index": 238, "start": 1228.9, "end": 1230.9, "text": "For historisk har dere ikke brukt så veldig mye"}
+{"episode_id": 100, "segment_index": 239, "start": 1230.9, "end": 1232.9, "text": "penger på markedsføring, men kan det bli"}
+{"episode_id": 100, "segment_index": 240, "start": 1232.9, "end": 1234.9, "text": "aktuelt å gjøre noen markedsføringskrep"}
+{"episode_id": 100, "segment_index": 241, "start": 1234.9, "end": 1236.9, "text": "i utvalgte vertikalier?"}
+{"episode_id": 100, "segment_index": 242, "start": 1236.9, "end": 1238.9, "text": "Absolutt."}
+{"episode_id": 100, "segment_index": 243, "start": 1238.9, "end": 1240.9, "text": "Det er klart at hvis du nå har"}
+{"episode_id": 100, "segment_index": 244, "start": 1240.9, "end": 1242.9, "text": "en smal nisje"}
+{"episode_id": 100, "segment_index": 245, "start": 1242.9, "end": 1244.9, "text": "som er ideelt for å"}
+{"episode_id": 100, "segment_index": 246, "start": 1244.9, "end": 1246.9, "text": "bruke delar av brukt aspektere,"}
+{"episode_id": 100, "segment_index": 247, "start": 1246.9, "end": 1248.9, "text": "så er det en rimeligre måte"}
+{"episode_id": 100, "segment_index": 248, "start": 1248.9, "end": 1251.9, "text": "å nå de på mer markedsføringskanaler"}
+{"episode_id": 100, "segment_index": 249, "start": 1251.9, "end": 1254.9, "text": "enn hvis du skal nå den store"}
+{"episode_id": 100, "segment_index": 250, "start": 1254.9, "end": 1256.9, "text": "massen."}
+{"episode_id": 100, "segment_index": 251, "start": 1256.9, "end": 1258.9, "text": "Vi ser jo at det kan være"}
+{"episode_id": 100, "segment_index": 252, "start": 1258.9, "end": 1260.9, "text": "aktuelt fremover, men som det er nå,"}
+{"episode_id": 100, "segment_index": 253, "start": 1260.9, "end": 1262.9, "text": "så har vi en ganske bra"}
+{"episode_id": 100, "segment_index": 254, "start": 1262.9, "end": 1264.9, "text": "momentum"}
+{"episode_id": 100, "segment_index": 255, "start": 1264.9, "end": 1266.9, "text": "på de aller fleste områdene,"}
+{"episode_id": 100, "segment_index": 256, "start": 1266.9, "end": 1268.9, "text": "og vi har fortsatt en del ting"}
+{"episode_id": 100, "segment_index": 257, "start": 1268.9, "end": 1270.9, "text": "vi kan forbedre. Her er vi ikke bare"}
+{"episode_id": 100, "segment_index": 258, "start": 1270.9, "end": 1272.9, "text": "noen få, men vi har ganske mye."}
+{"episode_id": 100, "segment_index": 259, "start": 1272.9, "end": 1274.9, "text": "Vi kan forbedre på absolutt alle frekanser,"}
+{"episode_id": 100, "segment_index": 260, "start": 1274.9, "end": 1276.9, "text": "så det er ikke at vi skal sørge for å"}
+{"episode_id": 100, "segment_index": 261, "start": 1276.9, "end": 1278.9, "text": "gjøre det først, før vi bruker"}
+{"episode_id": 100, "segment_index": 262, "start": 1278.9, "end": 1280.9, "text": "markedsføring gjennom"}
+{"episode_id": 100, "segment_index": 263, "start": 1280.9, "end": 1282.9, "text": "kjøpt media."}
+{"episode_id": 100, "segment_index": 264, "start": 1282.9, "end": 1284.9, "text": "Hvordan vurderer du"}
+{"episode_id": 100, "segment_index": 265, "start": 1284.9, "end": 1286.9, "text": "oppkjøpsmuligheter"}
+{"episode_id": 100, "segment_index": 266, "start": 1286.9, "end": 1288.9, "text": "der ute da kontra organisk"}
+{"episode_id": 100, "segment_index": 267, "start": 1288.9, "end": 1291.1, "text": "vekst?"}
+{"episode_id": 100, "segment_index": 268, "start": 1291.1, "end": 1293.1, "text": "Det er en spesielt i de tidene vi er nå,"}
+{"episode_id": 100, "segment_index": 269, "start": 1293.1, "end": 1295.1, "text": "så er det selvfølgelig flere"}
+{"episode_id": 100, "segment_index": 270, "start": 1295.1, "end": 1297.1, "text": "muligheter for å tenke kanskje lite"}
+{"episode_id": 100, "segment_index": 271, "start": 1297.1, "end": 1299.1, "text": "utrattersmært eller strategisk"}
+{"episode_id": 100, "segment_index": 272, "start": 1299.1, "end": 1301.1, "text": "strukturelle ting man kan gjøre."}
+{"episode_id": 100, "segment_index": 273, "start": 1301.1, "end": 1303.1, "text": "Det kan jo være samarbeid, det kan"}
+{"episode_id": 100, "segment_index": 274, "start": 1303.1, "end": 1305.1, "text": "være selvfølgelig oppkjøp, og det kan"}
+{"episode_id": 100, "segment_index": 275, "start": 1305.1, "end": 1307.1, "text": "være måter å kombinere"}
+{"episode_id": 100, "segment_index": 276, "start": 1307.1, "end": 1309.1, "text": "både tjenester og tilbud"}
+{"episode_id": 100, "segment_index": 277, "start": 1309.1, "end": 1311.1, "text": "til kundegrupper."}
+{"episode_id": 100, "segment_index": 278, "start": 1311.1, "end": 1313.1, "text": "Det ser vi det er mulighet for å gjøre."}
+{"episode_id": 100, "segment_index": 279, "start": 1313.1, "end": 1315.1, "text": "Vi har sagt at vi ønsker"}
+{"episode_id": 100, "segment_index": 280, "start": 1315.1, "end": 1317.1, "text": "å tenke både organisk vekst,"}
+{"episode_id": 100, "segment_index": 281, "start": 1317.1, "end": 1319.1, "text": "som vi jo hovedsaklig baserer"}
+{"episode_id": 100, "segment_index": 282, "start": 1319.1, "end": 1321.1, "text": "både"}
+{"episode_id": 100, "segment_index": 283, "start": 1321.1, "end": 1323.1, "text": "planene våre, og ikke minst"}
+{"episode_id": 100, "segment_index": 284, "start": 1323.1, "end": 1325.1, "text": "alle forkasting på."}
+{"episode_id": 100, "segment_index": 285, "start": 1325.1, "end": 1327.1, "text": "Men også tenke hva som kan"}
+{"episode_id": 100, "segment_index": 286, "start": 1327.1, "end": 1329.1, "text": "gjøre sitt tillegg til det,"}
+{"episode_id": 100, "segment_index": 287, "start": 1329.1, "end": 1331.1, "text": "av ikke organisk vekst, både"}
+{"episode_id": 100, "segment_index": 288, "start": 1331.1, "end": 1333.1, "text": "med de partnerne vi har"}
+{"episode_id": 100, "segment_index": 289, "start": 1333.1, "end": 1335.1, "text": "og de aksjonarne vi har."}
+{"episode_id": 100, "segment_index": 290, "start": 1335.1, "end": 1337.1, "text": "Vi har jo både Disney"}
+{"episode_id": 100, "segment_index": 291, "start": 1337.1, "end": 1339.1, "text": "og Microsoft som aksjonarer,"}
+{"episode_id": 100, "segment_index": 292, "start": 1339.1, "end": 1341.1, "text": "og det gir en mulighet for å diskutere"}
+{"episode_id": 100, "segment_index": 293, "start": 1341.1, "end": 1343.1, "text": "spennende prosjekter"}
+{"episode_id": 100, "segment_index": 294, "start": 1343.1, "end": 1345.1, "text": "på en lite annen frekvens,"}
+{"episode_id": 100, "segment_index": 295, "start": 1345.1, "end": 1347.1, "text": "hvis man ikke har den type"}
+{"episode_id": 100, "segment_index": 296, "start": 1347.1, "end": 1349.1, "text": "industrielle aksjonarer."}
+{"episode_id": 100, "segment_index": 297, "start": 1349.1, "end": 1351.1, "text": "Og vi ser at vi kan"}
+{"episode_id": 100, "segment_index": 298, "start": 1351.1, "end": 1353.1, "text": "kanskje også ned i"}
+{"episode_id": 100, "segment_index": 299, "start": 1353.1, "end": 1355.1, "text": "veien"}
+{"episode_id": 100, "segment_index": 300, "start": 1355.1, "end": 1357.1, "text": "gjøre ting på andre måter"}
+{"episode_id": 100, "segment_index": 301, "start": 1357.1, "end": 1359.35, "text": "enn vi ellers kunne ha gjort."}
+{"episode_id": 100, "segment_index": 302, "start": 1359.35, "end": 1361.35, "text": "Du nevnte jo dette her at"}
+{"episode_id": 100, "segment_index": 303, "start": 1361.35, "end": 1363.35, "text": "Nylis har lansert en sånn"}
+{"episode_id": 100, "segment_index": 304, "start": 1363.35, "end": 1365.35, "text": "Microsoft Teams"}
+{"episode_id": 100, "segment_index": 305, "start": 1365.35, "end": 1367.35, "text": "responsen."}
+{"episode_id": 100, "segment_index": 306, "start": 1367.35, "end": 1369.35, "text": "Det er kort tidsiden, men har den vært bra?"}
+{"episode_id": 100, "segment_index": 307, "start": 1369.35, "end": 1371.35, "text": "Det har vært veldig bra, både fra brukere."}
+{"episode_id": 100, "segment_index": 308, "start": 1371.35, "end": 1373.35, "text": "Det har vært veldig bra fra Microsoft,"}
+{"episode_id": 100, "segment_index": 309, "start": 1373.35, "end": 1375.35, "text": "som også har postet noen"}
+{"episode_id": 100, "segment_index": 310, "start": 1375.35, "end": 1377.35, "text": "cool artikler om det"}
+{"episode_id": 100, "segment_index": 311, "start": 1377.35, "end": 1379.35, "text": "i denne uken."}
+{"episode_id": 100, "segment_index": 312, "start": 1379.35, "end": 1381.35, "text": "Og så"}
+{"episode_id": 100, "segment_index": 313, "start": 1381.35, "end": 1383.35, "text": "uptake i den forstående antall"}
+{"episode_id": 100, "segment_index": 314, "start": 1383.35, "end": 1385.35, "text": "som har aktivert den funksjonen"}
+{"episode_id": 100, "segment_index": 315, "start": 1385.35, "end": 1387.35, "text": "inne fra Teams."}
+{"episode_id": 100, "segment_index": 316, "start": 1387.35, "end": 1389.35, "text": "Så vi ser at det er kjerkommet"}
+{"episode_id": 100, "segment_index": 317, "start": 1389.35, "end": 1391.35, "text": "vi skulle anterligere ha kommet den litt før."}
+{"episode_id": 100, "segment_index": 318, "start": 1391.35, "end": 1393.35, "text": "Det er det viktigste der læringen."}
+{"episode_id": 100, "segment_index": 319, "start": 1393.35, "end": 1395.35, "text": "Men det er også noe vi"}
+{"episode_id": 100, "segment_index": 320, "start": 1395.35, "end": 1397.35, "text": "kommer til å fortsette å investere i."}
+{"episode_id": 100, "segment_index": 321, "start": 1397.35, "end": 1399.35, "text": "Både den konkrete integrasjonen,"}
+{"episode_id": 100, "segment_index": 322, "start": 1399.35, "end": 1401.35, "text": "men også se på hva vi kan gjøre"}
+{"episode_id": 100, "segment_index": 323, "start": 1401.35, "end": 1403.35, "text": "tidsvarende integrasjoner"}
+{"episode_id": 100, "segment_index": 324, "start": 1403.35, "end": 1405.35, "text": "for Google Meet"}
+{"episode_id": 100, "segment_index": 325, "start": 1405.35, "end": 1407.35, "text": "og også for andre plattformer"}
+{"episode_id": 100, "segment_index": 326, "start": 1407.35, "end": 1409.35, "text": "hvor det er både behov for"}
+{"episode_id": 100, "segment_index": 327, "start": 1409.35, "end": 1411.35, "text": "og mulighet for å kunne bruke ut"}
+{"episode_id": 100, "segment_index": 328, "start": 1411.35, "end": 1413.35, "text": "enda mer effektivt"}
+{"episode_id": 100, "segment_index": 329, "start": 1413.35, "end": 1415.35, "text": "med integrasjoner."}
+{"episode_id": 100, "segment_index": 330, "start": 1415.35, "end": 1417.35, "text": "Det er et område vi kommer"}
+{"episode_id": 100, "segment_index": 331, "start": 1417.35, "end": 1419.35, "text": "til å fortsette å investere i."}
+{"episode_id": 100, "segment_index": 332, "start": 1419.35, "end": 1421.35, "text": "Forbedringer for egentlig"}
+{"episode_id": 100, "segment_index": 333, "start": 1421.35, "end": 1423.35, "text": "alle bruker uppen i løpet av"}
+{"episode_id": 100, "segment_index": 334, "start": 1423.35, "end": 1425.35, "text": "andre kvartal. Men ser du fort at"}
+{"episode_id": 100, "segment_index": 335, "start": 1425.35, "end": 1427.35, "text": "ser man fremover"}
+{"episode_id": 100, "segment_index": 336, "start": 1427.35, "end": 1429.35, "text": "de kommende kvartalene etter det"}
+{"episode_id": 100, "segment_index": 337, "start": 1429.35, "end": 1431.35, "text": "at man vil fortsette like hyppig"}
+{"episode_id": 100, "segment_index": 338, "start": 1431.35, "end": 1433.35, "text": "med nye opdateringer"}
+{"episode_id": 100, "segment_index": 339, "start": 1433.35, "end": 1435.8, "text": "og forbedringer?"}
+{"episode_id": 100, "segment_index": 340, "start": 1435.8, "end": 1437.8, "text": "Ja, absolutt."}
+{"episode_id": 100, "segment_index": 341, "start": 1437.8, "end": 1439.8, "text": "Vi har en ambition"}
+{"episode_id": 100, "segment_index": 342, "start": 1439.8, "end": 1441.8, "text": "om å kunne vise til"}
+{"episode_id": 100, "segment_index": 343, "start": 1441.8, "end": 1443.8, "text": "substansielle forbedringer"}
+{"episode_id": 100, "segment_index": 344, "start": 1443.8, "end": 1445.8, "text": "hvert eneste kvartal."}
+{"episode_id": 100, "segment_index": 345, "start": 1445.8, "end": 1447.8, "text": "Vi har heller en ambition om å"}
+{"episode_id": 100, "segment_index": 346, "start": 1447.8, "end": 1449.8, "text": "bruke frekvensen. Ikke minst"}
+{"episode_id": 100, "segment_index": 347, "start": 1449.8, "end": 1451.8, "text": "fordi vi har i den kostbasen"}
+{"episode_id": 100, "segment_index": 348, "start": 1451.8, "end": 1453.8, "text": "selskap vi i dag har, og hadde i Q1"}
+{"episode_id": 100, "segment_index": 349, "start": 1453.8, "end": 1455.8, "text": "og i Q2, økt"}
+{"episode_id": 100, "segment_index": 350, "start": 1455.8, "end": 1457.8, "text": "utviklingskapasiteten"}
+{"episode_id": 100, "segment_index": 351, "start": 1457.8, "end": 1459.8, "text": "med rundt 50%"}
+{"episode_id": 100, "segment_index": 352, "start": 1459.8, "end": 1461.8, "text": "kontra hva vi hadde for et måntag."}
+{"episode_id": 100, "segment_index": 353, "start": 1461.8, "end": 1463.8, "text": "Slik at vi har en mye sterkere"}
+{"episode_id": 100, "segment_index": 354, "start": 1463.8, "end": 1465.8, "text": "organisasjon, kapasitet"}
+{"episode_id": 100, "segment_index": 355, "start": 1465.8, "end": 1467.8, "text": "og ikke minst den tekniske"}
+{"episode_id": 100, "segment_index": 356, "start": 1467.8, "end": 1469.8, "text": "plattformen vi bygger nye funksjonalteter på"}
+{"episode_id": 100, "segment_index": 357, "start": 1469.8, "end": 1471.8, "text": "i forhold til hva vi har hatt før."}
+{"episode_id": 100, "segment_index": 358, "start": 1471.8, "end": 1473.8, "text": "Men som alltid når man"}
+{"episode_id": 100, "segment_index": 359, "start": 1473.8, "end": 1475.8, "text": "bygger programmare"}
+{"episode_id": 100, "segment_index": 360, "start": 1475.8, "end": 1477.8, "text": "løsninger, så noen ganger"}
+{"episode_id": 100, "segment_index": 361, "start": 1477.8, "end": 1479.8, "text": "så tar den litt lengre tid"}
+{"episode_id": 100, "segment_index": 362, "start": 1479.8, "end": 1481.8, "text": "enn man ønsker seg."}
+{"episode_id": 100, "segment_index": 363, "start": 1481.8, "end": 1483.8, "text": "Så det er vanskelig å"}
+{"episode_id": 100, "segment_index": 364, "start": 1483.8, "end": 1485.8, "text": "komitere seg til et exakt"}
+{"episode_id": 100, "segment_index": 365, "start": 1485.8, "end": 1487.8, "text": "veikart for all"}
+{"episode_id": 100, "segment_index": 366, "start": 1487.8, "end": 1489.8, "text": "fremtidige funksjonalteter,"}
+{"episode_id": 100, "segment_index": 367, "start": 1489.8, "end": 1491.8, "text": "men ambasjonen er helt klart"}
+{"episode_id": 100, "segment_index": 368, "start": 1491.8, "end": 1493.8, "text": "store leveranser hvert eneste kvartal."}
+{"episode_id": 100, "segment_index": 369, "start": 1493.8, "end": 1495.8, "text": "Du nevnte både"}
+{"episode_id": 100, "segment_index": 370, "start": 1495.8, "end": 1497.8, "text": "Microsoft og Disney"}
+{"episode_id": 100, "segment_index": 371, "start": 1497.8, "end": 1499.8, "text": "Eilert, og der har jo"}
+{"episode_id": 100, "segment_index": 372, "start": 1499.8, "end": 1501.8, "text": "mange kjente aktører som partner"}
+{"episode_id": 100, "segment_index": 373, "start": 1501.8, "end": 1503.8, "text": "både på teknologi og innholdssiden."}
+{"episode_id": 100, "segment_index": 374, "start": 1503.8, "end": 1505.8, "text": "Hvor viktig er det å hele tiden"}
+{"episode_id": 100, "segment_index": 375, "start": 1505.8, "end": 1507.8, "text": "videreutvikle disse partnerskapene"}
+{"episode_id": 100, "segment_index": 376, "start": 1507.8, "end": 1509.9, "text": "og er det krevene?"}
+{"episode_id": 100, "segment_index": 377, "start": 1509.9, "end": 1511.9, "text": "Ja, det er jo hvert"}
+{"episode_id": 100, "segment_index": 378, "start": 1511.9, "end": 1513.9, "text": "partnerskap"}
+{"episode_id": 100, "segment_index": 379, "start": 1513.9, "end": 1515.9, "text": "må pleie som vi liker å løse."}
+{"episode_id": 100, "segment_index": 380, "start": 1515.9, "end": 1517.9, "text": "Det er jo om det er på privaten"}
+{"episode_id": 100, "segment_index": 381, "start": 1517.9, "end": 1519.9, "text": "eller om det er i"}
+{"episode_id": 100, "segment_index": 382, "start": 1519.9, "end": 1521.9, "text": "virksomheten."}
+{"episode_id": 100, "segment_index": 383, "start": 1521.9, "end": 1523.9, "text": "Det dreier seg om et par ting"}
+{"episode_id": 100, "segment_index": 384, "start": 1523.9, "end": 1525.9, "text": "som i privatlivet"}
+{"episode_id": 100, "segment_index": 385, "start": 1525.9, "end": 1527.9, "text": "du må gjøre din del"}
+{"episode_id": 100, "segment_index": 386, "start": 1527.9, "end": 1529.9, "text": "du må by på noe"}
+{"episode_id": 100, "segment_index": 387, "start": 1529.9, "end": 1531.9, "text": "og du må sørge for å ta tak"}
+{"episode_id": 100, "segment_index": 388, "start": 1531.9, "end": 1533.9, "text": "muligheter å jobbe med det"}
+{"episode_id": 100, "segment_index": 389, "start": 1533.9, "end": 1535.9, "text": "og sørge for at"}
+{"episode_id": 100, "segment_index": 390, "start": 1535.9, "end": 1537.9, "text": "det er en sidi"}
+{"episode_id": 100, "segment_index": 391, "start": 1537.9, "end": 1539.9, "text": "verdi av å investere"}
+{"episode_id": 100, "segment_index": 392, "start": 1539.9, "end": 1541.9, "text": "i partnerskapet."}
+{"episode_id": 100, "segment_index": 393, "start": 1541.9, "end": 1543.9, "text": "Det er krevene."}
+{"episode_id": 100, "segment_index": 394, "start": 1543.9, "end": 1545.9, "text": "Det er ikke noen du gjør med venstre hånden"}
+{"episode_id": 100, "segment_index": 395, "start": 1545.9, "end": 1547.9, "text": "eller at du har et"}
+{"episode_id": 100, "segment_index": 396, "start": 1547.9, "end": 1549.9, "text": "møte hvor du signerer et kontrakt"}
+{"episode_id": 100, "segment_index": 397, "start": 1549.9, "end": 1551.9, "text": "og så er du videre."}
+{"episode_id": 100, "segment_index": 398, "start": 1551.9, "end": 1553.9, "text": "Det er kontinuerlig investering"}
+{"episode_id": 100, "segment_index": 399, "start": 1553.9, "end": 1555.9, "text": "og lette opp det å gi"}
+{"episode_id": 100, "segment_index": 400, "start": 1555.9, "end": 1557.9, "text": "det lille ekstra som gjør at også"}
+{"episode_id": 100, "segment_index": 401, "start": 1557.9, "end": 1559.9, "text": "den"}
+{"episode_id": 100, "segment_index": 402, "start": 1559.9, "end": 1561.9, "text": "alliansen eller partnerskapet"}
+{"episode_id": 100, "segment_index": 403, "start": 1561.9, "end": 1563.9, "text": "også kan"}
+{"episode_id": 100, "segment_index": 404, "start": 1563.9, "end": 1565.9, "text": "resultere i noe som er det"}
+{"episode_id": 100, "segment_index": 405, "start": 1565.9, "end": 1567.93, "text": "lille ekstra."}
+{"episode_id": 100, "segment_index": 406, "start": 1567.93, "end": 1569.93, "text": "Bra, Eilert."}
+{"episode_id": 100, "segment_index": 407, "start": 1569.93, "end": 1571.93, "text": "Tror vi nærmer oss sluttnermen."}
+{"episode_id": 100, "segment_index": 408, "start": 1571.93, "end": 1573.93, "text": "Jeg har et par spørsmål til"}
+{"episode_id": 100, "segment_index": 409, "start": 1573.93, "end": 1575.93, "text": "må gjennom avslutningsvis"}
+{"episode_id": 100, "segment_index": 410, "start": 1575.93, "end": 1577.93, "text": "og det jeg tenkte kunne være"}
+{"episode_id": 100, "segment_index": 411, "start": 1577.93, "end": 1579.93, "text": "interessant hvis du kunne belyse litt."}
+{"episode_id": 100, "segment_index": 412, "start": 1579.93, "end": 1581.93, "text": "Det er på en måte hvilke typer mylpele fremover"}
+{"episode_id": 100, "segment_index": 413, "start": 1581.93, "end": 1583.93, "text": "som vil være viktigste bevis"}
+{"episode_id": 100, "segment_index": 414, "start": 1583.93, "end": 1585.93, "text": "for at dere holder riktig kurs"}
+{"episode_id": 100, "segment_index": 415, "start": 1585.93, "end": 1587.93, "text": "i tiden som kommer."}
+{"episode_id": 100, "segment_index": 416, "start": 1587.93, "end": 1589.93, "text": "Fra utsiden"}
+{"episode_id": 100, "segment_index": 417, "start": 1589.93, "end": 1591.93, "text": "vil du være og se på"}
+{"episode_id": 100, "segment_index": 418, "start": 1591.93, "end": 1593.93, "text": "selvfølgelig tallene våre"}
+{"episode_id": 100, "segment_index": 419, "start": 1593.93, "end": 1595.93, "text": "at vi klarer å dokumentere"}
+{"episode_id": 100, "segment_index": 420, "start": 1595.93, "end": 1597.93, "text": "den skalerebarheten som vi forstår"}
+{"episode_id": 100, "segment_index": 421, "start": 1597.93, "end": 1599.93, "text": "har påbytt og vist"}
+{"episode_id": 100, "segment_index": 422, "start": 1599.93, "end": 1601.93, "text": "i første del av både i ferdkortal"}
+{"episode_id": 100, "segment_index": 423, "start": 1601.93, "end": 1603.93, "text": "og førstkortal, men at det"}
+{"episode_id": 100, "segment_index": 424, "start": 1603.93, "end": 1605.93, "text": "fortsetter i andre"}
+{"episode_id": 100, "segment_index": 425, "start": 1605.93, "end": 1607.93, "text": "kvartal å videre i år."}
+{"episode_id": 100, "segment_index": 426, "start": 1607.93, "end": 1609.93, "text": "At vi har"}
+{"episode_id": 100, "segment_index": 427, "start": 1609.93, "end": 1611.93, "text": "en plan som virker"}
+{"episode_id": 100, "segment_index": 428, "start": 1613.93, "end": 1615.93, "text": "solid og"}
+{"episode_id": 100, "segment_index": 429, "start": 1615.93, "end": 1617.93, "text": "inneholder"}
+{"episode_id": 100, "segment_index": 430, "start": 1617.93, "end": 1619.93, "text": "så mye fleksibilitet at"}
+{"episode_id": 100, "segment_index": 431, "start": 1619.93, "end": 1621.93, "text": "selv om det kommer endringer"}
+{"episode_id": 100, "segment_index": 432, "start": 1621.93, "end": 1623.93, "text": "og kanskje til med setbacks"}
+{"episode_id": 100, "segment_index": 433, "start": 1623.93, "end": 1625.93, "text": "så er man i stand til å nå"}
+{"episode_id": 100, "segment_index": 434, "start": 1625.93, "end": 1627.93, "text": "vår målsetning om å ha"}
+{"episode_id": 100, "segment_index": 435, "start": 1627.93, "end": 1629.93, "text": "en kundebaseverdi"}
+{"episode_id": 100, "segment_index": 436, "start": 1629.93, "end": 1631.93, "text": "på over 100 millioner dollar"}
+{"episode_id": 100, "segment_index": 437, "start": 1631.93, "end": 1634.02, "text": "i sluttet av 2022."}
+{"episode_id": 100, "segment_index": 438, "start": 1634.02, "end": 1636.02, "text": "Og at de produktene"}
+{"episode_id": 100, "segment_index": 439, "start": 1636.02, "end": 1638.02, "text": "vi leverer"}
+{"episode_id": 100, "segment_index": 440, "start": 1638.02, "end": 1640.02, "text": "og den bruken at produktene"}
+{"episode_id": 100, "segment_index": 441, "start": 1640.02, "end": 1642.02, "text": "vi har, og at tenesne"}
+{"episode_id": 100, "segment_index": 442, "start": 1642.02, "end": 1644.02, "text": "at den skaper entusiasme"}
+{"episode_id": 100, "segment_index": 443, "start": 1644.02, "end": 1646.02, "text": "faktisk er noe folk"}
+{"episode_id": 100, "segment_index": 444, "start": 1646.02, "end": 1648.02, "text": "ønsker å bruke enten"}
+{"episode_id": 100, "segment_index": 445, "start": 1648.02, "end": 1650.02, "text": "i privat sammenheng, i sosial sammenheng"}
+{"episode_id": 100, "segment_index": 446, "start": 1650.02, "end": 1652.02, "text": "eller på skolen eller i"}
+{"episode_id": 100, "segment_index": 447, "start": 1652.02, "end": 1654.09, "text": "viksmetter."}
+{"episode_id": 100, "segment_index": 448, "start": 1654.09, "end": 1656.09, "text": "Og som"}
+{"episode_id": 100, "segment_index": 449, "start": 1656.09, "end": 1658.09, "text": "alle analyser, alle selskaper"}
+{"episode_id": 100, "segment_index": 450, "start": 1658.09, "end": 1660.09, "text": "så er jo det kanskje det viktigste"}
+{"episode_id": 100, "segment_index": 451, "start": 1660.09, "end": 1662.09, "text": "er å se, er dette produktene"}
+{"episode_id": 100, "segment_index": 452, "start": 1662.09, "end": 1664.09, "text": "ikke selv å ha tro på å se verdien av"}
+{"episode_id": 100, "segment_index": 453, "start": 1664.09, "end": 1666.09, "text": "eller er det ikke, og hvis man ikke selv liker det"}
+{"episode_id": 100, "segment_index": 454, "start": 1666.09, "end": 1668.09, "text": "så er det kanskje ikke noe poeng å"}
+{"episode_id": 100, "segment_index": 455, "start": 1668.09, "end": 1670.09, "text": "investere i det heller, men"}
+{"episode_id": 100, "segment_index": 456, "start": 1670.09, "end": 1672.09, "text": "deromot hvis man ser verdien og liker det"}
+{"episode_id": 100, "segment_index": 457, "start": 1672.09, "end": 1674.09, "text": "at dette her er faktisk bra, og kanskje"}
+{"episode_id": 100, "segment_index": 458, "start": 1674.09, "end": 1676.09, "text": "til og med bra, og enda bedre"}
+{"episode_id": 100, "segment_index": 459, "start": 1676.09, "end": 1678.09, "text": "for andre enn det er for meg, så kan du"}
+{"episode_id": 100, "segment_index": 460, "start": 1678.09, "end": 1680.09, "text": "hende at jeg har en"}
+{"episode_id": 100, "segment_index": 461, "start": 1680.09, "end": 1682.09, "text": "effekt der ute, og at det er"}
+{"episode_id": 100, "segment_index": 462, "start": 1682.09, "end": 1684.09, "text": "et moment og brunt som andre"}
+{"episode_id": 100, "segment_index": 463, "start": 1684.09, "end": 1686.09, "text": "også kommer til å benytte seg."}
+{"episode_id": 100, "segment_index": 464, "start": 1686.09, "end": 1688.09, "text": "Så det er"}
+{"episode_id": 100, "segment_index": 465, "start": 1688.09, "end": 1690.09, "text": "en veri investering og et hvert"}
+{"episode_id": 100, "segment_index": 466, "start": 1690.09, "end": 1692.09, "text": "selskap skal man ha et kritisk klipp"}
+{"episode_id": 100, "segment_index": 467, "start": 1692.09, "end": 1694.09, "text": "og det er ikke noe"}
+{"episode_id": 100, "segment_index": 468, "start": 1694.09, "end": 1696.09, "text": "vanskelig å forelske seg et selskap."}
+{"episode_id": 100, "segment_index": 469, "start": 1696.09, "end": 1698.09, "text": "Det som er vanskelig er å hele tiden"}
+{"episode_id": 100, "segment_index": 470, "start": 1698.09, "end": 1700.09, "text": "holde selskap til"}
+{"episode_id": 100, "segment_index": 471, "start": 1700.09, "end": 1702.09, "text": "sin kallet guldstandard på"}
+{"episode_id": 100, "segment_index": 472, "start": 1702.09, "end": 1704.09, "text": "hva man lover, hva man leverer"}
+{"episode_id": 100, "segment_index": 473, "start": 1704.09, "end": 1706.09, "text": "og at man hele tiden klarer å se"}
+{"episode_id": 100, "segment_index": 474, "start": 1706.09, "end": 1708.09, "text": "hva som skal komme de neste syklusene"}
+{"episode_id": 100, "segment_index": 475, "start": 1708.09, "end": 1710.09, "text": "og det tror jeg forhåpentligvis"}
+{"episode_id": 100, "segment_index": 476, "start": 1710.09, "end": 1712.09, "text": "at vi også skal"}
+{"episode_id": 100, "segment_index": 477, "start": 1712.09, "end": 1714.09, "text": "vise allerede nå i andre"}
+{"episode_id": 100, "segment_index": 478, "start": 1714.09, "end": 1716.09, "text": "kvartal at vi er på god vei"}
+{"episode_id": 100, "segment_index": 479, "start": 1716.09, "end": 1718.09, "text": "til å kunne oppfylle på vei denne kvartal."}
+{"episode_id": 100, "segment_index": 480, "start": 1718.09, "end": 1720.09, "text": "Men tidsmessig, det er"}
+{"episode_id": 100, "segment_index": 481, "start": 1720.09, "end": 1722.09, "text": "selvfølgelig vanskelig å anslå"}
+{"episode_id": 100, "segment_index": 482, "start": 1722.09, "end": 1724.09, "text": "men er det en"}
+{"episode_id": 100, "segment_index": 483, "start": 1724.09, "end": 1726.09, "text": "bra marsfart eller kan man legge"}
+{"episode_id": 100, "segment_index": 484, "start": 1726.09, "end": 1728.09, "text": "til grunn at dere er ambisjoner om å"}
+{"episode_id": 100, "segment_index": 485, "start": 1728.09, "end": 1730.09, "text": "klippe enda fortere fremvalg?"}
+{"episode_id": 100, "segment_index": 486, "start": 1730.09, "end": 1732.09, "text": "Vi har jo sagt at i år så har vi"}
+{"episode_id": 100, "segment_index": 487, "start": 1732.09, "end": 1734.09, "text": "gitt en guiding"}
+{"episode_id": 100, "segment_index": 488, "start": 1734.09, "end": 1736.09, "text": "for året på en"}
+{"episode_id": 100, "segment_index": 489, "start": 1736.09, "end": 1738.09, "text": "totalfakturert omsetting"}
+{"episode_id": 100, "segment_index": 490, "start": 1738.09, "end": 1740.09, "text": "mellom 30 og 38"}
+{"episode_id": 100, "segment_index": 491, "start": 1740.09, "end": 1742.09, "text": "millioner dollar"}
+{"episode_id": 100, "segment_index": 492, "start": 1742.09, "end": 1744.09, "text": "og med positive cashflow"}
+{"episode_id": 100, "segment_index": 493, "start": 1744.09, "end": 1746.09, "text": "Hvis vi får til det så"}
+{"episode_id": 100, "segment_index": 494, "start": 1746.09, "end": 1748.09, "text": "følger vi at vi har kommet godt skritt"}
+{"episode_id": 100, "segment_index": 495, "start": 1748.09, "end": 1750.09, "text": "videre fra fjordårer hvor vi"}
+{"episode_id": 100, "segment_index": 496, "start": 1750.09, "end": 1752.09, "text": "rapporterte"}
+{"episode_id": 100, "segment_index": 497, "start": 1752.09, "end": 1754.09, "text": "rundt 12 dollar pluss"}
+{"episode_id": 100, "segment_index": 498, "start": 1754.09, "end": 1756.09, "text": "i omsetning"}
+{"episode_id": 100, "segment_index": 499, "start": 1756.09, "end": 1758.09, "text": "og vi hadde positive cashflow på 17 året"}
+{"episode_id": 100, "segment_index": 500, "start": 1758.09, "end": 1760.09, "text": "men ikke for hele året under et"}
+{"episode_id": 100, "segment_index": 501, "start": 1760.09, "end": 1762.09, "text": "og vi tror vel at"}
+{"episode_id": 100, "segment_index": 502, "start": 1762.09, "end": 1764.09, "text": "det hvert fall i år er første året"}
+{"episode_id": 100, "segment_index": 503, "start": 1764.09, "end": 1766.09, "text": "hvor vi kan med noe lødde"}
+{"episode_id": 100, "segment_index": 504, "start": 1766.09, "end": 1768.09, "text": "gode margin"}
+{"episode_id": 100, "segment_index": 505, "start": 1768.09, "end": 1770.09, "text": "kalle oss et mellomstort"}
+{"episode_id": 100, "segment_index": 506, "start": 1770.09, "end": 1772.09, "text": "selskap med 100.000"}
+{"episode_id": 100, "segment_index": 507, "start": 1772.09, "end": 1774.09, "text": "mis av betalende kunder over hele verden"}
+{"episode_id": 100, "segment_index": 508, "start": 1774.09, "end": 1776.09, "text": "men"}
+{"episode_id": 100, "segment_index": 509, "start": 1776.09, "end": 1778.09, "text": "det er raske syklerser i vår bransje"}
+{"episode_id": 100, "segment_index": 510, "start": 1778.09, "end": 1780.12, "text": "og det er trotsfor"}
+{"episode_id": 100, "segment_index": 511, "start": 1780.12, "end": 1782.12, "text": "vi har en solid"}
+{"episode_id": 100, "segment_index": 512, "start": 1782.12, "end": 1784.12, "text": "finansiell"}
+{"episode_id": 100, "segment_index": 513, "start": 1784.12, "end": 1786.12, "text": "plattform"}
+{"episode_id": 100, "segment_index": 514, "start": 1786.12, "end": 1788.12, "text": "ingen gjel og"}
+{"episode_id": 100, "segment_index": 515, "start": 1788.12, "end": 1790.12, "text": "over 350 millioner i kontanter"}
+{"episode_id": 100, "segment_index": 516, "start": 1790.12, "end": 1792.12, "text": "så er det klart at"}
+{"episode_id": 100, "segment_index": 517, "start": 1792.12, "end": 1794.12, "text": "man skal gjøre ting riktig hver dag"}
+{"episode_id": 100, "segment_index": 518, "start": 1794.12, "end": 1796.12, "text": "hele tiden på alle frekvenser"}
+{"episode_id": 100, "segment_index": 519, "start": 1796.12, "end": 1798.12, "text": "hvis du skal være et succes"}
+{"episode_id": 100, "segment_index": 520, "start": 1798.12, "end": 1800.15, "text": "fullt software selskap"}
+{"episode_id": 100, "segment_index": 521, "start": 1800.15, "end": 1802.15, "text": "også i fremtiden"}
+{"episode_id": 100, "segment_index": 522, "start": 1802.15, "end": 1804.15, "text": "og det er antei at Markele"}
+{"episode_id": 100, "segment_index": 523, "start": 1804.15, "end": 1806.15, "text": "vil holde oss til"}
+{"episode_id": 100, "segment_index": 524, "start": 1806.15, "end": 1808.15, "text": "og følge med på ganske mye"}
+{"episode_id": 100, "segment_index": 525, "start": 1808.15, "end": 1810.15, "text": "veldig bra Eilert"}
+{"episode_id": 100, "segment_index": 526, "start": 1810.15, "end": 1812.15, "text": "tusen takk for en god"}
+{"episode_id": 100, "segment_index": 527, "start": 1812.15, "end": 1814.15, "text": "enn med noen kollegaer senere i dag"}
+{"episode_id": 100, "segment_index": 528, "start": 1814.15, "end": 1816.15, "text": "så får vi se om det blir noe mulighet"}
+{"episode_id": 100, "segment_index": 529, "start": 1816.15, "end": 1818.15, "text": "for en rundekarhut eller ikke"}
+{"episode_id": 100, "segment_index": 530, "start": 1818.15, "end": 1820.15, "text": "uansett"}
+{"episode_id": 100, "segment_index": 531, "start": 1820.15, "end": 1822.15, "text": "det blir spennende å følge dere"}
+{"episode_id": 100, "segment_index": 532, "start": 1822.15, "end": 1824.15, "text": "som sagt takk for at du var med"}
+{"episode_id": 100, "segment_index": 533, "start": 1824.15, "end": 1826.15, "text": "og ikke minst takk til alle dere som"}
+{"episode_id": 100, "segment_index": 534, "start": 1826.15, "end": 1843.8, "text": "hørte på"}
+{"episode_id": 100, "segment_index": 535, "start": 1843.8, "end": 1845.8, "text": "denne podcasten og dets innhold"}
+{"episode_id": 100, "segment_index": 536, "start": 1845.8, "end": 1847.8, "text": "skal anses som markedsføringsmateriel"}
+{"episode_id": 100, "segment_index": 537, "start": 1847.8, "end": 1849.8, "text": "fra DMB og må ikke oppfattes"}
+{"episode_id": 100, "segment_index": 538, "start": 1849.8, "end": 1851.8, "text": "som investeringsanbefaling"}
+{"episode_id": 100, "segment_index": 539, "start": 1851.8, "end": 1854.22, "text": "eller som investeringsanalyser"}
+{"episode_id": 100, "segment_index": 540, "start": 1854.22, "end": 1856.22, "text": "innholdet skal heller ikke anses"}
+{"episode_id": 100, "segment_index": 541, "start": 1856.22, "end": 1858.22, "text": "og investeringsrådgivning"}
+{"episode_id": 100, "segment_index": 542, "start": 1858.22, "end": 1860.44, "text": "tilpasset den enkelte kundesbehovet"}
+{"episode_id": 100, "segment_index": 543, "start": 1860.44, "end": 1862.44, "text": "informasjon som gis i podcasten"}
+{"episode_id": 100, "segment_index": 544, "start": 1862.44, "end": 1864.44, "text": "er kun mened som generelt sparveverledning"}
+{"episode_id": 100, "segment_index": 545, "start": 1864.44, "end": 1866.44, "text": "og er ikke ment å utgjøre"}
+{"episode_id": 100, "segment_index": 546, "start": 1866.44, "end": 1868.44, "text": "juridisk, finansiell,"}
+{"episode_id": 100, "segment_index": 547, "start": 1868.44, "end": 1870.44, "text": "kommersiell, skattemessig"}
+{"episode_id": 100, "segment_index": 548, "start": 1870.44, "end": 1873.4, "text": "eller renskapsmessig rådgivning"}
+{"episode_id": 100, "segment_index": 549, "start": 1873.4, "end": 1875.4, "text": "innholdet i sendingen er ikke gjennomgot"}
+{"episode_id": 100, "segment_index": 550, "start": 1875.4, "end": 1877.4, "text": "eller godkjent av DMB Markeds"}
+{"episode_id": 100, "segment_index": 551, "start": 1877.4, "end": 1879.53, "text": "avdeling for analyset"}
+{"episode_id": 100, "segment_index": 552, "start": 1879.53, "end": 1881.53, "text": "alle uttalser reflektere DMBs"}
+{"episode_id": 100, "segment_index": 553, "start": 1881.53, "end": 1883.53, "text": "vurderinger på tidspunktet for den aktuelle"}
+{"episode_id": 100, "segment_index": 554, "start": 1883.53, "end": 1885.53, "text": "sendingen og kan det etterkant"}
+{"episode_id": 100, "segment_index": 555, "start": 1885.53, "end": 1889.22, "text": "uten nærmere beskjed."}
+{"episode_id": 100, "segment_index": 556, "start": 1889.22, "end": 1891.22, "text": "DMB er ikke ansvarlig for hvordan"}
+{"episode_id": 100, "segment_index": 557, "start": 1891.22, "end": 1893.22, "text": "informasjonen i podcasten benyttes eller tolkes."}
+{"episode_id": 100, "segment_index": 558, "start": 1893.22, "end": 1895.22, "text": "Informasjonen som henviser"}
+{"episode_id": 100, "segment_index": 559, "start": 1895.22, "end": 1897.22, "text": "til historisk avkassning i finansielle"}
+{"episode_id": 100, "segment_index": 560, "start": 1897.22, "end": 1899.22, "text": "instrumenter, en finansiell"}
+{"episode_id": 100, "segment_index": 561, "start": 1899.22, "end": 1901.22, "text": "indeks eller prognoser"}
+{"episode_id": 100, "segment_index": 562, "start": 1901.22, "end": 1903.22, "text": "gir ingen garanti for fremtidig avkassning."}
+{"episode_id": 100, "segment_index": 563, "start": 1903.22, "end": 1905.8, "text": "DMB gjør oppmerksom på at"}
+{"episode_id": 100, "segment_index": 564, "start": 1905.8, "end": 1907.8, "text": "den hver investering et finansiellest"}
+{"episode_id": 100, "segment_index": 565, "start": 1907.8, "end": 1909.8, "text": "instrument er forbundet med risiko"}
+{"episode_id": 100, "segment_index": 566, "start": 1909.8, "end": 1912.22, "text": "for økonomisk kap."}
+{"episode_id": 100, "segment_index": 567, "start": 1912.22, "end": 1914.22, "text": "Finansielle instrumenter kan både"}
+{"episode_id": 100, "segment_index": 568, "start": 1914.22, "end": 1916.22, "text": "øke og minnske valg, slik at"}
+{"episode_id": 100, "segment_index": 569, "start": 1916.22, "end": 1918.22, "text": "avkassning kan bli negativ som følge"}
+{"episode_id": 100, "segment_index": 570, "start": 1918.22, "end": 1920.34, "text": "av kursval. DMB tar entet ansvar"}
+{"episode_id": 100, "segment_index": 571, "start": 1920.34, "end": 1922.34, "text": "for direkte eller indirekte tap"}
+{"episode_id": 100, "segment_index": 572, "start": 1922.34, "end": 1924.34, "text": "og kostnader som måtte"}
+{"episode_id": 100, "segment_index": 573, "start": 1924.34, "end": 1926.34, "text": "oppståve bruk av den informasjonen"}
+{"episode_id": 100, "segment_index": 574, "start": 1926.34, "end": 1928.34, "text": "som gi oss i podcasten."}

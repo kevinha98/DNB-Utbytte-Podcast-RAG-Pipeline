@@ -1,0 +1,607 @@
+Episode 228: Hva skjer når Kina må spare strøm?
+Publisert: Tue, 26 Oc
+Vert: Marius Brun Haugen
+Varighet: 22 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/hva-skjer-nar-kina-ma-spare-strm
+
+--- Transkripsjon ---
+
+[00:00:00] Verdensfabrikken Kina mangler energi, og myndighetene har bedt selskapet om å stenge ned driften fra flere steder i landet for å spare strøm.
+
+[00:00:11] Dette, sammen med svak aktivitet i boligsektoren, gjorde at BNP-veksten for tredje kvartal kom inn på 4,9 prosent og var vesentlig svakere enn forrige kvartal.
+
+[00:00:22] Hva betyr dette for Kina og global økonomi fremover? Det skal vi snakke om i dagens episode.
+
+[00:00:29] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen global økonomi og finansmarkedene.
+
+[00:00:45] Jeg er Marius Brunhaugen fra DNB Markets, og med meg har jeg makroøkonom og DNB-Kina-ekspert Kelly Chen.
+
+[00:00:53] Hei Kelly!
+
+[00:00:54] Hei Marius!
+
+[00:00:55] Dette er faktisk vår første sending sammen i studio, for vi har laget mange podkaster, men da har vi sittet hver for oss på hjemmekontor, så det er godt å se deg enn Kelly.
+
+[00:01:06] Det er godt å se deg.
+
+[00:01:09] Energiskvisen er et stikkord for i dag, og den treffer jo globalt. Kan du kanskje bare starte med å sette oss inn i kontekst.
+
+[00:01:21] Hvor hardt rammes Kina, og i hvilken grad, sammenlignet med det vi opplever hver dag her i Europa?
+
+[00:01:28] Det er jo litt annerledes i Kina enn det vi har sett her. Du var litt inne på det innledningsvis.
+
+[00:01:33] Det har jo gått så langt, denne knappheten.
+
+[00:01:36] Det har gått så langt, denne knappheten på energi og knappheten på strøm særlig, som har gjort at myndighetene har gått inn og bedt selskaper og husholdninger om å rasjonere strømmen.
+
+[00:01:49] De har gått inn og sagt at nå får denne fabrikken rett og slett ikke lov til å operere mer, fordi vi er nødt til å spare på strømmen.
+
+[00:01:56] Det gir ganske enorme konsekvenser for hele økonomien når det skjer.
+
+[00:02:03] Rationeringen har skjedd i ca. 20 år.
+
+[00:02:06] Av Kinas 30 provinser dekker provinser som er to tredjedeler av hele Kinas industriproduksjon.
+
+[00:02:17] Dette er alvorlig. Det er ikke bare prisene som har kommet opp, men man har også sett effekter av det ved lavere forbruk.
+
+[00:02:26] La oss ta et steg tilbake først. Hvorfor har Kina kommet i denne krisen?
+
+[00:02:32] Det er noen forskjellige forklaringer på det.
+
+[00:03:06] De lå veldig langt bakpå, alle disse målene.
+
+[00:03:10] For å komme seg inn, for å nå målene for tredje kvartal, så fikk man en del provinser som på en veldig top-down måte gikk inn og sa at nå må vi bli flinkere på dette med energieffektivisering.
+
+[00:03:29] Nå må vi kutte forbruket.
+
+[00:03:31] Det var en forklaring, og det stemte ganske godt med timingen.
+
+[00:03:34] Men det vi tror er den virkelige kilden bak dette her, er jo i bunn og grunn en energikrise som du sier.
+
+[00:03:43] Det er alt for lite tilgjengelighet på kull, den viktigste energikilden i Kina.
+
+[00:03:51] Og når det skjer, så er det bare ikke nok.
+
+[00:03:56] Men jeg trodde at det var sånn at Kina nesten var fullstendig selvforsynt med kull.
+
+[00:04:02] Hvorfor manner det ikke nå?
+
+[00:04:05] Kjempegodt spørsmål.
+
+[00:04:08] Historisk har kull vært den beste kilden for energi for kineserne.
+
+[00:04:16] En ting er at den er billig sammenlignet med gass, olje og alternativer.
+
+[00:04:22] Det andre er at de har så mye av det innlands.
+
+[00:04:27] De importerer kun syv prosent av alt det de forbruker.
+
+[00:04:30] Men det vi har sett gjennom 2021, er jo flere ting.
+
+[00:04:36] På produksjonssiden har det vært veldig mye bortfall.
+
+[00:04:40] Vi vet at det har vært en del flom, for eksempel, som har tatt ut noen produksjonskapasitet.
+
+[00:04:46] Det har også vært en del ulykker, altså HMS-bekymringer, som har stengt ned gruver.
+
+[00:04:53] Og i tillegg har det også vært en del korrupsjonsskandaler, som har stengt ned en del aktivitet.
+
+[00:04:59] Og så er det jo sånn at...
+
+[00:05:00] I Kina opererer man med produksjonstillatelser for året.
+
+[00:05:05] Og de er egentlig kalibrert på en viss produksjonsmengde hvert eneste år.
+
+[00:05:10] Og når etterspørselen økte så mye som den gjorde i 2021,
+
+[00:05:15] fordi Kina ble verdensfabrikk, eksporten var kjempestark,
+
+[00:05:21] og mange av industrien som forbrukte energi gjorde det veldig, veldig bra.
+
+[00:05:26] Så når det kom på toppen, så var det rett og slett ikke nok.
+
+[00:05:30] Nå er det jo snart et klimatoppmøte til FN som begynner.
+
+[00:05:37] Og kineserne er ikke de eneste som fyrer opp i en kullkraftverk.
+
+[00:05:42] Men sett fra det perspektivet, så er det ikke akkurat ønskelig at man bruker mer kull.
+
+[00:05:49] Kan Kina gjøre noe som gir mindre etterspørsel av kull?
+
+[00:05:53] Har man virkemidler innen andre former for energi, gass, vind, sol eller kanskje atomkraft?
+
+[00:06:00] Har Kina jobbet med egentlig hele veien?
+
+[00:06:04] De har jo forsøkt også de siste ti årene til å redusere kullens rolle i energimiksen og i elektrisitetsmiksen.
+
+[00:06:15] Problemet er bare at det tar tid, denne omstillingen tar tid.
+
+[00:06:19] Kina, husk, er et land som er i vekst.
+
+[00:06:23] Det er et land som er et utviklingsland.
+
+[00:06:26] Så energi- og elektrisitetsforbruket, hvis vi bare tar det,
+
+[00:06:30] har jo økt med 6-7 prosent årlig de siste ti årene.
+
+[00:06:37] Så hvert eneste år har Kina vært nødt til å få på plass mye ny kullkraft, vindkraft, solkraft, atomkraft og gasskraft.
+
+[00:06:49] Men den ledige kapasiteten i elektrisitetsmiksen er ganske lite.
+
+[00:06:57] Så det er litt krevende for landet.
+
+[00:07:00] Nå på kort varsel da, å ta noe kull til X-switching.
+
+[00:07:06] Men vi har faktisk sett eksempler på noe av det.
+
+[00:07:10] Fordi kostnadene når man rasjonerer strøm er jo enorme.
+
+[00:07:14] Så fabrikker som må levere på eksporten, de har for eksempel kjøpt inn backup-generatorer,
+
+[00:07:21] altså diesel-generatorer.
+
+[00:07:22] Dette er kjempedyrt.
+
+[00:07:24] Egentlig bare for å få nok tilgang på strøm for å produsere det de trenger.
+
+[00:07:29] Så når det er veldig...
+
+[00:07:30] Det er vanskelig da å gjøre justeringer på etterspørsene.
+
+[00:07:35] Så er det egentlig kun produksjonen de går ut på.
+
+[00:07:39] Og det er der vi tror denne kullkrisen vil kunne løses.
+
+[00:07:44] Vi ser at myndighetene veldig, veldig aggressivt nå har lettet på produksjonskvotene for kull.
+
+[00:07:51] Og alle provinsene som faktisk produserer kull har jo annonsert enorme ekspansjonsplaner.
+
+[00:07:59] Egentlig bare for å...
+
+[00:08:00] Tilfredsstille den etterspørselen som er akkurat nå da.
+
+[00:08:04] Fordi det du sier, det er på en måte ikke noe som kan dekke opp for dette nå i det korte bildet.
+
+[00:08:10] Og da er det kull som er løsningen.
+
+[00:08:14] Og sånn sett da.
+
+[00:08:15] Er det mulig å si noe om timingen?
+
+[00:08:18] Altså når og hvor fort vil denne økningen i kullproduksjonen skje?
+
+[00:08:25] Eller den er kanskje i ferd med å skje allerede?
+
+[00:08:27] Ja, kjempegodt poeng.
+
+[00:08:29] Her er det litt sånn...
+
+[00:08:30] Det er litt sånn krevende.
+
+[00:08:31] Fordi på den ene siden så har også kull...
+
+[00:08:36] De lever også på at det trengs stadig investeringer i ny kapasitet.
+
+[00:08:41] Og de investeringene, i hvert fall i Kina, har egentlig ikke økt i det hele tatt.
+
+[00:08:49] Så det vi ser nå er en veldig rask oppgang i ledig kapasitet i Kina.
+
+[00:08:55] Så de gruvene som i august da, la oss si...
+
+[00:08:59] Allerede hadde produsert nok til å nå hele årets kvote.
+
+[00:09:05] De har nå fått anledning til å produsere på samme nivå da, resten av året.
+
+[00:09:12] Det hjelper veldig mye.
+
+[00:09:14] Og så er det litt ekstra kapasitet her og der.
+
+[00:09:18] Men sånn generelt sett så virker det som om det vil kunne ta tid.
+
+[00:09:22] En måned, kanskje to, kanskje et kvartal.
+
+[00:09:26] Før da denne skvisen...
+
+[00:09:29] Det løsner seg ved at produksjonen i Kina tar seg opp.
+
+[00:09:32] Og da er det en del usikrette momenter her også, ikke sant?
+
+[00:09:35] Plutselig kan det bli veldig, veldig kaldt om vinteren.
+
+[00:09:38] Og da må de produsere ekstra mye.
+
+[00:09:40] Ellers så kan det komme nye uheld som tar ut gruver.
+
+[00:09:44] På grunn av HMS da, som vi snakket om.
+
+[00:09:47] Og det gjør at denne timingen blir litt usikker.
+
+[00:09:52] Men for meg så er det et spørsmål om tid da.
+
+[00:09:55] Og det kommer ikke til å ta veldig mange måneder.
+
+[00:09:59] Før Kina er i en måte ut av denne krisen.
+
+[00:10:03] Men hvis det blir veldig kaldt fremover,
+
+[00:10:06] og før man får rampet opp, hva skal vi si, produksjonssiden da,
+
+[00:10:12] i mangel av et bedre ord,
+
+[00:10:15] hvor kritisk kan det bli da?
+
+[00:10:18] Da ser vi for oss at det blir litt sånn som vi har hatt hittil.
+
+[00:10:21] At de er nødt til å rasjonere på strømmen.
+
+[00:10:24] Det som er viktig er jo at kulbruken i oppvarmingsektoren,
+
+[00:10:29] at den holdes veldig ikke.
+
+[00:10:31] Fordi det blir veldig krevende for myndighetene
+
+[00:10:35] hvis befolkningen må fryse, da skal det det.
+
+[00:10:39] Og da vil man kunne se at bedrifter, flere bedrifter,
+
+[00:10:44] vil bli rammet av denne type rasjonering.
+
+[00:10:47] Men vi tror altså ikke at det kommer til å skje.
+
+[00:10:50] Et alternativ, bare sånn at vi går innom det,
+
+[00:10:53] er jo økt import.
+
+[00:10:55] For Kina importerer jo de syv prosentene
+
+[00:10:59] som de gjør.
+
+[00:11:00] Og her har det vært en del ting som også har skjedd,
+
+[00:11:03] som vi ikke har snakket om.
+
+[00:11:05] Kina sluttet jo å importere kul fra Australia,
+
+[00:11:07] fullstendig i 2021.
+
+[00:11:09] Litt et politisk press, da kan man si.
+
+[00:11:13] Og de har forsøkt å erstatte dette med kul fra Indonesia og Russland.
+
+[00:11:18] De har klart det, tildels, men ikke fullstendig.
+
+[00:11:21] Så det vi kan se, hvis dette blir krevende,
+
+[00:11:24] er jo at de internasjonale prisene på kul
+
+[00:11:28] vil gå av.
+
+[00:11:29] Enda ytterligere opp.
+
+[00:11:30] Fordi Kina da kjøper det de trenger,
+
+[00:11:33] til egentlig den prisen de trenger å kjøpe den til.
+
+[00:11:38] Men dette vil tiden vise, og i det korte bildet som vi påpekker,
+
+[00:11:41] så er været som ingen av oss kan spå,
+
+[00:11:44] en faktisk betydelig risiko.
+
+[00:11:48] Men en annen ting oppi dette her,
+
+[00:11:51] som er et moment vi må ta med oss,
+
+[00:11:52] det er jo at dette også har fremsynet hvordan prisen på elektrisitet
+
+[00:11:57] går fra å være regulert,
+
+[00:11:59] til markedsprising.
+
+[00:12:01] Hvorfor er dette her viktig?
+
+[00:12:03] Det er kjempeviktig når vi tenker på hvordan
+
+[00:12:07] energikostnader da beveger seg videre langs verdikjeden,
+
+[00:12:12] og til slutt bruker.
+
+[00:12:14] Så i Kina så har man også tenkt at dette har bidratt til
+
+[00:12:18] at kullkrisen gjorde strømkrisen da verre.
+
+[00:12:24] Fordi mens kullprisene dobblet seg, tredoblet seg,
+
+[00:12:28] så har jo elektrisitetsprisene i Kina vært regulerte,
+
+[00:12:32] i hvert fall for bedrifter, for kommersielle aktører,
+
+[00:12:37] og for husholdninger.
+
+[00:12:39] Så for kraftselskapene som skal da lage denne strømmen,
+
+[00:12:43] så har jo mange gått med kraftige tap da.
+
+[00:12:46] Og det har nok vært en viktig bidragsinsyn
+
+[00:12:50] til at det ikke er blitt produsert nok elektrisitet.
+
+[00:12:53] Så myndighetene så jo også det,
+
+[00:12:56] og de innførte for en uke siden, fra 15. oktober,
+
+[00:13:01] ganske viktige endringer for elektrisitetsmarkedet i Kina.
+
+[00:13:07] Så for da kommersielle aktører og for bedrifter,
+
+[00:13:11] så har vi nå gått over til markedsbaserte priser.
+
+[00:13:14] Så når vi nå samtidig snakker om at det er dyrt å lage strøm,
+
+[00:13:18] og det er dyrt med kull, så betyr det også at disse kommersielle aktørene
+
+[00:13:22] og disse bedriftene er nødt til å betale en reell markedspris.
+
+[00:13:26] Så kostnadene deres kommer til å øke ganske mye.
+
+[00:13:29] Ja, så alt annet like så betyr dette her høyere inflasjon?
+
+[00:13:33] Ja, ja, absolutt. På et eller annet vis så må jo dette veltes over.
+
+[00:13:37] Du kan tenke deg at bedriftene i Kina tar denne kostnadsøkningen selv,
+
+[00:13:44] men da går det veldig kraftig inn på marginene deres,
+
+[00:13:49] og da må denne kostnaden komme ut et eller annet sted.
+
+[00:13:52] Et alternativ ville jo ha vært
+
+[00:13:55] lønnstakerne, men det er jo noe som også vil gi ganske negative impulser
+
+[00:14:00] i den kinesiske økonomien.
+
+[00:14:02] Så det mest nærliggende som vi tror på er, som du sier da, inflasjonspress.
+
+[00:14:06] Du, vinterål i Beijing, det er i februar neste år,
+
+[00:14:18] og det bør vi vel også touche innom for tidligere,
+
+[00:14:22] så har jo dette, så vidt det er skjønt, tatt betydning
+
+[00:14:25] ved at man stenger ned forurensende industri for å sikre at luftkvaliteten,
+
+[00:14:30] er god i disse områdene hvor dette skal skje.
+
+[00:14:35] Ja, det er en sånn rar situasjon i Kina,
+
+[00:14:39] og det har faktisk også påvirket i år,
+
+[00:14:43] for i år så var det NM, eller Kina Mesterskap,
+
+[00:14:47] KM blir det vel kanskje,
+
+[00:14:50] det skjedde da i en stor kullproduserende provins,
+
+[00:14:54] og det gjorde at produksjonen også ble stengt ned midlertidig.
+
+[00:14:58] Og jeg tror ikke vi skal undervurdere effektene av OL,
+
+[00:15:02] og viktigheten av luftkvalitet.
+
+[00:15:05] Det er det Kina la en plan for egentlig i 2020,
+
+[00:15:11] om at de nettopp skal endre oppvarmingsektoren,
+
+[00:15:16] da særlig rundt Beijing, Tianjin og Hebei-området,
+
+[00:15:20] hvor da OL skal holde til.
+
+[00:15:22] Hvor de da skal switche over fra kull da, til å varme opp, til gass.
+
+[00:15:28] Og det gjør også at selv om det er behov da,
+
+[00:15:32] for å brenne mer kull,
+
+[00:15:35] så kan disse prioriteringene omkring bedre luftkvalitet,
+
+[00:15:40] også legge en demper på aktiviteten.
+
+[00:15:43] Så det ligger an til å bli et litt sånn svagt fjerde kvartal da.
+
+[00:15:47] Hensynet til OL altså, det er viktig å kan få konsekvenser.
+
+[00:15:53] Boligsektoren bør vi gjøre et hopp til for Evergrande,
+
+[00:15:57] Evergrande har vel alle hørt om og fått med seg.
+
+[00:16:01] Det har vært mye fokus på det.
+
+[00:16:04] Nå har det jo kommet litt, skal vi si,
+
+[00:16:06] forsiktig positive dripp derfra heldigvis da, den siste tiden.
+
+[00:16:12] Men hva tror du om utviklingen knyttet til det vi har sett
+
+[00:16:16] rundt Evergrande og hele situasjonen?
+
+[00:16:18] Det har jo vært en krevende situasjon for det selskapet,
+
+[00:16:21] og Evergrande er jo veldig spesielt også i den sektoren i Kina.
+
+[00:16:27] Jeg tenker at Evergrande har kjøpt seg litt tid
+
+[00:16:30] ved å betale ned på kupongen sin,
+
+[00:16:32] men det er fremdeles en del andre tilbakebetalinger som gjenstår.
+
+[00:16:37] Og de utfordringene som Evergrande står overfor
+
+[00:16:42] har egentlig ikke endret seg så veldig mye.
+
+[00:16:45] Men det vi må huske på er jo at Evergrande,
+
+[00:16:47] det er et symptom egentlig på hva som skjer i boligmarkedet i Kina.
+
+[00:16:52] Det er et symptom på hva myndighetene ønsker skal skje med boligsektoren.
+
+[00:16:57] De vil jo at det skal kjøles ned.
+
+[00:17:01] Og det er en sånn strukturell historie som jeg tror at man glemmer litt da,
+
+[00:17:06] midt oppi Evergrande.
+
+[00:17:08] Det at denne viktige og store sektoren i Kina,
+
+[00:17:12] som er energiintensiv, som vil etterspørre råvarer,
+
+[00:17:16] den sektoren skal kjøles ned.
+
+[00:17:19] Og så var det jo sånn at det var ganske så svake tall
+
+[00:17:22] fra boligsektoren nå i september.
+
+[00:17:25] Det var flere byer som rapporterte om negative priser måned over måned.
+
+[00:17:32] Og samlet omsetning var en god del lavere enn i fjor.
+
+[00:17:36] Og så tror du at myndighetene nå sitter og er trygge på
+
+[00:17:41] at de klarer å finne den der hårfine balansegangen,
+
+[00:17:44] som gjør at de unngår en bråbrems,
+
+[00:17:47] samtidig som de kjøler ned den delen av sektoren som er overopphetet?
+
+[00:17:53] Det er det store spørsmålet, Marius.
+
+[00:17:57] Vi håper jo det, og vi tror jo det.
+
+[00:18:00] Det vi ser tegn til etter de veldig, veldig svake tallene.
+
+[00:18:04] Nå skal jeg ikke overdrive.
+
+[00:18:06] Det var svagt i september, men det var ikke en krise.
+
+[00:18:09] Men selv etter de svake tallene i september,
+
+[00:18:12] så begynte vi å se at de stedene der hvor det ble litt for svagt,
+
+[00:18:17] så kom lokale myndigheter på banen,
+
+[00:18:20] og de kom med tiltak for å egentlig,
+
+[00:18:22] sørge for at det ikke ble noe bråbrems.
+
+[00:18:26] Så det var stimulerende tiltak.
+
+[00:18:29] Man gjorde det mye lettere for førstegangskjøpere.
+
+[00:18:33] Man forbød lokkepriser,
+
+[00:18:36] og det ble pålagt for banker å gi finansiering, for eksempel.
+
+[00:18:42] Det tror jeg betydde veldig mye.
+
+[00:18:44] Så vi tror jo at de skal kunne unngå en bråbrems,
+
+[00:18:51] men som du sier, det er en veldig hårfin balanse.
+
+[00:18:55] Det blir til at man tråkker kanskje litt for hardt på bremsen.
+
+[00:19:01] Vil økonomien tåle det?
+
+[00:19:04] Det er et godt spørsmål.
+
+[00:19:07] Hvis det blir for hardt,
+
+[00:19:10] hvis man virkelig gjør det slik at sentimentet
+
+[00:19:16] blant boligkjøperne i Kina snur,
+
+[00:19:20] da tror jeg at det blir veldig krevende for Kina å demme opp for det.
+
+[00:19:26] Så langt har vi ikke sett tegn til det.
+
+[00:19:29] Det handler om enkeltbyer og enkeltinstanser.
+
+[00:19:32] Men det som blir spennende å følge med på,
+
+[00:19:34] er utviklingen for boligskatt, eller eiendomsskatt.
+
+[00:19:40] Det er en ganske spennende utvikling.
+
+[00:19:42] Det var vel nå over helgen at de innførte pilotbyer,
+
+[00:19:48] som skal teste ut eiendomsskatt.
+
+[00:19:50] Det tror jeg vi kan ha mye å si for etterspørselssiden,
+
+[00:19:54] så det skal vi følge nede med på.
+
+[00:19:56] Men det vi vel kan slå fast,
+
+[00:19:58] det er at det ser ut til å bli svakere fart i 4. kvartal 2021
+
+[00:20:03] enn det det har vært på en god stund.
+
+[00:20:05] Kan myndighetene komme til å kontre med å gi mer gass
+
+[00:20:08] i penger- og finanspolitikken hvis det viser seg å bli sånn?
+
+[00:20:13] Her kommer vi litt tilbake til dette med timing.
+
+[00:20:17] Vanligvis vil man kunne forvente at Kina,
+
+[00:20:21] hvis de ser at veksten blir for svak,
+
+[00:20:24] vil enten senke rentene, gjøre noe med reservekravene,
+
+[00:20:30] eller at de vil sette i gang stimulerende tiltak på finanspolitikken.
+
+[00:20:34] Men nå som de er i en energikrise,
+
+[00:20:38] nå som det er mangel på kul faktisk,
+
+[00:20:41] så gir det egentlig ikke noe mening å tilføre mer stimuli
+
+[00:20:46] inn i økonomien.
+
+[00:20:48] Så for meg så tror jeg det heller handler om
+
+[00:20:50] hva dette har å si for budsjettåret 2022,
+
+[00:20:54] og hvilke tiltak de kan gjøre i 2022.
+
+[00:20:59] Så 2021 er på en måte, den er litt god.
+
+[00:21:04] Så for å gjøre en slags oppsummering her,
+
+[00:21:08] hvis jeg forstår deg riktig,
+
+[00:21:10] det blir svakere fart fra Kina nå i 4. kvartal?
+
+[00:21:14] Ja.
+
+[00:21:15] Og så får vi se hvordan det blir på sikt.
+
+[00:21:19] Der er det vel litt sånn at juryn fremdeles er ute,
+
+[00:21:23] og at det er litt tidlig å si.
+
+[00:21:26] Her kommer det an på om superreserven som skal erstatte boligsektoren,
+
+[00:21:31] som vi har vært inne på, har blitt litt vel overtrent.
+
+[00:21:35] Om denne superreserven kommer til å komme på banen.
+
+[00:21:38] All right. Bra Kelly.
+
+[00:21:41] Tusen takk for at du tok deg tid til å være med oss.
+
+[00:21:43] Du tok deg tid til å være med og gi oss en oppdatering
+
+[00:21:47] på kinesisk økonomi igjen.
+
+[00:21:50] Og sist men ikke minst,
+
+[00:21:52] tusen takk folkens til alle dere som hørte på.

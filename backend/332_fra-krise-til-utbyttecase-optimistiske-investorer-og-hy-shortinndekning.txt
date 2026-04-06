@@ -1,0 +1,1153 @@
+Episode 332: Fra krise- til utbyttecase, optimistiske investorer og høy shortinndekning
+Publisert: Sat, 18 Fe
+Vert: Marius Brun Haugen
+Varighet: 36 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/fra-krise-til-utbyttecase-optimistiske-investorer-og-hy-shor
+
+--- Transkripsjon ---
+
+[00:00:00] I dagens episode skal vi se nærmere på aksjer som flyselskapet Norwegian, treningssentekjeden Sats,
+
+[00:00:07] orkla, laksopptretteren Movi og tørrlastrederiet Golden Ocean for å nevne noen.
+
+[00:00:13] Vi skal altså innom en aksje som har gått fra å være et krisecase til å nærme seg et utbytekase.
+
+[00:00:19] I tillegg har Paul notert seg at det er rekordhøy shortindekning i amerikanske tech-aksjer,
+
+[00:00:25] og jeg har med meg resultater fra Investortempen, som er DNBs egen undersøkelse om private investorenes forventninger til aksjemarkedet.
+
+[00:00:44] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen globale økonomien og finansmarkedene.
+
+[00:00:52] Jeg er Marius Brunnhaugen, og med meg har jeg aksjestrateg Paul Harper.
+
+[00:00:57] Hei, Paul.
+
+[00:00:58] Hei, Marius.
+
+[00:00:58] Det er fredag 17. februar, klokken har passert 12 når vi sitter her og spiller inn episoden.
+
+[00:01:06] Forrige uke sa vi at det var mye bra norske rapporter.
+
+[00:01:11] Denne uken har det også vært mange selskaper som har rapportert, men det har vært litt mer negativt tiltet denne uken.
+
+[00:01:19] Ja, jeg synes denne gangen har det vært en del flere selskap som har skuffet,
+
+[00:01:23] så jeg ser både det at estimatene kommer litt mer ned enn de gjorde til å begynne med,
+
+[00:01:28] og kursreaksjonene på tallene har også vært noe svakere.
+
+[00:01:32] Selv om i sum så tror jeg man kan si at totalen er kanskje litt bedre enn det vi hadde forventet,
+
+[00:01:37] så er ikke det bildet like lys som det så ut.
+
+[00:01:40] Nei.
+
+[00:01:41] Vekstaksjer, det har hatt en god start på året, det har vi også snakket om i tidligere episoder,
+
+[00:01:47] og det til tross for at rentene har steget, det har vi også sett litt i denne uken,
+
+[00:01:52] og det skal vi også snakke mer om senere.
+
+[00:01:56] Men du delte en interessant sak på morgenen.
+
+[00:01:58] I dag, Paul, nemlig at short-indekningen i amerikanske tech-aksjer er nesten rekordhøy.
+
+[00:02:06] Ja, det var noe jeg plukket opp på en blogg i dag tidlig, at det er noe som Goldman Sachs publiserer,
+
+[00:02:13] det de kaller sånn prime brokerage, det er egentlig den delen av banken som hjelper hedgefond
+
+[00:02:17] med den type praktiske back-office, og det å finne aksjer til shorting og sånne type ting.
+
+[00:02:24] De hadde publisert noen statistikk der som viste at short-indekning nå av tech-aksjer,
+
+[00:02:28] kanskje de siste tolv dagene, er det største noensinne med ett unntak av de siste ti årene,
+
+[00:02:34] så det er ti år med historikk, tror jeg de hadde.
+
+[00:02:37] Men det har bare vært en sånn tolvmåneds, tolv dagers periode,
+
+[00:02:41] hvor det har vært mer short-indekning enn vi har hatt i det siste.
+
+[00:02:45] Kanskje ikke noe å legge all for mye vekt på,
+
+[00:02:48] men at dette kan ha bidratt til å forsterke det momentet vi har sett for vekstaksjene,
+
+[00:02:56] det kan vel kanskje være.
+
+[00:02:57] Ja, det tror jeg.
+
+[00:02:58] Det gir en del mening med forhold til det med at jeg har vært litt overrasket over hvor bra vekstaksjer har gjort det nå,
+
+[00:03:05] spesielt de siste par ukene hvor rentene har kommet opp en god del.
+
+[00:03:09] Så det er jo vekstaksjer som gjerne er mest utsatt når rentene beveger seg oppover,
+
+[00:03:13] men de har stort sett klart seg relativt bra, mens vi har sett eiendomsaksjer for eksempel
+
+[00:03:17] har hatt det litt tyngre enn en annen sånn typisk rentesensitive sektor.
+
+[00:03:21] Så helt hvorfor vekstaksjer skulle gjøre det så mye bedre enn eiendom
+
+[00:03:25] når begge to er drevet av renter i stor grad,
+
+[00:03:28] det hadde vært litt vanskelig egentlig å helt få noen god forklaring på,
+
+[00:03:32] men dette her er da en mulig forklaring hvordan det kunne skje.
+
+[00:03:36] På min front så har vi, som jeg sa innledningsvis, gjennomført en ny runde med Investortempen.
+
+[00:03:43] Det er en undersøkelse vi sender ut ann hver måned,
+
+[00:03:46] der vi spør de mest aktive privatinvestorene som handler aksjer via oss i DNB
+
+[00:03:52] om hva de tror om markedet blant annet de neste tolv månedene,
+
+[00:03:56] og svarene.
+
+[00:03:58] Denne gangen, de viser at stadig flere er positive til utsiktene for markedet.
+
+[00:04:05] Nå er det cirka fem av ti som forventer at aksjemarkedet skal gi positiv avkastning.
+
+[00:04:11] Leser du noe ut av det, Paul?
+
+[00:04:13] Jeg synes det høres egentlig ganske likt ut med det vi ser andre plasser også.
+
+[00:04:17] Vi følger jo en del sånne sentimentindekser,
+
+[00:04:20] og den vi kanskje følger tettest er den som heter
+
+[00:04:24] American Association of Individual Investors,
+
+[00:04:27] som har en sånn ukes sentiment.
+
+[00:04:28] Det er en spørreundersøkelse hvor de spør om de tror aksjer skal opp eller ned
+
+[00:04:31] de neste seks månedene.
+
+[00:04:33] Den har jo vært på ekstremt negativ nivåer nå i det siste året,
+
+[00:04:37] men de siste par ukene har det klart å bryte opp.
+
+[00:04:41] Så nå er det egentlig flere som er positive enn negative for første gang på veldig lenge.
+
+[00:04:45] På spørsmål om aksjer de vil anbefale andre i denne undersøkelsen,
+
+[00:04:52] så er det energi- og utbyttebetalende aksjer som topper listen.
+
+[00:04:57] Her får jeg bare si at her,
+
+[00:04:58] det stemmer kart og terreng.
+
+[00:05:01] Det dataene mine viser at kundene faktisk handler,
+
+[00:05:05] det er også de aksjene som de sier at de vil anbefale andre.
+
+[00:05:09] Men skal vi gå til markedet og bevegelsene som vi har sett denne uken på?
+
+[00:05:13] Ja, absolutt.
+
+[00:05:15] Vi har jo hatt egentlig en interessant uke, synes jeg.
+
+[00:05:19] Det har vært litt mindre på selskapsrapportene.
+
+[00:05:24] Det var jo noe voldsomt på selskapsrapporter internasjonalt,
+
+[00:05:26] men i Norge så har det jo vært relativt busy på den fronten.
+
+[00:05:30] Men hvis vi ser litt mer sånn big picture her,
+
+[00:05:33] så har det vært en god del interessant makrotall, synes jeg.
+
+[00:05:35] Ja, og bare ta med da,
+
+[00:05:37] altså norske aksjer det ligger an til en forsiktig nedgang på indeksnivå.
+
+[00:05:40] Denne uken har oljeprisene sklidet et par dollar til 83,5,
+
+[00:05:44] uten at vi bør vel ikke lage noe stor dramatikk ut av det.
+
+[00:05:48] Nasdaq i USA er fortsatt forsiktig opp for uken,
+
+[00:05:51] til tross for et fall på nær 2 prosent torsdag kveld,
+
+[00:05:54] så gjenstår det å se hvordan den gjør,
+
+[00:05:56] gjør det i dag fredag.
+
+[00:05:58] Og så har vi den amerikanske 10-årsremten,
+
+[00:06:00] som har klatret, markert den uken, vil jeg si,
+
+[00:06:02] til 3,9 prosent når vi sitter her.
+
+[00:06:07] Og da kom vi jo inn på makron da, Paul.
+
+[00:06:10] Vi har fått blant annet tall for detaljehandel,
+
+[00:06:13] og vi fikk også tall for prisveksten,
+
+[00:06:16] og det viser på ingen måte noe tegn
+
+[00:06:18] til en amerikansk økonomi-krise, snarere tvertimot.
+
+[00:06:22] Altså begge de to var veldig sterke,
+
+[00:06:25] og du kan si at her er det,
+
+[00:06:26] det er nok litt forskjellige ting som går med i det bildet,
+
+[00:06:31] så når det gjelder detaljehandel for eksempel,
+
+[00:06:33] så er det litt sånn noen sesongjusteringer,
+
+[00:06:35] som jeg tror de sliter litt med,
+
+[00:06:37] for etter hvert som det nå har hatt,
+
+[00:06:39] som julesesongen har blitt egentlig spredt,
+
+[00:06:41] dratt ut i november,
+
+[00:06:43] også med den black friday,
+
+[00:06:45] som da er plutselig black week,
+
+[00:06:47] og så er det plutselig black måned,
+
+[00:06:49] så hele den prosessen nå,
+
+[00:06:50] i stedet for at handelen er sånn konsentrert i desember,
+
+[00:06:53] så er det spredt nå litt mer ut over november og desember,
+
+[00:06:57] og da tror jeg de sliter litt med den sesongjusteringen,
+
+[00:07:00] for disse tallene som blir rapportert,
+
+[00:07:02] da er jo sesongjustert.
+
+[00:07:03] Så jeg tror kanskje ikke de tallene var like sterke som de ser ut,
+
+[00:07:07] og så i tillegg så må man også huske at
+
+[00:07:09] det var varmere vær enn vanlig i januar,
+
+[00:07:12] og det var nok noe av forklaringen til at payrolls var såpass sterkt også.
+
+[00:07:16] Så det er en del faktorer som gjør at det kanskje
+
+[00:07:20] ses litt hotter ut enn det kanskje egentlig er,
+
+[00:07:24] men jeg tror det er vanskelig å forklare bort alt,
+
+[00:07:26] sammen med sånne faktorer.
+
+[00:07:28] Ja, og så har vi denne prisveksten,
+
+[00:07:30] den ser jo ut til å bli hengende,
+
+[00:07:33] og den virker jo å være ganske bredtpassert,
+
+[00:07:35] matprisene opp over måned, opp 10 prosent annualisert,
+
+[00:07:41] energiprisene stiger og går det som vi tror her på huset,
+
+[00:07:44] så skal jo energiprisene videre opp,
+
+[00:07:46] tjenesteprisene steg,
+
+[00:07:48] også justert for bolig,
+
+[00:07:51] altså shelter som de kaller det,
+
+[00:07:52] det er vel leie og hotell etter det her primært,
+
+[00:07:56] så selv om vi vet at til synlattene så skal jo en del
+
+[00:07:59] av denne prisveksten avta da,
+
+[00:08:02] men det er jo noen tendenser her til at det blir hengende ved da,
+
+[00:08:07] det forsvinner ikke med det første dette her.
+
+[00:08:09] Ja, jeg tror markedet kanskje har blitt litt for optimistisk her,
+
+[00:08:12] for det er klart når tallene er veldig høyt sånn i utgangspunktet,
+
+[00:08:15] så er det ikke veldig vanskelig for at de skal falle,
+
+[00:08:17] men spørsmålet om hvor fort de faller er jo noe som er fortsatt ganske uklart,
+
+[00:08:22] og nå ser det ut som at det faller kanskje ikke like fort som enkelt hadde håpet,
+
+[00:08:26] jeg må si for min egen del så synes jeg det fortsatt er en situasjon
+
+[00:08:31] hvor nesten uansett hva som skjer de neste 2-3 månedene,
+
+[00:08:34] så tror jeg ikke vi egentlig er så veldig mye klokere av hva status er
+
+[00:08:38] 9-12 måneder frem i tid,
+
+[00:08:39] for den underliggende inflasjonen er jo drevet av lønnsveksten,
+
+[00:08:43] så vi må egentlig se hvor langt er det lønnsveksten kommer ned,
+
+[00:08:46] og på hvilket nivå er det det egentlig da stabiliseres,
+
+[00:08:49] og da trenger du egentlig kanskje noen måneder også til å se at det faktisk stabiliserer
+
+[00:08:53] på et eller annet nivå, det kan jo hende at det faller ned til
+
+[00:08:56] 2% og så spretter det opp til 4% for alt vi vet,
+
+[00:08:59] men det er den lønnsveksten som egentlig er det viktigste,
+
+[00:09:03] for har du ikke noe lønnsvekst og priserne stiger,
+
+[00:09:05] da blir det jo til at man mister kjøpekraft og da bremser økonomien og inflasjonen av det,
+
+[00:09:11] hvis lønnsveksten er høy så er det veldig vanskelig da å få den prisveksten ned
+
+[00:09:14] på et nivå som jeg er litt råd med det sentralbankene prøver å få til,
+
+[00:09:18] så jeg må si jeg tar egentlig mye av dette her litt med en klype salt,
+
+[00:09:21] men risikoen har vært at markedet har kanskje vært litt for optimistisk
+
+[00:09:26] over hvor fort dette skal falle og begynte å prise inn en litt for optimistisk scenario de siste ukene.
+
+[00:09:31] Men sånn i sum med disse tallene for det ene og for det andre for den amerikanske økonomien,
+
+[00:09:38] altså hvilket scenario er det det går mot nå da, hva er det markedet priser inn,
+
+[00:09:42] altså hard landing er vel ikke helt i kikkerten nå for økonomien,
+
+[00:09:48] en myk landing er det jo stadig flere som tror på,
+
+[00:09:52] kan vi også komme dit at det blir ikke noe landing i det hele tatt, at det bare durer på?
+
+[00:09:56] Ja, jeg tror det er kanskje det markedet egentlig nå har pris til,
+
+[00:10:00] i hvert fall hvis vi ser tilbake til tidligere i uken,
+
+[00:10:04] så tror jeg det var der mange begynte å gå fra at hard landing var der vi var for noen måneder siden,
+
+[00:10:10] så det sånn glidde over til soft landing, og sånn som du sier,
+
+[00:10:14] så i hvert fall for noen dager siden, så tror jeg før de inflasjonstallene kom,
+
+[00:10:18] så var det sånn ikke noe landing i det hele tatt,
+
+[00:10:20] at det bare skulle egentlig være i verste fall en liten soft patch,
+
+[00:10:24] og så er det sånn viderevekst deretter.
+
+[00:10:27] Jeg tror for min egen del at, vi har jo egentlig sagt lenge at vi forventet at økonomien skulle være sterkere
+
+[00:10:34] enn markedskonsensus trodde i første halvdelen av året,
+
+[00:10:38] men utover det så synes jeg det er vanskelig å egentlig argumentere for at det ikke blir noe resesjon i det hele tatt,
+
+[00:10:44] for nå har vi fått enda et signal som har truffet veldig bra tidligere,
+
+[00:10:48] vi har snakket om yieldkurven tidligere, den har jo truffet hver eneste gang siden 60-tallet,
+
+[00:10:53] leading indicator som også da har truffet på resesjoner nesten like bra som yieldkurven,
+
+[00:10:59] også denne uken så fikk vi FiliFed survey som aldri vært så lav som det var på denne siste ukens måling,
+
+[00:11:06] uten at det har blitt resesjoner i etterkant.
+
+[00:11:08] Så jeg er egentlig der med at jeg tror ja, det blir ikke resesjon med en gang,
+
+[00:11:12] men det er langt fra sikkert at det ikke blir noe resesjon enten senere i år eller tidlig til neste år.
+
+[00:11:18] Ja, så et ikke helt utenkelig scenario det er jo at,
+
+[00:11:22] økonomien durer på, tallene fortsetter å komme inn ganske mye da,
+
+[00:11:28] selv om de er leggende en del av disse her på den sterke siden,
+
+[00:11:32] og så til syvende og sist så blir jo sentralbanken da tvunget til å sette opp rentene enda mer enn det som har vært priset inn,
+
+[00:11:40] og så kan man jo risikere at når det først skal landes så blir den landingen mer brutal da,
+
+[00:11:46] enn det man kunne håpet på, men det blir jo litt sånn worst case scenario da for oss,
+
+[00:11:52] så det trenger noe å bekymre seg over.
+
+[00:11:54] Ja, så kan jeg si at markedets forventning nå til rentene har jo endret seg ganske kraftig nå de siste par ukene,
+
+[00:11:59] så hvis vi ser på Fed Funds futures, så priser de nå inn nesten tre renteøkninger til,
+
+[00:12:05] mens for bare to uker siden ca. så var det én renteøkning til,
+
+[00:12:09] så det er jo egentlig en ganske stor endring på relativt kort tid akkurat det der,
+
+[00:12:13] og som det sier da, hvis Fed blir sånn tvunget til å sette renten opp flere ganger,
+
+[00:12:18] så må vi også huske at det er en viss lag fra du setter renten opp,
+
+[00:12:22] som faktisk merkes, så til hvilken grad egentlig de renteøkningene,
+
+[00:12:26] spesielt de 75-punkter renteøkningene vi hadde i fjor høst,
+
+[00:12:29] hvor mye av den effekten allerede er i makrotallene, eller om det fortsatt er foran oss,
+
+[00:12:35] er litt vanskelig å være veldig sikker på, så man risikerer at det fortsatt er litt payback,
+
+[00:12:41] eller catch-up, eller hva man vil kalle det, som gjør at den innstrammende effekten
+
+[00:12:45] egentlig har ikke slått fullt inn enda.
+
+[00:12:48] Renteutviklingen da, det er for øvrig det som oppgis som
+
+[00:12:51] et av de største usikkerhetsmomentene i investortempen,
+
+[00:12:54] denne spørreundersøkelsen jeg viste til i sted,
+
+[00:12:58] særlig da de som sier at de tror markedet skal opp,
+
+[00:13:02] så kan man jo si at det er ikke så rart da, men uansett.
+
+[00:13:06] Men hvorfor har aksjeinvestorene ignorert renteoppgangene?
+
+[00:13:12] Ja, så det er det som jeg synes er vanskelig å forklare,
+
+[00:13:15] for på en side så kunne man kanskje si at rapporteringssesongen
+
+[00:13:18] har vært kanskje litt bedre enn antatt,
+
+[00:13:21] men ser man på hvordan estimatene har endret seg,
+
+[00:13:24] så er jo de ned greit nok i forhold til starten av året,
+
+[00:13:27] så det er ikke det at estimatene har blitt justert opp,
+
+[00:13:30] det er bare det at de har kanskje blitt justert ned litt mindre enn antatt.
+
+[00:13:34] Men de er allikevel ned, rentene er, først så gikk de ned,
+
+[00:13:39] så det kunne kanskje forklare oppgangen i januar,
+
+[00:13:42] men så har den prosessen egentlig reversert seg nå de siste par ukene,
+
+[00:13:46] så netto så er egentlig rentene omtrent der de var til å begynne i starten av året.
+
+[00:13:51] Så alt i alt da så har de renter som er omtrent uendret,
+
+[00:13:54] inntjeningsestimatet som er et par tre prosent lavere enn det var i starten av året,
+
+[00:13:59] så hele oppgangen har jo egentlig bare kommet fra multiple ekspansjon,
+
+[00:14:04] som ikke kan egentlig forklares med lavere renter.
+
+[00:14:08] Så det har egentlig vært en risikopremium som har økt,
+
+[00:14:11] og jeg synes det er veldig vanskelig fra et fundamentalt perspektiv
+
+[00:14:13] å resonere hvorfor det har skjedd.
+
+[00:14:16] Så da kommer man egentlig tilbake til sånne type flow-basert,
+
+[00:14:20] S-type resonemanger da, med at det har vært for mange investerer
+
+[00:14:25] som har vært posisjonert for negativt,
+
+[00:14:28] og da blir det til at de vil kjøpe aksjer egentlig uansett hva det fundamentale er,
+
+[00:14:32] til å få bøkene litt mer i balanse,
+
+[00:14:34] og da kommer vi tilbake til den Goldman-charten som vi snakket om i starten her,
+
+[00:14:38] at det er i hvert fall litt anekdotisk tegn til at det kanskje er den mest plausible forklaringen.
+
+[00:14:43] All right, la oss gå til rapporteringene på Oslo Børs,
+
+[00:14:49] de har det vært mange av også denne uken,
+
+[00:14:52] og det har vært godt og blandet.
+
+[00:14:55] La oss starte med det positive,
+
+[00:14:57] og en aksje som vi vet det er mange av kundene som handler i,
+
+[00:15:03] nemlig flyselskapet Norwegian.
+
+[00:15:06] Tallene var og ga et positivt førsteinntrykk,
+
+[00:15:09] de og guidingen var OK,
+
+[00:15:13] de er fremoverlent på billettsalg og booking,
+
+[00:15:16] og analytikeren i Markets, Ole Martin Vestgaard,
+
+[00:15:19] for han er ganske så entusiastisk,
+
+[00:15:22] og han har justert opp kursmålet fra 12 til 16 kroner og gjentar kjøp.
+
+[00:15:28] Ja, det var egentlig veldig fremoverlent guidingsinnse,
+
+[00:15:31] spesielt når det er såpass mye mediefokus nå på at mange folk sliter med
+
+[00:15:37] høyere strømpriser og matpriser og renter og litt av hvert,
+
+[00:15:41] men likevel så ser det ut som folk har penger nok til å ta seg ferie og bestille flybilletter,
+
+[00:15:47] både volymet som de selger og prisen de selger til,
+
+[00:15:51] ser også ut til å være bedre enn antatt.
+
+[00:15:54] Så jeg må si at i starten av året tenkte jeg at Norwegian kunne være et av de selskapene
+
+[00:15:59] som nettopp kanskje burde være litt utsatt hvis man får litt mindre penger å bruke.
+
+[00:16:05] Det å droppe helgeturer og sånne type ting er jo kanskje blant de første tingene man kutter ut
+
+[00:16:10] hvis man må spare penger.
+
+[00:16:12] Ja, og det er nettopp det jeg synes er litt interessant her,
+
+[00:16:15] at det er til synelatende fortsatt penger å bruke,
+
+[00:16:18] og det stemmer jo overens med sånne krysspeilinger vi gjør ellers,
+
+[00:16:22] hvis vi ser på de druppene som har kommet fra norsk økonomi og hva makroøkonomene våre sier,
+
+[00:16:27] også fra bankene.
+
+[00:16:29] Jeg hadde en videooppdatering med HK Nastrup som er bankanalytikeren i Markit tidligere denne uken,
+
+[00:16:35] også der er det jo det samme.
+
+[00:16:38] Også er det dette her at folk fortsatt vil ut og reise etter flere år med pandemi,
+
+[00:16:44] og det er klart, det gir jo mening.
+
+[00:16:46] Jeg tror det er alltid viktig å huske at det man ser i avisen,
+
+[00:16:51] det blir jo som anekdoter, og det man får i tallene er litt mer grunnleggende,
+
+[00:16:56] at der har du summen av økonomien heller enn bare de som blir oppsiddrett frem av journalister.
+
+[00:17:03] Men så kan det jo også være at en del av disse tingene er litt leggende, kan du si,
+
+[00:17:07] at det er de som er mest ivrig på å reise på ferie, boke ferie nå,
+
+[00:17:12] og kanskje egentlig ikke har tenkt så mye over at når det kommer så langt som sommeren,
+
+[00:17:17] så har de kanskje ikke så mye penger å bruke likevel.
+
+[00:17:20] Så jeg tror ikke vi kan undervurdere den utfordringen eller risikoen at enkelte folk kanskje bruker penger de ikke har her,
+
+[00:17:28] og er litt mer fokusert på at ferie, det fortjener jeg,
+
+[00:17:33] så da buker jeg det med en gang selv om jeg kanskje ikke har penger til å betale for det.
+
+[00:17:37] Neida, vi vet at det kommer til å komme betydelig flere rentehevinger,
+
+[00:17:42] og at lånerettene kommer til å komme høyere, og at folks økonomi generelt vil bli strammere,
+
+[00:17:48] men vi vet jo ikke helt hvor dette brekningspunktet er da,
+
+[00:17:52] og forebyr så er det ikke noe tegn til at vi har kommet dit.
+
+[00:17:55] Nei, ikke enda, og det er klart enkelte har nok sikkert en viss sparebuffer også som de kan bruke,
+
+[00:18:01] så det kan gå til at utgiftene nå er kanskje litt høyere enn det de har av inntekter,
+
+[00:18:06] men så lenge de har litt penger på konto, så velger de å bruke det aller først.
+
+[00:18:10] Og jeg må si, jeg er ikke sånn,
+
+[00:18:12] jeg har en voldsom tillit til at nødvendigvis alle er smarte nok,
+
+[00:18:17] eller fornuftig nok, det er kanskje et bedre ord,
+
+[00:18:20] til å holde igjen på forbruket når de ser at kostnadene øker.
+
+[00:18:25] For jeg regner med at strømprisene kommer ned på sommeren,
+
+[00:18:28] de bruker ikke like mye strøm, så da blir det litt mer penger til over,
+
+[00:18:31] så det kan godt hende at det stemmer.
+
+[00:18:33] Men for en del folk vil det nok sikkert være litt mer fornuftig
+
+[00:18:38] å holde igjen og se at det faktisk er situasjonen,
+
+[00:18:40] heller enn å bruke pengene og bare regne med at det går greit.
+
+[00:18:43] Sats er jo en annen aksje som er direkte eksponert mot norske,
+
+[00:18:48] særlig da, men også nordiske forbrukere.
+
+[00:18:51] De var også ute med tall denne uken,
+
+[00:18:53] der Jenter, samme analytiker, holdt kursmål åtte kroner.
+
+[00:19:00] Den kom sånn forsiktig opp,
+
+[00:19:02] det var den umiddelbare reaksjonen på tallene, opp en prosent eller noe sånt.
+
+[00:19:06] Men aksjekursen, den kryper jo langs,
+
+[00:19:09] den forløpige bunnen den har satt der, rundt åtte kroner.
+
+[00:19:13] Sånn kort fortalt var det vel noen blandet rapport.
+
+[00:19:17] Det ble også truffet av engangskostnader,
+
+[00:19:20] hvor det positive elementet her var en litt høyere medlemsbase,
+
+[00:19:25] blant annet.
+
+[00:19:26] Men det er klart, selv om det er engangselementer,
+
+[00:19:29] så taper de 150 millioner kroner i fjerde kvartal.
+
+[00:19:32] Det er mye penger.
+
+[00:19:34] Ja, det er ikke lett å drive treningssenter lønnsomt,
+
+[00:19:38] når husleie stiger, strømpriser stiger.
+
+[00:19:42] Og det er, igjen da, som vi sier, kanskje hakket lenger ned
+
+[00:19:47] på listen av ting du kutter ut, når du skal prøve å spare penger.
+
+[00:19:52] Jeg har kanskje kuttet ut helgeturer først,
+
+[00:19:55] men treningssenter er noe som også koster noen kroner hver måned.
+
+[00:20:00] Når man kommer til sommeren, så er det jo litt mer fristende å trene ute også.
+
+[00:20:03] Så jeg synes det, selv om medlems-
+
+[00:20:06] selv om medlemsbasen øker litt nå,
+
+[00:20:09] så kan man ikke nødvendigvis regne med at det fortsetter,
+
+[00:20:11] i hvert fall hvis økonomien fortsatt har det litt tungt.
+
+[00:20:14] Ja, det må jeg si. Det er en ting som taler i statsfavør.
+
+[00:20:18] Med litt sånn snikkskrutt, så har jeg kommet i gang igjen der selv også.
+
+[00:20:23] Jeg vet du også trener der, Poul.
+
+[00:20:25] I hvert fall min observasjon på de to senterne hvor jeg går,
+
+[00:20:27] det er at det er mye folk der.
+
+[00:20:30] Det er nesten uansett, når jeg kommer på døgnet, så er det ganske fullt.
+
+[00:20:34] Så de får jo folk der.
+
+[00:20:35] De får jo folk inn i butikken sin da, og det er jo bra.
+
+[00:20:38] Ja, så da kan du kanskje si at det største problemet er at
+
+[00:20:42] hvis senterne er relativt fullt, men de fremdeles ikke tjener penger,
+
+[00:20:45] så hva er det de da skal gjøre?
+
+[00:20:47] Nei, så er det for mange treningssenter, ikke sant?
+
+[00:20:51] Det er ikke så lett, så jeg må si at
+
+[00:20:54] jeg synes det caset er litt vanskelig,
+
+[00:20:56] og det er også kanskje litt mer reell enn det er behagelig
+
+[00:21:00] sett på fra en aksjeinvestors perspektiv.
+
+[00:21:03] Så jeg synes det er en hold-anbefaling,
+
+[00:21:05] det er liksom ikke noen grunn til å kjøpe den
+
+[00:21:07] hvis du ikke eier den allerede.
+
+[00:21:09] Sats er et fint sted å trene, men akkurat nå
+
+[00:21:12] så synes vi det er vanskelig å bli veldig glad i aksjen.
+
+[00:21:16] Orkla er et annet selskap som har rapportert denne uken.
+
+[00:21:21] Kursmålet er justert fra 75 til 70 kroner,
+
+[00:21:26] gjentar hold-anbefalingen her.
+
+[00:21:28] Førsteinntrykket var en litt svak rapport
+
+[00:21:31] og litt svake utsikter.
+
+[00:21:34] Aksjen falt jo også ned 7% før lunsj på tirsdagen
+
+[00:21:38] og var under 70 kroner der.
+
+[00:21:41] Estimatene litt ned.
+
+[00:21:44] Ja, de opplever marginpress fra både høye råvarepriser
+
+[00:21:48] og konkurranse fra private merkevarer,
+
+[00:21:51] eller private labels, som det heter.
+
+[00:21:54] Ja, Orkla sliter med marginene fremdeles.
+
+[00:21:57] Bull-caset her var jo at matpriser,
+
+[00:22:00] eller sånne råvaremattepriser,
+
+[00:22:02] hadde kommet noe ned,
+
+[00:22:04] og jeg tenkte egentlig kanskje det verste av marginskvisen
+
+[00:22:07] for Orkla var unnagjort,
+
+[00:22:09] men det ser ikke ut til å være tilfelle likevel.
+
+[00:22:12] Så å si marginskvis og skuffende tall
+
+[00:22:15] er ikke egentlig det du vil ha fra en defensiv aksje.
+
+[00:22:18] Jeg tror det er kanskje det største problemet her,
+
+[00:22:20] at grunnen til at du eier Orkla er ikke fordi
+
+[00:22:22] at du vil ha en doblingskandidat,
+
+[00:22:24] du vil ha et eller annet som har begrenset nedsiderisiko.
+
+[00:22:27] Så da blir det straffet litt ekstra hardt når de ikke leverer her.
+
+[00:22:31] Og Oslo Børs er jo en børs hvor det er relativt få
+
+[00:22:34] defensive aksjer å velge mellom.
+
+[00:22:36] Yensidige var også litt sånn så som så,
+
+[00:22:39] eller litt soft egentlig i tallene.
+
+[00:22:41] Så av de større selskapene så er det egentlig bare Telenor
+
+[00:22:44] av de største defensive casene som egentlig har levert bra her.
+
+[00:22:49] Og da blir det spesielt i Orklas tilfelle
+
+[00:22:51] når de også er i en sånn slags restruktureringprosess,
+
+[00:22:55] da de skal egentlig prøve å bli litt mer som en slags holding company,
+
+[00:22:59] litt sånn som noen av disse svenske investeringene,
+
+[00:23:01] investeringsselskapene.
+
+[00:23:03] Og det at de da skal begynne å snakke om at de skal være mer aktiv på M&A
+
+[00:23:06] er noe som jeg er veldig skeptisk til.
+
+[00:23:08] For er det noe Orkla ikke er noe spesielt god på, etter min mening,
+
+[00:23:11] så er det nettopp kjøp og salg av bedrifter.
+
+[00:23:13] For de kjøper dyrt og selger billig,
+
+[00:23:15] så du vil liksom ikke ha det som core businessen.
+
+[00:23:19] Så jeg synes ikke det er noe sånn voldsomt sjakktrekk med det første.
+
+[00:23:23] Og du må vente helt til november før de skal ha en kapitalmarkedsdag
+
+[00:23:26] hvor de egentlig skal utdype helt hva de har tenkt å gjøre.
+
+[00:23:29] Så i mellomtiden så synes jeg egentlig det er litt dead money dette her.
+
+[00:23:33] Og skal man ha noe defensivt,
+
+[00:23:35] så synes jeg Telenor ser egentlig bedre ut enn både Orkla og Gjensidige.
+
+[00:23:39] Yes, skal vi gå videre til Hydro.
+
+[00:23:42] Der har vi jo hatt en salgsanbefaling å gjenta den.
+
+[00:23:46] Kursmålet på 55 kroner.
+
+[00:23:48] Q4 var litt på den svake siden.
+
+[00:23:51] Så får vi ta med at Hydro aksjene har jo gått veldig bra over en periode.
+
+[00:23:56] Så her har vi ligget feil.
+
+[00:23:58] Vi synes jo at aksjene er priset høyt,
+
+[00:24:04] gitt antakelsen om at tilbudssiden i aluminiumsmarkedet skal bli større på.
+
+[00:24:08] Det er vel litt der det står for vår del.
+
+[00:24:12] Ja, så dette var en annen large cap som skuffet denne uken.
+
+[00:24:16] Så litt dårligere tall enn ventet.
+
+[00:24:19] Bare case vårt på denne her er at vi synes aksjene rett og slett er altfor dyrt.
+
+[00:24:24] Så prises på rundt 12 ganger p, så vidt jeg husker.
+
+[00:24:28] Det høres kanskje ikke så veldig høyt ut, men inntjeningen her er veldig syklisk.
+
+[00:24:33] Så da skal du ikke betale en høy multipl for veldig syklisk inntjening.
+
+[00:24:38] For da har du så mye den visibiliteten på inntjeningen.
+
+[00:24:41] I motsetning til et eller annet som Telenor, hvor inntjeningen er mye mer stabilt over tid.
+
+[00:24:47] Når vi kommer litt på den prisingen, så er det ikke bare det at multiplen ikke er noe spesielt attraktivt.
+
+[00:24:56] Vi skal ikke si at det er direkte dyrt hvis du bare ser på inntjeningen stand-alone.
+
+[00:25:01] Men så har du en annen element i dette her med at en solid del av den inntjeningen faktisk skal gå strøm nå.
+
+[00:25:08] Fordi at de har stengt en del av sin egen produksjon.
+
+[00:25:12] Inntjening fra strømsalg får vi egentlig anta er en midlertidig inntjeningsskilde for selskapet.
+
+[00:25:19] Så da burde ikke det egentlig ha like høy multipl som core-businessen.
+
+[00:25:24] Det er egentlig noe man ser på.
+
+[00:25:25] Det er egentlig noe man ser på som en slags midlertidig inntektsskilde.
+
+[00:25:29] Så det er en høy multipl.
+
+[00:25:30] Men i tillegg til det, så er den underliggende inntjeningen også en del lavere enn det det kanskje ser ut.
+
+[00:25:36] Så hvis du tar bort den strømmeinntjeningen, så er det mer sånn 20 ganger PES.
+
+[00:25:42] Da blir det veldig dyrt.
+
+[00:25:44] Så jeg synes egentlig prising er ikke så voldsomt attraktiv.
+
+[00:25:46] Aluminiumprisen kommer litt ned.
+
+[00:25:48] Det er også egentlig en litt interessant ting, litt digresjon her.
+
+[00:25:53] Fordi så mye fokus på Kina re-opening var nok det som trakk mye råvarepriser opp i januar.
+
+[00:25:59] Men da ser vi at aluminiumprisen kommer litt ned igjen.
+
+[00:26:02] Kobbelprisene er kommet litt ned også.
+
+[00:26:04] Så jeg tror en del av den Kina re-opening er nok mer fokusert på konsumvarer heller enn industri.
+
+[00:26:11] Så da får ikke Hydro kanskje like mye hjelp derfra heller.
+
+[00:26:14] Nei, men CFOen i Hydro, han argumenterte vel for at det er flere grunner til at industrien skal komme ned.
+
+[00:26:21] For at det er flere grunner til at industrien skal komme ned.
+
+[00:26:22] For at industrien skal klare å unngå tidligere feil med å bygge ut for mye kapasitet når aluminiumprisene er høye.
+
+[00:26:31] Han trakk vel også frem at kundenes fokus på lavkarbonaluminium har økt.
+
+[00:26:37] Og at det gjør det vanskelig å bygge nye smelteverk basert på kullkraftverk.
+
+[00:26:41] Og nevnte også at Kina har satt et produksjonstak på 45 millioner tonn aluminium.
+
+[00:26:47] Og konkluderte med, ifølge avisen da, at hvis disse punktene står seg.
+
+[00:26:51] Så vil man kunne få et strukturelt skifte i inntjeningen da.
+
+[00:26:56] Så det er jo litt sånn argumentene hans da for den positive siden her.
+
+[00:27:00] Ja, så jeg skal ikke se helt borti fra det.
+
+[00:27:02] Så det er nok egentlig mer det at de er i en periode med en slags superprofit her.
+
+[00:27:08] Fordi at de har mye lavere strøm- eller energipris enn de fleste konkurrentene.
+
+[00:27:12] Så aluminiumprisen reflekterer de høyere kostnodene som konkurrentene har.
+
+[00:27:16] Og da blir det en periode med superprofit for Hydro.
+
+[00:27:19] Så det er en periode.
+
+[00:27:20] Så det er egentlig det hva du mener er en slags type steady state profitability.
+
+[00:27:25] Som egentlig er det som gjelder.
+
+[00:27:26] Du behøver ikke å bety at selskapet skal gå med underskudd.
+
+[00:27:30] I dårlige tider før så har jo det skjedd at aluminiumprisen faller under kostnodsprisen.
+
+[00:27:36] Men poenget er at hvis steady state er da en del lavere enn det situasjonen er i dag.
+
+[00:27:42] Så blir det likevel prisingen for oss hvis dyr, synes vi.
+
+[00:27:46] I shipping så er det fortsatt en del ting som går.
+
+[00:27:49] Ganske så bra.
+
+[00:27:51] Vi har ikke brukt for mye tid på Flex LNG i dag.
+
+[00:27:55] Men der jenta vi hold har justert kursmålet til 370 kroner fra 329 i Golden Ocean.
+
+[00:28:02] Så jenta vi kjøp har justert opp kursmålet fra 138 til 149.
+
+[00:28:08] Tallene var vel OK her på.
+
+[00:28:10] Litt sånn nedsidig guidingen for første kvartal.
+
+[00:28:14] Men så går vi inn i en periode nå hvor ratene historisk skal bedre seg.
+
+[00:28:19] Sesongmessig i hvert fall.
+
+[00:28:21] I løpet av de neste ukene en gang.
+
+[00:28:24] Så får vi jo se da.
+
+[00:28:25] Det er jo det som må vel skje for at aksjen skal flytte seg oppover.
+
+[00:28:30] Ja, så ratene nå er jo på veldig lave nivåer.
+
+[00:28:33] Når det er sagt så er det litt vanskelig å egentlig si hva det nødvendigvis blir til for inntjening.
+
+[00:28:39] For nå har man jo etter hvert begynt å få mindre og mindre standardiserte båter.
+
+[00:28:44] Som om det er sånne eco design.
+
+[00:28:46] Om de har scrubber eller ikke og så videre.
+
+[00:28:48] Og så videre og så videre.
+
+[00:28:50] Sånn sett så er det litt vanskelig å egentlig bruke botikkindeksen for å beregne inntjening.
+
+[00:28:56] Men uansett sesongmønster er med deg nå.
+
+[00:29:00] Med at ratene er på det laveste tiden.
+
+[00:29:03] Jeg tror det er juni 2020 eller noe tilsvarende.
+
+[00:29:06] Og det pleier gjerne å bunne ut i februar.
+
+[00:29:08] Så oddsen er at ratene skal opp herfra.
+
+[00:29:10] Og stort sett så følger jo aksjene ratene utviklingen.
+
+[00:29:13] Movi kan vi også nevne.
+
+[00:29:16] Der gjentar vi kjøpsombefalingen og kursmålet på 210 kroner.
+
+[00:29:22] Driften var vel på linje med det som ble annonsert i tradingoppdateringen.
+
+[00:29:26] Og heller ikke noe tegn til at forbrukerne får det vi.
+
+[00:29:30] Etterspør mindre laks.
+
+[00:29:32] Heller ikke noe tegn til hvorvidt vekst eller investeringer skal rettes ut av Norge eller ikke.
+
+[00:29:40] På grunn av grunnerenteskatten.
+
+[00:29:42] Og Movi sa vel at de håper at myndighetene lytter til.
+
+[00:29:45] Industrien i forhold til alt dette rundt grunnerenteskatten.
+
+[00:29:49] Dette gjenstår jo å se hva som blir enden på Visa.
+
+[00:29:52] Det bruker vi ikke tid på i dag.
+
+[00:29:54] Utbytte var på 1,70 kroner.
+
+[00:29:57] Alt i alt ganske nøytralt, Paul.
+
+[00:29:59] Litt tegn til at kostnadene kan bli litt lavere.
+
+[00:30:03] Som har trigget litt positive estimaterevideringer hos Alexander Aukner.
+
+[00:30:07] Som er analytikeren vår på case.
+
+[00:30:09] Ja, så vi tar estimatene litt opp.
+
+[00:30:11] Det var jo kanskje enkelte som syntes utbytte var litt lavt.
+
+[00:30:13] Men jeg tror det var helt forståelig når det er den usikkerheten rundt denne grunnerenteskatten.
+
+[00:30:20] Det var nok enkelte analytikere som kanskje ikke hadde justert det ned med tanke på akkurat den faktoren.
+
+[00:30:28] Men utover det så synes jeg det var egentlig helt greit.
+
+[00:30:31] Bra. Vår energi, der venter vi på konklusjonen fra analytikeren.
+
+[00:30:35] Men alt i alt så var i hvert fall førsteinntrykket grei til litt skuffende rapport. Var det ikke det?
+
+[00:30:41] Ok.
+
+[00:30:42] Ok. Vi har en kjøpsambefaling her og 43 kroner kursmål før rapporten.
+
+[00:30:47] Ja, så det var litt høyere kostnader, litt kanskje lavere produksjonsguiding.
+
+[00:30:52] Det er ikke sånn store endringer, men til den grad det var noe nytt, så var det kanskje litt på den svake siden.
+
+[00:30:58] Så jeg ville kalle den en slags nøytral minus, var i hvert fall mitt inntrykk.
+
+[00:31:02] Ja.
+
+[00:31:03] Jeg er ute og står med så kjapt innom.
+
+[00:31:05] Det er en av vi selv og kursmål 18 kroner.
+
+[00:31:08] Analytikeren mener rapporten var på den svake siden.
+
+[00:31:10] Rapporten var på den svake siden og venter ytterligere svekkelse i ordremomentet.
+
+[00:31:16] Så får jeg bare ta hud for at jeg er ute og står racket case.
+
+[00:31:18] Jeg føler jeg kjenner han veldig, veldig godt, men det er noe anbefalingen på.
+
+[00:31:22] Ja, så det var litt skuffende og jeg synes det er alltid litt skummelt når du har selskap som skal være som et vekstselskap
+
+[00:31:30] og de skuffer litt på nettopp vekst og orderingang.
+
+[00:31:34] For det blir jo gjerne sånn når man skal prøve å prise disse selskapene at de blir veldig sensitiv selv til selskapet.
+
+[00:31:38] Ja.
+
+[00:31:39] De blir veldig sensitiv selv til små endringer i veksttakten.
+
+[00:31:42] For det er såpass mye av verdien i selskapet da er i hva de kommer til å tjene 5-10 år frem i tid.
+
+[00:31:47] At du trenger bare å endre den veksttakten med noen få prosentpoeng de første par årene.
+
+[00:31:52] Og hvis du da ekstrapolerer det fremover over 5-10 år så plutselig så slår det veldig mye på inntjening.
+
+[00:31:58] Så det blir litt sånn med alle vekstselskap at klarer de ikke å levere på vekst så er det egentlig ikke noe god grunn til å eie de.
+
+[00:32:05] Og de har som regel ganske høye multipler og da er det stor fallhøyde hvis de skuffer.
+
+[00:32:08] Ja.
+
+[00:32:10] Sist men ikke minst så synes jeg vi må nevne Bård Drilling i dag.
+
+[00:32:15] Der har Analystimen kjøpt som befaling og kursmål 90 kroner.
+
+[00:32:19] Aksjen er vel rundt 70 når vi sitter her.
+
+[00:32:23] Og Q4-resultatene de var OK de ifølge Analystimen.
+
+[00:32:29] Men det som tegner litt sånn beskrivende bildet av ryggmarkedet synes jeg det er historien til Bård.
+
+[00:32:38] Fordi.
+
+[00:32:39] Nå har vi begynt å snakke om at utbytte kan være aktuelt om kanskje et års tid altså 4-5 kvartaler.
+
+[00:32:48] Men vi skal ikke mer enn 2-3 år tilbake på for bildet var noe helt annet med likviditetskvist og krisestemning og aksjekurs helt i kjelleren.
+
+[00:32:57] Så snakk om 180 grader snuoperasjon altså.
+
+[00:33:01] Ja det kom sånn akkurat i siste liten det der for det var jo flere sånne emisjoner for å bare egentlig holde selskapet i livet.
+
+[00:33:08] Så det var et av de selskapene som absolutt kunne ha gått konkurs hvis det ikke hadde vært noe oppsving her.
+
+[00:33:15] Så akkurat det kom helt.
+
+[00:33:18] Hvis det hadde tatt noe lengre tid så kan det godt hende at det hadde blitt konkurs.
+
+[00:33:22] Men det er egentlig veldig interessant som du sier dette med utbytte.
+
+[00:33:25] For det gir en helt annen dynamikk for prisingen i selskapet.
+
+[00:33:28] Så hvis man husker tilbake til Sidrill i sine glansdager så var det jo sånn at selskapet så jo egentlig dyrt ut i lang tid.
+
+[00:33:35] Men kursen bare gikk og gikk.
+
+[00:33:36] For de betalte ut.
+
+[00:33:37] De betalte ut store utbytter og da tiltrekker du deg mye større investorbase.
+
+[00:33:43] Og enkelt av de som investerer i sånne type selskap.
+
+[00:33:47] Da litt sånn type amerikanske retail kunder osv.
+
+[00:33:50] Skjønner kanskje ikke helt hvor syklisk denne bransjen er.
+
+[00:33:53] Og da tror de at de høye utbyttet er noe som du kan forvente i lang tid.
+
+[00:33:57] For da har du ofte kanskje kontrakter som varer i flere år.
+
+[00:34:01] Så du har egentlig ganske bra visibilitet i hvert fall 2-3 år frem i tid.
+
+[00:34:05] Og da kanskje undervurderer de litt.
+
+[00:34:07] At neste nedgangssyklus så må du egentlig forvente at da er det null utbytte igjen.
+
+[00:34:13] Men begynner du å få høyt utbytte så kan du ofte da få mye høyere pris
+
+[00:34:16] enn du egentlig skulle tro var mulig ellers.
+
+[00:34:19] Og så er vel et poeng her hvis du ser på historien til Sidril.
+
+[00:34:24] Som til en viss grad er sammenlignbart.
+
+[00:34:26] At her begynte man å prise inn utbyttene før de faktisk kom.
+
+[00:34:35] Så det er jo greit å være klar over.
+
+[00:34:37] Vi får se om det skjer noe lignende her da.
+
+[00:34:39] Ja, så Markud prøver jo alltid å se fremover i tid.
+
+[00:34:41] Og når selskapet først begynner å snakke om dette her så tror jeg det da bare er tidsspørsmål.
+
+[00:34:46] Jeg tror de må refinansiere noen forskjellige utestående gjeldseavtaler først.
+
+[00:34:54] Før de har muligheten til å betale utbytte.
+
+[00:34:56] Men jeg tror det er nok mer et tidsspørsmål og formalitet heller enn at det er noe showstopper.
+
+[00:35:01] Ja, ja men bra det. Og så får vi jo bare si da at det er jo en rekke andre selskaper
+
+[00:35:05] som har rapportert denne uken, Pål.
+
+[00:35:08] Men det var de vi rakk å ta for oss i dag.
+
+[00:35:12] Vi er kommet til veis ende nå.
+
+[00:35:14] Så tusen takk Pål for at du var med.
+
+[00:35:16] Og ikke minst tusen takk til alle dere som lytter.
+
+[00:35:20] Og liker du podcasten så vil vi veldig gjerne at du legger igjen en kommentar
+
+[00:35:25] eller gir oss en hyggelig rating.
+
+[00:35:27] Og dersom du har ønsker om gjester vi skal invitere,
+
+[00:35:30] temaer vi skal ta opp eller aksjer vi skal kommentere
+
+[00:35:33] så kan du sende oss en mail på utbyttepodden at dmb.no
+
+[00:36:11] for eventuelle investeringsbeslutninger.
+
+[00:36:13] Husk at historisk avkastning aldri er noe garanti for fremtidig avkastning.
+
+[00:36:16] Avkastningen kan bli negativ som følge av kurstapp.
+
+[00:36:19] Bruk av prognoser for å beregne fremtidig avkastning
+
+[00:36:21] er heller ingen garanti for fremtidig avkastning.
+
+[00:36:23] Innholdet i sendingen bygger på informasjon fra offentlig tilgjengelig kilder
+
+[00:36:26] som DNB ser på som politie men som ikke er uavhengig verifisert.
+
+[00:36:29] Følgelig gir DNB ingen garanti i forhold til nyaktighet og fullstendighet.
+
+[00:36:33] Alle uttalelser her reflekterer DNBs, den enkelte ansatte
+
+[00:36:36] eller andre tredjeparts vurderinger på tidspunktet for den aktuelle sendingen
+
+[00:36:39] og kan ettertid endres uten nærmere beskjed.
+
+[00:36:42] Ytterligere informasjon om blant annet kildebruk og interessekonflikter
+
+[00:36:45] er tilgjengelig på dmb.no skråstrekk invest pinsrekt disklaimer.

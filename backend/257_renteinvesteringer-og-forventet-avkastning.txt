@@ -1,0 +1,1448 @@
+Episode 257: Renteinvesteringer og forventet avkastning
+Publisert: Wed, 23 Fe
+Vert: Marius Brun Haugen
+Gjest: Svein Aage Aanes
+Varighet: 49 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/renteinvesteringer-og-forventet-avkastning
+
+--- Transkripsjon ---
+
+[00:00:00] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen global økonomien og finansmarkedene.
+
+[00:00:08] Jeg er Marius Brunhaugen fra DNB Markets, og i denne episoden skal det handle om renter og investeringsmulighetene der.
+
+[00:00:17] For som investor, hvilken avkastning kan man forvente seg fremover innen de ulike rentekategoriene?
+
+[00:00:23] Hvordan bør man posisjonere seg, og hva bør man ha vurdert før man investerer?
+
+[00:00:29] Tidligere denne uken inviterte vi DNB-kunder til et direktesendt webinar med Svein Åge Ånes, som er leder av renteforvaltningen i DNB Asset Management,
+
+[00:00:41] og Ole André Kjennerud, som er kredittstrategen her i DNB Markets.
+
+[00:00:46] Der tok de for seg disse tingene og svarte på spørsmål fra investorene som fulgte livesendingen.
+
+[00:00:51] Nå skal du få høre opptaket, så finn fram kaffekoppen, skru opp volymen og spiss ørene.
+
+[00:00:57] God fornøyelse, og takk for at du hører på Utbytte.
+
+[00:01:34] Er dette begynnelsen på en ny trend, der enten etter hvert vi drifter oppover over tid, eller er det kun et kortvarig blaff?
+
+[00:01:42] Og ikke minst, er dette noe som kun gjelder de store internasjonale økonomiene, eller er det også noe som treffer oss her hjemme i Norge?
+
+[00:01:52] Med oss i dag har vi Svein Åge Ånes, som er leder for rente- og valutaområdet i DNB Asset Management.
+
+[00:01:59] Velkommen til deg, Svein Åge.
+
+[00:02:00] Takk for det.
+
+[00:02:01] Veldig hyggelig å ha deg med.
+
+[00:02:02] Ja, det er hyggelig å være her.
+
+[00:02:04] Vi har litt ulike ting i dag, og du har jo forberedt noen temaer som skal dra oss inn om dine tanker om disse temaene her, ikke sant?
+
+[00:02:13] Ja.
+
+[00:02:14] Men før det så har jeg bare lyst til å si at det er også en spørsmålsrunde som vi kommer inn på på slutten.
+
+[00:02:21] Så gjennom hele seansen her så er det viktig at publikum stiller oss spørsmål via denne spørsmålsknappen som de har på skjermen sin.
+
+[00:02:30] Men du har jo litt å snakke om i dag.
+
+[00:02:31] Det er mye å snakke om.
+
+[00:02:33] Det har skjedd vesentlige ting, både på inflasjons- og renteområdet over de siste årene nå.
+
+[00:02:41] Og det er jo interessant da å ta en fot i bakken kanskje og se hvor vi står.
+
+[00:02:46] Det er jo to, altså det er i hvert fall to områder, eller to måter man kan vinkle dette.
+
+[00:02:51] Det ene er jo å tenke i retning av utfallsrom, altså hvilke rentenivåer kan vi vente å se.
+
+[00:02:58] Og i den forbindelse så kan det jo være interessant å ta et kikk bakover oss.
+
+[00:03:03] Se på hva som har skjedd og hva som har brakt oss til de lave rentenivåene vi nå har blitt vant til, la oss si, over de siste ti årene.
+
+[00:03:11] Så det er jo den ene biten.
+
+[00:03:13] Nå er det noe i det bildet som kan være i ferd med å forandre seg.
+
+[00:03:17] Og det er det jo kanskje.
+
+[00:03:18] Kanskje.
+
+[00:03:19] Det er jo noe av det vi skal diskutere.
+
+[00:03:22] Og så det andre elementet er jo mer den sykliske komponenten.
+
+[00:03:25] Altså hvor er man innenfor vekst, for så vidt vekst-inflasjonssykel.
+
+[00:03:32] Det er jo også...
+
+[00:03:33] Det er jo viktig for å danne seg en oppfatning av hvor i dette litt større utfallsrommet vi er,
+
+[00:03:38] og hvordan det mer korte til mellom langsiktige bilder kan se ut da.
+
+[00:03:44] Før du begynner så har jeg bare et spørsmål til deg.
+
+[00:03:46] Ja.
+
+[00:03:47] For nå vet vi jo at rentevolatiliteten, altså svingningen i rentemarkedene så langt til 2022, har vært ganske stor.
+
+[00:03:54] Ja.
+
+[00:03:55] Vi hadde jo mye volatilitet i mars 2020 altså.
+
+[00:03:58] Men før det så er det lenge siden vi har sett tilsvarende store bevegelser i rentemarkedene.
+
+[00:04:02] Korrekt.
+
+[00:04:03] Er dette noe som gjør hverdagen din vanskeligere?
+
+[00:04:06] Eller, og hvordan er det du forholder deg til den type store bevegelser sånn i det daglige?
+
+[00:04:12] Den gjør jo i hvert fall hverdagen mer interessant.
+
+[00:04:15] Det kan man i hvert fall si da.
+
+[00:04:17] Du kan si at, jeg vil jo si at i vår forvaltning så er jo rente og rentenivåer en viktig bestanddel.
+
+[00:04:23] Men jeg vil jo på mange måter si at kredit og kreditmarginer er vel så viktige.
+
+[00:04:29] Mye av vår forvaltning er jo innrettet på å...
+
+[00:04:33] etter beste evne å lage det man kan kalle effektive porteføljer da.
+
+[00:04:37] Porteføljer som har god løpende avkastning og som ruller effektivt på rentekurvene.
+
+[00:04:44] Så mye arbeid det går jo inn mot dette med kredit.
+
+[00:04:47] Men det er klart, renter og rentenivåer gir også avkastningsmuligheter.
+
+[00:04:53] Og ikke minst så gir det jo input til kundene våre da.
+
+[00:04:58] Til å gjøre ulike former for skift mellom ulike produkter og typer av porteføljer.
+
+[00:05:03] Og så er det vel kanskje ikke noe hemmelighet at med de lave rentenivåene som vi har hatt de siste årene,
+
+[00:05:10] og så de lave kreditpåslagene som vi også har hatt spesielt siden mars 2020,
+
+[00:05:14] så er det vel mange som ønsker oss at det skal komme litt opp.
+
+[00:05:18] Fordi det gir bedre beskyttelse.
+
+[00:05:20] Ja da, også er det jo selvfølgelig da et spørsmål om hvilken virksomhet du driver inn for.
+
+[00:05:25] For noen, for mange investorer, så er det jo realrentene som er viktige.
+
+[00:05:30] Det er de som skaper avkastning over tid.
+
+[00:05:32] Og i så måte så er en renteoppgang drevet av inflasjon,
+
+[00:05:36] er jo ikke noe som gir så mye bedre utsikter da.
+
+[00:05:41] Derimot for andre typer kunder, pensjonskasser og livsselskaper og sånn,
+
+[00:05:45] som har typisk for eksempel rentegarantier i nominelle termer,
+
+[00:05:50] så vil jo renteoppgang av hvilken som helst art være et gode.
+
+[00:05:54] Absolutt. Men vær så god.
+
+[00:05:57] Ja, jeg tenkte jeg skulle bare snakke litt først om dette med utfallsrommet.
+
+[00:06:01] Hvordan vi er kommet dit vi er.
+
+[00:06:04] Altså det er jo interessant å observere.
+
+[00:06:06] Hvis du ser på, la oss ta hvordan en sentralbank tenker.
+
+[00:06:10] De setter jo en styringsrente som enten da skal stramme inn eller stimulere økonomien.
+
+[00:06:17] Og når de gjør det, så tar de utgangspunkt i en eller annen oppfatning som sentralbanken har
+
+[00:06:23] om hvilken rente som er normal for økonomien, som gir en normal ressursutnyttelse.
+
+[00:06:31] Og hvis man ser på det bildet, så er det jo interessant å merke seg at vår egen sentralbank,
+
+[00:06:36] for eksempel, har jo i nyere tid, i september i fjor, så uttalte Øystein Olsen
+
+[00:06:42] at den nøytrale styringsrenten for Norge er 1,7%.
+
+[00:06:46] Hvis man sammenligner det nivået mot det man så for noen ti år siden,
+
+[00:06:51] så er det et helt annet nivå.
+
+[00:06:53] Tilsvarende for den amerikanske sentralbanken, som da sier at de oppfatter at den nøytrale styringsrenten
+
+[00:07:00] er 2,5. Så det er jo da det nivået som sentralbankene per i dag oppfatter at deres styringsrente
+
+[00:07:08] skal ligge og svinge rundt.
+
+[00:07:10] I praksis betyr det at hvis renten er lavere enn dette nivået, så virker pengepolitikken stimulerende,
+
+[00:07:15] og hvis den ligger over dette nivået, så er den innstrammende, ikke sant?
+
+[00:07:18] Korrekt. Og hvis man da ser på det litt langsiktige bildet for nominelle renter, tiårsrenter i ulike land,
+
+[00:07:28] så har det jo vært et dramatisk fall fra det vi hadde på 80-tallet via rentenivåer på sier rundt 4-6%
+
+[00:07:36] på tidlig 2000-tall, og ned mot de nivåene vi har hatt de siste snart ti årene som ligger pluss minus 2%.
+
+[00:07:45] Så et kraftig fall i nominelle lange renter. Og det bildet er jo for så vidt det samme som vi ser
+
+[00:07:52] for styringsrentene for sentralbankene, også i nominelle termer, som har gått ned,
+
+[00:07:58] de har gått kraftig ned fra 80-tallet, og som egentlig nå, og hvis man med litt sånn bred pensel,
+
+[00:08:04] så har de jo ligget lavt siden midt på 2000-tallet. Altså siden 2002, så har stort sett styringsrenten i USA
+
+[00:08:15] vært under 2% i lange perioder 0, den var oppe i 2,5, den var 5 før finanskrisen og 2,5 i 2019.
+
+[00:08:24] Tilsvarende for Norges Bank, så har jo faktisk styringsrenten i Norge,
+
+[00:08:28] så har ikke vært over 2% siden finanskrisen med unntak av en liten periode i 2011 da vi vel nådde 2,25.
+
+[00:08:36] Før vi visste at eurozonen faktisk var i problemer, så hadde vi en kort periode.
+
+[00:08:41] Riktig. Ellers hadde vi vært på 2 og under. Så kommer jeg til et spørsmål, hva er det som ligger bak det?
+
+[00:08:48] Var det det at sentralbankene grep fatt i den voldsomme inflasjonen på 70- og 80-tallet og fikk ned inflasjonen?
+
+[00:08:56] Ja, altså det var jo en viktig bidragsyter på 80-tallet og tidlig 90-tall, frem til rundt midten av 90-tallet.
+
+[00:09:03] Etter det så har jo inflasjonen faktisk vært lav og stabil inntil ganske nylig,
+
+[00:09:09] der inflasjonen har skutt opp, noe vi skal komme tilbake til.
+
+[00:09:13] Men det er jo sånn at inflasjonen for eksempel i USA har ligget rundt 2% siden 1995.
+
+[00:09:19] Så var det nok sånn i de første årene etter at man nådde 2% så stolte ikke markedet og markedsaktørene på at
+
+[00:09:26] det hadde man friskt i minne det som skjedde på 70- og 80-tallet, og man krevde sikkert en inflasjonsrisikopremie i lange renter.
+
+[00:09:34] Og så etter hvert som man da over de siste 25 årene har vendt seg til at inflasjonen ligger rundt disse 2%,
+
+[00:09:41] så har sannsynligvis den premien blitt mindre og mindre og vært med på å dra ned de lange rentene.
+
+[00:09:47] Det ble jo, i hvert fall på 2000-tallet, så ble det en slags oppfatning om at man hadde beseiret inflasjonen.
+
+[00:09:52] Inflasjonen var ikke lenger et problem.
+
+[00:09:54] Ja.
+
+[00:09:55] Vi kommer tilbake til det. Man kan jo fortsatt si at den oppfatningen er rådende selv med de tallene man ser nå.
+
+[00:10:01] Det virker jo veldig sånn.
+
+[00:10:02] Jeg kommer litt tilbake til det.
+
+[00:10:03] Hvis man da ser på hva som faktisk har drevet den største komponenten av rentenegangen de siste 20-25 årene er jo faktisk realrentene.
+
+[00:10:13] Det er realrentene som har falt med, ta den globale realrenten da, så har den falt med drøye 4% siden siste halvdelen av 90-tallet frem til nå.
+
+[00:10:23] Og de realrentene man ser nå er jo veldig tett på, lange realrenter er tett på null.
+
+[00:10:29] Så det er jo den virkelig store driveren.
+
+[00:10:32] Hva er det det betyr for folk som ikke følger dette så tett?
+
+[00:10:36] Hvis du tar en nominell rente, så delvis er det en betaling for å låne ut penger, og delvis er det en kompensasjon for inflasjon og inflasjonsrisiko.
+
+[00:10:45] Så det man kan si er at, gitt at man har hatt en oppfatning av at inflasjonen er stabil rundt 2,
+
+[00:10:51] og så har man da hatt en realrentekompensasjon, altså i reelle termer da, som har vært rundt null,
+
+[00:10:59] så henger jo det for så vidt på greip med en lang rente som har svingt rundt 2% over en relativt lang periode nå.
+
+[00:11:07] Men det er jo altså et uttrykk for at et syne på den underliggende veksten i økonomien har vært fallende og blitt etter hvert vekst.
+
+[00:11:14] Ja, altså er det en del faktorer som har vært diskutert som driverer for dette her da, sant?
+
+[00:11:18] Og da har du, altså, man kan jo si at det er en del faktorer som har vært diskutert som driverer for dette her da, sant?
+
+[00:11:21] Men skal jeg argumentere, hvis vi tar en sånn klassisk vekstmodell, så skal jo realrenten over tid være …
+
+[00:11:25] men skal jeg argumentere, hvis vi tar en sånn klassisk vekstmodell, så skal jo realrenten over tid være …
+
+[00:11:27] eller en nøytral realrente skal henge sammen med summen av veksten i arbeidsstyrken og produktivitetsveksten pluss kanskje noe som har med sparadferd å gjøre.
+
+[00:11:36] Ja.
+
+[00:11:37] Og da kan man se på de faktorene, sant, det er klart at veksten i arbeidsstyrken har kommet kraftig ned.
+
+[00:11:44] 1,5-2 prosent i vestlige økonomier på 80-tidlig 90-tall.
+
+[00:11:49] Nå har den dratt seg mot null, og for en del områder, for eksempel Tyskland, så er den negativ.
+
+[00:11:53] Så det er en betydelig endring i den potensielle veksten, eller trendveksten.
+
+[00:11:58] I tillegg har produktivitetsveksten vært veldig svak siden finanskrisen, av grunner som man ikke helt vet.
+
+[00:12:06] Men begge de faktorene har ført til at hvis du ser på estimatet for trendvekst, eller potensiell vekst,
+
+[00:12:14] i verdensøkonomien, eller i enkelte økonomier, så har den dratt seg kraftig ned fra det nivået vi hadde på 80- og 90-tallet.
+
+[00:12:21] Og det skal jo for så vidt også dra i retning av lavere realrenter.
+
+[00:12:24] Absolutt, men kanskje ikke negative realrenter?
+
+[00:12:26] Det er jo et spørsmål. Hvis du har en halv prosent vekst i produktiviteten, og minus en halv i arbeidsstyrken,
+
+[00:12:35] så er du jo tett på null.
+
+[00:12:36] Det er ikke gitt at Japan skal ha så høye realrenter, for eksempel.
+
+[00:12:40] Når du ser på en økonomi som kanskje har en tredjedel av befolkningen,
+
+[00:12:43] altså hvis du måler 2000 mot 2001, så står du igjen med en tredjedel av befolkningen der fremme.
+
+[00:12:49] Det har jo også effekter på investeringsbehovet i en økonomi.
+
+[00:12:54] Du må bygge mer hus, bygge mer veier, bygge mer infrastrukturer, når befolkningen vokser stert,
+
+[00:12:59] som i etterkrigsgenerasjonene. Når det begynner å avta, så har du litt mindre behov.
+
+[00:13:05] Så du har de faktorene som går på vekst, og så har du en del faktorer også som har vært knyttet opp mot
+
+[00:13:11] spar- og investeringsbildet.
+
+[00:13:14] Og da har du sånne forhold som økning i sparing, som delvis kommer fra store sparoverskudd i fremvoksende økonomier.
+
+[00:13:22] Stor ulikhet.
+
+[00:13:23] Og der har du usikre finansmarkeder, og pengene blir resirkulert inn i vestlige økonomier.
+
+[00:13:27] Og så har du dette med inntektsfordeling, der de som har høyere inntekt og høyere formue,
+
+[00:13:34] har en vesentlig høyere sparerate enn de som er lenger nede. Så det er to faktorer.
+
+[00:13:40] Og så har du pekt på noen faktorer som tilsier at investeringsbehovet i reelle termer har falt.
+
+[00:13:48] Så kanskje den viktigste av det er jo at prisen på kapitalvarer har sannsynligvis mer enn halvert seg siden 1980.
+
+[00:13:56] Kapitalvarer er varer. Hvis du måler det mot en prisindeks som også inneholder tjenester, så har det relative prisfaller
+
+[00:14:03] vært stort. Noe som betyr at du trenger å bruke en mindre andel av verdiskapningen til investering.
+
+[00:14:10] Så sannsynligvis har du fått mer sparing, mindre investering, lavere realrenter som klarerer det markedet.
+
+[00:14:18] Og så er det jo spørsmål da, i hvilken grad ser man nå skift i dette bildet som kan være med å snu den langsiktige trenden for realrenten?
+
+[00:14:28] Ikke sant.
+
+[00:14:29] Personlig så tror jeg jo at vi er inne for lavere realrenter en god stund til.
+
+[00:14:34] Det må jeg jo innrømme.
+
+[00:14:36] Men er det forhold som tilsier at den kanskje vil ligge høyere, tror du, enn det vi spesielt har sett de siste ti årene?
+
+[00:14:41] Det er noen tendenser. Det mest spennende her er jo om det kan oppstå store endringer som følger av pandemikrisen.
+
+[00:14:52] Da tenker jeg egentlig på økonomisk-politiske endringer, type mer proaktiv stat.
+
+[00:14:58] Stat som rykker inn og tar opp en del av investeringslekket, altså infrastruktur.
+
+[00:15:03] Styrer investeringssyklusen mer enn det vi egentlig har hatt i 20-tallet?
+
+[00:15:06] I større grad enn det vi har vært vant til. De tendensene ser man jo også.
+
+[00:15:10] Og så kan man spørre seg, har nå befolkningene rundt omkring blitt mer vant til at staten skal ta en større rolle?
+
+[00:15:17] Det blir jo en diskusjon fremover da.
+
+[00:15:20] Og så har du globalisering som også er et tema som vi vil vise.
+
+[00:15:24] Ja, globalisering tror vi i første rekke virker via inflasjonskanaler.
+
+[00:15:27] Det blir dyrere hvis alle skal produsere greiene sine selv.
+
+[00:15:31] Altså når det gjelder vekst og sammenhengen mellom vekst og realrenter,
+
+[00:15:35] så vil jeg jo nesten tro at globalisering revers på mange måter vil kunne gi lavere vekstutsikter
+
+[00:15:43] og ikke nødvendigvis høyere realrenter heller.
+
+[00:15:46] Det er ikke sikkert du får den samme lønnsomme veksten.
+
+[00:15:48] Det er i alle fall studier fra USA som viser til at globalisering har gjort at konkurransesituasjonen
+
+[00:15:53] i næringslivet har blitt betydelig redusert.
+
+[00:15:56] Du har fått en mye mer konsentrert tilbudside.
+
+[00:15:58] Og når du har færre aktører, færre dårlige aktører,
+
+[00:16:01] så blir også investeringsbehovet samlet sett for økonomien redusert.
+
+[00:16:05] Og når du da får mindre konkurranse på tvers av landegrenser,
+
+[00:16:09] så gjør det at mindre lønnsomme enheter faktisk klarer å overleve enn det vi har vært vant til,
+
+[00:16:14] spesielt på 2000-tallet.
+
+[00:16:15] Jo da, jeg ser det poenget.
+
+[00:16:17] Så du får en BNP-vekst, men det er ikke sikkert du får de samme overskuddene samlet sett i næringslivet.
+
+[00:16:23] Nei, og det vil jo da kunne, altså Jens vil jo tro,
+
+[00:16:27] altså det vil jo kunne gå på for eksempel på fordeling mellom
+
+[00:16:31] BNP på arbeidskraft og kapital, høyere lønnsvekst, lavere kapitalavkastning.
+
+[00:16:36] Jeg tror det vi i hvert fall kan bli enige om ganske fort er at globalisering i revers
+
+[00:16:40] vil sannsynligvis ikke være bra for aksjemarkedet.
+
+[00:16:43] Det tror jeg vi kan skrive noe på, ja.
+
+[00:16:45] Og så tror jeg også, så du ser spørsmålet av hvilke effekter som blir størst,
+
+[00:16:48] fordi jeg tror jo også at globalisering i revers vil gi lavere potensiellvekst og trendvekst,
+
+[00:16:56] som da i seg selv ikke er positivt for realrenter.
+
+[00:17:00] Det er litt sånn, du deriverer en funksjon og så har du to effekter,
+
+[00:17:03] og så kan du få ut det resultatet du vil.
+
+[00:17:06] Nettopp.
+
+[00:17:07] Svaret er at vi vet ikke.
+
+[00:17:09] Nei, om 20 år så får vi vite det.
+
+[00:17:11] Men vi står nok ved noen sånne veidskiller her for en del strukturelle trender,
+
+[00:17:16] at vi kanskje begynner å se nye retninger spille seg ut.
+
+[00:17:19] Ja, og jeg synes det mest interessante i den sammenhengen er jo den inflasjonsdiskusjonen
+
+[00:17:24] vi helt garantert skal ha nå etter hvert.
+
+[00:17:26] Absolutt.
+
+[00:17:27] Men bare veldig kort om det sykliske bildet.
+
+[00:17:29] Altså her vi står nå ved starten av 2022,
+
+[00:17:32] så er jo bildet som tar utgangspunkt i hva sentralbankene sier.
+
+[00:17:37] Det har en veldig sterk tendens til å være ganske overlappende med det konsensusen av økonomer sier.
+
+[00:17:42] Og bildet da er jo at det er høy vekst i 2022.
+
+[00:17:46] Nå snakker du om pluss minus fire prosent, enten du ser på USA, Europa eller Norge.
+
+[00:17:52] Og så en avtagende vekst inni 2023, 2024.
+
+[00:17:56] Og for norsk økonomi,
+
+[00:17:58] så har jo enda også Norges Banken relativt svak vekstprognoser for 2024 på 1 prosent,
+
+[00:18:05] som er godt under trendvekst.
+
+[00:18:07] Tilsvarende skal inflasjonen være høy i år.
+
+[00:18:10] Og så sier sentralbankene litt sånn som de må si,
+
+[00:18:14] at de mener at dette skal de få kontroll over,
+
+[00:18:16] og at inflasjonen i 2023 og 2024 skal være rundt disse to prosentene.
+
+[00:18:21] Og det er jo interessant,
+
+[00:18:23] for det bildet vi ser på inflasjonen er jo inflasjonstall på 5 prosent.
+
+[00:18:28] Avhengig av hvilke indikatorer du ser på da.
+
+[00:18:31] Men hvis du ser på det som sentralbankene ser på rundt omkring,
+
+[00:18:34] så i USA for eksempel, så er det rundt 5.
+
+[00:18:37] Europa er ikke fullt så høyt når du ser på den.
+
+[00:18:40] Eller kjerneinflasjonen i Europa er 2,5.
+
+[00:18:43] Men hvis du ser på totalen, så er den oppe på 5.
+
+[00:18:45] Samme som Norge, der er vi over 5 på topp, eller vi er høyt på topp.
+
+[00:18:48] Og så er vi på, siste talet var det vel 1,3 på kjerne.
+
+[00:18:51] Men det som også er fellesnevneren for særlig de to store, altså ECB og Fed,
+
+[00:18:56] er at begge to nå peker på at du har en bredde på oppgangen i inflasjonen,
+
+[00:19:00] som du tidligere ikke så under pandemien.
+
+[00:19:02] Og du har sektorer som egentlig ikke er berørt av flaskehalser i det hele tatt,
+
+[00:19:06] som nå har en unormalt høy prisvekst.
+
+[00:19:08] Og det reagerer de på ved å indikere at de skal gjøre noe med renten.
+
+[00:19:13] I USA så har man vel repriset fra å ikke vente noen renteevinger i 2022,
+
+[00:19:19] til nå hvis man holder seg til 0,25 per stykke,
+
+[00:19:23] så er det vel 6 nå kanskje for 2022.
+
+[00:19:25] Så det er en ganske kraftig reprising som da er understøttet av sentralbanken.
+
+[00:19:30] Og så sier vel de da implisitt at når vi nå reagerer på det inflasjonsbildet vi ser,
+
+[00:19:36] så tror vi fortsatt at vi skal klare å kontrollere det.
+
+[00:19:39] Og dermed så lager de da estimater som peker nedover frem mot 2023 og 2024.
+
+[00:19:45] Og igjen så er det jo sånn, hvis man ser på konsensus,
+
+[00:19:49] så er de veldig enige med sentralbanken.
+
+[00:19:52] Skal inflasjonen ta USA da?
+
+[00:19:54] Ja, den skal ligge ganske høyt i de nærmeste månedene,
+
+[00:19:58] så skal den begynne å trekke ned over sommeren,
+
+[00:20:01] frem mot et nivå ved årsslutt på pluss minus tre prosent da.
+
+[00:20:05] Så både sentralbanken og analytikerne generelt tegner opp et bilde som er preget av at alt skal gå bra?
+
+[00:20:11] Alt skal gå bra vet jeg ikke, men for at inflasjonen skal komme ned da.
+
+[00:20:17] Delvis er det en effekt av at når du kommer utover i år i år,
+
+[00:20:21] så møter du jo veldig høye inflasjonstall fra i fjor,
+
+[00:20:24] en slags baseeffekt der du må ha noen impuls gjennom mangel på riktig type arbeidskraft,
+
+[00:20:32] problemer i leverandørkjeder osv.
+
+[00:20:35] Så det er klart at når du da møter inflasjonstall fra i fjor på fire og fem prosent,
+
+[00:20:40] så er det litt vanskeligere å få inflasjonen ytterligere opp
+
+[00:20:43] enn når du i fjor møtte inflasjonstall på en halv og en etter pandemien.
+
+[00:20:48] Så du har noen sånne baseeffekter som taler for at inflasjonen skal nå ned fra din nivå,
+
+[00:20:54] men så blir det jo veldig spennende nå utover vårparten
+
+[00:20:57] å se om det faktiske inflasjonsbildet vil ligne på det som konsensus tror nå,
+
+[00:21:05] eller om det fortsatt vil ligge høyere.
+
+[00:21:08] Det man kan si i hvert fall tilbake til det vi snakket om tidligere
+
+[00:21:11] med markedets tro på sentralbankene og sånn,
+
+[00:21:15] det er jo at det man har sett av reprising av amerikansk sentralbank,
+
+[00:21:21] altså disse seks rentehevingene,
+
+[00:21:23] de har jo nå i første omgang, hvis vi ser på lengre renter,
+
+[00:21:27] så har de i første omgang slått ut i en noe høyere realrente,
+
+[00:21:31] mens derimot markedet har foreløpig i hvert fall vært villig til å si at
+
+[00:21:36] når nå sentralbanken lener seg fremover og gjør noe med dette,
+
+[00:21:40] så tror vi at de kommer til å klare det.
+
+[00:21:42] For hvis du ser på langsiktig inflasjon som faktisk er et handlet instrument i USA,
+
+[00:21:47] som man kan kjøpe og selge, så har det faktisk kommet ned en god del.
+
+[00:21:51] Og ligger på rundt en to prosent.
+
+[00:21:52] Det ligger like i overkant av to, omtrent der det pleier å ligge.
+
+[00:21:56] Så det man implicit kan lese ut av det, er at som du sa i sted,
+
+[00:22:00] ja, markedet sier at sentralbanken kommer til å heve renten,
+
+[00:22:05] vi er villige til å prise det inn i rentekurven,
+
+[00:22:07] men det at de da gjør det, og gjør disse tiltakene,
+
+[00:22:12] gjør at inflasjonen på sikt kommer til å ikke ta av,
+
+[00:22:16] og dermed så lar vi de lange rentene, om de ikke ligger i ro,
+
+[00:22:20] så i hvert fall ligge mye roligere enn de kortere rentene.
+
+[00:22:24] Det er en slags tro på at disse seks hevingene vil være nok.
+
+[00:22:28] Ja, pluss litt i 2023.
+
+[00:22:31] Ja, seks, syv, åtte hevinger til sammen.
+
+[00:22:33] Altså det man friser nå er vel at styringsrenten skal til to i USA?
+
+[00:22:36] Ja, 1,75 og 1,8 ca. på USA.
+
+[00:22:39] Ja, det har kommet litt ned de siste dagene på Russland,
+
+[00:22:41] men det var jo en to for noen dager siden.
+
+[00:22:43] Stemmelig.
+
+[00:22:44] Og så tilsvarende da, hvis du ser på dette her, så er det tilsvarende samme bilde for Norge, USA,
+
+[00:22:48] og i økende grad også for Europa og Sverige.
+
+[00:22:54] Det er jo at man nå venter at sentralbankene skal agere ganske raskt,
+
+[00:23:00] og dermed så er priset markedet renter, altså hvis du ser på rentekurven da,
+
+[00:23:06] rente fra to år, eller si 18 måneder og utover,
+
+[00:23:10] der nå er egentlig rentetoppen, så skal ikke rentene høyere opp.
+
+[00:23:15] I Norge så er det prisets marked en styringsmarked,
+
+[00:23:18] fremtidsrente på rundt to, det var en litt bred pensel,
+
+[00:23:21] kan godt sikkert legge på noen tider eller der,
+
+[00:23:23] men når du når det nivået som man da når om 15-18 måneder, så stopper det.
+
+[00:23:30] Jeg synes jo det er interessant å se, som du viser her, disse fremtidsrentene som da topper ut på nivåer
+
+[00:23:38] som er ganske sammenlignbare med det vi har sett de siste ti årene.
+
+[00:23:41] Det er riktig.
+
+[00:23:42] Men så har du da, i hvert fall for tiden, et mye bedre momentum i økonomien,
+
+[00:23:47] et kjempesterk vekst i økonomien.
+
+[00:23:49] Men igjen da, i 2022, så tror man da at det momentumet skal avta i 2023 og 2024.
+
+[00:23:56] Så man kan jo stille seg spørsmål, si at Norges Bank da,
+
+[00:23:59] hvis du ser på hva Norges Bank, altså nå ligger jo de to prosentene priset inne i rentene,
+
+[00:24:05] så rente med to, tre, fire, fem års løpetid som typisk går inn i vår obligasjonsfond,
+
+[00:24:11] de har den renteoppgangen priset inn.
+
+[00:24:14] Og så er jo spørsmålet da,
+
+[00:24:17] la oss si, ta et tankeeksperiment.
+
+[00:24:19] Norges Bank, det fine med økonomi er at ingen vet,
+
+[00:24:24] så alle oppfatninger er valide og gyldige.
+
+[00:24:27] Dette er en meget upresis vitenskap.
+
+[00:24:29] Men la oss ta det som utgangspunktet at Norges Bank har rett i sine vekstprognoser.
+
+[00:24:34] Veksten i år blir opp under fire, neste år blir to, kanskje.
+
+[00:24:39] Kanskje blir det, altså, ja, jeg glemte det.
+
+[00:24:41] Men jeg sier rundt to, og så en i 2024.
+
+[00:24:44] Hvis de da har hevet renten med,
+
+[00:24:46] det prises nå seks rentehevinger på de neste fem møtene,
+
+[00:24:49] hvis man bare tar hovedmøter,
+
+[00:24:51] da har du nådd dette nivået på to.
+
+[00:24:54] Og da er vi også, hvis de gjør dette på de fem møtene,
+
+[00:24:57] så er vi jo ute på vårparten frem mot sommeren 2023.
+
+[00:25:01] Hvis du da står der, og Norges Bank fortsatt tror at veksten i 2024 er 1%,
+
+[00:25:08] vil det da være opportunt å nødvendigvis dra til så mye mer?
+
+[00:25:13] Det er jo det spørsmålet vi stiller oss.
+
+[00:25:15] Og derfor har vi også i porteføljene våre,
+
+[00:25:18] og egentlig har sagt at vi tror egentlig faktisk at det begynner å bli ganske bra priset
+
+[00:25:23] ved denne sykehjelmen til Norges Bank.
+
+[00:25:26] Men det gjenstår jo å se da.
+
+[00:25:28] Men vi har i hvert fall vært villige til å,
+
+[00:25:30] vi har økt renterisikoen noe,
+
+[00:25:32] men vi har ikke valgt å gjøre det vi kaller å gå lang renterisiko eller durasjon,
+
+[00:25:36] for det har vært såpass mye moment i rentene hittil i år.
+
+[00:25:40] Men det er jo noe vi kanskje må vurdere da.
+
+[00:25:44] Men vi har lyst å se litt grann rundt dette inflasjonsbildet i USA spesielt da.
+
+[00:25:50] For det er jo klart at USA er jo veldig retningsgivende for renter overalt.
+
+[00:25:55] Definitivt.
+
+[00:25:56] Du ser jo nesten at norske og amerikanske lange renter de går som hånd i handsken.
+
+[00:26:01] Ja, for lange renter så har de ligget smekk oppe over andre siden pandemikrisen.
+
+[00:26:07] Det er klart den kortere delen av den norske rentekurven har jo mye større innslag av Norges Bank,
+
+[00:26:13] sær-norske forhold da.
+
+[00:26:16] Men skal jo det sies at det har jo vært ganske brukbar sammenheng eller korrelasjon der også de siste ti årene da.
+
+[00:26:24] Ja, nettopp.
+
+[00:26:25] Så det er klart at skjer det noe stort med hele renteregime globalt, så kan det jo være noe vi også får smake på da.
+
+[00:26:34] Det er ikke umulig.
+
+[00:26:36] Skal vi hoppe over til spørsmål?
+
+[00:26:37] La oss gjøre det.
+
+[00:26:38] Det tror jeg er kommet igjen en del, skjønner du.
+
+[00:26:41] Vi begynner på toppen.
+
+[00:26:42] På kort sikt synes alle å være enige om at vi får en kraftig renteøkning.
+
+[00:26:48] Og at vi nå er midt inne i den.
+
+[00:26:51] Vil dette vedvare?
+
+[00:26:54] Skal du prøve det?
+
+[00:26:55] Ja, jeg kan prøve meg.
+
+[00:26:56] Altså ja, det kommer jo til å komme på hva man mener.
+
+[00:26:59] Vi er jo, det er jo veldig, veldig sannsynlig nå at vi får, la oss si i hvert fall 4-5 renteøkninger fra, ta Norges Bank da.
+
+[00:27:09] Ja.
+
+[00:27:10] Veldig mye tyder på at denne historien om,
+
+[00:27:13] høy vekst i 2022 kommer til å spille seg ut.
+
+[00:27:16] Det er fortsatt gjeninnhentingsmomentum.
+
+[00:27:19] Så liksom at vi gjennom dette året kommer til å se et jevnt trykk med rentehevinger.
+
+[00:27:24] Både fra Fed i USA og fra Norges Bank virker veldig sannsynlig.
+
+[00:27:29] Ja.
+
+[00:27:30] Og så blir jo, klart jo lenger man går frem i tid, jo mer usikker blir verden.
+
+[00:27:34] Sånn at det er stadig vekk at vi blir overrasket over ting vi ikke har sett.
+
+[00:27:38] Og det er klart når, si når norsk styringsrente kommer til 1,5-1,75,
+
+[00:27:43] som jeg tror vi i hvert fall kommer,
+
+[00:27:46] så blir det jo et spørsmål hvor da har det skjedd noe i global økonomi,
+
+[00:27:51] hvordan har norsk økonomi, norske husholdninger håndtert de renteøkningene.
+
+[00:27:55] Det er fremdeles mulig at rentehevingssykelen stopper på 1,5.
+
+[00:28:00] Det er også mulig at den går til 2,5.
+
+[00:28:02] Jeg tror bare ikke at den skal til, si 3,5-4.
+
+[00:28:06] Sånn at det er derfor vi har gjort det som vi har gjort,
+
+[00:28:08] å si at de to prosentene som er priset inn nå,
+
+[00:28:11] det synes vi er ganske mye.
+
+[00:28:12] Det synes vi er ganske fair.
+
+[00:28:14] Det er fornuftig gitt de anslagene vi fortsatt opererer med.
+
+[00:28:16] Også må man heller tilpasse seg på nytt,
+
+[00:28:18] hvis vi får ny informasjon som indikerer at det blir sterkere eller svakere enn det.
+
+[00:28:23] Lundsoppgjør og så andre ting som slår inn her som vil kunne endre bildet fremover.
+
+[00:28:28] Men det er jo interessant sånn som de kommentarene vi fikk fra Øystein Olsen i forrige uke var det vel,
+
+[00:28:33] hvor han personlig da mener at vi nå kanskje er inne i en ny fase for inflasjon.
+
+[00:28:40] At man kanskje må forberede seg på,
+
+[00:28:43] og da også helt andre rentenivåer enn det vi særlig har vært vant til på 2000-tallet.
+
+[00:28:47] Og du ser jo også flere og flere i sentralbankverdenen som argumenterer på denne måten her.
+
+[00:28:53] Sist Philip Lane fra SEB også som sa at
+
+[00:28:56] «Nei, vi har hele tiden trodd at inflasjonen ikke vil komme opp til 2 prosent».
+
+[00:29:00] Det har vært SEB sitt mantra hele tiden SEB ble skapt på en måte.
+
+[00:29:04] Og nå sier han at «Nå tror vi egentlig ikke at vi kommer ned til 2 prosent på kjerneinflasjon».
+
+[00:29:09] Ja.
+
+[00:29:10] Det er absolutt en veldig interessant utvikling.
+
+[00:29:14] Og spesielt hvis det vedvarer over tid,
+
+[00:29:18] så vil vi jo kunne se en litt annen modell der vi kanskje vil,
+
+[00:29:22] altså i stedet for å se 1,7 som nøytral rente i Norge,
+
+[00:29:26] så er det kanskje 2,5.
+
+[00:29:28] Men igjen så tror jeg ikke vi skal tilbake til 5.
+
+[00:29:30] Nei.
+
+[00:29:31] Når vi snakker om dette med utfallsrom da.
+
+[00:29:33] Nettopp, nettopp.
+
+[00:29:34] Vil inflasjonen kunne bite seg fast?
+
+[00:29:37] Eller hva skal til for at inflasjonen biter seg fast?
+
+[00:29:39] Eller tror du at dette blir midlertidlig eller transitory som sentralbankene til nå har hevet?
+
+[00:29:47] Altså det som skal til for at inflasjonen biter seg fast,
+
+[00:29:50] altså det er jo i hvert fall min oppfatning,
+
+[00:29:52] det er jo at man får en spiral der inflasjonen går opp,
+
+[00:29:58] arbeidstagere er i stand til å få fullt utkompensert for det,
+
+[00:30:02] og kanskje litt til hvis tiden er gode,
+
+[00:30:04] som da gir en høy lønnsvekst,
+
+[00:30:06] som igjen forplanter seg i,
+
+[00:30:08] inflasjon,
+
+[00:30:10] som da igjen går inn i lønnen.
+
+[00:30:12] Og så er det jo den som man snakker mye om,
+
+[00:30:14] lønnsprisvekstspiral.
+
+[00:30:16] Ikke sant.
+
+[00:30:17] Og det er vel nesten det eneste som kan holde liv i langvarig inflasjon,
+
+[00:30:21] sånn at alle andre typer sjokk,
+
+[00:30:23] enten det er oljepris, energipris, strømpriser,
+
+[00:30:26] valutasvingninger, alt det er midlertidig.
+
+[00:30:30] Jeg vil si det er to ting, det ene er det som du sier,
+
+[00:30:32] altså lønningene stiger mer enn produktivitetsveksten i økonomien,
+
+[00:30:35] og hvis det er veldig kraftig lønnsvekst,
+
+[00:30:37] så må det på et eller annet tidspunkt tyte ut til høyere konsumpriser.
+
+[00:30:40] Det andre er jo også problemet som vi hadde på 70-tallet,
+
+[00:30:43] at rentemarkedene var regulerte.
+
+[00:30:45] Så gjennomslaget fra endringer i pengepolitikken,
+
+[00:30:48] til økonomien, var veldig begrenset.
+
+[00:30:50] Ja, og det er vel,
+
+[00:30:53] ja ja, man vet aldri, men det er kanskje mindre sannsynlige scenarier
+
+[00:30:56] på mellomlange sikt da.
+
+[00:30:58] Det er sånne type forhold som kan bidra til det.
+
+[00:31:01] Det man trenger for å få inflasjon som biter seg ordentlig fast,
+
+[00:31:04] er jo da som du sier, jeg er helt enig,
+
+[00:31:06] det er prisvekst som ligger over produktivitetsveksten.
+
+[00:31:10] Da får du renter opp,
+
+[00:31:13] og så kan man jo da diskutere hva som bør skje med aksjer i et sånt scenario.
+
+[00:31:18] Det skal ikke være et positivt fortegn.
+
+[00:31:21] Nei, normalt så ville jeg ikke tenkt det.
+
+[00:31:23] Hvis denne 40 år lange pendelen med stadig økende kapitalavkastning,
+
+[00:31:28] eller kapitalandel av BNP,
+
+[00:31:31] hvis den skulle begynne å snu,
+
+[00:31:33] så er jo ikke det så bra for aksjemarkedet.
+
+[00:31:36] Og det henger jo igjen da sammen med inflasjonsbildet.
+
+[00:31:39] Og så er det jo en erfaring som jeg synes er viktig å huske på,
+
+[00:31:43] men jeg synes få poengterer det.
+
+[00:31:45] Høy inflasjon gir typisk veldig mye marginvolatilitet for bedrifter.
+
+[00:31:49] Og med marginvolatilitet,
+
+[00:31:51] så skal man også ha en høyere risikopremie i markedet.
+
+[00:31:54] Så det er ikke bare den rente-effekten som gjør at prisingen i aksjemarkedet
+
+[00:31:57] kanskje blir annerledes enn det vi har i dag,
+
+[00:31:59] men det er også det at inflasjon underliggende er negativt i de fleste bransjer.
+
+[00:32:04] Men det vi også kan få noe i,
+
+[00:32:06] hvis det blir sånn at du får starten på en lønnsprisspiral,
+
+[00:32:10] så er jo det for så vidt en mekanikk eller dynamikk som sentralbanket kjenner,
+
+[00:32:16] og som det egentlig er.
+
+[00:32:18] De har jo hatt mange utfordringer de siste ti årene
+
+[00:32:20] som de ikke har instrumentet for å løse.
+
+[00:32:23] Men dette er jo faktisk en utfordring som de har et instrument for å løse,
+
+[00:32:26] i prinsippet.
+
+[00:32:28] Nemlig å heve renten, bremse økonomien, få opp arbeidsledigheten,
+
+[00:32:32] få ned lønnspresset.
+
+[00:32:34] Så spørsmålet er om de har en politisk...
+
+[00:32:36] Jeg vil jo faktisk tro at inflasjonen...
+
+[00:32:38] Det tror jeg er noe av grunnen til at markedet ikke sender den lange inflasjonen så mye opp.
+
+[00:32:42] Det er nok fordi de tror at...
+
+[00:32:44] Per i dag så tror de at sentralbanket vil gjøre det som skal til.
+
+[00:32:47] Det vil si heve renten enda mer enn det som nå ligger i kurven,
+
+[00:32:52] en viss signal om at inflasjonen begynner å bite seg fast.
+
+[00:32:55] Så må i hvert fall de korte rentene enda mer opp.
+
+[00:32:58] Men da kan du fremdeles ha lange renter som stiger mye mindre.
+
+[00:33:02] Og du kan til og med ha rentekurver som...
+
+[00:33:04] Som inverterer, som vi kaller det.
+
+[00:33:07] Der de lange rentene blir lavere enn de korte rentene.
+
+[00:33:11] Det er egentlig gul å tro det.
+
+[00:33:13] For det er det man begynner å prise da.
+
+[00:33:15] Du begynner å prise sentralbankerenten i USA til 4.
+
+[00:33:18] Men så begynner også markedet å vente at det kommer til å føre til en resesjon.
+
+[00:33:22] Da stiger ikke de lange rentene så mye, og da kommer det rentekutt igjen.
+
+[00:33:26] Og så har du det gående.
+
+[00:33:28] Vi går videre, og dette er noe som jeg liker å snakke om.
+
+[00:33:33] Er dere enige i dette synet basert på slik markedet ser ut nå?
+
+[00:33:40] Og så er det tre påstander.
+
+[00:33:42] Er dere rimelig sikre på høyere renter på kort sikt?
+
+[00:33:46] Og det kan vi vel si at vi er.
+
+[00:33:48] Vi er rimelig sikre på det.
+
+[00:33:50] I hvert fall at vi skal følge den banen.
+
+[00:33:52] Så det er spørsmålet om vi har noen renter.
+
+[00:33:54] Er det priset inn at den styringsrenten skal opp?
+
+[00:33:57] Det betyr ikke at den treårsrente skal opp, nødvendigvis.
+
+[00:34:01] Men ja.
+
+[00:34:02] Påstand to.
+
+[00:34:03] Er dere rimelig sikre på press mot lavere renter på lang sikt?
+
+[00:34:08] Det vet jeg ikke.
+
+[00:34:10] Og det er det jeg synes er så fint, for du er jo inne på det.
+
+[00:34:13] Økonomi er ikke en vitenskap.
+
+[00:34:15] Det er gjetning.
+
+[00:34:16] Og jeg føler at desto lenger ute i tid du går, desto vanskeligere er det å være sikker på noe som helst.
+
+[00:34:20] Så jeg pleier å si at jeg egentlig ikke har peiling på noen ting.
+
+[00:34:23] Ja, men det er det vi er veldig enige om.
+
+[00:34:25] Vi har en disclaimer om alle presentasjonene våre.
+
+[00:34:27] Men jeg pleier ofte å innlede med at ingen bør høre alt for nøye på det vi sier.
+
+[00:34:31] Vi prøver å fortelle gode historier, og så har vi jo tro på det vi sier.
+
+[00:34:36] Men realiteten er jo at vi ikke helt ...
+
+[00:34:40] Hverken vi eller de som skal styre sentralbanker, de er åpne på at de ikke vet.
+
+[00:34:44] De gjør sitt beste innenfor en usikker verden.
+
+[00:34:47] Sånn er det jo.
+
+[00:34:49] Men det er det som er så viktig.
+
+[00:34:51] Når du får ny informasjon, så tilpasser du det.
+
+[00:34:54] Det er ikke sånn at man velger i dag hvordan man skal opptre innenfor de neste to årene.
+
+[00:34:58] Det er en dynamisk prosess.
+
+[00:34:59] Helt korrekt.
+
+[00:35:00] Og hvis spørsmålet var om vi er sikre på lavere renter på sikt,
+
+[00:35:05] så er mitt svar på det nei.
+
+[00:35:07] Men jeg må jo også innrømme at jeg er jo i den gruppen som fortsatt tror at vi er inne i en eller annen form for lavrenteregime,
+
+[00:35:15] hvis vi sammenligner med det for eksempel vi hadde på 90-tallet.
+
+[00:35:19] Og det er også den diskusjonen rundt utfallsrom.
+
+[00:35:22] Jeg tror jo for eksempel ikke at vi skal ha styringsrenteregime på fem prosent i USA,
+
+[00:35:28] som vi hadde i 2007-2008 før det sprakk.
+
+[00:35:33] Jeg tror faktisk også at realrentene, på grunn av en del sånne tunge drivere,
+
+[00:35:40] der kanskje demografi er en av de aller viktigste, skal ligge relativt lavt.
+
+[00:35:45] Og så kan vi alltid diskutere hva er lavt.
+
+[00:35:48] Og det er klart at de siste ti årene nå, og ikke minst de aller siste,
+
+[00:35:53] hvis du ser på liksom, vi har jo nesten et tiår bak oss,
+
+[00:35:56] der styringsrentene i USA har ligget på null.
+
+[00:35:59] Avbruttet av en oppgang til 2,5.
+
+[00:36:02] At det skal være så lavt, det er jeg veldig lite sikker på.
+
+[00:36:08] Et spørsmål som går kun til deg her.
+
+[00:36:11] Deres fond, DNB Aktiv Rente, er vel per dags dato ned ca. med 0,69% hittil i 2022.
+
+[00:36:19] Ut fra det dere i dag snakker om, hva vil dere tro blir avkastningen i dette fondet
+
+[00:36:25] ved årets slutt, før du predikerer det?
+
+[00:36:28] Ja, det må jeg gå tilbake til disclaimeren om da.
+
+[00:36:32] Men la oss gjøre et forsøk da.
+
+[00:36:35] Løpende rente, eller yield i det produktet der, er ca. eller i aktiv rente,
+
+[00:36:40] er rundt 3,3 nå.
+
+[00:36:42] Det betyr at med uendret renter og kreditmarginer,
+
+[00:36:46] så ruller det inn mellom 25 og 30 punkter i måneden.
+
+[00:36:51] Det er ti måneder igjen av året.
+
+[00:36:53] Så hvis ting ikke endrer seg veldig mye,
+
+[00:36:56] og vi har jo allerede snakket om at vi tror mye priset inn i rentene,
+
+[00:36:59] så da la oss si at det havner rundt 2% ved årslutt positiv avkastning.
+
+[00:37:07] Ok, bra.
+
+[00:37:09] Jeg er investert i DNB High Yield.
+
+[00:37:12] Hva ser dere for å dra utviklingen i dette markedet fremover?
+
+[00:37:15] I High Yield er det egentlig bare en risikokomponent.
+
+[00:37:19] Fordi High Yield er jo et produkt med veldig kort eller lite renterisiko,
+
+[00:37:23] så det blir veldig lite påvirket av rentebevegelser.
+
+[00:37:28] Det er kreditmarginer, High Yield kreditmarginer som teller.
+
+[00:37:32] Vi kan ta samme argument der da, eller prøve samme argumentasjonsrekke.
+
+[00:37:36] Der er Yield-området oppe under 7% nå.
+
+[00:37:40] Det må vi alltid trekke fra litt for tap i et sånt produkt.
+
+[00:37:45] Så la oss trekke fra 1%, så er du på 6%.
+
+[00:37:48] Renteutviklingen spiller veldig liten rolle,
+
+[00:37:51] men så er det kreditmarginer da.
+
+[00:37:53] Og i det produktet så er det sånn at for hver 1% kreditmarginutgang,
+
+[00:37:59] altså økning i kreditmarginer, så taper det produktet ca 2,5%.
+
+[00:38:05] Sånn at hvis vi lager et lite bånd for avkastningen da,
+
+[00:38:09] hvis alt blir liggende i ro og ikke veldig mye skjer med kreditmarginer,
+
+[00:38:13] så bør det havne i området rundt 6.
+
+[00:38:16] Så la oss ta høyde for litt, altså på nedsiden ta høyde for en del kreditmarginutgang.
+
+[00:38:21] Si 3, altså 3 som nedre grense, og så opp øvre grense.
+
+[00:38:27] Kreditmarginene er jo ikke veldig høye, så det er ikke veldig mye der,
+
+[00:38:30] men si at du kan komme til 7, 7,5 i en veldig god verden nå.
+
+[00:38:33] Si mellom 3 og 7.
+
+[00:38:35] Og så må vi da legge på disclaimeren at high yield er et produkt som kan svinge,
+
+[00:38:41] sånn at hvis det blir ordentlig urolig og kreditmarginene går ut 400 punkter,
+
+[00:38:47] så faller jo produktet umiddelbart 10%,
+
+[00:38:50] og så tar det noe tid før det henter seg inn.
+
+[00:38:53] Riktig.
+
+[00:38:54] Hvis det smelter i Ukraina, vil det påvirke rentene?
+
+[00:38:57] Ja, hvis det smelter ordentlig.
+
+[00:38:59] Vi så jo et lite eksempel, vi har jo sett det litt i det siste nå når det har vært ordtreffninger,
+
+[00:39:04] så går jo renter litt opp og ned.
+
+[00:39:06] Vi så for så vidt i går at når man erklærte disse provinsene som uavhengige eller stater,
+
+[00:39:15] Mann som i Putin?
+
+[00:39:17] Mann ja, som i Putin.
+
+[00:39:19] Og for så vidt også sendte inn soldater, så falt jo rentene litt, men det var egentlig veldig moderat.
+
+[00:39:24] Så det påvirker litt, men det vil ikke påvirke på sikt.
+
+[00:39:28] Nei, fordi er det sånn at Fed for eksempel vil operere med et alt normalt rentenivå som følger av denne konflikten?
+
+[00:39:35] I hvert fall erfaringen fra tidligere er at kriger ikke påvirker sentralmarkedet.
+
+[00:39:38] Nei, jeg synes jo det er litt sånn uheldig, siden dette er store begivenheter, så er det litt uheldig av og til å måtte si at det mest sannsynlige er at finansmarkedene ikke blir påvirket av det neste.
+
+[00:39:49] Da skal det utvikle seg til noe ...
+
+[00:39:52] En verdenskrig?
+
+[00:39:54] Ja, eller europeisk. Altså det skal utvikle seg til noe ordentlig, sånn at det ...
+
+[00:39:59] Svaret mitt var litt dårlig. Det påvirker innenfor noen dager eller en uke, men det påvirker ikke nivåer eller utviklingen på litt sikt.
+
+[00:40:08] Trendene og siktemålet er egentlig uendret, og så har det litt effekter på likviditeten i markedene underveis.
+
+[00:40:15] Det var min tolkning.
+
+[00:40:17] Hvilke deler av rentemarkedene ser dere muligheter i dag?
+
+[00:40:22] Ja, jeg har jo vært litt inne på det. Vi har snakket om dette med at renter var begynt, sånn som vi ser det i hvert fall, å bli ganske ferpriset.
+
+[00:40:35] Så vi tror jo egentlig at produkter med litt renterisiko i seg kan gi en mulighet nå.
+
+[00:40:43] Jeg vil jo også benytte anledningen til å legge på det poenget.
+
+[00:40:46] Jeg oppfatter jo at norske investorer generelt er altfor redde for renterisiko.
+
+[00:40:52] For langsiktige investorer så er det ikke sånn at renterisiko er din fiende, det er faktisk din venn.
+
+[00:40:59] For det er faktisk, akkurat som alle andre risikokomponenter, så er det noe som er med på å øke forventet avkastning.
+
+[00:41:08] Men da kostnaden ved det er økte svingninger eller økt volatilitet.
+
+[00:41:13] Så jeg tror jo de produktene ...
+
+[00:41:15] De produktene, altså type obligasjonsfond, aktiv rente er et bra produkt.
+
+[00:41:20] Også fordi at dette med kreditmarginer som vi var inne på, altså det er jo sånn nå at hvis du ser på ...
+
+[00:41:27] La oss ta en femårig norsk bank da, en stor kyst på sparebanken vest fra mitt område eller noe sånt.
+
+[00:41:35] Der får du ca. 0,9-1% høyere avkastning enn stat.
+
+[00:41:42] Nå er kreditmarginene omtrent på gjennomsnitt av det vi har sett siden de siste snart ti årene.
+
+[00:41:50] Så de har allerede kommet ut en del.
+
+[00:41:52] Hvis du da har 0,9-1% høyere løpende avkastning, så tåler du faktisk at de kreditmarginene stiger med 20 punkter til på ett års horisont før du kommer i break even mot stat.
+
+[00:42:07] Så vi oppfatter jo at selv om kredit er jo på ingen måte billig nå.
+
+[00:42:11] Men kredit begynner å bli ganske ferdpriset.
+
+[00:42:15] Det tar ikke høyde for en pandemi, det tar ikke høyde for en finanskrise.
+
+[00:42:21] Men det begynner å nærme seg, vi er ikke helt der enda, men det begynner å nærme seg mer en sånn standard kredittsykel.
+
+[00:42:30] Det er det typiske, som vi så i 2018 for eksempel, der det begynner å bli litt vekstfrykt.
+
+[00:42:39] Ja.
+
+[00:42:40] Akselmarkedet har jo falt kanskje mellom 5-10% nå, kreditmarginene har kommet litt ut.
+
+[00:42:49] Vi er ikke der at vi selger kredit nå, vi er forsiktig med å kjøpe mer.
+
+[00:42:53] Men vi er ikke der at vi selger, fordi at for at det skal lønne seg, så må du ha en ganske kraftig spread-utgang faktisk.
+
+[00:43:01] Hvis du ser på dette med en viss investeringshorisont.
+
+[00:43:04] Så jeg tror kredittobligasjonsprodukter kan gå bra.
+
+[00:43:08] Så tror jeg jo at gitt de vekstutsiktene og sånn vi har for 2022, både hjemme og ute, så tror jeg jo at high yield kan komme igjennom 2022 hvertfall på en ok måte også.
+
+[00:43:21] Ja, det tror jeg altså.
+
+[00:43:24] Først og fremst spesifikt i fondet deres igjen, skriver jeg at det minorlige investment grade har falt 0,8% hittil i år. Hvorfor?
+
+[00:43:32] Med dagens syn på renteutviklingen.
+
+[00:43:35] Tilsi at rentedurasjonen i fondene nå øker.
+
+[00:43:38] Så hva med kreditturasjonen?
+
+[00:43:40] Så hvorfor negativ avkastning? Hvordan tilpasser du det med rentedurasjonen og kreditturasjonen?
+
+[00:43:44] Vi har jo relativt kort durasjon på det produktet.
+
+[00:43:48] Det skal ligge mellom 0 og 2 år.
+
+[00:43:50] Sånn at renteoppgangen har nok gjort litt.
+
+[00:43:54] Men hovedelementet der er kredittmarginen.
+
+[00:43:58] Og da er vi tilbake til denne diskusjonen fra i sted.
+
+[00:44:01] Det er klart at med litt sånn Ukraina-uroligheter, så kan kredittmarginene gå enda litt mer utover.
+
+[00:44:07] På kort sikt.
+
+[00:44:09] Men samtidig er vi kommet til nivåer nå som er sånn at hvis dette roer seg.
+
+[00:44:15] Og det vi snakket om i sted.
+
+[00:44:17] Vi har rett der at dette ikke har noen langvarige effekter på markedene.
+
+[00:44:22] Det som skjer i Ukraina.
+
+[00:44:24] Så er vi også på nivåer der kredittmarginene fort kan komme litt inn igjen.
+
+[00:44:28] Hvis dette roer seg ned.
+
+[00:44:30] Så vi tror vel egentlig at kredittmarginbildet også begynner å bli ganske ordentlig.
+
+[00:44:35] Vi tror vel egentlig at kredittmarginbildet også begynner å bli ganske ordentlig.
+
+[00:44:37] Det er ok med de bevegelsene vi hatt i januar og februar.
+
+[00:44:41] Skal vi se her.
+
+[00:44:43] Har rentefondene deres undervektet durasjon i en lang periode?
+
+[00:44:47] Og hvordan angriper dere dette når rentene er på full fart opp?
+
+[00:44:51] Med tanke på kjøpet av fast renteobligasjoner.
+
+[00:44:54] Ja, det er helt riktig.
+
+[00:44:55] Fondene våre har jo ligget undervektet durasjonen en god stund.
+
+[00:44:58] Og så har vi økt durasjonen fra undervekt opp mot nøytral gjennom 2021.
+
+[00:45:06] Det var på plass før årsskiftet.
+
+[00:45:08] Så vi har ikke tjent noe ved å være i kort durasjon i 2022.
+
+[00:45:12] Da har vi vært ganske nøytral.
+
+[00:45:14] Og vi har gjort det delvis ved å kjøpe fast renteobligasjoner.
+
+[00:45:18] Men også delvis ved å bruke rentederivater.
+
+[00:45:21] Og de rentederivaterne er da plassert på den delen av kurven som vi mener er relativt ok eller bra priset nå.
+
+[00:45:33] Det rekker et spørsmål til før vi gir oss her, tenker jeg.
+
+[00:45:36] Når Fed reduserer sin balanse ved å selge langeobligasjoner,
+
+[00:45:40] og der vil jeg bare poengtere at de selger jo ikke, de skal la det rulle av.
+
+[00:45:44] Vil da norske lange renter stige tilsvarende som i USA?
+
+[00:45:49] Og da kan man jo først si, vil amerikanske lange renter stige?
+
+[00:45:53] Tvodels spørsmål.
+
+[00:45:54] Vil amerikanske lange renter stige på det?
+
+[00:45:57] Og det er jo en av de tingene vi ikke vet.
+
+[00:45:59] Det eneste vi vet om det er jo at alle vet at Fed skal gjøre dette.
+
+[00:46:04] Sånn at i prinsippet da, hvis man tenker et marked som skal være fremoverskuende,
+
+[00:46:09] så burde jo markedet allerede ha reagert på det ved å sende de lange rentene opp.
+
+[00:46:14] Og så vet vi jo også det at det av og til er forskjell mellom det som burde skje i,
+
+[00:46:18] kall det teorien, og det som skjer på bakken når det faktisk skjer.
+
+[00:46:22] Men det skal jo også nevnes her da, at når Fed gjør dette, så er det parallelt med det,
+
+[00:46:29] så skjer det jo også en annen ting i USA, og det er jo at statens opplåning,
+
+[00:46:33] faller kraftig.
+
+[00:46:36] USA hadde vel et budsjettunderskudd i andel av BNP på rundt 15-16%.
+
+[00:46:43] Rekordstort siden 2. verdenskrig.
+
+[00:46:45] Ja, 15-16% i 2021 og 2020, og så skal det ned nå til 7-8%.
+
+[00:46:51] Og det fjerner jo faktisk, altså det er jo en motvirkende effekt da,
+
+[00:46:57] at når Fed, som du sier, ikke selger, men lar obligasjonene gå til forfall
+
+[00:47:02] og ikke reinvesterer kuponger eller rentebetalinger,
+
+[00:47:06] så blir jo det langt på vei motvirket av en stat som låner mindre penger.
+
+[00:47:13] Så vi har vel ikke svaret på det heller, har vi det Ole?
+
+[00:47:16] Nei, vi har ikke det.
+
+[00:47:17] Det eneste vi vet er at dette er blant de bedre kommuniserte,
+
+[00:47:21] altså det er jo veldig grundig kommunisert.
+
+[00:47:24] Alle bør kjenne til, eller alle som driver i denne bransjen vet det.
+
+[00:47:28] Så det burde jo da i teorien ikke ha noen stor effekt.
+
+[00:47:31] Men når det er sagt, hvis amerikanske renter stiger på det,
+
+[00:47:35] så følger nok de norske med.
+
+[00:47:37] Det tror jeg altså.
+
+[00:47:38] Siste spørsmålet i dag, før vi avslutter hele sendingen.
+
+[00:47:42] Det var vel Kjersti Haugland som sa at rentevåpnet er skarpt.
+
+[00:47:46] Og det er jeg helt enig i.
+
+[00:47:48] Hvor høye renter tåler egentlig økonomien?
+
+[00:47:51] Og da tror jeg hun stikter til norsk økonomi.
+
+[00:47:55] Det er et veldig godt spørsmål, fordi det er åpenbart at norsk økonomi,
+
+[00:48:00] eller for meg er det i hvert fall ganske åpenbart,
+
+[00:48:02] at norsk økonomi er mer rentefølsom nå,
+
+[00:48:05] enn den var for ett, to, ti år siden.
+
+[00:48:08] Og tenk også på det hele formålet med å heve renten,
+
+[00:48:15] er jo til en viss grad å bremse oppgangen.
+
+[00:48:18] Det er jo noe av målsetningen med å heve renten,
+
+[00:48:22] selv om Norges Bank har beskrevet det som en normalisering og sånn,
+
+[00:48:26] så er det jo også en frykt for at norsk økonomi,
+
+[00:48:30] skal spinne ut av kontroll på oppsiden.
+
+[00:48:33] Dette synes jeg er et veldig godt spørsmål, som jeg ikke har svar på.
+
+[00:48:38] Jeg er jo spent selv på å se, når du når disse nivåene på 1,5,
+
+[00:48:42] kanskje opp mot 2 prosent, hvor mye begynner det å bite,
+
+[00:48:46] i ikke minst husholdningssektoren da, og hvor mye tåler man?
+
+[00:48:51] Men det er også en av de grunnene til at jeg tror at ikke disse rentene,
+
+[00:48:55] skal så ekstremt høyt, for jeg tror de begynner å bite,
+
+[00:48:58] hvis da du får noe, altså vekstsykelen drar seg lenger ut,
+
+[00:49:03] at anslaget på 1 prosent i 2024 blir justert opp,
+
+[00:49:07] du får noe gjennom lønn, så må man kanskje dra renten litt lengre,
+
+[00:49:11] enn de to da, kanskje må man til 2,5, kanskje 2,5-3, da begynner det å bite.
+
+[00:49:16] Men det biter raskere i Norge enn det det gjør i mange andre økonomi,
+
+[00:49:19] fordi du har en rentesårbarhet, som er kanskje mye større i Norge enn det vi finner i andre vestländer.
+
+[00:49:27] Det er helt riktig.
+
+[00:49:30] Tror vi avslutter der? Det er flere spørsmål, men vi må nok avslutte hele sendingen.
+
+[00:49:34] Det var bra at det var flere spørsmål, ikke at det var noen flere igjen da,
+
+[00:49:38] etterspørsel etter litt mer, det er alltid bedre det enn å gå tom lenge før.
+
+[00:49:43] Men tusen hjertelig takk til deg, dette har vært veldig interessant,
+
+[00:49:47] også takk til alle dere som har fulgt gjennom hele sendingen,
+
+[00:49:50] også er det jo selvsagt bare å ta kontakt med oss i etterkant,
+
+[00:49:53] hvis dere ønsker å diskutere mer.

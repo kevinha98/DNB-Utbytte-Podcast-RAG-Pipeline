@@ -1,0 +1,753 @@
+Episode 279: Kina og fremvoksende økonomier
+Publisert: Wed, 01 Ju
+Vert: Marius Brun Haugen
+Varighet: 28 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/kina-og-fremvoksende-okonomier
+
+--- Transkripsjon ---
+
+[00:00:01] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen globale økonomien og finansmarkedene.
+
+[00:00:09] Jeg er Marius Brunhaugen fra DNB Markets, og i denne episoden skal det handle om den økonomiske utviklingen i Kina og investeringsmuligheter i fremvoksende markeder.
+
+[00:00:22] Vi har valgt nylig et direkte sendt webinar for DNB-kunder om dette her, og opptaket fra seansen skal dere få høre nå.
+
+[00:00:31] God fornøyelse, og takk for at du hører på Utbytte.
+
+[00:00:43] Hei, velkommen til oss i DNB og dagens webinar som skal handle om Kina og investeringer i fremvoksende markeder.
+
+[00:00:54] Jeg heter Marius, og med meg i studio har jeg makroøkonom og Kina-eksperten vår, Kelly Chen, og forvalter av DNBs fond for fremvoksende markeder, Erlend Fredriksen. Velkommen begge to.
+
+[00:01:08] Tusen takk.
+
+[00:01:09] Takk, takk.
+
+[00:01:09] Vi skal starte med å snakke litt om Kina. Det er viktig i global sammenheng, og det er selvfølgelig viktig for de fremvoksende økonomiene isolert sett.
+
+[00:01:20] Og så etter det skal vi snakke litt mer om de fremvoksende markeder generelt, og fondene høres ut som en bra plan.
+
+[00:01:26] Høres bra ut, ja.
+
+[00:01:27] En naturlig ting å starte med, det er smittesituasjonen i Kina. Hvordan ser ting ut nå?
+
+[00:01:35] Ja, absolutt. Det har jo vært en prosess egentlig, som har vært ganske lenge. Nå har vi hatt tre måneder med en ganske stor smittebølge, konsentrert i noen enkelte områder i Kina.
+
+[00:01:47] Og nå er vi egentlig ferdig med å se at denne bølgen er borte nå.
+
+[00:01:51] De siste smittetallene viser at det er 30-ish nye smittede daglig som oppdages, og 150 nye smittede som ikke har noen symptomer, som da blir fanget opp av massetesting.
+
+[00:02:05] Så dette er en situasjon som helt klart er i bedring når det gjelder smitte.
+
+[00:02:11] Når det gjelder økonomisk aktivitet og mobilitet, og når vi ser på hvordan menneskene agerer i Kina, så er situasjonen litt annerledes.
+
+[00:02:20] Ja, for det tar lenge tid, rett og slett.
+
+[00:02:24] Ja, absolutt. Vi følger jo veldig mye med på mobilitetsdataene, altså kødannelse for eksempel, litt sånn som Google Maps, som man kan se i Kina på de største byene der.
+
+[00:02:35] Og der ser vi nå at det har vært en bedring egentlig gjennom hele mai måned, fordi lockdown har spredt seg mye raskere enn smitten i seg selv, og ble mye mer widespread enn smitten i seg selv.
+
+[00:02:50] Den har bedret seg, men likevel så er det jo sånn at rundt ti av de hundre største byene da, så har vi fremdeles ganske lav mobilitetstall, selv en måned etter at ting har begynt å bedre seg.
+
+[00:03:04] Mm.
+
+[00:03:04] Mm. Hvor lang tid da kan vi liksom, går det an å ha noen anslag, eller kan man komme med noen rimelige antakelser på hvor lang tid tar det før man kommer tilbake til en slags normal?
+
+[00:03:16] En ny, ny normal på en måte.
+
+[00:03:17] En ny, ny normal, ja, gjerne det.
+
+[00:03:18] Ja, vi har jo sett litt på hvordan ting endret seg i 2020, altså da gjennåpningen startet da, da Kina lukket ned, og vi ser en del ting som ligner da, egentlig.
+
+[00:03:32] Det som vi ser veldig tydelig er jo at situasjonen i Shanghai og Beijing, de to hotspotene som er igjen nå da, der ser vi litt at ting har endret seg, litt sånn som i Wuhan, da smitten først brøt ut, og det tar jo flere måneder før man egentlig får aktiviteten opp å gå.
+
+[00:03:54] Ja, ser man på landet som helhet, så tok det jo seks måneder før mobiliteten var tilbake på før krisetider da.
+
+[00:04:02] Ja, så det tar tid.
+
+[00:04:06] Så alle disse ringvirkningene får for eksempel med problemer i globale forsyningskjeder, et cetera.
+
+[00:04:14] Kan vi anta at det vil liksom gradvis, vil den floken løses mer og mer opp, eller er det for tidlig?
+
+[00:04:21] Vi har allerede sett tegn til at floken har løsnet opp, og husk at dette er endte, altså dette er ikke første gang Kina opplever lockdown.
+
+[00:04:33] De har jo kunnet gjøre en del listeringer allerede.
+
+[00:04:37] Tenk på havnene for eksempel, de var jo under lockdown allerede i fjor.
+
+[00:04:42] Noen av de aller største havnene la jo om operasjonen for å kunne håndtere det denne gangen.
+
+[00:04:47] Så på tilbudssiden så ser vi at det er en del ting som har kommet i bedring raskere denne gangen.
+
+[00:04:53] Altså havnarbeidere, de har jo vært i lockdown på havnen, de har vært stengt inne, altså de har fått steder å bo på havnen,
+
+[00:05:00] og vil da kunne arbeide ut selv om byen er i lockdown, og havnområdet er i lockdown.
+
+[00:05:06] Så på tilbudssiden så har jo ting vært egentlig litt bedre, og vi ser jo at det stort sett ikke har vært like problematisk denne gangen som sist.
+
+[00:05:16] Men alle disse tingene, det er vel noe som du og resten av forvalterteamet i fondet følger nøye med på, Erlend.
+
+[00:05:24] Fordi dette blir jo igjen viktig for hvordan dere skal allokere kapitalen i ulike markeder,
+
+[00:05:30] sektorer, et cetera.
+
+[00:05:32] Det blir så klart det.
+
+[00:05:34] Kina er det største markedet i fremvokste markeder, så vi må alltid ta veldig hensyn til hva som skjer i Kina, hvordan det påvirker resten av verden.
+
+[00:05:40] Og hvordan dere gjør det, det skal vi jo komme tilbake til om ikke så lenge.
+
+[00:05:44] Men nå som Kina liksom ser ut til å nærme seg en sånn null-covid-situasjon, kommer det nye runder med stimulanser, er det høyaktuelt igjen?
+
+[00:05:54] Absolutt, det er jo litt det Kina er nødt til å gjøre.
+
+[00:05:58] Se på hvordan situasjonen var i april, så var det jo et veldig kraftig tilbakeslag.
+
+[00:06:03] Så det at Kina kommer inn med stimulanser nå er jo helt nødvendig for å sette en bunn på hvor kraftig nedgangen blir.
+
+[00:06:14] Altså for meg, når jeg ser på konsumentene for eksempel, så er arbeidsledighet, den registrerte arbeidsledigheten i Kina viktig å følge med på.
+
+[00:06:22] Og den steg jo kraftig i april, høyere enn den var i mars 2020.
+
+[00:06:27] Og ser vi på arbeidsledigheten blant de unge, altså de som er nettopp uteksaminert, så var jo arbeidsledigheten på over 18%.
+
+[00:06:37] Det er veldig, veldig høye tall.
+
+[00:06:39] Sør-Europa-tall, da.
+
+[00:06:41] Det er det.
+
+[00:06:42] Og det betyr jo at stimulansene må inn for å sørge for at det finnes arbeidsplasser for disse, for å sørge for at det er en viss stabilitet, en sosial stabilitet nesten.
+
+[00:06:56] Treffer disse stimulansene godt nok da, tror du? Er de like treffesikre som de har vært før? Er det de samme tingene de gjør nå?
+
+[00:07:06] Sender inn penger til infrastruktur, boligmarkedet, et cetera?
+
+[00:07:10] Ja, dette er jo klassisk Kina, på en måte. Det aller beste hadde jo vært om Kina kunne operert med stimulansetiltak på etterspørselssiden.
+
+[00:07:20] Altså at de gir for eksempel overføringer direkte til husholdningene.
+
+[00:07:25] De har gjort litt av det, men ikke nok. Så det som da gjenstår er jo det som er veldig klassiske kinesiske stimulansetiltak da.
+
+[00:07:35] Som du sier, boligmarked, infrastrukturprosjekter, finanspolitisk stimulanse. Og det har vi allerede sett tegn til, egentlig.
+
+[00:07:44] Vi har allerede sett tegn til at Kina har kommet i gang med det. Og i tillegg så har de også denne gangen gjort en del pengepolitiske lettelser også.
+
+[00:07:54] Og så setter de ned renter. Dette er jo myntet veldig på boligmarkedet da. Boliglånsrenter blir kuttet med 20 basispunkter. Det skal holdes tydelig ned videre.
+
+[00:08:06] Type rentekutt vil vel også kunne hjelpe på det private konsumet? Eller vil ikke det slå like mye der?
+
+[00:08:12] Det har en betydning. En ting som vi har sett på, på hvorfor etterspørselseksen blant konsumentene har vært litt svakere i Kina, er jo den økende husholdningsområdet.
+
+[00:08:23] Økende husholdningsgjelden, altså husholdningens gjeld som andel av BNP,
+
+[00:08:27] doblet seg jo fra 2012 til 2022, fra 30 prosent av BNP til over 60.
+
+[00:08:35] Og når husholdningene har en såpass høy gjeldsbyrde,
+
+[00:08:38] eller en så høy og økende gjeldsbyrde, så har det jo betydning når rentene settes ned.
+
+[00:08:45] Ok, ok. Men hva har alt dette å si for utsiktene for kinesiske økonomier på litt lengre sikt?
+
+[00:08:53] Så det vi har nå er på en måte myndighetene som kommer inn og sier
+
+[00:08:56] nå skal vi sørge for at det er en bunn når vi er i denne dalen.
+
+[00:09:00] Men når vi kommer ut på andre siden da, når denne nye, nye normalen ikke lenger er nedstengninger,
+
+[00:09:09] ikke lenger er veldig begrensende tiltak da, så vil jo det bety at du får mer fart inni økonomien også.
+
+[00:09:19] Og det er jo, for meg så er det betinget på at man ikke får en ny,
+
+[00:09:23] en ny opplysning da, litt sånn omikron.
+
+[00:09:26] Men det er jo interessant altså, hva legger du til grunnen?
+
+[00:09:28] Vil de endre denne nulltoleransestrategien sin i forhold til covid, eller ikke?
+
+[00:09:33] Det er et kjempegodt spørsmål, det er jo det.
+
+[00:09:36] Ikke det i år i hvert fall. Det tror jeg ikke.
+
+[00:09:39] Altså nå er jo egentlig den kinesiske befolkningen ganske godt vaksinert,
+
+[00:09:44] med unntak av de over 80.
+
+[00:09:47] Og det er jo de man egentlig er bekymret for.
+
+[00:09:49] I tillegg så er det jo ikke vestlige vaksiner.
+
+[00:09:53] De er ikke effektive på de nye variantene.
+
+[00:09:55] Så det er jo et veldig større utbrudd der man er bekymret for.
+
+[00:09:57] Man har jo bare et begrenset antall intensivplasser også, ikke sant?
+
+[00:10:01] Så det, jeg tror ikke den politikken endres med det aller første.
+
+[00:10:05] Så dette vil fortsette å henge over som en stor risiko også når du ser på
+
+[00:10:10] investeringsmuligheten i kinesiske aksjer for eksempel?
+
+[00:10:13] Det er definitivt en del av risikoen vil jeg ha.
+
+[00:10:15] Det vil fortsette å være med oss?
+
+[00:10:17] Ja, i hvert fall for i år. Definitivt.
+
+[00:10:19] Det er jeg helt sikker på.
+
+[00:10:21] Men vi vet jo ikke når,
+
+[00:10:23] når de løsner på ting.
+
+[00:10:25] Kinesiske veksten påvirker jo av det her.
+
+[00:10:28] Så hvis det skaper mye sosial uro, hvis det skaper for lav vekst,
+
+[00:10:32] så vil man i en måte fire på de kravene.
+
+[00:10:35] Men med tanke på det vi ser i Vesten og hvordan man håndterer ting der,
+
+[00:10:41] hvorfor vil ikke Kina snu i denne politikken sin i forhold til covid?
+
+[00:10:49] Jeg har jo tenkt på dette som en konsekvens
+
+[00:10:53] av hvordan det kinesiske helsevesenet ser ut egentlig.
+
+[00:10:56] Du har begrensede ressurser, veldig tynt spredt enkelte deler av landet.
+
+[00:11:02] Så har du en befolkning som bor veldig tett oppå hverandre.
+
+[00:11:06] Så i et scenario hvor covid sprer seg gjennom befolkningen raskt,
+
+[00:11:13] så vil du jo komme i et scenario hvor det ikke vil være nok intensivplasser,
+
+[00:11:17] det vil til å være nok helsepersonell punktum.
+
+[00:11:20] Og det gjorde jo en del studier på dette.
+
+[00:11:23] Omikron kom, et universitet i Shanghai har gjort en veldig god studie
+
+[00:11:27] hvor de modellerte egentlig omikronbølgen.
+
+[00:11:30] Hva ville skjedd hvis vi ikke hadde gått inn slik vi gjorde i Shanghai og resten av Kina?
+
+[00:11:36] Da fant vi ut at det ville vært behov for 1,5 millioner flere intensivplasser
+
+[00:11:45] enn det Kina har.
+
+[00:11:47] Og det er jo en menneskelig kostnad som er veldig høy.
+
+[00:11:53] Og som den politiske ledelsen i Kina ikke har kunnet bære med seg.
+
+[00:12:00] Eller ikke vært villig til å egentlig ta, da.
+
+[00:12:02] Ja, absolutt.
+
+[00:12:04] Og så har du en annen dimensjon hvor du ser at den politiske ledelsen har jo sagt at
+
+[00:12:08] «Nei, se hvordan vi har klart å beskytte befolkningen vår».
+
+[00:12:13] Dødsfallene i Kina måles i antall tusener i et land med 1,4 milliarder mennesker.
+
+[00:12:20] Så de har på en måte malt seg litt inn i et politisk hjørne, da.
+
+[00:12:24] Hvor de sier at «Se, nå har vi klart å holde kontroll over situasjonen så godt.
+
+[00:12:29] Det må vi kunne klare».
+
+[00:12:31] Men jeg har også tenkt på dette som en slags forsikringspolicy, da.
+
+[00:12:35] Jeg har også tenkt på det som en oppsjon som de har kjøpt.
+
+[00:12:38] Altså, oppsjonen som de har kjøpt og betalt for er muligheten til å velge når og under hvilke omstendigheter
+
+[00:12:46] man skal åpne Kina opp for dette viruset.
+
+[00:12:50] Og de har jo vært tydelige på at det kommer til å skje en dag.
+
+[00:12:54] Altså, en eller annen gang så kommer korona til å være litt sånn som influensa, ikke sant?
+
+[00:13:00] Vi må behandle det også da som en influensa.
+
+[00:13:03] Poenget er jo litt bare at vi er ikke helt kommet der enda.
+
+[00:13:07] Jeg tror at vi kanskje må begynne å se litt mer på dette.
+
+[00:13:11] Også i år, da. Kanskje vil omstendighetene bedre seg også i år.
+
+[00:13:16] Kanskje får vi nye vaksiner. Kanskje får de vaksinert litt flere.
+
+[00:13:20] Og i et sånt tilfelle så kan man se for seg at Kina forsiktig prøver å åpne opp litt mer.
+
+[00:13:25] Men jeg kan tro litt mer optimistisk enn deg.
+
+[00:13:29] Jeg er ikke litt optimistisk. Jeg tror også som du sier at Kina vil jo på et eller annet tidspunkt måtte åpne opp.
+
+[00:13:36] De vil måtte på en måte introdusere det viruset til befolkningen.
+
+[00:13:39] Det er sånn at det oppnår resistanse blant befolkningen.
+
+[00:13:44] Men når det skjer, det vet jeg ikke altså.
+
+[00:13:49] Jeg tror det kan ta noen måneder før man er trygge nok på at det kan gå greit.
+
+[00:13:55] Men kinesiske aksjer, er det attraktivt?
+
+[00:13:58] Prisingsmessig er det det.
+
+[00:13:59] Men det er jo den usikkerheten som henger over,
+
+[00:14:01] som gjør det veldig vanskelig å være veldig positiv til Kina.
+
+[00:14:09] Hvis du ser på hvordan markedet har vært de siste to årene,
+
+[00:14:11] så har det vært en fallende trend siden februar 2020.
+
+[00:14:14] Det er også med på å forklare hvorfor emerging markets har vært svake de siste to årene.
+
+[00:14:24] Som vi ser på priserne nå, så er de på veldig lave nivåer,
+
+[00:14:27] og veksten er forventet å være bra fremover på mange selskaper.
+
+[00:14:33] Vi har fått tro på selektive bransjer.
+
+[00:14:36] På enkelte bransjer er vi mer skeptiske,
+
+[00:14:37] og det er gjerne bank og infrastruktur,
+
+[00:14:40] fordi det er ubalanser som vi ikke liker så veldig godt.
+
+[00:14:42] Hvis vi spoler litt,
+
+[00:14:45] så er vi ute og ser med på det vi kaller for fremvoksende markeder, Erlend.
+
+[00:14:51] Hva er det som har vært å ta med seg da?
+
+[00:14:53] Alt påvirker seg av Kina.
+
+[00:14:55] Vi gjør jo det. Hele verdensøkonomien påvirker seg av Kina.
+
+[00:14:57] Det vi ser i år er at den regionen som har vært den største,
+
+[00:15:01] den regionen som har vært dårligst de siste to årene,
+
+[00:15:06] det er jo Sør-Amerika.
+
+[00:15:08] Men det er den som har vært best i år.
+
+[00:15:10] Grunnen til det er jo fordi de er råvareeksportører,
+
+[00:15:13] og generelt har en økonomisk forhold.
+
+[00:15:15] De som er veldig råvaresensitive.
+
+[00:15:17] Og både oljepris, jernmalm, matvarer,
+
+[00:15:20] alt av det har steget kraftig i år,
+
+[00:15:22] og det er jo ytterligere forsterket av Russland sitt angrepp på Ukraina.
+
+[00:15:26] Så de landene har levert bedre enn ikke alle vestlige land.
+
+[00:15:32] Har dere også vridd eksponeringen til fondet i takt med dette her,
+
+[00:15:38] eller kanskje aller helst litt i forkant?
+
+[00:15:40] Ja, vi var i forkant på Sør-Amerika.
+
+[00:15:42] Det var vi, definitivt.
+
+[00:15:44] Vi har vært undervektet av Kina.
+
+[00:15:46] Vi er overvektet nå.
+
+[00:15:48] Rett og slett fordi vi ser at ting begynner å gjennåpnes.
+
+[00:15:51] Shanghai åpner vi opp fra med i morgen.
+
+[00:15:54] Vi ser et begynnende tegn til stimuli i Kina.
+
+[00:15:57] I Sør-Amerika så har vi redusert litt vekten nå i det aller siste,
+
+[00:16:01] rett og slett for talkevinst,
+
+[00:16:03] og fordi man begynner å nærme seg en del sensitive valg og presidenter i Sør-Amerika,
+
+[00:16:07] som ofte skaper en litt sånn her ...
+
+[00:16:10] Det skaper et ...
+
+[00:16:12] et ...
+
+[00:16:14] et vakuum i aksjevriddet.
+
+[00:16:16] Det flater mer ut.
+
+[00:16:18] Fordi du har den usikkerheten, blir det en venstre ...
+
+[00:16:20] en venstre vridd president, eller blir det en høyere vridd, ikke sant?
+
+[00:16:24] Og det ...
+
+[00:16:25] Ja, sjansen er 50-50 på begge,
+
+[00:16:27] eller kanskje mer overvektet mot en venstre vridd,
+
+[00:16:30] så påvirkes jo aksjekursen av det.
+
+[00:16:32] Men på den underliggende fundamentale verdien,
+
+[00:16:35] så er de gode, altså.
+
+[00:16:36] Veldig ...
+
+[00:16:37] Jeg blir ofte utrolig imponert over selskapene i Sør-Amerika,
+
+[00:16:41] hvor solide de faktisk er.
+
+[00:16:43] De er langt mer solide nå enn de har vært på mange, mange, mange år.
+
+[00:16:46] Men så da er det liksom ...
+
+[00:16:47] Da er det det samme som man også ser når man ser globalt,
+
+[00:16:50] eller du ser i Norge.
+
+[00:16:51] Det er ...
+
+[00:16:52] Det er energi særlig, da.
+
+[00:16:54] Kanskje som skiller seg ut i positivt terreng igjen,
+
+[00:16:58] på grunn av den situasjonen som vi er i nå,
+
+[00:17:01] med krigen og alt det andre som baller på seg.
+
+[00:17:04] Det er riktig.
+
+[00:17:05] Energi og finans har gjort spesielt godt i år.
+
+[00:17:13] Det er jo en annen side av dette her,
+
+[00:17:16] usikkerhet og energiknapphet,
+
+[00:17:18] høye matvarupriser.
+
+[00:17:20] En ting er jo selvfølgelig de sektorene som direkte tjener på dette her,
+
+[00:17:24] fordi de kan selge til høyere priser.
+
+[00:17:27] Men det kan jo også potensielt litt lenger ned i gaten
+
+[00:17:31] skade økonomisk vekst ganske betydelig.
+
+[00:17:34] Og er det noe vi vet, så er det jo at når det blir matmangel,
+
+[00:17:38] for eksempel på korn,
+
+[00:17:40] eller for eksempel på ris,
+
+[00:17:43] så går jo det typisk mest utover.
+
+[00:17:45] De fattigste landene igjen.
+
+[00:17:47] Og dette er vel noe dere må sitte hele tiden og tenke på
+
+[00:17:50] og prøve å ta hensyn til, regner jeg med.
+
+[00:17:52] Definitivt.
+
+[00:17:53] Vi har jo alltid hatt en ganske tydelig overvekt på konsumaksjer
+
+[00:17:58] i fremvoksende markeder,
+
+[00:17:59] fordi det er veldig mange gode konsumselskaper.
+
+[00:18:03] Og fordi vi har restriksjoner på mange av de selskapene
+
+[00:18:07] innenfor energi, materialer og så finans egentlig.
+
+[00:18:11] Ikke på mange, men en del.
+
+[00:18:13] Så det blir liksom...
+
+[00:18:14] Det naturlige er det vi selekterer.
+
+[00:18:17] Men det vi ser er jo at nå så er konsumentene mer på det nødvendige
+
+[00:18:22] de trenger enn mer på det type elektronikk og lignende.
+
+[00:18:26] Det som er gjerne det du har når du har litt mer penger til overs.
+
+[00:18:29] Så vi er veldig selekte med hvilke konsumselskaper vi går inn i nå.
+
+[00:18:34] Det er som du sier, du ser matvariprisene i enkelte land
+
+[00:18:37] har steget over 100% på et år.
+
+[00:18:39] Det er dramatiske endringer.
+
+[00:18:41] Og det går utover husholdningens...
+
+[00:18:44] Hva kan jeg si? Spendingevne da.
+
+[00:18:48] Ok, så hvis vi skal prøve oss på en slags oppsummering.
+
+[00:18:53] Hvilke sektorer på en måte er det du har størst tro på?
+
+[00:18:57] Altså både geografisk og sektormessig.
+
+[00:19:00] Og hva er det som dere er overvektet i nå i tanke på fondet?
+
+[00:19:05] Vi har en overvektkonsum blant annet i Kina.
+
+[00:19:08] Fordi vi ser at det er en...
+
+[00:19:10] Altså den enåpningen kommer.
+
+[00:19:12] Det er bare spørsmålet når den blir fullt ut.
+
+[00:19:15] Fult, ja hva kan jeg si?
+
+[00:19:17] Fult launchet.
+
+[00:19:19] Vi har også en overvekt på bank.
+
+[00:19:22] Vi ser stigende renter egentlig overalt.
+
+[00:19:25] Og vi ser at fortsatt så er tapene til bankene ganske lade.
+
+[00:19:30] Vi er litt bekymret med tanke på hvordan vi ser ut om 12 måneder.
+
+[00:19:35] Men den risikoen er med i det bildet vi har.
+
+[00:19:40] Ja.
+
+[00:19:41] Triggerne du har på horisonten da.
+
+[00:19:44] Hva er liksom det viktigste?
+
+[00:19:46] Brikken som skal falle på plass for at vi skal få en liten bounce.
+
+[00:19:50] Altså hadde vi hatt en graf og tap her så hadde vi sett at avkastningen for fremvoksende markeder
+
+[00:19:55] det har vært fallende det siste året veldig kraftig.
+
+[00:19:59] Så hva er det som skal til for å trigge en oppgang da?
+
+[00:20:03] Hva skal liksom snu dette?
+
+[00:20:05] Jeg vil si at de to viktigste tingene er egentlig full gjenåpning av Kina.
+
+[00:20:09] Definitivt det viktigste.
+
+[00:20:10] Slutt på krigen mellom Russland og Ukraina.
+
+[00:20:13] Det er også viktig.
+
+[00:20:15] Det skaper en del ubalanse på matvaresituasjonen spesielt.
+
+[00:20:18] Som er veldig kritisk for, og da kanskje spesielt de fattige landene og de fattigste konsumentene i emerging markets.
+
+[00:20:24] Bra.
+
+[00:20:25] Hva med India, er det en som skriver deg?
+
+[00:20:28] Vi har snakket om India før.
+
+[00:20:31] Vi er jo generelt positive til India på lang sikt og på mellomlang sikt.
+
+[00:20:36] India har vært svak nå i år.
+
+[00:20:38] Etter et fantastisk jordår.
+
+[00:20:41] Men ting begynner å bli veldig billigprisa.
+
+[00:20:44] Bankene er solide.
+
+[00:20:46] Man har ryddet opp mye av det.
+
+[00:20:49] Så det er jo fortsatt en del groms.
+
+[00:20:52] Sånn er det jo i fremvoksende markeder.
+
+[00:20:54] Men de selskapene vi er inne i, de er veldig troa på det.
+
+[00:20:57] Så vi er fortsatt veldig positive til India.
+
+[00:21:00] Det er en av største overvekter.
+
+[00:21:02] Et annet tema som vi har fått spørsmål om og som er relevant.
+
+[00:21:06] Om da kanskje ikke helt i det korte bildet.
+
+[00:21:09] Så i hvert fall på lengre sikt.
+
+[00:21:12] Altså hvis vi ser over flere år.
+
+[00:21:14] Og et tema som på en måte dukker opp stadig mer synes jeg.
+
+[00:21:17] Det har vært der en stund.
+
+[00:21:18] Men det er jo dette med deglobalisering.
+
+[00:21:20] Nemlig at du kan si vestlige virksomheter som har produsert billig i Kina eller andre fremvoksende land.
+
+[00:21:28] Begynner å flytte virksomheter og produksjon hjem.
+
+[00:21:34] Av flere grunner da.
+
+[00:21:37] Men hvor både krigen og covid på en måte er medvirkende årsaker.
+
+[00:21:41] Men også andre ting.
+
+[00:21:43] Og det er det flere som lurer på her.
+
+[00:21:45] Skal vi tilbake til den gamle normalen?
+
+[00:21:48] Eller vil den trenden der Vesten holder større avstand og trekker flere virksomheter hjem.
+
+[00:21:53] Bare bli sterkere og sterkere?
+
+[00:21:56] Det er interessant å høre hva dere begge mener egentlig.
+
+[00:21:59] Kelly, hva tenker du?
+
+[00:22:01] Jeg synes jo det er geopolitisk.
+
+[00:22:03] Jeg synes jo det geopolitiske bakteppet her er viktig.
+
+[00:22:06] Og jeg tror at vi, slik jeg ser det, beveger oss i en retning som gjenspeiler den situasjonen som USA og Kina har hatt lenge.
+
+[00:22:16] For de er de to stormaktene i verden.
+
+[00:22:20] Hvor de har en strategisk konkurranse med hverandre, som de liker å kalle det.
+
+[00:22:26] Og med da denne krigen på toppen mellom Ukraina og Russland.
+
+[00:22:32] Så tror jeg at den tendensen vi har sett med mindre globalisering og mer regionalisering vil fortsette.
+
+[00:22:43] Og så er det noen akutte sektorer som er strategisk viktige.
+
+[00:22:49] Tenk for eksempel semi-conductors som vi allerede har sett eksempel på.
+
+[00:22:53] Man må flytte en del av produksjonen hjem for å sikre forsyningssikkerhet.
+
+[00:22:59] Men når det gjelder andre konsumbarer, det som kanskje ikke er like farlig, kan man kanskje kalle det.
+
+[00:23:06] Så vil jo prosessen ikke være like rask. Men retningen tror jeg er der.
+
+[00:23:11] Er det sånn at tema deglobalisering begynner å påvirke også investeringsbeslutningene deres allerede nå, Erlend?
+
+[00:23:19] Helt klart. Vi ser det for eksempel i Meksiko.
+
+[00:23:22] Der vi vrir mer investeringer over.
+
+[00:23:24] Meksiko har vært ganske bra de siste to årene. Det har hendt seg som et ganske defensivt marked.
+
+[00:23:28] Fordi det har en nærhet til USA.
+
+[00:23:31] Det er veldig mange matvareselskaper og selskaper som profiterer på lovverket egentlig.
+
+[00:23:41] Men vi tror den trenden der er ganske tydelig fra vår side.
+
+[00:23:48] Så vår jobb blir egentlig å se hvilket land er det som kan dra nytte av dette fremover.
+
+[00:23:53] Meksiko er et av dem.
+
+[00:23:55] Er det andre som skiller seg ut?
+
+[00:23:57] Nei, men man flytter jo for eksempel produksjon ut fra Kina og ut til andre sørøstasiatiske land.
+
+[00:24:03] Så det er jo å prøve å få hvor er det de flytter den delen.
+
+[00:24:08] Men jeg tror ikke man skal undervurdere hvilken påvirkningskraft USA har på resten av verden
+
+[00:24:14] når de viser de tydelige tegnene på den on-shoring-trenden som de gjør.
+
+[00:24:18] Det de siste to årene har vist er egentlig bare hvor avhengig man er å ha nærhet til det man trenger.
+
+[00:24:27] Så den trenden tror jeg blir vanskelig å snu i de neste 10-15 årene.
+
+[00:24:32] Det blir jo veldig langt fram i tiden, men akkurat nå er det det som er den internasjonale, globale trenden.
+
+[00:24:40] Så kan jeg snu igjen på sikt.
+
+[00:24:42] Og hva er en annen ting her som er interessant, Kelly?
+
+[00:24:46] Nå hopper vi litt fra tema til tema, men det er jo også forholdet Kina og Russland.
+
+[00:24:51] Kina er jo en veldig viktig handelspartner for Russland.
+
+[00:24:55] Det er ikke en like viktig handelspartner for Kina, men de importerer jo blant annet for eksempel mye energi fra Russland.
+
+[00:25:02] Jeg tror det var en artikkel på NRK senest i dag som pekte på at dette her har også økt handelen mellom disse to landene.
+
+[00:25:11] Har Kina røpet noe? Kommer dette til å bare forsterke seg videre, dette båndet mellom de?
+
+[00:25:20] Eller hva er det du rimelig vil legge til grunn her?
+
+[00:25:24] Kjempevanskelig spørsmål, men jeg tror hvis vi ser på de tegnene vi har fått fra politisk ledelse,
+
+[00:25:31] og det viktigste tegnet vi har fått er jo dette møtet mellom Putin og Xi for nesten et år siden,
+
+[00:25:38] hvor de inngikk et strategisk partnerskap.
+
+[00:25:43] Og det i seg selv forteller jo at disse to landene, eller disse to lederne i hvert fall, har knyttet seg tett sammen.
+
+[00:25:51] Nå vet jeg ikke helt hvordan Kina vil gjøre det.
+
+[00:25:53] Jeg vet ikke helt hvordan Kina vil agere med tanke på utviklingen av på en måte hele krigssituasjonen.
+
+[00:25:59] De har jo plassert seg så nøytrale som de kan, samtidig som de gir noe støtte til Russland da.
+
+[00:26:10] Og dette er jo noe man må følge med på videre egentlig.
+
+[00:26:15] Så her er det mange usikkerhetsfaktorer, men hvis vi skal prøve å oppsummere dette her da.
+
+[00:26:28] etter det som har skjedd i FN-nedstengningen,
+
+[00:26:32] som igjen kom på grunn av en ny runde med smitte og covid.
+
+[00:26:37] Det kan komme, eller er kanskje allerede på vei,
+
+[00:26:41] nye støttetiltak som vil kunne virke smørende på økonomien.
+
+[00:26:48] Dette vil igjen være positivt for investeringer i både Kina,
+
+[00:26:53] men også for fremvoksende markeder.
+
+[00:26:55] Ting er rufstøtte nå.
+
+[00:26:57] Det er dette med covid som henger over som en stor risiko.
+
+[00:27:00] Det er dette med krigen, som er to overordnede temaer,
+
+[00:27:06] og hva som skjer der, det kan ikke vi som står her spå utfallet av.
+
+[00:27:11] Men så vet vi jo at når ting ser som mørkest ut,
+
+[00:27:15] er det ofte da man kan gjøre de virkelig gode, langsiktige investeringene, Erlend.
+
+[00:27:20] Definitivt. Det er jo det vi håper på, må jeg si.
+
+[00:27:24] Så ja.
+
+[00:27:27] Det er både det vi tror og håper.
+
+[00:27:29] Men hvordan aksjonen vil være de neste seks måneder, det er umulig å si.
+
+[00:27:32] Det er så mange forhold som spiller inn der at det tør jeg ikke spå.
+
+[00:27:36] Men vår jobb blir jo bare å finne de selskapene vi synes er best på mellomlang og lang sikt.
+
+[00:27:42] Og så må man bare ta støyen som er i rekordtilbilde.
+
+[00:27:45] Vi har ikke noe annet å valge.
+
+[00:27:47] Bra. Med det så har vi kommet til veis, endefolkens.
+
+[00:27:51] Da gjenstår det egentlig bare å si tusen takk til dere begge for at dere var med.
+
+[00:27:55] Tusen takk også til alle dere som fulgte med og ikke minst sendte inn spørsmål på Gjens Innfolkens.

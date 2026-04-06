@@ -1,0 +1,34 @@
+# Web framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+slowapi==0.1.9
+
+# RSS parsing
+feedparser==6.0.11
+
+# HTTP client / downloader
+yt-dlp>=2025.1.0
+aiofiles==24.1.0
+
+# Transcription
+faster-whisper>=1.1.0
+
+# Vector database
+chromadb>=1.5.5
+
+# Embeddings (local, free, no API key)
+sentence-transformers==3.3.1
+
+# LLM (QA agent — OpenAI-compatible SDK)
+openai>=1.0.0
+ddgs>=4.0.0
+
+# Configuration
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+
+# Utilities
+pyyaml==6.0.2
+tiktoken>=0.8.0
+psutil>=5.9.0
+truststore>=0.10.0

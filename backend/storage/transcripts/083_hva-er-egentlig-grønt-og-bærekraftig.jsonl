@@ -1,0 +1,677 @@
+{"episode_id": 83, "segment_index": 0, "start": 1.84, "end": 7.56, "text": "I dag er det ikke en tidig definisjon av hva som er grønt."}
+{"episode_id": 83, "segment_index": 1, "start": 7.56, "end": 12.72, "text": "Hvordan kan man da være sikre på at de ulike delene av finansnæringen,"}
+{"episode_id": 83, "segment_index": 2, "start": 12.72, "end": 16.36, "text": "sånn som investorer, utstedere og andre,"}
+{"episode_id": 83, "segment_index": 3, "start": 16.36, "end": 21.36, "text": "vidrar til å motvirke klimakrisen og gå nå målet til Parisaltalen."}
+{"episode_id": 83, "segment_index": 4, "start": 21.36, "end": 27.52, "text": "EU-sgrupper for Bærekraftig Finans har kommet med en ny rapport om et slikt klasifitteringssystem,"}
+{"episode_id": 83, "segment_index": 5, "start": 27.52, "end": 31.32, "text": "som skal sikre dette og som omtales om taxonomien."}
+{"episode_id": 83, "segment_index": 6, "start": 31.91, "end": 38.03, "text": "I denne episoden skal to av DNBs Bærekraftekspeter forklare høydepunktene fra rapporten,"}
+{"episode_id": 83, "segment_index": 7, "start": 38.03, "end": 44.63, "text": "og noen av de potensielle konsekvensene, det kan ha der som dette blir implementert av EU,"}
+{"episode_id": 83, "segment_index": 8, "start": 44.63, "end": 64.91, "text": "som etter planen er senest inn i december 2021."}
+{"episode_id": 83, "segment_index": 9, "start": 64.91, "end": 68.11, "text": "Velkommen til Utbytte, DNB-podkasten,"}
+{"episode_id": 83, "segment_index": 10, "start": 68.11, "end": 73.13, "text": "der vi forklare hva som skjer i den globale økonomien og finansmarkedene."}
+{"episode_id": 83, "segment_index": 11, "start": 73.17, "end": 76.57, "text": "Jeg er Marius Brunnhagen fra DNB Markets,"}
+{"episode_id": 83, "segment_index": 12, "start": 76.57, "end": 82.01, "text": "og med meg i dag har jeg Bærekraftstrateg i DNB Markets, Nina Alstran."}
+{"episode_id": 83, "segment_index": 13, "start": 82.01, "end": 83.83, "text": "Hallå Nina!"}
+{"episode_id": 83, "segment_index": 14, "start": 83.83, "end": 85.15, "text": "Hei Marius!"}
+{"episode_id": 83, "segment_index": 15, "start": 85.15, "end": 88.35, "text": "Og med oss har vi også Laura McTavish,"}
+{"episode_id": 83, "segment_index": 16, "start": 88.35, "end": 93.51, "text": "som er Bærekraftekspert og analytiker i DNB Asset Management."}
+{"episode_id": 83, "segment_index": 17, "start": 93.51, "end": 94.67, "text": "Hei Laura!"}
+{"episode_id": 83, "segment_index": 18, "start": 94.67, "end": 95.83, "text": "Hei Johan!"}
+{"episode_id": 83, "segment_index": 19, "start": 95.83, "end": 99.19, "text": "Vi skal komme tilbake til deg etter hvert Laura,"}
+{"episode_id": 83, "segment_index": 20, "start": 99.19, "end": 104.23, "text": "men først skal vi høre fra Nina og som jeg nømte innledningsvis,"}
+{"episode_id": 83, "segment_index": 21, "start": 104.23, "end": 109.89, "text": "Men da er jeg al sin enkelhet, altså hva handler taxonomien egentlig om, Nina?"}
+{"episode_id": 83, "segment_index": 22, "start": 109.89, "end": 113.65, "text": "Jeg har kort sagt, kan man si, at det handler om at stekestellet,"}
+{"episode_id": 83, "segment_index": 23, "start": 113.65, "end": 117.53, "text": "finansnæringen, bidrar til at motverka klimatkrisen,"}
+{"episode_id": 83, "segment_index": 24, "start": 117.53, "end": 119.65, "text": "og at då Parisavtalet."}
+{"episode_id": 83, "segment_index": 25, "start": 119.65, "end": 126.65, "text": "Har EU-arbeidet med dette her lenge, og kan du si litt om hva som er bakgrunden?"}
+{"episode_id": 83, "segment_index": 26, "start": 126.65, "end": 130.81, "text": "Ja, etter at Parisavtalet kom på plass i 2015,"}
+{"episode_id": 83, "segment_index": 27, "start": 130.81, "end": 135.81, "text": "så innsåg man ganske tidigt at det her kommer å kreve stora mengder kapital."}
+{"episode_id": 83, "segment_index": 28, "start": 135.81, "end": 140.09, "text": "Og vi behaver på noe som blir stekestellet kapitalet,"}
+{"episode_id": 83, "segment_index": 29, "start": 140.09, "end": 142.29, "text": "både offentligt og privat,"}
+{"episode_id": 83, "segment_index": 30, "start": 142.29, "end": 147.25, "text": "investeret i en miljømæssig hållbar eller bærekraftig vikning."}
+{"episode_id": 83, "segment_index": 31, "start": 147.25, "end": 149.53, "text": "Samtidigt, som vi også behaver,"}
+{"episode_id": 83, "segment_index": 32, "start": 149.53, "end": 155.29, "text": "bedre inntikter i dure klimatkriser kan påverke den finansiella stabiliteten."}
+{"episode_id": 83, "segment_index": 33, "start": 155.29, "end": 159.17, "text": "Og man tilfattet en ekspertgrupp som i mars,"}
+{"episode_id": 83, "segment_index": 34, "start": 159.17, "end": 164.57, "text": "efter viss arbeid, publicerede man i mars 2018 en actionplan"}
+{"episode_id": 83, "segment_index": 35, "start": 164.57, "end": 169.41, "text": "från EU-kommissionen Suda for å finansiera bærekraftig tilvekt."}
+{"episode_id": 83, "segment_index": 36, "start": 169.41, "end": 172.89, "text": "Og syftet er som sagt at stekestellet kapitalet,"}
+{"episode_id": 83, "segment_index": 37, "start": 172.89, "end": 176.05, "text": "det skal investera i en miljømæssig bærekraftig riktning,"}
+{"episode_id": 83, "segment_index": 38, "start": 176.05, "end": 178.73, "text": "som stekesteller at vi når 2 grader,"}
+{"episode_id": 83, "segment_index": 39, "start": 178.73, "end": 181.81, "text": "eller endnu heldere 1,5 graders målet."}
+{"episode_id": 83, "segment_index": 40, "start": 181.85, "end": 182.89, "text": "For å gjøre det,"}
+{"episode_id": 83, "segment_index": 41, "start": 182.89, "end": 185.69, "text": "så behöver vi først og fremst en gemensam forståelse"}
+{"episode_id": 83, "segment_index": 42, "start": 185.69, "end": 192.05, "text": "og definition av hva en miljømæssig bærekraftig investering faktisk er."}
+{"episode_id": 83, "segment_index": 43, "start": 192.05, "end": 194.97, "text": "Det er her taktsonomien kommer inn i bilden,"}
+{"episode_id": 83, "segment_index": 44, "start": 194.97, "end": 198.65, "text": "som grundpelaren i EU-s actionplan."}
+{"episode_id": 83, "segment_index": 45, "start": 198.65, "end": 201.45, "text": "Det er helt enkelt et klassifisering system"}
+{"episode_id": 83, "segment_index": 46, "start": 201.45, "end": 206.49, "text": "for å definere miljømæssig bærekraftige ekonomiske aktiviteter."}
+{"episode_id": 83, "segment_index": 47, "start": 206.49, "end": 210.49, "text": "Å ytter mer en ekspertgrupp, en technical expert group,"}
+{"episode_id": 83, "segment_index": 48, "start": 210.49, "end": 212.29, "text": "eller kort og godt tagg,"}
+{"episode_id": 83, "segment_index": 49, "start": 212.29, "end": 215.81, "text": "til statet for å ta fram tydelige rekommendasjoner"}
+{"episode_id": 83, "segment_index": 50, "start": 215.81, "end": 219.73, "text": "til EU-kommissionen på hur det her skulle kunne se ut i praktisk."}
+{"episode_id": 83, "segment_index": 51, "start": 219.73, "end": 226.11, "text": "Og dette her er den rapporten som ble publicert 9 mars, er det sånn?"}
+{"episode_id": 83, "segment_index": 52, "start": 226.11, "end": 227.27, "text": "Præcis, exakt."}
+{"episode_id": 83, "segment_index": 53, "start": 227.27, "end": 230.67, "text": "Og det er faktisk en tredje versjonen som tagg publicerer,"}
+{"episode_id": 83, "segment_index": 54, "start": 230.67, "end": 232.19, "text": "efter at man har haft 2 runder,"}
+{"episode_id": 83, "segment_index": 55, "start": 232.19, "end": 234.67, "text": "der man innhempat mængder med feedback"}
+{"episode_id": 83, "segment_index": 56, "start": 234.71, "end": 235.91, "text": "fra om all mængdenheten,"}
+{"episode_id": 83, "segment_index": 57, "start": 235.91, "end": 240.31, "text": "og der man også invølte mer enn 200 olika tekniske eksperter"}
+{"episode_id": 83, "segment_index": 58, "start": 240.31, "end": 245.06, "text": "for å få fremst så relevanta og tydelige definisjoner som möjlig."}
+{"episode_id": 83, "segment_index": 59, "start": 245.06, "end": 251.07, "text": "Men har det vært enhet om dette her i Markeda og så blant politikerne?"}
+{"episode_id": 83, "segment_index": 60, "start": 251.07, "end": 255.43, "text": "Det finns helt klart en politisk enighet innom EU kring Parisavtalet,"}
+{"episode_id": 83, "segment_index": 61, "start": 255.43, "end": 260.31, "text": "og at det krevs trolig en ganske drastisk åpjæde for å komme dit."}
+{"episode_id": 83, "segment_index": 62, "start": 260.31, "end": 264.87, "text": "Og man vil jo veldig gjerne være verdsledende på bærekraftig inom EU."}
+{"episode_id": 83, "segment_index": 63, "start": 264.87, "end": 267.51, "text": "Og det her blir vi også ennnu tydligere egentlig"}
+{"episode_id": 83, "segment_index": 64, "start": 267.51, "end": 271.43, "text": "med den nya EU-kommissionen som tilfattes forra året,"}
+{"episode_id": 83, "segment_index": 65, "start": 271.43, "end": 275.03, "text": "og det er Green Deal som publicerede i december."}
+{"episode_id": 83, "segment_index": 66, "start": 275.03, "end": 279.27, "text": "Den skal jo være hela EU-tillvektsstrategi framøver"}
+{"episode_id": 83, "segment_index": 67, "start": 279.27, "end": 285.99, "text": "med en målsättning om nett og noll utklepp av ekstusgater i 2050."}
+{"episode_id": 83, "segment_index": 68, "start": 285.99, "end": 291.67, "text": "Og i december godkender man även den reglering som tekker taxonomien,"}
+{"episode_id": 83, "segment_index": 69, "start": 291.67, "end": 293.83, "text": "så det er faktum at vi skal ha en taxonomie."}
+{"episode_id": 83, "segment_index": 70, "start": 293.87, "end": 295.63, "text": "Det er redan beslutet."}
+{"episode_id": 83, "segment_index": 71, "start": 295.63, "end": 299.79, "text": "Men själva detaljerne kring ekstakta frøskelverden og liknande,"}
+{"episode_id": 83, "segment_index": 72, "start": 299.79, "end": 302.55, "text": "det er ennnu ikke helt skrive system."}
+{"episode_id": 83, "segment_index": 73, "start": 302.55, "end": 307.59, "text": "Men det har selvklart vært mengder av debatter kring innehållet"}
+{"episode_id": 83, "segment_index": 74, "start": 307.59, "end": 310.75, "text": "i de rapportene som Teg har publiceret,"}
+{"episode_id": 83, "segment_index": 75, "start": 310.75, "end": 315.79, "text": "og det er ingen enkel uppgifte å definere hva som får kallet grønt."}
+{"episode_id": 83, "segment_index": 76, "start": 315.79, "end": 318.11, "text": "Og det var noe ganske en vensat at det skulle være"}
+{"episode_id": 83, "segment_index": 77, "start": 318.11, "end": 320.71, "text": "mange åsikter kring de definisjonene,"}
+{"episode_id": 83, "segment_index": 78, "start": 320.71, "end": 324.07, "text": "og jeg er absolutt ikke avminsjuk på deres arbeidsepist."}
+{"episode_id": 83, "segment_index": 79, "start": 325.35, "end": 328.35, "text": "Nei, altså, men hva har man kommet frem til da?"}
+{"episode_id": 83, "segment_index": 80, "start": 328.35, "end": 330.87, "text": "Så hva er det man egentlig kan kalle for grønt?"}
+{"episode_id": 83, "segment_index": 81, "start": 331.8, "end": 335.28, "text": "Ja, før at det er en ekonomisk aktivitet,"}
+{"episode_id": 83, "segment_index": 82, "start": 335.28, "end": 339.52, "text": "det er aktiviteter og ikke ena bolag som vi pratar om her."}
+{"episode_id": 83, "segment_index": 83, "start": 339.52, "end": 342.84, "text": "Og for at en aktivitet skal få kallet grønt,"}
+{"episode_id": 83, "segment_index": 84, "start": 342.84, "end": 346.92, "text": "så er det tre nivåer av kriterier som behöver oppfylla."}
+{"episode_id": 83, "segment_index": 85, "start": 346.92, "end": 350.16, "text": "Og først og frem skal det bevises at aktiviteten"}
+{"episode_id": 83, "segment_index": 86, "start": 350.16, "end": 355.6, "text": "vetentlig bidrar til at nå ett eller flere av EUs seks"}
+{"episode_id": 83, "segment_index": 87, "start": 355.6, "end": 361.72, "text": "overgripande miljømål, eksempelvis at motverka klimatförlendringer."}
+{"episode_id": 83, "segment_index": 88, "start": 361.72, "end": 365.76, "text": "Og for det andre får aktiviteten ikke vetentlig skada"}
+{"episode_id": 83, "segment_index": 89, "start": 365.76, "end": 369.0, "text": "eller motverka noe av de andre miljømålen."}
+{"episode_id": 83, "segment_index": 90, "start": 369.0, "end": 374.08, "text": "Eksempelviset skulle ha en negativ påverkan på den biologiske mångfalden"}
+{"episode_id": 83, "segment_index": 91, "start": 374.08, "end": 376.6, "text": "som er et annet av EUs miljømål."}
+{"episode_id": 83, "segment_index": 92, "start": 376.6, "end": 380.04, "text": "Og for det tredje måtte man også særke stella"}
+{"episode_id": 83, "segment_index": 93, "start": 380.04, "end": 383.68, "text": "at aktiviteten følger sosiala riktlinjer"}
+{"episode_id": 83, "segment_index": 94, "start": 383.68, "end": 387.16, "text": "som allventlig en superkrimmenske rettigheter"}
+{"episode_id": 83, "segment_index": 95, "start": 387.16, "end": 389.8, "text": "eller arbeidsmarknadforholdanden."}
+{"episode_id": 83, "segment_index": 96, "start": 389.8, "end": 394.36, "text": "Så for å usse mer, så skal det vetentlig bidra til et mål"}
+{"episode_id": 83, "segment_index": 97, "start": 394.36, "end": 397.64, "text": "uten at det vetentlig skada noe av de andre"}
+{"episode_id": 83, "segment_index": 98, "start": 397.64, "end": 401.44, "text": "og samtidig som det følger sosiala retningslinjer."}
+{"episode_id": 83, "segment_index": 99, "start": 401.44, "end": 404.28, "text": "Og det høres jo veldig bra ut i teorien,"}
+{"episode_id": 83, "segment_index": 100, "start": 404.28, "end": 408.84, "text": "men det virker ikke akkurat enkelt."}
+{"episode_id": 83, "segment_index": 101, "start": 408.84, "end": 411.66, "text": "Har du ikke å skrive gjennom for det i praksis?"}
+{"episode_id": 83, "segment_index": 102, "start": 411.66, "end": 415.98, "text": "Nei, det er ikke helt enkelt at vi står videre i første andelik."}
+{"episode_id": 83, "segment_index": 103, "start": 415.98, "end": 418.9, "text": "Rapporten er på drygt 500 bidor"}
+{"episode_id": 83, "segment_index": 104, "start": 418.9, "end": 423.66, "text": "og tekker inn i kriterier for de to første av EU 6 miljømål"}
+{"episode_id": 83, "segment_index": 105, "start": 423.66, "end": 427.78, "text": "der de øvriga fyra kommer at adera over tid."}
+{"episode_id": 83, "segment_index": 106, "start": 427.78, "end": 431.98, "text": "Men de her to første målen, de handler om climate change mitigation"}
+{"episode_id": 83, "segment_index": 107, "start": 431.98, "end": 434.22, "text": "og climate change adaptation."}
+{"episode_id": 83, "segment_index": 108, "start": 434.22, "end": 438.34, "text": "Altså delt hvordan vi skal motverke kommende klimatförlendninger"}
+{"episode_id": 83, "segment_index": 109, "start": 438.34, "end": 441.74, "text": "men også hvordan vi skal anpassa oss til de klimatförlendningene"}
+{"episode_id": 83, "segment_index": 110, "start": 441.74, "end": 443.18, "text": "som vi redan upplever."}
+{"episode_id": 83, "segment_index": 111, "start": 443.18, "end": 448.5, "text": "Og her har man faktisk definiert 70 respektive 68 enskilde"}
+{"episode_id": 83, "segment_index": 112, "start": 448.5, "end": 452.94, "text": "ekonomiske aktiviteter med trøstkelverden og kriterier"}
+{"episode_id": 83, "segment_index": 113, "start": 452.94, "end": 455.54, "text": "for at avgjøra nær- og ennstående aktivitet"}
+{"episode_id": 83, "segment_index": 114, "start": 455.54, "end": 459.94, "text": "kan kallas miljømæssig færklassig, altså grøn."}
+{"episode_id": 83, "segment_index": 115, "start": 459.94, "end": 463.98, "text": "Og de sektorer som inkluderet, de har man valgt på basis av"}
+{"episode_id": 83, "segment_index": 116, "start": 463.98, "end": 469.82, "text": "at det er de som i dagslæget har den første negativa miljøpåverkan."}
+{"episode_id": 83, "segment_index": 117, "start": 469.82, "end": 472.9, "text": "Og man er kvinnet med at de her sektorerne som nu inkluderet"}
+{"episode_id": 83, "segment_index": 118, "start": 472.9, "end": 478.42, "text": "står for cirka 94 prosent av lektuoskapelskleppen innom EU."}
+{"episode_id": 83, "segment_index": 119, "start": 478.42, "end": 481.53, "text": "Så det her er altså ganske detaljeret."}
+{"episode_id": 83, "segment_index": 120, "start": 481.53, "end": 484.77, "text": "Ja, det er jo fort gjort å bli litt svett når man hører"}
+{"episode_id": 83, "segment_index": 121, "start": 484.77, "end": 487.93, "text": "ONE-EU og en eller annen form for reguleringer."}
+{"episode_id": 83, "segment_index": 122, "start": 487.97, "end": 491.01, "text": "Vi får håpe at dette ikke blir alt for byråkratisk,"}
+{"episode_id": 83, "segment_index": 123, "start": 491.01, "end": 494.47, "text": "men har du et konkrete eksempel til oss?"}
+{"episode_id": 83, "segment_index": 124, "start": 494.47, "end": 496.47, "text": "Ja, absolutt."}
+{"episode_id": 83, "segment_index": 125, "start": 496.47, "end": 501.71, "text": "Eksempelvis om du er et fastighetbolag som utvekker nye fastigheter."}
+{"episode_id": 83, "segment_index": 126, "start": 501.71, "end": 504.47, "text": "Her setter taxonomien et trøstkelverde,"}
+{"episode_id": 83, "segment_index": 127, "start": 504.47, "end": 507.83, "text": "der fastigheten, for å få kallet grøn,"}
+{"episode_id": 83, "segment_index": 128, "start": 507.83, "end": 512.11, "text": "skal ha en energiferbrukning som er 20 prosent lægde"}
+{"episode_id": 83, "segment_index": 129, "start": 512.11, "end": 517.23, "text": "enn de nye minimikrav som under 2021 inførs innom EU."}
+{"episode_id": 83, "segment_index": 130, "start": 517.23, "end": 521.07, "text": "Og som kallet the Near Zero Emission Building."}
+{"episode_id": 83, "segment_index": 131, "start": 521.07, "end": 524.59, "text": "Så her har man altså hakat på kriteriet i taxonomien"}
+{"episode_id": 83, "segment_index": 132, "start": 524.59, "end": 528.83, "text": "på et annet av karav som redan holder på at implementeret."}
+{"episode_id": 83, "segment_index": 133, "start": 528.83, "end": 532.87, "text": "Og, även om den exakte definitionen av Near Zero"}
+{"episode_id": 83, "segment_index": 134, "start": 532.87, "end": 535.15, "text": "er uppgivarje landet at dette,"}
+{"episode_id": 83, "segment_index": 135, "start": 535.15, "end": 538.75, "text": "så skapar det jo en effektiv referent ram."}
+{"episode_id": 83, "segment_index": 136, "start": 538.75, "end": 541.79, "text": "Og om fastigheten er innanfor, det her grønnsværet,"}
+{"episode_id": 83, "segment_index": 137, "start": 541.79, "end": 545.31, "text": "så anses den helt enkelt vefentlig bidra til EU"}
+{"episode_id": 83, "segment_index": 138, "start": 545.35, "end": 548.75, "text": "og miljømål om at motverka klimatförlendninger."}
+{"episode_id": 83, "segment_index": 139, "start": 548.75, "end": 552.15, "text": "Men samtidig skulle man jo også påvisa at aktiviteten"}
+{"episode_id": 83, "segment_index": 140, "start": 552.15, "end": 554.95, "text": "ikke motverker noe andre miljømål."}
+{"episode_id": 83, "segment_index": 141, "start": 554.95, "end": 557.83, "text": "Og i det her fallet skulle det kunne handle om at"}
+{"episode_id": 83, "segment_index": 142, "start": 557.83, "end": 560.71, "text": "sitt hele fastigheten ikke er oppført på mark"}
+{"episode_id": 83, "segment_index": 143, "start": 560.71, "end": 564.59, "text": "som rifter at det er øversvemmet for grøn av klimatförlendninger."}
+{"episode_id": 83, "segment_index": 144, "start": 564.59, "end": 567.35, "text": "Eller at man under konstruksfasen"}
+{"episode_id": 83, "segment_index": 145, "start": 567.35, "end": 569.27, "text": "ikke anvender farlige material,"}
+{"episode_id": 83, "segment_index": 146, "start": 569.27, "end": 574.43, "text": "eller inte særke steder en ordent avfallt hantering av bymaterial."}
+{"episode_id": 83, "segment_index": 147, "start": 574.47, "end": 577.87, "text": "Og her kan tillegg at kriterierne som gjelder"}
+{"episode_id": 83, "segment_index": 148, "start": 577.87, "end": 581.59, "text": "for at påvisa at aktiviteten er ikke nedført skadet,"}
+{"episode_id": 83, "segment_index": 149, "start": 581.59, "end": 586.11, "text": "det er stor del bygger på redan eksisterende EU-krav og riktunier."}
+{"episode_id": 83, "segment_index": 150, "start": 586.11, "end": 590.51, "text": "Men det her er jo også et sett for lender utenfor EU-attaktisk oksan"}
+{"episode_id": 83, "segment_index": 151, "start": 590.51, "end": 592.07, "text": "under taxonomien."}
+{"episode_id": 83, "segment_index": 152, "start": 592.07, "end": 595.39, "text": "Har du noen eksempel fra fornybar energi,"}
+{"episode_id": 83, "segment_index": 153, "start": 595.39, "end": 597.83, "text": "altså ville være forskjeller herinne,"}
+{"episode_id": 83, "segment_index": 154, "start": 597.83, "end": 600.39, "text": "for eksempel sol, vinn og vann,"}
+{"episode_id": 83, "segment_index": 155, "start": 600.39, "end": 603.29, "text": "eller blir det behandlet likt?"}
+{"episode_id": 83, "segment_index": 156, "start": 603.29, "end": 605.93, "text": "Inni taxonomien, sol og vinn,"}
+{"episode_id": 83, "segment_index": 157, "start": 605.93, "end": 607.73, "text": "er alltid godkjendet,"}
+{"episode_id": 83, "segment_index": 158, "start": 607.73, "end": 611.89, "text": "så lenger de ikke med for en besentlig skada på ekosystemet."}
+{"episode_id": 83, "segment_index": 159, "start": 611.89, "end": 614.41, "text": "For andre energi-seller,"}
+{"episode_id": 83, "segment_index": 160, "start": 614.41, "end": 616.29, "text": "eksempelvis vattenkraft,"}
+{"episode_id": 83, "segment_index": 161, "start": 616.29, "end": 619.37, "text": "har man inført et generelt grænsværde"}
+{"episode_id": 83, "segment_index": 162, "start": 619.37, "end": 624.17, "text": "for elproduksjon på 100 gram CO2 per kilowatttimme"}
+{"episode_id": 83, "segment_index": 163, "start": 624.17, "end": 626.17, "text": "over hela livslyken."}
+{"episode_id": 83, "segment_index": 164, "start": 626.17, "end": 631.01, "text": "Og det her kommer også at tenket vart 50 år til noll i 2050."}
+{"episode_id": 83, "segment_index": 165, "start": 631.05, "end": 635.21, "text": "Og det her grænsværdet gjelder egentlig en oavsett energi-sjøl."}
+{"episode_id": 83, "segment_index": 166, "start": 635.21, "end": 636.93, "text": "Men då kan man fråge seg,"}
+{"episode_id": 83, "segment_index": 167, "start": 636.93, "end": 639.73, "text": "hvilken mye er egentlig en 100 gram?"}
+{"episode_id": 83, "segment_index": 168, "start": 639.73, "end": 641.17, "text": "Og om vi tittar på siffror"}
+{"episode_id": 83, "segment_index": 169, "start": 641.17, "end": 643.69, "text": "fra FN, klimatforskningsorgan,"}
+{"episode_id": 83, "segment_index": 170, "start": 643.69, "end": 645.09, "text": "RTCC,"}
+{"episode_id": 83, "segment_index": 171, "start": 645.09, "end": 647.93, "text": "så ligger det globala snittet for kål,"}
+{"episode_id": 83, "segment_index": 172, "start": 647.93, "end": 650.61, "text": "noenstans kring 820."}
+{"episode_id": 83, "segment_index": 173, "start": 650.61, "end": 652.61, "text": "Sol ligger kring 40,"}
+{"episode_id": 83, "segment_index": 174, "start": 652.61, "end": 655.25, "text": "og vind kring at 10 til 15."}
+{"episode_id": 83, "segment_index": 175, "start": 655.25, "end": 659.45, "text": "Medan vattenkraft ligger de kring 20 på det globala snittet."}
+{"episode_id": 83, "segment_index": 176, "start": 659.45, "end": 664.77, "text": "Ja, en annen ting, det her betyr for fossilt brennstoff,"}
+{"episode_id": 83, "segment_index": 177, "start": 664.77, "end": 667.53, "text": "har de noen roller i taxonomien?"}
+{"episode_id": 83, "segment_index": 178, "start": 667.53, "end": 669.73, "text": "Jeg tenker da, for eksempel på naturgas,"}
+{"episode_id": 83, "segment_index": 179, "start": 669.73, "end": 672.13, "text": "det har vel blitt løftet fram som en energisjøl"}
+{"episode_id": 83, "segment_index": 180, "start": 672.13, "end": 674.69, "text": "som i en avgangsfas skal bidra"}
+{"episode_id": 83, "segment_index": 181, "start": 674.69, "end": 677.96, "text": "om å ta oss mot lavkarbon som funnet?"}
+{"episode_id": 83, "segment_index": 182, "start": 677.96, "end": 680.52, "text": "Ja, det stemmer at naturgas har sett"}
+{"episode_id": 83, "segment_index": 183, "start": 680.52, "end": 683.0, "text": "en viktig del i det grønne skifte."}
+{"episode_id": 83, "segment_index": 184, "start": 683.0, "end": 686.24, "text": "Det har også ingått i mange lendelsklimatstatusjier"}
+{"episode_id": 83, "segment_index": 185, "start": 686.24, "end": 688.48, "text": "som en overgångsenergi-sjølla."}
+{"episode_id": 83, "segment_index": 186, "start": 688.48, "end": 692.72, "text": "Men under senere tid har flere vetenskapige rapporter"}
+{"episode_id": 83, "segment_index": 187, "start": 692.72, "end": 696.6, "text": "publiceret som viser at vi kanskje ikke har den muligheten."}
+{"episode_id": 83, "segment_index": 188, "start": 696.6, "end": 700.52, "text": "Eksempelvis en FN-rapport som kom 2018"}
+{"episode_id": 83, "segment_index": 189, "start": 700.52, "end": 704.12, "text": "og som feirer at vi redan två graders uppværning"}
+{"episode_id": 83, "segment_index": 190, "start": 704.12, "end": 706.92, "text": "som kommer veldig stora forändringar faktisk at det skjer."}
+{"episode_id": 83, "segment_index": 191, "start": 706.92, "end": 711.36, "text": "Og det er absolutt nødvendig at vi fikk det på en halv grad."}
+{"episode_id": 83, "segment_index": 192, "start": 711.36, "end": 714.92, "text": "Og de tenarier og analyser som gjør som opp den bakgrunden"}
+{"episode_id": 83, "segment_index": 193, "start": 714.92, "end": 718.36, "text": "viser veldig tidigt at det helt eget ikke finns"}
+{"episode_id": 83, "segment_index": 194, "start": 718.36, "end": 722.16, "text": "utrymmer for noe energifeller som i daktnæget"}
+{"episode_id": 83, "segment_index": 195, "start": 722.16, "end": 725.8, "text": "ikke faller innanfor denne grønsten på 100 gram"}
+{"episode_id": 83, "segment_index": 196, "start": 725.8, "end": 728.8, "text": "og som senere går ned mot 0 i 2050."}
+{"episode_id": 83, "segment_index": 197, "start": 728.8, "end": 733.68, "text": "Så det er det man har valgt at helt enkelt haka upp seg på i taktsenomin."}
+{"episode_id": 83, "segment_index": 198, "start": 733.68, "end": 737.56, "text": "Og ser vi på naturgas, så viser olika analyser"}
+{"episode_id": 83, "segment_index": 199, "start": 737.56, "end": 741.0, "text": "at det linker på mellom 400 og 500."}
+{"episode_id": 83, "segment_index": 200, "start": 741.0, "end": 745.56, "text": "Men med det faktt om naturgas skulle kombineres med løsninger"}
+{"episode_id": 83, "segment_index": 201, "start": 745.6, "end": 747.88, "text": "for carbon catch and storage"}
+{"episode_id": 83, "segment_index": 202, "start": 747.88, "end": 752.6, "text": "og på så vis producerer en elektricitet med mindre enn 100 gram"}
+{"episode_id": 83, "segment_index": 203, "start": 752.6, "end": 755.68, "text": "i 2 kWh. Ja, då kan det være grønt."}
+{"episode_id": 83, "segment_index": 204, "start": 755.68, "end": 758.88, "text": "Det som dæremot er helt tidlig i skrift"}
+{"episode_id": 83, "segment_index": 205, "start": 758.88, "end": 761.12, "text": "er ekskluderet i denne taktsenomin."}
+{"episode_id": 83, "segment_index": 206, "start": 761.12, "end": 766.16, "text": "Det er forvaring og transport som er dedikeret til fossila-brantelen."}
+{"episode_id": 83, "segment_index": 207, "start": 766.16, "end": 767.96, "text": "Men hva skjer nå da?"}
+{"episode_id": 83, "segment_index": 208, "start": 767.96, "end": 770.76, "text": "Altså, hvem er det som må gjøre hva fremover"}
+{"episode_id": 83, "segment_index": 209, "start": 770.76, "end": 774.32, "text": "hvis vi for eksempel ser på investorer og utsteder?"}
+{"episode_id": 83, "segment_index": 210, "start": 774.32, "end": 776.0, "text": "Ja, dette treffer ganske brett."}
+{"episode_id": 83, "segment_index": 211, "start": 776.0, "end": 779.24, "text": "Og det som framforallt treffes av denne regnering"}
+{"episode_id": 83, "segment_index": 212, "start": 779.24, "end": 783.56, "text": "er de som tilhandahåller investeringsprodukter innom EU"}
+{"episode_id": 83, "segment_index": 213, "start": 783.56, "end": 785.36, "text": "eller inn til EU."}
+{"episode_id": 83, "segment_index": 214, "start": 785.36, "end": 787.92, "text": "Så det treffer det även kapitalforvaltare eksempelvis"}
+{"episode_id": 83, "segment_index": 215, "start": 787.92, "end": 790.8, "text": "utenfor EU som sælger fonder i EU."}
+{"episode_id": 83, "segment_index": 216, "start": 790.8, "end": 793.04, "text": "Og som Nara kan berätta mer om,"}
+{"episode_id": 83, "segment_index": 217, "start": 793.04, "end": 795.96, "text": "så handler det jo overgripende om at investerere"}
+{"episode_id": 83, "segment_index": 218, "start": 795.96, "end": 799.16, "text": "måtte beskriva i hvilken grad deras investeringer"}
+{"episode_id": 83, "segment_index": 219, "start": 799.16, "end": 802.92, "text": "sammanfaller eller ikke sammanfaller med taktsenomin."}
+{"episode_id": 83, "segment_index": 220, "start": 802.92, "end": 805.72, "text": "Og i tillegg innebærer det at"}
+{"episode_id": 83, "segment_index": 221, "start": 805.72, "end": 808.56, "text": "alle de bolag som i dag faller innfor EU"}
+{"episode_id": 83, "segment_index": 222, "start": 808.56, "end": 811.0, "text": "den non-financial reporting directive"}
+{"episode_id": 83, "segment_index": 223, "start": 811.0, "end": 814.56, "text": "måtte rapportera hvilken stor andel av deras investeringer"}
+{"episode_id": 83, "segment_index": 224, "start": 814.56, "end": 817.28, "text": "eller omsetning som kommer fra aktiviteter"}
+{"episode_id": 83, "segment_index": 225, "start": 817.28, "end": 820.72, "text": "som faller innfor eller utfall for taktsenomin."}
+{"episode_id": 83, "segment_index": 226, "start": 820.72, "end": 823.36, "text": "Og framøver så kommer det helt tenkt til"}
+{"episode_id": 83, "segment_index": 227, "start": 823.36, "end": 825.08, "text": "å have å anvende taktsenomin"}
+{"episode_id": 83, "segment_index": 228, "start": 825.08, "end": 829.56, "text": "for at beskriva hjurmiljømet i hver kraftig du er."}
+{"episode_id": 83, "segment_index": 229, "start": 829.56, "end": 831.0, "text": "Og taktsenomin skal være"}
+{"episode_id": 83, "segment_index": 230, "start": 831.0, "end": 835.08, "text": "just denne gemensamme definisjonen av grønt."}
+{"episode_id": 83, "segment_index": 231, "start": 835.08, "end": 837.12, "text": "Den nuvarende taktsenomin-rapporten"}
+{"episode_id": 83, "segment_index": 232, "start": 837.12, "end": 840.32, "text": "det er slutslige forslaget fra ekspertgruppen."}
+{"episode_id": 83, "segment_index": 233, "start": 840.32, "end": 843.76, "text": "Og det som det återstår er at EU i december i år"}
+{"episode_id": 83, "segment_index": 234, "start": 843.76, "end": 846.72, "text": "kommer til å publicere den slutslige lagheksen"}
+{"episode_id": 83, "segment_index": 235, "start": 846.72, "end": 850.4, "text": "for implementering senere december 2021."}
+{"episode_id": 83, "segment_index": 236, "start": 850.4, "end": 852.52, "text": "Men den er jo også tanken at"}
+{"episode_id": 83, "segment_index": 237, "start": 852.52, "end": 854.2, "text": "det lærre sektorer og aktiviteter"}
+{"episode_id": 83, "segment_index": 238, "start": 854.2, "end": 856.08, "text": "skal kunne adderas over tid"}
+{"episode_id": 83, "segment_index": 239, "start": 856.08, "end": 859.36, "text": "eller justeres beroende på eventuell framtida"}
+{"episode_id": 83, "segment_index": 240, "start": 859.36, "end": 862.0, "text": "innovasjoner og teknologisk utvikling."}
+{"episode_id": 83, "segment_index": 241, "start": 862.0, "end": 865.32, "text": "Men det återstår helt enkelt at det er i hvilken utvekning."}
+{"episode_id": 83, "segment_index": 242, "start": 871.03, "end": 872.03, "text": "Veldig bra, Nina."}
+{"episode_id": 83, "segment_index": 243, "start": 872.03, "end": 874.55, "text": "Vi skal komme tilbake inn til deg"}
+{"episode_id": 83, "segment_index": 244, "start": 874.55, "end": 876.31, "text": "mot sluten av episoden."}
+{"episode_id": 83, "segment_index": 245, "start": 876.31, "end": 878.35, "text": "Men nå skal vi over mot Lora."}
+{"episode_id": 83, "segment_index": 246, "start": 878.35, "end": 880.07, "text": "Du har fortsatt med oss, Lora."}
+{"episode_id": 83, "segment_index": 247, "start": 880.07, "end": 880.67, "text": "Ja."}
+{"episode_id": 83, "segment_index": 248, "start": 880.67, "end": 881.55, "text": "Så bra."}
+{"episode_id": 83, "segment_index": 249, "start": 881.55, "end": 883.55, "text": "Da skal vi høre det litt fra ditt perspektiv her."}
+{"episode_id": 83, "segment_index": 250, "start": 883.55, "end": 884.87, "text": "Så kan ikke du starte med å si litt"}
+{"episode_id": 83, "segment_index": 251, "start": 884.87, "end": 888.79, "text": "hva betyr egentlig denne taktsenomin for investorer?"}
+{"episode_id": 83, "segment_index": 252, "start": 888.79, "end": 891.79, "text": "Ja, så minne har vært inne på at det er bakre"}
+{"episode_id": 83, "segment_index": 253, "start": 891.79, "end": 894.83, "text": "denne taktsenomin der det er i dag"}
+{"episode_id": 83, "segment_index": 254, "start": 894.83, "end": 898.03, "text": "til en tidig definisjon på hva som er grønt."}
+{"episode_id": 83, "segment_index": 255, "start": 898.03, "end": 900.59, "text": "Og dette kan jo føre til grønvarskning"}
+{"episode_id": 83, "segment_index": 256, "start": 900.59, "end": 903.43, "text": "og gjøre det vanskelig for investorer og kunder"}
+{"episode_id": 83, "segment_index": 257, "start": 903.43, "end": 907.51, "text": "til å orientere seg og sammenhjene for valgtere"}
+{"episode_id": 83, "segment_index": 258, "start": 907.51, "end": 910.43, "text": "men samt forstå vissiko og muligheter"}
+{"episode_id": 83, "segment_index": 259, "start": 910.43, "end": 912.75, "text": "som er forbundet med klima og miljø"}
+{"episode_id": 83, "segment_index": 260, "start": 912.75, "end": 914.91, "text": "og hva som videre for endring."}
+{"episode_id": 83, "segment_index": 261, "start": 914.91, "end": 918.27, "text": "Og det har generell for våre lide kunnskap"}
+{"episode_id": 83, "segment_index": 262, "start": 918.27, "end": 920.65, "text": "i markedet om dette."}
+{"episode_id": 83, "segment_index": 263, "start": 920.65, "end": 924.01, "text": "Så det er en bære mann som har jobbet lenge"}
+{"episode_id": 83, "segment_index": 264, "start": 924.01, "end": 926.57, "text": "med anfarlig og bærekraftige investeringer"}
+{"episode_id": 83, "segment_index": 265, "start": 926.57, "end": 929.93, "text": "og hatt egne fann som fokuserer på muligheter"}
+{"episode_id": 83, "segment_index": 266, "start": 929.93, "end": 931.69, "text": "i denne klima og miljø."}
+{"episode_id": 83, "segment_index": 267, "start": 931.69, "end": 936.49, "text": "Så det vil si selskap som bidrar til en endring og forbedring."}
+{"episode_id": 83, "segment_index": 268, "start": 936.49, "end": 939.37, "text": "Så vi har bygget opp solid kompetanse på dette"}
+{"episode_id": 83, "segment_index": 269, "start": 939.37, "end": 942.45, "text": "men har også sett at det har vært vanskelig"}
+{"episode_id": 83, "segment_index": 270, "start": 942.45, "end": 946.81, "text": "å kommunisere dette budskapet."}
+{"episode_id": 83, "segment_index": 271, "start": 946.81, "end": 949.69, "text": "Vi begynte derfor tidlig med å engasjere aktivt"}
+{"episode_id": 83, "segment_index": 272, "start": 949.69, "end": 952.29, "text": "i utviklingen av EU-tammlingsplan,"}
+{"episode_id": 83, "segment_index": 273, "start": 952.29, "end": 954.81, "text": "allerede i 2018 faktisk,"}
+{"episode_id": 83, "segment_index": 274, "start": 954.81, "end": 958.57, "text": "og har fylkt nye med og vært aktiv i professor for å bydre"}
+{"episode_id": 83, "segment_index": 275, "start": 958.57, "end": 961.25, "text": "inn i beskyttninger om reguleringer"}
+{"episode_id": 83, "segment_index": 276, "start": 961.25, "end": 964.33, "text": "gjennom dialog og deltakelse,"}
+{"episode_id": 83, "segment_index": 277, "start": 964.33, "end": 968.51, "text": "blant annet gjennom BFS og EU-tannslaget."}
+{"episode_id": 83, "segment_index": 278, "start": 968.51, "end": 971.11, "text": "Så allerede i dag så har vi ett aktivt forhold"}
+{"episode_id": 83, "segment_index": 279, "start": 971.11, "end": 973.27, "text": "til klima og miljø i krokveldjene"}
+{"episode_id": 83, "segment_index": 280, "start": 973.27, "end": 975.39, "text": "og så resulterer vi mye på klima og miljø"}
+{"episode_id": 83, "segment_index": 281, "start": 975.43, "end": 978.83, "text": "til institutionelle kunder på franskbasis."}
+{"episode_id": 83, "segment_index": 282, "start": 978.83, "end": 981.71, "text": "Så takkonomien vil påvirke tilgjengeligheten av"}
+{"episode_id": 83, "segment_index": 283, "start": 981.71, "end": 984.55, "text": "systematiske data hvordan vi rapporterer"}
+{"episode_id": 83, "segment_index": 284, "start": 984.55, "end": 987.91, "text": "og hvordan kunder etterpå velger produkter."}
+{"episode_id": 83, "segment_index": 285, "start": 987.91, "end": 990.75, "text": "Ja, så det kan få ganske store invirkninger."}
+{"episode_id": 83, "segment_index": 286, "start": 990.75, "end": 992.91, "text": "Virker det som, kan du ikke si litt hvordan dere jobber"}
+{"episode_id": 83, "segment_index": 287, "start": 992.91, "end": 994.75, "text": "med takkonomien?"}
+{"episode_id": 83, "segment_index": 288, "start": 994.75, "end": 998.19, "text": "Takkonomien vil være et viktig verktøy"}
+{"episode_id": 83, "segment_index": 289, "start": 998.19, "end": 1000.91, "text": "for å vise ikke bare om en aktivitet"}
+{"episode_id": 83, "segment_index": 290, "start": 1000.91, "end": 1003.03, "text": "allerede i dag er grøn,"}
+{"episode_id": 83, "segment_index": 291, "start": 1003.03, "end": 1007.39, "text": "men også kan vi bruke for at vi illiterer i selskaper"}
+{"episode_id": 83, "segment_index": 292, "start": 1007.39, "end": 1012.11, "text": "som bidrar til og overgangen til et lav utslipp samfunn."}
+{"episode_id": 83, "segment_index": 293, "start": 1012.11, "end": 1015.83, "text": "Vi har forlevet vi ikke mappet noen av en morsk takkonomien,"}
+{"episode_id": 83, "segment_index": 294, "start": 1015.83, "end": 1019.35, "text": "men vi jobber nå med våre tematiske for en klima-miljø"}
+{"episode_id": 83, "segment_index": 295, "start": 1019.35, "end": 1023.94, "text": "og vi ser at vi trenger mer tilgjengelighet for data."}
+{"episode_id": 83, "segment_index": 296, "start": 1023.94, "end": 1027.7, "text": "Og det er en viktig læring som er fått fra etterarbeid"}
+{"episode_id": 83, "segment_index": 297, "start": 1027.7, "end": 1030.82, "text": "som vi har nylig fylt ført på måling av utslipp"}
+{"episode_id": 83, "segment_index": 298, "start": 1030.82, "end": 1034.06, "text": "som selskaper bidrar til å rediferere hos andre"}
+{"episode_id": 83, "segment_index": 299, "start": 1034.06, "end": 1036.9, "text": "eller så kallet unngåste utslipp."}
+{"episode_id": 83, "segment_index": 300, "start": 1036.9, "end": 1042.38, "text": "Og den læringen er at det er utfordrende å filme selskapsinformasjonen for krevet."}
+{"episode_id": 83, "segment_index": 301, "start": 1042.38, "end": 1046.34, "text": "Og dette arbeider jo med sammen med de som er dere som fremst"}
+{"episode_id": 83, "segment_index": 302, "start": 1046.34, "end": 1048.95, "text": "for dette om hva det er i Europa."}
+{"episode_id": 83, "segment_index": 303, "start": 1048.95, "end": 1052.47, "text": "Men gjør dere noe for å bedre informasjonstillgangen"}
+{"episode_id": 83, "segment_index": 304, "start": 1052.47, "end": 1056.11, "text": "på det dere vil ha behov for fremmaver?"}
+{"episode_id": 83, "segment_index": 305, "start": 1056.11, "end": 1059.39, "text": "Vi har begynt for å snakke med ESG-datalefondører"}
+{"episode_id": 83, "segment_index": 306, "start": 1059.39, "end": 1062.39, "text": "om å ta de tilbyrere av data i dag"}
+{"episode_id": 83, "segment_index": 307, "start": 1062.39, "end": 1068.47, "text": "og forprete med de malerede jobb som er på hva vi kan forventere fremmaver."}
+{"episode_id": 83, "segment_index": 308, "start": 1068.47, "end": 1072.07, "text": "Vi jobber også mot viktige selskaper, i oppfølgene våre,"}
+{"episode_id": 83, "segment_index": 309, "start": 1072.07, "end": 1074.95, "text": "og at de skal rapportera data til oss."}
+{"episode_id": 83, "segment_index": 310, "start": 1074.95, "end": 1078.23, "text": "Da selskaper må jo begynne å rapportera på dette selv"}
+{"episode_id": 83, "segment_index": 311, "start": 1078.23, "end": 1082.07, "text": "og dette vil da påreske de dataene som blir tilgjengelige for oss"}
+{"episode_id": 83, "segment_index": 312, "start": 1082.07, "end": 1084.51, "text": "å gjøre data-labdandørene."}
+{"episode_id": 83, "segment_index": 313, "start": 1084.59, "end": 1089.07, "text": "Hvis jeg forstår dette her riktig, så er det en rekka andre regulering"}
+{"episode_id": 83, "segment_index": 314, "start": 1089.07, "end": 1093.39, "text": "rundt taxonomien som også vi i krav til selskaper"}
+{"episode_id": 83, "segment_index": 315, "start": 1093.39, "end": 1098.79, "text": "som dere investerer i og får dere også som invester."}
+{"episode_id": 83, "segment_index": 316, "start": 1098.79, "end": 1099.59, "text": "Er det ikke sånn?"}
+{"episode_id": 83, "segment_index": 317, "start": 1099.59, "end": 1103.35, "text": "Jo, og i siste har vi brukt en del tid for å forstå hva"}
+{"episode_id": 83, "segment_index": 318, "start": 1103.35, "end": 1107.03, "text": "med som forvalstere skal levere på forholdningen"}
+{"episode_id": 83, "segment_index": 319, "start": 1107.03, "end": 1109.35, "text": "om offentliggjøring av opplysninger"}
+{"episode_id": 83, "segment_index": 320, "start": 1109.35, "end": 1112.27, "text": "om bærekraftig investering og ESG-risiko."}
+{"episode_id": 83, "segment_index": 321, "start": 1112.35, "end": 1116.67, "text": "Dette oppfaller også under e-utsamlingsplan for bærekraftig finans."}
+{"episode_id": 83, "segment_index": 322, "start": 1116.67, "end": 1121.19, "text": "Denne forholdningen vil gjelde fra 10. mai, så neste år."}
+{"episode_id": 83, "segment_index": 323, "start": 1121.19, "end": 1126.47, "text": "I forbindelse med denne må vi da publisere informasjon om kursrisiko"}
+{"episode_id": 83, "segment_index": 324, "start": 1126.47, "end": 1128.71, "text": "som er knyttet til bærekraftig integrert"}
+{"episode_id": 83, "segment_index": 325, "start": 1128.71, "end": 1132.15, "text": "inn i våre beslutningsproceser for investeringer."}
+{"episode_id": 83, "segment_index": 326, "start": 1132.15, "end": 1136.67, "text": "Så må vi gi kunder informasjon om kurs ESG-risiko kan forventes"}
+{"episode_id": 83, "segment_index": 327, "start": 1136.67, "end": 1139.99, "text": "å påvirke avkassningen til investeringene"}
+{"episode_id": 83, "segment_index": 328, "start": 1140.03, "end": 1143.67, "text": "før vi ingår en oppfall om plassering."}
+{"episode_id": 83, "segment_index": 329, "start": 1143.67, "end": 1147.23, "text": "Og så det markedføring av bærekraftig utprodukser"}
+{"episode_id": 83, "segment_index": 330, "start": 1147.23, "end": 1151.15, "text": "som man kunne beskrive hva kursproduksene blir av bærekraft."}
+{"episode_id": 83, "segment_index": 331, "start": 1151.15, "end": 1155.51, "text": "Og dette kan vi gjøre med bruk av relevant indikatorer"}
+{"episode_id": 83, "segment_index": 332, "start": 1155.51, "end": 1158.87, "text": "forvundet indikatorer i henholdet til e-utsforholdning"}
+{"episode_id": 83, "segment_index": 333, "start": 1158.87, "end": 1161.79, "text": "om bærekraftige referensindekser."}
+{"episode_id": 83, "segment_index": 334, "start": 1161.79, "end": 1164.79, "text": "Så det forholdningen gjør er det den delet fra"}
+{"episode_id": 83, "segment_index": 335, "start": 1164.79, "end": 1167.07, "text": "inn i tre ulike kategorier"}
+{"episode_id": 83, "segment_index": 336, "start": 1167.11, "end": 1170.63, "text": "som er stille krav til i hvilke grad bærekraftsfaktorer"}
+{"episode_id": 83, "segment_index": 337, "start": 1170.63, "end": 1172.39, "text": "indikateres i formet."}
+{"episode_id": 83, "segment_index": 338, "start": 1172.39, "end": 1174.63, "text": "Så her må vi da gjøre en jobb med å definere"}
+{"episode_id": 83, "segment_index": 339, "start": 1174.63, "end": 1178.95, "text": "sortererfelskaper i formet i henhold til takonomien."}
+{"episode_id": 83, "segment_index": 340, "start": 1178.95, "end": 1182.43, "text": "Og det videre er det jo ikke endringer i nye fedt to"}
+{"episode_id": 83, "segment_index": 341, "start": 1182.43, "end": 1185.95, "text": "og forskjellingsdistituasjonsdirektive relevant."}
+{"episode_id": 83, "segment_index": 342, "start": 1185.95, "end": 1189.51, "text": "Vi foreslår det endringene går på å høyde sin tar kunder"}
+{"episode_id": 83, "segment_index": 343, "start": 1189.51, "end": 1193.39, "text": "ESG-preferenser når det vurderes"}
+{"episode_id": 83, "segment_index": 344, "start": 1193.39, "end": 1197.43, "text": "om et produkt eller investering i egenhet for kunder."}
+{"episode_id": 83, "segment_index": 345, "start": 1197.43, "end": 1200.35, "text": "Så for mye fedt to så krever det seg i tillegg"}
+{"episode_id": 83, "segment_index": 346, "start": 1200.35, "end": 1203.51, "text": "at dette var de papirforholdtakten må gi informasjon"}
+{"episode_id": 83, "segment_index": 347, "start": 1203.51, "end": 1207.99, "text": "om ESG-risiko som er krista til finansielle informanser."}
+{"episode_id": 83, "segment_index": 348, "start": 1207.99, "end": 1210.23, "text": "Så man er redd i gang fast dette arbeidet"}
+{"episode_id": 83, "segment_index": 349, "start": 1210.23, "end": 1213.39, "text": "med hvordan vi skal integrere dette i viktige dokumenter."}
+{"episode_id": 83, "segment_index": 350, "start": 1213.39, "end": 1216.51, "text": "Det høres ut som det blir mye å gjøre"}
+{"episode_id": 83, "segment_index": 351, "start": 1216.51, "end": 1219.51, "text": "på disse områdene fremover."}
+{"episode_id": 83, "segment_index": 352, "start": 1219.59, "end": 1224.46, "text": "Hva vil du si er de positive effekterne som takonomien vi har?"}
+{"episode_id": 83, "segment_index": 353, "start": 1224.46, "end": 1228.94, "text": "Det som er positivt er at med dette felles kaffeisering systemet"}
+{"episode_id": 83, "segment_index": 354, "start": 1228.94, "end": 1232.86, "text": "vil det jo bli lettere sammenheng af selskaper og investorer"}
+{"episode_id": 83, "segment_index": 355, "start": 1232.86, "end": 1235.5, "text": "og samt redificere grønvasking"}
+{"episode_id": 83, "segment_index": 356, "start": 1235.5, "end": 1238.62, "text": "da vi får en slags standard som alle skal forholde seg til."}
+{"episode_id": 83, "segment_index": 357, "start": 1238.62, "end": 1242.74, "text": "Det vil jo ikke tydeligere hvordan investorer kan sette grønne"}
+{"episode_id": 83, "segment_index": 358, "start": 1242.74, "end": 1245.06, "text": "steller av ekonomin fremover"}
+{"episode_id": 83, "segment_index": 359, "start": 1245.06, "end": 1249.46, "text": "og så vil det også videre til økeinformasjon fra selskaper."}
+{"episode_id": 83, "segment_index": 360, "start": 1249.46, "end": 1252.7, "text": "Det er jo mange selskaper som ønsker å posisjoneere seg"}
+{"episode_id": 83, "segment_index": 361, "start": 1252.7, "end": 1254.26, "text": "solution for virus."}
+{"episode_id": 83, "segment_index": 362, "start": 1254.26, "end": 1257.62, "text": "Dette ramleverket kan da hjelpe de til å gjøre dette."}
+{"episode_id": 83, "segment_index": 363, "start": 1257.62, "end": 1262.14, "text": "Også vil vi også kaffeisere selskaper som ligger uden for Europa"}
+{"episode_id": 83, "segment_index": 364, "start": 1262.14, "end": 1264.62, "text": "begynner å refutere i tråd med takonomien"}
+{"episode_id": 83, "segment_index": 365, "start": 1264.62, "end": 1269.59, "text": "hvis de i dag er av henge av investeringar fra Europa."}
+{"episode_id": 83, "segment_index": 366, "start": 1269.59, "end": 1271.67, "text": "Ja, men hva med utfordringer da?"}
+{"episode_id": 83, "segment_index": 367, "start": 1271.67, "end": 1276.22, "text": "Jeg antar at dere også ser noen utfordringer med takonomien."}
+{"episode_id": 83, "segment_index": 368, "start": 1276.22, "end": 1278.58, "text": "Ja, vi ser atligt en del utfordringer"}
+{"episode_id": 83, "segment_index": 369, "start": 1278.58, "end": 1280.7, "text": "som er knyttet til takonomien."}
+{"episode_id": 83, "segment_index": 370, "start": 1280.7, "end": 1286.06, "text": "12 og 5 er en større slik at den kvartifierer teknologier"}
+{"episode_id": 83, "segment_index": 371, "start": 1286.06, "end": 1289.46, "text": "som enten kvalificerende eller isse kvalificerende."}
+{"episode_id": 83, "segment_index": 372, "start": 1289.46, "end": 1292.94, "text": "Og det man må hytte på her er at dette er en del av"}
+{"episode_id": 83, "segment_index": 373, "start": 1292.94, "end": 1295.62, "text": "den frikade som utvikler seg grønt."}
+{"episode_id": 83, "segment_index": 374, "start": 1295.62, "end": 1299.66, "text": "Og farem er der med for en slags lite baserende takonomi"}
+{"episode_id": 83, "segment_index": 375, "start": 1299.66, "end": 1302.04, "text": "som kan fortsatt bli utdatert."}
+{"episode_id": 83, "segment_index": 376, "start": 1302.04, "end": 1305.0, "text": "Så hvis det er mye teknologiene og innovasjoner"}
+{"episode_id": 83, "segment_index": 377, "start": 1305.0, "end": 1306.88, "text": "som ikke er inkluderende fra snakken,"}
+{"episode_id": 83, "segment_index": 378, "start": 1306.88, "end": 1311.12, "text": "kan dette kvele innoversjon eller interesse."}
+{"episode_id": 83, "segment_index": 379, "start": 1311.12, "end": 1313.56, "text": "Så derfor vil det være veldig viktig at takonomien"}
+{"episode_id": 83, "segment_index": 380, "start": 1313.56, "end": 1318.08, "text": "forblir relevant ved å følge med på vår teknologisk utvikling."}
+{"episode_id": 83, "segment_index": 381, "start": 1318.08, "end": 1320.75, "text": "Hva med implementering?"}
+{"episode_id": 83, "segment_index": 382, "start": 1320.75, "end": 1322.79, "text": "Ja, dette vil jo ikke være en utfordring"}
+{"episode_id": 83, "segment_index": 383, "start": 1322.79, "end": 1326.71, "text": "for investere må rapportera på dette i 2021"}
+{"episode_id": 83, "segment_index": 384, "start": 1326.71, "end": 1329.31, "text": "mens kravene for rapportering for felskaper"}
+{"episode_id": 83, "segment_index": 385, "start": 1329.31, "end": 1332.07, "text": "kommer senere i 2022."}
+{"episode_id": 83, "segment_index": 386, "start": 1332.11, "end": 1335.51, "text": "Det er utvikert om felskaperne har krav"}
+{"episode_id": 83, "segment_index": 387, "start": 1335.51, "end": 1337.91, "text": "til rapportering om omstilling av aktiviteter"}
+{"episode_id": 83, "segment_index": 388, "start": 1337.91, "end": 1340.23, "text": "eller muligere aktiviteter i tillegg"}
+{"episode_id": 83, "segment_index": 389, "start": 1340.23, "end": 1342.27, "text": "til disse grønne aktiviteterne."}
+{"episode_id": 83, "segment_index": 390, "start": 1342.27, "end": 1347.1, "text": "Men investere må rapportera på dette på fremtiden vår."}
+{"episode_id": 83, "segment_index": 391, "start": 1347.1, "end": 1351.54, "text": "Revisioner til direktive for ikke finansiell rapportering"}
+{"episode_id": 83, "segment_index": 392, "start": 1351.54, "end": 1353.58, "text": "den er nå til høring."}
+{"episode_id": 83, "segment_index": 393, "start": 1353.58, "end": 1357.26, "text": "Og dette er noe vi har kommentert gjennom BFF."}
+{"episode_id": 83, "segment_index": 394, "start": 1357.26, "end": 1359.22, "text": "Det vil kanskje komme noe avklaring"}
+{"episode_id": 83, "segment_index": 395, "start": 1359.26, "end": 1362.18, "text": "på noen av disse punktene gjennom dette regelverket."}
+{"episode_id": 83, "segment_index": 396, "start": 1362.18, "end": 1365.18, "text": "Og det som kommer ut av revisionen"}
+{"episode_id": 83, "segment_index": 397, "start": 1365.18, "end": 1367.5, "text": "vil gjøre mer informasjon om hvilke data"}
+{"episode_id": 83, "segment_index": 398, "start": 1367.5, "end": 1368.98, "text": "vi kan forventere på."}
+{"episode_id": 83, "segment_index": 399, "start": 1368.98, "end": 1370.74, "text": "Ja, og dette her med data"}
+{"episode_id": 83, "segment_index": 400, "start": 1370.74, "end": 1373.38, "text": "det er vel en annen viktig utfordring"}
+{"episode_id": 83, "segment_index": 401, "start": 1373.38, "end": 1376.24, "text": "altså mangel på data?"}
+{"episode_id": 83, "segment_index": 402, "start": 1376.24, "end": 1377.24, "text": "Ja, absolutt."}
+{"episode_id": 83, "segment_index": 403, "start": 1377.24, "end": 1379.52, "text": "Det gjelder til felskaper"}
+{"episode_id": 83, "segment_index": 404, "start": 1379.52, "end": 1381.48, "text": "som ligger ut som tar Europa"}
+{"episode_id": 83, "segment_index": 405, "start": 1381.48, "end": 1384.08, "text": "som ikke har vi samle kravene til rapportering"}
+{"episode_id": 83, "segment_index": 406, "start": 1384.08, "end": 1387.64, "text": "gjennom direktive for ikke finansiell rapportering."}
+{"episode_id": 83, "segment_index": 407, "start": 1387.68, "end": 1389.96, "text": "Og dataleverandørene er heller ikke så klare"}
+{"episode_id": 83, "segment_index": 408, "start": 1389.96, "end": 1392.51, "text": "for å dekke disse felskaperne."}
+{"episode_id": 83, "segment_index": 409, "start": 1392.51, "end": 1394.35, "text": "Så derfor er det mulig at, for eksempel,"}
+{"episode_id": 83, "segment_index": 410, "start": 1394.35, "end": 1397.19, "text": "global PON vil ha en lavere dekning"}
+{"episode_id": 83, "segment_index": 411, "start": 1397.19, "end": 1399.63, "text": "og at dekningen av krønne omstillings"}
+{"episode_id": 83, "segment_index": 412, "start": 1399.63, "end": 1401.67, "text": "og muliggjørende aktiviteter"}
+{"episode_id": 83, "segment_index": 413, "start": 1401.67, "end": 1404.83, "text": "kan bli feil representert eller virkelaft."}
+{"episode_id": 83, "segment_index": 414, "start": 1404.83, "end": 1407.87, "text": "Vi kan jo i midlertid ha en potentiell"}
+{"episode_id": 83, "segment_index": 415, "start": 1407.87, "end": 1409.51, "text": "taxonomy alignment"}
+{"episode_id": 83, "segment_index": 416, "start": 1409.51, "end": 1413.39, "text": "men dette vil da kreve data fra dataleverandører"}
+{"episode_id": 83, "segment_index": 417, "start": 1413.39, "end": 1417.66, "text": "eller med hans egen metode for å eksimere disse dataene."}
+{"episode_id": 83, "segment_index": 418, "start": 1417.66, "end": 1420.18, "text": "Så i dag kan vi jo møte med felskaper"}
+{"episode_id": 83, "segment_index": 419, "start": 1420.18, "end": 1421.74, "text": "og oppfordre til rapportering"}
+{"episode_id": 83, "segment_index": 420, "start": 1421.74, "end": 1424.54, "text": "på klimaristekro og muligheter"}
+{"episode_id": 83, "segment_index": 421, "start": 1424.54, "end": 1427.38, "text": "i henhold til anbefalingen fra Task Force"}
+{"episode_id": 83, "segment_index": 422, "start": 1427.38, "end": 1431.26, "text": "on Con-related Financial Disclosure eller TSFD."}
+{"episode_id": 83, "segment_index": 423, "start": 1431.26, "end": 1433.9, "text": "Men skjømmerer vil vi jo i østende grad"}
+{"episode_id": 83, "segment_index": 424, "start": 1433.9, "end": 1436.3, "text": "å vinne og spørre felskaperne"}
+{"episode_id": 83, "segment_index": 425, "start": 1436.3, "end": 1439.26, "text": "om rapportering i krønne taxonomien."}
+{"episode_id": 83, "segment_index": 426, "start": 1439.26, "end": 1442.66, "text": "I tillegg ser vi jo noen utfordringer"}
+{"episode_id": 83, "segment_index": 427, "start": 1442.66, "end": 1446.14, "text": "for aktienvæsser omkring de relative vekkene"}
+{"episode_id": 83, "segment_index": 428, "start": 1446.18, "end": 1448.3, "text": "som gikk til forskjellige sektorer."}
+{"episode_id": 83, "segment_index": 429, "start": 1448.3, "end": 1450.58, "text": "For eksempel for godbruk"}
+{"episode_id": 83, "segment_index": 430, "start": 1450.58, "end": 1453.22, "text": "som skal taxifitere i rapporten"}
+{"episode_id": 83, "segment_index": 431, "start": 1453.22, "end": 1455.7, "text": "men denne sektoren representerer"}
+{"episode_id": 83, "segment_index": 432, "start": 1455.7, "end": 1459.7, "text": "egentlig en veldig liten del av verdensindekten."}
+{"episode_id": 83, "segment_index": 433, "start": 1459.7, "end": 1462.54, "text": "Det her er en mismatch for aktienvæsser"}
+{"episode_id": 83, "segment_index": 434, "start": 1462.54, "end": 1465.02, "text": "når det gjelder fokus av taxonomien"}
+{"episode_id": 83, "segment_index": 435, "start": 1465.02, "end": 1468.14, "text": "og det som faktisk er investeret varmt."}
+{"episode_id": 83, "segment_index": 436, "start": 1468.14, "end": 1469.66, "text": "Ja, det er interessant."}
+{"episode_id": 83, "segment_index": 437, "start": 1469.66, "end": 1473.34, "text": "Er det andre ting som er viktig for aktienvæsser?"}
+{"episode_id": 83, "segment_index": 438, "start": 1473.34, "end": 1475.62, "text": "Jo, og egentlig de par aktienvæsser"}
+{"episode_id": 83, "segment_index": 439, "start": 1475.62, "end": 1479.34, "text": "er å forstå hele radisjeden til felskaper."}
+{"episode_id": 83, "segment_index": 440, "start": 1479.34, "end": 1483.54, "text": "Og her kan vi si at taxonomien er relativt faktisk."}
+{"episode_id": 83, "segment_index": 441, "start": 1483.54, "end": 1485.1, "text": "For eksempel er det ikke gru,"}
+{"episode_id": 83, "segment_index": 442, "start": 1485.1, "end": 1486.34, "text": "det er fritt sektoren dekker"}
+{"episode_id": 83, "segment_index": 443, "start": 1486.34, "end": 1489.5, "text": "da dette ble verdert for vanskelig"}
+{"episode_id": 83, "segment_index": 444, "start": 1489.5, "end": 1492.54, "text": "og det blir dekket senere."}
+{"episode_id": 83, "segment_index": 445, "start": 1492.54, "end": 1494.62, "text": "Så det er jo en viktig innsatsfaktor"}
+{"episode_id": 83, "segment_index": 446, "start": 1494.62, "end": 1498.64, "text": "for mange felskaper som bidrar til det grønne fiste."}
+{"episode_id": 83, "segment_index": 447, "start": 1498.64, "end": 1500.16, "text": "Og så er det jo ikke sånn at taxonomien"}
+{"episode_id": 83, "segment_index": 448, "start": 1500.16, "end": 1501.24, "text": "fokuserer på Æ"}
+{"episode_id": 83, "segment_index": 449, "start": 1501.24, "end": 1504.08, "text": "eller det vil si klimamiljø."}
+{"episode_id": 83, "segment_index": 450, "start": 1504.08, "end": 1506.52, "text": "Men vi har lenge tenkt at det kommer til å bli"}
+{"episode_id": 83, "segment_index": 451, "start": 1506.52, "end": 1508.88, "text": "en økt fokus for ett faktorer"}
+{"episode_id": 83, "segment_index": 452, "start": 1508.88, "end": 1513.08, "text": "da det er viktig å ivareta et i det grønne skifte år."}
+{"episode_id": 83, "segment_index": 453, "start": 1513.08, "end": 1516.16, "text": "Og etten begge til en viss grad"}
+{"episode_id": 83, "segment_index": 454, "start": 1516.16, "end": 1518.8, "text": "gjennom kriterier, masker og aktiviteter"}
+{"episode_id": 83, "segment_index": 455, "start": 1518.8, "end": 1523.0, "text": "og å lise at de ivaret har sosiale forhold."}
+{"episode_id": 83, "segment_index": 456, "start": 1523.0, "end": 1526.08, "text": "Men periode er det ingen social teknologi"}
+{"episode_id": 83, "segment_index": 457, "start": 1526.08, "end": 1528.72, "text": "inkludert i den endelige rapporten."}
+{"episode_id": 83, "segment_index": 458, "start": 1528.72, "end": 1531.12, "text": "Technical expert kruspen eller tag"}
+{"episode_id": 83, "segment_index": 459, "start": 1531.12, "end": 1532.44, "text": "har sendet i midtel av tid"}
+{"episode_id": 83, "segment_index": 460, "start": 1532.44, "end": 1534.6, "text": "at en omfattende taxonomie"}
+{"episode_id": 83, "segment_index": 461, "start": 1534.6, "end": 1537.28, "text": "bør inkludere sosiale mål"}
+{"episode_id": 83, "segment_index": 462, "start": 1537.28, "end": 1539.68, "text": "samt tekniske screeningkriterier"}
+{"episode_id": 83, "segment_index": 463, "start": 1539.68, "end": 1541.64, "text": "for aktiviteter som"}
+{"episode_id": 83, "segment_index": 464, "start": 1541.64, "end": 1545.32, "text": "medfører betydelig skade på miljømålene."}
+{"episode_id": 83, "segment_index": 465, "start": 1545.32, "end": 1547.84, "text": "Så det vil finne brun taxonomie."}
+{"episode_id": 83, "segment_index": 466, "start": 1547.84, "end": 1551.2, "text": "Så dette ordner ofte for en mulighet"}
+{"episode_id": 83, "segment_index": 467, "start": 1551.2, "end": 1553.36, "text": "eller en mulig utvikling av både"}
+{"episode_id": 83, "segment_index": 468, "start": 1553.36, "end": 1556.92, "text": "sosial og brun taxonomie i fremtiden."}
+{"episode_id": 83, "segment_index": 469, "start": 1558.0, "end": 1560.56, "text": "Det virker som det er mange datapunktur"}
+{"episode_id": 83, "segment_index": 470, "start": 1560.6, "end": 1562.6, "text": "som skal rapporteres."}
+{"episode_id": 83, "segment_index": 471, "start": 1562.6, "end": 1567.29, "text": "Så dette kan bli en utfordring å kommunisere."}
+{"episode_id": 83, "segment_index": 472, "start": 1567.29, "end": 1570.69, "text": "Det er viktig å ha med alle datapunkturne."}
+{"episode_id": 83, "segment_index": 473, "start": 1570.69, "end": 1572.93, "text": "Men sosialt for privat makkudret"}
+{"episode_id": 83, "segment_index": 474, "start": 1572.93, "end": 1576.77, "text": "kan det bli forstå hva det betyr"}
+{"episode_id": 83, "segment_index": 475, "start": 1576.77, "end": 1580.33, "text": "og hvordan man skal forholde seg til det stedet."}
+{"episode_id": 83, "segment_index": 476, "start": 1580.33, "end": 1581.97, "text": "Så det er jo ingen far"}
+{"episode_id": 83, "segment_index": 477, "start": 1581.97, "end": 1583.93, "text": "for at noen kunder vil legge mye vekt"}
+{"episode_id": 83, "segment_index": 478, "start": 1583.93, "end": 1587.33, "text": "på taxonomie-alignment"}
+{"episode_id": 83, "segment_index": 479, "start": 1587.33, "end": 1588.85, "text": "som kan føre at noen"}
+{"episode_id": 83, "segment_index": 480, "start": 1588.85, "end": 1590.85, "text": "form med lav-alignment"}
+{"episode_id": 83, "segment_index": 481, "start": 1590.85, "end": 1593.85, "text": "blir negliseret eller syv i stedet."}
+{"episode_id": 83, "segment_index": 482, "start": 1593.85, "end": 1597.65, "text": "Men i realiteten så kan disse lavetallene"}
+{"episode_id": 83, "segment_index": 483, "start": 1597.65, "end": 1599.93, "text": "bare være et resultat av"}
+{"episode_id": 83, "segment_index": 484, "start": 1599.93, "end": 1601.33, "text": "for eksempel at det er"}
+{"episode_id": 83, "segment_index": 485, "start": 1601.33, "end": 1603.33, "text": "et stort antall småkapp"}
+{"episode_id": 83, "segment_index": 486, "start": 1603.33, "end": 1605.57, "text": "eller stort antall selskaper"}
+{"episode_id": 83, "segment_index": 487, "start": 1605.57, "end": 1608.73, "text": "udenforropet med i portfølgen."}
+{"episode_id": 83, "segment_index": 488, "start": 1608.73, "end": 1610.37, "text": "Og disse selskaperne vil da"}
+{"episode_id": 83, "segment_index": 489, "start": 1610.37, "end": 1612.57, "text": "exidekkes av den reguleringen"}
+{"episode_id": 83, "segment_index": 490, "start": 1612.57, "end": 1615.73, "text": "som de har på lagt å rapportera."}
+{"episode_id": 83, "segment_index": 491, "start": 1615.73, "end": 1618.29, "text": "Det er veldig viktig at vi er"}
+{"episode_id": 83, "segment_index": 492, "start": 1618.29, "end": 1620.29, "text": "veldig tydelige på hvorfor noen"}
+{"episode_id": 83, "segment_index": 493, "start": 1620.29, "end": 1622.29, "text": "kan ha en lav vekning."}
+{"episode_id": 83, "segment_index": 494, "start": 1622.29, "end": 1623.29, "text": "Det høres ut som dette her"}
+{"episode_id": 83, "segment_index": 495, "start": 1623.29, "end": 1625.29, "text": "vi krever ganske omfattende rapportering"}
+{"episode_id": 83, "segment_index": 496, "start": 1625.29, "end": 1626.29, "text": "fra selskaperne"}
+{"episode_id": 83, "segment_index": 497, "start": 1626.29, "end": 1628.29, "text": "så hvordan skal små bedrifter"}
+{"episode_id": 83, "segment_index": 498, "start": 1628.29, "end": 1631.29, "text": "eller mindre bedrifter forholde seg til"}
+{"episode_id": 83, "segment_index": 499, "start": 1631.29, "end": 1633.29, "text": "dette de har jo ikke nødvendigvis"}
+{"episode_id": 83, "segment_index": 500, "start": 1633.29, "end": 1635.99, "text": "i samme ressursene som de store?"}
+{"episode_id": 83, "segment_index": 501, "start": 1635.99, "end": 1637.99, "text": "Det vil absolutt kreve en del"}
+{"episode_id": 83, "segment_index": 502, "start": 1637.99, "end": 1639.99, "text": "forstått fra selskaperna."}
+{"episode_id": 83, "segment_index": 503, "start": 1639.99, "end": 1641.99, "text": "Og for små bedrifter"}
+{"episode_id": 83, "segment_index": 504, "start": 1641.99, "end": 1643.99, "text": "vil det være spesielt utfordrende"}
+{"episode_id": 83, "segment_index": 505, "start": 1643.99, "end": 1647.02, "text": "hvis rapporteringen blir obligatorisk."}
+{"episode_id": 83, "segment_index": 506, "start": 1647.02, "end": 1649.02, "text": "Derfor har det vært kommet"}
+{"episode_id": 83, "segment_index": 507, "start": 1649.02, "end": 1651.02, "text": "et slag som er til bordering"}
+{"episode_id": 83, "segment_index": 508, "start": 1651.02, "end": 1653.02, "text": "i høringsutkarte til"}
+{"episode_id": 83, "segment_index": 509, "start": 1653.02, "end": 1656.02, "text": "det rettive fra ikke finansiell rapportering"}
+{"episode_id": 83, "segment_index": 510, "start": 1656.02, "end": 1658.02, "text": "at det skal være mindre"}
+{"episode_id": 83, "segment_index": 511, "start": 1658.02, "end": 1660.02, "text": "omfattende rapportering for SMB."}
+{"episode_id": 83, "segment_index": 512, "start": 1660.02, "end": 1662.02, "text": "Og vi syns at det er viktig å"}
+{"episode_id": 83, "segment_index": 513, "start": 1662.02, "end": 1663.02, "text": "rapportera på dette,"}
+{"episode_id": 83, "segment_index": 514, "start": 1663.02, "end": 1665.02, "text": "men fokuset bør være"}
+{"episode_id": 83, "segment_index": 515, "start": 1665.02, "end": 1667.02, "text": "å bli mest vesentlig i faktorerne."}
+{"episode_id": 83, "segment_index": 516, "start": 1667.02, "end": 1669.02, "text": "Og at det bør det være mindre krav"}
+{"episode_id": 83, "segment_index": 517, "start": 1669.02, "end": 1671.02, "text": "til selskaperne som er mindre"}
+{"episode_id": 83, "segment_index": 518, "start": 1671.02, "end": 1673.02, "text": "enn de som er store."}
+{"episode_id": 83, "segment_index": 519, "start": 1673.02, "end": 1675.02, "text": "Du nevnte at taxonomin"}
+{"episode_id": 83, "segment_index": 520, "start": 1675.02, "end": 1677.02, "text": "du ser grønvasking"}
+{"episode_id": 83, "segment_index": 521, "start": 1677.02, "end": 1679.02, "text": "kommer dette her til å bli fjernet helt?"}
+{"episode_id": 83, "segment_index": 522, "start": 1679.02, "end": 1681.09, "text": "Nei, dette må man"}
+{"episode_id": 83, "segment_index": 523, "start": 1681.09, "end": 1683.09, "text": "fortsatt ha dette i på."}
+{"episode_id": 83, "segment_index": 524, "start": 1683.09, "end": 1685.09, "text": "For de forskjellige aktører"}
+{"episode_id": 83, "segment_index": 525, "start": 1685.09, "end": 1688.09, "text": "har kommet til å bruke forskjellige metoder"}
+{"episode_id": 83, "segment_index": 526, "start": 1688.09, "end": 1690.09, "text": "som hjelper oss til dette med"}
+{"episode_id": 83, "segment_index": 527, "start": 1690.09, "end": 1692.09, "text": "måling av potential taxonomy alignment."}
+{"episode_id": 83, "segment_index": 528, "start": 1692.09, "end": 1694.09, "text": "Så da kan det bli utfordrende"}
+{"episode_id": 83, "segment_index": 529, "start": 1694.09, "end": 1696.09, "text": "for kunder å forstå"}
+{"episode_id": 83, "segment_index": 530, "start": 1696.09, "end": 1698.09, "text": "hva forskjellene er mellom disse metodikkene."}
+{"episode_id": 83, "segment_index": 531, "start": 1698.09, "end": 1700.09, "text": "Så vi vil fortsette"}
+{"episode_id": 83, "segment_index": 532, "start": 1700.09, "end": 1702.09, "text": "å være åpen om hvordan vi jobber"}
+{"episode_id": 83, "segment_index": 533, "start": 1702.09, "end": 1704.09, "text": "og hva metodikken er."}
+{"episode_id": 83, "segment_index": 534, "start": 1704.09, "end": 1706.09, "text": "I tillegg ser det jo en fisk"}
+{"episode_id": 83, "segment_index": 535, "start": 1706.09, "end": 1708.09, "text": "som nemt at taxonomin er"}
+{"episode_id": 83, "segment_index": 536, "start": 1708.09, "end": 1709.09, "text": "regulatorisk"}
+{"episode_id": 83, "segment_index": 537, "start": 1709.09, "end": 1711.09, "text": "og ikke klarer hengene med"}
+{"episode_id": 83, "segment_index": 538, "start": 1711.09, "end": 1712.09, "text": "i utviklingen."}
+{"episode_id": 83, "segment_index": 539, "start": 1712.09, "end": 1714.09, "text": "Som invester og invester"}
+{"episode_id": 83, "segment_index": 540, "start": 1714.09, "end": 1716.09, "text": "er det jo mye rakert"}
+{"episode_id": 83, "segment_index": 541, "start": 1716.09, "end": 1717.09, "text": "å ta inn over deg"}
+{"episode_id": 83, "segment_index": 542, "start": 1717.09, "end": 1720.09, "text": "endringen i mulighet for med i det grønne skyste."}
+{"episode_id": 83, "segment_index": 543, "start": 1720.09, "end": 1722.09, "text": "Ja, så bra, Laura."}
+{"episode_id": 83, "segment_index": 544, "start": 1722.09, "end": 1724.09, "text": "Nina, du er fortsatt med oss."}
+{"episode_id": 83, "segment_index": 545, "start": 1724.09, "end": 1725.09, "text": "Hoppe jeg."}
+{"episode_id": 83, "segment_index": 546, "start": 1725.09, "end": 1726.31, "text": "Absolutt."}
+{"episode_id": 83, "segment_index": 547, "start": 1726.31, "end": 1728.31, "text": "Ja, så bra."}
+{"episode_id": 83, "segment_index": 548, "start": 1728.31, "end": 1730.31, "text": "Denne EU-rapporten som vi har snakket om i dag"}
+{"episode_id": 83, "segment_index": 549, "start": 1730.31, "end": 1732.31, "text": "som du sa tidligere"}
+{"episode_id": 83, "segment_index": 550, "start": 1732.31, "end": 1734.31, "text": "altså på 500 sider"}
+{"episode_id": 83, "segment_index": 551, "start": 1734.31, "end": 1736.31, "text": "nå har vi jo snakket"}
+{"episode_id": 83, "segment_index": 552, "start": 1736.31, "end": 1737.31, "text": "en del om den."}
+{"episode_id": 83, "segment_index": 553, "start": 1737.31, "end": 1738.31, "text": "Behøver man å lese alt her"}
+{"episode_id": 83, "segment_index": 554, "start": 1738.31, "end": 1740.31, "text": "hvis man virkelig skal forstå det?"}
+{"episode_id": 83, "segment_index": 555, "start": 1741.63, "end": 1743.63, "text": "Nei, det skulle jeg ikke si at man behöver gjøre."}
+{"episode_id": 83, "segment_index": 556, "start": 1743.63, "end": 1745.63, "text": "Altså, jeg skulle rekommendere"}
+{"episode_id": 83, "segment_index": 557, "start": 1745.63, "end": 1747.63, "text": "at man ser denne rapporten"}
+{"episode_id": 83, "segment_index": 558, "start": 1747.63, "end": 1749.63, "text": "som en katalog eller et oppslagsverk"}
+{"episode_id": 83, "segment_index": 559, "start": 1749.63, "end": 1751.63, "text": "der du helt enkelt drittar inni"}
+{"episode_id": 83, "segment_index": 560, "start": 1751.63, "end": 1753.63, "text": "på de delene som er relevanta"}
+{"episode_id": 83, "segment_index": 561, "start": 1753.63, "end": 1754.63, "text": "for deg."}
+{"episode_id": 83, "segment_index": 562, "start": 1754.63, "end": 1756.63, "text": "Om du er et bolag som bygger"}
+{"episode_id": 83, "segment_index": 563, "start": 1756.63, "end": 1759.63, "text": "nye fastigheter, då skiker du på kriterierna"}
+{"episode_id": 83, "segment_index": 564, "start": 1759.63, "end": 1760.63, "text": "for just det,"}
+{"episode_id": 83, "segment_index": 565, "start": 1760.63, "end": 1763.63, "text": "og kanskje håper det over de 69 andre."}
+{"episode_id": 83, "segment_index": 566, "start": 1763.63, "end": 1765.63, "text": "Og fra DMB Market"}
+{"episode_id": 83, "segment_index": 567, "start": 1765.63, "end": 1767.63, "text": "har vi også publiceret et"}
+{"episode_id": 83, "segment_index": 568, "start": 1767.63, "end": 1769.63, "text": "sammandrag som belyser de andre"}
+{"episode_id": 83, "segment_index": 569, "start": 1769.63, "end": 1771.63, "text": "viktigaste delene av rapporten"}
+{"episode_id": 83, "segment_index": 570, "start": 1771.63, "end": 1773.63, "text": "som vi hoppas skal kunne hjelpe til"}
+{"episode_id": 83, "segment_index": 571, "start": 1773.63, "end": 1775.63, "text": "å ta til seg denne rapporten."}
+{"episode_id": 83, "segment_index": 572, "start": 1775.63, "end": 1777.63, "text": "Ja, den må vi å passe på å gjøre"}
+{"episode_id": 83, "segment_index": 573, "start": 1777.63, "end": 1779.63, "text": "tilgjengelig for alle som ønsker å"}
+{"episode_id": 83, "segment_index": 574, "start": 1779.63, "end": 1781.63, "text": "lese og sette seg inn"}
+{"episode_id": 83, "segment_index": 575, "start": 1781.63, "end": 1782.63, "text": "i den."}
+{"episode_id": 83, "segment_index": 576, "start": 1782.63, "end": 1784.63, "text": "Laura, hvis vi er avslutningsvis,"}
+{"episode_id": 83, "segment_index": 577, "start": 1784.63, "end": 1787.63, "text": "løfter blikket litt opp fra rapporten."}
+{"episode_id": 83, "segment_index": 578, "start": 1787.63, "end": 1789.63, "text": "Hvordan tror du jeg skal gjøre hverdagen"}
+{"episode_id": 83, "segment_index": 579, "start": 1789.63, "end": 1790.76, "text": "blir det framover?"}
+{"episode_id": 83, "segment_index": 580, "start": 1790.76, "end": 1792.76, "text": "Jeg tror det blir veldig spennende"}
+{"episode_id": 83, "segment_index": 581, "start": 1792.76, "end": 1794.76, "text": "hvordan utviklingen blir på måret."}
+{"episode_id": 83, "segment_index": 582, "start": 1794.76, "end": 1796.76, "text": "Covidfokus er jo på klimamiljø"}
+{"episode_id": 83, "segment_index": 583, "start": 1796.76, "end": 1798.76, "text": "men som en ansvarlig invester"}
+{"episode_id": 83, "segment_index": 584, "start": 1798.76, "end": 1800.76, "text": "så er det jo også sosiale forhold"}
+{"episode_id": 83, "segment_index": 585, "start": 1800.76, "end": 1802.76, "text": "og erstyringsfaktorer som jeg må"}
+{"episode_id": 83, "segment_index": 586, "start": 1802.76, "end": 1804.76, "text": "se på og er viktige."}
+{"episode_id": 83, "segment_index": 587, "start": 1804.76, "end": 1806.76, "text": "Så etter Covidmasken så vil nok"}
+{"episode_id": 83, "segment_index": 588, "start": 1806.76, "end": 1808.76, "text": "fokuset på etlig forstætket"}
+{"episode_id": 83, "segment_index": 589, "start": 1808.76, "end": 1809.76, "text": "etter en period."}
+{"episode_id": 83, "segment_index": 590, "start": 1809.76, "end": 1811.76, "text": "Hvor mange har vært næst opptatt av"}
+{"episode_id": 83, "segment_index": 591, "start": 1811.76, "end": 1813.76, "text": "å gi denne profesen"}
+{"episode_id": 83, "segment_index": 592, "start": 1813.76, "end": 1815.76, "text": "for å ha med mer god konsumtanse"}
+{"episode_id": 83, "segment_index": 593, "start": 1815.76, "end": 1817.76, "text": "og grønne aktiviteter"}
+{"episode_id": 83, "segment_index": 594, "start": 1817.76, "end": 1819.76, "text": "samst omstilling som mulig gjørne"}
+{"episode_id": 83, "segment_index": 595, "start": 1819.76, "end": 1820.76, "text": "aktiviteter"}
+{"episode_id": 83, "segment_index": 596, "start": 1820.76, "end": 1822.76, "text": "som har flere fann som har jobbet"}
+{"episode_id": 83, "segment_index": 597, "start": 1822.76, "end": 1824.76, "text": "med dette over lengre tid."}
+{"episode_id": 83, "segment_index": 598, "start": 1824.76, "end": 1826.76, "text": "Men vi jobber jo i midler tid på rett"}
+{"episode_id": 83, "segment_index": 599, "start": 1826.76, "end": 1828.76, "text": "med miljøs sosiale forhold"}
+{"episode_id": 83, "segment_index": 600, "start": 1828.76, "end": 1830.76, "text": "og erstyring i alt mye."}
+{"episode_id": 83, "segment_index": 601, "start": 1830.76, "end": 1832.76, "text": "Men bare til flyttet er det veldig viktig"}
+{"episode_id": 83, "segment_index": 602, "start": 1832.76, "end": 1834.76, "text": "å minne på at det vil ta litt tid"}
+{"episode_id": 83, "segment_index": 603, "start": 1834.76, "end": 1836.76, "text": "for en aktivitert tilfass i seg"}
+{"episode_id": 83, "segment_index": 604, "start": 1836.76, "end": 1838.76, "text": "desto mye rapporteringskaverne"}
+{"episode_id": 83, "segment_index": 605, "start": 1838.76, "end": 1840.76, "text": "og at vi kommer til å se"}
+{"episode_id": 83, "segment_index": 606, "start": 1840.76, "end": 1842.76, "text": "kontinuerlig fremgang og forbedring"}
+{"episode_id": 83, "segment_index": 607, "start": 1842.76, "end": 1844.76, "text": "i kvaliteten av rapporteringen"}
+{"episode_id": 83, "segment_index": 608, "start": 1844.76, "end": 1846.76, "text": "over din forstående."}
+{"episode_id": 83, "segment_index": 609, "start": 1846.76, "end": 1848.76, "text": "Og i tillegg for å nå målen"}
+{"episode_id": 83, "segment_index": 610, "start": 1848.76, "end": 1850.76, "text": "av Parisfam, så er det ikke bare"}
+{"episode_id": 83, "segment_index": 611, "start": 1850.76, "end": 1852.76, "text": "selska for å investere som skal"}
+{"episode_id": 83, "segment_index": 612, "start": 1852.76, "end": 1854.76, "text": "bidra til målet, men må spille"}
+{"episode_id": 83, "segment_index": 613, "start": 1854.76, "end": 1856.79, "text": "på lag med myndigheter og andre."}
+{"episode_id": 83, "segment_index": 614, "start": 1856.79, "end": 1858.79, "text": "Og med den pågående corona-krisen"}
+{"episode_id": 83, "segment_index": 615, "start": 1858.79, "end": 1860.79, "text": "som har ført til blant annet"}
+{"episode_id": 83, "segment_index": 616, "start": 1860.79, "end": 1862.79, "text": "utsettelse av klimatoppmøte i"}
+{"episode_id": 83, "segment_index": 617, "start": 1862.79, "end": 1863.79, "text": "Glasgow"}
+{"episode_id": 83, "segment_index": 618, "start": 1863.79, "end": 1865.79, "text": "og implementering av"}
+{"episode_id": 83, "segment_index": 619, "start": 1865.79, "end": 1867.79, "text": "farm-to-fork og naturenmangfolds"}
+{"episode_id": 83, "segment_index": 620, "start": 1867.79, "end": 1869.79, "text": "strategiene til den europeiske"}
+{"episode_id": 83, "segment_index": 621, "start": 1869.79, "end": 1871.79, "text": "Green Deal, så kan fokuset"}
+{"episode_id": 83, "segment_index": 622, "start": 1871.79, "end": 1873.79, "text": "bli litt andre ledde framover."}
+{"episode_id": 83, "segment_index": 623, "start": 1873.79, "end": 1875.79, "text": "Okei, det er i hvert fall"}
+{"episode_id": 83, "segment_index": 624, "start": 1875.79, "end": 1877.79, "text": "veldig bra at Bærekraft"}
+{"episode_id": 83, "segment_index": 625, "start": 1877.79, "end": 1879.79, "text": "og ESG fortsatt"}
+{"episode_id": 83, "segment_index": 626, "start": 1879.79, "end": 1881.79, "text": "er høyt på"}
+{"episode_id": 83, "segment_index": 627, "start": 1881.79, "end": 1883.79, "text": "agendene kriset til"}
+{"episode_id": 83, "segment_index": 628, "start": 1883.79, "end": 1885.79, "text": "trost. Det blir spennende å"}
+{"episode_id": 83, "segment_index": 629, "start": 1885.79, "end": 1887.79, "text": "følge dette fremover"}
+{"episode_id": 83, "segment_index": 630, "start": 1887.79, "end": 1889.79, "text": "og se hvordan det eventuelt blir"}
+{"episode_id": 83, "segment_index": 631, "start": 1889.79, "end": 1891.79, "text": "implementert. Tusen takk for"}
+{"episode_id": 83, "segment_index": 632, "start": 1891.79, "end": 1893.79, "text": "at dere var med oss her i dag"}
+{"episode_id": 83, "segment_index": 633, "start": 1893.79, "end": 1895.79, "text": "og gav oss en god"}
+{"episode_id": 83, "segment_index": 634, "start": 1895.79, "end": 1897.79, "text": "og grundig oppdatering."}
+{"episode_id": 83, "segment_index": 635, "start": 1897.79, "end": 1899.79, "text": "Og ikke minst takk til alle dere"}
+{"episode_id": 83, "segment_index": 636, "start": 1899.79, "end": 1912.93, "text": "som hørte på."}
+{"episode_id": 83, "segment_index": 637, "start": 1912.93, "end": 1914.93, "text": "Denne podcasten og detts innehåll"}
+{"episode_id": 83, "segment_index": 638, "start": 1914.93, "end": 1916.93, "text": "skal anses som markedsføringsmateriel"}
+{"episode_id": 83, "segment_index": 639, "start": 1916.93, "end": 1918.93, "text": "fra DMB og må ikke oppfattes"}
+{"episode_id": 83, "segment_index": 640, "start": 1918.93, "end": 1920.93, "text": "som investeringsanbefaling"}
+{"episode_id": 83, "segment_index": 641, "start": 1920.93, "end": 1923.34, "text": "eller som investeringsanalyset."}
+{"episode_id": 83, "segment_index": 642, "start": 1923.34, "end": 1925.34, "text": "Innehållet skal heller ikke anses"}
+{"episode_id": 83, "segment_index": 643, "start": 1925.34, "end": 1927.34, "text": "for å være investeringsrådivning"}
+{"episode_id": 83, "segment_index": 644, "start": 1927.34, "end": 1929.57, "text": "tilpasset den enkelte kundesbehovet."}
+{"episode_id": 83, "segment_index": 645, "start": 1929.57, "end": 1931.57, "text": "Informasjonen som giser podcasten"}
+{"episode_id": 83, "segment_index": 646, "start": 1931.57, "end": 1933.57, "text": "er kun menet som generelt"}
+{"episode_id": 83, "segment_index": 647, "start": 1933.57, "end": 1935.57, "text": "spareverledning og er ikke menet"}
+{"episode_id": 83, "segment_index": 648, "start": 1935.57, "end": 1937.57, "text": "å utgjøre juridisk, finansiell,"}
+{"episode_id": 83, "segment_index": 649, "start": 1937.57, "end": 1939.57, "text": "kommersiell, skattemessig"}
+{"episode_id": 83, "segment_index": 650, "start": 1939.57, "end": 1942.53, "text": "eller renskapsmessig rådivning."}
+{"episode_id": 83, "segment_index": 651, "start": 1942.53, "end": 1944.53, "text": "Innehållet i sendingen er ikke gjennomgått"}
+{"episode_id": 83, "segment_index": 652, "start": 1944.53, "end": 1946.53, "text": "eller godkjent av"}
+{"episode_id": 83, "segment_index": 653, "start": 1946.53, "end": 1948.66, "text": "DMB Markets avdeling for analyset."}
+{"episode_id": 83, "segment_index": 654, "start": 1948.66, "end": 1950.66, "text": "Alle uttalser reflekterer DMBs"}
+{"episode_id": 83, "segment_index": 655, "start": 1950.66, "end": 1952.66, "text": "vurderingen på tidspunktet for den"}
+{"episode_id": 83, "segment_index": 656, "start": 1952.66, "end": 1954.66, "text": "aktuelle sendingen, og kan det etterkant"}
+{"episode_id": 83, "segment_index": 657, "start": 1954.66, "end": 1958.32, "text": "endres utnærmere beskjed."}
+{"episode_id": 83, "segment_index": 658, "start": 1958.32, "end": 1960.32, "text": "DMB er ikke ansvarlig for hvordan"}
+{"episode_id": 83, "segment_index": 659, "start": 1960.32, "end": 1962.32, "text": "informasjonen i podcasten benyttes eller tolkes."}
+{"episode_id": 83, "segment_index": 660, "start": 1962.32, "end": 1964.32, "text": "Informasjonen som hennviset"}
+{"episode_id": 83, "segment_index": 661, "start": 1964.32, "end": 1966.32, "text": "til historisk avkastning i"}
+{"episode_id": 83, "segment_index": 662, "start": 1966.32, "end": 1968.32, "text": "finansiell instrumenter,"}
+{"episode_id": 83, "segment_index": 663, "start": 1968.32, "end": 1970.32, "text": "en finansiell indeks eller prognoser"}
+{"episode_id": 83, "segment_index": 664, "start": 1970.32, "end": 1972.32, "text": "gir ingen garantif og fremtid i avkastning."}
+{"episode_id": 83, "segment_index": 665, "start": 1972.32, "end": 1974.9, "text": "DMB gjør oppmerksom på at"}
+{"episode_id": 83, "segment_index": 666, "start": 1974.9, "end": 1976.9, "text": "en hver investering i et"}
+{"episode_id": 83, "segment_index": 667, "start": 1976.9, "end": 1978.9, "text": "finansiellest instrument er forbundet"}
+{"episode_id": 83, "segment_index": 668, "start": 1978.9, "end": 1981.31, "text": "med risiko for økonomisk tap."}
+{"episode_id": 83, "segment_index": 669, "start": 1981.31, "end": 1983.31, "text": "Finansielle instrumenter kan både"}
+{"episode_id": 83, "segment_index": 670, "start": 1983.31, "end": 1985.31, "text": "øke og minnske valg, slik at"}
+{"episode_id": 83, "segment_index": 671, "start": 1985.31, "end": 1987.31, "text": "avkastning kan bli negativ som"}
+{"episode_id": 83, "segment_index": 672, "start": 1987.31, "end": 1989.44, "text": "følge av kursfall."}
+{"episode_id": 83, "segment_index": 673, "start": 1989.44, "end": 1991.44, "text": "DMB tar intet ansvar for direkte"}
+{"episode_id": 83, "segment_index": 674, "start": 1991.44, "end": 1993.44, "text": "eller indirekte tap og kostnader"}
+{"episode_id": 83, "segment_index": 675, "start": 1993.44, "end": 1995.44, "text": "som måtte oppståve bruk av den"}
+{"episode_id": 83, "segment_index": 676, "start": 1995.44, "end": 1997.44, "text": "informasjonen som gis i podcasten."}

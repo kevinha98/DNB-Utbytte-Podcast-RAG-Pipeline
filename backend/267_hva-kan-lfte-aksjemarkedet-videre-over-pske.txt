@@ -1,0 +1,969 @@
+Episode 267: Hva kan løfte aksjemarkedet videre over påske?
+Publisert: Fri, 08 Ap
+Vert: Marius Brun Haugen
+Varighet: 30 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/hva-kan-lfte-aksjemarkedet-videre-over-paske
+
+--- Transkripsjon ---
+
+[00:00:02] Vil bedringen av sentimentet i aksjemarkedet vi har sett de siste ukene fortsette over påske?
+
+[00:00:13] Og hva er de viktigste argumentene som taler for børsoppgang gitt bakteppe med krig, inflasjon og store svingninger?
+
+[00:00:20] Og hva slags aksjer er mest populære blant privatinvestorene til DNB?
+
+[00:00:26] Dette her skal vi snakke mer om i dagens episode.
+
+[00:00:29] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer i den globale økonomien
+
+[00:00:42] og finansmarkedet.
+
+[00:00:44] Jeg er Marius Brunhaugen fra DNB Markets, og med meg har jeg aksjestrateg Paul Harper.
+
+[00:00:51] Hei, Paul.
+
+[00:00:52] Hei, Marius.
+
+[00:00:53] Ja, det er det snart påskeferie, og vi har gått i gang med en ny måned,
+
+[00:00:58] og april er jo historisk en forholdsvis sterk måned i aksjemarkedet før vi får mai og velkjente selling may,
+
+[00:01:06] men utover det, Paul, så er det vel ikke noen sånn historiske data knyttet til hverken aksjer
+
+[00:01:12] eller påske som gir oss grunn til å være hverken ekstra negative eller ekstra positive i det korte bildet?
+
+[00:01:19] Nei, det er ikke noe sånn veldig systematisk med det, så skal man prøve å finne sånne sesongmønstre,
+
+[00:01:25] så som du sa, så er april ofte en god måned i markedet.
+
+[00:01:30] Påske blir jo litt forskjellige tidspunkter hvert år,
+
+[00:01:32] så det er ikke egentlig så veldig lett å klare å finne noe direkte relatert til påske og avkastning.
+
+[00:01:37] Men hvis vi skal gjøre opp status da, før vi går inn i påskeuken,
+
+[00:01:42] når vi sitter her er det torsdag 7. april ute på ettermiddagen,
+
+[00:01:48] så er jo status at hittil i år så er det bra hjemme,
+
+[00:01:51] men ute så har det vært ganske labert.
+
+[00:01:55] Hovenindeksen er opp i området 4-5%,
+
+[00:01:57] men går vi til Stockholm så er det ned 13%,
+
+[00:02:01] Tyskland ned 10-11%,
+
+[00:02:03] SMP ned 5-6%,
+
+[00:02:05] og Nasdaq ned pluss 10%,
+
+[00:02:07] så ja, noe veldig jubel.
+
+[00:02:10] Det er det jo ikke så langt på.
+
+[00:02:11] Nei, det har jo vært en tung start på året,
+
+[00:02:14] og det har ikke bare vært krigen i Ukraina som forklarer dette her,
+
+[00:02:19] for ser vi egentlig på utviklingen siden det brøt ut,
+
+[00:02:23] så er egentlig markedet litt opp,
+
+[00:02:24] så mye av egentlig skaden skjedde før dette,
+
+[00:02:28] og da har det vært i det hele tatt en periode hvor det er ikke veldig mye som har fungert,
+
+[00:02:35] men unntaket har jo vært råvarer spesielt,
+
+[00:02:37] og der kommer Oslo da relativt bra ut.
+
+[00:02:39] Ja da,
+
+[00:02:40] og rømter, det er fortsatt sentralt,
+
+[00:02:45] så det slipper vi ikke unna i dag heller.
+
+[00:02:47] Den amerikanske 10-åringen som jo er en liten ledestjerne,
+
+[00:02:51] den har klatret opp til 2,6%,
+
+[00:02:54] det er en ganske kraftig opp siden starten av mars,
+
+[00:02:57] og det er den høyeste 10-åringen har vært på på tre år.
+
+[00:03:01] Det er greit å huske på det,
+
+[00:03:03] og det ser jo også ut som markedet har, kan du si,
+
+[00:03:06] fått med seg da de siste dagene.
+
+[00:03:08] Ja, det har jo vært en ganske,
+
+[00:03:10] stor endring egentlig,
+
+[00:03:12] og spesielt når vi ser på hva som er priset inn i forventningene til Fed,
+
+[00:03:17] så har det vært da en voldsom oppjustering
+
+[00:03:20] i antall renteøkninger som er priset inn nå,
+
+[00:03:23] bare de siste ukene har det vært en stor endring,
+
+[00:03:26] men går du helt tilbake til høsten i fjor,
+
+[00:03:29] så var det nesten ikke priset inn noe som helst av renteøkninger,
+
+[00:03:32] så egentlig alt vi ser av den oppgangen
+
+[00:03:34] har kommet inn i forventningene nå i løpet av de siste seks månedene,
+
+[00:03:38] men det har vært en voldsom oppgang.
+
+[00:03:40] den perioden.
+
+[00:03:42] Inflasjonen er høy, det visste vi jo,
+
+[00:03:45] så er det kanskje utsikter til at det skal bite seg enda mer fast,
+
+[00:03:49] men det er vanskelig å se at risikoen ikke er på oppsiden her, eller hva?
+
+[00:03:56] Ja, så jeg tror det er enig i det at når du har
+
+[00:03:58] av de faktorene som endrer seg nå fremover,
+
+[00:04:01] så har sentralbanken gitt ganske tydelige signaler
+
+[00:04:04] på at de har tenkt å sette renten opp,
+
+[00:04:07] ikke bare en eller to eller tre ganger,
+
+[00:04:09] og muligens da,
+
+[00:04:10] flere ganger med en halving av gangen,
+
+[00:04:13] så det er noe som åpenbart trekker opp.
+
+[00:04:17] Og så har vi også den kvantitative tightening,
+
+[00:04:20] reversering av kvantitativ lettelse.
+
+[00:04:24] Hvis vi antar at kvantitativ lettelse var med på å presse rentene ned,
+
+[00:04:27] så skal jo tightening ha motsatt effekt,
+
+[00:04:30] så noe oppgang tror jeg man skal legge til grunn der også.
+
+[00:04:34] Så det eneste man kan kanskje trekke frem,
+
+[00:04:37] som trekker litt ned etter hvert,
+
+[00:04:39] er at vi får,
+
+[00:04:40] og jeg tror at når de setter rentene opp såpass mye,
+
+[00:04:42] så kommer det til å begynne å dempe
+
+[00:04:44] inflasjonsforventningen etter hvert,
+
+[00:04:46] så da blir jo den inflasjonskomponenten av renten
+
+[00:04:49] gradvis noe lavere.
+
+[00:04:51] Så det er kanskje sånn at vi er ikke så veldig langt unna
+
+[00:04:53] peak inflation fare.
+
+[00:04:57] Men at Fed, den amerikanske sentralbanken,
+
+[00:05:00] er på, hva skal vi si, bakbena,
+
+[00:05:03] det er vel ganske tydelig?
+
+[00:05:04] Ja, det er det absolutt,
+
+[00:05:05] og jeg tror man kan egentlig lage et ganske overbevisende case,
+
+[00:05:10] for at de burde ha begynt med innstramning for et år siden.
+
+[00:05:13] Nå hadde sjefen i Fed, Powell,
+
+[00:05:17] en tale her for et par uker siden,
+
+[00:05:19] hvor han snakket om de tilfellene hvor Fed hadde klart
+
+[00:05:23] å få til en myk landing,
+
+[00:05:25] og da var det en gang på 90-tallet,
+
+[00:05:27] en gang på 80-tallet,
+
+[00:05:28] og så var det en gang på 60-tallet.
+
+[00:05:30] Og hvis man ser tilbake på de forskjellige tilfellene,
+
+[00:05:33] så er det egentlig ingen av de som ligner så voldsomt
+
+[00:05:35] med dagens situasjon,
+
+[00:05:37] men kanskje den som er nærmest er den som var
+
+[00:05:39] på 60-tallet.
+
+[00:05:41] Men den store forskjellen den gangen,
+
+[00:05:43] var at de begynte å sette renten opp,
+
+[00:05:45] før inflasjonen begynte å bevege seg.
+
+[00:05:47] Så da var de egentlig relativt tidlig ute,
+
+[00:05:50] men selv den gangen,
+
+[00:05:52] så klarte de ikke å få kontroll på inflasjonen
+
+[00:05:54] noe særlig bra,
+
+[00:05:55] så inflasjonen kjørte jo opp,
+
+[00:05:56] tross for at de satte renten opp.
+
+[00:05:58] Og i etterkant,
+
+[00:05:59] når han som var sentralbanksjef på det tidspunktet,
+
+[00:06:01] da skulle gjøre en oppsummering av hans år som sentralbanksjef,
+
+[00:06:05] så mente han at han hadde feilet i den perioden,
+
+[00:06:07] med at de ikke hadde vært aggressiv nok.
+
+[00:06:09] Så selv om du kan si at det var en soft landing der og da,
+
+[00:06:13] så ble det egentlig ikke tolket som at det var noe spesielt
+
+[00:06:16] vellykket det heller.
+
+[00:06:18] Så man begynner denne innstrammingssyklusen da med
+
+[00:06:21] veldig høy inflasjon,
+
+[00:06:22] og i tillegg veldig lav arbeidsledighet,
+
+[00:06:25] så syklusen er meget moden allerede,
+
+[00:06:27] og da blir det veldig vanskelig å egentlig klare å få kontroll
+
+[00:06:30] på denne inflasjonen,
+
+[00:06:31] uten at man ender opp med å vippe økonomien inn i en restriksjon
+
+[00:06:34] med å sette renten opp for mye til slutt.
+
+[00:06:37] Men tilbake til det poenget jeg prøvde å gjøre,
+
+[00:06:39] i stedet at rentene skal opp,
+
+[00:06:43] det har man visst lenge,
+
+[00:06:45] men hvor mye og hvor fort,
+
+[00:06:48] det har på en måte vært usikkerhet rundt,
+
+[00:06:52] naturlig nok.
+
+[00:06:53] Men likevel, markedet har vært litt sånn,
+
+[00:06:56] den ene dagen så bryr det seg veldig om rentene,
+
+[00:06:59] den andre dagen så bryr ikke aksjemarkedet seg så mye.
+
+[00:07:02] Sånn kan det i hvert fall virke som.
+
+[00:07:04] Ja, det har jo vært veldig mye frem og tilbake rundt dette,
+
+[00:07:07] men jeg tror hvis man skal prøve å trekke litt sånne
+
+[00:07:09] lange linjer,
+
+[00:07:10] så har vi nå sett at vekstaksjer har gjort det dårlig nå
+
+[00:07:15] over en litt lengre periode,
+
+[00:07:17] og det har nettopp med den renteoppgangen å gjøre.
+
+[00:07:20] Så selv om det er mye volatilitet fra dag til dag,
+
+[00:07:22] så tror jeg man kan påstå at det har vært noe som
+
+[00:07:27] ligner en trend i hvert fall,
+
+[00:07:28] med at forventninger rundt renter stiger,
+
+[00:07:31] og at vekstaksjer som er de som er mest utsatt når rentene stiger,
+
+[00:07:35] er de som har gjort det klart dårligst over denne perioden.
+
+[00:07:37] Og så har vi denne yieldkurven da,
+
+[00:07:39] som vi har snakket om flere ganger,
+
+[00:07:41] som har invertert,
+
+[00:07:43] og dette har vi jo sagt før.
+
+[00:07:45] Det er et resesjonssignal som har vært ganske tresssikkert,
+
+[00:07:49] men det kan gjerne ta både 12 og 24 måneder
+
+[00:07:53] før resesjonen kommer etter dette signalet.
+
+[00:07:57] Så hva nå, Paul?
+
+[00:07:59] Ja, som du sier så er dette et veldig bra signal,
+
+[00:08:03] men det er ikke sånn at det er noe veldig nøyaktig formel,
+
+[00:08:06] at det er så så mange måneder etter at det inverterer,
+
+[00:08:09] så kommer toppen.
+
+[00:08:11] Så det varierer fra gang til gang,
+
+[00:08:13] og så er det også egentlig litt sånn vanskelig å definere,
+
+[00:08:17] hva er egentlig inverteringen?
+
+[00:08:20] Holder det om det bare inverterer i noen få minutter?
+
+[00:08:23] Eller må det holde seg under i så så mange dager?
+
+[00:08:27] For litt ettersom hvordan man velger å måle det denne gangen,
+
+[00:08:29] så har du egentlig bare hatt et døgn,
+
+[00:08:32] hvor det har vært under null kontinuerlig hele perioden.
+
+[00:08:35] Man har hatt tre dager hvor det har stengt under null,
+
+[00:08:38] men det har vært over null i løpet av dagen.
+
+[00:08:40] Så det er jo sånn at det kommer litt an på hvordan du definerer dette her,
+
+[00:08:45] om det skal si at det er en godkjent invertering eller ikke.
+
+[00:08:50] Er den godkjent hos deg, Paul?
+
+[00:08:53] Ja, så jeg vil tro at når den først har vært under null i noen dager,
+
+[00:08:57] selv om det ikke har vært kontinuerlig,
+
+[00:08:59] så er det vanskelig å egentlig påstå noe annet enn det.
+
+[00:09:02] Men det gjør at vi er allikevel ikke så mye under null,
+
+[00:09:03] selv om det ikke har vært kontinuerlig, så er det vanskelig å egentlig påstå noe annet enn det.
+
+[00:09:04] Men det gjør at vi er allikevel ikke så mye under null,
+
+[00:09:06] selv om det ikke har vært kontinuerlig, selv om det ikke har vært kontinuerlig,
+
+[00:09:07] selv om det er vanskelig å egentlig påstå noe annet enn det.
+
+[00:09:16] Så har vi jo krigen, som går sin gang dessverre.
+
+[00:09:19] så har vi jo krigen, som går sin gang dessverre.
+
+[00:09:21] Er det noe som tilsier at den langvarige krigen i Ukraina nå i større grad,
+
+[00:09:25] er priset inni markedet enn før?
+
+[00:09:27] Ja, det synes jeg er vanskelig å egentlig si,
+
+[00:09:31] når vi ser at markedet er jo høyere nå enn det var dagen før.
+
+[00:09:33] enn det var dagen før krigen brøt ut,
+
+[00:09:36] og vi må si at det var en overraskelse for de aller fleste
+
+[00:09:40] at dette skjedde, så jeg synes det er vanskelig
+
+[00:09:42] å egentlig argumentere for at markedet nå priser det inn
+
+[00:09:45] mer enn det gjorde på noe tidligere tidspunkt her,
+
+[00:09:49] så der vil jeg si dessverre at den risikoen er ikke så lett
+
+[00:09:54] å egentlig si er fullt utpriset her.
+
+[00:09:57] Nei, og oljeprisen som vi skal komme tilbake til,
+
+[00:10:01] den har jo rotet seg litt, men den er jo fortsatt over 100 dollar.
+
+[00:10:04] Ja da, så der er det vanskelig å se helt at oljeprisen skal tilbake
+
+[00:10:09] til det det var før, der tror jeg man må innse nå at
+
+[00:10:13] det har blitt en vesentlig endring strukturelt nå,
+
+[00:10:18] at Vesten prøver nå så fort som mulig å gjøre seg uavhengig
+
+[00:10:25] av russisk olje og kanskje enda viktigere gass.
+
+[00:10:28] Det er ikke noe som er så enkelt å gjøre umiddelbart,
+
+[00:10:30] i hvert fall når det gjelder gass,
+
+[00:10:32] men da skal man klare å finne tilsvarende mengder energi
+
+[00:10:36] fra andre steder, så er dette noe som er ikke noe veldig enkelt
+
+[00:10:39] å gjøre over natten, enten at du må bygge ut LNG-terminaler
+
+[00:10:43] eller at du må bygge ut alternativt fornybar energi.
+
+[00:10:49] Alle de forskjellige alternativer er ting som tar mye tid
+
+[00:10:52] og krever store investeringer, så det er ikke noe egentlig enkel løsning.
+
+[00:10:57] Og i mellomtiden da, når det er for lite fossilenergi
+
+[00:11:00] selv om det er noe som man håper å kunne fase ut på lengre sikt,
+
+[00:11:04] så er det vanskelig helt å se at de priserne skal falle tilbake
+
+[00:11:08] til der det var før alt dette begynte.
+
+[00:11:09] Og i Kina også, så er jo disse covid-problemene fortsatt blomstrende
+
+[00:11:14] i hvert fall etter hva jeg leser, og det er jo ikke bra det heller
+
+[00:11:17] i forhold til potensielle problemer i globale forsyningskjeder og så videre.
+
+[00:11:23] Nei, så der har vi, nå ser vi i hvert fall mye tydeligere kostnåden
+
+[00:11:28] med å ha en zero-covid-strategi.
+
+[00:11:30] At hver gang det bryter ut noe smitte, så stenger man ned området hvor det har skjedd.
+
+[00:11:36] Så i Kina nå så er det blant noen av de større byene hvor dette plutselig begynner
+
+[00:11:41] å bli et problem, så stenger du ned der, så merkes det på veksten.
+
+[00:11:47] Og vi fikk PMI-tall fra Kina denne uken som var langt svakere enn ventet.
+
+[00:11:52] Så jeg tror man må egentlig legge til grunn at Kina kommer til å slite med
+
+[00:11:56] å levere den veksten de håper, eller håpet de skulle få til i starten av året.
+
+[00:12:00] Så alle disse problemene vi har hatt nå de siste årene med forsyningskjeder
+
+[00:12:04] og alt det der, kommer antageligvis til å ta litt lengre tid
+
+[00:12:09] før det egentlig er helt i orden det også.
+
+[00:12:12] Så på en måte en utfordring her er at det er veldig vanskelig
+
+[00:12:15] å prise inn en potensiell situasjon der både smitten som vi snakket om i Kina
+
+[00:12:23] og krigen blir enda mer langvarig enn man kan håpe på.
+
+[00:12:29] Ja, man ønsker jo at dette skal gå over.
+
+[00:12:30] Så fort som mulig.
+
+[00:12:31] Ja, så du kan si at det er en litt interessant situasjon nå.
+
+[00:12:34] På den ene siden så har du Kina hvor vekst er utfordring.
+
+[00:12:39] Så hvor det er den covid-problematikken og i det hele tatt at vekstmodellen til Kina
+
+[00:12:44] som har blitt bygget opp på mye eiendomsutvikling og så videre,
+
+[00:12:50] at det sliter.
+
+[00:12:51] Vi snakket jo om det med eiendomssektoren tidligere i år som en risikofaktor.
+
+[00:12:57] Så det er Kina som sliter med vekst.
+
+[00:12:59] Og så er det USA hvor det koker over rett og slett.
+
+[00:13:01] At der må du prøve å sette renten opp til å sørge for at veksten ikke blir alt for mye til å håndtere det.
+
+[00:13:10] Så det er kanskje en eller annen måte hvor du klarer å finne en middelvei
+
+[00:13:13] hvor den skuffende veksten i Kina er nok til å dempe ting i USA og motsatt.
+
+[00:13:19] Men oddsen for at man klarer å finne akkurat den likevekstbalansen vil jeg ikke sette sånn veldig stor sannsynlighet på.
+
+[00:13:27] Så det kan fort være.
+
+[00:13:29] Det er sånn at du har en som er for hot og en som er for kaldt og ingen av de er de Goldilocks.
+
+[00:13:35] Men nå blir det mye negativt der altså.
+
+[00:13:43] Så skal vi trekke fram noe positivt herpå så får vi ta sentimentet i aksjemarkedet.
+
+[00:13:47] For de har jo i hvert fall vært oppadgående da, riktig nok fra litt kalde utbombede nivåer gjennom mars.
+
+[00:13:55] Hvor er vi nå? Litt mer sånn nøytralt territorium?
+
+[00:13:57] Ja, det er sånn ganske nøytralt vil jeg si nå.
+
+[00:14:00] Det varierer selvfølgelig hvilke av disse sentimentindikatorene.
+
+[00:14:04] Sentimentindikatorene man bruker, men en ting som var ganske felles for de fleste var at de var ekstremt negativ i starten av mars, slutten av februar.
+
+[00:14:13] Sentiment er jo en sånn kortsiktig indikator da, så når den er veldig strekt i den ene veien eller den andre,
+
+[00:14:20] så gir det gjerne ganske høy treffprosent på at utviklingen da kommer til å begynne å gå motsatt vei.
+
+[00:14:27] For det er begrenset hvor negativ sentiment kan bli og tilsvarende da når det er veldig positivt,
+
+[00:14:33] så er risikoen da at ting kan egentlig bare bli verre.
+
+[00:14:36] Så vi begynte marsmåneden med sentiment som var så negativt at det kunne nesten bare bli bedre,
+
+[00:14:43] og det kan nok kanskje være noe av forklaringen for hvorfor avkastningen i mars var egentlig ganske bra,
+
+[00:14:49] til tross for at det var disse forskjellige negative tingene som vi har snakket om her.
+
+[00:14:53] At det var rett og slett at sentiment måtte gå fra ekstremt negativt til mer nøytralt,
+
+[00:14:58] før de fundamentale faktorene kunne begynne å veie litt tyngre igjen.
+
+[00:15:03] Så på et vis så kan du si at ja, sentimentet har blitt litt bedre,
+
+[00:15:07] men det behøver ikke nødvendigvis å være positivt for aksjemarkedet.
+
+[00:15:11] Men hva er det som kan gjøre at investorene ser enda lysere på det da,
+
+[00:15:16] over påske og fremover i månedene som kommer?
+
+[00:15:20] Ja, så det er jo den gamle ordtaket da, at the market climbs a wall of worry.
+
+[00:15:27] Så når det er mye ting å frykte, så kan man i det minste si at da er det ikke altfor mye,
+
+[00:15:33] det er en kompleks i markedet.
+
+[00:15:36] Så er det en lang liste med negative faktorer etter hvert som kanskje ikke slår ut,
+
+[00:15:40] så blir det jo en liten positiv overraskelse hver gang.
+
+[00:15:43] Så det kan si at det er egentlig mer skummelt hvis det er den blå himmelen,
+
+[00:15:47] og ingen skyer å se noe plass.
+
+[00:15:50] Det er da de store smellene kommer, for det er jo ingen som er forberedt på det.
+
+[00:15:55] Så det er kanskje det at det er mye å bekymre seg for,
+
+[00:15:58] er kanskje det som er det mest positive akkurat nå.
+
+[00:16:01] Rapporteringssesongen blir jo spennende da, den kommer vel i gang over påske.
+
+[00:16:07] Vi kan vel forvente at selskapene leverer relativt bra,
+
+[00:16:12] men noen sånne kostnadsøkninger må vi vel vente å høre om i de fleste bransjer?
+
+[00:16:19] Ja, jeg tror det som blir mest spennende her,
+
+[00:16:21] er hva selskapene har å si om andre kvartal og eventuelt resten av året.
+
+[00:16:25] For i hvert fall det som har konsekvenser med krigen i Ukraina og til en viss grad
+
+[00:16:30] av disse nye smitteutbrud i Kina, har kommet for sent i kvartalet
+
+[00:16:36] til at det egentlig påvirker Q1 i noe vesentlig grad.
+
+[00:16:39] Så det kan gå til at Q1-tallene egentlig er helt ok,
+
+[00:16:43] men det blir da til hvilken grad selskapene varsler at analytikeren ligger for høyt
+
+[00:16:48] for resten av året, som kanskje blir det som er mest spennende.
+
+[00:16:52] Men vi har jo fått noen resultatvarsler,
+
+[00:16:54] men egentlig ikke kanskje like mange som enkelt har fryktet.
+
+[00:16:58] I Sverige så har vi hatt resultatvarsler fra huskvarna som var negativt.
+
+[00:17:03] Hennes og Maurits hadde litt dårlige Q1-tall,
+
+[00:17:06] de rapporterer forholdsvis tidlig i sesongen.
+
+[00:17:10] Og så peksipp det resultatvarslet i går kveld,
+
+[00:17:14] så noe negativt har duket opp allerede.
+
+[00:17:17] Men da er det kanskje litt sånn at forventningene ikke egentlig er så høye likevel,
+
+[00:17:22] så det er kanskje noe lettere da å overraske positivt at det holder egentlig med å være midt på
+
+[00:17:28] tre til å være en positiv overraskelse.
+
+[00:17:31] Oljeselskapene, de må vi vel forvente at har gjort bra rent inntjeningsmessig eller hva,
+
+[00:17:37] men på den andre siden er vel det ganske sannsynligvis priset godt inn?
+
+[00:17:41] Ja, så det er jo sånn at analytikerestimaten er jo alltid på etterskudd når det gjelder råvareselskap,
+
+[00:17:46] for kursene beveger i takt med råvarer fortløpende,
+
+[00:17:50] så det er priset inn minutt for minutt gjennom kvartalet.
+
+[00:17:55] Analytikerne, de gidder ikke å
+
+[00:17:57] endre estimatene sine hver dag,
+
+[00:17:59] så der kommer flere estimatendringer etter hvert som de publiserer sine preview-rapporter for Q1
+
+[00:18:07] og etter det review-rapportene.
+
+[00:18:10] Og jeg tror du kan si med ganske stor sannsynlighet at de aller fleste ligger litt for lavt på råvarepriser,
+
+[00:18:15] så der blir det en makt-til-maket oppjustering som kommer.
+
+[00:18:19] Så begge de to sektorene så er det nok oppsidig konsensus,
+
+[00:18:23] men det tror jeg er stort sett reflektert allerede.
+
+[00:18:27] Når jeg så på hva privatinvestorene våre handlet i mars,
+
+[00:18:32] så var det helt klart oljeaksjene som skilte seg ut.
+
+[00:18:37] Equinor og Aker, Aker BP, de ble nettopp solgt,
+
+[00:18:41] mens vår energi og Interoil Exploration, de ble nettopp kjøpt,
+
+[00:18:45] og alle disse fire var også de som tronet øverst på listen
+
+[00:18:49] når vi så hvem det var mest aktivitetig basert på transaksjoner.
+
+[00:18:54] Så helt klart, her har det fått mye oppmerksomhet,
+
+[00:18:57] det er vel ikke så rart heller, altså i starten av mars måned
+
+[00:19:01] så var jo oljeprisen bare på vei oppover mot 130 dollar fatet,
+
+[00:19:06] så da var det mye aktivitet.
+
+[00:19:08] Oljeservice har vi også snakket litt om i det siste pollet,
+
+[00:19:12] det ser jo etter stadig flere solmerker ut til å kunne bli litt bedre på sikt.
+
+[00:19:18] Så når jeg så på statistikken over hva privatinvestorene handlet,
+
+[00:19:22] var jeg litt overrasket over at det ikke var større aktivitet,
+
+[00:19:26] i oljeservice enn det det faktisk var i mars.
+
+[00:19:29] Men det er klart, det er store forskjeller i oljeservice,
+
+[00:19:33] noen selskaper har mye gjeld, noen har lite,
+
+[00:19:37] noen er i en posisjon som ser bra ut, mens andre fortsatt sliter.
+
+[00:19:40] Ja, det er klart, jeg synes det ser bedre ut i oljeservice nå
+
+[00:19:43] enn det har gjort på lenge, for det har jo vært ganske tungt nå i veldig mange år.
+
+[00:19:49] Men kan man prøve å se hva er kanskje en grunn til at man ikke skal la seg overbegeistret av oljeservice?
+
+[00:19:57] Så er det det at når det gjelder å bygge ut,
+
+[00:20:01] først å finne felt, og så bygge det ut, og så nedbetale investeringen,
+
+[00:20:06] da er det egentlig snakk om kanskje ti år før du har bygget det ut,
+
+[00:20:09] og ti år til før du har nedbetalt det.
+
+[00:20:12] Så for at et oljeselskap skal satse stort på et nytt felt,
+
+[00:20:16] så må de egentlig forvente at dette er noe de kan drive på med i 20 år pluss frem i tiden.
+
+[00:20:21] Så hvis signalene som kommer fra politikerne er mer sånn at vi trenger oljeinderinger,
+
+[00:20:25] deres i fem år, men etter det så skal vi da gjøre livet veldig surt med å komme med masse sånne
+
+[00:20:31] type grønne energikrav som gjør at den investeringen kanskje ikke blir nedbetalt i løpet av 20 år,
+
+[00:20:39] da er det ikke sikkert at de gjør disse helt store investeringene,
+
+[00:20:42] at det heller kanskje begrenser seg til mindre prosjekter hvor det er litt mer sånne tiebacks og sånne type ting.
+
+[00:20:48] Så det er ikke helt sikkert at oljeservice nødvendigvis får så mye oppdrag ut av dette her,
+
+[00:20:55] hvis ikke det politiske rammeverket gir oljeselskapene tillit nok til at dette er noe de kan investere med en sånn type 20 års horisont,
+
+[00:21:03] heller enn en fem år pluss.
+
+[00:21:06] Det gjenstår jo å se det, men det virker jo hvertfall som alle aktørene i bransjen,
+
+[00:21:11] i hvertfall de som jeg har pratet med, ser litt lysere på det da,
+
+[00:21:15] og det synes jeg det virker som de har en plausibel grunn til.
+
+[00:21:18] Ja, absolutt. Det er klart når oljeprisen er så høyt som det er nå,
+
+[00:21:22] så blir det mer investering enn det hadde ellers.
+
+[00:21:25] Så det er klart relativt til hva man forventet for et halvt år siden, så er det åpenbart bedre.
+
+[00:21:31] Så det er egentlig til hvilken grad skal man begynne å regne ut multipler basert på en forventning
+
+[00:21:37] at du får inntjening tilbake til der det var i sånne type 2006-2007 tidsperioden,
+
+[00:21:44] eller skal man egentlig legge til grunn at det kommer aldri tilbake igjen,
+
+[00:21:47] og at det er sånn at det er 20 eller 30% bedre enn det har vært de siste årene.
+
+[00:21:54] Og det blir jo en ganske stor problem.
+
+[00:21:55] Det blir jo en ganske stor forskjell om det er rom for stor oppside her,
+
+[00:22:00] eller om det er mer bare at det går litt bedre enn det har gjort tidligere.
+
+[00:22:03] Ja, og det er et godt poeng.
+
+[00:22:04] Så jeg får bare ta med i samme slengen at snart kommer det en episode som fokuserer litt mer på oljeservice.
+
+[00:22:14] Denne uken har jeg hatt besøk av Simen Liung i studio fra Oddfjell Technology.
+
+[00:22:20] Det er et nytt selskap på Oslo Børs.
+
+[00:22:23] De bistod vi med utskillelsen fra Oddfjell Drilling.
+
+[00:22:28] Så han har vært der og fortalt litt om rasjonalet for å skille ut Oddfjell Technology som et eget selskap.
+
+[00:22:35] Og da snakket vi også litt om utsiktene for oljeservicebransjen generelt.
+
+[00:22:39] Så dette kommer snart, som sagt, i en egen episode.
+
+[00:22:43] Laks må vi også innom, Paul.
+
+[00:22:45] Lakseprisen er jo nesten i hundre, om den ikke er det når vi sitter her og prater.
+
+[00:22:51] Ja, det har jo vært en veldig sterk start.
+
+[00:22:53] På året innen sjømat.
+
+[00:22:55] Vi snakket om energi og råvare som sektorer hvor estimatene kan komme opp.
+
+[00:23:00] Og jeg tror sjømat kan også komme inn i den kategorien.
+
+[00:23:04] Der tror jeg det er heller oppside enn nedside.
+
+[00:23:07] Du er glad for at du tok opp lakseksponeringen i porteføljen med anbefalte aksjer her for noen uker tilbake?
+
+[00:23:13] Jeg skulle gjerne gjort det en uke senere, for å være helt ærlig.
+
+[00:23:15] For jeg hadde litt uflaks da vi tok Greek Seafood inn, og den falt til 10% den første uken.
+
+[00:23:22] Men etter det så har den kommet opp en 20%, tror jeg.
+
+[00:23:26] Så i sum, ja.
+
+[00:23:28] Men akkurat den uken jeg gjorde det, så kunne jeg gjerne ha ventet en uke til før jeg trykket på knappen.
+
+[00:23:34] Men uansett, markedet for laks er bra nå.
+
+[00:23:40] Selv om kostnadsøkningene også treffer oppdretterne, så nyter du godt av gode marginer om dagen.
+
+[00:23:46] Ja, og man må ikke glemme det at når det gjelder kostnader, så gjelder det egentlig alle mulige matvarer.
+
+[00:23:52] Om det er vete og alt det som trenger gjørsel, eller om det er kjøttprodukter som også trenger masse innsatsfaktorer.
+
+[00:24:04] Så det er ikke sånn at laks kommer noe spesielt dårlig ut når det gjelder kostnadsøkninger.
+
+[00:24:09] Så jeg tror egentlig laks er absolutt et spennende område.
+
+[00:24:13] Det jeg må kanskje vurdere litt her, er at i hvert fall historisk så har det vært et visst sesongmønster hvor lakseprisene er bra frem til påske.
+
+[00:24:21] Og så er det litt mer så som så gjennom sommeren før det da tar seg opp igjen på slutten av året.
+
+[00:24:26] Så på et eller annet tidspunkt så må jeg nok gjøre en vurdering når man eventuelt skal ta gevinst.
+
+[00:24:31] Det er ikke nødvendigvis sånn at man skal være overvekt sjømat hele året.
+
+[00:24:35] Men så lenge det funker, så blir det i hvert fall terskelen for å ta noe ut relativt høyt.
+
+[00:24:42] Ja, og i forhold til timingen her, så kommer du litt an på hvilket perspektiv.
+
+[00:24:47] Bortsett fra de anbefalte aksjene som du sitter, så ser du relativt høyt.
+
+[00:24:49] Ja, og i forhold til timingen her, så kommer du litt an på hvilket perspektiv.
+
+[00:24:50] Ja, og i forhold til timingen her, så ser du relativt høyt.
+
+[00:24:52] Ja, absolutt.
+
+[00:24:53] Vi må nevne bank også, for det har jo vært en av de sektorene som har vært positive til gjennom 2021.
+
+[00:25:01] Snakket varmt om ved inngangen til året.
+
+[00:25:05] Lugget litt den siste tiden, til tross for at det er en sektor som nyter godt av høyere renter.
+
+[00:25:10] Ja, og det var grunnen til å være positiv her.
+
+[00:25:13] At bank er definitivt det man vil kalle en value-sektor.
+
+[00:25:17] Det er også en av de segmentene som gjør det.
+
+[00:25:20] Forholdsvis bra når rentene stiger i motsetning til vekstaksjer.
+
+[00:25:24] Så fra et makroperspektiv, så var det helt åpenbart at bank burde være et sted å være.
+
+[00:25:30] Rentene har jo kommet opp, men jeg må si at jeg har vært litt skuffet med utviklingen, spesielt de siste ukene.
+
+[00:25:37] Nettopp det at når rentene kommer opp, så burde det trekke i en positiv retning.
+
+[00:25:43] Men jokeren når det gjelder bank, er det at det er en early cycle sektor.
+
+[00:25:49] Det er en sektor som begynner å gå dårlig først når man begynner å lukte at en resesjon er rundt hjørnet.
+
+[00:25:56] Grunnen til det er at i bank så er det egentlig to ting som er viktig.
+
+[00:25:59] Det ene er renteutviklingen, og den har vi oppsett ganske på plass.
+
+[00:26:04] Men så er det andre lånetap.
+
+[00:26:06] Så hvis man ikke begynner å lukte at det kommer lånetap etterhvert,
+
+[00:26:09] så er det grunnen til at bank da gjerne gjør det dårlig litt tidlig før en resesjon egentlig kommer i gang.
+
+[00:26:16] Og tilsvarende så er det grunnen til at bank ofte er bra,
+
+[00:26:18] når man skjønner at resesjonen er ferdig med å bli ferdig.
+
+[00:26:21] For da begynner man å lukte at lånetap ikke blir noe verdig i hvert fall i første omgang,
+
+[00:26:27] og så etterhvert kan begynne å reverseres.
+
+[00:26:29] Så det at bank gjør det litt dårlig nå, kan tolkes som et signal at her begynner markedet å lukte
+
+[00:26:36] at resesjonen kanskje ikke er altfor langt unna.
+
+[00:26:39] Men er det noen grunn til å begynne å frykte det, lånetap, når det gjelder norske banker enda,
+
+[00:26:43] med tanke på det bakteppet vi har med, altså det går bra for ASNorge?
+
+[00:26:46] Ja.
+
+[00:26:47] Det er nettopp derfor vi har fortsatt bank i ukens portefølje,
+
+[00:26:50] at vi synes Norge burde komme forholdsvis bra ut av dette her.
+
+[00:26:54] Spesielt med tanke på at når noe av problemet er en høy holdepris,
+
+[00:26:58] så er ikke det så veldig negativt for de fleste norske bedriftene.
+
+[00:27:02] Så det er ikke åpenbart at det kommer mye lånetap i Norge.
+
+[00:27:06] Så det er mulig at det som egentlig skjer her,
+
+[00:27:09] er at det er kanskje mer reell grunn til å være redd for lånetap i Europa.
+
+[00:27:15] Europeisk Bank har jo også vært litt svak nå i det siste.
+
+[00:27:18] Så det er mulig at dette er mer en smitteeffekt, at det går dårlig med Europeisk Bank.
+
+[00:27:22] Og da blir norske banker også noe påvirket av det,
+
+[00:27:26] selv om det egentlig ikke er noe direkte negative konsekvenser.
+
+[00:27:29] Så kanskje dette egentlig åpner opp for en bedre kjøpsmulighet i norske banker.
+
+[00:27:34] Men for øyeblikket da, så er det litt sånn at,
+
+[00:27:37] se på det som et litt sånn gult trafikklys her,
+
+[00:27:42] at det er i hvert fall noe man må følge litt ekstra med på.
+
+[00:27:46] For å fortsette dette, så er det kanskje et dårlig signal.
+
+[00:27:49] For oljeprisen holder seg antageligvis ikke like sterkt i en resesjon.
+
+[00:27:53] Nei, for å prøve å oppsummere her.
+
+[00:27:56] Det er jo fort gjort, føler jeg, å bli negativ i det bakteppet vi har.
+
+[00:28:01] Men sånn i sum, altså når du veier faktorene som trekker i positiv retning,
+
+[00:28:05] og faktorene som trekker i negativ retning, hva vil veie tyngst fremover?
+
+[00:28:11] Ja, det er jo det vi sliter litt med akkurat nå,
+
+[00:28:14] å prøve å finne hva som veier tyngst her.
+
+[00:28:18] For skal vi gå helt back to basics når det gjelder aksjer,
+
+[00:28:22] så kan vi si at det er to ting som er viktige.
+
+[00:28:24] Den ene er inntjeningsutviklingen, og den andre er renter.
+
+[00:28:28] Så hvor mye er det du skal diskontere denne inntjeningen med?
+
+[00:28:32] Så renten, må vi si at det er forholdsvis stor sannsynlighet at den skal opp,
+
+[00:28:37] med mindre det er en resesjon.
+
+[00:28:39] I så fall så kommer den ned fordi at inntjeningen faller veldig mye.
+
+[00:28:43] Så det er egentlig den inntjeningsutviklingen som blir det avgjørende av de to,
+
+[00:28:48] om det klarer å veie opp for en oppgang i renter.
+
+[00:28:52] Og jeg tror i Norge så kan man si at ja, det er nok mulig at vi kan få det til,
+
+[00:28:57] for summerer du opp energi, råvarer og fisk,
+
+[00:29:01] så er du da over halvparten av Oslo Børs.
+
+[00:29:05] Og så har du sånn finans da som burde kanskje klare seg forholdsvis bra det også,
+
+[00:29:09] der har du litt hett som hvordan du definerer finans mellom 15-20% av indeksvekten til.
+
+[00:29:15] Så Oslo Børs er egentlig godt posisjonert for mye av dette,
+
+[00:29:20] men det er sånn at Oslo Børs klarer som regel ikke å stå imot hvis resten av verden går dårlig.
+
+[00:29:25] Og det er der som svakheten er nå, at høyere råvarepriser og så videre,
+
+[00:29:29] slår jo netto negativt ut i de fleste andre markedene.
+
+[00:29:33] Så det er en vanskelig beregning å gjøre dette her,
+
+[00:29:38] akkurat nå, hvor lenge er det syklusen holder,
+
+[00:29:42] hvor fort er det Fed setter rentene opp,
+
+[00:29:44] og ender de opp med å sette det opp for mye og at det blir en hard landing.
+
+[00:29:48] Det er absolutt mye som kanskje peker i retning at det kommer en hard landing til slutt,
+
+[00:29:53] men det utelukker ikke at det kan bli bra en stund til først.
+
+[00:29:56] Og utfallsrommet er fortsatt stort,
+
+[00:29:59] det er derfor vi har en nøytral anbefaling på markedet,
+
+[00:30:03] og som vi har sagt før, dette er ikke tidspunktet for å bli for over,
+
+[00:30:08] eller modig heller.
+
+[00:30:10] Bedre å være litt forsiktig der vi er i syklen og den fasen vi er i markedet nå.
+
+[00:30:15] Ja, det er nettopp det at man skal satse hardest når oddsen er best,
+
+[00:30:20] og akkurat nå er ikke oddsen noe sånn stort bedre enn midt på tre, synes jeg.
+
+[00:30:25] Bra, da er det påske og etterpåske.
+
+[00:30:31] Da er vi tilbake med nye episoder, blant annet så skal det dreie seg om helsesektoren.
+
+[00:30:36] Det står på agendaen i uken etter påsken.
+
+[00:30:42] Ha en riktig god ferie alle sammen.
+
+[00:30:46] Takk Paul for at du var med, og tusen takk til alle dere som hørte på.

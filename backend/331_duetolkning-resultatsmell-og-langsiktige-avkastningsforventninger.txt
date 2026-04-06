@@ -1,0 +1,2325 @@
+Episode 331: Duetolkning, resultatsmell og langsiktige avkastningsforventninger
+Publisert: Fri, 10 Fe
+Vert: Marius Brun Haugen
+Varighet: 51 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/duetolkning-resultatsmell-langsiktige-avkastningsforventner
+
+--- Transkripsjon ---
+
+[00:00:00] Er det mulig å løfte blikket, stirre inn i avkastningshorisonten og predikere forventet avkastning over de neste 7-10 årene for aksjer, obligasjoner, eiendom og andre aktive klasser?
+
+[00:00:13] Det mener Thor-Andre Lysebo i DNB Veldt Management Investment Office.
+
+[00:00:17] Han og teamet er ute med oppdaterte anslag for langsiktige avkastningsforventninger i en ny rapport.
+
+[00:00:24] Forutsetningene de har lagt til grunn, hva de har kommet frem til og hvordan du kan bruke dette som en del av din egen investeringsstrategi får du høre mer om i dagens episode.
+
+[00:00:34] I tillegg skal Paul Harper og jeg som vanlig ta pulsen på de mest aktuelle hendelsene og bevegelsene i aksjemarkedet.
+
+[00:00:43] Denne uken har nemlig en rekke børsnoterte selskaper rapportert tall, utbytte og guidet investorene på godt og vondt.
+
+[00:00:58] Velkommen til utbytte.
+
+[00:01:00] DNB-podkasten der vi forklarer hva som skjer i den globale økonomien og finansmarkedene.
+
+[00:01:06] Jeg er Marius Brunhaugen og med meg har jeg aksjestrateg Paul Harper.
+
+[00:01:10] Hei Paul.
+
+[00:01:11] Hei Marius.
+
+[00:01:12] Ja, det er torsdag 9. februar.
+
+[00:01:15] Klokken har passert 12 når vi sitter her og spiller inn episoden.
+
+[00:01:19] Vi måtte ta det en dag tidligere enn normalt denne uken for å komme i mål med episoden.
+
+[00:01:24] Og etter hvert skal vi også da få inn Thor-Andre Lysbo i studio for å høre om disse langsiktige avkastningene.
+
+[00:01:30] Men først så skal vi ta det nære og høyaktuelle, Paul.
+
+[00:01:36] Det har vært en drøss med resultater fra de norske selskapene denne uken.
+
+[00:01:41] Jeg har vært veldig busy, så det har vært vanskelig å rekke å gjøre så veldig mye annet enn å bare gå gjennom alle disse forskjellige tallene.
+
+[00:01:46] Har du rukt å legge noen av tallene inn i regnverket da?
+
+[00:01:50] Jeg klarer sånn noglunde å holde det up to date, men det er egentlig stort sett det jeg rekker å gjøre om dagen.
+
+[00:01:56] Det er bra. Vi skal straks komme tilbake til det.
+
+[00:02:00] Etter her så er norske aksjer oppe så langt i denne uken, drevet av flere gode resultater for en del av tungvekterne.
+
+[00:02:09] Og ikke minst oljeprisen som har klatret tilbake til midten av 80-tallet.
+
+[00:02:13] I USA har Nasdaq konsolidert så langt i denne uken, og 10-årsrenten er litt opp til 3,6 prosent.
+
+[00:02:23] Den amerikanske sentralbanksjefen Powell deltok i en runde med spørsmål og svar på Economic Club.
+
+[00:02:30] På tirsdag, dette her var første gang Powell uttalte seg etter pressekonferansen i forbindelse med forrige ukes rentemøte.
+
+[00:02:38] Og det var litt spennende knyttet til hvordan han ville forholde seg til at aksjonærene i etterkant av rentemøtet,
+
+[00:02:46] eller aksjereaksjonene i etterkant av rentemøtet, ikke samsvarte helt med det hovedbudskapet om høyere renter som han kom med.
+
+[00:02:54] Ja, markedet, de tok jo på en måte bølgen på å tolke til han duet det. Det var i hvert fall sånn det virket.
+
+[00:03:00] Ja, det ble jo litt sånn igjen her at jeg tror til en viss grad så er det det at han ble både i pressekonferansen etter Fed-møtet og denne uken,
+
+[00:03:11] da invitert av spørsmålene til å prøve å komme med litt mer sånn haukete uttalser, og det at han ikke gjorde det, da ble egentlig tolket som duet det.
+
+[00:03:19] Så vi kan jo si at om han følte at det kom litt feil ut etter pressekonferansen, så hadde han i så fall mulighet til å endre på det budskapet,
+
+[00:03:30] nå denne uken, og totalt sett så virker det som om han egentlig prøver å si at føler at de har situasjonen sånn ganske under kontroll, renten skal litt opp, men ikke noe mer dramatisk enn det.
+
+[00:03:41] Ja, fordi er det det inntrykket han forsøker å gi til markedet? Fed har kontroll på inflasjonen?
+
+[00:03:47] Ja, altså han sier at det er fortsatt en del jobb å gjøre, og det tror jeg ingen er noe særlig i tvil om, men jeg tror sånn alt i alt så virker han sånn relativt avslappet rundt utfordringene med inflasjon,
+
+[00:04:00] og det gir i hvert fall noe tillit at situasjonen er, eller i hvert fall muligheten for en myk landing er til stede, men noe som er litt interessant synes jeg,
+
+[00:04:09] at det er kanskje en litt annen type tolkning i rentemarkedet enn det det er i aksjemarkedet, og det er noe som iblant kan være litt spennende når det ikke er fullt enighet mellom de to.
+
+[00:04:20] Ok, hva er det som tolkes sammenhøydes i rentemarkedet?
+
+[00:04:23] Ja, så på den ene siden så kan du si at aksjemarkedet egentlig sier at dette blir en myk landing, og at det han sier er sånn relativt,
+
+[00:04:30] men hvis du ser på hvordan Fed Funds Futures rentekurven ser ut nå, så er det på det mest haukete det har vært i løpet av denne syklusen,
+
+[00:04:41] så vi er nå tilbake på de type nivåene som vi var til i november, som var egentlig peak hawkersnes før.
+
+[00:04:48] Så sånn sett så er det ikke like lett å egentlig si at rentemarkedet tolker dette duete, det virker som det er aksjemarkedet som gjør det,
+
+[00:04:55] mens rentemarkedet egentlig har kanskje litt mer fokus på akkurat de kommentarene om at rentemarkedet,
+
+[00:05:00] renten skal opp, og ikke bare opp ved ett møte, men antageligvis i hvert fall to,
+
+[00:05:05] og sannsynligheten for rentekutt i år er kanskje vesentlig mindre enn det mange hadde antatt.
+
+[00:05:10] Ja, og det er en viktig presisering også, Paul, for det kommer vel an på hvem og hva slags type investor du spør,
+
+[00:05:18] for jeg leser litt på diskusjonsforar og i aviser og andre type ting, så virker det jo som at meningen er ganske delte,
+
+[00:05:27] om hvorvidt Powell og den amerikanske sentralbanken...
+
+[00:05:30] Hvilken egentlig er duete, altså at de ikke lenger er i så kraftig rentehevingsmodus, eller ikke?
+
+[00:05:37] Det er jo andre medlemmer av den rentesettingskomiteen som også har hatt taler,
+
+[00:05:41] og de har kanskje vært noe mer haukete i måten de har lagt frem situasjonen,
+
+[00:05:46] så det er jo et poeng, og så er det jo også mulig at kanskje en forklaring på dette her er at
+
+[00:05:52] når vi ser på hvordan aksjekursene utvikler seg, så er det ikke bare styrt av renteforventninger,
+
+[00:06:00] men også av den oppgangen vi har sett i aksjer,
+
+[00:06:02] kan da for eksempel være basert på at mange har kanskje vært litt for defensiv i posisjoneringen,
+
+[00:06:09] så at de bruker dette som en mulighet til å da vekke seg litt mer nøytralt enn de ellers var,
+
+[00:06:17] så at det kan være litt sånn flow-basert reposisjonering
+
+[00:06:21] er jo selvfølgelig også en mulig forklaring på hvorfor aksjemarkedet har tatt dette her relativt positivt,
+
+[00:06:28] mens rentemarkedet har justert seg.
+
+[00:06:30] i en mer haugte retning.
+
+[00:06:31] Ja, og mer om den videre retningen
+
+[00:06:34] og hvor mye lenger markedet kan gå,
+
+[00:06:36] eller om dette er et bear market rally
+
+[00:06:38] som vi har snakket om flere ganger,
+
+[00:06:39] det skal vi komme tilbake til
+
+[00:06:40] helt mot slutten av episoden.
+
+[00:06:42] Nå får vi tune inn på
+
+[00:06:45] der det har vært aksjon denne uken,
+
+[00:06:47] og det er her hjemme på Oslo Børs.
+
+[00:06:49] Jeg synes vi får starte med Equinor.
+
+[00:06:53] De rapporterte tall onsdag denne uken.
+
+[00:06:58] Her snakker vi definitivt om resultatsmeld
+
+[00:07:00] i positivt favør,
+
+[00:07:03] i hvert fall i form av reaksjonen i aksjen
+
+[00:07:05] opp 7 prosent på rapporteringsdag.
+
+[00:07:08] Det er ikke hverdagskost for Equinor på.
+
+[00:07:11] Nei, det var en veldig sterk reaksjon,
+
+[00:07:12] men det var egentlig mest på grunn av utbytte
+
+[00:07:14] som forklare dette.
+
+[00:07:16] Når vi ser på hvordan estimaten har endret seg
+
+[00:07:18] i etterkant, så er det klart det er fortsatt
+
+[00:07:20] en del analytikere som ikke har oppdatert enda,
+
+[00:07:23] men første inntrykk er at estimaten er
+
+[00:07:26] sidelengst til kanskje en annen som ned muligens.
+
+[00:07:29] Det gjenstår å se helt hva fasit blir nå,
+
+[00:07:32] vi får gi det noen dager til før vi kommer frem til det.
+
+[00:07:35] Men alt i alt så var det egentlig da det utbytte
+
+[00:07:38] som jeg tror er overrasket positivt.
+
+[00:07:40] Og utbytte da er en god del kraftigere enn
+
+[00:07:43] hva vi ser fra samlingbare selskaper i utlandet,
+
+[00:07:46] så dette er noe som får litt oppmerksomhet
+
+[00:07:48] blant internasjonale investorer også,
+
+[00:07:51] og jeg tror det var derfor vi fikk en såpass
+
+[00:07:52] kraftig reaksjon.
+
+[00:07:53] Jeg mener at subunordinært utbytte,
+
+[00:07:56] ekstraordinært utbytte og tilbakekjøp
+
+[00:07:58] har blitt løftet.
+
+[00:07:59] Det er en del som har blitt løftet,
+
+[00:07:59] til totalt 17 milliarder dollar for 2023.
+
+[00:08:03] Setter dette en sånn standard for andre
+
+[00:08:05] oljeselskaper som de kommer til å føle seg
+
+[00:08:09] tvunget til å følge etter?
+
+[00:08:10] Det har nok noe effekt på det,
+
+[00:08:12] det er klart hvis det er en som virkelig
+
+[00:08:14] stikker ut her, og i dette tilfellet
+
+[00:08:16] Equinor, så blir det jo lettere da
+
+[00:08:19] å tiltrekke investorer fra utlandet
+
+[00:08:22] hvis de ser at det er et selskap som har
+
+[00:08:24] mye høyere utbetalinger enn andre.
+
+[00:08:26] Så jeg kan tenke meg at det påvirker nok
+
+[00:08:29] en del konkurrenter til å trekke utbyttet sitt
+
+[00:08:31] også opp etterhvert, og det er nok noe som
+
+[00:08:34] jeg tror det er positivt at du får mer utbytte,
+
+[00:08:39] men jeg tror akkurat i Equinors tilfelle
+
+[00:08:40] så blir det enda litt mer positivt,
+
+[00:08:43] for det har jo vært en frykt her at
+
+[00:08:45] det hoper seg opp kontanter i Equinor,
+
+[00:08:48] og så vil de la seg friste til å gjøre
+
+[00:08:50] et eller annet oppkjøp som da viser seg
+
+[00:08:53] å ødelegge for aksjonærverdiene.
+
+[00:08:56] De har jo en litt blandet track record
+
+[00:08:58] når det gjelder internasjonale oppkjøp,
+
+[00:09:00] så jeg tror ikke det er noe sånn voldsomt tillit
+
+[00:09:01] i markedet til at de nødvendigvis er gode
+
+[00:09:05] på akkurat det der, så hvis de betaler ut
+
+[00:09:07] pengene i stedet for, så blir jo den risikoen
+
+[00:09:10] vesentlig mindre.
+
+[00:09:12] Ellers, AkeBP, de rapporterer fredag,
+
+[00:09:16] så der vet vi ikke fasiten enda.
+
+[00:09:19] Det nå kom i dag morges, så her må
+
+[00:09:22] analytikeren fortsatt få lov til å regne på det
+
+[00:09:24] før vi gjør opp status, men her var
+
+[00:09:26] førsteinntrykket litt mer sånn,
+
+[00:09:28] neutralt til negativt, det var vel heller
+
+[00:09:30] ikke så mye om utbytte her, det kan kanskje
+
+[00:09:33] også dempe litt av interessen.
+
+[00:09:35] Ja, så jeg tror kanskje utbytte er det som
+
+[00:09:37] jeg synes er litt skuffende her, for dette
+
+[00:09:38] selskapet handler da på ekstremt lave
+
+[00:09:41] multipler, det er sånn to og en halv gang
+
+[00:09:42] PE, sånn den type størrelsesorden,
+
+[00:09:45] og de sitter da også på nettokontanter,
+
+[00:09:49] så de kan liksom i teorien egentlig
+
+[00:09:50] betale ut alt de tjener, så da kan du
+
+[00:09:54] ha en situasjon hvor hvis inntjeningen
+
+[00:09:57] egentlig da gjennomfører seg til en
+
+[00:09:58] enden speiler aksjekursen i løpet av to
+
+[00:10:00] og et halvt år, så sier det seg selv hvor
+
+[00:10:03] store de utbyttene kunne potensielt være
+
+[00:10:05] fremover, så jeg tror det er det som kanskje
+
+[00:10:08] er litt problem, at der er det litt sånn
+
+[00:10:11] opphoping av kapital, og også et selskap
+
+[00:10:13] som har hatt litt sånn, jeg håper ikke
+
+[00:10:16] helt hvordan man skal formulere det, men
+
+[00:10:18] ikke nødvendigvis det selskap som skårer
+
+[00:10:20] aller best når det gjelder sånne type
+
+[00:10:23] governance kriterier, så det er også litt
+
+[00:10:25] sånn frykt at du ikke nødvendigvis får
+
+[00:10:27] disse pengene ut, så det er litt sånn
+
+[00:10:28] ut hvis du er aksjonær i det nå.
+
+[00:10:31] La oss hoppe til Jara, der gjentar
+
+[00:10:35] analytikeren i Markitsen kjøpsambefaling
+
+[00:10:37] og kursmålet på 525 kroner, etter at
+
+[00:10:41] selskapet har levert det som beskrives
+
+[00:10:44] som en god rapport, det var vel blant
+
+[00:10:46] annet litt bedre salgspriser enn som
+
+[00:10:49] vi trodde på foran som de oppnådde,
+
+[00:10:52] utbytte på 55 kroner er heller ikke å
+
+[00:10:54] forakte, 12 prosent direkte avkastning
+
+[00:10:58] er alltid hjelpål, du har jo den i
+
+[00:11:00] porteføljen med anbefalte aksjer, så der
+
+[00:11:02] vil du happy camper?
+
+[00:11:03] Ja, jeg synes det var en bra rapport, og
+
+[00:11:06] som du sier, bra med utbytte, og dette er
+
+[00:11:08] et case som vi synes er veldig spennende
+
+[00:11:10] på lang sikt, og de leverer sånn
+
+[00:11:12] noglunde greit på kort sikt også.
+
+[00:11:15] Når det er sagt så ser vi at estimatene
+
+[00:11:16] kommer bittelitt ned, så det var ikke
+
+[00:11:19] sånn at det er sånn fulltreff på alt
+
+[00:11:21] her, men det er nok mer for det at
+
+[00:11:23] gassprisene kommer ned, og da blir det
+
+[00:11:25] til at nitratprisene også trekkes litt
+
+[00:11:27] ned av det.
+
+[00:11:28] Ja, men prisingen på aksjen mener vi
+
+[00:11:31] egentlig tar full høyde for dette her, det
+
+[00:11:33] er ikke priset som om inntjening i dag er
+
+[00:11:35] en slags steady state, det er heller
+
+[00:11:38] priset som om vi er i en midlertidig
+
+[00:11:41] periode med super profits, og da tåler
+
+[00:11:43] man også at inntjeningen er noe lavere
+
+[00:11:46] fremover enn det det har vært akkurat
+
+[00:11:47] det siste året, og da med prising som
+
+[00:11:51] fortsatt ser fornuftig ut, og det er
+
+[00:11:53] utbytte, så synes jeg det er fortsatt
+
+[00:11:54] et bra case.
+
+[00:11:56] Når det ikke er semikondukter, kommer
+
+[00:11:58] vi ikke utenom denne uken de rapporterte
+
+[00:12:00] på tirsdag, og her snakker vi resultatsmel
+
+[00:12:03] i negativt favor, definitivt de kom med
+
+[00:12:08] dårlige tall og dårlig guiding, og da er
+
+[00:12:12] det tøft å være vekstaksje på.
+
+[00:12:14] Ja, vekstselskap tåler det ikke når de
+
+[00:12:17] skuffer på vekstutviklingen, for det er
+
+[00:12:19] jo nettopp derfor aksjeneierne eier
+
+[00:12:22] selskapet, så det er jo sånn at de da
+
+[00:12:25] både skuffet på tallene, men spesielt
+
+[00:12:28] Q1-rapporten, eller det de guidet for Q1
+
+[00:12:30] var skuffende, og det gjør det sånn vanskelig
+
+[00:12:33] å prøve å ta i med en dunn her, for det blir
+
+[00:12:36] naturlig når selskapet sier at neste kvartal
+
+[00:12:39] blir dårlig det også, så er det en viss fare
+
+[00:12:42] for at når det først er et resultat
+
+[00:12:44] varslet, så kommer det et til ved neste
+
+[00:12:46] kvartal. Så dette blir litt sånn type
+
+[00:12:48] tillitsspørsmål her, at det er både hva
+
+[00:12:51] selskapet har levert som skuffer, men så
+
+[00:12:54] mer usikkerhet om de faktisk klarer å
+
+[00:12:57] levere det som er indikert nå fremover
+
+[00:13:00] også. Så dette er et selskap som har hatt
+
+[00:13:01] ganske bra track record på rapportering
+
+[00:13:03] i lang tid. Når de først begynner å skuffe
+
+[00:13:05] da, så blir situasjonen veldig annerledes.
+
+[00:13:08] Så du er glad etter det kraftige fallet
+
+[00:13:11] på tirsdag, for at du valgte å ta aksjen
+
+[00:13:14] ut av porteføljen med anbefalt aksjer
+
+[00:13:15] tidligere i år? Ja, det var jo veldig greit
+
+[00:13:17] å slippe å sitte med det. Du sa jo da at du
+
+[00:13:19] syntes det så litt svakere ut. Ja, så det
+
+[00:13:23] som jeg egentlig reagerte på var at det
+
+[00:13:26] kom en nedgradering fra gjennomsnittet
+
+[00:13:27] UBS, tror jeg, og aksjen falt rundt 6%
+
+[00:13:31] den dagen, og det som tyder på at det var
+
+[00:13:33] liksom ikke noe vilje til å ta imot. Får du
+
+[00:13:36] en nedgradering fra en utlandsbank, så er
+
+[00:13:38] det helt naturlig at aksjen faller 2-3%
+
+[00:13:40] på det, men 6% synes jeg virket litt
+
+[00:13:42] vel mye, og det ga en litt sånn dårlig
+
+[00:13:45] magefølelse at hvis det ikke var Investor
+
+[00:13:48] som var villig til å plukke opp den aksjen
+
+[00:13:50] når den var ned 4-5% på en sånn type
+
+[00:13:52] melding, så var det heller da ikke noe
+
+[00:13:54] sånn voldsom buffer hvis det først skulle
+
+[00:13:57] komme noen dårlige nyheter ellers. Så det
+
+[00:14:00] var egentlig sånn grunnlaget for å ta det ut,
+
+[00:14:02] og det viser seg i dette tilfellet i hvert fall
+
+[00:14:04] at den magefølelsen var riktig. Ja, og så er
+
+[00:14:06] det sikkert mange som går og tygger på, er
+
+[00:14:09] dette kraftige fallet? Nå har vi jo sett at
+
+[00:14:11] siden tirsdag, onsdag og så langt torsdag,
+
+[00:14:15] så har jo aksjen stabilisert seg litt, så
+
+[00:14:17] det er i hvert fall noe. Men er det en
+
+[00:14:21] kjøpsmulighet eller ikke, er det sikkert
+
+[00:14:23] mange som går og lurer på. Det er litt
+
+[00:14:26] tidlig for oss å konkludere.
+
+[00:14:27] Vi venter på analytikeren vår som skal gjøre
+
+[00:14:30] opp status, så derfor vil jeg heller komme
+
+[00:14:33] tilbake til det når han har sendt ut den
+
+[00:14:35] endelige oppdateringen sin. Men før tallene
+
+[00:14:38] hadde han jo en kjøpsanbefaling, det får vi
+
+[00:14:41] ta med. En utfordring her er vel på at for
+
+[00:14:43] denne aksjen så har vel ikke estimatene
+
+[00:14:45] falt så mye som for en del andre aksjer
+
+[00:14:48] gjennom fjoråret? Ja, så jeg synes egentlig
+
+[00:14:51] den kanskje falt litt mer enn det fortjente
+
+[00:14:54] i løpet av fjoråret basert på endringen
+
+[00:14:56] i estimatene, men nå viser vi at det er
+
+[00:14:57] at estimatene skulle selvfølgelig ha falt
+
+[00:14:59] mye mer, så vi kan si at markedet var noe
+
+[00:15:01] smartere enn analytikerne her. Det gjør
+
+[00:15:05] når man skal prøve å beregne om aksjen
+
+[00:15:07] er billig nå når den har falt såpass mye,
+
+[00:15:09] men hvis du ikke har noe særlig tillit til
+
+[00:15:11] inntjeningsestimatene, da betyr egentlig
+
+[00:15:13] P-multiplen forholdsvis lite. Så jeg mener
+
+[00:15:16] alltid at prising på en aksje skal være
+
+[00:15:19] tredje eller fjerde grunnen til at du kjøper
+
+[00:15:21] et eller annet, ikke hovedgrunnen. Du må
+
+[00:15:24] ha et eller annet annet som egentlig skal
+
+[00:15:26] drive case.
+
+[00:15:27] For å si at billige aksjer kan alltid bli
+
+[00:15:29] billigere, og dyre aksjer kan alltid bli
+
+[00:15:31] dyrere, så det er mer en tilleggsfaktor
+
+[00:15:33] heller enn som hovedfaktor når du skal kjøpe
+
+[00:15:36] med mindre du har veldig lang tidshorisont.
+
+[00:15:38] Bank må vi også snakke om. SR Bank var
+
+[00:15:41] i den tidligere denne uken. Her gjentar
+
+[00:15:44] analytikeren kjøp og setter kursmålet til
+
+[00:15:48] 149 kroner. Rapporten slet å være solid.
+
+[00:15:53] Utbytte foreslått på 7 kroner for
+
+[00:15:57] 2022, og ambisjonene om avkastning på
+
+[00:16:00] egenkapitalen ble hevet fra 12 til 13 prosent.
+
+[00:16:03] Så ja, dette var vel en grei story?
+
+[00:16:06] Ja, jeg synes bank generelt har egentlig levert
+
+[00:16:08] ganske bra hittil. De aller fleste har gjort det
+
+[00:16:10] bedre enn ventet når det gjelder renteintekter.
+
+[00:16:13] Det blir jo selvfølgelig noe som sentralbanken
+
+[00:16:16] setter rentene opp, så er det jo lettere å tjene
+
+[00:16:18] penger på akkurat det. Men det var heller ikke
+
+[00:16:22] noe store lånetap, eller ikke noen overraskelser
+
+[00:16:24] på lånetap, og det er liksom de to tingene som er det.
+
+[00:16:27] som er mest viktig når det gjelder banksektoren.
+
+[00:16:29] Så det er litt sånn so far so good i hvert fall.
+
+[00:16:31] Det er selvfølgelig en viss fare for at blir det
+
+[00:16:34] resesjon, så må man nok regne med at lånetapene
+
+[00:16:36] øker etterhvert. Men på dette, sånn som det ser
+
+[00:16:41] ut nå, så har det i hvert fall ikke vært noe
+
+[00:16:43] veldig skumle tegn til akkurat økt lånetap enda.
+
+[00:16:48] Vår egen arbeidsgiver kom jo med tilsvarende
+
+[00:16:50] rapport i dag. Nå pleier vi ikke å omtale oss selv
+
+[00:16:54] i stor grad, så vi får la det ligge.
+
+[00:16:57] Men som du sa, inntrykket mitt er jo at bankene
+
+[00:17:01] og sparebankene som har rapportert så langt,
+
+[00:17:04] det har jo vært veldig bra. Samtidig så ser vi
+
+[00:17:08] at dette myk landingsscenario er det stadig flere
+
+[00:17:11] som begynner å tro på. Skal man ikke da eie
+
+[00:17:16] bank, burde ikke det være rom for at bankaksjer
+
+[00:17:19] skal kunne prises enda litt høyere enn det det gjør
+
+[00:17:21] i dag?
+
+[00:17:21] Ja, så det er klart myk landing er det optimale
+
+[00:17:24] for bank, for da blir det ikke noe særlig lånetap
+
+[00:17:26] og heller ikke noe særlig kutt i rentene. Så jeg
+
+[00:17:29] tror det at banken gjør det forholdsvis greit er
+
+[00:17:32] noe som man kan ta som en krysspeiling som sier
+
+[00:17:35] at oddsen for en myk landing er kanskje noe bedre
+
+[00:17:39] enn det så ut for en liten stund siden. Men på
+
+[00:17:42] den andre siden, hvis vi ser at banken begynner
+
+[00:17:44] å svikte igjen, og vi merker noen gjerne først
+
+[00:17:46] i aksjekursene heller enn inntjeningsestimatene,
+
+[00:17:49] så er det en grunn til å være litt mer forsiktig
+
+[00:17:51] generelt i markedet. Men for øyeblikket i hvert fall
+
+[00:17:55] så ser det sånn relativt greit ut, synes jeg.
+
+[00:17:56] Ingen signaler om lånetap, hverken fra den ene
+
+[00:18:00] eller andre banken som har skremt og fått deg til
+
+[00:18:03] å hoppe i stolen på?
+
+[00:18:04] Ikke enda, men det er klart at dette var jo
+
+[00:18:06] fjerde kvartal det vi har snakket om, og vi får
+
+[00:18:09] se litt nå utover første kvartal og andre kvartal
+
+[00:18:12] at den prosessen da når det gjelder spesielt
+
+[00:18:16] strømpriser og sånne type ting, at folk bruker
+
+[00:18:18] opp det de har av buffer først, og så ser de
+
+[00:18:21] hvor smerteterskelene egentlig er. Så man
+
+[00:18:24] hører masse anekdoter i avisen at det er
+
+[00:18:26] mange sliter, men det er ikke så lett å se
+
+[00:18:28] dette i bankregnskapene enda i hvert fall.
+
+[00:18:31] Men jeg synes det er nok litt for tidlig å si
+
+[00:18:33] at den risikoen er borte, og vi må være
+
+[00:18:37] forberedt på at kanskje det begynner å se
+
+[00:18:39] litt mer prekært ut når vi kommer inn i
+
+[00:18:42] Q1-rapporteringssesongen eller Q2-rapporteringssesongen,
+
+[00:18:45] men for øyeblikket i hvert fall så er det ikke
+
+[00:18:47] noe som er så veldig synlig enda i hvert fall.
+
+[00:18:51] Storebrand, der sier vi kjøp og kursmål på 109.
+
+[00:18:54] Hvor mye?
+
+[00:18:56] Litt dårligere enn ventet på grunn av svakere
+
+[00:18:59] bidrag fra forsikring og sparedelen av forretningen
+
+[00:19:02] til selskapet, men levert i forhold til kapitalkrav,
+
+[00:19:06] bufferen og tilbakekjøp fortsetter å utbytte
+
+[00:19:09] på 3 kroner og 70 øre, så alt er alt godkjent.
+
+[00:19:13] Ja, det tror jeg greit nok er sånn jeg vil
+
+[00:19:16] oppsummere den. Som du sier så var selve
+
+[00:19:19] driftsresultatet litt dårligere enn ventet.
+
+[00:19:22] De fleste eier Storebrand på grunn av forventninger
+
+[00:19:25] rundt utbytte.
+
+[00:19:26] Betalinger etter hvert og det at solvensgraden var bedre
+
+[00:19:29] gjør at man får noe bedre visibilitet på akkurat det punktet.
+
+[00:19:33] Så de traff på det som kanskje var det aller viktigste
+
+[00:19:35] enkeltfaktoren, mens resten var kanskje egentlig sånn
+
+[00:19:41] litt på den svake siden, synes jeg.
+
+[00:19:44] Solvensgraden er riktig. Terminologien da selvfølgelig
+
+[00:19:47] der jeg brukte kapitalbøffer, men ja, menter det samme.
+
+[00:19:51] Veidekke får vi ta med også. Kjøpsambefaling
+
+[00:19:54] Jenta, skursmål 130.
+
+[00:19:56] Ser ut som en rapport hvor ting går i riktig retning.
+
+[00:19:59] Estimatene er litt opp. De leverte på driften, særlig
+
+[00:20:02] infrastrukturdivisjonen. Fullførte noen store prosjekter
+
+[00:20:05] som ga en boost i regnskapstallene, hvis jeg fikk det
+
+[00:20:09] med meg riktig. Bygg, det de kaller for construction,
+
+[00:20:13] var litt på den svake siden, men i summe OK.
+
+[00:20:16] Også utbytte på 7,75 kroner. Så alt i alt OK?
+
+[00:20:21] Ja, jeg tror det. Vi tok kursmålet opp vel en 5 kroner
+
+[00:20:24] eller noe sånt, så jeg tror egentlig det var også
+
+[00:20:26] absolutt godkjent.
+
+[00:20:27] Bra. Vi må jo også innom shipping. Det er det mange
+
+[00:20:33] som har interesse for etter et forrykende 2022.
+
+[00:20:37] En av tingene som har vært i endring gjennom
+
+[00:20:41] fjoråret er jo dette hele rundt container, som gikk
+
+[00:20:44] veldig bra lenge. Mersk kom med sine tall.
+
+[00:20:49] Ja, en slags resultatvarsel for 2023 kom det vel med,
+
+[00:20:52] og guiding var 18 prosent under på driften da,
+
+[00:20:55] i EBITDA. Det kom med masse skip i markedet her.
+
+[00:20:59] Dette har jo analysetimen avvart om en stund,
+
+[00:21:02] og bildet ser litt utfordrende ut for både store
+
+[00:21:05] og små containerforretninger.
+
+[00:21:09] Ja, så shipping er jo en som kjent veldig syklisk
+
+[00:21:11] bransje, og akkurat denne gangen så er det kanskje
+
+[00:21:14] på det mest sykliske innenfor container, da hvor
+
+[00:21:18] du har hatt den perioden nå hvor det har vært helt
+
+[00:21:19] eventyrlige rater nå gjennom spesielt den COVID-perioden.
+
+[00:21:24] Og nå er vi litt mer sånn at når vi kommer tilbake til
+
+[00:21:27] hverdagen, så ser vi etterspørselen er ikke nærheten
+
+[00:21:30] allike sterk lenger, samtidig som mange av disse
+
+[00:21:32] redderne har benyttet anledning til å bestille veldig
+
+[00:21:35] mye nye skip. Så nå har man antageligvis en ganske
+
+[00:21:39] svak balanse i markedet nå i de årene fremover.
+
+[00:21:42] Så man skal være litt forsiktig her, at det er
+
+[00:21:44] mange av disse aksjene som ser veldig billig ut.
+
+[00:21:46] Men hvis du da har et bilde fremover med
+
+[00:21:50] forholdsvis moderate rater, så kan det godt hende da at
+
+[00:21:53] en del av det som man kanskje håpet skulle bli betalt
+
+[00:21:57] ut som utbytte, blir til at selskapene ender opp med
+
+[00:21:59] å sitte på dette her. Litt i frykt at de da ender opp
+
+[00:22:03] i en skvis hvis de betaler ut for mye nå.
+
+[00:22:06] Og det er vanskelig når du først har bestilt disse
+
+[00:22:08] båtene, så kommer de ut i en eller annen form.
+
+[00:22:11] Og om den som har bestilt i går kong, så er det
+
+[00:22:13] noen andre som bare kjøper det billigere.
+
+[00:22:15] Så den tilbudsettespørselsbalansen tror jeg kan
+
+[00:22:17] være utfordrende nå på en mellomlang sikt egentlig.
+
+[00:22:20] Ja, og shippingteam igjen, det er hold, kurs
+
+[00:22:23] målet på 16.300 danske kroner på Mersk.
+
+[00:22:27] I en annen del av shippingverdenen, nemlig
+
+[00:22:30] bilfrakt, Valenius Vilhelmsen kom med tall.
+
+[00:22:35] Se positivt på første halvdel av året, litt mer
+
+[00:22:39] usikker på andre halvdel. Paga usikkerhet
+
+[00:22:42] på grunn av mindre fart i økonomien.
+
+[00:22:44] Den kom med et utbytte på 0,85 dollar.
+
+[00:22:50] Analytikeren vår er jo positiv da, Paul.
+
+[00:22:52] Jenter kjøper seg anbefalt.
+
+[00:22:53] Kursmålet til 128 kroner, men du ser litt
+
+[00:22:57] svakhetstegn i skjartene.
+
+[00:22:59] Ja, jeg er ikke helt overbevist på den, må jeg
+
+[00:23:02] innrømme, og det er jo sånn at...
+
+[00:23:03] Og det gjelder vel bilfrakt generelt, som jo, vi må
+
+[00:23:05] bare minne lytterne våre om, selv om de fleste
+
+[00:23:07] sikkert husker det, gjorde det veldig bra i fjor.
+
+[00:23:10] Ja, så dette er også et segment, det er liksom
+
+[00:23:12] to segmenter i shipping hvor det er mye ny
+
+[00:23:14] kapasitet som kommer inn. Den ene er container,
+
+[00:23:16] og så er det bilfrakt som er den andre.
+
+[00:23:18] Men du kan si forskjellen i bilfrakt er at der
+
+[00:23:20] er det også ganske mye gamle skip, så der er det
+
+[00:23:22] mye lettere å holde.
+
+[00:23:23] Vi må ikke gi balanse, og det er vel egentlig
+
+[00:23:26] hovedgrunnen til at vi er mer positivt på det segmentet.
+
+[00:23:30] Men en av de tingene som jeg oppsett tar opp
+
+[00:23:32] med jevne mellomrom er at jeg synes det er alltid
+
+[00:23:34] viktig å sjekke at det tekniske, da vi ser på
+
+[00:23:37] kursutviklingen på selskapene, at det noglunde
+
+[00:23:40] stemmer med det fundamentale.
+
+[00:23:43] Så for øyeblikket så er vi egentlig ganske positivt
+
+[00:23:45] til det fundamentale bildet, men når man ser på
+
+[00:23:48] grafen av Valenius Williamsen, så synes jeg det ser ut
+
+[00:23:50] som en hodeskuldetoppeformasjon.
+
+[00:23:52] Og det er gjerne sånn at kurset leder det fundamentale,
+
+[00:23:56] så jeg mener det alltid er litt skummelt å ignorere
+
+[00:23:58] teknisk analyse, selv om det er mange som mener at det
+
+[00:24:01] er bare tull og tøys å begynne å se på disse grafene.
+
+[00:24:04] Så når det tekniske ikke stemmer med det fundamentale,
+
+[00:24:07] da mener det at det er i hvert fall en varselfaktor
+
+[00:24:11] som gjør at man skal egentlig ikke sette noen
+
+[00:24:13] nye penger inn i selskapet, og heller da enten
+
+[00:24:17] wait and see, eller eventuelt sikre litt gevinst.
+
+[00:24:21] Så jeg synes det tekniske her stemmer litt dårlig,
+
+[00:24:24] og det da blir sånn at shipping, når du har hatt
+
+[00:24:27] en veldig sterk periode, så er det ofte sånn at
+
+[00:24:29] aksjene da begynner å stoppe opp en god stund før
+
+[00:24:32] du egentlig er ferdig med den superprofit-perioden.
+
+[00:24:36] Akkurat som vi så med container, at de container-aksjene
+
+[00:24:40] de toppet ut egentlig når det fremdeles tjente
+
+[00:24:42] veldig gode penger, så det er ikke sånn at de gjør det bra
+
+[00:24:44] frem til de slutter å tjene penger. Markedet ser jo
+
+[00:24:47] alltid fremover, og da skal man ha litt ekstra respekt
+
+[00:24:50] for signalene som man får fra grafene.
+
+[00:24:55] Bra det, Paul. Da skal vi løfte blikket og stirre inn
+
+[00:24:59] i avkastningshorisonten, var det ikke det jeg sa
+
+[00:25:01] innledningsvis? Vi skal bytte ut deg med Tor André Lysebo
+
+[00:25:05] og få han inn i studio for en prat om hans nye rapport
+
+[00:25:08] om langsiktige avkastningsforventninger.
+
+[00:25:11] Men etter intervjuet med Tor André, så skal du tilbake
+
+[00:25:14] inn for å avslutte praten mellom oss, Paul, og vi skal
+
+[00:25:18] oppsummere veien videre for aksjer.
+
+[00:25:26] Kommer du tilbake i studio, Tor André?
+
+[00:25:28] Jo, takk, Marius.
+
+[00:25:29] I dag med en fersk rapport om langsiktige avkastningsforventninger
+
+[00:25:34] for en rekke aktive klasser som pengemarkeder, renter,
+
+[00:25:38] kredit, aksjer, eiendom, hedgefond og private equity.
+
+[00:25:42] Ikke dårlig idé. Altså, hvorfor er slike langsiktige
+
+[00:25:46] prognoser for avkastning med en 7-10 års horisont
+
+[00:25:49] nyttig for kundene våre?
+
+[00:25:51] Det er i første rekke nyttig for de som har nettopp
+
+[00:25:54] litt lang horisont. Fordi når vi skal hjelpe dem å
+
+[00:25:56] sette sammen gode porteføljer eller gode
+
+[00:25:59] investeringsstrategier, så for å klare å gjøre det
+
+[00:26:02] på en hensiktsmessig og god måte, så må vi nesten
+
+[00:26:04] ha et begrep om hvilken avkastning vi faktisk kan
+
+[00:26:07] forvente disse aktive klassene. Så det er nettopp
+
+[00:26:09] derfor vi gjør det. Det gir oss en innsikt i
+
+[00:26:13] hva du kan forvente på lang sikt i avkastning
+
+[00:26:16] og gjør oss bedre i stand til å sette sammen
+
+[00:26:18] gode porteføljer. For dette er et veldig viktig
+
+[00:26:20] element sammen med kundenes risikoprofil og
+
+[00:26:23] preferanser og horisont og en del andre elementer
+
+[00:26:26] for å nettopp hjelpe dem å skaffe seg og etablere
+
+[00:26:31] gode porteføljer.
+
+[00:26:32] Og nå skal vi jo snakke om hvordan dere kommer
+
+[00:26:36] frem til disse langsiktige avkastningsforventningene
+
+[00:26:40] og ikke minst selvfølgelig hva de er. Men før det,
+
+[00:26:43] du har jo allerede vært ute og snakket med en del
+
+[00:26:45] kunder om dette. Hva er tilbakemeldingene du har
+
+[00:26:48] fått fra de? Sier du, ja, her er du inne på noe
+
+[00:26:51] eller rister de litt på hodet og sier, her er det
+
+[00:26:53] helt på jordet, Tor André?
+
+[00:26:54] Ja, heldigvis er det nok de fleste sier nok at vi er
+
+[00:26:58] inne på noe. Men det er alltid diskusjoner, og det
+
+[00:27:02] er veldig mange interessante elementer her som vi
+
+[00:27:04] diskuterer med kunder. Vi snakker veldig mye om
+
+[00:27:07] langsiktige, strukturelle trekk. Det er det som
+
+[00:27:10] driver avkastning på lang sikt, og det er det
+
+[00:27:12] veldig mange som er opptatt av og interessert i.
+
+[00:27:14] Så det er jo alltid en veldig god diskusjoner.
+
+[00:27:17] Men vil du si at det er en lettere eller vanskeligere
+
+[00:27:20] øvelse å lage denne type anslag om fremtidig
+
+[00:27:23] avkastning?
+
+[00:27:24] Med å lage anslag for de neste tolv månedene
+
+[00:27:27] eller det neste kvartalet?
+
+[00:27:29] Fra mitt ståsted så er dette faktisk litt enklere.
+
+[00:27:32] Vi føler jo at når vi ser på lang sikt så er det
+
+[00:27:36] mye mer en del sånne strukturelle makrotrekk som
+
+[00:27:39] dominerer avkastningsbildet. På kort sikt så er det
+
+[00:27:42] veldig mye ofte støy og det vi kaller eksogene
+
+[00:27:45] sjokk som kommer inn fra høyre, som vi merket
+
+[00:27:46] veldig mye av i fjoråret blant annet, som
+
+[00:27:49] påvirker bildet, som er utrolig vanskelig å
+
+[00:27:51] forutsi. Det er ting vi ofte må bare ta av noe
+
+[00:27:54] av med i det det skjer og agere deretter, mens
+
+[00:27:57] på lang sikt så har disse en tendens til å bli
+
+[00:27:59] borte. All denne støyen blir borte i det som
+
+[00:28:02] faktisk er langsiktig økonomisk utvikling.
+
+[00:28:05] Når dere lager disse anslagene, hvor mye er
+
+[00:28:08] kvalitativt? Der dere legger deres egne
+
+[00:28:11] subjektive vurderinger til grunn og hvor mye
+
+[00:28:14] er, kall det ren matte?
+
+[00:28:16] 70-30 kanskje kan vi si, på ren modellering og
+
+[00:28:21] regning er kanskje 70% og 30% kvalitativt. Det er
+
+[00:28:24] jo et anslag rett fra leveren her, men tippet er
+
+[00:28:29] noe sånt. Det er ganske en god del betraktninger
+
+[00:28:32] vi gjør av en del av disse langsiktige elementene
+
+[00:28:35] som vi vet driver avkastning, men så må du, som
+
+[00:28:37] du er inne på, ha noen kvalitative checkpoints
+
+[00:28:40] på toppen, og de er definitivt viktige. Kanskje
+
+[00:28:42] spesielt i disse tider, hvor det er såpass mye
+
+[00:28:45] som skjer, også når vi ser med litt lengre
+
+[00:28:48] briller, så er det ganske store utviklingstrekk
+
+[00:28:50] man må ta hensyn til, som ikke er så lett å få
+
+[00:28:52] tak i når du bare ser på data.
+
+[00:28:54] Du er ikke alene om å lage denne rapporten.
+
+[00:28:56] Dere er et helt team. Var det noe dere var
+
+[00:28:59] spesielt uenige i da dere jobbet ut rapporten
+
+[00:29:04] i forhold til der hvor dere måtte gjøre deres
+
+[00:29:06] egne subjektive vurderinger?
+
+[00:29:08] Egentlig denne gangen var vi relativt enige,
+
+[00:29:11] og det er som du sier, vi er et helt team som
+
+[00:29:13] gjør dette sammen. Det som nok er det store
+
+[00:29:16] springende punktet og endringen fra når vi gjorde
+
+[00:29:20] det sist gang til nå, er egentlig denne
+
+[00:29:22] voldsomme renteoppgangen vi har hatt.
+
+[00:29:24] Diskusjoner rundt hvor en sånn rimelig, nøytral,
+
+[00:29:28] langsiktig likevektsrente er, er jo ganske
+
+[00:29:30] vesentlig her, så der var det en god del diskusjoner.
+
+[00:29:33] Før vi går videre, så kan vi også gjøre lytterne
+
+[00:29:36] oppmerksomme på at forutsetningene dere har
+
+[00:29:39] satt ikke endres basert på kortsiktige endringer
+
+[00:29:43] i markedet, altså det vi kaller for taktisk avvik,
+
+[00:29:46] og at forutsetningene gjelder generelt for aktiva
+
+[00:29:49] klasser, og ikke ta høyde for egenskaper ved ulike
+
+[00:29:52] investeringsprodukter, har jeg forstått det som
+
+[00:29:54] cirka riktig da?
+
+[00:29:55] Du har forstått det eksakt riktig.
+
+[00:29:57] Bra, da har vi fått presisert det.
+
+[00:30:01] Det siste året har jeg pleid å si, hvis sammenhengen
+
+[00:30:05] har vært riktig, at jeg tror vi står midt opp i
+
+[00:30:08] det største skiftet i vår tid, og da snakker
+
+[00:30:11] jeg i hvert fall for alle de som er på min egen
+
+[00:30:13] alder og har vært med siden starten av 80-tallet.
+
+[00:30:16] Jeg tenker særlig på disse strukturelle endringene
+
+[00:30:19] som geopolitikk, handelsindringer, tilgang på
+
+[00:30:22] arbeidskraft og så videre. Vi har også
+
+[00:30:24] sering av renter og inflasjon som har vært på
+
+[00:30:26] alle investorer og slipper det siste halvandet
+
+[00:30:28] året i hvert fall. Det grønne skiftet får vi
+
+[00:30:31] kanskje heller ikke glemme, men poenget mitt er
+
+[00:30:33] hvordan hensyn tar dere disse store tingene som
+
+[00:30:38] ikke skjer over natten, men som kommer gradvis
+
+[00:30:43] og påvirker både samfunnet og avkastningsmuligheter
+
+[00:30:47] over tid?
+
+[00:30:48] Dette er midt i kjernen av det er nok de største
+
+[00:30:52] diskusjonene er om dagen, og det er helt riktig.
+
+[00:30:53] Det som er nok mest interessant for oss er at
+
+[00:30:57] historien vi har lagt bak oss, som du snakker om
+
+[00:31:00] her, Marius, historien de fleste av oss har med oss
+
+[00:31:03] er fra 80-90-tallet. Det er det vi husker, ikke
+
+[00:31:07] minst det vi har gode data for også. Det er det vi
+
+[00:31:10] kan analysere godt. Den perioden ga veldig god
+
+[00:31:14] avkastning, men det var også en periode som var
+
+[00:31:16] preget av veldig mye mevinn for kapitaleiere
+
+[00:31:20] eller investorer. Det er preget av en periode med
+
+[00:31:23] mindre geopolitisk usikkerhet og risiko, egentlig
+
+[00:31:26] siden Sovjetunionsfall og Murensfall i 1980, via
+
+[00:31:31] Kina som er medlem av WTO i 1990, som åpner for
+
+[00:31:35] globalisering, internasjonal handel, gjør at vi kan
+
+[00:31:38] flytte produksjonskapasitet mer fritt rundt i
+
+[00:31:40] verden, utnytte komparative fortrinn, altså at
+
+[00:31:43] noen er mer effektive til å produsere et eller
+
+[00:31:45] annet enn andre, gjør at dette har gjort at
+
+[00:31:48] kapitaleierne hele tiden har kunnet ta ut litt
+
+[00:31:51] større andel av kaka og få bedre kaka.
+
+[00:31:53] Fra avkastning. Samtidig har vi også hatt en periode
+
+[00:31:57] med lavere renter, som du var inne på.
+
+[00:32:00] Inflasjonen har egentlig falt mer eller mindre
+
+[00:32:02] stedig fra 1980-tallet omtrent, og frem til
+
+[00:32:06] ja, 21 da. Vi fikk en runde i fjor, som vi sent
+
+[00:32:09] kommer til å glemme, tror jeg. Men det er også
+
+[00:32:10] med for at rentenivået har falt, og ikke minst
+
+[00:32:14] så har det vi kaller realrenten falt, altså renten
+
+[00:32:16] etter inflasjon har falt enda mer enn nominelle
+
+[00:32:19] renter, de vi leser av. Og det er det som går
+
+[00:32:22] rett inn i økonomien, og som gir oss enda større
+
+[00:32:24] vekstkraft og større muligheter til å skape
+
+[00:32:27] inntjeningsvekst. Og grunnen til at vi snakker
+
+[00:32:30] om økonomisk vekst på lang sikt, er at det er
+
+[00:32:32] det som styrer oss i inntjeningsveksten i de
+
+[00:32:34] selskapene vi priser på børsen. Så det er det
+
+[00:32:36] som har vært bakteppet for hele denne perioden
+
+[00:32:38] vi har lagt bak oss, er jo veldig gode vilkår
+
+[00:32:41] for veldig mange kapitaleier. Og det har også gitt
+
+[00:32:42] veldig god avkastning i nesten alle aktuelle klasser.
+
+[00:32:45] Og derfor sier vi også nå at, når vi ser fremover,
+
+[00:32:47] så snakker vi, som du er inne på, vi er nok
+
+[00:32:49] antageligvis i det største skiftet vi har hatt
+
+[00:32:51] på sikkert 30-40 år. Det er et paradigmeskiftet
+
+[00:32:55] vi kaller det, hvor avkastningsutsikten er
+
+[00:32:58] annerledes, nettopp fordi veldig mange av de
+
+[00:32:59] effektene som har drevet avkastning gjennom de
+
+[00:33:01] siste tiårene nå faktisk snur. Og 2022 var et
+
+[00:33:05] virkelig vendepunkt i den forstand at veldig
+
+[00:33:08] mye av dette ble bekreftet. Vi har allerede
+
+[00:33:10] snakket om det litt sånn til og fra i to-tre år,
+
+[00:33:13] men nå i 2022 fikk vi en normalisering av renter,
+
+[00:33:16] en voldsom renteoppgang, drevet av inflasjon,
+
+[00:33:19] og i tillegg til det så fikk vi en politisk
+
+[00:33:23] påminnelse om at geopolitikk er igjen på agenda.
+
+[00:33:26] Vi har diskutert det litt, det har vært litt
+
+[00:33:28] tilstramminger mellom blant annet Kina og USA
+
+[00:33:31] i tilløp til handelskrig i de siste to-tre årene,
+
+[00:33:36] men det som skjedde i 2022 satt dette virkelig
+
+[00:33:39] på agendaen, med krigen i Ukraina og usikkerheten
+
+[00:33:42] rundt om at faktisk et jernteppe kan falle ned
+
+[00:33:44] i øst igjen. Dette er en helt annen situasjon
+
+[00:33:46] enn det vi har vært i på veldig, veldig lenge.
+
+[00:33:48] Igjen, stolt med å ha kalt dere for
+
+[00:33:50] et sikkerhetspolitisk frikvarter
+
+[00:33:52] fra murens valg i 1980 og frem til nå.
+
+[00:33:54] Det er greit å ha litt tilbake, og dette påvirker
+
+[00:33:57] prisdannelsen i markedet over tid også.
+
+[00:33:59] Og det påvirker, i vår mening så påvirker det
+
+[00:34:02] via økonomisk vekst, at veksttakten
+
+[00:34:05] sannsynligvis kommer ned. Og det er også
+
+[00:34:07] som du var inne på i sted her, Marius,
+
+[00:34:09] er det de store strukturelle, det store strukturelle
+
+[00:34:12] bakteppet her er jo mindre befolkningsvekst
+
+[00:34:14] som medfører mindre ressurser tilgjengelig,
+
+[00:34:16] og ikke minst, det har tatt opp naturressurser
+
+[00:34:19] og energi på en måte.
+
+[00:34:20] Det er en måte som er veldig vanskelig
+
+[00:34:21] å fortsette med. Det grønne skiftet kommer,
+
+[00:34:23] det betyr i denne sammenheng at det er vanskelig
+
+[00:34:25] å opprettholde samme type ressurstilgang,
+
+[00:34:27] eller vekst i ressurstilgang, og det er det som
+
+[00:34:29] påvirker vekst og inntjening over tid.
+
+[00:34:31] Derfor er vi midt i kjernen av et veldig
+
+[00:34:34] stort skifte, tror jeg. Og det er interessant.
+
+[00:34:36] Så det er jo fort å se på dette her som at
+
+[00:34:39] ting snur da, fra medvind til motvind
+
+[00:34:43] for kapitaleierne, men likevel estimerer
+
+[00:34:46] dere at, ja, nær sagt alle aktive av klassen
+
+[00:34:49] har noe høyere ressurser.
+
+[00:34:50] Vi har mer forventet avkastning nå enn
+
+[00:34:51] for et år siden. Hvorfor det?
+
+[00:34:54] Det er helt riktig. Mye av grunnen til det er
+
+[00:34:56] at vi har hatt en ganske markert renteoppgang
+
+[00:34:58] som driver alle renteaktiva.
+
+[00:35:01] Du snakket om aktiva klasser her.
+
+[00:35:03] Vi har aktiva klasser som er pengemarked,
+
+[00:35:05] som er mer eller mindre å putte penger
+
+[00:35:07] i banken, eller i pengemarkedsplasseringer.
+
+[00:35:10] Og så har vi en aktiva klasse vi kaller
+
+[00:35:11] renter, hvor det er i stor grad
+
+[00:35:13] renteeksponeringen din, altså at fastrenter
+
+[00:35:17] går opp eller ned, som driver avkastningen.
+
+[00:35:20] Lite innslag av kredittelementet.
+
+[00:35:23] Det er i stor grad statspapirer og det vi kaller
+
+[00:35:25] investment grade selskaper, det vil si
+
+[00:35:27] selskaper med veldig lav sannsynlighet
+
+[00:35:29] for å gå konkurs. De rentene har steget
+
+[00:35:31] kraftig gjennom fjoråret, og gjør at
+
+[00:35:33] utsiktene fremover er helt annerledes
+
+[00:35:36] enn det de har vært de siste 10-15 årene.
+
+[00:35:40] Dette gjenspeiler seg i forventet avkastning,
+
+[00:35:43] fordi her er det veldig mye den løpende
+
+[00:35:45] renten vi observerer, er ofte den som
+
+[00:35:47] dominerer over tid når det gjelder
+
+[00:35:48] avkastning i disse aktivaene.
+
+[00:35:50] Det samme ser vi i kreditmarkedet når vi
+
+[00:35:52] vurderer høyrrentepapirer.
+
+[00:35:54] I såkalt hajlmarkedet er det akkurat det samme
+
+[00:35:56] som har skjedd, der det påvirker seg at
+
+[00:35:58] rentenivået har dratt seg opp, og også at
+
+[00:36:00] kreditmarginene har kommet litt ut.
+
+[00:36:02] I alle fall var det sånn når vi såp etter
+
+[00:36:04] i desember, så gjennom januar har de sklitt
+
+[00:36:06] litt inn igjen, men likevel er bildet ganske
+
+[00:36:09] klart at det er større muligheter for
+
+[00:36:11] avkastning i denne type aktiva fremover.
+
+[00:36:13] Vi ser det samme egentlig, det påvirker
+
+[00:36:16] pristandelsen i flere andre aktiver.
+
+[00:36:18] I aksjemarkedet har vi justert opp
+
+[00:36:20] avkastningsforventningene litt.
+
+[00:36:22] Det virker kanskje litt kontraintuitivt ut,
+
+[00:36:25] men det er i stor grad drevet av det vi kaller
+
+[00:36:28] nominellt forløp, det at inflasjonen har
+
+[00:36:30] kommet en god del opp og sannsynligvis ble
+
+[00:36:32] høyere over tid. Det gjenspeiles også ofte
+
+[00:36:34] i inntjeningsvekst over tid i selskapene.
+
+[00:36:37] Så det at dere har løftet
+
+[00:36:38] inflasjonsforventningene fra 2 til 2,5%,
+
+[00:36:41] det gjør også noe med at realavkastningen
+
+[00:36:45] blir lavere, med unntak av for noen
+
+[00:36:48] renteaktiver.
+
+[00:36:49] Ja, helt riktig. Realavkastningen blir faktisk,
+
+[00:36:51] vi har den omtrent uendret i aksjer,
+
+[00:36:52] så da flytter vi den opp, der er aksjeavkastningen
+
+[00:36:55] også opp like mye som vi har endret
+
+[00:36:57] inflasjonen med, mens for renteaktiver
+
+[00:36:59] så får vi høyere realavkastning, nettopp
+
+[00:37:01] fordi at realrentene faktisk har steget
+
+[00:37:03] ganske kraftig gjennom 2022.
+
+[00:37:05] Vi må jo ta, kall det indre filéen her,
+
+[00:37:08] nemlig anslagene, altså pengemarked 2,5%,
+
+[00:37:11] renter 3,75%, kredit 5,75%, aksjer 6,5%,
+
+[00:37:17] hedgefond 4,5%, eiendom 6%,
+
+[00:37:20] og det dere kaller alternative investeringer
+
+[00:37:23] som veldig er private equity, 8,25%.
+
+[00:37:28] Ja, hvilken av disse aktiva klassene er det
+
+[00:37:31] som skriner mest attraktivt ut da,
+
+[00:37:34] basert på dette her?
+
+[00:37:35] Ja, det er et godt spørsmål.
+
+[00:37:36] Men det vi ser er at alle aktiva klassene
+
+[00:37:38] tror vi faktisk er relativt godt betalt
+
+[00:37:40] for risiko fremover, og det er helt nytt.
+
+[00:37:42] Som vi var inne på, denne renteøkningen
+
+[00:37:44] har jo faktisk gjort at renteaktiva
+
+[00:37:47] og også kredit gir nå faktisk litt bedre
+
+[00:37:50] betalt for risiko enn det det har gjort
+
+[00:37:51] på ganske mange år.
+
+[00:37:52] Vi har gjort denne øvelsen i noen år nå,
+
+[00:37:54] og når jeg går tilbake to-tre år,
+
+[00:37:56] så ser vi at da hadde vi jo avkastning
+
+[00:37:58] til rentemarkedene på under forventet inflasjon.
+
+[00:38:01] Det har endret seg dramatisk,
+
+[00:38:02] og det er rett og slett denne normaliseringen
+
+[00:38:04] vi snakket om i 2022 som har gjort
+
+[00:38:06] at dette bildet seg et annerledes ut.
+
+[00:38:08] Så når vi ser fremover nå, så synes vi
+
+[00:38:10] aksjer tror vi fremdeles gir en rimelig bra
+
+[00:38:12] risikopremie. Den anslagene her ligger
+
+[00:38:14] på 4%, det er de 6,5% du sa i
+
+[00:38:17] forventet avkastning minus
+
+[00:38:18] pengemarkedsavkastning på 2,5%.
+
+[00:38:20] Det henger ganske godt på greip med
+
+[00:38:22] hva vi ser som historisk empiri
+
+[00:38:25] også i veldig mange markeder.
+
+[00:38:26] Men samtidig så ser vi også at som sagt
+
+[00:38:28] disse renteaktivene har kommet ganske kraftig opp
+
+[00:38:30] i forventet avkastning og gir nå plutselig
+
+[00:38:32] en realavkastning forventet fremover.
+
+[00:38:35] Altså en avkastning høyere enn inflasjonen.
+
+[00:38:37] Og det er greit å merke seg for de som
+
+[00:38:39] bygger porteføljer, det er det vi driver mye med.
+
+[00:38:42] For det gjør at vi tror jo at diversifisering
+
+[00:38:44] fremover blir både bedre
+
+[00:38:47] og viktigere.
+
+[00:38:48] Det blir bedre fordi du nå faktisk,
+
+[00:38:50] hvis du nå diversifiserer over flere aktive klasser,
+
+[00:38:53] så vil du faktisk kunne forvente
+
+[00:38:55] rimelig realavkastning
+
+[00:38:57] og rimelig betaling for risiko
+
+[00:38:58] i de fleste aktive klasser, når vi ser med
+
+[00:39:00] 7-10 års horisont.
+
+[00:39:03] Samtidig er det også sånn at
+
+[00:39:04] de siste 2-3 årene har vist oss en ting til.
+
+[00:39:07] Det er at det å ha veldig
+
+[00:39:09] konsentrerte porteføljer kan være
+
+[00:39:11] litt risikabelt. Vi har blitt utsatt
+
+[00:39:13] for en del ting de siste årene som har
+
+[00:39:14] minnet oss på at
+
+[00:39:16] konsentrasjon kan være veldig bra,
+
+[00:39:18] men du kan også få av noen runder du sent
+
+[00:39:20] glemmer. Og derfor så
+
+[00:39:22] tror vi også fremover at den eneste
+
+[00:39:24] måten å ikke beskytte oss helt,
+
+[00:39:26] men i alle fall gjøre noe med denne
+
+[00:39:28] geopolitiske risikoen vi står overfor,
+
+[00:39:30] vi har også litt sånn lokalpolitisk risiko
+
+[00:39:33] med skatteendringer i bransjer
+
+[00:39:34] og litt av hvert som kan påvirke avkastning
+
+[00:39:36] ganske kraftig på kort sekt.
+
+[00:39:38] Eneste måten å beskytte oss noe med dette på
+
+[00:39:40] er faktisk å spre eksponeringen vår litt mer.
+
+[00:39:43] Og så er selvfølgelig
+
+[00:39:44] alle de historier,
+
+[00:39:46] som er forskjellige, og hvordan man skal
+
+[00:39:47] spre risiko ved å være forskjellig.
+
+[00:39:50] Men er det noen tommelfingerregler
+
+[00:39:52] som går an å ta med her
+
+[00:39:54] i podcasten for hvordan man skal tenke
+
+[00:39:56] når man skal spre den risikoen?
+
+[00:39:58] Jeg tror du tenker i hvert fall på
+
+[00:40:00] to ting. Det ene, det vi er veldig vondt til
+
+[00:40:01] å høre, og alle, du kan lese
+
+[00:40:04] om det veldig mange steder, at det er veldig smart
+
+[00:40:05] å ha mer enn én aksje. Det hører vi veldig mye om.
+
+[00:40:08] Det er veldig skummelt å ha alle
+
+[00:40:10] egne i en kurv. Investerer du i
+
+[00:40:12] én aksje, så er du veldig avhengig
+
+[00:40:13] av akkurat den. Det legger vi til grunn av at
+
+[00:40:16] det tror jeg de vet. Men, det er også
+
+[00:40:18] greit å huske at du kan
+
+[00:40:20] spre deg på tvers av aktive klasser også.
+
+[00:40:22] Og som sagt, så er det greit å ha med seg
+
+[00:40:24] at det finnes litt flere muligheter for
+
+[00:40:26] å eksponere seg på tvers av aktive klasser
+
+[00:40:28] som gir faktisk rimelig avkastning.
+
+[00:40:30] Og mye bedre enn vi har sett på noen ti år.
+
+[00:40:32] Men kan ikke du si litt mer om hva som
+
+[00:40:34] ligger bak disse 6,5 prosentene
+
+[00:40:36] for aksjer,
+
+[00:40:38] eller 4 prosent
+
+[00:40:39] justert for inflasjon?
+
+[00:40:42] For jeg tipper mange av lytterne er interessert i det.
+
+[00:40:44] Det skjønner jeg. For jeg tror den enkle
+
+[00:40:45] måten å se det på er, hvis vi ser på
+
+[00:40:47] historisk avkastning. Som jeg sa, så har vi vært
+
+[00:40:50] gjennom en periode med veldig god historisk
+
+[00:40:52] avkastning. Når vi ser på
+
+[00:40:53] det vi kaller aksjer, så er det en blanding av
+
+[00:40:56] globale aksjer, 80 prosent, og
+
+[00:40:57] 20 prosent norske aksjer. Den har
+
+[00:40:59] gitt historisk de siste 32 årene
+
+[00:41:01] omtrent 9 prosent
+
+[00:41:03] årlig avkastning. Det blir
+
+[00:41:05] særdeles mye penger over tid.
+
+[00:41:08] Grunnen til at vi har justert den ned er to
+
+[00:41:09] ting. Det ene er, som vi snakker om,
+
+[00:41:12] at veksttakten i verden, altså
+
+[00:41:13] økonomisk vekst, blir noe lavere.
+
+[00:41:15] Det over tid går rett
+
+[00:41:17] også inn i inntjeningsvekstene i disse
+
+[00:41:19] selskapene. Her anslår vi
+
+[00:41:21] det er sånn mellom 1 og 2 prosent lavere
+
+[00:41:23] inntjeningsvekst og økonomisk vekst på
+
+[00:41:25] lang sikt enn det vi har sett de siste
+
+[00:41:27] 30 årene. Så selskapenes
+
+[00:41:29] marginer skal bli lavere, legger du det til grunn?
+
+[00:41:31] Nei, inntjeningen i selskapene.
+
+[00:41:33] Det betyr egentlig at salgsveksten
+
+[00:41:35] deres blir lavere. Hva med marginene?
+
+[00:41:37] Sånn vi ser det nå, så legger vi
+
+[00:41:39] til grunn at de er sånn rimelig stabile,
+
+[00:41:41] men vi ser definitivt at det kan være en
+
+[00:41:44] risiko for at de skal
+
+[00:41:45] bli noe lavere, fordi
+
+[00:41:47] kapitaleierne har fått rett og slett for større
+
+[00:41:49] andel av verdiskapningen over tid.
+
+[00:41:51] Så det er en risiko vi ser, men vi har ikke lagt
+
+[00:41:53] det til grunn nå. Men det er åpenbart noe som
+
+[00:41:55] ligger her som en litt usikkerhet.
+
+[00:41:57] Men vi tror det viktigste er egentlig at
+
+[00:41:59] veksttakten kommer ned, og det gjør også at
+
+[00:42:01] inntjeningsvekstene i disse selskapene
+
+[00:42:03] blir noe lavere fremover. Og så er det
+
+[00:42:05] et element til som vi er veldig flinke til
+
+[00:42:07] å glemme når vi ser på historiske tal. Det er at
+
+[00:42:09] når vi ser på data tilbake fra 1990,
+
+[00:42:11] så startet vi da typisk med
+
+[00:42:13] en prising av aksjemarkedet, hvor
+
+[00:42:15] vi ser på prisen vi betalte i forhold til
+
+[00:42:17] inntjening på
+
+[00:42:18] 10-11-ish. Det vil si at selskapet
+
+[00:42:21] tjente 10 kroner, så betalte vi
+
+[00:42:23] 110 omtrent for det.
+
+[00:42:25] Akkurat det samme selskapet i dag, som tjener
+
+[00:42:27] akkurat det samme, 10 kroner, betaler
+
+[00:42:29] vi nå 160-170 for.
+
+[00:42:31] Den endringen i verdsettelse
+
+[00:42:33] har jo bidratt med cirka
+
+[00:42:35] 1,25 prosent ekstra avkastning hvert
+
+[00:42:37] eneste år over denne perioden.
+
+[00:42:38] Hvis vi ikke tror at det skal fortsette,
+
+[00:42:40] det vil si at det ikke skal gå 60-70 prosent
+
+[00:42:42] til, for de ser PE,
+
+[00:42:44] så hva slags prising vil
+
+[00:42:46] markedet tolerere de neste 10 årene?
+
+[00:42:47] Vi tror at det der vi er nå er rimelig greit.
+
+[00:42:50] Vi kan se det fra forskjellige
+
+[00:42:52] teoretiske vinklinger også, men vi tror
+
+[00:42:54] at prising rundt det nivået
+
+[00:42:56] vi så nå ved årsskift er
+
+[00:42:57] rimelig å anta over tid.
+
+[00:43:00] Det er selvsagt litt slingningsmån her,
+
+[00:43:02] men der har vi mange i banken som er
+
+[00:43:04] mye bedre på å se dette på litt mer
+
+[00:43:06] taktisk spill på kortere horisont, men når vi
+
+[00:43:08] ser det med de lange brillene, så tror
+
+[00:43:10] vi egentlig at det kan svinge litt rundt der vi er
+
+[00:43:12] på en sånn 16-ish, men
+
+[00:43:14] virker som et rimelig nivå, gitt
+
+[00:43:16] det nivået vi har på renter
+
+[00:43:18] og inflasjon fremover.
+
+[00:43:20] Det betyr at vi egentlig ikke får den effekten
+
+[00:43:22] fremover, så vi tror at grunnen til at vi har
+
+[00:43:24] litt lavere avkastning fremover enn det vi har hatt
+
+[00:43:26] historisk, er litt lavere vekst
+
+[00:43:28] og ikke samme endring
+
+[00:43:30] i verdsettelse som har gitt ekstra avkastning over tid.
+
+[00:43:33] Men det viktigste
+
+[00:43:34] var det du var inne på, du får fremdeles
+
+[00:43:36] betalt for risiko. Risikopremien
+
+[00:43:38] tror vi er relativt god
+
+[00:43:40] og stabil på cirka 4 prosent.
+
+[00:43:42] Så det lønner seg å kjøpe aksjer,
+
+[00:43:44] lønner seg å kjøpe andre typer verdipapir som
+
+[00:43:46] svinger litt, hvis man har horisont
+
+[00:43:48] og evne til å stå igjennom.
+
+[00:43:50] Men diversifisere, det er et
+
+[00:43:52] viktig nøkkelord. Det sier du hver gang
+
+[00:43:54] du er inne her, Tor Andre.
+
+[00:43:55] Det er viktig for de som
+
+[00:43:57] ønsker
+
+[00:44:00] noe lavere risiko enn å putte alle penger
+
+[00:44:02] i aksjer. Det er egentlig det det dreier seg om.
+
+[00:44:04] Hvis du virkelig er veldig
+
+[00:44:06] risikovillig og ønsker høy risk
+
+[00:44:08] og høye muligheter for avkastning,
+
+[00:44:10] da må du spisse bort det følger mer
+
+[00:44:12] og være villig til å ta større svingninger.
+
+[00:44:14] Det er et veldig viktig
+
+[00:44:16] poeng. Med det så tror jeg vi
+
+[00:44:18] setter strek for
+
+[00:44:20] nå, så får jeg få inn Paul i
+
+[00:44:22] studio igjen. Tusen takk, Tor Andre,
+
+[00:44:24] for at du var med og ga oss en oppdatering.
+
+[00:44:26] Veldig spennende å høre om
+
+[00:44:28] hvordan dere har kommet frem
+
+[00:44:30] til disse langsiktige avkastningsforventningene.
+
+[00:44:33] Takk skal du ha.
+
+[00:44:38] Ja, Paul, da har Tor Andre akkurat
+
+[00:44:40] fortalt meg at du kan forvente 6,5%
+
+[00:44:43] årlig avkastning
+
+[00:44:45] for aksjer
+
+[00:44:46] det neste tiåret. Hva sier du til det?
+
+[00:44:49] Ja, det er jo alltid interessant
+
+[00:44:50] å se på hva man kan forvente
+
+[00:44:52] av avkastning på lengre
+
+[00:44:55] sikt. Det er jo aldri noe
+
+[00:44:56] fasit på disse tingene, men på et
+
+[00:44:59] vis kan man argumentere for at det er lettere
+
+[00:45:01] å gi beregninger på lang sikt
+
+[00:45:03] enn det er på kort sikt. For på lang sikt
+
+[00:45:04] kan man regne med at mye
+
+[00:45:06] av støyer jevner ut, og at
+
+[00:45:08] mean reversion og så videre
+
+[00:45:10] er mer sannsynlig at det
+
+[00:45:12] egentlig spiller inn, når vi tenker på
+
+[00:45:14] sånn type tiårsperspektiv, heller
+
+[00:45:16] enn ettårsperspektiv.
+
+[00:45:19] Så det er jo mange forskjellige moving parts
+
+[00:45:21] man må ta inn i en sånn
+
+[00:45:23] vurdering, og en av de tingene som gjør det
+
+[00:45:25] en veldig vanskelig øvelse er at
+
+[00:45:26] når du ser på egentlig de siste 40 årene
+
+[00:45:29] så har det vært da en periode
+
+[00:45:31] som ikke nødvendigvis er representativ
+
+[00:45:33] for en langsiktig
+
+[00:45:35] utvikling, selv om 40 år
+
+[00:45:37] høres veldig lenge ut, for at nå har vi egentlig
+
+[00:45:38] hatt 40 år med fallende renter,
+
+[00:45:41] og det er jo noe som har gitt
+
+[00:45:42] et positivt bidrag til aksjemarkedet, og da
+
+[00:45:44] må man ta stilling til hva man tror kommer
+
+[00:45:47] til å skje med rente fremover.
+
+[00:45:49] Går de tilbake igjen ned? Går de sidelengs?
+
+[00:45:51] Eller skal de begynne å tendere oppover
+
+[00:45:53] i lengre tid? Og det blir en
+
+[00:45:55] veldig viktig faktor med
+
+[00:45:56] hva slags avkastning man kan forvente,
+
+[00:45:59] og det er langt fra enkelt å være veldig
+
+[00:46:01] sikker på.
+
+[00:46:02] Ok, men la oss
+
+[00:46:04] oppsummere ukenpål
+
+[00:46:07] og veien videre for
+
+[00:46:09] aksjer. Altså, vi har
+
+[00:46:11] en sterk økonomi i
+
+[00:46:13] USA. Stadig flere
+
+[00:46:15] som tror at myk landing for
+
+[00:46:17] de industrialiserte økonomiene blir
+
+[00:46:19] en realitet.
+
+[00:46:21] Det er positivitet rundt Kinas
+
+[00:46:22] gjennåpning, og i
+
+[00:46:24] selskapsrapportene så
+
+[00:46:26] er det jo ganske mye optimisme
+
+[00:46:28] å spore. Virker det som det?
+
+[00:46:30] Nå har vi jo sagt bear market rally, men
+
+[00:46:32] når markedet først har blod på tann
+
+[00:46:35] og momentet er stert, så
+
+[00:46:36] kan det jo være en god stund.
+
+[00:46:38] Ja, disse bear market rallies kan jo være ganske brutale,
+
+[00:46:41] og det kan også være en
+
+[00:46:42] god stund. En av de tingene
+
+[00:46:44] som gjør at jeg fortsatt har tro på at det er
+
+[00:46:46] en bear market rally, er at hvis du ser
+
+[00:46:49] på utvikling i renter nå, så har det
+
+[00:46:50] aksjemarkedet helt frakoblet.
+
+[00:46:53] Det er sånn at det er en veldig sterk sammenheng med
+
+[00:46:54] renter og aksjer nå over
+
+[00:46:57] lengre tid, men nå den siste
+
+[00:46:59] oppgangen vi har sett i renter,
+
+[00:47:00] burde egentlig ha trukket aksjemarkedet ned
+
+[00:47:03] en del, som ikke har skjedd.
+
+[00:47:05] Litt som det punktepoenget jeg hadde
+
+[00:47:06] helt i starten av sendingen her,
+
+[00:47:09] er at når du da får
+
+[00:47:10] et avvik mellom
+
+[00:47:12] aksjer og renter, så kan
+
+[00:47:15] jeg si at i korte perioder, så kan
+
+[00:47:17] de fundamentale faktorene da,
+
+[00:47:19] velge noe mindre, hvis det er flow-effekter
+
+[00:47:21] som da dominerer. Og det er det
+
+[00:47:23] jeg tror er forklaringen her,
+
+[00:47:25] at det er mer sånn reposisjonering
+
+[00:47:27] som gjør at
+
+[00:47:29] aksjer stiger da, til tross for at det
+
+[00:47:30] fundamentale med at inntjeningsestimatene
+
+[00:47:33] kommer ned, og rentene stiger,
+
+[00:47:35] alt annet likt, så skal jo det være
+
+[00:47:36] egentlig en ganske soleklare oppskrift
+
+[00:47:38] for nedgang i aksjer, men det er ikke
+
+[00:47:40] det vi ser av performance
+
+[00:47:43] helt enda. Så jeg
+
+[00:47:45] tror det er noe som kanskje bare tar litt
+
+[00:47:46] lengre tid, man må vente til posisjoneringen
+
+[00:47:49] er litt mer nøytralt før det slår inn,
+
+[00:47:51] men at
+
+[00:47:52] tingdekraften trår inn til slutt,
+
+[00:47:55] er jeg fortsatt ganske overbevist om.
+
+[00:47:57] Ja, hvis jeg skal klatre ut på en gren her, så er
+
+[00:47:58] jeg liksom fristet til å si at jeg føler
+
+[00:48:01] meg litt i den campen som tror at rentene
+
+[00:48:02] kommer til syvende og sist, og måtte bli hevet
+
+[00:48:05] mer enn det markedet tar innover seg.
+
+[00:48:07] Altså, jeg vet at det er mye som kommer
+
+[00:48:08] med etterslepende effekt, og
+
+[00:48:10] det er masse rentehevinger som fortsatt
+
+[00:48:13] skal tre i kraft, og det kommer til å
+
+[00:48:15] stramme inn på forbruket til folk, men
+
+[00:48:16] det virker som veldig mye er
+
+[00:48:19] veldig stert om dagen, og
+
+[00:48:21] på et eller annet tidspunkt da, hvis det
+
+[00:48:22] fortsetter, så må man jo bare heve
+
+[00:48:25] rentene enda mer. Ja, og det er jo egentlig det som
+
+[00:48:27] er... Hvis man skal få bokt med inflasjonen.
+
+[00:48:29] Ja, altså, det er det som er grunnlaget
+
+[00:48:31] for at vi er skeptisk her, at
+
+[00:48:33] i et scenario hvor det er myk landing, og det
+
+[00:48:35] går egentlig for oss bra med økonomien,
+
+[00:48:37] da må rentene opp, og prising
+
+[00:48:39] er allerede egentlig ganske aggressivt,
+
+[00:48:41] så da tror jeg at multipelkontraksjon
+
+[00:48:43] kommer da til å sørge for at du
+
+[00:48:45] får forholdsvis skuffende
+
+[00:48:47] avkastning, så i det type
+
+[00:48:49] skulderscenario for økonomien,
+
+[00:48:50] så blir det litt sånn tilsvarende vi hadde
+
+[00:48:52] i fjor, at det er renteoppgangen
+
+[00:48:54] som da ødelegger. Hvis det viser
+
+[00:48:56] seg at det blir resesjon,
+
+[00:48:58] så kommer rentene ned, så er ikke det et
+
+[00:49:00] problem, men da kommer også inntjening ned
+
+[00:49:02] mer enn det som
+
+[00:49:03] analytikere legger til grunn, så da er man
+
+[00:49:06] omtrent like langt, kan du si, at det er enten
+
+[00:49:08] inntjening som skuffer, eller så er det rentene som
+
+[00:49:10] skuffer. Det er ikke veldig lett å helt
+
+[00:49:12] se hvordan du skal klare å få den type
+
+[00:49:14] Goldilocks-varianten,
+
+[00:49:16] hvor renter kommer litt ned,
+
+[00:49:19] og inntjeningen ikke faller
+
+[00:49:20] noe vesentlig, når
+
+[00:49:22] startpunktet er et marked som er priset forholdsvis
+
+[00:49:24] dyrt relativt til renter,
+
+[00:49:26] og inntjeningsforventning er fortsatt relativt
+
+[00:49:28] optimistisk.
+
+[00:49:31] Q4, altså fjerkvartal,
+
+[00:49:33] er jo historie, men vi kan jo gå inn i helgen
+
+[00:49:34] på å glede oss over at mange
+
+[00:49:36] av de norske
+
+[00:49:38] store selskapene har
+
+[00:49:40] levert solide rapporter.
+
+[00:49:43] Ja, så det har ikke vært noe katastroferapporteringssesong
+
+[00:49:45] det etter, og det var nok
+
+[00:49:47] mange som
+
+[00:49:49] lyktet at det skulle komme veldig mye
+
+[00:49:50] negativ guiding, og jeg må si at det har egentlig
+
+[00:49:52] vært litt bedre enn det jeg hadde sett
+
+[00:49:54] for meg, at de to siste rapporteringssesongene
+
+[00:49:57] så har det vært gjemt over
+
+[00:49:58] nedjustering i estimatene.
+
+[00:50:00] De første selskapene som har rapportert
+
+[00:50:02] i Norge her, så er snittet litt
+
+[00:50:04] opp, så jeg synes det er klart bedre
+
+[00:50:06] rapporteringssesong i Q4
+
+[00:50:08] enn det var i Q3. Vi er
+
+[00:50:10] fortsatt ikke halvveis
+
+[00:50:12] enda, så ting kan endres selvfølgelig,
+
+[00:50:15] men det er langt fra noe katastrofe
+
+[00:50:16] for dette her, og egentlig kan vi si mer
+
+[00:50:18] sånn
+
+[00:50:19] det man sier er en slags
+
+[00:50:20] average rapporteringssesong, heller enn
+
+[00:50:22] at det har vært direkte skuffende.
+
+[00:50:25] Da ble det litt lengre enn den
+
+[00:50:26] vanlige halvtimen som
+
+[00:50:28] vi sikter mot
+
+[00:50:29] denne gangen også, Paul, men
+
+[00:50:32] vi får håpe at dere lyttere tilgir oss
+
+[00:50:34] det. Sånn er det når det skjer
+
+[00:50:36] så mye som de gjør om dagen.
+
+[00:50:38] Vi er kommet til vei sende for
+
+[00:50:40] nå, så det gjenstår det bare å si
+
+[00:50:42] tusen takk til deg, Paul, og
+
+[00:50:44] Thor-Andre, og ikke minst alle dere
+
+[00:50:46] som lytter. Og liker du
+
+[00:50:49] podkasten, så vil vi veldig gjerne at du
+
+[00:50:50] legger en kommentar, eller gir oss
+
+[00:50:52] en hyggelig rating der du hører podkast,
+
+[00:50:55] og dersom du har ønsker
+
+[00:50:56] om gjester vi skal invitere, temaer vi skal
+
+[00:50:58] ta opp, eller aksjer vi skal kommentere,
+
+[00:51:01] kan du sende oss en mail på

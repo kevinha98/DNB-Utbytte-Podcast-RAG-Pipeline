@@ -1,0 +1,40 @@
+#!/bin/sh
+# pre-commit hook - blocks destructive changes to precious runtime data.
+
+set -eu
+
+protected_paths="backend/storage backend/venv312"
+
+status_lines=$(git diff --cached --name-status -M -- $protected_paths || true)
+
+blocked=""
+
+# Parse tab-delimited name-status output.
+while IFS='	' read -r status p1 p2; do
+    [ -z "${status:-}" ] && continue
+    case "$status" in
+        D*)
+            blocked="$blocked\n  DELETE: $p1"
+            ;;
+        R*)
+            blocked="$blocked\n  RENAME: $p1 -> $p2"
+            ;;
+    esac
+done <<EOF
+$status_lines
+EOF
+
+if [ -n "$blocked" ]; then
+    echo ""
+    echo "ERROR: Destructive changes to protected paths are not allowed."
+    printf '%b\n' "$blocked"
+    echo ""
+    echo "Protected paths:"
+    echo "  - backend/storage"
+    echo "  - backend/venv312"
+    echo ""
+    echo "If this is truly intentional, request explicit override in review and use --no-verify."
+    exit 1
+fi
+
+exit 0

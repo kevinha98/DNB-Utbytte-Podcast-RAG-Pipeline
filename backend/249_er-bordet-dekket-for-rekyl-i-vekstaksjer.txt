@@ -1,0 +1,937 @@
+Episode 249: Er bordet dekket for rekyl i vekstaksjer?
+Publisert: Sat, 22 Ja
+Vert: Marius Brun Haugen
+Varighet: 33 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/er-bordet-dekket-for-rekyl-i-vekstaksjer
+
+--- Transkripsjon ---
+
+[00:00:00] Lange renter har vært på full fart mot 2 prosent, og vekstaksjer har blitt trøkket ytterligere ned denne uken.
+
+[00:00:07] Oljeprisen har vært på full fart mot 90 dollar fat og gitt støtte til Oslo Børs, men vi skal heller ikke glemme at det er markante spenninger mellom Russland og Ukraina og Vesten.
+
+[00:00:18] Samtidig er rapporteringssesongen forsiktig i gang, så det er med andre ord mye som skjer og faktorer som trekker i ulike retninger for aksjer.
+
+[00:00:28] Og alt dette her skal vi snakke mer om i dagens episode, og en av tingene vi skal diskutere er om bordet nå er dekket for en rekyl i vekstaksjer.
+
+[00:00:46] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen globale økonomien og finansmarkedene.
+
+[00:00:55] Jeg er Marius Brunhaugen fra DNB Markets, og med meg har jeg aksjestrateg Paul Harper.
+
+[00:01:02] Hei, hei, Paul.
+
+[00:01:03] Hei, hei, Marius.
+
+[00:01:03] Ja, snart er det tid for fredagstakon, men først så er det vel på sin plass å oppsummere de viktigste bevegelsene i markedet denne uken, eller hva?
+
+[00:01:12] Ja da, det er jo den tiden, så da får vi bare sette i gang.
+
+[00:01:15] Ja, og når vi sitter her så er det fredag 21. januar. Klokken er akkurat blitt halv fire.
+
+[00:01:22] Ting tyder veldig på at det blir en rød uke globalt. USA-børsene åpner akkurat nå.
+
+[00:01:29] Og ja, når vi sitter her så er altså Nasdaq ned nesten 10 prosent hittil i år, S&P 500 ned nesten 6 prosent hittil i år,
+
+[00:01:40] og OCBX har også bikket over i rødt territorium for året.
+
+[00:01:46] Og torsdag kveld i USA, altså i går, så skjedde det en ting sånn rundt klokken åtte, da gikk det over til mer sånn alt faller.
+
+[00:01:56] Altså, aksjer var...
+
+[00:01:59] Altså, det var ned ganske bredt. Vi så at de lange rentene også begynte å falle, og oljeprisen falt egentlig alt utenom fryktindeksen VIX som steg, da.
+
+[00:02:11] Mens tidligere i uken og tidligere i år så har vi jo sett at det kun har gått utover vekstaksjer.
+
+[00:02:16] Så dette her, det skal vi komme tilbake til ganske snart.
+
+[00:02:20] Men du, Paul, du har jo sittet i kundemøter hele uken for å dele ditt syn på markedet,
+
+[00:02:24] og da sitter du og snakker med forvalter og andre profesjonelle investorer.
+
+[00:02:29] Så jeg lurte på først, altså, er det noen som har hatt noen ekstra interessante synspunkter på markedet og det som skjer nå,
+
+[00:02:37] og hvordan man kan manøvre seg best mulig fremover, og tenker kanskje særlig på inflasjon, om det er noen som har noen divergerende synspunkter her?
+
+[00:02:46] Ja, altså, vi ser at det er en sånn kanskje fellestrekk, er at de fleste er ganske usikre nå.
+
+[00:02:51] Det er ikke noen som egentlig har noen sånn voldsom high conviction på hvilken vei ting skal gå, er sånn jeg opplever det i hvert fall.
+
+[00:02:58] Og jeg tror mange føler at etter et veldig sterkt år i fjor, så blir det ikke så veldig overraskende om det blir et litt mer forsiktig år i år.
+
+[00:03:08] Og et av de punktene som vi påpeker i disse møtene er at det der helt i tråd med historikken,
+
+[00:03:14] at når man kommer inn i en innsramningstyklus for rentene, så er det veldig vanlig at børsen er litt mer rugglete i en periode,
+
+[00:03:22] og heller går sidelengs noen måneder før første renteoppgang.
+
+[00:03:26] Og dette varer ofte noen måneder etter også, så det blir da en litt korrigering ned, varierer hvor mye det faller fra gang til gang,
+
+[00:03:35] men at det kommer noe ned er ikke veldig uvanlig, men som regel så er størrelsesorden for disse korreksjonene mer sånn 10-15% eller en 20% pluss.
+
+[00:03:47] Så det kan godt hende at vi egentlig er godt stykket i vei gjennom denne prosessen allerede.
+
+[00:03:53] Det som kanskje argumenterer imot er at vi fortsatt er et stykke unna den første renteøkningen, vi antar at det kommer i mars,
+
+[00:04:03] så det kan godt hende at det er fortsatt litt tidlig å prøve å ta noe sånn veldig aggressivt standpunkt,
+
+[00:04:08] men det er noe som man i hvert fall må begynne å følge litt mer med på.
+
+[00:04:12] For en ting som er relevant å spørre seg om, det er vel om vi er nær toppen på forventninger om høyere renter nå,
+
+[00:04:20] eller om lønnsveksten vil sørge for at det blir noe mer.
+
+[00:04:23] Eller at det blir, i gåsetegn, enda verre senere i år.
+
+[00:04:28] Akkurat inflasjon er jo egentlig kanskje det området hvor det er mest usikkerhet og kanskje mest uenighet også.
+
+[00:04:36] Og det er egentlig et ganske komplisert spørsmål å svare på, fordi at viktige deler av inflasjonen er transitory,
+
+[00:04:44] eller at det er midlertidige faktorer.
+
+[00:04:46] Så selv om Fed har sagt at nå skal vi ikke bruke det ordet lenger, så er det jo sånn at vi har brukt bilpriser for eksempel,
+
+[00:04:53] og det er opp over 50 prosent år over år.
+
+[00:04:56] Og det er klart, det kan ikke fortsette i lang tid.
+
+[00:04:59] Så selv om det ikke er en stor komponent av inflasjonsindeksen, når det stiger såpass mye, så slår det ganske mye likevel.
+
+[00:05:06] Og det jeg tror en del glemmer, er at det er en del baseeffekter her.
+
+[00:05:11] Og hva vi mener med det, er at priser gikk opp ganske voldsomt fra mars-april i fjor.
+
+[00:05:18] Og det blir sånn at inflasjon er endring år over år.
+
+[00:05:22] Det er gjerne det vi snakker om.
+
+[00:05:23] Så når det allerede har gått opp veldig mye år over år, så er det vanskelig å klare å opprettholde en tidssvarende prisstigning.
+
+[00:05:32] Så fra og med mars-april, så bare på grunn av at utgangspunktet er en god del høyere,
+
+[00:05:39] så blir det til at den år over år veksttakten blir gradvis noe mindre.
+
+[00:05:44] Og på et eller annet tidspunkt, så må man vel forvente at brukt bilpriser kommer til å begynne å falle en del.
+
+[00:05:50] Så da i stedet for å bli et sterkt positivt bidrag,
+
+[00:05:53] til summen i inflasjon, så blir det et negativt bidrag i stedet for.
+
+[00:05:58] Så bare det at det går sidelengs gjør at positivt blir til null,
+
+[00:06:02] men når det først begynner å falle, så blir det en tidssvarende negativ effekt på inflasjonen,
+
+[00:06:07] som burde gjøre at inflasjonen trekker gradvis ned gjennom året, hvis alt annet er likt.
+
+[00:06:14] Men er det sånn, så er det ikke bare litt å se rundt seg?
+
+[00:06:18] Altså strømprisen øker, pumpeprisen øker, matprisen øker,
+
+[00:06:23] prisene for forsikring øker, prisene for parkering øker, og så videre.
+
+[00:06:31] Arbeidsmarkedet er jo definitivt ganske stramt, og i arbeidstagernes favør, må man kunne si,
+
+[00:06:37] og de kommer vel i hvert fall så langt de kan til å kreve høyere lønn for å kompensere for dette her.
+
+[00:06:44] Så selv om år over år prisveksten ikke blir helt oppe i 6-8 prosent,
+
+[00:06:50] så er det jo vanskelig å fatte at ikke dette her skal,
+
+[00:06:52] skal få noen ganske kraftige ringvirkninger, og aksjemarkedet kan vel ikke overse det?
+
+[00:06:59] Nei, så er det nettopp det som er vanskelig, at du har deler av inflasjonskomponentene,
+
+[00:07:04] som kommer til å bli en fallende trend nå om ikke så veldig lenge,
+
+[00:07:08] og så har du andre som er kanskje i en stigende trend,
+
+[00:07:11] og helt å ta i med det kryssningspunktet er ikke så veldig enkelt,
+
+[00:07:14] for det tar litt tid før lønnsøkningen blir merkbart i inflasjonstallene.
+
+[00:07:21] Så en sånn type,
+
+[00:07:22] scenario man kunne se for seg er at inflasjonsnivået topper ut i løpet av Q1,
+
+[00:07:29] faller igjennom Q2 og Q3,
+
+[00:07:31] men så kanskje det begynner å stige igjen mot slutten av året på grunn av den lønnsveksten.
+
+[00:07:36] Det er det som kanskje Fed har blitt mye mer bekymret for nå,
+
+[00:07:40] at det er en underliggende tendens der som kan bli mer utfordrende,
+
+[00:07:46] samtidig som kanskje de tingene som i utgangspunktet trakk inflasjon opp,
+
+[00:07:50] begynner å bli mindre viktige etterhvert.
+
+[00:07:52] Ja, og så jeg trakker frem noen eksempler som også kanskje gjelder norske forhold,
+
+[00:07:58] og norske forhold er enda mer enn amerikanske,
+
+[00:08:00] men det er viktig å understreke og minne om, som vi har sagt mange ganger før,
+
+[00:08:03] når vi snakker om inflasjonen og hvordan det påvirker aksjemarkedet,
+
+[00:08:07] så er det det som skjer i USA som er viktig.
+
+[00:08:10] Så på Twitter denne uken, skal vi kalle han kjendis eller aktivistinvestor Bill Ackman,
+
+[00:08:15] tok de ordet for at Fed skal heve renten med 0,5 prosent,
+
+[00:08:21] i stedet for 0,2.
+
+[00:08:22] 0,25 prosent, da vil det vise at de tar inflasjonen på alvor,
+
+[00:08:27] men skulle de finne på noe sånt, da vil det kunne skape fruro i markedet, eller hva?
+
+[00:08:32] Jeg tror ikke markedet er helt forberedt på det,
+
+[00:08:35] for vi kan jo se hva som er priset inn med å se på Fed Funds Futures,
+
+[00:08:39] så det er en kontrakt som handles hele tiden,
+
+[00:08:42] hvor du kan vedde på hvor du tror Fed Funds renten kommer til å være.
+
+[00:08:48] Så den priser inn, nå siste gang jeg sjekket dette,
+
+[00:08:51] så er det rundt en renteøkning i mars, fire totalt for året,
+
+[00:08:56] men det er da en renteøkning, eller 0,25 punkter opp i mars, ikke 50.
+
+[00:09:02] Så skulle det komme 50, så er ikke markedet helt forberedt på det.
+
+[00:09:06] Ja, ja, ellers interessant da,
+
+[00:09:08] altså den amerikanske 10-årsrenten har jo beveget seg oppover siden nyttår,
+
+[00:09:14] fra 1,5 prosent og vært oppe og snust på 1,9,
+
+[00:09:20] og nærmer seg 2, som jeg sa innledningsvis,
+
+[00:09:23] så har den falt litt tilbake da, de siste dagene,
+
+[00:09:26] men det blir spennende å følge farve fremover,
+
+[00:09:29] jeg regner med du kommer til å følge med på.
+
+[00:09:30] Ja, absolutt, og du kan si at 2 blank er jo et interessant nivå,
+
+[00:09:35] både i forhold til litt sånn teknisk motstand,
+
+[00:09:38] hvis man bare ser på grafen de siste par årene,
+
+[00:09:41] men drar du opp grafen fra tidlig 80-tallet,
+
+[00:09:45] så får du også den lange trendkanalen,
+
+[00:09:48] hvor renter har egentlig vært,
+
+[00:09:50] i en fallende trend siden tidlig 80-tallet,
+
+[00:09:53] og da dunker man i den øvre enden av den fallende trendkanalen,
+
+[00:09:57] rundt 2 prosent nå også,
+
+[00:09:59] så du har sånne viktige tekniske nivåer her,
+
+[00:10:03] og så er det jo også det,
+
+[00:10:03] når det har gått såpass mye på kort tid,
+
+[00:10:05] så hadde det ikke vært veldig uvanlig,
+
+[00:10:06] at det kanskje blir litt konsolidering,
+
+[00:10:09] for sånne bevegelser har jo en tendens til å skje litt mer gradvis,
+
+[00:10:14] enn det vi har sett nå,
+
+[00:10:15] så det er ikke veldig rart om det kanskje stopper opp litt nå.
+
+[00:10:20] Ja, det er et godt poeng,
+
+[00:10:21] store bevegelser på kort tid,
+
+[00:10:24] og dette her med inflasjon og renter,
+
+[00:10:26] har jo vært en veldig viktig årsak,
+
+[00:10:29] til at 2022 så langt har vært streng mot aksjer,
+
+[00:10:34] med inntjening langt fremme i tid.
+
+[00:10:38] Det holder å se til Oslo Børs autostore,
+
+[00:10:42] har blitt trykket ned over 30 prosent,
+
+[00:10:46] hittil i år Kahoot 25 prosent,
+
+[00:10:48] og så videre,
+
+[00:10:50] og nå er det tegn til at det er tekniske indikatorer,
+
+[00:10:54] sånn som RSI,
+
+[00:10:56] som på mange av disse aksjene er på nivåer nær eller under 30,
+
+[00:11:02] som betyr at det er oversolt.
+
+[00:11:03] Det er tegn til at oppgangen i lange renter,
+
+[00:11:06] som vi nevnte, tar en liten pause,
+
+[00:11:08] betyr dette her at bordet er dekket,
+
+[00:11:11] for at vi skal få en rekyl i vekstaksjene.
+
+[00:11:13] Det øker i hvert fall muligheten for det,
+
+[00:11:17] men jeg synes det er interessant det vi ser,
+
+[00:11:20] at i stedet for å være veldig preget av denne rotasjonen fra vekst til value,
+
+[00:11:27] så er det litt mer en sånn type risk-off stemning nå.
+
+[00:11:31] Innenfor vekstaksjer ser vi en ganske stor forskjell
+
+[00:11:34] mellom de vekstaksjene som i det minste har inntjening,
+
+[00:11:39] fremst over de som ikke har det.
+
+[00:11:41] Det henger også litt sammen med at vi ser nå
+
+[00:11:44] at når renten kommer litt ned igjen,
+
+[00:11:46] så er forskjellen på det som gjør det bra og det som gjør det dårlig,
+
+[00:11:50] litt mer sånn defensivs gjør det bedre,
+
+[00:11:52] syklisk gjør det dårlig,
+
+[00:11:53] i motsetning til det vi hadde tidligere i uken og uken før,
+
+[00:12:00] hvor det egentlig gikk mest på om det var høye eller lave multiple på aksjene.
+
+[00:12:05] Så det som driver fallet nå er litt mer en tradisjonell risk-off posisjonering.
+
+[00:12:11] Så det virker kanskje litt mer overbevisende
+
+[00:12:14] å heller satse på de vekstaksjene som er litt oppover i kvalitetsskalaen,
+
+[00:12:18] og med det så mener jeg de som,
+
+[00:12:20] som ikke har finansieringsbehov, har positiv inntjening,
+
+[00:12:23] fremfor å ta noe stort bett på de som er mer sånn early stage.
+
+[00:12:28] Men om vi får en eventuell rekyl for vekstaksjer
+
+[00:12:31] eller deler av vekstaksjene som du er inne på,
+
+[00:12:36] risikoen for at den blir kortlevet,
+
+[00:12:38] den skal man vel ikke undervurdere?
+
+[00:12:41] Nei, så jeg tror det er, som du sier, noen kortsiktige faktorer
+
+[00:12:45] som kanskje tyder på at det kan være nær en bunn.
+
+[00:12:48] Det er en av de tingene som,
+
+[00:12:50] følger med på en sånn sentimentindeks,
+
+[00:12:52] en ukentlig Bull og Bear survey,
+
+[00:12:55] og den falt jo nå opp på det laveste nivået vi har sett siden juli 2020.
+
+[00:13:00] Og det er en sånn contrarian indikator,
+
+[00:13:03] at når alle er bearish,
+
+[00:13:04] så er det et godt tidspunkt for å eventuelt prøve å kjøpe.
+
+[00:13:09] Så igjen så kan det hende at den blir enda litt mer bearish før det bunner ut,
+
+[00:13:13] men i hvert fall den risk-return odds
+
+[00:13:15] begynner å se litt bedre ut basert på den.
+
+[00:13:18] Men tenker man litt lenger,
+
+[00:13:19] fremme i tid,
+
+[00:13:21] hvis man forventer at rentene skal fortsette å trekke oppover,
+
+[00:13:25] og det er litt vanskelig å se hvorfor det ikke skal skje
+
+[00:13:29] hvis Fed skal heve renter fire ganger i løpet av året,
+
+[00:13:32] QE blir,
+
+[00:13:34] den taperingen av QE blir ferdig,
+
+[00:13:36] og eventuelt begynner å reversere QE også.
+
+[00:13:41] Så lenge man antar at QE presset renter ned,
+
+[00:13:43] så må en reversering av det trekke rentene opp.
+
+[00:13:46] Så da blir det jo vanskelig helt å se
+
+[00:13:49] hvorfor den rotasjonen fra vekst til value
+
+[00:13:53] ikke skal fortsette over en litt lengre periode.
+
+[00:13:56] Så jeg ville se på en eventuelt kjøp i vekstaksje
+
+[00:13:59] til å være en mer taktisk, kortsiktig trade,
+
+[00:14:03] fremfor en mer langsiktig investering.
+
+[00:14:07] Og vi skal jo heller ikke glemme at
+
+[00:14:09] det er jo mange vekstselskaper som fremdeles er veldig høyt priset.
+
+[00:14:17] Og det skal jo være en vekstselskaper som fremdeles er veldig høyt priset.
+
+[00:14:19] Og i prinsippet bare små endringer til i langsiktige forventninger
+
+[00:14:23] for at det skal skape store, store konsekvenser
+
+[00:14:26] for hva markedet mener er riktig aksjekurs.
+
+[00:14:29] Ja, det er jo sånn i hvert fall hvis man tenker på dette her igjen.
+
+[00:14:32] Netflix er jo bare et eksempel på en aksje som ikke innfridde
+
+[00:14:37] når de kom med tallet etter sengetidbørs torsdag kveld,
+
+[00:14:41] og aksjene har jo fått ganske juling.
+
+[00:14:43] Ja, så det er jo sånn at for selskap som ikke tjener noe særlig penger nå,
+
+[00:14:46] så er jo største delen av verdien
+
+[00:14:48] langt frem i tid, og da går det egentlig ut på hva slags veksttak
+
+[00:14:53] man kan ekstrapolere fremover.
+
+[00:14:55] Så da blir jo små endringer nå veldig store ti år frem i tid
+
+[00:15:00] hvis du endrer den veksttakten litt.
+
+[00:15:02] Så hvis man tenker på dette her i litt mer sånn type lærebokmetodikk,
+
+[00:15:08] og skal diskontere kontantstrømmen tilbake til en nåverdi,
+
+[00:15:14] så er det jo sånn at jo lenger frem i tid den kontantstrømmen er,
+
+[00:15:17] jo mer avhengig, jo mer sensitiv er det hvilken rente du legger inn i det regnestykket,
+
+[00:15:24] så selv små endringer i rente slår veldig mye
+
+[00:15:28] hvis mesteparten av verdien er langt frem i tid.
+
+[00:15:30] Så det er egentlig det som er problemet for disse vekstaksjene.
+
+[00:15:33] Kommer rentene opp, så slår dette her voldsomt,
+
+[00:15:36] og det er ikke en sånn helt linjær sammenheng heller.
+
+[00:15:38] Små endringer når rentene er veldig lavt slår egentlig veldig mye
+
+[00:15:42] relativt til endringer når rentene er noe høyere.
+
+[00:15:45] Så disse aksjene er absolutt fremdeles i farezonen
+
+[00:15:49] hvis rentene fortsetter å tendere oppover.
+
+[00:15:52] Så hvis vi skal prøve å konkludere her så vi kan komme oss videre da,
+
+[00:15:57] en slags oppsummering er at på litt sikt
+
+[00:16:02] så ser trenden ut fortsatt til å tale for å gå i favør av verdi og syklisk
+
+[00:16:09] og det som vi har snakket om, men i det helt korte bildet så er det noen ting som taler for at
+
+[00:16:15] det kan være klart for en rekyl i hvert fall for et selektivt utvalg av vekstaksjene.
+
+[00:16:22] Jeg tror Oddsen begynner å bli litt bedre i den retningen,
+
+[00:16:26] akkurat det å prøve å time sånne ting er selvfølgelig ganske vanskelig,
+
+[00:16:29] så vi skal ikke prøve å være altfor smarte her,
+
+[00:16:33] men at noe sånt skulle skje i løpet av de neste dagene er ikke helt usannsynlig,
+
+[00:16:38] og det er i hvert fall enkelte indikatorer som begynner å peke i den retningen.
+
+[00:16:43] Men generelt, Paul,
+
+[00:16:44] den by-the-dip-mentaliteten vi har snakket en del om,
+
+[00:16:49] er den i ferd med å forsvinne?
+
+[00:16:51] Nå blir det mer en slags sell på alle tegn til styrke,
+
+[00:16:55] eller er det litt for tidlig å konkludere på det?
+
+[00:16:57] Det er kanskje litt for tidlig å konkludere,
+
+[00:16:59] men det er litt mer et tegn nå til at den by-the-dip-entusiasmen er noe dårligere.
+
+[00:17:06] Det er klart at når investerende merker at de taper penger
+
+[00:17:10] og det er ikke like treffsikkert å kjøpe dippen,
+
+[00:17:13] så gjør man det noen ganger,
+
+[00:17:15] men hvis det ikke fungerer en to-tre ganger,
+
+[00:17:17] så blir kanskje troen på at det fortsetter å fungere noe svekket.
+
+[00:17:22] Jeg har ikke noe tall på dette selv,
+
+[00:17:24] men jeg så det var noe som JP Morgan hadde her i går,
+
+[00:17:28] hvor de mente at retail-investorene nå har vært mye mer forsiktige med å kjøpe dippen,
+
+[00:17:33] og spesielt nå som man har sett vekstaksjer slite,
+
+[00:17:36] og det er vel kanskje at retail-investorene har vært mer eksponerte i vekstaksjer
+
+[00:17:42] enn mer tradisjonelle, kjedelige old economy-selskap,
+
+[00:17:48] så har de kanskje vært litt mer utsatt for dette fallet
+
+[00:17:51] enn den gjennomsnittlige institusjonsinvestorene,
+
+[00:17:54] så da merker de kanskje dette litt mer enn andre.
+
+[00:18:04] Ok, la oss hoppe videre over til energi,
+
+[00:18:09] og ja, oljeprisen er vel en viktig grunn til at børsen
+
+[00:18:15] har outperformet de fleste andre markedene så langt i år,
+
+[00:18:19] som jeg sa innledningsvis, nå har jo også Oslo Børs sin hovedindeks
+
+[00:18:23] bikket i røtten og vi sitter her, men at det har holdt seg såpass bra som det har gjort,
+
+[00:18:28] det kan vi jo takke den sykliske eksponeringen for med oljeaksjer i spiss,
+
+[00:18:33] og du hadde et artig poeng på alt som fikk en del oppmerksomhet på Twitter denne uken.
+
+[00:18:38] Ja, det er det at når man ser på oljeprisen så har den kommet opp en god del,
+
+[00:18:43] og vanligvis så tenker man på olje i forhold til dollar per fat,
+
+[00:18:48] men ser man på dette her målt i kroner,
+
+[00:18:51] så er jo faktisk oljeprisen nå på all time high,
+
+[00:18:56] det er godt et stykke under i forhold til dollar per fat fremdeles,
+
+[00:19:00] det var jo helt opp i 145 dollar i 2008,
+
+[00:19:05] men det er jo for en norsk investor så er det jo egentlig kroneverdien som kanskje har mer å si,
+
+[00:19:11] selv om selskapene rapporterer i dollar,
+
+[00:19:13] så blir jo det implicit vekstet til kroner når aksjene er notert i kroner.
+
+[00:19:19] Og selv om prisingen er høy og mange av oljeprodusentene steg bra i 2021,
+
+[00:19:28] så har vi jo til minst grad da hatt rett i at man ikke skal undervurdere olje,
+
+[00:19:32] men det sagt så kan man vel ikke heller nå forvente at oljerelatert skal stige videre til evig tidpål uten å korrigere?
+
+[00:19:41] Nei, det er jo klart ingenting vokser til himmelen,
+
+[00:19:44] men det er litt sånn at ser vi på hvor estimatene er i konsensus,
+
+[00:19:49] så ligger jo Bloomberg konsensus rundt sånn 74 dollar som gjennomsnittspris for året,
+
+[00:19:56] mens spotprisen er jo høyt på 80-tallet nå,
+
+[00:19:59] så oddsen er nok at forventninger rundt oljeprisen skal trekkes litt opp i estimatene,
+
+[00:20:05] og vi ser allerede nå at konsensus for Equinor og AKBP begynner å trekke litt oppover.
+
+[00:20:11] Så jeg hadde ikke vært veldig overrasket om det fortsetter etter hvert som analytikerne oppdaterer estimatene
+
+[00:20:16] før Q4-tallene og eventuelt videre oppdateringer etter at selskapene har rapportert.
+
+[00:20:22] Så noe oppside på inntjeningen for energiselskapene tror jeg er rimelig å forvente.
+
+[00:20:26] Ja da, og så har vi jo fått flere rapporter på oljesiden denne uken, blant annet fra IEA,
+
+[00:20:33] og der trakk oljeanalytikeren vår Helge Martinsen fram at for første gang på lenge så publiserte de flere bullisje faktorer
+
+[00:20:41] i rapporten, blant annet et poeng om at etterspørselen kan være betydelig høyere og tilbudet lavere
+
+[00:20:52] enn det som har blitt rapportert eller antatt tidligere.
+
+[00:20:57] Også at 2022 starter ut med globale oljelagere ganske lavt og gått under de nivåene som var før
+
+[00:21:11] pandemien, og gjorde også et poeng ut av dette her med ekstra kapasiteten.
+
+[00:21:18] Så noen sånne ting som på en måte går i oljeprisens favør.
+
+[00:21:24] Men en annen ting vi ikke skal glemme opp i dette her, Paul, som vi snakket om før jule i fjor,
+
+[00:21:31] det er jo president Bidens forsøk for eksempel på å senke pumpeprisen.
+
+[00:21:35] Vi kan jo ikke utelukke at det kommer noe nytt fra den kanten.
+
+[00:21:38] Neida, du har jo alltid disse joker fra i dag.
+
+[00:21:40] Ja, vi har alltid disse joker-effektene som ligger baki der,
+
+[00:21:44] men hvis vi husker fra sist gang så hjalp det ikke så voldsomt mye det han prøvde på der.
+
+[00:21:50] Sånn sett så tror jeg ikke det egentlig blir så veldig viktig.
+
+[00:21:54] Jeg kan godt hente at det slår ut litt akkurat der og da hvis det kommer noen meldinger rundt det,
+
+[00:21:59] og eventuelt slipper litt av den strategiske lagerbeholdningen.
+
+[00:22:03] Men jeg tror sånne type endringer er såpass små i det store bildet at jeg tror egentlig ikke markedet blir så veldig
+
+[00:22:07] men jeg tror egentlig ikke markedet blir så veldig små i det store bildet at jeg tror egentlig ikke markedet blir så veldig
+
+[00:22:09] forstyrret av det.
+
+[00:22:11] Ok, politisk risiko, det er noe som alltid er der.
+
+[00:22:17] Det påvirker også ofte oljeprisene og energimarkedene.
+
+[00:22:23] En usikkerhetsfaktor som jeg må si at jeg og sikkert mange andre går og tygger litt på om dagen,
+
+[00:22:29] det er jo det som skjer med Russland, Ukraina og Vesten.
+
+[00:22:34] Men hvis vi tar aksjemarkedet først, Paul, det virker jo ikke særlig bekymret.
+
+[00:22:38] Nei, det gjør jo egentlig ikke det.
+
+[00:22:40] Og mulig er det kanskje dette her kan være litt det at de siste fem årene
+
+[00:22:46] så var det nesten daglig at Trump sa et eller annet som virket veldig dramatisk
+
+[00:22:52] og til å begynne med så reagerte markedet på det.
+
+[00:22:54] Men etter hvert så ble det liksom, det skjedde så ofte og det kom aldri noe ut av det
+
+[00:22:59] at man begynte å ignorere disse tingene.
+
+[00:23:02] Så jeg lurer litt på om det er kanskje litt der vi er nå
+
+[00:23:06] at markedet bryr seg ikke om sånne ting før det eventuelt skulle skje noe.
+
+[00:23:11] Så stort sett så er politikkfaktore det ikke noe særlig langvarig impact på børsen
+
+[00:23:17] og man har vært så rask til å kjøpe dippen på disse tingene
+
+[00:23:20] at etter hvert så har det ikke blitt noe dippe å kjøpe engang.
+
+[00:23:23] Så jeg mistenker her at mulig man er blitt litt complacent
+
+[00:23:27] at man priser ikke inn disse risikofaktorene lenger.
+
+[00:23:32] Så hvis det først skulle skje noe så er det klart da kommer vi til å merke det.
+
+[00:23:36] Ja, så med andre ord, det er en risiko altså for at investorene undervurderer dette her?
+
+[00:23:42] Ja, det er nok en risiko for det.
+
+[00:23:44] Nå tror jeg ikke egentlig risikoen er veldig høy, men det er høyere enn null.
+
+[00:23:49] Sånn sett så er det da en risiko at dette kan eventuelt slå ut verre enn det markedet tror.
+
+[00:23:56] Men olje- og gassprisene de er vel påvirket?
+
+[00:24:02] Spørsmålet er vel bare til hvilken grad da?
+
+[00:24:04] Men det er vel nær sagt umulig å si. Det er mange ukjente.
+
+[00:24:08] Ja, det er jo selvfølgelig det.
+
+[00:24:10] Og akkurat det med gassprisen er jo en faktor som er viktig her.
+
+[00:24:14] Til hvilken grad kommer Russland til å øke volymene?
+
+[00:24:18] Og de har jo en egen interesse for å gjøre dette her etterhvert.
+
+[00:24:21] Det er klart det er det de håper de lever av å selge gassen.
+
+[00:24:25] Så de kan bruke det som pressmiddel i korte perioder.
+
+[00:24:29] Men etterhvert så er det jo i alles interesse å komme til noenighet her.
+
+[00:24:33] Så det er nok noe som løser seg etterhvert.
+
+[00:24:36] Og effekten av den pressmiddelen blir jo mindre når vi begynner å nærme oss våren.
+
+[00:24:41] Og det er mindre behov for oppvarming og så videre.
+
+[00:24:45] Så det er jo en ganske tydelig sesongmønster i gassprisene uansett.
+
+[00:24:48] Så det er jo nå han har mest mulighet til å klare å tvinge frem etterhvert.
+
+[00:24:53] Når det begynner å bli litt varmere i været så er ikke etterspørsene etter gass like sterkt lenger.
+
+[00:24:58] Så da har han heller ikke like gode evner til å få til det han vil.
+
+[00:25:01] Fra energi må vi til shipping.
+
+[00:25:05] En kjapp tur innom det.
+
+[00:25:08] Shipping-analysegjengen sendte nemlig ut en oppdatert MPC-analyse denne uken.
+
+[00:25:15] Vi endte kjøpsambefalingen og har løftet kursmålet til 33.
+
+[00:25:20] Markedet ser ut til å være enig og den har jo steget videre denne uken.
+
+[00:25:25] Så kursmålet har jo snart vært i ferd med å bli nådd allerede.
+
+[00:25:30] Men med andre ord, kjøpscaset står seg, mener shipping-analysegjengen hos oss.
+
+[00:25:35] Er du enig, Paul?
+
+[00:25:36] Ja, jeg synes egentlig det at du har her en utvikling hvor disse supply chain-problemene
+
+[00:25:43] blir ikke løst like fort som man hadde håpet.
+
+[00:25:46] Så vi ser at container-ratene holder seg godt fremdeles.
+
+[00:25:49] Og det er jo da et godt stykke over der det var for et år siden.
+
+[00:25:53] Så den år-over-år-effekten er fortsatt sterkt positiv selv om det som ligger i estimatene er at innen slutten av året,
+
+[00:25:59] så kommer de til å bli negativt.
+
+[00:26:02] Så for hver uke som går uten at disse ratene faller noe vesentlig, så ser dette bra ut.
+
+[00:26:08] Og en viktig faktor her for MPC-aksjonærer er at nå viser MPC at de skal betale dette ut,
+
+[00:26:15] eller overskudde ut, som utbytte.
+
+[00:26:18] Så det er en ting hvis du har et selskap som er veldig lønnsomt, men betaler det ikke ut,
+
+[00:26:22] for da risikerer du at de kanskje bruker pengene på et eller annet dumt.
+
+[00:26:26] Men her er det jo sånn at du får disse pengene ut.
+
+[00:26:29] Ut av selskapet.
+
+[00:26:31] Og det gir en mye lettere, eller det er i hvert fall mye bedre visibilitet av hva aksjen egentlig er verdt,
+
+[00:26:39] når du da får pengene ut.
+
+[00:26:41] Og det er cash i lommen er ikke noe du legger noe særlig discount på.
+
+[00:26:46] Sånn sett så synes jeg dette ser bra ut fremdeles, og det scorer veldig bra som et value case.
+
+[00:26:52] Når du også klarer å sikre kontrakter på flere år frem i tid,
+
+[00:26:59] og på det som historisk er ganske høye og hyggelige nivåer,
+
+[00:27:03] så er det klart du får et slags gulv til en viss grad på nedstiden for aksjen.
+
+[00:27:09] Som blir løftet.
+
+[00:27:11] Ja, så det er ofte i shipping at utfordringen er at har du et godt år,
+
+[00:27:15] så kan du nesten garantere at det blir et dårlig år året etter,
+
+[00:27:18] fordi at i mellomtiden så kommer det masse nybygg inn,
+
+[00:27:21] og tilbudetsbørsens balansen blir ødelagt.
+
+[00:27:24] Mens her er nok det en risiko for sektoren etter hvert.
+
+[00:27:28] Men har man da klart å bukke mye av flyten på langsiktige kontrakter,
+
+[00:27:33] så får du den visibiliteten at lønnsomheten er der,
+
+[00:27:37] i hvert fall i noen år frem i tid,
+
+[00:27:39] og det er såpass lønnsomt at utbyttebetalingene her,
+
+[00:27:43] kan egentlig betale tilbake en ganske stor del av aksjekursen i løpet av bare de neste 2-3 årene.
+
+[00:27:49] Ok, nær sagt sist, men ikke minst,
+
+[00:27:53] så må vi snakke litt om rapporteringssesongen.
+
+[00:27:56] Den er sparket forsiktig i gang.
+
+[00:27:59] Her hjemme så var Otovo i Gilen tidligere denne uken.
+
+[00:28:07] Aksjekursen falt tilbake på rapporteringsdag etter å ha hatt et bra drag i Q4.
+
+[00:28:15] Faller videre også i dag, fredag, for å ta med at vi har ikke analysedekning på aksjen.
+
+[00:28:21] Men vi har jo hatt selskapets sjef, Andreas Thorstein,
+
+[00:28:25] som gjest her i podkasten og fått oppdatering på selskapet.
+
+[00:28:30] Synes det er veldig spennende.
+
+[00:28:32] De formidler jo installasjon av solcellanlegg på taket til folk.
+
+[00:28:36] De er i en svitspott nå på grunn av styrstrøm,
+
+[00:28:40] og det ble vel også reflektert i salgsveksten for Q4 som var formidabel,
+
+[00:28:46] men samtidig så man altså at i motsatt retning så trakk bunnlinjen til selskapet.
+
+[00:28:52] Men det blir jo spennende å se hva de får til.
+
+[00:28:54] Fremover i det korte bildet så er det nok også rimelig anta at markedets appetitt for vekstaksjer
+
+[00:29:02] spiller en vesentlig rolle i kursutviklingen her.
+
+[00:29:07] Men hvis vi ser på konsensus generelt og forventningene inn mot rapporteringssesongen,
+
+[00:29:15] så ser jo det ut til å være på den høye siden, og det er kanskje også berettiget.
+
+[00:29:21] Ja, jeg tror det.
+
+[00:29:22] For når vi ser på endringene i noen av de viktigste input-faktorene her,
+
+[00:29:27] så er det ikke rart at det blir veldig sterk vekst nå i kvartalet.
+
+[00:29:30] Så oljeprisen for eksempel er 76% høyere i Q4 2021 mot Q4 2020,
+
+[00:29:39] så det skal jo mye til at oljeselskapen ikke får en betydelig bedre resultat
+
+[00:29:44] når du har en såpass stor oppgang i oljeprisen.
+
+[00:29:48] Aluminiumsprisen er opp litt over 40% år over.
+
+[00:29:50] Aluminiumprisen er opp litt over 40% år over.
+
+[00:29:53] Så egentlig alt innenfor råvarer får en voldsom mevinn fra disse endringene i råvareprisene
+
+[00:29:59] i forhold til fjoråret.
+
+[00:30:01] Så det skal veldig mye til at det ikke blir veldig sterk vekst i inntjening.
+
+[00:30:05] Men med tanke på det, så tror jeg kanskje det markedet blir nok mer opptatt av,
+
+[00:30:11] er hva selskapene sier de tror inntjeningen kommer til å være for året som kommer.
+
+[00:30:16] Og spesielt om det er noe tegn til inflasjonspress for eksempel,
+
+[00:30:19] for å skuffe marginene,
+
+[00:30:21] så kan jo det slå en del på bunnlinjen selv om kanskje omsetningen er bra.
+
+[00:30:27] Så jeg tror det blir heller det fremfor hva selskapene rapporterer som blir det viktigste.
+
+[00:30:32] Kan gode Q4-tal bidra til å trigge markedet i positiv retning generelt
+
+[00:30:39] og gjøre at man glemmer stigende renter i noen uker?
+
+[00:30:43] Ja, det er jo fullt mulig.
+
+[00:30:45] Ofte så er det sånn at det som egentlig er det viktigste når vi driver og ser på sånne backtests,
+
+[00:30:50] av kursreaksjoner,
+
+[00:30:52] så er det den viktigste enkeltfaktoren,
+
+[00:30:54] er hvordan kursen har vært inn mot tallene.
+
+[00:30:57] Så hvis det har vært svagt før selskapene rapporterer,
+
+[00:31:00] så blir det selv dårlige tall,
+
+[00:31:02] iblant tatt imot positivt,
+
+[00:31:04] for tanken nå er «the bad news in the price»,
+
+[00:31:06] så da er det ikke noe mer å frykte etter at selskapet har rapportert.
+
+[00:31:10] Mens hvis utviklingen har vært veldig bra,
+
+[00:31:12] så blir det en motsatt variant,
+
+[00:31:14] at det er «by the rumor, sell the fact».
+
+[00:31:16] Sånn sett er det at markedet har vært noe svagt,
+
+[00:31:19] i en periode,
+
+[00:31:21] kanskje øker sannsynligheten for at kursreaksjonene blir positive.
+
+[00:31:24] De siste 2-3 kvartalene,
+
+[00:31:26] så har selv gode tall fått en negativ reaksjon,
+
+[00:31:29] så det gjør det kanskje litt lettere denne gangen.
+
+[00:31:32] Men hvis vi ser hva som har skjedd i USA nå forrige uke,
+
+[00:31:35] så var det flere av de store amerikanske bankene som rapporterte tall,
+
+[00:31:39] og de ble tatt imot litt negativt.
+
+[00:31:41] Du kan kanskje si det er litt ironisk at Wall Street selger bankene
+
+[00:31:45] på grunn av høye lønnskostnader.
+
+[00:31:47] Der er det et eller annet som
+
+[00:31:49] kanskje gjør at man må trekke litt på smilebåndet her,
+
+[00:31:54] men det er jo litt sånn at
+
+[00:31:56] enkelt-amerikanske selskapene har slitt,
+
+[00:31:58] og som jeg nevnte tidligere,
+
+[00:32:00] så har Netflix falt 20% på sine tall,
+
+[00:32:04] så det er ikke gitt at det blir en positiv catalyst,
+
+[00:32:08] disse tallene som kommer nå.
+
+[00:32:10] Så kan vi jo bare ta med at
+
+[00:32:13] når vi sitter her og har kommet til veis ende
+
+[00:32:16] for denne episoden,
+
+[00:32:18] og klokken denne har blitt fire på fredagen,
+
+[00:32:21] det er en halvtime igjen på Oslo Børs,
+
+[00:32:23] det går mot en rød dag,
+
+[00:32:25] det har sklidd litt ytterligere mens vi har sittet her og pratet,
+
+[00:32:28] åpnet rundt ned halvannen prosent for Nasdaq,
+
+[00:32:33] mens S&P er nedrett i underkant av prosenten,
+
+[00:32:36] så gjenstår det å se hvordan dette ender.
+
+[00:32:39] Vi er ferdig for i dag,
+
+[00:32:43] men det er bare å følge med i neste uke også, folkens,
+
+[00:32:46] vi kommer selvfølgelig tilbake med kommentarer på aksjemarkedet,
+
+[00:32:50] det blir også makroprognoser og shipping-oppdatering
+
+[00:32:54] i uken som kommer.
+
+[00:32:56] Med det gjenstår det bare å si, Paul,
+
+[00:32:58] tusen takk for at du var med,
+
+[00:33:00] og ha en riktig god helg, folkens.
+
+[00:33:22] Teksting av Nicolai Winther

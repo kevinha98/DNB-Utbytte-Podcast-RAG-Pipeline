@@ -1,0 +1,641 @@
+Episode 364: Fem stjerners helseinvesteringer
+Publisert: Sat, 15 Ju
+Vert: Marius Brun Haugen
+Varighet: 22 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/fem-stjerners-helseinvesteringer
+
+--- Transkripsjon ---
+
+[00:00:02] Hvordan vurderer forvalterne våre investeringsmulighetene i helsesektoren nå?
+
+[00:00:07] Og hvordan kan kunstlig intelligens være til hjelp når vi skal møte fremtidens helseutfordringer?
+
+[00:00:13] Dette skal vi snakke om i dagens episode.
+
+[00:00:16] Vi skal også innom livsstilssykdommer som fedme og overvekt, så det er på sin plass med en liten advarsel.
+
+[00:00:24] Etter å ha hørt denne episoden kan du få en plutselig trang til å reise deg fra solstolen og ta deg en treningsrunde.
+
+[00:00:30] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen globale økonomien og finansmarkedene.
+
+[00:00:44] Jeg er Marius Brune Haugen og med meg har jeg Benedikte Bakke og Rune Sand som forvalter helsefondene til DNB.
+
+[00:00:53] Velkommen i studio begge to.
+
+[00:00:55] Takk.
+
+[00:00:56] Tusen takk.
+
+[00:00:56] Når vi sitter her så er det onsdag 28. juni, men når dere som lytter hører oss så er det antageligvis i midten av
+
+[00:01:05] juli, men det sagt så skal vi konsentrere oss om de lange linjene i dag. Høres ikke det bra ut til deg?
+
+[00:01:12] Det høres bra ut.
+
+[00:01:13] Dere forvalter to fond som jeg er ganske sikker på at flere av lytterne våre kjenner til fra tidligere oppdateringer
+
+[00:01:22] vi har laget og sendt ut. Det er DNB Global Healthcare som er det globale helsefondet, og så er det DNB Biotech.
+
+[00:01:31] Begge fondene har gitt tosiffret avkastning.
+
+[00:01:35] De har gått så langt i år og gjort det bedre enn sine respektive referanseindekser, så det er jo gøy.
+
+[00:01:41] Men innledningsvis så er det Biotech-fondet som vi skal vise litt ekstra oppmerksomhet for.
+
+[00:01:47] Fondet feiret nylig tre år, så du kan si det er det minste barnet, og det ble belønnet av Morningstar med fem stjerner av fem mulige.
+
+[00:01:58] Så da må vi bare si gratulerer, Benedikte. Du er vel strålende fornøyd med det?
+
+[00:02:02] Ja, vi er kjempegodt fornøyd med det.
+
+[00:02:05] Det er jo veldig viktig for oss å levere god avkastning til de som investerer i fondene,
+
+[00:02:12] og når vi leverer god avkastning utover referanseindeksen som vi måles mot, så er det over tid veldig bra.
+
+[00:02:24] Også det at vi får en ekstern anerkjennelse med Morningstar-ratingen, det er jo kjempegodt.
+
+[00:02:35] Det er gøy å ta med seg, men dere hviler ikke på laubærne, eller hva, Rune?
+
+[00:02:42] Neida, det er klart vi bare jobber på.
+
+[00:02:45] Men hva har vært nøkkelen til å levere god avkastning?
+
+[00:02:50] Det vi kan si er at ved å være investert i et fond, så har vi muligheten til å ha en diversifisert portefølje.
+
+[00:02:56] Så vi har både store og små selskaper i porteføljen, og hovedfokuset for fondene er selskaper innenfor mid-care.
+
+[00:03:05] Vi har hatt mange gode investeringer, så vi har truffet godt på flere av de tingene vi har gjort.
+
+[00:03:13] Vi har tre oppkjøp hittil i år, som står for ca. 2% av meravkastningen.
+
+[00:03:18] Og hittil i år har vi hatt en meravkastning i overkant av 10%,
+
+[00:03:23] så det betyr at ca. 8% av meravkastningen kommer fra andre selskaper enn det.
+
+[00:03:29] Så det er vi godt fornøyde med.
+
+[00:03:30] Det betyr at det ikke er bare en eller to enkelte investeringer vi har truffet på,
+
+[00:03:35] at det jevnt over har vært god avkastning, uten at vi har gått på de store blemmene.
+
+[00:03:42] Nå vet vi jo fra Oslo Børs at biotek, nå er biotek mer enn det man finner på Oslo Børs,
+
+[00:03:48] men biotek kan jo være binært, så vel så viktig for å treffe på de som stiger,
+
+[00:03:54] så er det vel også å ikke bomme med investeringene, altså investere i de der hvor det går fullstendig galt.
+
+[00:04:01] Absolutt, og det er jo det som er forskjellen mellom å være investert i enkeltaksjer og et fond,
+
+[00:04:05] jo en diversifisert portefølje, så det betyr jo at man tåler å ha noen investeringer som ikke går veien,
+
+[00:04:12] og sånn er det jo i biotek, og hvor det er teknisk risiko, så er det jo alltid en mulig risiko,
+
+[00:04:20] men treffer man på godt mer enn 50%, så lykkes man godt.
+
+[00:04:26] Og det er jo litt av fordelen med å være investert i et sånn type segment gjennom et fond,
+
+[00:04:30] at man får en diversifisert portefølje, og en annen ting som nok er viktig også,
+
+[00:04:35] så er jo at vi er et relativt stort team, vi er jo tre personer på det her teamet som forvalter begge de her fondene,
+
+[00:04:41] så vi har store ressurser til å kunne gå inn i dybden på alle de selskapene som vi investerer i,
+
+[00:04:46] og i tillegg da det å være en del av et stort system som DNB Sett Management er jo også en stor fordel,
+
+[00:04:53] da har vi god tilgang til informasjon både gjennom management, vi har tilgang til analytikere,
+
+[00:04:59] diverse eksperter, vi deltar på konferanser og diverse seminarer, så vi får god tilgang til informasjon,
+
+[00:05:05] så det er nok også en nøkkel til det å levere god avkastning.
+
+[00:05:10] Ja, for i tillegg til dere to så har vi også Anessa, som lytterne har stiftet beskjennskap med tidligere,
+
+[00:05:18] hun var med her i en episode før jul var det vel om jeg husker riktig.
+
+[00:05:23] Har dere noen gode eksempler da på investeringer som dere har lykkes med?
+
+[00:05:28] Ja, da kan vi kanskje ta først et selskap som er en stor investering egentlig,
+
+[00:05:32] i begge fondene våre, det er et amerikansk selskap som heter Xact,
+
+[00:05:35] Xact Sciences, som er et bioteknologiselskap som leverer diagnostiktjenester,
+
+[00:05:42] så det vil si at de har utviklet en test for å oppdage tyktarmskreft.
+
+[00:05:46] Det standard i dag for å teste for tyktarmskreft er at man tar en koloskopi og biopsi av tyktarmen,
+
+[00:05:51] mens de da har utviklet en test som er mye enklere og mye mer skånsom for pasienten da,
+
+[00:05:58] for å diagnostere tyktarmskreft.
+
+[00:06:01] Det var en aksje som falt veldig mye under covid,
+
+[00:06:03] fordi at helsesystemet da hadde mer,
+
+[00:06:05] da hadde mer enn nok til å behandle covid-pasienter,
+
+[00:06:09] men vi så at dette var et selskap som hadde et veldig godt og spennende produkt som vi hadde trua på,
+
+[00:06:14] så vi har egentlig bare fortsatt å kjøpe aksjer i selskapet gjennom covid på stadig mer attraktive kurser,
+
+[00:06:21] og nå ser vi da etter hvert som helsesystemene og volymene i sykehusene har mer normalisert seg,
+
+[00:06:28] så ser vi at inntjeningen kommer raskt tilbake og faktisk så slår selskapet på forventninger,
+
+[00:06:34] både på salgsinntekter og på kontantstrøm,
+
+[00:06:37] så aksjen er opp 90% så langt i år,
+
+[00:06:40] så det er et selskap, et av de som har levert best til begge fondene egentlig så langt i år.
+
+[00:06:46] Så har vi et annet selskap som heter Evotech, som vi kanskje kan trekke fram,
+
+[00:06:49] som er et tysk selskap som egentlig driver med utelukkende tidlig faseforskning,
+
+[00:06:57] så det vil si at de leter etter molekyler som kan være kandidat for en ny medisin,
+
+[00:07:02] og med en gang de finner et eller annet som er,
+
+[00:07:04] spennende så inngår de partnerskap med biotektselskapene som tar resten av løpet for å utvikle denne medisinen til markedet.
+
+[00:07:15] Det er noe vi synes er veldig spennende, for dette er et område hvor det er et stort potensial for AI og maskinlæring.
+
+[00:07:23] I dag er prosessen med å utvikle en ny medisin et veldig langt løp, det tar typisk ti år pluss fra man oppdager en mulig kandidat,
+
+[00:07:34] mens med AI vil denne prosessen kunne bli mye kortere,
+
+[00:07:41] og Evotech har en plattform som bruker AI og maskinlæring, som potensielt vil kunne gjøre denne «drug discovery» mye mer effektiv og treffsikker.
+
+[00:07:53] Så det er en aksje vi tror har et veldig stort potensial, og aksjen er opp 35% så langt i år, men vi tror det er bare starten på noe som kan bli veldig stort.
+
+[00:08:04] Vi har hatt noen hyggelige eksempler. Hvordan er utsiktene for biotech-sektoren generelt?
+
+[00:08:11] Vi er veldig positive til sektoren fremover, og det er ulike grunner til det.
+
+[00:08:15] Hvis man ser hvordan sektoren har gjort det de siste tre årene, så har den vært veldig svak.
+
+[00:08:22] Den referanseindeksen, Nasdaq biotech-indeksen, har falt ca. 2% over en treårsperiode,
+
+[00:08:31] samtidig med at generell helseindeksen og verdensindeksen har gått mye i den perioden.
+
+[00:08:38] Så det betyr at sektoren har vært svak over tid. Hvis vi ser siste året, så har den levert bedre,
+
+[00:08:44] men det betyr at mange av selskapene har hatt en svak utvikling.
+
+[00:08:50] Det har ikke vært fokus på den sektoren, og vi ser veldig gode fundamentale forhold i sektoren.
+
+[00:08:55] Mange selskaper er lavt priset. Vi ser at innovasjonsgraden er høy.
+
+[00:09:00] Mange lykkes med sin kliniske utviklingsløp.
+
+[00:09:03] Vi ser også at amerikanske legemiddelmyndigheter er mer fleksible nå og mer positive til å få ny terapi,
+
+[00:09:11] for eksempel genterapi. Så det er veldig mange fundamentale forhold som er gode.
+
+[00:09:16] I tillegg ser vi at de store farmaselskapene sliter med å fylle pipeline,
+
+[00:09:21] fordi de har store produkter som går av patent.
+
+[00:09:24] Det er helt avhengig av å fylle den veksten med noe annet.
+
+[00:09:29] En kilde til det er rett og slett eksterne oppkjøp.
+
+[00:09:33] Det er noe av dynamikken vi ser i sektoren, og noe av bakgrunnen vi har sett.
+
+[00:09:39] Det siste året har vi hatt fem selskaper i porteføljen som har blitt kjøpt.
+
+[00:09:43] Dette er et veldig oppkjøpsorientert subsegment.
+
+[00:09:48] Det mener vi kommer til å fortsette, for det er gode forhold.
+
+[00:09:53] Mange av de store selskapene har mye cash. Så vi er positive.
+
+[00:09:59] Bra. Vi må innom det globale helsefondet også.
+
+[00:10:05] Rune, kan ikke du minne oss på hva slags eksponering man får her sammenlignet med biotek-fondet?
+
+[00:10:11] I helsefondet investerer vi bredt i hele sektoren.
+
+[00:10:15] Inklusive biotek-segmentet, men vi investerer også i de store farmaselskapene,
+
+[00:10:22] underleverandører til legemiddelindustrien, med tech-selskaper som for eksempel
+
+[00:10:28] produserer alt fra MR-maskiner og kirurgiske roboter til skalpeller og nåler.
+
+[00:10:37] Også tjenesteleverandører innenfor helseindustrien.
+
+[00:10:41] Det vil for eksempel være sykehusoperatører eller helseforsikringsselskaper.
+
+[00:10:46] Her investerer vi bredt i hele helseuniverset, men i hovedsak i de store selskapene.
+
+[00:10:52] Mens biotek-fondet er mer fokusert på innovasjon,
+
+[00:10:57] så er helsefondet mer diversifisert.
+
+[00:11:00] Vi forsøker å fange opp den veksten man har i industrien som helhet.
+
+[00:11:06] Vi vet at over de neste ti årene står vi overfor mange nye utfordringer,
+
+[00:11:11] med tanke på demografi og livsstilssykdommer,
+
+[00:11:15] som gjør at vi tror helsesektoren som helhet vil fortsette å være en sektor med høy vekst.
+
+[00:11:21] Det er det vi prøver å fange opp i helsefondet,
+
+[00:11:24] samtidig som vi forsøker å redusere risikoen.
+
+[00:11:27] Ved å investere bredt, men også investere i de solide, store selskapene.
+
+[00:11:32] Vi skal komme litt innom et par av investeringstematikkene,
+
+[00:11:38] blant annet dette med livsstilssykdommer og FEDME.
+
+[00:11:41] Bendicte, du var nydelig på helsekonferanse i USA, New York, var det ikke det?
+
+[00:11:46] Hva er inntrykket å sitte med igjen fra turen?
+
+[00:11:50] Det vi kan si nå er at det er kjempe mange som er tilbake på konferanser,
+
+[00:11:55] og det er fullt hus og stormende jubel.
+
+[00:12:00] Det vi ser forskjell fra litt tidligere, for eksempel tre-fem år tilbake,
+
+[00:12:06] hvor det var ekstremt stort fokus på kreft, at det var hoved,
+
+[00:12:10] så er det fortsatt fokus på kreft, men vi ser veldig mye fokus på
+
+[00:12:15] inflammasjonssykdommer, immunologi og ikke minst FEDME,
+
+[00:12:21] i tillegg til sjeldne sykdommer.
+
+[00:12:23] Så det er på en måte et skift nå.
+
+[00:12:27] Når vi skal snakke litt om FEDME etterpå,
+
+[00:12:30] så var det en stor konferanse forrige helg om diabetes og FEDME-sykdommer.
+
+[00:12:38] De fleste sier at det er den møste konferansen for folk å dra på.
+
+[00:12:45] Tidligere var det kreftkonferansen, det måtte alle dra på,
+
+[00:12:48] men nå er den kommet opp som en sånn ...
+
+[00:12:50] Nei, det er ikke så viktig med den kreftkonferansen,
+
+[00:12:52] men nå er det mer FEDME som er i fokus.
+
+[00:12:55] Så hvis bøsset på konferansen er en indikator på investeringsviljen
+
+[00:13:02] og interessen for sektoren, så er det bra?
+
+[00:13:06] Det er bra.
+
+[00:13:07] Ok. Som noen av lytterne våre vil huske, i en tidligere episode i sommer,
+
+[00:13:12] så trakk Knut Hellandsvik fram helsesommet eksempel på en langsiktig tematikk,
+
+[00:13:19] som hele forvalterteamet har ekstra tro på.
+
+[00:13:21] Jeg må jo si at jeg synes det er forholdsvis greit å være enig at
+
+[00:13:26] langsiktig bakteppe, som dere har touchet inn på, er i helseinvestorenes favor,
+
+[00:13:31] med tanke på nettopp dette som du snakket litt om, Rune.
+
+[00:13:34] Vi blir flere, vi blir eldre, vi endrer livsstil og blir sykere,
+
+[00:13:40] og så har vi ikke nok kapasitet eller ressurser i form av for eksempel helsepersonell,
+
+[00:13:45] og så er alt dette ganske dyrt å finansiere.
+
+[00:13:49] Så det er nok av utfordringer i helsesektoren,
+
+[00:13:52] men det er jo akkurat det som byr oss som investorer på muligheter.
+
+[00:13:57] Så dette med overvekt og fedme, en av de store tematikkene som dere fokuserer investeringene rundt.
+
+[00:14:04] Si litt, hvorfor er det?
+
+[00:14:06] Fedme og overvekt er jo noe som gjelder en stadig økende del av befolkningen, dessverre.
+
+[00:14:14] Men nå foregår det da, som Benedicte var inne om,
+
+[00:14:17] en liten revolusjon innenfor muligheter for å behandle nettopp overvekt.
+
+[00:14:23] Så i dag er det cirka en milliard mennesker globalt som har en BMI på over 30.
+
+[00:14:30] Så markedet er stort?
+
+[00:14:31] Markedet er stort i dag, og det tallet er forventet å vokse med 40% pluss frem mot 2030,
+
+[00:14:40] og vi vet at befolkningen generelt i samme periode skal vokse med kanskje 6-7%.
+
+[00:14:45] Denne delen av befolkningen kommer til å bli en stadig større del av befolkningen.
+
+[00:14:52] Tidligere tenkte man at markedspotensialet var 10-20 milliarder,
+
+[00:14:56] og nå snakker man langt over 100 milliarder.
+
+[00:14:59] Det illustrerer jo hvorfor industrien er så utrolig fokusert på denne legemiddelgruppen,
+
+[00:15:08] og hvordan de kan ta sin andel av kaka.
+
+[00:15:12] Som Benedicte sier, 100 milliarder.
+
+[00:15:15] Potensialet over noen år.
+
+[00:15:17] Dollar?
+
+[00:15:18] Dollar, ja.
+
+[00:15:19] I dag er det stort sett bare Novo Nordisk som har produkter på markedet som er godkjent for behandling av overvekt.
+
+[00:15:26] Det er produktene som heter Saxenda og VEGOVI.
+
+[00:15:30] Ogsempic også, som er blitt veldig kjent i media det siste, men den er egentlig bare godkjent for behandling av diabetes.
+
+[00:15:37] Så hvis man tar Saxenda og VEGOVI, så selger det vel for kanskje rundt 2 milliarder i dag.
+
+[00:15:43] Hvor langt har utviklingen kommet?
+
+[00:15:45] Behandling av overvekt og FED med?
+
+[00:15:49] Har det kommet videre?
+
+[00:15:51] Er det sånn at man kan ta en pille i stedet for å operere på en måte?
+
+[00:15:54] Nei, det er jo ikke operasjon da.
+
+[00:15:56] Dette er jo injeksjoner som du tar, eller VEGOVI da.
+
+[00:15:59] Det er en injeksjon som du tar en gang i uka, og så har studier vist at man kan oppnå en 15% reduksjon i kroppsvekt over en periode på ett år pluss.
+
+[00:16:09] Så oppnår man den effekten.
+
+[00:16:11] Men så er det som Benedicte var inne om, så var det en konferanse nå i helga,
+
+[00:16:14] hvor man har presentert fase 2-studier på nye legemidler.
+
+[00:16:19] Vi vet at L.A. Lilly kommer med en konkurrent på markedet til neste år som har vist opp mot 20%,
+
+[00:16:25] så den blir stadig bedre.
+
+[00:16:27] Og neste generasjon av medisiner, som både Novo Nordisk og L.A. Lilly da har presentert i studier nå i løpet av helga,
+
+[00:16:34] da begynner vi å snakke om 25-30% vektreduksjon fra bruk av disse legemidlene.
+
+[00:16:39] Det er fortsatt ukentlige injeksjoner.
+
+[00:16:42] Så kommer det etter hvert også pilleversjoner av disse medisinerne.
+
+[00:16:46] Men foreløpig har de litt lavere potensiell vektapp fra bruk av disse pilleformulasjonene.
+
+[00:16:54] Men det vil nok også etter hvert komme bedre versjoner av disse.
+
+[00:16:58] Men pillene kommer, og det som er en grunn til at det er veldig viktig,
+
+[00:17:03] er at ved å ha en pille i stedet for en injeksjon, så vil produksjonskostnaden være mye lavere.
+
+[00:17:10] Og vi ser nå at dette kommer til å bli, som vi snakket om, et kjempestort marker.
+
+[00:17:16] Og de som skal betale for det, må få kostnadene ned.
+
+[00:17:19] Så selv om man ikke for eksempel vil ha like god effekt på en pille som en injeksjon,
+
+[00:17:24] så vil det, tror vi, ta en stor del av markedet, spesielt på markedet hvor det har veldig press på pris.
+
+[00:17:32] Fordi man klarer ikke å håndtere kostnadene for dette.
+
+[00:17:38] Og på helgens konferanse var det presentert veldig gode data på det, så det kommer.
+
+[00:17:44] Og så til tross for at markedet er stort, så høres det også litt ut basert på det du sa der, Rune,
+
+[00:17:50] som at det er konkurranse her også.
+
+[00:17:54] Så selv om det kanskje er nok kake til alle, så gjelder det å velge de som får det til.
+
+[00:17:59] Ja, det er riktig. Og det er ikke bare Nord-Nordisk eller Lilly.
+
+[00:18:04] Her kommer det flere andre også som har spennende produkter i pipeline.
+
+[00:18:08] Vi har mest tro på Lilly, det er der vi har den største eksponeringen vår,
+
+[00:18:15] men også en liten eksponering i Nord-Nordisk.
+
+[00:18:18] Men vi har satsa på Lilly fordi de har flere fedme-produkter under utvikling som alle ser veldig spennende ut,
+
+[00:18:26] i tillegg til at de har en hel portefølje innenfor mye annet også, så de har flere ben å stå på.
+
+[00:18:31] Ett ord om dagen kunstig intelligens, det slipper vi heller ikke unna.
+
+[00:18:36] Eller AI, som det vel heter på norsk.
+
+[00:18:38] Det treffer helsesektoren også. Kan ikke dere forklare å dele noen eksempler?
+
+[00:18:44] Jo, kunstig intelligens har jo vært noe som har vært egentlig brukt over lengre tid for håndtering av store datamengder,
+
+[00:18:53] og som Rune nevnte, det med legemiddelutvikling, hvordan det kan effektivisere legemiddelutvikling.
+
+[00:19:01] Så det er på en måte ett av de områdene som vi kanskje tenker at det har hatt størst impact i nå og kommer til å ha det,
+
+[00:19:07] fordi det reduserer kostnaden, så det man ser for seg at det kan kanskje øke antall godkjenninger av nye legemidler med tre stykker per år.
+
+[00:19:17] Hvis man tenker hva det vil bety for salg, så gir det en veldig god effekt.
+
+[00:19:22] Men alt dette med AI er jo veldig interessant, men hva tror dere? Kommer det til å revolusjonere helsesektoren, eller er det først og fremst at det kommer til å effektivisere?
+
+[00:19:33] Jeg vil nok tro at kanskje i første omgang så snakker vi nok om mer effektivitet.
+
+[00:19:37] Vi forventer å få med gradvis forbedringen, effektiviseringen, og så kommer vi kanskje til revolusjonene etter hvert.
+
+[00:19:41] Vi forventer å få med gradvis forbedringen, effektiviseringen, og så kommer vi kanskje til revolusjonen etter hvert.
+
+[00:19:44] Det er litt som vi snakket om tidligere med Evotech, som kan gjøre denne drug discoveryen sin mye raskere enn det som har vært tidligere.
+
+[00:19:51] Andre eksempler innenfor bildediagnostikk for eksempel hvor du tar et MR eller CET, så er det en spesialist som står og vurderer disse bildene.
+
+[00:19:53] I dag er det en spesialist som står og vurderer disse bildene.
+
+[00:19:55] for eksempel, du tar et MR
+
+[00:19:57] eller en CT så har du jo
+
+[00:19:58] i dag så er det jo en spesialist som står
+
+[00:20:01] og vurderer disse bildene og om det kan være
+
+[00:20:03] noe her som bør ses nærmere på
+
+[00:20:05] etter hvert så får man jo AI
+
+[00:20:07] som kan vurdere disse bildene mye mye raskere
+
+[00:20:09] og mye mer treffsikkert
+
+[00:20:10] andre eksempler innenfor robot
+
+[00:20:13] kirurgi for eksempel så vil man etter hvert
+
+[00:20:15] kunne implementere AI
+
+[00:20:16] og kanskje etter hvert da
+
+[00:20:19] også få en robot til å gjennomføre
+
+[00:20:21] enkle prosedyrer, vi er ikke der enda
+
+[00:20:23] men disse robotene er med på
+
+[00:20:25] å effektivisere helsesystemet
+
+[00:20:27] allerede i dag. For du Rønne, du er
+
+[00:20:29] jo nettopp tilbake fra Bryssel
+
+[00:20:31] og du har vært og testet kirurgiske
+
+[00:20:33] roboter, har du ikke? Ja, ja. Ja, fortell da.
+
+[00:20:36] Ja, vi var på en
+
+[00:20:37] investertur i Bryssel og Frankfurt
+
+[00:20:39] forrige uke hvor vi fikk
+
+[00:20:41] testet og prøvekjørt og trykt litt på
+
+[00:20:43] knappene på noen av disse robotene
+
+[00:20:45] eller det er jo egentlig
+
+[00:20:47] et monopol som har vært i over
+
+[00:20:49] 20 år, det er et amerikansk selskap som heter
+
+[00:20:51] Intuitive Surgical som har
+
+[00:20:53] utviklet en robot som brukes til
+
+[00:20:55] disse type
+
+[00:20:57] kikkhulsoperasjoner
+
+[00:20:59] og de har vært eneste på markedet
+
+[00:21:01] nå i lang tid og det er litt spennende nå for nå har
+
+[00:21:03] det kommet en konkurrent på markedet, det er
+
+[00:21:05] Medtronic som har fått godkjent
+
+[00:21:07] sin robot da i Europa her
+
+[00:21:09] så da var det litt interessant å kunne
+
+[00:21:10] prøvekjøre begge de to og teste de litt
+
+[00:21:13] opp imot hverandre.
+
+[00:21:15] Hva er konklusjonen du sitter igjen med?
+
+[00:21:18] Er du ganske sikker på at dette er
+
+[00:21:19] fremtiden?
+
+[00:21:21] Maskinen kommer til å ta over kikkhulsoperasjonen
+
+[00:21:24] fra mennesket?
+
+[00:21:25] Ja, det er definitivt fremtiden
+
+[00:21:27] de kommer til å overta mer og mer enn
+
+[00:21:29] ikke bare kikkhulsoperasjoner men også
+
+[00:21:31] andre typer åpne operasjoner etter hvert
+
+[00:21:33] også så kommer nok robotene til
+
+[00:21:35] å spille en større og større rolle
+
+[00:21:37] potensialet er kjempe stort men
+
+[00:21:39] bare i startfasen egentlig
+
+[00:21:41] med å bruke disse i Norge så har vi
+
+[00:21:43] vel kanskje 30 roboter
+
+[00:21:45] utplassert mens globalt så er det over
+
+[00:21:47] 8000 sånne roboter som er utplassert
+
+[00:21:49] og det er et marked som vokser med
+
+[00:21:51] i hvert fall 15% i året og kommer bare
+
+[00:21:53] til å fortsette å vokse
+
+[00:21:55] med samme eller økende tempo
+
+[00:21:57] i mange år samme år. Og det er jo det som er så gøy
+
+[00:21:59] med denne sektoren da Benedikte
+
+[00:22:01] når man liksom klarer å få til
+
+[00:22:03] sånne fremskritt som
+
+[00:22:05] som månner
+
+[00:22:06] da er det jo så ekstra gøy fordi
+
+[00:22:08] det betyr jo så mye ikke sant?
+
+[00:22:11] Det betyr masse og det er jo
+
+[00:22:13] en sektor som er veldig innovasjonspreget
+
+[00:22:16] og det gjør jo
+
+[00:22:17] at dette er ekstra
+
+[00:22:19] morsomt for oss å kunne følge med
+
+[00:22:21] på ny og spennende
+
+[00:22:23] teknologi innenfor
+
+[00:22:25] mange
+
+[00:22:26] subsegmenter av helsesektoren
+
+[00:22:29] og det betyr jo at vi kan
+
+[00:22:31] få nye produkter som
+
+[00:22:33] er til gode
+
+[00:22:35] for oss alle.
+
+[00:22:37] Veldig bra det. Med det så setter vi
+
+[00:22:39] strek for i dag
+
+[00:22:41] men jeg synes det ble en
+
+[00:22:43] veldig fin sommeroppdatering
+
+[00:22:45] så tusen takk for at dere tok dere turen
+
+[00:22:47] hit til studio
+
+[00:22:49] og sist men ikke minst
+
+[00:22:50] tusen takk folkens til alle dere
+
+[00:22:53] som hørte på og ha
+
+[00:22:55] en fortsatt riktig god
+
+[00:22:57] sommer.

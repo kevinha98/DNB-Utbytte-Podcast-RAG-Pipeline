@@ -1,0 +1,916 @@
+{"episode_id": 450, "segment_index": 0, "start": 0.21, "end": 10.45, "text": "Skipping har gått som en kule på bøsen de siste årene, men hvor viktig er egentlig skipping både for verdenshandelen og fra et sikkerhetspolitisk perspektiv?"}
+{"episode_id": 450, "segment_index": 1, "start": 10.45, "end": 21.41, "text": "Hvordan vil Kina og geopolitikk påvirke avkastningsmuligheten i skipping i årene som kommer og vil skilsmisen mellom vesten av Kina gjøre skipping dyre på sikt?"}
+{"episode_id": 450, "segment_index": 2, "start": 21.41, "end": 27.29, "text": "Alt dette skal vi diskutere i en foropentligvis herlig blandning i dagens episode."}
+{"episode_id": 450, "segment_index": 3, "start": 37.77, "end": 44.81, "text": "Velkommen til Utbyttet, den B-podkasten der forklare hva som skjer i den globale økonomien og finansmarkedene."}
+{"episode_id": 450, "segment_index": 4, "start": 44.81, "end": 47.45, "text": "Jeg er Marius Brun. Her er du ikke noe med meg i studio."}
+{"episode_id": 450, "segment_index": 5, "start": 47.45, "end": 50.33, "text": "Hei, jeg er shippinganalytiker Jørgen Lian."}
+{"episode_id": 450, "segment_index": 6, "start": 50.33, "end": 51.13, "text": "Hei, jeg er Jørgen."}
+{"episode_id": 450, "segment_index": 7, "start": 51.13, "end": 53.05, "text": "Gått å ha det her."}
+{"episode_id": 450, "segment_index": 8, "start": 53.05, "end": 57.69, "text": "Og så har vi vår egen Kina-expert, Kelly Chen."}
+{"episode_id": 450, "segment_index": 9, "start": 57.69, "end": 63.09, "text": "Og sist, men ikke minst, vår geopolitiske kunnskapskrokke, Audun Kolsdavik."}
+{"episode_id": 450, "segment_index": 10, "start": 63.09, "end": 63.97, "text": "Velkommen Audun."}
+{"episode_id": 450, "segment_index": 11, "start": 64.01, "end": 64.85, "text": "Takk, Skogå."}
+{"episode_id": 450, "segment_index": 12, "start": 64.85, "end": 68.65, "text": "Ja, jeg vet jo at dere tre spørre mye med hverandre."}
+{"episode_id": 450, "segment_index": 13, "start": 68.65, "end": 72.33, "text": "Og Kina, shipping og geopolitikk, det henger jo sammen."}
+{"episode_id": 450, "segment_index": 14, "start": 72.33, "end": 75.37, "text": "Så hvorfor ikke samle alle tre til en sommepodkast?"}
+{"episode_id": 450, "segment_index": 15, "start": 75.37, "end": 79.13, "text": "Det var jo min tanke her, så veldig glad for at dere er med."}
+{"episode_id": 450, "segment_index": 16, "start": 79.13, "end": 81.65, "text": "Og det er jo ikke snotter i som rommer dagens tema, Jørgen."}
+{"episode_id": 450, "segment_index": 17, "start": 81.65, "end": 84.41, "text": "Nei, vi skal... Jeg tror vi kan snakke om ganske mye forskjellig."}
+{"episode_id": 450, "segment_index": 18, "start": 84.41, "end": 89.17, "text": "Så det er kul å sit her med dere andre."}
+{"episode_id": 450, "segment_index": 19, "start": 89.21, "end": 93.45, "text": "Og gå litt inn i dubben på ting som har vært i hvert fall veldig viktig"}
+{"episode_id": 450, "segment_index": 20, "start": 93.45, "end": 97.17, "text": "og mer relevant kanskje noen gang for min del som shipping-analytiker også."}
+{"episode_id": 450, "segment_index": 21, "start": 97.17, "end": 99.81, "text": "Så er det... Det blir gøy å holde snakken."}
+{"episode_id": 450, "segment_index": 22, "start": 99.81, "end": 100.53, "text": "Ja."}
+{"episode_id": 450, "segment_index": 23, "start": 100.53, "end": 106.05, "text": "Og jeg vet jo at du og Kelly, dere var jo i Kina tidligere i våres,"}
+{"episode_id": 450, "segment_index": 24, "start": 106.05, "end": 109.61, "text": "så analysarbeidet det gjørs ikke bare i eksellerike."}
+{"episode_id": 450, "segment_index": 25, "start": 109.61, "end": 112.89, "text": "Det skjer også om det er ground ute i felten."}
+{"episode_id": 450, "segment_index": 26, "start": 112.89, "end": 116.45, "text": "Så jeg tipper vi får høre litt av det etter hvert eller om det etter hvert eller hva, Kelly?"}
+{"episode_id": 450, "segment_index": 27, "start": 116.45, "end": 117.93, "text": "Ja, absolutt."}
+{"episode_id": 450, "segment_index": 28, "start": 117.93, "end": 121.13, "text": "Container, bulk, bilfrakt, olje, gasfrakt..."}
+{"episode_id": 450, "segment_index": 29, "start": 121.13, "end": 124.97, "text": "Jeg tipper at alt etter kommer vi nok til å komme innom."}
+{"episode_id": 450, "segment_index": 30, "start": 124.97, "end": 129.49, "text": "Men vi har ikke planlagt alt det detalje for denne episoden her, så det gjennstår å se."}
+{"episode_id": 450, "segment_index": 31, "start": 129.49, "end": 134.25, "text": "Men premisse er altså at vi skal ikke tilstrebe og ha to steker under svaret."}
+{"episode_id": 450, "segment_index": 32, "start": 134.25, "end": 137.57, "text": "Eller helt nødvendigvis klare konkursjoner."}
+{"episode_id": 450, "segment_index": 33, "start": 137.57, "end": 143.21, "text": "Men det er å diskutere aspektene som disse får også vis store temane rommer."}
+{"episode_id": 450, "segment_index": 34, "start": 143.25, "end": 147.85, "text": "Og hva det kan bety både på kort og lang siktig, på makronivå,"}
+{"episode_id": 450, "segment_index": 35, "start": 147.85, "end": 152.69, "text": "investorperspektiv og samfunnsmessig politisk."}
+{"episode_id": 450, "segment_index": 36, "start": 152.69, "end": 154.85, "text": "Det svinger fort i shipping, det vet vi."}
+{"episode_id": 450, "segment_index": 37, "start": 154.85, "end": 158.05, "text": "Så før vi setter igang for alvor får jeg passe på undersjekke."}
+{"episode_id": 450, "segment_index": 38, "start": 158.05, "end": 162.61, "text": "Det er 19. juni, når vi spiller en episode her i Bjørvikha."}
+{"episode_id": 450, "segment_index": 39, "start": 162.61, "end": 168.73, "text": "Men vi kommer til å være godt ut i fællesfæren når vi sender ut denne episoden til dere lytter."}
+{"episode_id": 450, "segment_index": 40, "start": 168.77, "end": 175.61, "text": "Det jeg sagt tror jeg at det vi snakker om skal stå seg godt over sommeren forhåpentligvis,"}
+{"episode_id": 450, "segment_index": 41, "start": 175.61, "end": 177.61, "text": "være relevant."}
+{"episode_id": 450, "segment_index": 42, "start": 177.61, "end": 184.25, "text": "Men jeg tenkte å starte med hvor viktig er shipping som fra et globalt perspektiv, Kelly,"}
+{"episode_id": 450, "segment_index": 43, "start": 184.25, "end": 187.73, "text": "fra ditt makronivå. Hvor viktig er shipping?"}
+{"episode_id": 450, "segment_index": 44, "start": 187.73, "end": 191.09, "text": "Vi har sett at shipping er kjempeviktig når vi ser på handel."}
+{"episode_id": 450, "segment_index": 45, "start": 191.09, "end": 195.37, "text": "Pandemien tror jeg var et veldig godt eksempel, så er det jeg som dekker i kina."}
+{"episode_id": 450, "segment_index": 46, "start": 195.41, "end": 200.65, "text": "Da Shanghai stengte ned, så stengte vi egentlig porten til kina ned."}
+{"episode_id": 450, "segment_index": 47, "start": 200.65, "end": 204.65, "text": "Det hadde kjempe stor effekt for kinesisk økonomie."}
+{"episode_id": 450, "segment_index": 48, "start": 204.65, "end": 210.33, "text": "Og ser vi på globalt, så er det 80 prosent i hvert fall målt i volem."}
+{"episode_id": 450, "segment_index": 49, "start": 210.33, "end": 213.89, "text": "Global handel, det foregår over ship."}
+{"episode_id": 450, "segment_index": 50, "start": 213.89, "end": 219.45, "text": "Det er blåarne som fører alt vi trenger til det vi trenger."}
+{"episode_id": 450, "segment_index": 51, "start": 219.49, "end": 226.13, "text": "Det smører maskineriet. Det er viktig for at ting ikke skal stoppe opp."}
+{"episode_id": 450, "segment_index": 52, "start": 226.13, "end": 229.81, "text": "Hvor viktig er shipping fra sånn geopolitiske hjørnen her?"}
+{"episode_id": 450, "segment_index": 53, "start": 229.81, "end": 235.09, "text": "Kelly sier at når så mange varer som er helt kritisk betydning,"}
+{"episode_id": 450, "segment_index": 54, "start": 235.09, "end": 238.49, "text": "både for vårt samfunn og andre samfunn på et eller annen tidspunkt,"}
+{"episode_id": 450, "segment_index": 55, "start": 238.49, "end": 243.77, "text": "har gått sløy veien, så er det veldig store, sikkerhetspolitiske interesser knyttet til nettopp"}
+{"episode_id": 450, "segment_index": 56, "start": 243.77, "end": 245.29, "text": "denne maritimeindustrien."}
+{"episode_id": 450, "segment_index": 57, "start": 245.29, "end": 247.93, "text": "Det betyr at shipping er en industri som andre landesminiter,"}
+{"episode_id": 450, "segment_index": 58, "start": 247.97, "end": 253.25, "text": "også våre egne i økene grad ser på gjennom nasjonale sikkerhetsbriller."}
+{"episode_id": 450, "segment_index": 59, "start": 253.25, "end": 256.73, "text": "Og nasjonal sikkerhet og geopolitikk, det henger veldig sammen,"}
+{"episode_id": 450, "segment_index": 60, "start": 256.73, "end": 262.45, "text": "fordi geopolitikk dreier som hvordan stater utnitt ur ulike vertøy for å posicionere seg,"}
+{"episode_id": 450, "segment_index": 61, "start": 262.45, "end": 263.77, "text": "vis av vi hverandre."}
+{"episode_id": 450, "segment_index": 62, "start": 263.77, "end": 269.13, "text": "Og det er den slags type globale industrier virkelig i enstand for den slags type interesse."}
+{"episode_id": 450, "segment_index": 63, "start": 269.13, "end": 274.97, "text": "Ja, så virker det jo som at Kina stadiser på shipping som viktere viktere."}
+{"episode_id": 450, "segment_index": 64, "start": 275.01, "end": 280.53, "text": "Og dette her er jo noe av det centrale som vi skal komme tilbake til etter verta."}
+{"episode_id": 450, "segment_index": 65, "start": 280.53, "end": 287.81, "text": "Ja, Jørgen, reguleringer mot en grønnne shipsvart, og ikke minst geopolitikken som Edun nevnte,"}
+{"episode_id": 450, "segment_index": 66, "start": 287.81, "end": 295.53, "text": "det virker for meg, å være to veldig store drivere i hvert fall med virkene for de shippingmarkeden"}
+{"episode_id": 450, "segment_index": 67, "start": 295.53, "end": 300.65, "text": "og i mange tilfeller fantastiske akselkastningen som vi har vært vittne til de siste årene."}
+{"episode_id": 450, "segment_index": 68, "start": 300.65, "end": 307.09, "text": "Ja, det er helt riktig. Det har vært veldig mye pres på, jeg tror det er verden generelt,"}
+{"episode_id": 450, "segment_index": 69, "start": 307.09, "end": 312.21, "text": "for å gjøre noe mot oss i forhold til det grønne skifte, og der er shipping en viktig del."}
+{"episode_id": 450, "segment_index": 70, "start": 312.21, "end": 319.01, "text": "Men det er interessant, det Kelly sier. Jeg synes ju shipping er veldig interessant, og Karl-Marc er kanskje litt spesiell,"}
+{"episode_id": 450, "segment_index": 71, "start": 319.01, "end": 324.97, "text": "men tenk det, de står for kanskje 2,5% av verdens globale CO2-tslipp,"}
+{"episode_id": 450, "segment_index": 72, "start": 324.97, "end": 328.37, "text": "og så frakturer 80-85% av verdens varer."}
+{"episode_id": 450, "segment_index": 73, "start": 328.41, "end": 332.57, "text": "Det er ganske mye verdi i de utslipene som kommer fra shipping."}
+{"episode_id": 450, "segment_index": 74, "start": 332.57, "end": 342.09, "text": "Nå er det jo riktig at det ses på en brun og skittningindustri, men voldsomt effektiv i forhold til å fastlittere verdens handel og det som er."}
+{"episode_id": 450, "segment_index": 75, "start": 342.09, "end": 349.65, "text": "Så som du sier, nå har det vært mye spørsmål rundt hva er fremtiden i forhold til masjeneri og teknologi på nybyg,"}
+{"episode_id": 450, "segment_index": 76, "start": 349.65, "end": 355.53, "text": "og hva skal man bestille, og det har gjort at risikoet for det å bestille har blitt større."}
+{"episode_id": 450, "segment_index": 77, "start": 355.93, "end": 362.33, "text": "Samtidig har det vært, fra shippingperspektiv som generelt, så det har vært veldig mye forskjellig hester å spille på."}
+{"episode_id": 450, "segment_index": 78, "start": 362.33, "end": 371.61, "text": "Sektorne har ikke gått synkron som de ofte har gjort før, som betyr at du har hatt noen segmenter som har gjort det veldig bra tidlig,"}
+{"episode_id": 450, "segment_index": 79, "start": 371.61, "end": 376.41, "text": "og da var vi egentlig å bestille stor, og så har du fylt opp verftene, og priserne har gått enda mer,"}
+{"episode_id": 450, "segment_index": 80, "start": 376.41, "end": 383.21, "text": "og dermed så har du ikke vært villig til å ta denne risikoen for å bestemme deg for hvilke fremdrifts teknologi du skal ha på dine nybyg."}
+{"episode_id": 450, "segment_index": 81, "start": 383.61, "end": 388.37, "text": "Da har du endt opp med en situasjon hvor noen segmenter som du sier, har veldig lav ordrebok,"}
+{"episode_id": 450, "segment_index": 82, "start": 388.37, "end": 393.09, "text": "og det er på en måte en del av det case, men så har du andre segmenter som har bestilt fryktelig mye,"}
+{"episode_id": 450, "segment_index": 83, "start": 393.09, "end": 400.89, "text": "så de er veldig bra i etkant av pandemien, som både var kontainerfrakt og gasfrakt, eksempelvis, hvor ordrebøkene har blitt relativt store."}
+{"episode_id": 450, "segment_index": 84, "start": 400.89, "end": 405.37, "text": "Der er det naturlig å tenke at det er enklere å ta den beslutningen på fremdriftsmasjeneri,"}
+{"episode_id": 450, "segment_index": 85, "start": 405.37, "end": 410.73, "text": "med takk på at du har så pass bra innsikt i nummer 1 på kontainer hvor skipene din skal være til og mer tid,"}
+{"episode_id": 450, "segment_index": 86, "start": 410.77, "end": 415.21, "text": "så det er å planlegge den verdieskjedene rundt hvilke drivstoff man skal bruke blir enklere."}
+{"episode_id": 450, "segment_index": 87, "start": 415.21, "end": 424.25, "text": "Og så har du gas, hvor du frakter noe som især selv er regnere en vanlig drivstoff for shipping,"}
+{"episode_id": 450, "segment_index": 88, "start": 424.25, "end": 431.73, "text": "og da blir det naturlig valg på måt å ta steget til å bruke litt av den lasten og brente det som drivstoff i den sektoren."}
+{"episode_id": 450, "segment_index": 89, "start": 431.73, "end": 436.45, "text": "Så det er kanskje også en forklaring på at det har vært mer bestilling der en andre steder."}
+{"episode_id": 450, "segment_index": 90, "start": 436.85, "end": 445.33, "text": "Så ja, og dette har jo vært veldig spennende fra vår side å følge etter hvert sånn disse geopolitiske spennningene bare har økt og økt,"}
+{"episode_id": 450, "segment_index": 91, "start": 445.33, "end": 450.73, "text": "og det har vært fantastisk å ha Audun in-house her i DMB som en sånn ekspert å bare spare med."}
+{"episode_id": 450, "segment_index": 92, "start": 450.73, "end": 454.69, "text": "Som du sier, så skal vi sikkert snakke om veldig mye ting hvor de ikke er så lette av to streker under såre,"}
+{"episode_id": 450, "segment_index": 93, "start": 454.69, "end": 460.29, "text": "men i hvert fall perspektivene på det, veldig nyttig som en sånn backdrop for å forstå hva som skjer,"}
+{"episode_id": 450, "segment_index": 94, "start": 460.29, "end": 462.45, "text": "og potensiert hvor lenge det fortsetter."}
+{"episode_id": 450, "segment_index": 95, "start": 463.05, "end": 470.45, "text": "Kjipping, viktig for at ikke verdensand skal gå i stå og smøre maskineriet, det har gitt god avkastning."}
+{"episode_id": 450, "segment_index": 96, "start": 470.45, "end": 478.37, "text": "Jeg vil komme der, paradox, men på børsen, hvis du måler kjipping i markedsverdi, så er det jo ganske marginalt."}
+{"episode_id": 450, "segment_index": 97, "start": 478.37, "end": 483.01, "text": "Det er otte kjippingselskaper i Russell 3000-indeksene i USA."}
+{"episode_id": 450, "segment_index": 98, "start": 483.01, "end": 489.21, "text": "De utgjør under en prosent av indeksene. Kjipping er bare 7 prosent av hovedindeksen på Oslo Børs."}
+{"episode_id": 450, "segment_index": 99, "start": 490.17, "end": 496.65, "text": "Så, det er jo vel sånn, kjipping er et hevvig eindelstunkt, det er veldig mange viktige aspekter med det,"}
+{"episode_id": 450, "segment_index": 100, "start": 496.65, "end": 500.93, "text": "men det er ikke så stort hvis du ser det fra den siden."}
+{"episode_id": 450, "segment_index": 101, "start": 500.93, "end": 504.85, "text": "Det er veldig interessant, det er også, det har vært noe som har vært nevnt lenge,"}
+{"episode_id": 450, "segment_index": 102, "start": 504.85, "end": 510.53, "text": "hvis du ser på kostneden for det frakte ting, så har det også vært mer eller mindre paddeflatt i lang tid."}
+{"episode_id": 450, "segment_index": 103, "start": 510.53, "end": 515.41, "text": "Så det har vært den eneste sektorne uten noen tegn til inflasjon, som er litt spesielt,"}
+{"episode_id": 450, "segment_index": 104, "start": 515.49, "end": 519.41, "text": "og kanskje også en grunn til at du kan forklare den ned,"}
+{"episode_id": 450, "segment_index": 105, "start": 519.41, "end": 526.97, "text": "hvordan du har sett kjipping, ta en stadig mindre og mindre del av disse indeksene og finansmarkedene egentlig."}
+{"episode_id": 450, "segment_index": 106, "start": 528.89, "end": 535.17, "text": "Men ja, niske til sektor kanskje, men fra Aksjøsiden er det jo veldig interessant å følge, det svinger jo voldsomt."}
+{"episode_id": 450, "segment_index": 107, "start": 535.17, "end": 541.33, "text": "Og det er så mange forskjellige faktorer som spiller inn, at det blir et sant,"}
+{"episode_id": 450, "segment_index": 108, "start": 541.41, "end": 545.01, "text": "i hvert fall mineine, fantastiske sektor å følge."}
+{"episode_id": 450, "segment_index": 109, "start": 546.13, "end": 551.58, "text": "Ok, så hvis vi tar Kina, Jørgen, du får starte da."}
+{"episode_id": 450, "segment_index": 110, "start": 551.58, "end": 554.62, "text": "Hvor viktig er Kina for kjipping?"}
+{"episode_id": 450, "segment_index": 111, "start": 554.62, "end": 556.06, "text": "Kina er utrolig viktig."}
+{"episode_id": 450, "segment_index": 112, "start": 556.06, "end": 558.78, "text": "Særlig det grunnlegende skifte du fikk,"}
+{"episode_id": 450, "segment_index": 113, "start": 558.78, "end": 563.74, "text": "da du flyttet ut mye av produktionskapasiteten fra vesten til østen,"}
+{"episode_id": 450, "segment_index": 114, "start": 563.74, "end": 569.34, "text": "og fastelitererte det for handel for dette inn til de vestelige konsumentene,"}
+{"episode_id": 450, "segment_index": 115, "start": 569.94, "end": 573.74, "text": "så var det en vold som driver for vekst hjertespørsmettelskipping."}
+{"episode_id": 450, "segment_index": 116, "start": 574.58, "end": 579.3, "text": "Det var i en globaliserende verden hvor alle var glad hverandre å skulle handle med hverandre,"}
+{"episode_id": 450, "segment_index": 117, "start": 579.3, "end": 583.5, "text": "og så kan man stille spørsmålstegn om det er sånn fortsatt."}
+{"episode_id": 450, "segment_index": 118, "start": 583.5, "end": 588.54, "text": "Men i forhold til andelen av frakt som er avhengig av Kina,"}
+{"episode_id": 450, "segment_index": 119, "start": 588.54, "end": 592.14, "text": "så er jo sektor som bulk og kontainer ufattlig,"}
+{"episode_id": 450, "segment_index": 120, "start": 593.14, "end": 594.66, "text": "der er Kina ufattlig viktig,"}
+{"episode_id": 450, "segment_index": 121, "start": 595.06, "end": 599.86, "text": "og derfor blir det utrolig avgjørende hvordan det går med Kina,"}
+{"episode_id": 450, "segment_index": 122, "start": 599.86, "end": 604.06, "text": "og hvordan det skal gå med det internasjonale handleen."}
+{"episode_id": 450, "segment_index": 123, "start": 605.66, "end": 609.86, "text": "Så er det viktig for kjipping etterspørsen,"}
+{"episode_id": 450, "segment_index": 124, "start": 609.86, "end": 611.86, "text": "at vi får det klart, Kelly,"}
+{"episode_id": 450, "segment_index": 125, "start": 611.86, "end": 616.46, "text": "var det du legger i grunn i forhold til vekstanslag,"}
+{"episode_id": 450, "segment_index": 126, "start": 616.46, "end": 620.86, "text": "og hvilken fart vi kan reine med fra Kina frem og videre?"}
+{"episode_id": 450, "segment_index": 127, "start": 620.86, "end": 623.46, "text": "Jeg tenker jo at det som er viktig for bulk,"}
+{"episode_id": 450, "segment_index": 128, "start": 623.46, "end": 626.86, "text": "så er en av sektoren i Kina viktig."}
+{"episode_id": 450, "segment_index": 129, "start": 626.86, "end": 631.06, "text": "Gjernemål med importen er noe som har steget mye,"}
+{"episode_id": 450, "segment_index": 130, "start": 631.06, "end": 636.46, "text": "og det gir egentlig en god mening for meg når man ser på boligsektoren i Kina."}
+{"episode_id": 450, "segment_index": 131, "start": 636.46, "end": 641.06, "text": "Fikk jo meg i tallene nå etter at Kina langs i hjerte den siste redningspakken,"}
+{"episode_id": 450, "segment_index": 132, "start": 641.06, "end": 644.26, "text": "og sier redningspakken med hermetain rundt det,"}
+{"episode_id": 450, "segment_index": 133, "start": 644.26, "end": 650.46, "text": "og vi så jo at boligsalg og bolig igangssettinger var nødvendig,"}
+{"episode_id": 450, "segment_index": 134, "start": 650.46, "end": 655.46, "text": "og jeg tror jo når jeg ser på utviklingen fremover,"}
+{"episode_id": 450, "segment_index": 135, "start": 655.46, "end": 661.06, "text": "at det blir i hvert fall to år til med en igjengang i boligaktivitet,"}
+{"episode_id": 450, "segment_index": 136, "start": 661.06, "end": 666.46, "text": "og da er det litt sånn vanskelig å forsvare den sterk etterspursen som jeg har sett fra bulk siden,"}
+{"episode_id": 450, "segment_index": 137, "start": 666.46, "end": 667.46, "text": "i hvert fall fra Kina."}
+{"episode_id": 450, "segment_index": 138, "start": 667.46, "end": 670.26, "text": "Det er jo litt av intrykk jeg i hvert fall satt igjen med,"}
+{"episode_id": 450, "segment_index": 139, "start": 670.26, "end": 672.26, "text": "til den tur vi hadde til Asia,"}
+{"episode_id": 450, "segment_index": 140, "start": 672.26, "end": 675.26, "text": "hvor dysturt det faktisk så ut,"}
+{"episode_id": 450, "segment_index": 141, "start": 675.26, "end": 678.26, "text": "og se om man på de tallene i de maidatene,"}
+{"episode_id": 450, "segment_index": 142, "start": 678.26, "end": 683.26, "text": "så er du på en måte, du er 60% ned i bygget starter fra der du var nå når tilbake."}
+{"episode_id": 450, "segment_index": 143, "start": 683.26, "end": 687.26, "text": "Forløbig så er bare aktiviteten ned en sånn 20% ish,"}
+{"episode_id": 450, "segment_index": 144, "start": 687.26, "end": 691.26, "text": "men det er jo starten som blir en ledende indikat for hvor vi er på vei,"}
+{"episode_id": 450, "segment_index": 145, "start": 691.26, "end": 695.26, "text": "og sånn som du sier hvis du ser på den import på hoved du har hatt inn til Kina da,"}
+{"episode_id": 450, "segment_index": 146, "start": 695.26, "end": 698.26, "text": "på tørbulkvarer som hovedsaker er for å producere stål,"}
+{"episode_id": 450, "segment_index": 147, "start": 698.26, "end": 700.26, "text": "så har det vært litt forklarelig,"}
+{"episode_id": 450, "segment_index": 148, "start": 700.26, "end": 707.26, "text": "og nå er grunn til at vi da så har vært litt negativ til bulksektoren i det siste,"}
+{"episode_id": 450, "segment_index": 149, "start": 707.26, "end": 712.26, "text": "og på grunn av det der da, så det er en stor risiko for at det plutselig kan snu å bli verdre."}
+{"episode_id": 450, "segment_index": 150, "start": 712.26, "end": 717.26, "text": "Så lenge det kinesisk boligmarkede,"}
+{"episode_id": 450, "segment_index": 151, "start": 717.26, "end": 726.26, "text": "for blir et eller andet sted der det er at det ikke blir en markant bedring og økning i etterspørsjen,"}
+{"episode_id": 450, "segment_index": 152, "start": 726.26, "end": 735.26, "text": "så vid du har en sånn negativ bakteppe som blir hengende over og treffe særlig tørrelastsektoren."}
+{"episode_id": 450, "segment_index": 153, "start": 735.26, "end": 737.26, "text": "Ja, jeg tenker i hvert fall det."}
+{"episode_id": 450, "segment_index": 154, "start": 737.26, "end": 743.26, "text": "Og så har du sett fordi den lokale etterspørsjen etter dette stål som produceres i Kina ikke har vært så bra,"}
+{"episode_id": 450, "segment_index": 155, "start": 743.26, "end": 749.26, "text": "så har du også sett en omdirigering av de volemene til eksporter som har vokst veldig mye de siste hårne."}
+{"episode_id": 450, "segment_index": 156, "start": 749.26, "end": 755.26, "text": "Og nå har du hatt en del reaksjoner på det i en del land som tiller hvert veldig Kina-vennlige,"}
+{"episode_id": 450, "segment_index": 157, "start": 755.26, "end": 762.26, "text": "som plutselig har begynt å innføre toll på import og forbill i kinesisk stål,"}
+{"episode_id": 450, "segment_index": 158, "start": 762.26, "end": 768.26, "text": "som er et veldig godt eksempel på at det er ganske åpenbart syneste å være i hvert fall,"}
+{"episode_id": 450, "segment_index": 159, "start": 768.26, "end": 773.26, "text": "at det er litt for mye stålige omløp, og Kina gjør nå sitt beste med å bli kvittet gjennom eksport,"}
+{"episode_id": 450, "segment_index": 160, "start": 773.26, "end": 781.26, "text": "men det er nok ikke en holdbar stor i lengden. Så det er allerede tegnet at dette svekkes ganske bra i hvert fall i mine ennene."}
+{"episode_id": 450, "segment_index": 161, "start": 781.26, "end": 783.26, "text": "Så vet du ikke om det her er noe som kommer til å komme mer,"}
+{"episode_id": 450, "segment_index": 162, "start": 783.26, "end": 786.26, "text": "jeg vet ikke om det er noe du har sett på avdøen i forhold til det."}
+{"episode_id": 450, "segment_index": 163, "start": 786.26, "end": 791.26, "text": "Det er vel søra amerikanske land som har vært litt sånn på offensiven i forhold til å prøve å stå litt opp imot Kina,"}
+{"episode_id": 450, "segment_index": 164, "start": 791.26, "end": 793.26, "text": "den helt siste tiden?"}
+{"episode_id": 450, "segment_index": 165, "start": 793.26, "end": 797.26, "text": "Ja, ikke bare i søra amerikanske land, men jeg vil absolutt si at det er USA i seg selv."}
+{"episode_id": 450, "segment_index": 166, "start": 797.26, "end": 805.26, "text": "Jeg er i farge med å få piggene helt ut når det eller Kina er dominans i innfor ulike deler av dette shipping-økosystemet,"}
+{"episode_id": 450, "segment_index": 167, "start": 805.26, "end": 810.26, "text": "som også dreier seg om eksempelvis shipsbygging, men også havneoperasjoner,"}
+{"episode_id": 450, "segment_index": 168, "start": 810.26, "end": 815.26, "text": "altså Kina har investert i eller opererer hundretals havner over hele verden."}
+{"episode_id": 450, "segment_index": 169, "start": 816.26, "end": 824.26, "text": "Så er det slik at Kina følger en del sånn strategiske planverk som skal føre Kina i retning av hva etableres her som en transportsupemakt,"}
+{"episode_id": 450, "segment_index": 170, "start": 824.26, "end": 831.26, "text": "som det amerikanske kommentarietet gjerne fremever at Kina ønsker en posasjon som Kina ønsker seg."}
+{"episode_id": 450, "segment_index": 171, "start": 831.26, "end": 840.26, "text": "Og på veien mot den statussen så har Kina tatt en hel grep blant annet knyttet til veldig veldig omfattende fursjoner"}
+{"episode_id": 450, "segment_index": 172, "start": 840.26, "end": 845.26, "text": "og opprettelig av enorme selskap som dominerer innfor ulike ledde av denne veldig siden."}
+{"episode_id": 450, "segment_index": 173, "start": 845.26, "end": 854.26, "text": "Og så ser vi at amerikanerne er i farge med å introducere lovere og reguleringer som skal motvirke denne veien mot denne transportsupemakten."}
+{"episode_id": 450, "segment_index": 174, "start": 854.26, "end": 865.26, "text": "Og det er ganske interessant fordi det er bare at amerikanerne ser virkelig med bekymring på denne kinesiske dominansen innfor en del segmentet i dette økosystemet,"}
+{"episode_id": 450, "segment_index": 175, "start": 865.26, "end": 867.26, "text": "kan vi kanskje kalle det."}
+{"episode_id": 450, "segment_index": 176, "start": 867.26, "end": 878.26, "text": "Du sier at Kinas shipping økosystemet, som kaller det, øker og øker, og de ønsker at det skal øke videre."}
+{"episode_id": 450, "segment_index": 177, "start": 878.26, "end": 880.26, "text": "De er verdens største shipsbygger, og det er ikke det."}
+{"episode_id": 450, "segment_index": 178, "start": 880.26, "end": 885.26, "text": "Det er å ha verdens største kontainere reddere i Aaktiv i havneopprasjoner over hele verden."}
+{"episode_id": 450, "segment_index": 179, "start": 885.26, "end": 893.26, "text": "Det er veldig opptatt å bringe både verden nærmere det kinesiske market, men også bringe Kina ut i verden."}
+{"episode_id": 450, "segment_index": 180, "start": 893.26, "end": 894.26, "text": "Det er riktig."}
+{"episode_id": 450, "segment_index": 181, "start": 894.26, "end": 900.26, "text": "Absolutt. Det stemmer veldig, og det er hvertfall det intrykkes som skapes i amerikanske overskrifter."}
+{"episode_id": 450, "segment_index": 182, "start": 900.26, "end": 907.26, "text": "Det er at dette snakker man om en veldig koordinert strategi hvor ulike aktører kommunerer seg med lov,"}
+{"episode_id": 450, "segment_index": 183, "start": 907.26, "end": 911.26, "text": "og hvor staten i Kina sitter som det koordinærene ledd."}
+{"episode_id": 450, "segment_index": 184, "start": 911.26, "end": 917.26, "text": "Nå som på en måte fører til en økende dominansinn for ulike segmentet."}
+{"episode_id": 450, "segment_index": 185, "start": 917.26, "end": 924.26, "text": "Men for amerikanerne er det så skeptiske, er det rent sånn forettnings-handelsmessig ting,"}
+{"episode_id": 450, "segment_index": 186, "start": 924.26, "end": 933.26, "text": "eller er det fordi at her er det en slags blanding som ikke nødvendigvis alltid er så lett å se av militære interesser og vanlige handelsinteress."}
+{"episode_id": 450, "segment_index": 187, "start": 933.26, "end": 936.26, "text": "Jeg tror nok det er en ganske god blanding av ulike interesser,"}
+{"episode_id": 450, "segment_index": 188, "start": 936.26, "end": 942.26, "text": "og så er det veldig vanskelig å si hvor grensedragningen mellom hva som er nasjonale sikres interesser"}
+{"episode_id": 450, "segment_index": 189, "start": 942.26, "end": 946.26, "text": "og hva som er andre strategiske interesser på nasjonale altnivå egentlig går."}
+{"episode_id": 450, "segment_index": 190, "start": 946.26, "end": 956.42, "text": "Men et eksempel er at amerikanerne opererer 750 militærbaser overalt i verden utenfor USA."}
+{"episode_id": 450, "segment_index": 191, "start": 956.42, "end": 964.42, "text": "For å fraktu personell og materiell til disse militærbasene er selvfølgelig civile SIP-invaktører veldig viktig"}
+{"episode_id": 450, "segment_index": 192, "start": 964.42, "end": 972.42, "text": "akkurat det samme for norsk beredskap og norsk forsvarsplanenegging hvor logistikken tar sånn om av civile aktører."}
+{"episode_id": 450, "segment_index": 193, "start": 972.42, "end": 978.42, "text": "Det amerikanerne er redd for, det er at Kina, gjennom sitt sin til stedeværelse i en god del havner,"}
+{"episode_id": 450, "segment_index": 194, "start": 978.42, "end": 987.42, "text": "men også gjennom opprettelsen og spredningen av en kina-centrisk data-plattformsmodell"}
+{"episode_id": 450, "segment_index": 195, "start": 987.42, "end": 995.42, "text": "skal få innsyn i en del litt mer sensitive ting som fraktes da på disse civile SIP-invaktører."}
+{"episode_id": 450, "segment_index": 196, "start": 995.42, "end": 998.42, "text": "Så amerikanerne ser i høstet grad på dette med nasjonale sikrespriler,"}
+{"episode_id": 450, "segment_index": 197, "start": 998.42, "end": 1005.42, "text": "men de ser noe også på dette gjennom med en mer konkurranse perspektiv, tror du og jeg."}
+{"episode_id": 450, "segment_index": 198, "start": 1005.42, "end": 1011.42, "text": "Jeg ser, det har vært særlig fra på SIP-sbygge siden, så er det veldig vokale det siste,"}
+{"episode_id": 450, "segment_index": 199, "start": 1011.42, "end": 1015.42, "text": "og flere ting, så vi kanskje kan komme tilbake til."}
+{"episode_id": 450, "segment_index": 200, "start": 1015.42, "end": 1024.42, "text": "Men det er litt artig hvordan USA plutselig skal begynne å ta opp en kamp på SIP-sbygge innskapet sett,"}
+{"episode_id": 450, "segment_index": 201, "start": 1024.42, "end": 1029.42, "text": "og litt sånn høytsutt, og så har kina vært for 80% av,"}
+{"episode_id": 450, "segment_index": 202, "start": 1029.42, "end": 1032.42, "text": "og så kommer det veldig an for noen målere i SIP-ing,"}
+{"episode_id": 450, "segment_index": 203, "start": 1032.42, "end": 1036.42, "text": "men 80% av det vi kaller som verftsinsensitetet av kommersielle SIP-ing,"}
+{"episode_id": 450, "segment_index": 204, "start": 1036.42, "end": 1040.42, "text": "så er det kina som står for produksjonen og bygging av de SIP-ene."}
+{"episode_id": 450, "segment_index": 205, "start": 1040.42, "end": 1045.42, "text": "USA har vært utrannskjert i forhold til den overskikten i 10 år."}
+{"episode_id": 450, "segment_index": 206, "start": 1045.42, "end": 1052.42, "text": "Men det har vært litt vildet, både USA og Europa har man jo lett Korea og Kina"}
+{"episode_id": 450, "segment_index": 207, "start": 1052.42, "end": 1056.51, "text": "og verftene der, byggeshipene. Har man ikke det?"}
+{"episode_id": 450, "segment_index": 208, "start": 1056.51, "end": 1058.51, "text": "Ja, men har du vært tilfreds med det egentlig?"}
+{"episode_id": 450, "segment_index": 209, "start": 1058.51, "end": 1063.51, "text": "Men derfor er det artig å se at de snur seg rundt og skal prøve å gjøre noe med det,"}
+{"episode_id": 450, "segment_index": 210, "start": 1063.51, "end": 1066.51, "text": "virkelig som det er litt sånn tapt kamp, eller vet ikke?"}
+{"episode_id": 450, "segment_index": 211, "start": 1066.51, "end": 1069.51, "text": "Jo, men det dreier seg også om størelsen på marinen."}
+{"episode_id": 450, "segment_index": 212, "start": 1069.51, "end": 1072.51, "text": "Kina i dag har i verden største marineflotte,"}
+{"episode_id": 450, "segment_index": 213, "start": 1072.51, "end": 1079.51, "text": "og Kina producerer nye marinefarter i ganske høy tempo,"}
+{"episode_id": 450, "segment_index": 214, "start": 1079.51, "end": 1084.51, "text": "og så vet USA at der som de skulle gå mot tenere an fremtidig konfrontasjon med Kina,"}
+{"episode_id": 450, "segment_index": 215, "start": 1084.51, "end": 1087.51, "text": "ja, da vil nettopp disse marite med kapasitetene være ganske viktige."}
+{"episode_id": 450, "segment_index": 216, "start": 1087.51, "end": 1091.51, "text": "Så det virker på meg som om USA næsten har vokt den opp fra sånn valet,"}
+{"episode_id": 450, "segment_index": 217, "start": 1091.51, "end": 1095.51, "text": "og så innser de at den kinesiske marinen har blitt mye større i mår,"}
+{"episode_id": 450, "segment_index": 218, "start": 1095.51, "end": 1099.51, "text": "og det er for de Kina har kapasitet til å producere alle disse SIP-ene."}
+{"episode_id": 450, "segment_index": 219, "start": 1099.51, "end": 1105.51, "text": "Noe som gjør at amerikanene også begynner å rykke litt de regulatoriske verteriene"}
+{"episode_id": 450, "segment_index": 220, "start": 1105.51, "end": 1108.51, "text": "for å hevde seg også på dette feltet."}
+{"episode_id": 450, "segment_index": 221, "start": 1108.51, "end": 1112.51, "text": "Må du for å ha på en måte kartlegg litt størrelsen på deg,"}
+{"episode_id": 450, "segment_index": 222, "start": 1112.51, "end": 1116.51, "text": "den kinesiske marinen er med mange botter, 100.000."}
+{"episode_id": 450, "segment_index": 223, "start": 1116.51, "end": 1120.51, "text": "Nei, jeg lurer på når slik at amerikanene, altså dette er helt sikkert et spørsmål om"}
+{"episode_id": 450, "segment_index": 224, "start": 1120.51, "end": 1124.51, "text": "hva man reiner som et maritint, altså et militært marinefartei."}
+{"episode_id": 450, "segment_index": 225, "start": 1124.51, "end": 1129.51, "text": "Også her er det sikkert mange maritim- eksperter som står i køy for å arristerere meg,"}
+{"episode_id": 450, "segment_index": 226, "start": 1129.51, "end": 1134.51, "text": "men slik jeg leser det så har amerikaner en flotte på dritt trenerosip."}
+{"episode_id": 450, "segment_index": 227, "start": 1134.51, "end": 1140.51, "text": "I Kina besitter en flotte på 340-350, og så ligger det ganske mange bestillinger"}
+{"episode_id": 450, "segment_index": 228, "start": 1140.51, "end": 1148.51, "text": "i pipelineen fra sinnesiside, så dette er en marinesstyrke som gradvis og ganske raskt blir større."}
+{"episode_id": 450, "segment_index": 229, "start": 1148.51, "end": 1152.51, "text": "Spørre fri Lure, litt på hva er egentlig Kipsbygingskapasiteten?"}
+{"episode_id": 450, "segment_index": 230, "start": 1152.51, "end": 1156.51, "text": "Hva må man KIP er man klarer å bygge totalt i verden per år?"}
+{"episode_id": 450, "segment_index": 231, "start": 1156.51, "end": 1162.51, "text": "Kipsbygfloten i CSL er jo godt over 100.000 KIP nå til sammenligning."}
+{"episode_id": 450, "segment_index": 232, "start": 1162.51, "end": 1167.51, "text": "Det høres veldig lite ut, men det er klart det er et teknologiske KIP,"}
+{"episode_id": 450, "segment_index": 233, "start": 1167.51, "end": 1171.51, "text": "det er vanskeligere KIP å bygge, så samler vi innen det med et enkelt bulkship,"}
+{"episode_id": 450, "segment_index": 234, "start": 1171.51, "end": 1174.51, "text": "vi har ikke det samme, men derfor er det heller ikke kapasiteten,"}
+{"episode_id": 450, "segment_index": 235, "start": 1174.51, "end": 1179.51, "text": "vi snakker om som skal bygge disse militære fartønne nødvendigvis de mest relevante"}
+{"episode_id": 450, "segment_index": 236, "start": 1179.51, "end": 1182.51, "text": "i forhold til mye av det som heter kommersielle kipping."}
+{"episode_id": 450, "segment_index": 237, "start": 1182.51, "end": 1185.51, "text": "Det er en del andre høy teknologiske verft som bygger vanskeligere ting,"}
+{"episode_id": 450, "segment_index": 238, "start": 1185.51, "end": 1188.51, "text": "så er det en volga og gassektoren for eksempel vi anter,"}
+{"episode_id": 450, "segment_index": 239, "start": 1188.51, "end": 1192.51, "text": "som er bedre stilt for å bygge den type KIP enn et bulkship."}
+{"episode_id": 450, "segment_index": 240, "start": 1192.51, "end": 1196.51, "text": "Enkelt bulkship er egentlig et badikvarie av metall,"}
+{"episode_id": 450, "segment_index": 241, "start": 1196.51, "end": 1200.51, "text": "men propell, det er ikke veldig mye verre end det, sånn strengtatt."}
+{"episode_id": 450, "segment_index": 242, "start": 1200.51, "end": 1203.51, "text": "Men så blir det å være vanskeligere KIP du skal bygge."}
+{"episode_id": 450, "segment_index": 243, "start": 1203.51, "end": 1206.51, "text": "Pasper, du får nærme noen redder nå, Jürgen."}
+{"episode_id": 450, "segment_index": 244, "start": 1206.51, "end": 1209.51, "text": "Ja, jeg tror de fleste er enige."}
+{"episode_id": 450, "segment_index": 245, "start": 1209.51, "end": 1212.51, "text": "Packing order her er at bulkship er det letteste å bygge,"}
+{"episode_id": 450, "segment_index": 246, "start": 1212.51, "end": 1215.51, "text": "og så bygger man seg opp derifra."}
+{"episode_id": 450, "segment_index": 247, "start": 1215.51, "end": 1217.51, "text": "Nei, jeg har også tenkt det samme."}
+{"episode_id": 450, "segment_index": 248, "start": 1217.51, "end": 1222.51, "text": "Jeg tror det har vært så mye snakk om det her på kapasitet fra militære KIP,"}
+{"episode_id": 450, "segment_index": 249, "start": 1222.51, "end": 1227.51, "text": "og hvor mye det kan ta opp av den kapasiteten som ellers hadde vært behov for i kommersielle kipping."}
+{"episode_id": 450, "segment_index": 250, "start": 1227.51, "end": 1233.51, "text": "Og da har det vært... Jeg kom frem til i hvert fall forsvinner lavetall,"}
+{"episode_id": 450, "segment_index": 251, "start": 1233.51, "end": 1235.51, "text": "så jeg tror det er som ikke det."}
+{"episode_id": 450, "segment_index": 252, "start": 1235.51, "end": 1240.51, "text": "Det er kanskje en brikke i spill i forhold til politikken og det som kommuniseres på høyrehold,"}
+{"episode_id": 450, "segment_index": 253, "start": 1240.51, "end": 1244.51, "text": "eller fra høyrehold, men det er ikke noe andetvis det,"}
+{"episode_id": 450, "segment_index": 254, "start": 1244.51, "end": 1248.51, "text": "som skal fylle verkskapasiteten og den slags, som er relevant for det."}
+{"episode_id": 450, "segment_index": 255, "start": 1248.51, "end": 1251.51, "text": "I hvert fall jeg sitter og følger ut til et sted."}
+{"episode_id": 450, "segment_index": 256, "start": 1251.51, "end": 1254.51, "text": "Vi skal ha så for likt pass på ikke bl.a. Øpler og Perrer."}
+{"episode_id": 450, "segment_index": 257, "start": 1254.51, "end": 1258.51, "text": "Alt for mye å bygge et chip er ikke bare å bygge et chip, det kommer an på chipet som du ser."}
+{"episode_id": 450, "segment_index": 258, "start": 1258.51, "end": 1260.51, "text": "Men sånn bottom line, da."}
+{"episode_id": 450, "segment_index": 259, "start": 1260.51, "end": 1264.51, "text": "Sina er store på chipsbygging,"}
+{"episode_id": 450, "segment_index": 260, "start": 1264.51, "end": 1268.54, "text": "og de ønsker å bli en av større. Er det ikke så?"}
+{"episode_id": 450, "segment_index": 261, "start": 1268.54, "end": 1272.54, "text": "De har i hvert fall muligheten til det i forhold til arbeidskraft."}
+{"episode_id": 450, "segment_index": 262, "start": 1272.54, "end": 1276.54, "text": "Du tenker på at det er en del arbeidsskrafts-tilgjengelig som tidligere har jobbet med Eindom?"}
+{"episode_id": 450, "segment_index": 263, "start": 1276.54, "end": 1281.54, "text": "Ja, absolutt. Det var en av tingene som man snakket mye om i Kina,"}
+{"episode_id": 450, "segment_index": 264, "start": 1281.54, "end": 1288.54, "text": "dette med Å og Søerkorea for en saksjul, dette med tilgangen på FH med Sleisere."}
+{"episode_id": 450, "segment_index": 265, "start": 1288.54, "end": 1293.54, "text": "Det er egentlig ikke så veldig store begrænsninger på i Kina."}
+{"episode_id": 450, "segment_index": 266, "start": 1293.54, "end": 1300.54, "text": "Så tror jeg det er interessant å se heller på det kinesiske chipsbyggingskapasiteten historisk bakover i tid også."}
+{"episode_id": 450, "segment_index": 267, "start": 1300.54, "end": 1305.54, "text": "Hvor mye de hadde av kapasitet i den forre syklen."}
+{"episode_id": 450, "segment_index": 268, "start": 1305.54, "end": 1309.54, "text": "Det var ganske mye mer enn det de har nå."}
+{"episode_id": 450, "segment_index": 269, "start": 1309.54, "end": 1316.54, "text": "Det som er overraskende, når vi ser på året fra året og bøkene og planlagt leveringer for i år fra Kinesisk chipsverft,"}
+{"episode_id": 450, "segment_index": 270, "start": 1316.54, "end": 1323.54, "text": "så er du på 90% av det du hadde på det meste som var i 2010."}
+{"episode_id": 450, "segment_index": 271, "start": 1323.54, "end": 1328.54, "text": "Til synlaterne betyr det at kapasiteten er relativt full."}
+{"episode_id": 450, "segment_index": 272, "start": 1328.54, "end": 1332.54, "text": "Men igjen er det det er litt vanskelig å måle dette her,"}
+{"episode_id": 450, "segment_index": 273, "start": 1332.54, "end": 1339.54, "text": "fordi det kommer an på chipene hvor vanskelig dere bygger, hvordan tid det tar, så det er ikke helt sånn præcis vitenskap."}
+{"episode_id": 450, "segment_index": 274, "start": 1339.54, "end": 1343.54, "text": "Men uansett utrolig høye tall er det vi kommer frem til."}
+{"episode_id": 450, "segment_index": 275, "start": 1343.54, "end": 1346.54, "text": "Man har hørt veldig mye om at man har bygget ned så mye kapasitet,"}
+{"episode_id": 450, "segment_index": 276, "start": 1346.54, "end": 1354.54, "text": "men til synlaterne har det klart å push ut utrolig mye chip på trods at antallet verft er ferde."}
+{"episode_id": 450, "segment_index": 277, "start": 1354.54, "end": 1357.54, "text": "Det er noe som vi snakket om litt før det her."}
+{"episode_id": 450, "segment_index": 278, "start": 1357.54, "end": 1361.54, "text": "Antallet verft er noe en ting, men kapasitetet er hvor mye er egentlig borte."}
+{"episode_id": 450, "segment_index": 279, "start": 1361.54, "end": 1365.54, "text": "For det som har skjedd har jeg vært en storsilt sammenslåing av veldig mange av verftene,"}
+{"episode_id": 450, "segment_index": 280, "start": 1365.54, "end": 1371.54, "text": "uden sånn store paraplyer og store konglomerater som har utfatt lite dypelommer,"}
+{"episode_id": 450, "segment_index": 281, "start": 1371.54, "end": 1374.54, "text": "men en kinesiske stat som bakman."}
+{"episode_id": 450, "segment_index": 282, "start": 1374.54, "end": 1377.54, "text": "Ikke sant, som også eis av det som man kan samlinge,"}
+{"episode_id": 450, "segment_index": 283, "start": 1377.54, "end": 1383.54, "text": "som samlingene med eireskapsavdelingen i næringshandel og fiskeridebør til mange her emne,"}
+{"episode_id": 450, "segment_index": 284, "start": 1383.54, "end": 1389.54, "text": "og dette er selskapene som virkelig er gjennstann for en ganske betydlig politisk interesse fra kinesiske myndigheters side,"}
+{"episode_id": 450, "segment_index": 285, "start": 1389.54, "end": 1395.54, "text": "og også en ganske betydlig styring og forvaltning, grad og forvaltning fra politisk niveau."}
+{"episode_id": 450, "segment_index": 286, "start": 1395.54, "end": 1403.54, "text": "Det sier jo også litt om hvilke briller kinesiske myndighetters se på nettopp disse selskapene"}
+{"episode_id": 450, "segment_index": 287, "start": 1403.54, "end": 1406.54, "text": "og disse inhusriene som vi snakker om her."}
+{"episode_id": 450, "segment_index": 288, "start": 1406.54, "end": 1410.54, "text": "Det var noe vi lært på den turden vi hadde nå til Asia."}
+{"episode_id": 450, "segment_index": 289, "start": 1410.54, "end": 1416.54, "text": "Jeg var ikke klar over det, men jeg visste jo at chipsbygget er en viktig strategisk industri for veldig mange,"}
+{"episode_id": 450, "segment_index": 290, "start": 1416.54, "end": 1423.54, "text": "og også Kina. Men at det ble litt gruppert i samme balk som en del av disse nye industrierne"}
+{"episode_id": 450, "segment_index": 291, "start": 1423.54, "end": 1425.54, "text": "som vi ser på som et satsing som råder for Kina,"}
+{"episode_id": 450, "segment_index": 292, "start": 1425.54, "end": 1429.54, "text": "hvor du har enigte tilnærmelt ubegrense tilgang på kapital,"}
+{"episode_id": 450, "segment_index": 293, "start": 1429.54, "end": 1435.54, "text": "og veldig rimelig kapital fra bankene, for å følge en ekspansjon."}
+{"episode_id": 450, "segment_index": 294, "start": 1436.54, "end": 1440.54, "text": "Det var jo litt den store take-awayen fra shipping siden, etter å ha vært i Kina"}
+{"episode_id": 450, "segment_index": 295, "start": 1440.54, "end": 1446.54, "text": "og besøkt verftene i Kina. At begge de verftene vi besøkte, de bygger nye fysiske tørrdokker,"}
+{"episode_id": 450, "segment_index": 296, "start": 1446.54, "end": 1453.54, "text": "as we speak, og det skulle gå utrolig fort. De hadde tent masse penger som det var på dagens chipspriser,"}
+{"episode_id": 450, "segment_index": 297, "start": 1453.54, "end": 1457.54, "text": "så det troet jeg at det ikke er gode marginer i chipsverft, virker litt søkt."}
+{"episode_id": 450, "segment_index": 298, "start": 1457.54, "end": 1462.54, "text": "Og det siste var det at du har den statlige styringen som dirigerer veldig mye kapitaltilgang"}
+{"episode_id": 450, "segment_index": 299, "start": 1462.54, "end": 1470.54, "text": "inn i en sektor som da angivlig bør det ha interesse av å ekspandere i etter at de tenner så god penger."}
+{"episode_id": 450, "segment_index": 300, "start": 1471.54, "end": 1481.54, "text": "Og dette er jo også litt sånn poeng som du har gjort, er det nemlig at Kina konsoliderer disse store statlige selskapene"}
+{"episode_id": 450, "segment_index": 301, "start": 1481.54, "end": 1490.54, "text": "for å bli veldig, veldig konkurrancedykte. Da bygger man enorme selskaper i ulike deler av verdisjeden,"}
+{"episode_id": 450, "segment_index": 302, "start": 1490.54, "end": 1497.54, "text": "møtte opp med det formålet, og så kan man ha høvdefra sikker til vesten siden at det er subsider,"}
+{"episode_id": 450, "segment_index": 303, "start": 1497.54, "end": 1499.54, "text": "og det blir ikke feir konkurranse osv."}
+{"episode_id": 450, "segment_index": 304, "start": 1499.54, "end": 1503.54, "text": "Ja, så det er interessant å se hva som foregår inn for ulike seventer."}
+{"episode_id": 450, "segment_index": 305, "start": 1503.54, "end": 1509.54, "text": "Altså hvis vi tar denne Fortune 500-listen over verdens 500 sørste selskaper, så er det ganske mange"}
+{"episode_id": 450, "segment_index": 306, "start": 1509.54, "end": 1514.54, "text": "av disse store statlige sinnesiske selskapene som figurerer skjøyt oppe på denne listen."}
+{"episode_id": 450, "segment_index": 307, "start": 1514.54, "end": 1517.54, "text": "Da kan vi nevne Costco, for eksempel etter enorme kontaineredriet."}
+{"episode_id": 450, "segment_index": 308, "start": 1517.54, "end": 1523.54, "text": "Og vi kan også nevne en del andre transporterlogistik relaterte virksomheter."}
+{"episode_id": 450, "segment_index": 309, "start": 1523.54, "end": 1531.54, "text": "Vi kan eksempelvis snakke om jernbane, hvor Kina også har lagt rette for fusjoner av store jernbane selskaper,"}
+{"episode_id": 450, "segment_index": 310, "start": 1531.54, "end": 1542.54, "text": "men som virkelig har opprettet giganter som konkurrerer i en helt annen klasse enn alle andre konkurrenter på verdensbasis."}
+{"episode_id": 450, "segment_index": 311, "start": 1543.64, "end": 1551.64, "text": "Denne politikken er noe som fremkalder skepsis i vesten, for det man frykter at jo mer avhengig"}
+{"episode_id": 450, "segment_index": 312, "start": 1551.64, "end": 1556.64, "text": "man blir av den slags iverdiseider og virksomheter hvor Kina har et veldig stort fotafrykk,"}
+{"episode_id": 450, "segment_index": 313, "start": 1556.64, "end": 1563.64, "text": "jo mer sårbare er vi også. Det er det hele diskusjonen der er som forliden syser."}
+{"episode_id": 450, "segment_index": 314, "start": 1563.64, "end": 1568.64, "text": "Det er veldig interessant å tenke på det her,"}
+{"episode_id": 450, "segment_index": 315, "start": 1568.64, "end": 1575.64, "text": "når USA begynner å blande seg inn i skepsbyggekapasitet ut fra et sikkerhetspolitiske perspektiv,"}
+{"episode_id": 450, "segment_index": 316, "start": 1575.64, "end": 1582.64, "text": "så kan man bare tenke seg hvordan Kinesernes er på dette, tenk såp av sportdrevetne vekst"}
+{"episode_id": 450, "segment_index": 317, "start": 1582.64, "end": 1590.64, "text": "som de har vært basert på de siste årene på måte, og hvordan de naturligvis har en del av shippingflåten"}
+{"episode_id": 450, "segment_index": 318, "start": 1590.64, "end": 1595.64, "text": "for å kontrollere og ha tilgang på den i en periode hvor du for eksempel kan møte sanktjoner"}
+{"episode_id": 450, "segment_index": 319, "start": 1595.64, "end": 1600.64, "text": "som vi har sett i en del andre lande til det siste. Det er jo veldig interessant å ha dette med bilskipping,"}
+{"episode_id": 450, "segment_index": 320, "start": 1600.64, "end": 1604.64, "text": "for inntil helt nylig så var jo mer eller mindre hele den internasjonale bilskippingflåten"}
+{"episode_id": 450, "segment_index": 321, "start": 1604.64, "end": 1609.64, "text": "og var kontrollert av vesten og vestens allierter. Så tenke en situasjon hvor det plutselig skulle være noe,"}
+{"episode_id": 450, "segment_index": 322, "start": 1609.64, "end": 1612.64, "text": "gnistninger over for Kina, så sitter de helt naken ut noen ting,"}
+{"episode_id": 450, "segment_index": 323, "start": 1612.64, "end": 1617.64, "text": "og det er også en forklaring på at en ordrebokning i disse segmentet har gjest ut så passommen her."}
+{"episode_id": 450, "segment_index": 324, "start": 1617.64, "end": 1622.64, "text": "Særlig når du også da ser at de har begynt å eksportere mer bil enn før."}
+{"episode_id": 450, "segment_index": 325, "start": 1625.75, "end": 1636.16, "text": "Vi har snakket om at inn shipping, så Kina er veldig til stedet når de gjelder volym,"}
+{"episode_id": 450, "segment_index": 326, "start": 1636.16, "end": 1642.16, "text": "men i hvilken grad begynner de å konkurrere også på teknologi,"}
+{"episode_id": 450, "segment_index": 327, "start": 1642.16, "end": 1646.16, "text": "og skal vi kalle det haienmarkedet inn shipping,"}
+{"episode_id": 450, "segment_index": 328, "start": 1646.16, "end": 1652.35, "text": "og så får jeg dere heller definere litt mer hvilke deler av shipping vi snakker om."}
+{"episode_id": 450, "segment_index": 329, "start": 1652.35, "end": 1656.35, "text": "Det har vært et ønske om å ta en større del av verdierskjeden,"}
+{"episode_id": 450, "segment_index": 330, "start": 1656.35, "end": 1663.35, "text": "ikke bare være de som producerer stål til ting, men kanskje setter det sammen til en fullstendig bil."}
+{"episode_id": 450, "segment_index": 331, "start": 1663.35, "end": 1670.35, "text": "Bil er et godt eksempel på det. Det er en av de sektorer som er veldig strategisk satset på i Kina også."}
+{"episode_id": 450, "segment_index": 332, "start": 1670.35, "end": 1677.35, "text": "Det tror jeg er en naturlig utvikling i at de går fra å være veldig sånn råvare intensivet"}
+{"episode_id": 450, "segment_index": 333, "start": 1677.35, "end": 1681.35, "text": "til å bli en litt mer teknologisk stat. Kelly?"}
+{"episode_id": 450, "segment_index": 334, "start": 1681.35, "end": 1685.35, "text": "Det er rettere anter med at man klatter litt oppover i denne av de siden,"}
+{"episode_id": 450, "segment_index": 335, "start": 1685.35, "end": 1690.35, "text": "men man modner sånn økonomi, og så har Kinas myndigheter på en måte prøvd å fremmesynne det"}
+{"episode_id": 450, "segment_index": 336, "start": 1690.35, "end": 1695.35, "text": "gjennom ulike politiske satsinger."}
+{"episode_id": 450, "segment_index": 337, "start": 1695.35, "end": 1699.35, "text": "En ting er jo på en måte at det er å ha tilgang på kapital,"}
+{"episode_id": 450, "segment_index": 338, "start": 1699.35, "end": 1705.35, "text": "men du har også dette med at det har et gigantisk marked hjemme også."}
+{"episode_id": 450, "segment_index": 339, "start": 1705.35, "end": 1713.35, "text": "Vi ser da at Kina i hvert fall på chipsbygging, slik jeg oppvatter det,"}
+{"episode_id": 450, "segment_index": 340, "start": 1713.35, "end": 1718.35, "text": "har begynt å konkurrere mot slas i Søerkorea og Japan på kompleksiteten."}
+{"episode_id": 450, "segment_index": 341, "start": 1718.35, "end": 1721.35, "text": "Det er for at ikke bare de balgjende som producerer Kina,"}
+{"episode_id": 450, "segment_index": 342, "start": 1721.35, "end": 1726.35, "text": "men også offshore og avanserte skip."}
+{"episode_id": 450, "segment_index": 343, "start": 1727.35, "end": 1735.35, "text": "Det er jo noe som er en resultat av det de har jobbet med."}
+{"episode_id": 450, "segment_index": 344, "start": 1735.35, "end": 1741.35, "text": "Men det er jo også et element med din China 2025 som du har fullt mye,"}
+{"episode_id": 450, "segment_index": 345, "start": 1741.35, "end": 1746.35, "text": "altså nettopp det å spesialisere seg inn for en mer sånn høy teknologisk"}
+{"episode_id": 450, "segment_index": 346, "start": 1746.35, "end": 1751.35, "text": "verfsindustri og så maritim teknologi generelt."}
+{"episode_id": 450, "segment_index": 347, "start": 1752.35, "end": 1757.35, "text": "Jeg pleier å si at Kina ønsker ikke bare å producere og sellere leker og klær."}
+{"episode_id": 450, "segment_index": 348, "start": 1757.35, "end": 1761.35, "text": "De ønsker å sellere mer avanserte ting til resten av derenden."}
+{"episode_id": 450, "segment_index": 349, "start": 1761.35, "end": 1766.64, "text": "Og L-biler er et eksempel på noen hvor de har lykkes da kan man si."}
+{"episode_id": 450, "segment_index": 350, "start": 1766.64, "end": 1772.64, "text": "Det er siden at konkurrancen om det lokale markedet har vært primus motord"}
+{"episode_id": 450, "segment_index": 351, "start": 1772.64, "end": 1776.64, "text": "for at man har utviklet de forretningsmodeller som i dag klarer å selle"}
+{"episode_id": 450, "segment_index": 352, "start": 1776.64, "end": 1783.64, "text": "uforholdsmessige, men det er i hvert fall biler til Europa og Vesten"}
+{"episode_id": 450, "segment_index": 353, "start": 1783.64, "end": 1785.64, "text": "som de har eksplodert."}
+{"episode_id": 450, "segment_index": 354, "start": 1785.64, "end": 1789.64, "text": "Men disse tolsatsene, det fikk vi her for ikke så lenge siden,"}
+{"episode_id": 450, "segment_index": 355, "start": 1789.64, "end": 1793.64, "text": "og så får vi ta høydefor det at det kan se ting,"}
+{"episode_id": 450, "segment_index": 356, "start": 1793.64, "end": 1797.64, "text": "selvfølgelig, inn vi sender ut denne episoden."}
+{"episode_id": 450, "segment_index": 357, "start": 1797.64, "end": 1804.64, "text": "Men her skjønner jeg det er litt sprik i hvordan de ulike selskapene"}
+{"episode_id": 450, "segment_index": 358, "start": 1804.64, "end": 1808.64, "text": "blir troffet av disse tolsatsene, sånn det ser ut nå."}
+{"episode_id": 450, "segment_index": 359, "start": 1808.64, "end": 1809.64, "text": "Er det ikke det?"}
+{"episode_id": 450, "segment_index": 360, "start": 1809.64, "end": 1810.64, "text": "Ja."}
+{"episode_id": 450, "segment_index": 361, "start": 1810.64, "end": 1813.64, "text": "Det er noen som har fått veldig høyde tolsatser,"}
+{"episode_id": 450, "segment_index": 362, "start": 1813.64, "end": 1815.64, "text": "og andre som har fått relativt hanterbare."}
+{"episode_id": 450, "segment_index": 363, "start": 1815.64, "end": 1820.64, "text": "Og grunn til det er vel lette forskningen som EU har gjort"}
+{"episode_id": 450, "segment_index": 364, "start": 1820.64, "end": 1825.64, "text": "på de ulike aktørene som har samarbeidet de ulike radtysynlattene,"}
+{"episode_id": 450, "segment_index": 365, "start": 1825.64, "end": 1828.64, "text": "og dermed så prøver man å kompensere for at de mener"}
+{"episode_id": 450, "segment_index": 366, "start": 1828.64, "end": 1831.64, "text": "det er urettferdige behandling av diverse aktørene."}
+{"episode_id": 450, "segment_index": 367, "start": 1831.64, "end": 1834.64, "text": "Så er det sånn som Tesla har ikke fått noe tolsats enda,"}
+{"episode_id": 450, "segment_index": 368, "start": 1834.64, "end": 1839.64, "text": "men de har igang satt en egen undersøkelse på hvor mye de får"}
+{"episode_id": 450, "segment_index": 369, "start": 1839.64, "end": 1844.64, "text": "subsidiert fra EU-syn på deres produksjon i Sina."}
+{"episode_id": 450, "segment_index": 370, "start": 1844.64, "end": 1846.64, "text": "For de var jo veldig vokale på dette å begynne med,"}
+{"episode_id": 450, "segment_index": 371, "start": 1846.64, "end": 1849.64, "text": "når de begynte å se på hvilke selskaper EU skulle se på"}
+{"episode_id": 450, "segment_index": 372, "start": 1849.64, "end": 1852.64, "text": "for å øvrige dere hvilken tolsats du skulle legge generelt"}
+{"episode_id": 450, "segment_index": 373, "start": 1852.64, "end": 1854.64, "text": "på sinnesisk bil import til Europa."}
+{"episode_id": 450, "segment_index": 374, "start": 1854.64, "end": 1856.64, "text": "Og da var ikke de inkludert."}
+{"episode_id": 450, "segment_index": 375, "start": 1856.64, "end": 1859.64, "text": "Og det er naturlig å anta at en aktører som Tesla"}
+{"episode_id": 450, "segment_index": 376, "start": 1859.64, "end": 1861.64, "text": "kanskje er de som får minst subsidiert,"}
+{"episode_id": 450, "segment_index": 377, "start": 1861.64, "end": 1864.64, "text": "men likevel har klart tolle greit å konkurrere den"}
+{"episode_id": 450, "segment_index": 378, "start": 1864.64, "end": 1866.64, "text": "og har gjort frem til nylig."}
+{"episode_id": 450, "segment_index": 379, "start": 1866.64, "end": 1870.64, "text": "Så vet man det her, for eksempel Tesla og Byd,"}
+{"episode_id": 450, "segment_index": 380, "start": 1870.64, "end": 1873.64, "text": "vil de få på noe de samme tolsatsene?"}
+{"episode_id": 450, "segment_index": 381, "start": 1873.64, "end": 1875.64, "text": "Ja, så det vet man ikke. Det blir jo spekulasjoner,"}
+{"episode_id": 450, "segment_index": 382, "start": 1875.64, "end": 1878.64, "text": "men B.U. det var jo, det var jo 17% som ble lagt på toppen"}
+{"episode_id": 450, "segment_index": 383, "start": 1878.64, "end": 1880.64, "text": "av de 10 allerede du har inn til EU,"}
+{"episode_id": 450, "segment_index": 384, "start": 1880.64, "end": 1882.64, "text": "så det var totalt 27%."}
+{"episode_id": 450, "segment_index": 385, "start": 1882.64, "end": 1887.64, "text": "Og det var kanskje litt rundt det er man ventet,"}
+{"episode_id": 450, "segment_index": 386, "start": 1887.64, "end": 1889.64, "text": "men så var det aktører som Saik,"}
+{"episode_id": 450, "segment_index": 387, "start": 1889.64, "end": 1892.64, "text": "for eksempel Statside Selvskap,"}
+{"episode_id": 450, "segment_index": 388, "start": 1892.64, "end": 1896.64, "text": "som ble pålagt mye mer enn det."}
+{"episode_id": 450, "segment_index": 389, "start": 1896.64, "end": 1898.64, "text": "Det var jo 38% på toppen av de 10,"}
+{"episode_id": 450, "segment_index": 390, "start": 1898.64, "end": 1900.64, "text": "så da snakker vi jo 50% tolt totalt sett,"}
+{"episode_id": 450, "segment_index": 391, "start": 1900.64, "end": 1902.64, "text": "det begynner å bli blodig."}
+{"episode_id": 450, "segment_index": 392, "start": 1902.64, "end": 1905.64, "text": "Så disse tolsatsene, EU har bestemt seg for å vente"}
+{"episode_id": 450, "segment_index": 393, "start": 1905.64, "end": 1910.64, "text": "med til å gjøre de endelige til dage etter valget i USA,"}
+{"episode_id": 450, "segment_index": 394, "start": 1910.64, "end": 1911.64, "text": "er det ikke?"}
+{"episode_id": 450, "segment_index": 395, "start": 1911.64, "end": 1913.64, "text": "Det er da fristen går ut."}
+{"episode_id": 450, "segment_index": 396, "start": 1913.64, "end": 1916.64, "text": "Så vi kan vente helt i dag."}
+{"episode_id": 450, "segment_index": 397, "start": 1916.64, "end": 1919.64, "text": "Men det er jo litt spennende,"}
+{"episode_id": 450, "segment_index": 398, "start": 1919.64, "end": 1921.64, "text": "for EU har to forskjellige tolsatsene på"}
+{"episode_id": 450, "segment_index": 399, "start": 1921.64, "end": 1924.64, "text": "utifra hvilke selskap som samarbeidet"}
+{"episode_id": 450, "segment_index": 400, "start": 1924.64, "end": 1926.64, "text": "og gav de data,"}
+{"episode_id": 450, "segment_index": 401, "start": 1926.64, "end": 1929.64, "text": "og utifra hvilke selskap som ikke gjorde det."}
+{"episode_id": 450, "segment_index": 402, "start": 1929.64, "end": 1932.64, "text": "Og Saik fikk jo dette veldig høy på 38%,"}
+{"episode_id": 450, "segment_index": 403, "start": 1932.64, "end": 1936.64, "text": "fordi de nektet å gi fra seg informasjon omkring batteriene,"}
+{"episode_id": 450, "segment_index": 404, "start": 1936.64, "end": 1938.64, "text": "fordi de menta sett dette er"}
+{"episode_id": 450, "segment_index": 405, "start": 1938.64, "end": 1941.64, "text": "sensitive forretnings- og mensig sensitive informasjon,"}
+{"episode_id": 450, "segment_index": 406, "start": 1941.64, "end": 1943.64, "text": "så det kunne de ikke gi fra seg."}
+{"episode_id": 450, "segment_index": 407, "start": 1943.64, "end": 1946.64, "text": "Så det er, jeg tror det er,"}
+{"episode_id": 450, "segment_index": 408, "start": 1946.64, "end": 1949.64, "text": "ja, det er jo rum for kanskje noen endringer"}
+{"episode_id": 450, "segment_index": 409, "start": 1949.64, "end": 1952.64, "text": "vi får se i de endelige tolsatsene."}
+{"episode_id": 450, "segment_index": 410, "start": 1952.64, "end": 1954.64, "text": "Men når man ser på hvordan"}
+{"episode_id": 450, "segment_index": 411, "start": 1954.64, "end": 1957.64, "text": "bilselskapene har respondert da,"}
+{"episode_id": 450, "segment_index": 412, "start": 1957.64, "end": 1959.64, "text": "altså på Børsen,"}
+{"episode_id": 450, "segment_index": 413, "start": 1959.64, "end": 1961.64, "text": "bøy det steg jo på Hongkong Børsen,"}
+{"episode_id": 450, "segment_index": 414, "start": 1961.64, "end": 1964.64, "text": "og det er jo fordi selv med de tolsatsene,"}
+{"episode_id": 450, "segment_index": 415, "start": 1964.64, "end": 1968.64, "text": "så tjenere jo bøy det starte gode penger"}
+{"episode_id": 450, "segment_index": 416, "start": 1968.64, "end": 1971.64, "text": "i Europa ved å selle bilsjønne her,"}
+{"episode_id": 450, "segment_index": 417, "start": 1971.64, "end": 1972.64, "text": "fremfor i Kina."}
+{"episode_id": 450, "segment_index": 418, "start": 1972.64, "end": 1975.64, "text": "Du har ikke vært så bykymret, har du det da,"}
+{"episode_id": 450, "segment_index": 419, "start": 1975.64, "end": 1979.64, "text": "på bilsipernesveinet, Jürgen?"}
+{"episode_id": 450, "segment_index": 420, "start": 1979.64, "end": 1982.64, "text": "Nei, jeg har egentlig ikke det."}
+{"episode_id": 450, "segment_index": 421, "start": 1982.64, "end": 1985.64, "text": "Jeg tror det fortrinde de har på produksjonen i Kina"}
+{"episode_id": 450, "segment_index": 422, "start": 1985.64, "end": 1988.64, "text": "er så pass stort at det"}
+{"episode_id": 450, "segment_index": 423, "start": 1988.64, "end": 1990.64, "text": "det står seg relativt greit da,"}
+{"episode_id": 450, "segment_index": 424, "start": 1990.64, "end": 1992.64, "text": "selv med de tolsatsene vi ser nå."}
+{"episode_id": 450, "segment_index": 425, "start": 1992.64, "end": 1996.64, "text": "Det som, ikke sant, det er veldig mye fokus på hva vi"}
+{"episode_id": 450, "segment_index": 426, "start": 1996.64, "end": 1998.64, "text": "gjør i EU og Vesten."}
+{"episode_id": 450, "segment_index": 427, "start": 1998.64, "end": 2000.64, "text": "Vi kan komme litt tilbake til USA."}
+{"episode_id": 450, "segment_index": 428, "start": 2000.64, "end": 2003.64, "text": "Men Europa, i forhold til det innføres tolsatsene på det her,"}
+{"episode_id": 450, "segment_index": 429, "start": 2003.64, "end": 2005.64, "text": "hvor viktig og avgjørende det egentlig er"}
+{"episode_id": 450, "segment_index": 430, "start": 2005.64, "end": 2007.64, "text": "for den sinesiske elbilsatsingen,"}
+{"episode_id": 450, "segment_index": 431, "start": 2007.64, "end": 2010.64, "text": "og at man vel på tols skal kunne"}
+{"episode_id": 450, "segment_index": 432, "start": 2010.64, "end": 2013.64, "text": "tildels kanskje stage den utviklingen vi har sett."}
+{"episode_id": 450, "segment_index": 433, "start": 2013.64, "end": 2016.64, "text": "Men de indtrykene vi sitter igjen med,"}
+{"episode_id": 450, "segment_index": 434, "start": 2016.64, "end": 2019.64, "text": "velheller at OM-ene og de som producerer biler i Kina,"}
+{"episode_id": 450, "segment_index": 435, "start": 2019.64, "end": 2021.64, "text": "og også da i E-V-er,"}
+{"episode_id": 450, "segment_index": 436, "start": 2021.64, "end": 2024.64, "text": "er primært sett opptatt av sitt eget hjemme marked,"}
+{"episode_id": 450, "segment_index": 437, "start": 2024.64, "end": 2026.64, "text": "som er sånn ufattelig svært,"}
+{"episode_id": 450, "segment_index": 438, "start": 2026.64, "end": 2029.64, "text": "og det betyr jo at de mest sannsynlig,"}
+{"episode_id": 450, "segment_index": 439, "start": 2029.64, "end": 2031.64, "text": "vi har en preferanse for å ta marked samtidig,"}
+{"episode_id": 450, "segment_index": 440, "start": 2031.64, "end": 2033.64, "text": "eller eget hjemme marked,"}
+{"episode_id": 450, "segment_index": 441, "start": 2033.64, "end": 2035.64, "text": "fremfor egentlig å eksportere."}
+{"episode_id": 450, "segment_index": 442, "start": 2035.64, "end": 2038.64, "text": "Så det som kanskje er mer avgjørende i forhold til"}
+{"episode_id": 450, "segment_index": 443, "start": 2038.64, "end": 2041.64, "text": "endelig eksportvolum ut av Kina,"}
+{"episode_id": 450, "segment_index": 444, "start": 2041.64, "end": 2043.64, "text": "er vel heller hvilken ettersprøsje"}
+{"episode_id": 450, "segment_index": 445, "start": 2043.64, "end": 2046.64, "text": "det er lokalt for å ta unna de bilerne som produceres."}
+{"episode_id": 450, "segment_index": 446, "start": 2046.64, "end": 2047.64, "text": "Og det som er året."}
+{"episode_id": 450, "segment_index": 447, "start": 2047.64, "end": 2049.64, "text": "Der er vi vel tilbake til at problemet er at"}
+{"episode_id": 450, "segment_index": 448, "start": 2049.64, "end": 2053.64, "text": "kinesisk husholdningen må prioritere og nedbetale gjell."}
+{"episode_id": 450, "segment_index": 449, "start": 2053.64, "end": 2055.64, "text": "Ja, jeg synes det er spennende der,"}
+{"episode_id": 450, "segment_index": 450, "start": 2055.64, "end": 2059.64, "text": "fordi jeg snakker ofte om stimulanser"}
+{"episode_id": 450, "segment_index": 451, "start": 2059.64, "end": 2062.64, "text": "fra myndighetene, hva slags stimulanser, hvilke typer."}
+{"episode_id": 450, "segment_index": 452, "start": 2062.64, "end": 2065.64, "text": "Og det som er interessant er at de har virkelig begynt"}
+{"episode_id": 450, "segment_index": 453, "start": 2065.64, "end": 2068.64, "text": "å legge på subsidiet direkte til husholdning."}
+{"episode_id": 450, "segment_index": 454, "start": 2068.64, "end": 2071.64, "text": "Så nå kommer de med innbytter subsidier."}
+{"episode_id": 450, "segment_index": 455, "start": 2071.64, "end": 2074.64, "text": "Altså hvis du butter inn din gamle bensinbil,"}
+{"episode_id": 450, "segment_index": 456, "start": 2074.64, "end": 2078.64, "text": "til fordel for en elbil, så får du litt penger fra staten."}
+{"episode_id": 450, "segment_index": 457, "start": 2078.64, "end": 2081.64, "text": "Så hva skal jeg si om det?"}
+{"episode_id": 450, "segment_index": 458, "start": 2081.64, "end": 2085.64, "text": "Det er jo et tegn på at de også ser det Jørgen og Rydde har på."}
+{"episode_id": 450, "segment_index": 459, "start": 2085.64, "end": 2087.64, "text": "At dette i en landsk marked er viktig."}
+{"episode_id": 450, "segment_index": 460, "start": 2087.64, "end": 2089.64, "text": "Man må få opp ettersprøsjen."}
+{"episode_id": 450, "segment_index": 461, "start": 2089.64, "end": 2092.64, "text": "Og det er på den kanalen stimulansene"}
+{"episode_id": 450, "segment_index": 462, "start": 2092.64, "end": 2094.64, "text": "også å gå gjennom det."}
+{"episode_id": 450, "segment_index": 463, "start": 2094.64, "end": 2097.64, "text": "Så er jo spørsmålet om husholdning det faktisk gjør det."}
+{"episode_id": 450, "segment_index": 464, "start": 2097.64, "end": 2099.64, "text": "Så det hjelper det med noen tusen apper,"}
+{"episode_id": 450, "segment_index": 465, "start": 2099.64, "end": 2102.64, "text": "mindre kassenader eller producerer det i å betale en el."}
+{"episode_id": 450, "segment_index": 466, "start": 2102.64, "end": 2104.64, "text": "Har man sett noen tidlig tegn til det?"}
+{"episode_id": 450, "segment_index": 467, "start": 2104.64, "end": 2107.64, "text": "Eller er det det er begge mulig å si en av?"}
+{"episode_id": 450, "segment_index": 468, "start": 2107.64, "end": 2110.64, "text": "Majtallene for bilsal var jo veldig bra."}
+{"episode_id": 450, "segment_index": 469, "start": 2110.64, "end": 2113.64, "text": "Jeg så noen overskifter som ikke er klart å verifisere."}
+{"episode_id": 450, "segment_index": 470, "start": 2113.64, "end": 2117.64, "text": "Men da var elbil andelen av salget opp mot 50%,"}
+{"episode_id": 450, "segment_index": 471, "start": 2117.64, "end": 2120.64, "text": "altså inklusive pluggen hybridere."}
+{"episode_id": 450, "segment_index": 472, "start": 2120.64, "end": 2123.64, "text": "Og det er jo opp fra 40% i april."}
+{"episode_id": 450, "segment_index": 473, "start": 2123.64, "end": 2128.64, "text": "Så det har skjedd etter hand med salget elbil vs. bensinbil."}
+{"episode_id": 450, "segment_index": 474, "start": 2128.64, "end": 2131.64, "text": "Og det er en ting."}
+{"episode_id": 450, "segment_index": 475, "start": 2131.64, "end": 2135.64, "text": "Og på toppen av det så har så voldet med at totalisall vært veldig god."}
+{"episode_id": 450, "segment_index": 476, "start": 2136.64, "end": 2138.64, "text": "Tilbake til toll."}
+{"episode_id": 450, "segment_index": 477, "start": 2138.64, "end": 2143.64, "text": "Er det noe som tilstyr at Sina vil svare på dette her?"}
+{"episode_id": 450, "segment_index": 478, "start": 2143.64, "end": 2148.02, "text": "På en eller annen måte?"}
+{"episode_id": 450, "segment_index": 479, "start": 2148.02, "end": 2150.02, "text": "Nå blir det stille."}
+{"episode_id": 450, "segment_index": 480, "start": 2150.02, "end": 2153.02, "text": "Jeg så jo tolv overskrifter på at de skulle ta igjen."}
+{"episode_id": 450, "segment_index": 481, "start": 2153.02, "end": 2156.02, "text": "Det har flureret litt rygter rundt dette på bil."}
+{"episode_id": 450, "segment_index": 482, "start": 2156.02, "end": 2159.02, "text": "At de skulle svare på det."}
+{"episode_id": 450, "segment_index": 483, "start": 2159.02, "end": 2162.02, "text": "Men da med en litt mer kanskje..."}
+{"episode_id": 450, "segment_index": 484, "start": 2162.02, "end": 2166.02, "text": "En avvjør som er forankret litt i transisjonen."}
+{"episode_id": 450, "segment_index": 485, "start": 2166.02, "end": 2170.02, "text": "At du skulle sette en toll på europeisk..."}
+{"episode_id": 450, "segment_index": 486, "start": 2170.02, "end": 2174.02, "text": "Importera europeisk producerer til biler med store fossilmotorer."}
+{"episode_id": 450, "segment_index": 487, "start": 2174.02, "end": 2179.02, "text": "Som er leder i det å få nye eller få en utslipning lokalt."}
+{"episode_id": 450, "segment_index": 488, "start": 2179.02, "end": 2184.02, "text": "Men det blir jo et svar på det som er udrivet mot Sina i dag."}
+{"episode_id": 450, "segment_index": 489, "start": 2184.02, "end": 2187.02, "text": "Men så var det også noen svindelbender i Diversjeland."}
+{"episode_id": 450, "segment_index": 490, "start": 2187.02, "end": 2190.02, "text": "Nå er det ikke det som hadde fått noe toll på seg i Tilsvar?"}
+{"episode_id": 450, "segment_index": 491, "start": 2190.02, "end": 2195.02, "text": "De utreder i hvert halv om det har vært subsider på Sina-produkter."}
+{"episode_id": 450, "segment_index": 492, "start": 2195.02, "end": 2197.02, "text": "I Europa."}
+{"episode_id": 450, "segment_index": 493, "start": 2197.02, "end": 2199.02, "text": "Det høres mest enklig like det ut."}
+{"episode_id": 450, "segment_index": 494, "start": 2199.02, "end": 2206.02, "text": "Men er det ikke sånn at Sina ønsker å være litt mer venn med Europa-relativt til USA?"}
+{"episode_id": 450, "segment_index": 495, "start": 2206.02, "end": 2212.02, "text": "Som kanskje gjør at de holder hjem med hvor harte de svare på noe av disse tiltakene?"}
+{"episode_id": 450, "segment_index": 496, "start": 2212.02, "end": 2214.02, "text": "Jeg tror absolutt det."}
+{"episode_id": 450, "segment_index": 497, "start": 2214.02, "end": 2220.02, "text": "Vi ser virkelig konturen av en typisk charmeoffansiv mot en utvaktig europeisk land."}
+{"episode_id": 450, "segment_index": 498, "start": 2220.02, "end": 2224.02, "text": "For å hindre at det blir en sånn unison foran Sina mellom USA og Europa."}
+{"episode_id": 450, "segment_index": 499, "start": 2224.02, "end": 2229.02, "text": "Jeg tror samtidig at det amerikanske presse mot europeiske myndigheter,"}
+{"episode_id": 450, "segment_index": 500, "start": 2229.02, "end": 2232.02, "text": "når de gjelder sammanlenge med Sina, det er ganske betydelig."}
+{"episode_id": 450, "segment_index": 501, "start": 2232.02, "end": 2241.02, "text": "Så her er det nok flere europeiske land som føler at de er litt skvist mellom to lite hare vegger på noe."}
+{"episode_id": 450, "segment_index": 502, "start": 2241.02, "end": 2246.02, "text": "Men det jeg også siste var litt interessant å legge markedelen er at i Sina også er rasjler med eksportkontroll,"}
+{"episode_id": 450, "segment_index": 503, "start": 2246.02, "end": 2250.02, "text": "hvert tøye knyttet, eksempelvis til chipsteknologi."}
+{"episode_id": 450, "segment_index": 504, "start": 2250.02, "end": 2257.02, "text": "Nog som jeg tror vi kan lese inn i denne økene, tid for tett denne skaleringen av ulike handelsstilltak,"}
+{"episode_id": 450, "segment_index": 505, "start": 2257.02, "end": 2260.02, "text": "som både USA og Europa retter mot Sina."}
+{"episode_id": 450, "segment_index": 506, "start": 2260.02, "end": 2265.02, "text": "Men som også på en måte legger til rette fra Sina og så gir den form for tilsvar,"}
+{"episode_id": 450, "segment_index": 507, "start": 2265.02, "end": 2270.02, "text": "fordi Sina ville nok minne de både europeiske og det amerikanske markedene,"}
+{"episode_id": 450, "segment_index": 508, "start": 2270.02, "end": 2278.02, "text": "at de sitter med kontrollen på en god del varer av strategisk betydning også for OECD-svarenda."}
+{"episode_id": 450, "segment_index": 509, "start": 2279.02, "end": 2284.02, "text": "Bare for å gå litt inn på bilen før vi legger det helt fra oss da,"}
+{"episode_id": 450, "segment_index": 510, "start": 2284.02, "end": 2290.02, "text": "fordi det er veldig interessant at EU nå innfører toll på subsidier,"}
+{"episode_id": 450, "segment_index": 511, "start": 2290.02, "end": 2296.02, "text": "åpenlyst mot sinnesisk bil, men så har du på andre siden av et land der en land"}
+{"episode_id": 450, "segment_index": 512, "start": 2296.02, "end": 2303.02, "text": "som har i gang satt store mengder med subsidier, nettopp for å konkurrere på like villkor med Sina"}
+{"episode_id": 450, "segment_index": 513, "start": 2304.02, "end": 2306.02, "text": "i produksjoner av batterier, eksempelvis."}
+{"episode_id": 450, "segment_index": 514, "start": 2306.02, "end": 2309.02, "text": "Så det er noe som borde slå inn på produksjoner av elbiler,"}
+{"episode_id": 450, "segment_index": 515, "start": 2309.02, "end": 2312.02, "text": "og dermed så kommer det fra begge kanter, i forhold til EU-stil."}
+{"episode_id": 450, "segment_index": 516, "start": 2312.02, "end": 2315.02, "text": "Hvis du tenker fra EU-perspektiv, hvis dette er for å forstå arbeidsplasser,"}
+{"episode_id": 450, "segment_index": 517, "start": 2315.02, "end": 2321.02, "text": "og det som vi lenge har jobbet med mange tyske bilproducenter,"}
+{"episode_id": 450, "segment_index": 518, "start": 2321.02, "end": 2324.02, "text": "har tilbudt for eksempel i lang lang tid."}
+{"episode_id": 450, "segment_index": 519, "start": 2324.02, "end": 2327.02, "text": "Hvis det er for å forstå det, så har du fortsatt et økeneproblem,"}
+{"episode_id": 450, "segment_index": 520, "start": 2327.02, "end": 2330.02, "text": "med at nå har du prøvd å sette et slør på sinnesiske import,"}
+{"episode_id": 450, "segment_index": 521, "start": 2330.02, "end": 2333.02, "text": "men så spørste hva som skjer fra amerikansk siden."}
+{"episode_id": 450, "segment_index": 522, "start": 2333.02, "end": 2338.02, "text": "Det blir interessant å se hvordan man forholder seg til USA"}
+{"episode_id": 450, "segment_index": 523, "start": 2338.02, "end": 2341.02, "text": "i forhold til samme problematikk,"}
+{"episode_id": 450, "segment_index": 524, "start": 2341.02, "end": 2346.02, "text": "men kanskje en man er litt mer fortrolig med å ha et bedre forhold til."}
+{"episode_id": 450, "segment_index": 525, "start": 2346.02, "end": 2350.02, "text": "Da såkker vi med et land som vi har et strategisk sikkerhets samarbeid med,"}
+{"episode_id": 450, "segment_index": 526, "start": 2350.02, "end": 2356.02, "text": "så det er USA stiller nok en litt annen liga enn Sina knytter til den sværen."}
+{"episode_id": 450, "segment_index": 527, "start": 2357.02, "end": 2369.98, "text": "Hvis vi ser litt utover det reno byggersip,"}
+{"episode_id": 450, "segment_index": 528, "start": 2369.98, "end": 2376.98, "text": "og etterspørslet som skapes av Sina og bil som skal ute av Sina,"}
+{"episode_id": 450, "segment_index": 529, "start": 2376.98, "end": 2384.17, "text": "Sina har sin tilresse i havner og ulike steder."}
+{"episode_id": 450, "segment_index": 530, "start": 2384.17, "end": 2389.17, "text": "Hvis vi bare starter med havet, altså sør Sina havet,"}
+{"episode_id": 450, "segment_index": 531, "start": 2389.17, "end": 2394.17, "text": "det er det mest som strategisk viktig for Sina, er det ikke det?"}
+{"episode_id": 450, "segment_index": 532, "start": 2394.17, "end": 2397.17, "text": "Jo, det er jo vel en absolutsi."}
+{"episode_id": 450, "segment_index": 533, "start": 2397.17, "end": 2401.17, "text": "Røde havet, Persje Bukta, hvor viktig er det?"}
+{"episode_id": 450, "segment_index": 534, "start": 2401.17, "end": 2404.17, "text": "Det blir jo et litt annen spørsmål."}
+{"episode_id": 450, "segment_index": 535, "start": 2404.17, "end": 2410.17, "text": "Etter som så store veller av Sina's energii-import kommer fra nettopp landet rundt Persje Bukta,"}
+{"episode_id": 450, "segment_index": 536, "start": 2410.17, "end": 2417.17, "text": "så er det klart at disse landet har en voldsom strategisk betydning også for Sina."}
+{"episode_id": 450, "segment_index": 537, "start": 2417.17, "end": 2421.17, "text": "Og jeg tror om at det i sinnesiske fotavtrykket i denne regionen har økt,"}
+{"episode_id": 450, "segment_index": 538, "start": 2421.17, "end": 2426.17, "text": "så ser man også en økende diplomatisk aktivitet fra Sina sin side,"}
+{"episode_id": 450, "segment_index": 539, "start": 2426.17, "end": 2431.17, "text": "for her har Sina helt klart strategiske interesser og i varita."}
+{"episode_id": 450, "segment_index": 540, "start": 2431.17, "end": 2436.17, "text": "Når det deler røde havet, så har det jo også vært en litt interessant utviklingsstrek,"}
+{"episode_id": 450, "segment_index": 541, "start": 2436.17, "end": 2445.17, "text": "hvor fotene, for ikke spesielt lenge siden, gav løfter om fri fartsil til sinnesiske og turistiske farteig,"}
+{"episode_id": 450, "segment_index": 542, "start": 2445.17, "end": 2448.17, "text": "men bare fem dager etter at fotene gav denne garantien."}
+{"episode_id": 450, "segment_index": 543, "start": 2448.17, "end": 2449.17, "text": "Fri fartsil hvor da?"}
+{"episode_id": 450, "segment_index": 544, "start": 2449.17, "end": 2451.17, "text": "I røde havet gjennom røde havet."}
+{"episode_id": 450, "segment_index": 545, "start": 2451.17, "end": 2457.17, "text": "Hotene har jo angreppet civil og militær-sipstrafikk i røde havet."}
+{"episode_id": 450, "segment_index": 546, "start": 2457.17, "end": 2461.17, "text": "Jeg gentet tilganger siden gassakrigen brøtte ut."}
+{"episode_id": 450, "segment_index": 547, "start": 2461.17, "end": 2466.17, "text": "Hvertfall på papire for å utvise en støtte til palesinerne og palesinerne-sak."}
+{"episode_id": 450, "segment_index": 548, "start": 2466.17, "end": 2471.17, "text": "Jeg tror det er kanskje situasjonen og motivasjonen for hotene er litt mer kompleksen som så,"}
+{"episode_id": 450, "segment_index": 549, "start": 2471.17, "end": 2475.17, "text": "men uansett gav hotene en typig garantier til Sina og Rusland,"}
+{"episode_id": 450, "segment_index": 550, "start": 2475.17, "end": 2479.17, "text": "om at deres farteig skulle få ferdis fritt gjennom røde havet."}
+{"episode_id": 450, "segment_index": 551, "start": 2479.17, "end": 2482.17, "text": "Men bare fem dager etter at denne garantien ble utstett fra hotene,"}
+{"episode_id": 450, "segment_index": 552, "start": 2482.17, "end": 2487.17, "text": "så var det et kinesisk farteig som de trofette av misiler netop fra hjemmen."}
+{"episode_id": 450, "segment_index": 553, "start": 2487.17, "end": 2489.17, "text": "Den garantien var ikke så mye, vekk likevel."}
+{"episode_id": 450, "segment_index": 554, "start": 2489.17, "end": 2492.17, "text": "Så det var ikke så sterkere likevel."}
+{"episode_id": 450, "segment_index": 555, "start": 2492.17, "end": 2495.17, "text": "Vi snakker litt om dette før podcast nå."}
+{"episode_id": 450, "segment_index": 556, "start": 2495.17, "end": 2499.17, "text": "Vi skulle prøve å finne noe god tal på om det var tydelig at"}
+{"episode_id": 450, "segment_index": 557, "start": 2499.17, "end": 2504.17, "text": "kineserne for eksempel seilet fortsatt gjennom røde havet og synskanalen."}
+{"episode_id": 450, "segment_index": 558, "start": 2504.17, "end": 2507.17, "text": "Det visste seg ikke så veldig lett å finne det,"}
+{"episode_id": 450, "segment_index": 559, "start": 2507.17, "end": 2511.17, "text": "men til del ser det ut som det er sånn."}
+{"episode_id": 450, "segment_index": 560, "start": 2511.17, "end": 2517.17, "text": "Og hvis man går rundt og bare observerer den trafikken som er gjennom røde havet og forbi hjemmen i dag,"}
+{"episode_id": 450, "segment_index": 561, "start": 2517.17, "end": 2522.17, "text": "så ser du at samtlig chip som har en sånn,"}
+{"episode_id": 450, "segment_index": 562, "start": 2522.17, "end": 2528.17, "text": "alle chip må ha en AES-varsler som forteller deg hvor du skal og hvor du kommer fra."}
+{"episode_id": 450, "segment_index": 563, "start": 2528.17, "end": 2531.17, "text": "På den kan du egentlig skrive hva du vil."}
+{"episode_id": 450, "segment_index": 564, "start": 2531.17, "end": 2536.17, "text": "På den pleier du å stå kinesisk chip, kinesisk crew, armed guards onboard,"}
+{"episode_id": 450, "segment_index": 565, "start": 2536.17, "end": 2545.17, "text": "not Israel linked og alt mulig rart for å prøve å skjermes seg for den trusselen som er fra hjemmen og hudtiene."}
+{"episode_id": 450, "segment_index": 566, "start": 2545.17, "end": 2548.17, "text": "Men det er veldig forskjellig på de olika shippingsegmentene,"}
+{"episode_id": 450, "segment_index": 567, "start": 2548.17, "end": 2552.17, "text": "det er et fattig hvilke som har blitt rammet og det går fortsatt masse bulkship og tankship gjennom"}
+{"episode_id": 450, "segment_index": 568, "start": 2552.17, "end": 2555.17, "text": "det havet og gjennom suvis kanalen."}
+{"episode_id": 450, "segment_index": 569, "start": 2555.17, "end": 2563.17, "text": "Og senest i går så var det et bulkship som sank, så det er fortsatt mye rolig heter."}
+{"episode_id": 450, "segment_index": 570, "start": 2563.17, "end": 2568.17, "text": "Så det er interessant at du nevner om hudtiene av deres affliering eller hva vi kan kalle det,"}
+{"episode_id": 450, "segment_index": 571, "start": 2568.17, "end": 2570.17, "text": "til Hamas."}
+{"episode_id": 450, "segment_index": 572, "start": 2570.17, "end": 2579.17, "text": "Fordi noe begynte å komme litt headline som at krigen, at det skulle være en peace treaty,"}
+{"episode_id": 450, "segment_index": 573, "start": 2579.17, "end": 2581.17, "text": "men det er jo en oppenvill."}
+{"episode_id": 450, "segment_index": 574, "start": 2581.17, "end": 2586.17, "text": "Og da har jeg spørgsmålet om hva vi har å si."}
+{"episode_id": 450, "segment_index": 575, "start": 2586.17, "end": 2589.17, "text": "Vil hudtiene da innet rettes av Gize?"}
+{"episode_id": 450, "segment_index": 576, "start": 2589.17, "end": 2590.17, "text": "Det tror du det."}
+{"episode_id": 450, "segment_index": 577, "start": 2590.17, "end": 2596.17, "text": "Men det med unmittelbare AXE-kusreaksjonen var jo å sende shippingaksene ned?"}
+{"episode_id": 450, "segment_index": 578, "start": 2596.17, "end": 2602.17, "text": "Ja, ja veldig mye. Så heller market følger og inntryk på dette."}
+{"episode_id": 450, "segment_index": 579, "start": 2602.17, "end": 2607.17, "text": "Men vi har diskuteret dette veldig mye, liksom etter at dette begynte å skje."}
+{"episode_id": 450, "segment_index": 580, "start": 2607.17, "end": 2614.17, "text": "Og jeg har fått en forståelse i større grad av at det er ikke så svart på vitt som at hvis Hamas får fred,"}
+{"episode_id": 450, "segment_index": 581, "start": 2614.17, "end": 2617.17, "text": "så er hudtid Trusseln over."}
+{"episode_id": 450, "segment_index": 582, "start": 2617.17, "end": 2622.17, "text": "Altså det har vært angrep i rødehavet lenge før denne konflikten skalerte på glasa."}
+{"episode_id": 450, "segment_index": 583, "start": 2622.17, "end": 2625.17, "text": "Så har vi spørsmålet der, la siden bli fred i morgen da."}
+{"episode_id": 450, "segment_index": 584, "start": 2625.17, "end": 2627.17, "text": "Hva gjør hudtiene?"}
+{"episode_id": 450, "segment_index": 585, "start": 2627.17, "end": 2629.17, "text": "Det er veldig, veldig god spørsmål."}
+{"episode_id": 450, "segment_index": 586, "start": 2629.17, "end": 2635.17, "text": "Det som er helt tydelig er at fotiene er klart å markere seg på de politiske karte i denne regionen,"}
+{"episode_id": 450, "segment_index": 587, "start": 2635.17, "end": 2637.17, "text": "gjennom disse angrepene."}
+{"episode_id": 450, "segment_index": 588, "start": 2637.17, "end": 2643.17, "text": "Og til tross for relativt intense amerikanske fransk og brittiske motangrep mot hudtipositionen i regjemen,"}
+{"episode_id": 450, "segment_index": 589, "start": 2643.17, "end": 2648.17, "text": "så har man ikke klart å virkelig ødelegge hodtiene's kapasiteter."}
+{"episode_id": 450, "segment_index": 590, "start": 2648.17, "end": 2652.17, "text": "Så dette er jo på en måte en kilder til en slags, hva skal man kalle det?"}
+{"episode_id": 450, "segment_index": 591, "start": 2652.17, "end": 2659.17, "text": "Stoltet da som en aktør som man virkelig må regne med i denne regionen."}
+{"episode_id": 450, "segment_index": 592, "start": 2659.17, "end": 2661.17, "text": "Og uten denne sagt er det øyeblikk."}
+{"episode_id": 450, "segment_index": 593, "start": 2661.17, "end": 2668.17, "text": "Det øyeblikk Israel trekker seg ut av gasa, så vil disse angrepene opphøre."}
+{"episode_id": 450, "segment_index": 594, "start": 2668.17, "end": 2676.17, "text": "Men det er ingen garanti for at det ikke kommer nye elementer som kan tenke som motiverer hodtiene til fortsatt angrep,"}
+{"episode_id": 450, "segment_index": 595, "start": 2676.17, "end": 2683.17, "text": "fordi de viser jo virkelig hvilken effekt vi har med relativt begrænse de midler og kapasiteter."}
+{"episode_id": 450, "segment_index": 596, "start": 2683.17, "end": 2689.17, "text": "Selv om det skal si at hodtiene virkelig besitter ganske torge kapasiteter, det er helt klart."}
+{"episode_id": 450, "segment_index": 597, "start": 2689.17, "end": 2695.17, "text": "De har ikke nødvendigvis mistet så mye motivasjon til å holde dette igår, han?"}
+{"episode_id": 450, "segment_index": 598, "start": 2695.17, "end": 2697.17, "text": "Nei, det virker jo absolutt ikke slik."}
+{"episode_id": 450, "segment_index": 599, "start": 2697.17, "end": 2702.17, "text": "Man visker at Jemen er et land som er et i filler av en borgerkrig,"}
+{"episode_id": 450, "segment_index": 600, "start": 2702.17, "end": 2707.17, "text": "som i lange perioder har vært en saudisk ganske brutale okkubasjon,"}
+{"episode_id": 450, "segment_index": 601, "start": 2707.17, "end": 2711.17, "text": "og ganske brutale okkubasjon fra de forhjentet arabiske emirater."}
+{"episode_id": 450, "segment_index": 602, "start": 2711.17, "end": 2716.17, "text": "Saudi og de forhjentet arabiske emirater sto på samme side i denne borgerkrigene Jemen,"}
+{"episode_id": 450, "segment_index": 603, "start": 2716.17, "end": 2725.17, "text": "men mye til å støtte litt ulike krefter intern til Jemen som rikt nok alle er i opposisjon til hodtiene."}
+{"episode_id": 450, "segment_index": 604, "start": 2725.17, "end": 2730.17, "text": "Så det som har vært effekten av dette saudiske og det miratiske eventyret i Jemen,"}
+{"episode_id": 450, "segment_index": 605, "start": 2730.17, "end": 2734.17, "text": "det er en virkelig totalt kaos på bakken,"}
+{"episode_id": 450, "segment_index": 606, "start": 2734.17, "end": 2738.17, "text": "og hvor hotene er en sterkere naktør enn sine motsandret,"}
+{"episode_id": 450, "segment_index": 607, "start": 2738.17, "end": 2742.17, "text": "men som fremdeler støttes av Saudi og emiratene."}
+{"episode_id": 450, "segment_index": 608, "start": 2742.17, "end": 2748.17, "text": "Det innebarer at hotene har nok ganske mange bevegrunner internt for å oppføre seg som vi gjør."}
+{"episode_id": 450, "segment_index": 609, "start": 2748.17, "end": 2754.17, "text": "Dette er et maktspill mot andre krefter, og det er også en påminnelse til både Saudi Arabia og emiratene,"}
+{"episode_id": 450, "segment_index": 610, "start": 2754.17, "end": 2758.17, "text": "om at de bør se å holde seg unna i Jemenittiske jord."}
+{"episode_id": 450, "segment_index": 611, "start": 2758.17, "end": 2762.17, "text": "Og så er det også veldig spennende å legge merke til disse bonnet mellom emiratene og Israel,"}
+{"episode_id": 450, "segment_index": 612, "start": 2762.17, "end": 2766.17, "text": "som frunneres er oppretalt i tross forhold som skjer på Gaza."}
+{"episode_id": 450, "segment_index": 613, "start": 2766.17, "end": 2770.17, "text": "Dette er også noe hotene bruker i retorikken."}
+{"episode_id": 450, "segment_index": 614, "start": 2770.17, "end": 2777.17, "text": "I sin eksempelvis for å på en måte svekke omdømme til disse andre eksternes aktørene"}
+{"episode_id": 450, "segment_index": 615, "start": 2777.17, "end": 2782.17, "text": "som frunneres påvirker begynneresgang i Jemen nå."}
+{"episode_id": 450, "segment_index": 616, "start": 2782.17, "end": 2784.17, "text": "Jeg gi meg ikke helt å gjøre, Jürgen."}
+{"episode_id": 450, "segment_index": 617, "start": 2784.17, "end": 2788.17, "text": "Marker de virkelig å være på den foten at en våpen vil,"}
+{"episode_id": 450, "segment_index": 618, "start": 2788.17, "end": 2793.17, "text": "det vil være starten på at redanene kan begynne å seile synskanalen igjen?"}
+{"episode_id": 450, "segment_index": 619, "start": 2793.17, "end": 2795.17, "text": "Hvertfall til dels."}
+{"episode_id": 450, "segment_index": 620, "start": 2795.17, "end": 2799.17, "text": "Det sekunderet blir våpen vil på Gaza,"}
+{"episode_id": 450, "segment_index": 621, "start": 2799.17, "end": 2805.17, "text": "så anledningen for at det kan utspille seg en nedskalering av situasjonen i rødeave,"}
+{"episode_id": 450, "segment_index": 622, "start": 2805.17, "end": 2807.17, "text": "den blir veldig mye større."}
+{"episode_id": 450, "segment_index": 623, "start": 2807.17, "end": 2810.17, "text": "Så det skal man jo prise inn, så det er jeg helt riktig."}
+{"episode_id": 450, "segment_index": 624, "start": 2810.17, "end": 2815.17, "text": "Men det er likevel ikke så klart for meg at den utvendigvis er noe like et stegn,"}
+{"episode_id": 450, "segment_index": 625, "start": 2815.17, "end": 2820.17, "text": "men det er noe like et stegn, da, mellom fred eller våpen vil i Gaza,"}
+{"episode_id": 450, "segment_index": 626, "start": 2820.17, "end": 2823.17, "text": "og houternes oppførsjul."}
+{"episode_id": 450, "segment_index": 627, "start": 2823.17, "end": 2828.17, "text": "Hvis du sitter og er sjøfen i masj eller et virke som helst,"}
+{"episode_id": 450, "segment_index": 628, "start": 2828.17, "end": 2833.17, "text": "stort rederi, så vil du være ganske sikke på"}
+{"episode_id": 450, "segment_index": 629, "start": 2833.17, "end": 2837.17, "text": "at det er trygt å seile gjennom der før du begynner å gjennoppe"}
+{"episode_id": 450, "segment_index": 630, "start": 2837.17, "end": 2839.17, "text": "for mye av den ruten?"}
+{"episode_id": 450, "segment_index": 631, "start": 2839.17, "end": 2844.17, "text": "Ja, det tror jeg er definitivt, så det er ikke noe som har kjedd gjennhåndvendningen."}
+{"episode_id": 450, "segment_index": 632, "start": 2844.17, "end": 2846.17, "text": "Og nå har jeg på en måte nye handelsmønster,"}
+{"episode_id": 450, "segment_index": 633, "start": 2846.17, "end": 2848.17, "text": "og litt befestet seg, ikke sant?"}
+{"episode_id": 450, "segment_index": 634, "start": 2848.17, "end": 2850.17, "text": "Og det er jo en kostnad i det jeg skulle live opp det,"}
+{"episode_id": 450, "segment_index": 635, "start": 2850.17, "end": 2852.17, "text": "og reattablere handel gjennom det uansett,"}
+{"episode_id": 450, "segment_index": 636, "start": 2852.17, "end": 2854.17, "text": "og så plutselig så var det ikke så trygt likevel."}
+{"episode_id": 450, "segment_index": 637, "start": 2854.17, "end": 2856.17, "text": "Så det tar nok litt tid."}
+{"episode_id": 450, "segment_index": 638, "start": 2856.17, "end": 2858.17, "text": "Men poenget er at market må i byde en pris inn,"}
+{"episode_id": 450, "segment_index": 639, "start": 2858.17, "end": 2860.17, "text": "det som skal skje de seks måneder frem i tid,"}
+{"episode_id": 450, "segment_index": 640, "start": 2860.17, "end": 2864.17, "text": "på en måte hvis det er et mer pleisibelt utfall."}
+{"episode_id": 450, "segment_index": 641, "start": 2864.17, "end": 2866.17, "text": "Men du blir jo sikkert spurt om,"}
+{"episode_id": 450, "segment_index": 642, "start": 2866.17, "end": 2868.17, "text": "hva tenker du om 2025,"}
+{"episode_id": 450, "segment_index": 643, "start": 2868.17, "end": 2869.17, "text": "og hva vi ser da,"}
+{"episode_id": 450, "segment_index": 644, "start": 2869.17, "end": 2871.17, "text": "og du legger inn etter hantigestimatene din,"}
+{"episode_id": 450, "segment_index": 645, "start": 2871.17, "end": 2873.17, "text": "og hva legger du til grunnen da,"}
+{"episode_id": 450, "segment_index": 646, "start": 2873.17, "end": 2875.17, "text": "at det gjennopterer så mye i seilingens huskanalen,"}
+{"episode_id": 450, "segment_index": 647, "start": 2875.17, "end": 2876.17, "text": "eller ikke?"}
+{"episode_id": 450, "segment_index": 648, "start": 2876.17, "end": 2879.17, "text": "Det er det som er utrolig binært,"}
+{"episode_id": 450, "segment_index": 649, "start": 2879.17, "end": 2882.17, "text": "og veldig vanskelig å vite,"}
+{"episode_id": 450, "segment_index": 650, "start": 2882.17, "end": 2883.17, "text": "når det er rett før du sa det,"}
+{"episode_id": 450, "segment_index": 651, "start": 2883.17, "end": 2885.17, "text": "så skulle jeg snurre meg til å være uten spørre om det samme."}
+{"episode_id": 450, "segment_index": 652, "start": 2885.17, "end": 2889.17, "text": "Hvor lang tid tror du det tar for å det blir bedre?"}
+{"episode_id": 450, "segment_index": 653, "start": 2889.17, "end": 2891.17, "text": "Det er jo naturlig å tenke seg på tidspunktet"}
+{"episode_id": 450, "segment_index": 654, "start": 2891.17, "end": 2893.17, "text": "at det blir en slags normalisering."}
+{"episode_id": 450, "segment_index": 655, "start": 2893.17, "end": 2895.17, "text": "Sånn, på sånn så situasjonen ser ut nå,"}
+{"episode_id": 450, "segment_index": 656, "start": 2895.17, "end": 2898.17, "text": "så ser jeg ikke veldig lyst ut for at det her"}
+{"episode_id": 450, "segment_index": 657, "start": 2898.17, "end": 2900.17, "text": "skal bedre seg løp av år i år."}
+{"episode_id": 450, "segment_index": 658, "start": 2900.17, "end": 2903.17, "text": "Nei, og så er det slik at du har bare to ting."}
+{"episode_id": 450, "segment_index": 659, "start": 2903.17, "end": 2907.17, "text": "Det ene er hvilken vekt skal man tillegge garantier"}
+{"episode_id": 450, "segment_index": 660, "start": 2907.17, "end": 2911.17, "text": "som iser ikke statlige aktører av denne typen."}
+{"episode_id": 450, "segment_index": 661, "start": 2911.17, "end": 2913.17, "text": "Det er lurer jeg for."}
+{"episode_id": 450, "segment_index": 662, "start": 2913.17, "end": 2915.17, "text": "Men det andre er også at det er grunn til å følge med"}
+{"episode_id": 450, "segment_index": 663, "start": 2915.17, "end": 2918.17, "text": "hva som skjer mellom Israel og Lebanon,"}
+{"episode_id": 450, "segment_index": 664, "start": 2918.17, "end": 2920.17, "text": "og da Israel og Spolla, spesielt."}
+{"episode_id": 450, "segment_index": 665, "start": 2920.17, "end": 2923.17, "text": "Hotene er i alle jansen med libanesiske Spolla,"}
+{"episode_id": 450, "segment_index": 666, "start": 2923.17, "end": 2927.17, "text": "som nå befinner seg i en stadig mer skalallerende situasjon med Israel."}
+{"episode_id": 450, "segment_index": 667, "start": 2927.17, "end": 2934.17, "text": "Israel sier at vi ser på Spolla som en ganske stor sikkerhetsrusjel mot Israel."}
+{"episode_id": 450, "segment_index": 668, "start": 2934.17, "end": 2938.39, "text": "Det er gjennom bare at selvom ting skulle rosende på gasastrippen,"}
+{"episode_id": 450, "segment_index": 669, "start": 2938.39, "end": 2943.39, "text": "så kan det fort dra seg til på grønnsen mellom Israel og Lebanon,"}
+{"episode_id": 450, "segment_index": 670, "start": 2943.39, "end": 2945.39, "text": "og hvordan kommer hotene til å reagere på det,"}
+{"episode_id": 450, "segment_index": 671, "start": 2945.39, "end": 2951.39, "text": "når det er gjennom deres regionala allerte utsettels for tungt iserereiske skitt."}
+{"episode_id": 450, "segment_index": 672, "start": 2951.39, "end": 2953.39, "text": "Hvordan er den situasjonen i dag,"}
+{"episode_id": 450, "segment_index": 673, "start": 2953.39, "end": 2955.39, "text": "mellom også på den nord-udre grønnsen?"}
+{"episode_id": 450, "segment_index": 674, "start": 2955.39, "end": 2966.39, "text": "De siste årene har vært preget av sykluser med rask skalering og rask de-skalering mellom Israel og Spolla."}
+{"episode_id": 450, "segment_index": 675, "start": 2966.39, "end": 2970.39, "text": "Men siden kriget mørte ut på gasa i oktober i fjord,"}
+{"episode_id": 450, "segment_index": 676, "start": 2970.39, "end": 2975.39, "text": "så har Israel og Spolla utvekslet skitt mot hverandre,"}
+{"episode_id": 450, "segment_index": 677, "start": 2975.39, "end": 2979.39, "text": "omtrent daglig, og stadig litt mer skalallerende."}
+{"episode_id": 450, "segment_index": 678, "start": 2979.39, "end": 2983.39, "text": "Det er stadig flere områder som treffer av skitts fra begge sider."}
+{"episode_id": 450, "segment_index": 679, "start": 2983.39, "end": 2988.39, "text": "Nå sier israeliske minøter at de har i farmen å streke opp en operasjonsplan"}
+{"episode_id": 450, "segment_index": 680, "start": 2988.39, "end": 2993.39, "text": "for hvordan de skal ta fjernet denne trusjen fra Spolla en annen forholde."}
+{"episode_id": 450, "segment_index": 681, "start": 2993.39, "end": 2998.39, "text": "Det mener jeg er dramatisk, og det kan ha ganske store regionale ringverkninger."}
+{"episode_id": 450, "segment_index": 682, "start": 2998.39, "end": 3003.39, "text": "Hvordan er det bare sånn veldig basalt og enkelt som mulig,"}
+{"episode_id": 450, "segment_index": 683, "start": 3003.39, "end": 3009.39, "text": "men hvordan er forholdet mellom Hamas, hittspollet og hotene?"}
+{"episode_id": 450, "segment_index": 684, "start": 3009.39, "end": 3014.39, "text": "Hvem er det som egentlig støttet hvem, og hvilke delte tanker og planer de har?"}
+{"episode_id": 450, "segment_index": 685, "start": 3014.39, "end": 3019.39, "text": "Ja, det er et veldig godt spørsmål for det kan man svare på så mange planer."}
+{"episode_id": 450, "segment_index": 686, "start": 3019.39, "end": 3025.39, "text": "Hamas har strengt tatt, hvis man ser på en politisk religiøse model,"}
+{"episode_id": 450, "segment_index": 687, "start": 3025.39, "end": 3028.39, "text": "så har de strengt tatt ikke så mye i Spolla å gjøre."}
+{"episode_id": 450, "segment_index": 688, "start": 3028.39, "end": 3032.39, "text": "Men begge deler, både Hamas og Spolla og hotene,"}
+{"episode_id": 450, "segment_index": 689, "start": 3032.39, "end": 3037.39, "text": "for den som skil, ingår i det som er ble døbbet en iranskledede motstandsaksen,"}
+{"episode_id": 450, "segment_index": 690, "start": 3037.39, "end": 3044.39, "text": "som dreier som en typen motstand mot spesielt amerikansk støttede krefter i denne regionen og israel."}
+{"episode_id": 450, "segment_index": 691, "start": 3044.39, "end": 3052.39, "text": "Så jeg har trant med at et felles fiendebilde har noe å følge til en litt mer sammensveisets front,"}
+{"episode_id": 450, "segment_index": 692, "start": 3052.39, "end": 3056.39, "text": "sånn strekker seg gjennom regionen på denne måten."}
+{"episode_id": 450, "segment_index": 693, "start": 3056.39, "end": 3062.39, "text": "Og det er også fordi Iran ser på den slags type krefter som en forlengig del av sitt forsvar"}
+{"episode_id": 450, "segment_index": 694, "start": 3062.39, "end": 3065.39, "text": "og sitt sin avskrekkende kapasitet."}
+{"episode_id": 450, "segment_index": 695, "start": 3065.39, "end": 3070.39, "text": "Og da begynner vi å ramle ut i mitt vestens ganske..."}
+{"episode_id": 450, "segment_index": 696, "start": 3070.39, "end": 3076.39, "text": "Ja, da har vi en annen stor pågående konflikt som vi heller ikke kommer uten ham."}
+{"episode_id": 450, "segment_index": 697, "start": 3076.39, "end": 3081.39, "text": "Hvordan påvirker Ruslan Ukraina sipping nå i dag?"}
+{"episode_id": 450, "segment_index": 698, "start": 3081.39, "end": 3090.39, "text": "Det var en stor omstilling som kom på plass i et kant av krigsutbrevde Ukraina."}
+{"episode_id": 450, "segment_index": 699, "start": 3091.39, "end": 3097.39, "text": "Behovet saklig rundt etter mennergi, siden mye gasleveranser inn til Europa,"}
+{"episode_id": 450, "segment_index": 700, "start": 3097.39, "end": 3101.39, "text": "man måtte finne en annen løsning på, så import gjennom LNG,"}
+{"episode_id": 450, "segment_index": 701, "start": 3101.39, "end": 3108.39, "text": "og bygge ut importmuligheter og havner og fastigheteter for å ta imot LNG inn til Europa."}
+{"episode_id": 450, "segment_index": 702, "start": 3108.39, "end": 3114.39, "text": "Så var det et veldig stort skifte samtidig så har det kommet en del av disse embar-gone"}
+{"episode_id": 450, "segment_index": 703, "start": 3114.39, "end": 3118.39, "text": "på russiske olje og russiske oljeprodukter,"}
+{"episode_id": 450, "segment_index": 704, "start": 3118.39, "end": 3124.39, "text": "som gjør at handelen har blitt stockt om og er mye mer ineffektiv i dag enn den har vært før."}
+{"episode_id": 450, "segment_index": 705, "start": 3124.39, "end": 3130.39, "text": "Så det selv har jo tilført en betydlig etterspørsel etter flere skip da,"}
+{"episode_id": 450, "segment_index": 706, "start": 3130.39, "end": 3134.39, "text": "fordi volume generelt sett måsai litt lenger."}
+{"episode_id": 450, "segment_index": 707, "start": 3134.39, "end": 3138.39, "text": "Så det er, jeg vil si, hovedsartlig på tank og på gas,"}
+{"episode_id": 450, "segment_index": 708, "start": 3138.39, "end": 3144.39, "text": "så er det de to sektorer hvor det har vært mest avgjørende."}
+{"episode_id": 450, "segment_index": 709, "start": 3144.39, "end": 3150.39, "text": "Og så lenge det fortsetter, så ser det ikke ut som det er noe som det er en vild bar løsning på det,"}
+{"episode_id": 450, "segment_index": 710, "start": 3150.39, "end": 3155.39, "text": "men korrigerer meg herne, så er det blitt på settevis en ny normalen for skipping."}
+{"episode_id": 450, "segment_index": 711, "start": 3155.39, "end": 3160.39, "text": "Men det er åpenbart et av de store risiko-momentene hvis det skulle skje noe i Ukraina,"}
+{"episode_id": 450, "segment_index": 712, "start": 3160.39, "end": 3166.39, "text": "som gjør at man kan deeskalere den konflikten og dermed å gjennomta handel med russland på et ispunkt,"}
+{"episode_id": 450, "segment_index": 713, "start": 3166.39, "end": 3172.39, "text": "som jeg antar jo være et av de forandringskortene vestene egentlig har for å få noe gjennomslag der, kanskje."}
+{"episode_id": 450, "segment_index": 714, "start": 3172.39, "end": 3178.39, "text": "Så vil det kunne reversere en del av de kaldte positive effektene på shippingbalansen som kom i et kant."}
+{"episode_id": 450, "segment_index": 715, "start": 3178.39, "end": 3185.39, "text": "Men det sværere er jo din, så ligger det jo ikke så mye kortene som tyder på en løsning med det første."}
+{"episode_id": 450, "segment_index": 716, "start": 3185.39, "end": 3187.39, "text": "Hva gjelder russland og Ukraina?"}
+{"episode_id": 450, "segment_index": 717, "start": 3187.39, "end": 3189.39, "text": "Nå er det siss av det vi absolutt ikke."}
+{"episode_id": 450, "segment_index": 718, "start": 3189.39, "end": 3196.39, "text": "En tvartig mot så synes jeg det er jo tydelig en slags situasjon som fregels av det man på forsvarsk"}
+{"episode_id": 450, "segment_index": 719, "start": 3196.39, "end": 3203.39, "text": "som det kalles et mission creep hvor vestelige interesser trekkes gradvis nærmere ukrainske territorium."}
+{"episode_id": 450, "segment_index": 720, "start": 3203.39, "end": 3207.39, "text": "Da snakker vi for eksempel om nye leveranser av tungivåpen."}
+{"episode_id": 450, "segment_index": 721, "start": 3207.39, "end": 3213.39, "text": "Vi snakker også om en typ av flytting av grenser for hvordan Ukraina er tilåte så bruker disse våpen."}
+{"episode_id": 450, "segment_index": 722, "start": 3213.39, "end": 3222.39, "text": "Og vi snakker også om åpensnakk om å ha en typ av vestelige militære instruktører på bakken og en slags."}
+{"episode_id": 450, "segment_index": 723, "start": 3222.39, "end": 3231.39, "text": "Jeg vil jo ikke si at det er noe som virker som noe som tilsier at denne situasjonen kommer til å rove seg på veldig veldig lang tid."}
+{"episode_id": 450, "segment_index": 724, "start": 3231.39, "end": 3237.62, "text": "Når det gjelder nordøstpassasjen så er China interesser."}
+{"episode_id": 450, "segment_index": 725, "start": 3237.62, "end": 3238.62, "text": "Er det ikke det?"}
+{"episode_id": 450, "segment_index": 726, "start": 3238.62, "end": 3243.62, "text": "Der er det røkende trafik på din LNG og kontainer. Er det riktig?"}
+{"episode_id": 450, "segment_index": 727, "start": 3243.62, "end": 3248.62, "text": "Det er et veldig spennende tema."}
+{"episode_id": 450, "segment_index": 728, "start": 3248.62, "end": 3253.62, "text": "Det kan vi også se opp mot disse strategiske havområdne som vi snakket om for litt siden."}
+{"episode_id": 450, "segment_index": 729, "start": 3253.62, "end": 3258.62, "text": "Det at China definerer seg som en nærarktisk stat."}
+{"episode_id": 450, "segment_index": 730, "start": 3258.62, "end": 3265.62, "text": "Når østpassasjen er den som går over Rusland fra Asia inn til Europa."}
+{"episode_id": 450, "segment_index": 731, "start": 3265.62, "end": 3270.62, "text": "Den åpener seg fordi globen er blitt varmere og isen smelter."}
+{"episode_id": 450, "segment_index": 732, "start": 3270.62, "end": 3275.62, "text": "Vi smelt litt så på at vi har kjipsvart gjennom."}
+{"episode_id": 450, "segment_index": 733, "start": 3275.62, "end": 3284.62, "text": "Vi har vært i selv året og gjerne med isbryter i forkant som rydde ban for kommersiell dyftarskip."}
+{"episode_id": 450, "segment_index": 734, "start": 3284.62, "end": 3292.62, "text": "En uansett point i dette er at dette er en kilde til gnistning."}
+{"episode_id": 450, "segment_index": 735, "start": 3292.62, "end": 3295.62, "text": "Vesten ser på dette med litt skeptisk."}
+{"episode_id": 450, "segment_index": 736, "start": 3295.62, "end": 3302.62, "text": "Jeg har også lyset det som beskriver et mye tettere forhold mellom China og Rusland."}
+{"episode_id": 450, "segment_index": 737, "start": 3302.62, "end": 3306.62, "text": "Etterkant av bruddet mellom Rusland og Vesten."}
+{"episode_id": 450, "segment_index": 738, "start": 3306.62, "end": 3309.62, "text": "Det er tiltagende bruddet mellom China og Vesten."}
+{"episode_id": 450, "segment_index": 739, "start": 3309.62, "end": 3316.62, "text": "Det er klart at det er en riktig strøk som både en isbryt passage for handel,"}
+{"episode_id": 450, "segment_index": 740, "start": 3316.62, "end": 3321.62, "text": "men også knyttet til de veldig omfattende naturresursene i Arktis,"}
+{"episode_id": 450, "segment_index": 741, "start": 3321.62, "end": 3324.62, "text": "og det er en tegisk betydning for veldig mange."}
+{"episode_id": 450, "segment_index": 742, "start": 3324.62, "end": 3330.62, "text": "Norske farvan i Arktis er på mange måter Ruslands ingangsport til at landet er avve."}
+{"episode_id": 450, "segment_index": 743, "start": 3330.62, "end": 3340.62, "text": "For å proskisere makt for den nordflåten."}
+{"episode_id": 450, "segment_index": 744, "start": 3340.62, "end": 3345.62, "text": "Vi ser at en del kinesiske aktører har vært interessert å etableres i Arktis"}
+{"episode_id": 450, "segment_index": 745, "start": 3345.62, "end": 3348.62, "text": "som kommersielle aktører, kanskje børst og frømst."}
+{"episode_id": 450, "segment_index": 746, "start": 3348.62, "end": 3352.62, "text": "Kosko, dette store, store, kinesiske redderiet,"}
+{"episode_id": 450, "segment_index": 747, "start": 3352.62, "end": 3356.62, "text": "som har tånkt til noe hvert enn høvneoperasjoner,"}
+{"episode_id": 450, "segment_index": 748, "start": 3356.62, "end": 3362.62, "text": "er et av de kinesiske selskapene som har utbekt Arktis og den nordstpassasjen"}
+{"episode_id": 450, "segment_index": 749, "start": 3362.62, "end": 3365.62, "text": "som en attraktiv seilingsrute."}
+{"episode_id": 450, "segment_index": 750, "start": 3365.62, "end": 3370.62, "text": "For mye kortere er det i forhold til å seile gjennom suves eller rundt Afrika."}
+{"episode_id": 450, "segment_index": 751, "start": 3370.62, "end": 3372.62, "text": "Ja, det må Jürgens forhold på."}
+{"episode_id": 450, "segment_index": 752, "start": 3372.62, "end": 3374.62, "text": "Ja, da var det jeg skulle se kilt før jeg kom her,"}
+{"episode_id": 450, "segment_index": 753, "start": 3374.62, "end": 3376.62, "text": "men jeg lurer på om det er en tredje del av en eller noe sant?"}
+{"episode_id": 450, "segment_index": 754, "start": 3376.62, "end": 3377.62, "text": "En tredje del av en?"}
+{"episode_id": 450, "segment_index": 755, "start": 3377.62, "end": 3378.62, "text": "Ja, noe sant, cirka."}
+{"episode_id": 450, "segment_index": 756, "start": 3378.62, "end": 3379.62, "text": "Nei."}
+{"episode_id": 450, "segment_index": 757, "start": 3379.62, "end": 3380.62, "text": "Så du sparer utrolig mye tid."}
+{"episode_id": 450, "segment_index": 758, "start": 3380.62, "end": 3385.62, "text": "Og det vi har sett da, etter at Rusland ble boykottet"}
+{"episode_id": 450, "segment_index": 759, "start": 3385.62, "end": 3390.62, "text": "i etkant av krigene i Ukraina, så har du sett at de har tatt chansen på å sende"}
+{"episode_id": 450, "segment_index": 760, "start": 3390.62, "end": 3392.62, "text": "noen ikke isklasseskip."}
+{"episode_id": 450, "segment_index": 761, "start": 3392.62, "end": 3395.62, "text": "De kjepene var pleier- og seil så langt nord med."}
+{"episode_id": 450, "segment_index": 762, "start": 3395.62, "end": 3398.62, "text": "De pleier å ha en spesiell forstærkning i kjipe"}
+{"episode_id": 450, "segment_index": 763, "start": 3398.62, "end": 3402.62, "text": "sånn at de ikke skal ta noe skade av den isen som potensielt ligger der."}
+{"episode_id": 450, "segment_index": 764, "start": 3402.62, "end": 3404.62, "text": "Og derfor har det vært veldig strengt regulert."}
+{"episode_id": 450, "segment_index": 765, "start": 3404.62, "end": 3409.62, "text": "Men etter at konflikten i Ukraina tok seg opp,"}
+{"episode_id": 450, "segment_index": 766, "start": 3409.62, "end": 3413.62, "text": "så har du sett at nettopp for å spare tid da"}
+{"episode_id": 450, "segment_index": 767, "start": 3413.62, "end": 3417.62, "text": "å kunne utnyte chip-inkapasiteten sin bedre, så har Rusland vært fristet"}
+{"episode_id": 450, "segment_index": 768, "start": 3417.62, "end": 3420.62, "text": "til å sende chip som egentlig ikke skal seile der,"}
+{"episode_id": 450, "segment_index": 769, "start": 3420.62, "end": 3425.62, "text": "for å kortende veien til Sina, derfor eksporterert mer av det de allyseste eksporterer."}
+{"episode_id": 450, "segment_index": 770, "start": 3425.62, "end": 3429.62, "text": "Så det er jo en uhelig fölge av alt det andre vi driver med av saksjoner,"}
+{"episode_id": 450, "segment_index": 771, "start": 3429.62, "end": 3434.62, "text": "da tyr de til den typen løsninger som kan være ganske fatale."}
+{"episode_id": 450, "segment_index": 772, "start": 3434.62, "end": 3440.62, "text": "Og så har du oppruttet også joint ventures mellom russiske og kinesiske aktører"}
+{"episode_id": 450, "segment_index": 773, "start": 3440.62, "end": 3445.62, "text": "som skal være engasjert i trafikken enn når det er passasjen og den slags."}
+{"episode_id": 450, "segment_index": 774, "start": 3445.62, "end": 3448.62, "text": "Men det kanskje er litt interessant til det tilfelle,"}
+{"episode_id": 450, "segment_index": 775, "start": 3448.62, "end": 3453.62, "text": "det er at det er ganske vanskelig å påvise eierskapet på kinesiside bak disse aktørene."}
+{"episode_id": 450, "segment_index": 776, "start": 3453.62, "end": 3457.62, "text": "Jeg tror da kanskje Sina er litt opptatt av hvilke blir enstand"}
+{"episode_id": 450, "segment_index": 777, "start": 3457.62, "end": 3464.62, "text": "for veslesekundære sansjoner, grunnet, tettere kommersielle bond til Rusland."}
+{"episode_id": 450, "segment_index": 778, "start": 3464.62, "end": 3468.62, "text": "Så i Sina tror du nok en litt forsiktig balancegang her"}
+{"episode_id": 450, "segment_index": 779, "start": 3468.62, "end": 3475.62, "text": "som også påvirker hvilke grad Sina skal ville til å engasjere seg på dette feltet på russiske side."}
+{"episode_id": 450, "segment_index": 780, "start": 3475.62, "end": 3478.62, "text": "Det er en ganske interessant utvikling, synes jeg."}
+{"episode_id": 450, "segment_index": 781, "start": 3478.62, "end": 3480.62, "text": "Mange ulike aspekter."}
+{"episode_id": 450, "segment_index": 782, "start": 3480.62, "end": 3485.62, "text": "Vi kommer i tid til at vi skal prøve oss på en slags oppsummering derlig."}
+{"episode_id": 450, "segment_index": 783, "start": 3486.65, "end": 3488.65, "text": "Ja, da sier du det."}
+{"episode_id": 450, "segment_index": 784, "start": 3489.65, "end": 3492.65, "text": "Kinas veksmodell er i endring."}
+{"episode_id": 450, "segment_index": 785, "start": 3494.0, "end": 3503.0, "text": "At det skal komme store infrastrukturendringer og at råvariet i spørsen skal ta seg veldig opp enn."}
+{"episode_id": 450, "segment_index": 786, "start": 3503.0, "end": 3512.51, "text": "Det er feil og det kommer til å ligge som en litt tungt baktipp og bl.a. påvirke sine på bulkakser."}
+{"episode_id": 450, "segment_index": 787, "start": 3512.51, "end": 3514.51, "text": "Det er en ting."}
+{"episode_id": 450, "segment_index": 788, "start": 3514.51, "end": 3518.51, "text": "Det er en stor basukan med stimuli som Kelly ofte snakker om."}
+{"episode_id": 450, "segment_index": 789, "start": 3518.51, "end": 3521.51, "text": "Den kommer nok ikke."}
+{"episode_id": 450, "segment_index": 790, "start": 3521.51, "end": 3528.51, "text": "Så lenge du ikke gjør det og du ikke får en miraculøs endring i konsumelokalt"}
+{"episode_id": 450, "segment_index": 791, "start": 3528.51, "end": 3532.51, "text": "som gjør at man klarer å snu om på den trenden som jeg setter til siste,"}
+{"episode_id": 450, "segment_index": 792, "start": 3532.51, "end": 3538.51, "text": "så ser det veldig ganske trist ut i forhold til råvariet på import, Kelly."}
+{"episode_id": 450, "segment_index": 793, "start": 3538.51, "end": 3540.51, "text": "Ja, basukan er for måte å annerledes."}
+{"episode_id": 450, "segment_index": 794, "start": 3540.51, "end": 3548.51, "text": "Det er alt andre. Det er elbiler, det er shipsbygging, det er helt andre ting egentlig."}
+{"episode_id": 450, "segment_index": 795, "start": 3548.51, "end": 3552.51, "text": "Træsikionsvapen, ikke sånn store basuka."}
+{"episode_id": 450, "segment_index": 796, "start": 3552.51, "end": 3557.51, "text": "Men shipping er strategisk viktig for Sina."}
+{"episode_id": 450, "segment_index": 797, "start": 3557.51, "end": 3566.51, "text": "De har et uttalt mål om å øke sitt nærvær i nærsakt alle deler av shipping hver de kjeden."}
+{"episode_id": 450, "segment_index": 798, "start": 3566.51, "end": 3569.51, "text": "Ja, jeg tror det er litt der med at tilbudssiden i Kina,"}
+{"episode_id": 450, "segment_index": 799, "start": 3569.51, "end": 3574.51, "text": "så kapasitetsøkningen der var ikke begrenset i det helt hatt virket i sånn."}
+{"episode_id": 450, "segment_index": 800, "start": 3574.51, "end": 3581.51, "text": "Og det er behov for å ha et ønske fra myndighetene siden å støtte opp under det."}
+{"episode_id": 450, "segment_index": 801, "start": 3581.51, "end": 3586.51, "text": "Og i dette her avdøn er det flere skjæringspunkter."}
+{"episode_id": 450, "segment_index": 802, "start": 3586.51, "end": 3590.51, "text": "Det er ulike interesser mellom, hva skal vi si,"}
+{"episode_id": 450, "segment_index": 803, "start": 3590.51, "end": 3596.51, "text": "vesteren og Kina på en del punkter, kanskje særlig store maktene, USA og Kina."}
+{"episode_id": 450, "segment_index": 804, "start": 3596.51, "end": 3605.18, "text": "Så kommer vi til å se som et resultat av dette økende bruk av sanktioner."}
+{"episode_id": 450, "segment_index": 805, "start": 3605.18, "end": 3609.18, "text": "Enda mer spissigt overbruk."}
+{"episode_id": 450, "segment_index": 806, "start": 3609.18, "end": 3612.18, "text": "Også inn shipping, det virker jo sånn."}
+{"episode_id": 450, "segment_index": 807, "start": 3612.18, "end": 3615.18, "text": "Det har kommet noen små dryppal redde som du er henvisstil."}
+{"episode_id": 450, "segment_index": 808, "start": 3615.18, "end": 3618.18, "text": "Ja, det er sysvopslutt. Og det er overbruken spissigstil."}
+{"episode_id": 450, "segment_index": 809, "start": 3618.18, "end": 3625.18, "text": "Også bare for å ta det i kapslakt, så er det slik at Norske Treffningsensen beskriver i sinne åpne trusselverdering,"}
+{"episode_id": 450, "segment_index": 810, "start": 3625.18, "end": 3632.18, "text": "en tiltagende konflikt mellom demokratiske stater på den ene siden og etoritære stater på den andre siden."}
+{"episode_id": 450, "segment_index": 811, "start": 3632.18, "end": 3637.18, "text": "Og med de etoritære statene, så mener de Kina og Rusland speciellt."}
+{"episode_id": 450, "segment_index": 812, "start": 3637.18, "end": 3646.18, "text": "Sånn tidligst har i Kina veldig integrert i veldig mange valisjeder av strategisk betydning for OSDS-væren,"}
+{"episode_id": 450, "segment_index": 813, "start": 3646.18, "end": 3649.18, "text": "altså for de seg veslige demokratiene som vi snakker om."}
+{"episode_id": 450, "segment_index": 814, "start": 3649.18, "end": 3654.18, "text": "Så nettopp det at man ser en sånn tiltagende konflikt mellom disse to frontene,"}
+{"episode_id": 450, "segment_index": 815, "start": 3654.18, "end": 3660.18, "text": "det gjør også at man begynner å snakke mer og mer om sårbarhetene som dukker opp gjennom denne."}
+{"episode_id": 450, "segment_index": 816, "start": 3660.18, "end": 3664.18, "text": "Altså det er dette innpasset i den slags dype valisjeder."}
+{"episode_id": 450, "segment_index": 817, "start": 3664.18, "end": 3669.18, "text": "Jeg minner meg at det satt som hvis det større stod på tallestolen i Stortinget for en ukesiden i dag,"}
+{"episode_id": 450, "segment_index": 818, "start": 3669.18, "end": 3674.18, "text": "og sa at man må utvise mer forsiktighet i samhandlingen med Kina."}
+{"episode_id": 450, "segment_index": 819, "start": 3674.18, "end": 3682.18, "text": "Det strekker seg nok både over det politiske feltet, men også ikke minst også det kommersielle og mer handelsmessige feltet."}
+{"episode_id": 450, "segment_index": 820, "start": 3682.18, "end": 3690.18, "text": "Fra et gjennomgående tema i fortiden så er det at handelspolitikken og sikkerhetspolitikken i stadig større grad må ses opp mot hverandre."}
+{"episode_id": 450, "segment_index": 821, "start": 3690.18, "end": 3698.18, "text": "Det har en del implikasjoner for hvordan man skal samhandle med den slags dype stater som man ikke har et sikkere sammanlel med."}
+{"episode_id": 450, "segment_index": 822, "start": 3698.18, "end": 3706.31, "text": "Et spørsmål er det som det ikke er mulig å sette to strekker under svar på."}
+{"episode_id": 450, "segment_index": 823, "start": 3706.31, "end": 3714.82, "text": "Det er jo om shipping kommer litt å bli dyrare som følge av flere ting."}
+{"episode_id": 450, "segment_index": 824, "start": 3714.82, "end": 3723.82, "text": "Det blir dyrare å bygge frakte, gjøre disse saksjoner og det globaliseringstingene."}
+{"episode_id": 450, "segment_index": 825, "start": 3723.82, "end": 3728.56, "text": "Kostnaderne ved shipping vil øke det over tid."}
+{"episode_id": 450, "segment_index": 826, "start": 3728.56, "end": 3739.56, "text": "Kommer selvfølgelig an på verftkapasitet, det kommer an på vårt skipende byggis og selvfølgelig vilheten er redan etter å bli stille."}
+{"episode_id": 450, "segment_index": 827, "start": 3739.56, "end": 3743.56, "text": "Men i det korte bilde har kostnaderne for shipping aldri reddøy økt."}
+{"episode_id": 450, "segment_index": 828, "start": 3743.56, "end": 3751.56, "text": "I det alt det som har foregått og alt det som har skjedd har det store inflyksten av nye ordre på skipsverften."}
+{"episode_id": 450, "segment_index": 829, "start": 3751.56, "end": 3757.56, "text": "I et kant av en god intenningsperiode nå en stund har også ført at nye byggspriser går opp."}
+{"episode_id": 450, "segment_index": 830, "start": 3757.56, "end": 3760.56, "text": "Det skal forrentes seg å gjøre investeringen."}
+{"episode_id": 450, "segment_index": 831, "start": 3760.56, "end": 3764.56, "text": "Da må shippingmarknaden reagere på det, eller så kommer det til å tørke opp på nye byggsiden."}
+{"episode_id": 450, "segment_index": 832, "start": 3765.56, "end": 3768.56, "text": "80 siden og siden er det ikke nok skip, så det er en områd."}
+{"episode_id": 450, "segment_index": 833, "start": 3768.56, "end": 3776.56, "text": "Men som du ser i det lengre bilde blir det et større spørsmål om hvordan man agerer med skipsverfskapasiteten."}
+{"episode_id": 450, "segment_index": 834, "start": 3776.56, "end": 3780.56, "text": "Hvor tak fra Kina er at de allerede ligger langt frem i å prøve å reagere på det."}
+{"episode_id": 450, "segment_index": 835, "start": 3780.56, "end": 3782.56, "text": "Derom kommer det mer kapasitet."}
+{"episode_id": 450, "segment_index": 836, "start": 3782.56, "end": 3788.56, "text": "Det betyr strengt at det skal være et pres nedover på prisutviklingen som vi har sett i den siste tiden."}
+{"episode_id": 450, "segment_index": 837, "start": 3788.56, "end": 3790.56, "text": "Du vil få en øk tilbudsside."}
+{"episode_id": 450, "segment_index": 838, "start": 3790.56, "end": 3792.56, "text": "Ja, mest sannsynlig."}
+{"episode_id": 450, "segment_index": 839, "start": 3792.56, "end": 3794.56, "text": "Men så spørste det bare om det motsvare seg ettersprøslen."}
+{"episode_id": 450, "segment_index": 840, "start": 3794.56, "end": 3798.56, "text": "At en del av disse segmentene som enda ikke har bestilt mye skip skal begynne å bestille mye skip."}
+{"episode_id": 450, "segment_index": 841, "start": 3798.56, "end": 3800.56, "text": "Og det kan fortsatt fylle verftene i lang tid."}
+{"episode_id": 450, "segment_index": 842, "start": 3800.56, "end": 3803.56, "text": "Og gjøre at prisen holder seg relativt høye."}
+{"episode_id": 450, "segment_index": 843, "start": 3803.56, "end": 3808.56, "text": "Men til syvende å siste, så pleier de ikke å være veldig lenge at verftene tener veldig gode penger."}
+{"episode_id": 450, "segment_index": 844, "start": 3808.56, "end": 3811.56, "text": "Utan at de bygger et verft for mye."}
+{"episode_id": 450, "segment_index": 845, "start": 3811.56, "end": 3814.56, "text": "Så det er vel et spørsmål om tid."}
+{"episode_id": 450, "segment_index": 846, "start": 3814.56, "end": 3816.56, "text": "Mest sannsynlig før det skjer."}
+{"episode_id": 450, "segment_index": 847, "start": 3816.56, "end": 3820.56, "text": "Har du en veldig bulgitt aldersprofil i floten?"}
+{"episode_id": 450, "segment_index": 848, "start": 3820.56, "end": 3823.56, "text": "Du hadde forget bu med rundt 2008-2010."}
+{"episode_id": 450, "segment_index": 849, "start": 3823.56, "end": 3826.56, "text": "Du bygte fattlig mange skip på kort tid."}
+{"episode_id": 450, "segment_index": 850, "start": 3826.56, "end": 3829.56, "text": "Hele den bulgen med skip kommer du til fornyelse på tidspunkt."}
+{"episode_id": 450, "segment_index": 851, "start": 3829.56, "end": 3832.56, "text": "Så det er et stort flot fornyelse på hov."}
+{"episode_id": 450, "segment_index": 852, "start": 3832.56, "end": 3835.56, "text": "Før det da gjennom avtageriet kan du spørre hvordan vi lander dem."}
+{"episode_id": 450, "segment_index": 853, "start": 3835.56, "end": 3837.56, "text": "Det blir veldig lange briller."}
+{"episode_id": 450, "segment_index": 854, "start": 3837.56, "end": 3842.56, "text": "Ja, og vi har selvfølgelig ikke snakket om skraping."}
+{"episode_id": 450, "segment_index": 855, "start": 3842.56, "end": 3847.56, "text": "Men det er vel generelt at villigheten til å skrape et skip,"}
+{"episode_id": 450, "segment_index": 856, "start": 3847.56, "end": 3850.56, "text": "det sitter ganske langt inne."}
+{"episode_id": 450, "segment_index": 857, "start": 3850.56, "end": 3852.56, "text": "Naturlig nok."}
+{"episode_id": 450, "segment_index": 858, "start": 3852.56, "end": 3855.56, "text": "Og det er jo ting som reguleringer fra myndigheten,"}
+{"episode_id": 450, "segment_index": 859, "start": 3855.56, "end": 3863.56, "text": "og sånn som også vil spille inn på hvor stor grad mange skip blir skrapet til rikket."}
+{"episode_id": 450, "segment_index": 860, "start": 3863.56, "end": 3868.56, "text": "Så særlig, et størt marked som nå når du ser hvor veredsettelsen på veldig mye av disse skipene ligger,"}
+{"episode_id": 450, "segment_index": 861, "start": 3868.56, "end": 3871.56, "text": "så skulle det tyde på at skraping blir minimal."}
+{"episode_id": 450, "segment_index": 862, "start": 3871.56, "end": 3873.56, "text": "Veldig mange steder."}
+{"episode_id": 450, "segment_index": 863, "start": 3873.56, "end": 3876.56, "text": "Men så er det dette med reguleringen som sier, så det er den tredje faktoren som spiller inn,"}
+{"episode_id": 450, "segment_index": 864, "start": 3876.56, "end": 3880.56, "text": "da jeg var vil kostnene for skipping være fremover."}
+{"episode_id": 450, "segment_index": 865, "start": 3880.56, "end": 3884.56, "text": "Det er styrt også fra reguleringens øyemede,"}
+{"episode_id": 450, "segment_index": 866, "start": 3884.56, "end": 3888.56, "text": "hva du skal betale for utslip, et cetera, som nå er økene,"}
+{"episode_id": 450, "segment_index": 867, "start": 3888.56, "end": 3892.56, "text": "så er det lint i Europa, hvor den ETSen blir mer gjelende på skipping."}
+{"episode_id": 450, "segment_index": 868, "start": 3892.56, "end": 3895.56, "text": "Og det vil være noe som også bidrar til at ting blir dyre,"}
+{"episode_id": 450, "segment_index": 869, "start": 3895.56, "end": 3897.56, "text": "og frakt blir dyre."}
+{"episode_id": 450, "segment_index": 870, "start": 3897.56, "end": 3903.56, "text": "Og så er det vi gjør en stor forskjell på den relativt inntjenningspotensiale på et gammelt ineffektivt skip,"}
+{"episode_id": 450, "segment_index": 871, "start": 3903.56, "end": 3909.56, "text": "hver slusset moderne og nytt effektivt skip i stedet."}
+{"episode_id": 450, "segment_index": 872, "start": 3909.56, "end": 3913.56, "text": "Og det vil du kunne på et rann tidspunkt phase ut eldre skip,"}
+{"episode_id": 450, "segment_index": 873, "start": 3913.56, "end": 3916.56, "text": "selv om markedet for den nye skipet er bra, hvis det er i mening."}
+{"episode_id": 450, "segment_index": 874, "start": 3916.56, "end": 3920.56, "text": "Så hvis forskjellen på inntjenning blir tilstreckelig stor ved at myndigheten kommer inn"}
+{"episode_id": 450, "segment_index": 875, "start": 3920.56, "end": 3925.56, "text": "og legger på krav til utgifter og toll og alt mulig,"}
+{"episode_id": 450, "segment_index": 876, "start": 3925.56, "end": 3930.56, "text": "så vil det drives skraping, og dermed gjøre fornydelses på venn da, i en, ikke sant?"}
+{"episode_id": 450, "segment_index": 877, "start": 3930.56, "end": 3936.36, "text": "Så med alt det vi har snakket om nå, da, Jørgen,"}
+{"episode_id": 450, "segment_index": 878, "start": 3936.36, "end": 3942.52, "text": "hvordan vil Sina, geopolitik, det bilde som vi ser i dag,"}
+{"episode_id": 450, "segment_index": 879, "start": 3942.52, "end": 3946.52, "text": "hvordan vil det påvirke skippingaksene i årene som kommer,"}
+{"episode_id": 450, "segment_index": 880, "start": 3946.52, "end": 3949.52, "text": "basert på det du desynet har i dag."}
+{"episode_id": 450, "segment_index": 881, "start": 3949.52, "end": 3952.52, "text": "Vi har lagt bak oss, ikke sant, som innledet med noen fantastisk år,"}
+{"episode_id": 450, "segment_index": 882, "start": 3952.52, "end": 3956.52, "text": "avkastningsmesse for skippingaksene."}
+{"episode_id": 450, "segment_index": 883, "start": 3956.52, "end": 3961.62, "text": "Er det fortsatt grunn til å ha et positivt bilde?"}
+{"episode_id": 450, "segment_index": 884, "start": 3961.62, "end": 3965.62, "text": "Ja, men med en litt mer nyeansert bilde kanskje,"}
+{"episode_id": 450, "segment_index": 885, "start": 3965.62, "end": 3969.62, "text": "mellom de olika sektorne, så har vi veldig divergerende syn egentlig."}
+{"episode_id": 450, "segment_index": 886, "start": 3969.62, "end": 3972.62, "text": "Nå har det vært veldig mye i resten rundt skipping,"}
+{"episode_id": 450, "segment_index": 887, "start": 3972.62, "end": 3978.62, "text": "og det synes vi er utrolig gøy, og det driver også opp prisene på disse ekskene,"}
+{"episode_id": 450, "segment_index": 888, "start": 3978.62, "end": 3983.62, "text": "og det betyr jo at prisingen i dag er på et helt annet niveau enn der vi var for et to år siden."}
+{"episode_id": 450, "segment_index": 889, "start": 3983.62, "end": 3986.62, "text": "Det man tar med betraktingen, men når det er sagt,"}
+{"episode_id": 450, "segment_index": 890, "start": 3986.62, "end": 3990.62, "text": "så er det flere sektorer som ser bra ut fortsatt,"}
+{"episode_id": 450, "segment_index": 891, "start": 3990.62, "end": 3994.62, "text": "og det er noen sektorer som ikke ser fullt så bra ut."}
+{"episode_id": 450, "segment_index": 892, "start": 3994.62, "end": 3999.62, "text": "Sånn veldig foreenklitt, så på tværs av de sektorne vi dekker,"}
+{"episode_id": 450, "segment_index": 893, "start": 3999.62, "end": 4003.62, "text": "så er vi mest negativ til container og til bulk som vi står i dag."}
+{"episode_id": 450, "segment_index": 894, "start": 4003.62, "end": 4008.62, "text": "Vi er relativt positive, hva gjelder tank,"}
+{"episode_id": 450, "segment_index": 895, "start": 4008.62, "end": 4013.62, "text": "men veldig bide en set ordrobok, og alt inn mot en høysesong i vinter,"}
+{"episode_id": 450, "segment_index": 896, "start": 4013.62, "end": 4015.62, "text": "og mer volem ut av OPEC."}
+{"episode_id": 450, "segment_index": 897, "start": 4015.62, "end": 4021.62, "text": "Og så er vi veldig positive til LPG som shippingsektor, gassektor."}
+{"episode_id": 450, "segment_index": 898, "start": 4021.62, "end": 4023.62, "text": "Det funker utrolig bra, tenner gode penger,"}
+{"episode_id": 450, "segment_index": 899, "start": 4023.62, "end": 4026.62, "text": "og prisingen er fordyftig og hyggelig, men vi er fortsatt."}
+{"episode_id": 450, "segment_index": 900, "start": 4026.62, "end": 4031.62, "text": "Og bil-kipping er vi positive til, for de værselsen rettsjøtter er så god."}
+{"episode_id": 450, "segment_index": 901, "start": 4031.62, "end": 4036.62, "text": "Alt dette kommer ut å komme innom flere ganger i løpet av høsten."}
+{"episode_id": 450, "segment_index": 902, "start": 4036.62, "end": 4039.62, "text": "Vil jeg tro, det er mye spennende som skal ske."}
+{"episode_id": 450, "segment_index": 903, "start": 4039.62, "end": 4045.62, "text": "Valgius sa spørsmål om OPEC kommer til å trykke på å øke produktionsknappen,"}
+{"episode_id": 450, "segment_index": 904, "start": 4045.62, "end": 4049.62, "text": "som vel fort vil kunne bli positivt for tank i så fall."}
+{"episode_id": 450, "segment_index": 905, "start": 4049.62, "end": 4052.62, "text": "Det er mange ting som kan skje, sånn er det alltid shipping."}
+{"episode_id": 450, "segment_index": 906, "start": 4052.62, "end": 4054.62, "text": "Og særlig rundt det geopolitiske, da, ikke sant?"}
+{"episode_id": 450, "segment_index": 907, "start": 4054.62, "end": 4058.62, "text": "Så vi får holde fast i Audun og se hva som foregår,"}
+{"episode_id": 450, "segment_index": 908, "start": 4058.62, "end": 4060.62, "text": "hvordan ting utvikler seg der borte."}
+{"episode_id": 450, "segment_index": 909, "start": 4060.62, "end": 4063.62, "text": "Hva skjer i Rødavø, hva skjer i Ukraina?"}
+{"episode_id": 450, "segment_index": 910, "start": 4063.62, "end": 4066.62, "text": "Det blir utrolig viktig for shipping."}
+{"episode_id": 450, "segment_index": 911, "start": 4066.62, "end": 4070.62, "text": "Vi skal ha det godt fast i både Audun og Kelly, der er alle tre, tenker jeg."}
+{"episode_id": 450, "segment_index": 912, "start": 4070.62, "end": 4076.62, "text": "Tusen, tusen takk for at dere tok dere tid til å gi oss en sommeroppdatering."}
+{"episode_id": 450, "segment_index": 913, "start": 4076.62, "end": 4078.62, "text": "Vi setter strek der, så det er en sol å bare si."}
+{"episode_id": 450, "segment_index": 914, "start": 4078.62, "end": 4083.62, "text": "Tusen takk, folkens, til alle dere som hørte på å ha en fortsatt god sommer."}
+{"episode_id": 450, "segment_index": 915, "start": 4083.62, "end": 4103.61, "text": "Denne sendingen ble publisert i podcasten Utbyte."}

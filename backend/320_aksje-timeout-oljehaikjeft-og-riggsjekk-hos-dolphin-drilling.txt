@@ -1,0 +1,1249 @@
+Episode 320: Aksje-timeout, oljehaikjeft og riggsjekk hos Dolphin Drilling
+Publisert: Sat, 10 De
+Vert: Marius Brun Haugen
+Varighet: 34 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/aksje-timeout-oljehaikjeft-og-riggsjekk-hos-dolphin-drilling
+
+--- Transkripsjon ---
+
+[00:00:03] Aksjemarkedet ser ut til å ha tatt en tenkepause på hvorvidt oppgangen de siste syv ukene er holdbar eller ikke.
+
+[00:00:12] Og samtidig som oljeprisen har vist klare svakhetstegn, har vi vært på riggbesøk hos Dolphin Drilling i Flekkefjord tidligere denne uken for en oppdatering på investeringscase.
+
+[00:00:23] Og alt dette her skal vi snakke mer om i dagens episode.
+
+[00:00:27] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen globale økonomien og finansmarkedene.
+
+[00:00:45] Jeg er Marius Brunhaugen, og med meg har jeg ingen ringere enn aksjestrateg i DNB Markets, Paul Harper.
+
+[00:00:52] Hei Marius, godt å være tilbake i studio etter at aksjer har gått 16% siden bunnen for S&P 500 i midten av oktober og femtil sluttet.
+
+[00:01:06] Uten av forrige uke har markedet falt litt tilbake denne uken, uten at det egentlig har vært den helt store dramatikken.
+
+[00:01:15] Så jeg er derfor fristet til å si at aksjemarkedet har tatt en liten timeout denne uken.
+
+[00:01:21] Om ikke annet for å tenke seg litt om, vil du si at det er en passende beskrivelse på?
+
+[00:01:25] Ja, jeg tror det fikk en kanskje litt ubehagelig sterk rapport fra USA forrige fredag, den employment-rapporten,
+
+[00:01:33] hvor blant annet var lønnsveksten mye sterkere enn ventet.
+
+[00:01:36] ISM-tjenestesektoren var også litt sterkere enn antatt, og vi er fortsatt i en periode hvor good news is bad news.
+
+[00:01:43] Så jo bedre det går med økonomien, jo mindre muligheter er det for Fed å sette rentene ned etterhvert.
+
+[00:01:49] Så jeg tror det kanskje var den fundamentale faktoren som forklarer utviklingen.
+
+[00:01:56] Men så er det også noen tekniske faktorer som vi eventuelt kanskje kan komme litt mer inn på litt senere i sendingen.
+
+[00:02:00] Vi må også nevne den amerikanske 10-årsrenten, den har vært nede på 3,4.
+
+[00:02:06] Langt omtrent denne uken, det er gått rekordfort opp, og nå virker det som det plutselig går ganske så fort nedover også for langrentene.
+
+[00:02:16] Altså, blir det ikke bare vanskeligere og vanskeligere å lese noe fornuftig ut av dette her?
+
+[00:02:20] Ja, det er ikke helt enkelt, synes jeg.
+
+[00:02:22] For forventning til Fed-fans rentene, hvis vi måler det utifra hva som ligger i Fed-fans terminekontraktene,
+
+[00:02:29] så har egentlig ikke det endret seg så voldsomt mye den siste perioden.
+
+[00:02:33] Så det er egentlig ikke det som trekker renten ned i noe vesentlig.
+
+[00:02:36] I grad, så kan vi si at oljeprisen og alt annet likt, så trekker det renten litt ned.
+
+[00:02:40] For kommer oljeprisen ned, så blir det mindre inflasjonspress, så det kan nok forklare noe av det.
+
+[00:02:45] Men jeg synes det er vanskelig egentlig å helt få en veldig oppvisende forklaring på hele greia her.
+
+[00:02:51] Mulig kanskje det kan være noen flyteffekter her, jeg er litt forsiktig med å legge alt for mye vekt på det,
+
+[00:02:57] men det har jo vært mange makro-hedgefond som har tjent store penger i år med å shorte statskjeld,
+
+[00:03:01] så på et eller annet tidspunkt må de kanskje begynne å kjøpe litt av det tilbake igjen.
+
+[00:03:05] Og det er ganske vanlig at de ofte begynner den prosessen tidlig i desember, sånn at de ikke får låst inn profitten for året.
+
+[00:03:12] Oljeprisen, det er jo et viktig stikkord når vi snart skal snakke om rig-aksjendolfin-drilling.
+
+[00:03:18] Men vi må også snakke om den i form av Oslo Børs, for den har vært svak denne uken,
+
+[00:03:25] så oljeprisen falt med rundt 10 dollar, ned til 76 dollar-fate når vi sitter her fredag 9. desember.
+
+[00:03:35] Sånn sett kan man kanskje si at Oslo Børs har klart seg bra, men dette med oljeprisen,
+
+[00:03:39] vi vet jo at den svinger som en jojo, men jeg synes ikke nødvendigvis det gir helt mening
+
+[00:03:45] at den bikker under 80 dollar-fate og faller såpass kraftig når Kina signaliserer enda sterkere enn før
+
+[00:03:52] at gjennåpningen kommer, om enn ikke før til våren, men at den kommer.
+
+[00:03:57] De store lagerslippene fra USA blir mindre, EUs oljeembargo mot Russland er i gang.
+
+[00:04:03] Ta også med at OPEC pluss vel produserer under kvotene sine, og at energisituasjonen i Europa er som den er.
+
+[00:04:10] Da synes jeg dette her blir litt vanskelig å fordøye, rett og slett.
+
+[00:04:17] Er det andre ting man må se på? Er det svingningene i frontkontrakten?
+
+[00:04:22] Er det mer et resultat av at det er mye algoritmehandel og tynne volymer?
+
+[00:04:26] Hvordan skal vi tolke dette her på?
+
+[00:04:28] Det er flere grunner til at oljeprisen burde være sterkere, og du har jo nevnt flere av de her.
+
+[00:04:33] Så jeg synes det blir egentlig litt negativt da, når olje ikke klarer å reagere på disse positive faktorene,
+
+[00:04:39] så vil jeg jo egentlig helst se at det får en positiv reaksjon når det er faktorer som trekker i en positiv retning.
+
+[00:04:45] Så vi skal prøve å grave litt mer i dette her, og prøve å se hva er det som kanskje kan gi noe tegn til hva som egentlig foregår her.
+
+[00:04:52] Så ser vi noe svakhetstegn nå i terminmarkedet, da det er forward-prisene for oljelevering frem i tid.
+
+[00:05:00] Så vi har jo hatt en lengre periode nå hvor spottprisen...
+
+[00:05:03] Spottprisen har vært høyere enn forward-prisen, så det er det vi kaller backwardation på fagspråket,
+
+[00:05:08] så man er egentlig villig til å betale mer for å få olje levert med en gang,
+
+[00:05:12] frem for å få det levert to eller tre måneder lenger frem i tiden.
+
+[00:05:16] Nå har det reversert nå for de første månedene i kontraktene,
+
+[00:05:20] så nå er man egentlig ikke villig til å betale like mye til å få olje med en gang,
+
+[00:05:24] og man faktisk vil heller ha levering litt senere i tid,
+
+[00:05:27] så kontrakten to måneder frem i tid er nå litt dyrere enn den som er for levering en måned frem i tid.
+
+[00:05:32] Kontrakten for levering tre måneder frem i tid er litt dyrere enn den som er om to måneder,
+
+[00:05:37] så det er egentlig sånn at man er villig til å betale mer hvis man ikke får oljepriset eller olje levert med en gang.
+
+[00:05:43] Så det er et tegn til at det er noe underliggende svakhet her på etterspørselssiden,
+
+[00:05:47] som er noe vi egentlig ikke har sett på en stund,
+
+[00:05:49] så det er grunnen til å være litt mer bekymret, synes jeg.
+
+[00:05:52] Jeg tenkte også på dette med Kina og covid-politikken.
+
+[00:05:59] Her har vi jo sagt at hvis Kina åpner,
+
+[00:06:02] så skal det være positivt for oljeprisen og alt annet like,
+
+[00:06:06] og det burde vel også være positivt for den økonomiske aktiviteten generelt,
+
+[00:06:10] men er de ferdige med å bre seg en liten sånn at det vil gjøre litt mer vondt i det korte bildet,
+
+[00:06:17] rett og slett fordi at mange vil kunne bli syke,
+
+[00:06:21] og at de må gjennom noen måneder hvor det kan bli litt tøft,
+
+[00:06:25] og det tar markedet innover seg nå?
+
+[00:06:27] Jeg synes det er veldig vanskelig å vite hvordan man skal tolke den situasjonen i Kina,
+
+[00:06:32] for å si gjennåpning innebærer også at det blir mer smitte,
+
+[00:06:36] så helt om det er bedre å bare bli ferdig med det,
+
+[00:06:40] og om det skulle bli en større smittebølge,
+
+[00:06:42] så antar man at det er gått over i løpet av en måned eller to,
+
+[00:06:46] eller om man egentlig skal være mer bekymret for at kanskje den smittebølgen kommer,
+
+[00:06:50] og de ikke klarer å håndtere det,
+
+[00:06:52] for de har jo en del svake etter i det kinesiske helsesystemet blant annet,
+
+[00:06:55] og det stod noe i Financial Times i dag at de begynner å gå litt tom for forskjellige medisiner og så videre,
+
+[00:07:01] så det kan egentlig tolkes litt begge veier, synes jeg,
+
+[00:07:04] og alt med Kina blir litt sånn black box ofte,
+
+[00:07:07] så jeg synes det er veldig vanskelig å egentlig basere investeringsbeslutninger på en tolkning av hva som skjer i Kina.
+
+[00:07:13] En annen observasjon fra uken er at det er blitt et stadig større gap
+
+[00:07:18] mellom energiaksjer og oljeprisen i løpet av andre halvår.
+
+[00:07:24] Så hvis du sammenligner de to grafene hittil i år,
+
+[00:07:28] da får S&P 500-indeksen og den amerikanske,
+
+[00:07:31] energiindeksen,
+
+[00:07:32] da får du en sånn haikjeft i favor av energiaksjene,
+
+[00:07:37] som peker oppover.
+
+[00:07:39] Og så er spørsmålet, er det noe å legge vekt på i form av at
+
+[00:07:43] historisk så blir dette gapet lukket,
+
+[00:07:46] som betyr at enten så skal energiaksjer ned til oljeprisen,
+
+[00:07:49] eller oljeprisen opp til energiaksjer.
+
+[00:07:53] Flere har i hvert fall pekt på det denne uken i både avisen og i sosiale medier.
+
+[00:07:58] Og så synes jeg det var litt gøy at hvis du gjør samme øvelse,
+
+[00:08:01] legger disse grafene oppover hverandre,
+
+[00:08:04] men tar en femårshorisont i stedet for hittil i år,
+
+[00:08:07] så ser du at da ser det ut som at olje og oljeaksjer omsider er kommet på samme nivå
+
+[00:08:14] etter at olje har ledet an siden våren 2020.
+
+[00:08:18] Det vil altså si at haikjeften ikke er åpen lenger,
+
+[00:08:21] men at den faktisk akkurat har blitt lukket for første gang på to og et halvt år.
+
+[00:08:26] Sånn at, bare for å oppsummere dette her da,
+
+[00:08:27] hvis du ser på disse to grafene sammen på kort sikt,
+
+[00:08:31] har haikjeften mellom oljepris og energiaksjer åpen i favør av aksjene.
+
+[00:08:35] Ser du på lang sikt, så viser grafene at oljepris har ledet an de siste årene,
+
+[00:08:39] men at nå har haikjeften lukket.
+
+[00:08:42] Og så blir man kanskje ikke så mye klokere av den observasjonen, Paul,
+
+[00:08:45] men poenget mitt er at man kan like gjerne argumentere for at oljepris og energiaksjer
+
+[00:08:49] endelig er korrelert igjen,
+
+[00:08:51] som å argumentere for at det er en sånn disconnect som må rettes opp i.
+
+[00:08:55] Ja, det er alltid viktig når vi ser på sånne grafer,
+
+[00:08:57] hvor det er ting som har en sammenheng å se på det over litt forskjellige tidsår,
+
+[00:09:01] for som du peker på her, så på den ene varianten så ser det ut som
+
+[00:09:05] det er stor nedside på energiaksjer,
+
+[00:09:07] og på den andre så ser det ut som at nå er ting sånn någlende i balanse igjen.
+
+[00:09:12] Så ser man på litt sånn forskjellige tidshorisonter,
+
+[00:09:15] så får man i hvert fall litt bedre perspektiv av hvordan ting ser ut
+
+[00:09:18] i litt sånn større sammenheng.
+
+[00:09:20] Men ser man på den utviklingen i den kortere perioden der,
+
+[00:09:23] så er det klart det gir jo grunn til å tenke to ganger før man kjøper oljeaksjer akkurat nå,
+
+[00:09:29] at det virker sånn det er kanskje litt,
+
+[00:09:31] litt fallhøyde på kort sikt, om ikke annet.
+
+[00:09:34] Og så hvis du vil prøve å snu det på hodet,
+
+[00:09:35] og prøve å lage noen sånn type positiv logikk ut av dette her,
+
+[00:09:38] så kan du kanskje si at aksjemarkedet er overbevist at oljeprisen kommer rett opp igjen,
+
+[00:09:42] og av den grunn så holder oljeaksjene seg relativt greit akkurat nå.
+
+[00:09:47] Så jeg tror man må alltid være åpen for at det er forskjellige tolkninger
+
+[00:09:51] av disse forskjellige grafene.
+
+[00:09:53] Så om vi blir noe mer klok eller ikke,
+
+[00:09:55] tror jeg er vanskelig å være veldig sikker på.
+
+[00:09:58] Ja da.
+
+[00:09:58] Men nå skal det handle om riggaksjer,
+
+[00:10:01] og et spørsmål er jo om en oljepris på pluss minus 80 dollar fate,
+
+[00:10:06] altså der vi er sånn cirka nå,
+
+[00:10:07] er nok for å holde rigget til spørselen intakt.
+
+[00:10:11] Jeg tror konsensus er at ja, 80 dollar er nok.
+
+[00:10:15] Har du noen mening her, Paul?
+
+[00:10:16] Jeg skulle tro at 80 dollar er bra nok.
+
+[00:10:19] De aller fleste prosjekter som blir sanksjonert har en break-even pris
+
+[00:10:22] som er langt under det nivået der.
+
+[00:10:24] Så helt hvor den type tipping-pointen er,
+
+[00:10:27] er vanskelig å vite helt akkurat nå,
+
+[00:10:30] for det har nok vært,
+
+[00:10:31] det har vært en god del vurderingsendringer
+
+[00:10:33] og hva slags nivå oljepriset er bra nok
+
+[00:10:37] innenfor disse oljeselskapene de siste årene,
+
+[00:10:39] for det har vært så voldsomme svingninger.
+
+[00:10:42] Vi kan være ganske sikre på at de fleste har konkludert
+
+[00:10:44] at det er absolutt behov for mer olje fremover,
+
+[00:10:47] men hvor stor margin of safety man trenger på en break-even,
+
+[00:10:51] det må vi nesten sjekke med oljeselskapene selv,
+
+[00:10:55] og det tror jeg kommer nok til å variere litt etter som Vendø spør.
+
+[00:10:58] Har du vært ute på en oljerigg før,
+
+[00:11:01] og har du veldig lyst til det,
+
+[00:11:02] men har ikke fått det til enda?
+
+[00:11:04] Nei, det hadde ikke jeg heller før tirsdag denne uken.
+
+[00:11:08] Da besøkte jeg Borgland-riggen til børsnoterte Dolphin Drilling,
+
+[00:11:13] sammen med en veldig hyggelig gjeng bestående av ledelsen i selskapet,
+
+[00:11:17] flere analytikere fra forskjellige meglerhus,
+
+[00:11:20] og en rekke investorer.
+
+[00:11:22] Og riggen som jeg fikk se nærmere på,
+
+[00:11:25] den ligger i Opplag, ikke langt unna Flekkefjord,
+
+[00:11:29] og er Smartstacked, som det heter,
+
+[00:11:31] på fagspråket.
+
+[00:11:33] Enkelt forklart så betyr det at den er løpende ved likehold,
+
+[00:11:36] har et kru ombord som holder riggen varm,
+
+[00:11:39] og sørger for at den er klar til å bli satt i arbeid
+
+[00:11:42] når kontrakten kommer,
+
+[00:11:45] med lavest mulig teknisk risiko.
+
+[00:11:48] Og denne Borgland-riggen, det er en semirigg.
+
+[00:11:51] Den opererer i nissen mellom oppvekbare rigger
+
+[00:11:54] og dypvannsboreskip,
+
+[00:11:56] og per i dag så har Dolphin sikret kontrakt
+
+[00:12:00] til en av de tre riggene de eier.
+
+[00:12:03] Og nøtten, helt klart, for å løfte aksjekursen videre,
+
+[00:12:09] det er å få denne Borgland-riggen på kontrakt
+
+[00:12:11] aller helst da, så fort som mulig.
+
+[00:12:14] Og igjen, veldig gjerne også den tredje riggen
+
+[00:12:17] som de eier, som heter Bideford.
+
+[00:12:20] Jeg får også ta med her at DNB Markets,
+
+[00:12:22] de bistod Dolphin Drilling med noteringen
+
+[00:12:24] på Oslo Børs tidligere i høst,
+
+[00:12:26] og aksjen den handles under tikkeren D-Drill
+
+[00:12:28] på Aero Next Growth.
+
+[00:12:30] DNB Markets har analysetekning på Dolphin Drilling
+
+[00:12:33] med en kjøpsambefaling på 20 kroner.
+
+[00:12:37] Og økt etterspørsel etter rigger på britisk sokkel,
+
+[00:12:40] det er blitt trukket frem som et veldig viktig argument
+
+[00:12:43] for at Dolphin skal lykkes med å sikre kontrakter
+
+[00:12:46] til riggene sine som de har i opplag.
+
+[00:12:50] Og nå skal dere få høre praten som jeg hadde
+
+[00:12:52] med Dolphin Drilling-sjefen Bjørnar Iversen
+
+[00:12:55] ute på Borgland-riggen.
+
+[00:12:57] Og etter det, så skal Paul dele sin,
+
+[00:13:00] sine tanker om riggmarkedet,
+
+[00:13:02] og så skal vi til slutt runde av dagens episode
+
+[00:13:04] med noen vurderinger om aksjemarkedet
+
+[00:13:06] i det helt korte bildet.
+
+[00:13:14] Da har vi kommet oss ut på riggen,
+
+[00:13:17] og wow, det er litt av et syn som vi ble møtt av.
+
+[00:13:23] Nå har vi gått våre 10 000 skritt,
+
+[00:13:25] kommet opp i hovedkontrollrommet helt på toppen,
+
+[00:13:29] og jeg sitter her sammen med Bjørnar Iversen
+
+[00:13:31] som leder Dolphin Drilling til daglig.
+
+[00:13:34] Takk for at dere så på.
+
+[00:13:35] Så tusen takk for at vi fikk komme på besøk, Bjørnar.
+
+[00:13:37] Dere er så hjertelig velkommen.
+
+[00:13:39] Det er stor glede å få vise disse riggene våre til dere
+
+[00:13:45] hva vi egentlig driver med.
+
+[00:13:46] Her ute er du i ditt rette element, eller hva?
+
+[00:13:49] Ja, dette elsker jeg.
+
+[00:13:50] Dette er det det dreier seg om.
+
+[00:13:52] Dette er det Båring dreier seg om.
+
+[00:13:54] Det er store, flotte leketeg
+
+[00:13:56] som lager verdier for landet og sine eier.
+
+[00:14:01] Det å kunne få være ut med krua sine og teama sine
+
+[00:14:05] her ute, det er der jeg trives best.
+
+[00:14:08] Og dette er jo en dame, for det er sånn dere omtaler
+
+[00:14:11] riggene, er det ikke det?
+
+[00:14:12] Ja, det er lov å si.
+
+[00:14:14] Det er lov å si, og det er flytende,
+
+[00:14:16] alle flytende fartøy som skip og rigger,
+
+[00:14:18] de tiltales med kvinnebetegnelse.
+
+[00:14:21] Det er riktig.
+
+[00:14:21] Ikke sant?
+
+[00:14:22] Og Borgland har vært i drift og jobbet lenge
+
+[00:14:26] i mange år, men også blitt modernisert
+
+[00:14:29] og ved likeholdt av dere, og det er jo litt
+
+[00:14:31] av grunnen til at vi er her i dag, sammen med en gjeng
+
+[00:14:35] i investorer, det er for at dere skal vise
+
+[00:14:37] frem til oss hva dere gjør kontinuerlig
+
+[00:14:40] for å holde riggen i drift, og det har vi
+
+[00:14:43] fått sett eksempler på.
+
+[00:14:46] Ja, Borgland ble fullstendig oppgradert
+
+[00:14:50] i 2009, men har undergått veldig store
+
+[00:14:56] oppgraderinger og utstyrsskifter ettertid,
+
+[00:14:59] og det har dere sett i dag når vi går inn
+
+[00:15:01] og ser skjeiker, og når vi ser BOP-kontrollen,
+
+[00:15:05] når vi ser, egentlig mesteparten av utstyret
+
+[00:15:08] på riggen er veldig, veldig nytt, inklusiv BOP
+
+[00:15:13] som bare er en par år gammelt.
+
+[00:15:15] Men her rigger riggen i opplag, vi skal komme
+
+[00:15:18] litt tilbake til det, men Bjørnar, du vil vel
+
+[00:15:22] helst ha samtlige av riggene dine litt lenger
+
+[00:15:25] ut i havs, ikke sant?
+
+[00:15:27] Med Borg i gang på jobb for et energiselskap?
+
+[00:15:30] Ja, det er det vi er bygd for, og det er det
+
+[00:15:33] vi virkelig, virkelig elsker.
+
+[00:15:35] Å ligge ute i havet uten å se land i det
+
+[00:15:37] hele tatt, ligge der og bevege oss vakkert opp
+
+[00:15:41] og ned som en semi gjør, samtidig som vi
+
+[00:15:44] produserer brønner for nasjonen, der vi tar ut
+
+[00:15:47] verdier som mestepartner, og det går inn i
+
+[00:15:50] statskassen hvis vi bor i Norge, samme på UK
+
+[00:15:52] og de fleste land vi bor i, og det å levere
+
+[00:15:54] de verdiene til de landene og de borgerne vi
+
+[00:15:58] bor i oss, det er vi utrolig glad for, og så
+
+[00:16:01] er det selvsagt det at å ha riggen opptatt
+
+[00:16:05] operativt på kontrakt er veldig viktig for
+
+[00:16:07] eierne, for det koster jo penger å ha sånne
+
+[00:16:09] damer liggende.
+
+[00:16:12] Du sa det jo der, altså Borgland er en semirigg,
+
+[00:16:15] det betyr at den er i klassen mellom oppvekbare
+
+[00:16:18] rigger og dypvannsboreskip. Bare forklar oss
+
+[00:16:21] sånn enkelt og raskt om nissen i riggmarkedet
+
+[00:16:24] som dere betjener.
+
+[00:16:25] Ja, du kan si det at det mobile offshore-markedet
+
+[00:16:29] består av forskjellige klasser. Det går fra
+
+[00:16:33] grønt vann til ultradypt vann. Og da kan vi
+
+[00:16:36] starte med jekk-up-klassen, den som står på
+
+[00:16:39] havbunnen, det er liksom klasse 1, og så har du
+
+[00:16:41] de såkalte middvåter, middvåter, altså de
+
+[00:16:45] medium-havdyp-riggene som denne riggen Borgland
+
+[00:16:48] er en del av. Og det markedet består igjen av
+
+[00:16:50] to deler. Det består av det harsh, altså der det
+
+[00:16:53] er røffe hverforhold, og det består av der det
+
+[00:16:55] er fine hverforhold. Denne riggen kan både
+
+[00:16:58] operere i fine hverforhold og i røffe hverforhold.
+
+[00:17:03] Det er veldig, veldig viktig der. Og så har du
+
+[00:17:06] da det såkalte dypvannsmarkedet som da går opp
+
+[00:17:09] til en par tusen meter vil jeg si. Og så har du
+
+[00:17:12] ultradypvannsmarkedet som går på 3000 meter og
+
+[00:17:15] videre egentlig da. Og det er liksom det såkalte
+
+[00:17:17] UDV-markedet. Så vi har liksom en sånn 4-5
+
+[00:17:20] klasse her av riggetyper da. Borgland er
+
+[00:17:24] smart stacked. Altså hva betyr det, og hvorfor er
+
+[00:17:28] det viktig å være klar over? Det er ufattelig
+
+[00:17:32] viktig å være klar over. Det betyr at vi
+
+[00:17:33] holder riggen varm selv om vi har tatt riggen inn
+
+[00:17:36] fra feltet. Det betyr det at vi tar riggen inn, vi
+
+[00:17:40] beholder et kru ombord som går to uker på riggen,
+
+[00:17:43] og så går det fire av riggen. Denne riggen har
+
+[00:17:45] egentlig sju kritiske systemer som testes da og
+
+[00:17:49] kjøres live varmt i løpet av de fire ukene
+
+[00:17:52] guttene er ombord. Så vi holder liksom båresystemene
+
+[00:17:55] våre, alt som har med kraftsystemer, BOP-systemer,
+
+[00:17:58] alle systemene våre blir da kjørt hver fjerde uke
+
+[00:18:02] som gjør det at riggen er varm. Og det betyr at du
+
+[00:18:05] tar ut veldig mye teknisk risiko, og du får ikke en
+
+[00:18:08] sånn teknisk degradering av utstyret ditt. Du holder
+
+[00:18:12] det varmt og live, og du tar det da veldig mye
+
+[00:18:17] tilbake kostnadsmessig når du tar riggen ut, for
+
+[00:18:19] da har du ingen teknisk risiko relatert til å ta
+
+[00:18:22] riggen ut. Det er det vi mener med smart stacking.
+
+[00:18:26] Det er smart. Hva er liksom det aller viktigste
+
+[00:18:29] som foregår her mens dere nå ligger og venter på
+
+[00:18:31] å komme på kontrakt, altså som er helt kritisk for
+
+[00:18:35] å kunne mobilisere raskt og kostnadseffektivt når
+
+[00:18:38] oppdraget kommer? For det kommer, gjør det ikke det?
+
+[00:18:41] Det kommer. Det kommer garantert, det oppdraget, og
+
+[00:18:44] det er ikke langt unna. Det som er kritisk, som
+
+[00:18:48] vil egentlig bare gjenta meg litt selv, det å ha
+
+[00:18:51] disse tekniske systemene og riggen klar til å gå.
+
+[00:18:54] Alternativet hadde vært å lagt den kald, og da
+
+[00:18:56] ville du på en måte hatt store tekniske utfordringer
+
+[00:18:59] med å dra ting i gang, for du har jo selv sett
+
+[00:19:01] i dag hvor mange systemer, hvor mange kabler og
+
+[00:19:04] rør og maskiner som står rundt på denne damen.
+
+[00:19:09] Det er jo på hundrevis av kilometer med kabel og
+
+[00:19:12] rør og bord her, og alt dette skal virke. Når du
+
+[00:19:16] da kjører det varmt og live, så er det kanskje
+
+[00:19:19] det aller viktigste i tillegg til noe som faktisk
+
+[00:19:22] er enda viktigere, og det er å ha kritiske, våre
+
+[00:19:26] kritiske, erfarne gutter som kan dette systemet.
+
+[00:19:30] Hvordan trener dere mannskapet når riggen ligger i
+
+[00:19:34] opplag? Hvordan motiverer dere gutta til å trene?
+
+[00:19:39] For dette er vel både viktig for å være klar, men
+
+[00:19:42] også fra et sikkerhetsperspektiv.
+
+[00:19:44] Det er helt riktig. De guttene du har fått møtt
+
+[00:19:46] ombord her, de har jobbet på denne riggen noen
+
+[00:19:48] år, det er opp til nesten siden han ble bygd, og
+
+[00:19:51] vi har liksom utrolig erfaren personell her, og
+
+[00:19:54] de trenes. For det første så har de det
+
+[00:19:56] grunnleggende på plass. Veldig ofte så har en
+
+[00:19:59] offsjararbeider en plass som trenger å være
+
+[00:20:00] plass mellom 20 og 40-50 kurs, og dette er på
+
+[00:20:03] en måte en sånn kursmatrise med forfall for å
+
+[00:20:06] holde sin kompetanse oppe. Det er liksom det
+
+[00:20:08] formelle, la oss si, det formelle kompetansebasen
+
+[00:20:11] de står på. Og så har du den andre biten, det er
+
+[00:20:14] det at de trener å kjøre utstyret aktivt de 14
+
+[00:20:18] dagene de er på, slik at det er ingenting som
+
+[00:20:20] ikke er testet og kontrollert, og som de kan
+
+[00:20:24] ombord her. Så det vi gjør når vi ligger i
+
+[00:20:25] SmartStack, da tar vi og holder tilbake deler av
+
+[00:20:29] det totale kruet, slik at vi varetaler alle
+
+[00:20:31] kompetanseområdene, slik at det er lett å få
+
+[00:20:34] riggen ut, og da som jeg sa, med varmt utstyr og
+
+[00:20:38] systemer. Ja, men i forhold til penger, altså hvor
+
+[00:20:41] mye går det ut av kassa hver dag som Borgland
+
+[00:20:44] ligger her og ikke er på jobb? Jeg mener du har
+
+[00:20:47] sagt tidligere når vi har snakket sammen i
+
+[00:20:49] forbindelse med at dere ble notert på børsen
+
+[00:20:52] rundt 20 millioner dollar, altså kan det bli mer
+
+[00:20:56] enn det? Det som vi har sagt, det er sagt at en
+
+[00:20:59] mobilisering og det å ta riggen ut, koster
+
+[00:21:02] ca. 20 millioner dollar. Det har vi sagt, pluss
+
+[00:21:05] minus. Så forhåpentligvis litt mindre. Så har vi
+
+[00:21:09] det der med en opplagsmodus. Når vi ligger i
+
+[00:21:12] opplag her, så brenner vi en plass mellom 25.000
+
+[00:21:16] og 30.000 dollar hver dag. Litt avhengig av om
+
+[00:21:19] vi har folk ombord eller ikke, men en slik
+
+[00:21:22] snitterate ligger nok på en plass mellom 25.000 og
+
+[00:21:24] 30.000 dollar, og det har vi valgt å ta for å
+
+[00:21:27] ha den SmartStack måten.
+
+[00:21:29] I stedet for å få en voldsom mobiliseringskost
+
+[00:21:32] som du ville ha fått om du hadde lagt riggen
+
+[00:21:34] kall. Hva er det som er konkurransefortrinnende
+
+[00:21:37] til Dolphin da, når dere nå ligger og leverer
+
+[00:21:40] anbud på å komme i oppdrag? Du kan si at denne
+
+[00:21:44] riggen, du kan si at det riggemarkedet vi snakket
+
+[00:21:46] om, har store, dyre rigger, og så har du det såkalte
+
+[00:21:49] standard, altså det mellomsegmentet som vi er en
+
+[00:21:52] del av. Det betyr at konkurransemessig så vil
+
+[00:21:55] vi dagratemessig være i rigmiljøet. Det er
+
+[00:21:59] nummer en, så pris er helt klart en. Pris oppimot
+
+[00:22:02] kvalitet. Vi har et veldig erfarne kru her som har
+
+[00:22:07] drevet denne riggen veldig lenge, så du vet hva du
+
+[00:22:09] får, og det å levere trygghet og sikkerhet,
+
+[00:22:13] altså sikre, gode, robuste operasjoner, det får
+
+[00:22:17] du helt klart med Borgland med den erfarne
+
+[00:22:19] riggen og det erfarne kruet som vi har. Det er
+
+[00:22:22] liksom nummer to, og så får du også en veldig
+
+[00:22:24] grønn rigg, for det er en av Nordsjøens grønneste
+
+[00:22:29] rig, altså du får et sånt lavt carbon footprint,
+
+[00:22:31] så når du får liksom pris, kvalitet på leveransen
+
+[00:22:33] din og et grønt produkt, så tror vi de tre er
+
+[00:22:38] veldig utslagsgivende. Er det mange pågående
+
+[00:22:41] anbudsprosesser som vil bli avklart nå i første
+
+[00:22:44] kvartal, i 2023 eller andre kvartal? Ja, det er
+
+[00:22:48] flere anbudsprosesser som pågår. Det er litt sånn
+
+[00:22:51] stille på norsk sokker, men det er veldig mye som
+
+[00:22:53] beveger på seg på UK-sokker. Nå fikk de liksom
+
+[00:22:56] uhendeligvis kanskje en ny sånn ti prosent add-on
+
+[00:23:00] på den windfall-teksten sin, så noen er tilbake og
+
+[00:23:02] regner og ser litt på det. Men det er tre-fire
+
+[00:23:06] anbud som er i prosess, som skal avgjøres enten nå
+
+[00:23:09] i løpet av desember eller i løpet av første
+
+[00:23:11] kvartal. Og hvis vi ser på UK-sokker, så er det
+
+[00:23:15] egentlig bare en par rigger igjen der, så vi har stor
+
+[00:23:19] tro på at denne riggen kommer til å bore midten
+
+[00:23:22] slutten av neste år, helt klart. Og UK, det har du
+
+[00:23:25] jo tidligere trukket for. Ja, det har du jo tidligere trukket
+
+[00:23:26] frem når vi har snakket sammen som en viktig
+
+[00:23:30] driver for etterspørselen, særlig i det korte bildet.
+
+[00:23:34] Energi-sikkerhet er liksom et litt mer sånn større tema
+
+[00:23:37] som gjør dette interessant i det lengre bildet. Er du
+
+[00:23:41] fortsatt optimist da, på markedet ved inngangen til 2023
+
+[00:23:44] når vi sitter her? Ja, jeg er kjempeoptimist. Jeg er
+
+[00:23:47] helt sikker på at etterspørselen til riggen kommer
+
+[00:23:50] til å fortsette å boome fremover. Vi så det bare
+
+[00:23:54] at Norge hadde en litt lite etterspørsel
+
+[00:23:56] i 2023. Fra 2024 vil også Norge boome. Ultradypvannsmarkedet
+
+[00:24:00] boomer allerede. Det internasjonale midwatermarkedet
+
+[00:24:04] er på full fart tilbake. Vi ser midwater-anbud både
+
+[00:24:08] på Vestafrika i The Mediterranean og i Sør-Amerika
+
+[00:24:14] i Gulf of Mexico, så vi ser det at egentlig hele
+
+[00:24:16] markedet er på vei opp. Det er klart at med en oljepris
+
+[00:24:19] som da ligger liksom på plass mellom 80 og 100 og går
+
+[00:24:22] litt opp og ned der, så er det veldig veldig behov for
+
+[00:24:26] plassitet. Og sånn som jeg sa sist gang til deg,
+
+[00:24:28] så er jo halve verdens riggflåte skrapet, og innen
+
+[00:24:31] standardsegmentet så er 75 prosent av alle riggene
+
+[00:24:35] skrapet. Så det er jo veldig få rigger i dette
+
+[00:24:37] markedet når du nå får behov for ytterligere
+
+[00:24:40] båring. Siste spørsmål for å bli da, med dette
+
+[00:24:43] bakteppet her. Har du gitt deg selv en frist for
+
+[00:24:46] når Borgland skal være på jobb igjen innen? Ja,
+
+[00:24:48] han må være på jobb i løpet av tredje kvartal
+
+[00:24:51] senest, slutten av tredje kvartalen og rundt der
+
+[00:24:53] neste år, det er det som vi sikter på, og helst
+
+[00:24:58] litt tidligere på sommeren, for det er jo en del
+
+[00:25:01] sommerbehov som popper opp, spesielt som jeg sier
+
+[00:25:04] på UK da, men også i en par av de andre markedene
+
+[00:25:06] her, men UK er det som jeg ser er det som er mest
+
+[00:25:10] aktuelt, basert på de anbudene vi har inne nå.
+
+[00:25:14] Ja, men bra det Bjørnar. Dette her har vært utrolig
+
+[00:25:16] gøy å komme og se, så det blir spennende å følge
+
+[00:25:20] dere videre, og tusen takk for besøket. Det var en
+
+[00:25:23] del av det, og få lov å vise dere denne vakre
+
+[00:25:26] ryggen. Ja, aksjekursen til Dolphin Drilling, den har
+
+[00:25:36] falt fra i overkant av 15 ned til 12 kroner siden
+
+[00:25:41] slutten av oktober. Ser vi på andre aksjer som
+
+[00:25:45] Seedrill og Selfdrilling North Sea, så har også
+
+[00:25:48] de falt i samme periode, men spørsmålet er hva
+
+[00:25:52] som må til for at investorene kaster seg over
+
+[00:25:55] disse casene i noe større grad. Når det gjelder
+
+[00:25:59] Dolphin Drilling, en kontrakt for Borgland, det vil
+
+[00:26:02] selvfølgelig være en veldig god start. En annen
+
+[00:26:05] positiv, det vil være dersom ryggen Blackford, som
+
+[00:26:09] skal starte på kontrakt i Nigeria tidlig i 2023,
+
+[00:26:12] får forlenget perioden med seks nye måneder i
+
+[00:26:16] andre halvår av 2023. Det ligger en opsjon der
+
+[00:26:20] som oppdragsgiveren kan velge å utøve. Men det
+
+[00:26:24] gjenstår å se. Paul, har du noe tro på ryggaksjer
+
+[00:26:28] generelt?
+
+[00:26:29] Jeg synes seksåren ser veldig spennende ut, og vi har
+
+[00:26:31] kjøpsambefaling på stort sett det meste av det vi dekker
+
+[00:26:33] innenfor sektoren. Det er nok nyttig å gjøre litt
+
+[00:26:37] hjemlekser hvis man skal se på en del av disse ryggaksjene,
+
+[00:26:40] for mange av dem er ikke noe sånn voldsomt likvid
+
+[00:26:41] når det gjelder volymet som går på børsen. Det er
+
+[00:26:46] ganske stor forskjell i risikoprofilen mellom en del
+
+[00:26:49] av disse. Noen har vært igjennom en restrukturering
+
+[00:26:51] allerede og sitter igjen med nesten ikke noe gjeld
+
+[00:26:53] i det helt tatt, mens andre har fremdeles ganske mye
+
+[00:26:56] gjeld. Den risikoprofilen er nok veldig
+
+[00:26:59] viktig å få en ordentlig forståelse for. Du kan
+
+[00:27:02] si at de har en slags felles driver, men måten det
+
+[00:27:05] slår ut i aksjekursen har veldig mye å si på hvordan
+
+[00:27:07] balansen er strukturert der.
+
+[00:27:10] Bakteppet har vi snakket om før, men det som ligger
+
+[00:27:14] til grunnen for den litt lengre optimismen i
+
+[00:27:17] markedet er dette økte fokuset på energisikkerhet,
+
+[00:27:21] som igjen kan bidra til økte investeringer fra
+
+[00:27:24] åldersselskapene. Kombinerer du det med en
+
+[00:27:26] i hvert fall til en viss grad begrenset tidspunkt
+
+[00:27:29] tilbudside, som det ser ut å være for den typen
+
+[00:27:32] rigger som Dolphin opererer, så kan det jo si at
+
+[00:27:36] bildet ikke ser så aller verst ut. Hvis vi går tilbake
+
+[00:27:39] til Borgland-riggen som jeg besøkte den uken, så har
+
+[00:27:42] den både en fordel og en ulempe med å være en
+
+[00:27:46] rigg som har vært flere ti år i drift. En fordel
+
+[00:27:49] tror jeg er at nær sagt alle selskaper kjenner til
+
+[00:27:53] riggen og vet om den, sånn at jeg tipper de får
+
+[00:27:56] boket møter når de nå er ute og markedsfører
+
+[00:27:59] seg. Det er en fordel. Det er en fordel. Det er en
+
+[00:27:59] ulempe. Det er helt klart at den er en eldre
+
+[00:28:05] rigg som vi var inne på. Riktig nok godt ved
+
+[00:28:07] likehold, men den er eldre. Åldersselskapene,
+
+[00:28:10] særlig på norsk sokkel, har vel signalisert at
+
+[00:28:14] de vil ha så nye som mulig rigger. Et annet
+
+[00:28:18] skjer i sjøen som har dukket opp den siste
+
+[00:28:20] tiden, som også Bjørnar nevnte i praten jeg
+
+[00:28:24] hadde med han, det er at på britisk sokkel så
+
+[00:28:28] er det kommet på bort en ulempe som er
+
+[00:28:29] på banen, noe som heter Vinfold Tax, som er en
+
+[00:28:31] sånn ekstra skatt når selskapene tjener mye
+
+[00:28:35] penger. Og som følge av dette så er det jo blitt
+
+[00:28:37] litt større usikkerhet rundt av hva det betyr for
+
+[00:28:41] kontraktsmulighetene for selskapet. Men det
+
+[00:28:44] vil vi forhåpentligvis få svare på ganske
+
+[00:28:47] fort, og kanskje allerede tidlig til neste
+
+[00:28:50] år. Så for å konkludere dette besøket her da,
+
+[00:28:52] altså jeg er ingen ingeniør, men basert på det
+
+[00:28:54] jeg kunne se når jeg var ute på riggen, så er
+
+[00:28:57] Borgland modernisert og klart, så er det en
+
+[00:28:59] klar. Men så gjenstår det da å se om de lykkes
+
+[00:29:01] med å fikse kontrakt, og om riggemarkedet
+
+[00:29:04] faktisk fortsetter å bedre seg. Men det så
+
+[00:29:07] får vi avslutte der vi startet, Paul. Vi skal
+
+[00:29:11] se på aksjemarkedet i det korte bildet. Er det
+
+[00:29:12] noen sånne åpenbare ting som kan trigge
+
+[00:29:15] markedet ut av timeouten i neste uke?
+
+[00:29:18] Ja, så det blir egentlig en ganske travel uke
+
+[00:29:19] vi har foran oss. Nå begynner vi med
+
+[00:29:22] inflasjonstall fra USA på tirsdag. Det er
+
+[00:29:25] jo klart veldig viktige tall når inflasjon
+
+[00:29:27] er som hvert en av de hovedtemaene som har
+
+[00:29:29] drevet markedet hele året. Og så er det
+
+[00:29:31] Fed-møte som kommer også neste uke. Markedet
+
+[00:29:34] forventer at det blir 50 punkter renteendring
+
+[00:29:36] her, så det er ikke det som egentlig blir det
+
+[00:29:38] spennende. Jeg tror det som kanskje er mest
+
+[00:29:40] interessant her er den såkalte dot-plotten
+
+[00:29:43] som de publiserer. Det er egentlig en graf
+
+[00:29:45] som viser rentebanen, som er som
+
+[00:29:46] gjennomsnittsforventningen av de forskjellige
+
+[00:29:48] Fed-medlemmene. Så det er jo noe som jeg tror
+
+[00:29:51] blir veldig spennende med tanke på hvordan
+
+[00:29:53] rentebildet skal utvikle seg gjennom neste
+
+[00:29:56] år, og eventuelt hvor de tror rentene skal
+
+[00:29:59] stabilisere seg litt på lengre sikt også.
+
+[00:30:02] Så jeg tror det blir nok ukens høydepunkt,
+
+[00:30:04] selv om inflasjonstallene blir selvfølgelig
+
+[00:30:06] veldig viktige. Og så er det også retail sales
+
+[00:30:08] og industrial production, så det er egentlig
+
+[00:30:10] en hel rekke mer viktige tall som kommer
+
+[00:30:12] neste uke. Du nevnte at vi skulle ta litt
+
+[00:30:15] teknisk analys også. Det er ikke det vi bruker
+
+[00:30:18] mest tid på, men det kan jo være et nyttig
+
+[00:30:20] verktøy, særlig hvis man skal se etter
+
+[00:30:22] endringer i markedet. S&P 500-indeksen,
+
+[00:30:26] den brøt opp gjennom 200-dagers glidende
+
+[00:30:29] snitt i slutten av november, og det skulle
+
+[00:30:32] jo liksom være et positivt signal, men den
+
+[00:30:36] gang, nei. Kursen har jo falt tilbake igjen
+
+[00:30:40] etter det, Paul.
+
+[00:30:41] Jeg liker å kombinere teknisk analyse sammen
+
+[00:30:43] med fundamental analyse, og prøve å se om det
+
+[00:30:46] er noen krysspeilinger mellom de.
+
+[00:30:49] Teknisk analyse har jo egentlig fungert
+
+[00:30:50] veldig bra i år på S&P 500. Vi har hatt
+
+[00:30:53] nå egentlig en stor hodeskuldetoppeformasjon
+
+[00:30:57] som ble utarbeidet gjennom andre
+
+[00:30:58] halvdeler av 2021 og første kvartal i år,
+
+[00:31:02] og så har det da fortsatt i en slags fallende
+
+[00:31:05] trendkanal, så det har egentlig følt alle de
+
+[00:31:06] tekniske reglene på vei nedover, en ganske
+
+[00:31:09] tydelig definert negativ trend som vi har her.
+
+[00:31:12] Som du påpekte, så kom det akkurat så vidt
+
+[00:31:14] gjennom 200-dagers glidende snitt, men stoppet
+
+[00:31:17] da når den traff den øvre enden av den fallende
+
+[00:31:19] trendkanalen. Sånn som det er nå, så er trenden
+
+[00:31:22] klart negativ, og det gjør at terskelen for å
+
+[00:31:24] bli litt mer positiv blir noe høyere da med
+
+[00:31:28] de fundamentale argumentasjonsrekken være
+
+[00:31:30] enda litt mer robust enn det ellers behøver å være
+
+[00:31:33] hvis du skal prøve å argumentere hvorfor den
+
+[00:31:35] fallende trenden skal snu.
+
+[00:31:36] Ja, så er spørsmålet hva det gjør for mulighetene
+
+[00:31:39] for det klassiske jule- og nyttårsrally,
+
+[00:31:43] som jo historisk ofte kommer gang på gang på gang,
+
+[00:31:49] men det gjenstår jo å se, det skal vi komme
+
+[00:31:51] tilbake til i neste uke, men allerede nå så
+
+[00:31:53] kommer vi å gjøre en ting klart, og det er at
+
+[00:31:56] når det gjelder hvorvidt markedet
+
+[00:31:58] outperformer rundt jule- og nyttår, så
+
+[00:32:00] baserer vi oss kun på en kvantitativ
+
+[00:32:04] tilnærming på, det er ingen fundamentale
+
+[00:32:06] faktorer eller andre ting som ligger til grunn da.
+
+[00:32:09] Nei, den ren kvanteteorien er det som har fungert
+
+[00:32:12] best når vi har gjort backtesting på dette her,
+
+[00:32:15] så har det da hatt en utrolig bra treffprosent,
+
+[00:32:17] det har funket 20 av de siste 22 årene,
+
+[00:32:21] og det er ikke veldig mange type regler du
+
+[00:32:23] klarer å finne som har en såpass bra treffprosent.
+
+[00:32:26] Litt sånn uklart hvorfor det funker såpass
+
+[00:32:28] bra, og det er jo noe som gjør det kanskje
+
+[00:32:29] litt vanskeligere å legge alt for mye tillit
+
+[00:32:31] i dette her. Det er noen påstander om at det har
+
+[00:32:34] rundt med noen skattetilpassninger å gjøre,
+
+[00:32:36] og det kan hende det er noe sannhet i det,
+
+[00:32:38] men jeg tror ikke de kan liksom forklare hele
+
+[00:32:40] den effekten med akkurat dette. Så hvert år
+
+[00:32:42] så tenker jeg at det kan ikke fungere dette
+
+[00:32:44] året også, men så langt så har det fungert
+
+[00:32:47] da utrolig regelmessig og truffet veldig ofte,
+
+[00:32:51] så når du har såpass type historikk så synes
+
+[00:32:53] jeg det er veldig vanskelig å vede imot det.
+
+[00:32:55] Ja, ja, men neste uke når vi skal
+
+[00:32:58] hittere her, da har du med noen nyttårsraketter
+
+[00:33:01] til oss da, som du kommer til å trekke opp
+
+[00:33:02] av hatten. Ja, vi kommer til å publisere det
+
+[00:33:05] i løpet av neste uke, så vi følger de samme
+
+[00:33:08] reglene som tidligere, og følger de samme
+
+[00:33:10] tidsperioder og har porteføljene åpent,
+
+[00:33:13] så det blir same procedures every year.
+
+[00:33:16] Ja, det høres godt ut. Bra, da kan vi glede oss
+
+[00:33:18] til neste uke også. Med det så runder vi av
+
+[00:33:22] for i dag, så da gjenstår det bare å si
+
+[00:33:24] tusen takk til deg, Paul. Tusen takk også
+
+[00:33:27] til Bjørn.
+
+[00:33:28] Og i time i Dolphin Drilling, og sist men ikke
+
+[00:33:32] minst, tusen takk folkens til alle dere som
+
+[00:33:35] hørte på.
+
+[00:34:06] Teksting av Nicolai Winther
+
+[00:34:36] for den aktuelle sendingen, og kan etter det
+
+[00:34:37] endres uten nærmere beskjed. Ytterligere
+
+[00:34:40] informasjon om blant annet kildebruk og
+
+[00:34:41] interessekonflikter er tilgjengelig på
+
+[00:34:43] dmb.no, skråstreik i vest, pinsrekt i sklemer.
+
+[00:34:58] Teksting av Nicolai Winther

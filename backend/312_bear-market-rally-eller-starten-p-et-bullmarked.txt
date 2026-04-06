@@ -1,0 +1,841 @@
+Episode 312: Bear market rally eller starten på et bullmarked?
+Publisert: Sat, 05 No
+Vert: Marius Brun Haugen
+Varighet: 26 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/bear-market-rally-eller-starten-pa-et-bullmarked
+
+--- Transkripsjon ---
+
+[00:00:00] Oktober måned endte med en aksjeoppgang på 59% på indeksnivå.
+
+[00:00:06] I kjølvannet av rentemøtet til den amerikanske sentralbanken denne uken kan det i midlertid virke som om noe av luften er i ferd med å sige ut av ballongen.
+
+[00:00:15] Er bear market rallyet over allerede? For det er vel et bear market rally, eller?
+
+[00:00:21] Jeg lar den der henge litt i luften, for dette skal vi snakke mer om i dagens episode.
+
+[00:00:26] Vi skal også se nærmere på hva som var de mest kjøpte og solgte aksjene blant private investorerne til DNB i oktober,
+
+[00:00:35] og dele noen tanker om aksjer som Kahoot, Valenius Vilhelmsen og American Shipping Company.
+
+[00:00:48] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer i den globale økonomien og finansmarkedene.
+
+[00:00:56] Jeg er Marius Brunhaugen, og med meg har jeg aksjestrateg Paul Harper.
+
+[00:01:01] Hei, Paul.
+
+[00:01:02] Hei, Marius.
+
+[00:01:03] Det er fredag 4. november når vi sitter her.
+
+[00:01:07] Klokken har passert 12. Det har regnet hele uken og pisket mot rutene her i Bjørvika.
+
+[00:01:16] Og mens vannmagasinene jobber seg sakte opp mot medianenivåene, skal vi som alltid, Paul, snakke aksjer, makro og renter.
+
+[00:01:27] Vi får bare oppfordre lytterne til å finne frem kaffekoppen, sånn som du har gjort.
+
+[00:01:32] Og akkurat som regnefosset ned utenfor, så fortsetter det nær sagt å regne renteøkninger fra den amerikanske sentralbanken.
+
+[00:01:41] Onsdag så hevet de styringsremten med 75 basispunkter for fjerde gang på rad til intervallet 3,75 til 4 prosent.
+
+[00:01:52] Så, 4 prosent da.
+
+[00:01:53] Men det overrasket ingen, Paul.
+
+[00:01:54] Nei, jeg tror selve renteendringen var ganske godt, markedet var ganske godt forberedt på det.
+
+[00:02:00] Jeg så på konsensus.
+
+[00:02:02] Før rapporten, eller før meldingen kom ut, og jeg husker ikke helt nøyaktig nå, men det var sånn at det var 90 av 93 økonomer spodde det som skjedde,
+
+[00:02:12] og det var fullt ut priset i Fed Funds markedet, så det var ikke egentlig noe særlig overraskelse på akkurat det der.
+
+[00:02:19] Så det som kanskje var litt nytt, eller første tolkningen av pressemeldingen i hvert fall, var at nå var det kanskje litt mindre sannsynlig at det skulle være noe ytterligere 75 punkter endringer,
+
+[00:02:30] og at nå blir tempoen roet.
+
+[00:02:32] Så første reaksjonen var egentlig ganske positiv i markedet, men så når pressekonferansen satt i gang, så ble stemningen fort litt dårligere,
+
+[00:02:41] og markedet har falt rundt 3,5 prosent fra intradag-toppen frem til stengetid.
+
+[00:02:45] Ja, det ble det altså. Så jeg satt jo klar med popcorn, jeg skulle jo kose meg med pressekonferansen på onsdag kveld,
+
+[00:02:52] men det hakket så inn, Marie. Det var sikkert bare jeg som hadde dårlig internett, så jeg ble nødt til å gi opp.
+
+[00:02:58] Men etter hva som jeg har lest meg til i etterkant, så var vel noe av det viktige.
+
+[00:03:02] Det viktigste på å komme var at han hintet ganske sterkt på denne pressekonferansen om at rentetoppen sannsynligvis blir høyere enn de 4,6 prosentene som Fed har i dot-chartet allerede ved utgangen av 2023.
+
+[00:03:19] Dette har vel markedet allerede tatt høyde for. Konsensus er vel noe sånt som en rentetopp på 5 prosent, er det ikke det?
+
+[00:03:25] Ja, så var det det at det var signaler her om at rentene må holdes høy lenge.
+
+[00:03:32] Ikke justeres ned med en gang etter at toppen er nådd. Var det det som har overrasket markedet?
+
+[00:03:37] Ja, det var nok litt det, og hvis vi prøver å se på Fed Funds futures, altså terminkontrakter av hva markedet priser inn for Fed Funds renten fremover,
+
+[00:03:46] så er det nå priset inn et ekstra kvart prosentpoeng renteheving nå med en topp i juni på 5,18 prosent.
+
+[00:03:55] For en uke siden var toppen ventet til å være i mai på 4,91, så opp til i rundetall kan du si at det er en endring.
+
+[00:04:02] Det er en ekstra renteøkning nå som er priset inn, så det er ikke en sånn veldig stor forandring, men det er litt høyere,
+
+[00:04:07] og toppen da blir strukket litt lenger ut i tid. Så det var vel egentlig det som var endringen her, og til hvilken grad det var veldig dramatisk,
+
+[00:04:16] det er kanskje litt overdrevet, så det var nok kanskje litt den tonen i pressekonferansen også,
+
+[00:04:20] at han oppsikklig inviterte til en døvers tolkning, til tross for at det var det som første inntrykket fra pressemeldingen.
+
+[00:04:27] Så juryen er fremdeles ute, men ingen stor dramatikk.
+
+[00:04:35] Jeg tror det er rimelig å si at det var ikke sånn at det var noe game changer på noe vis,
+
+[00:04:39] men det er jo alltid litt sånn at det er de små endringene som markedet må prise inn fortløpende,
+
+[00:04:44] og til den grad du kan si at det var noe nytt, så var det nok det at man tydeligvis må være forberedt på at renten kommer ikke ned
+
+[00:04:53] kanskje like fort som markedet hadde håpet, og han var også litt inne på dette temaet,
+
+[00:04:57] som er noe vi har snakket om litt tidligere, at amerikanske husholdninger har egentlig en relativt god økonomi akkurat nå.
+
+[00:05:05] De har både mye mer penger enn vanlig på konto, men de fleste amerikanere har jo fastrentelån,
+
+[00:05:11] så det slår ikke med en gang for de fleste, det er egentlig de som skal flytte og de som skal inn i eiendomsmarkedet for første gang,
+
+[00:05:19] som er de som egentlig merker renteendringene i første runde.
+
+[00:05:23] En annen ting du påpekte for meg tidligere her i uken,
+
+[00:05:27] rentekurven den har invertert, det vil si at den amerikanske tiårsrenten er lavere enn tremåndersrenten,
+
+[00:05:35] og historisk har dette vært et ganske politlig recessjonssignal.
+
+[00:05:40] Gjør dette Feds dilemma litt større nå?
+
+[00:05:43] Ja, jeg tror det i hvert fall bekrefter.
+
+[00:05:46] Så ser de på dette her?
+
+[00:05:47] Ja, det tror jeg de absolutt gjør, og å si renter er noe som fungerer med long and variable lags,
+
+[00:05:55] så effekten av en renteending nå,
+
+[00:05:57] merkes ikke ordentlig før det har gått kanskje seks måneder og enda litt lengre tid.
+
+[00:06:02] Så Fed må da slutte å sette renten opp før de når inflasjonsmålet,
+
+[00:06:07] hvis de fortsetter å sette renten opp helt til de når det,
+
+[00:06:10] så har de satt opp renten for mange ganger.
+
+[00:06:12] Så det er liksom en trussel som ligger bak der,
+
+[00:06:15] at hvis vi er på vei inn i recessjonen allerede nå,
+
+[00:06:19] som du kan kanskje se at den rentekurven begynner å si nå,
+
+[00:06:23] så har de da kanskje satt renten opp nok allerede,
+
+[00:06:27] og vet det enda.
+
+[00:06:28] Så det er liksom det store problemet de har.
+
+[00:06:31] Nå ser vi noen år tilbake, så hadde Fed publisert en rapport,
+
+[00:06:35] som akkurat så på dette her med rentekurver,
+
+[00:06:38] og hvilken del av rentekurven var mest politisk,
+
+[00:06:41] og da var det nettopp den 10 år minus tre måneder,
+
+[00:06:44] som var den de konkluderte med,
+
+[00:06:45] i motsetning til 10 år minus to år,
+
+[00:06:48] som har vært invertert nå siden juli.
+
+[00:06:50] Så jeg tror de er nok litt ekstra opptatt av akkurat dette,
+
+[00:06:53] og de er da veldig klare over den risikoen at de kommer kanskje til å,
+
+[00:06:57] å stramme inn for mye.
+
+[00:06:59] Det går liksom for å ha den ene grøftekanten til den andre,
+
+[00:07:01] at de ventet for lenge med å stramme inn,
+
+[00:07:02] og så ender de opp med å stramme inn mer enn de behøver.
+
+[00:07:05] Men de er livredd for å ikke sette opp renten nok,
+
+[00:07:08] og at du etablerer en pris-lønn-spiral,
+
+[00:07:11] og at du da får en repetisjon av 60- og 70-tallet,
+
+[00:07:14] som da var en ganske slitsom periode for de fleste, tror jeg.
+
+[00:07:17] Men ser vi på makrotallene som vi har fått fra USA denne uken,
+
+[00:07:21] for det har det kommet ganske mange av,
+
+[00:07:23] så går vel de også i favør av en økonomi som alt annet like da,
+
+[00:07:26] som de ikke trenger.
+
+[00:07:27] Det er rentestimuli, men med nedkjøling.
+
+[00:07:29] Altså, utfordringen her er vel i hvilken grad disse dataene legger,
+
+[00:07:34] eller er etterslepende,
+
+[00:07:35] men de gir i hvert fall ikke fedt rom for å stoppe med rentehevingene.
+
+[00:07:41] Altså, utifra hva de har sagt, som du påpekte, Paul,
+
+[00:07:45] så vil jeg jo si snarere tvert imot.
+
+[00:07:47] Hva tenker du?
+
+[00:07:48] Ja, så ledige stillinger var en av de tallene som vi fikk denne uken,
+
+[00:07:53] og etter et fall måneden før, så kom det opp igjen,
+
+[00:07:57] så det som ødela litt det som kunne eventuelt ha vært en litt sånn duete historie der,
+
+[00:08:02] så det var en ting som indikerer at arbeidsmarkedet i hvert fall er relativt stramt for en del,
+
+[00:08:07] så får vi se hva som kommer ut av payrollsrapporten i ettermiddag.
+
+[00:08:11] Men ellers så hadde vi også ISM Manufacturing Indexen,
+
+[00:08:14] som var omtrent som ventet.
+
+[00:08:16] Den kom inn på rundt 50, så der er det ganske nærme nøytralnivå,
+
+[00:08:20] så de sliter litt innenfor manufacturing,
+
+[00:08:22] men ikke helt på type restriksjonsnivå enda der.
+
+[00:08:27] Men ISM tjenestesektoren, litt svakere enn ventet,
+
+[00:08:30] men fortsatt egentlig ganske bra nivå.
+
+[00:08:32] Det var rundt 54, og det er jo godt over det 50-punktet.
+
+[00:08:37] Og tjenestesektoren er jo mye større enn manufacturing,
+
+[00:08:40] så når du tar en vektet ISM-en, så er det jo fortsatt da på 53,9,
+
+[00:08:45] og det er jo da et godt stykke over 50,
+
+[00:08:47] så det er ikke noe resesjon å spore enda i makrotallene på i hvert fall ISM-indeksen.
+
+[00:08:52] Nå er jo ikke det noe fasitsvar på noe vis,
+
+[00:08:55] men om det er feil eller ikke, så er det antageligvis feil pluss minus 1 eller 2,
+
+[00:09:01] ikke pluss minus 4-5.
+
+[00:09:03] Så jeg tror det er ganske god dekning for å påstå at det er fortsatt OK vekst i økonomien,
+
+[00:09:09] og at vi er ikke på et nivå enda hvor resesjonen er helt garantert på noe vis.
+
+[00:09:15] Ja da, så får vi ta med at den amerikanske jobberapporten,
+
+[00:09:19] der kommer tallene etter at vi er ferdige med å spille inn dette her,
+
+[00:09:22] og det kan jo påvirke markedet,
+
+[00:09:25] men det får vi bare ta når det kommer, det vet ikke vi om nå.
+
+[00:09:31] Men la oss heller snakke litt mer om aksjemarkedet generelt,
+
+[00:09:34] for som jeg sa innledningsvis, så steg aksjer 59% i oktober på indeksnivå,
+
+[00:09:39] avhengig av om du ser i Norden eller USA.
+
+[00:09:43] Og dette bear market rally-poll som vi er inne i, vi kan vel kalle det for det,
+
+[00:09:48] er det fare for at det er over allerede, hvis vi ser globalt?
+
+[00:09:51] Ja, kanskje.
+
+[00:09:52] Så en god måte å prøve å svare på dette her,
+
+[00:09:54] er først å egentlig forklare hvorfor vi tror det er bear market rally,
+
+[00:09:58] og grunnen til det er egentlig to faktorer spesielt.
+
+[00:10:02] Den ene er det at det er veldig vanskelig å egentlig kunne forklare oppgangen
+
+[00:10:06] med selskapsrapportene som vi har hatt nå de siste ukene.
+
+[00:10:09] Flertallet av selskapene har falt på rapporteringsdagen,
+
+[00:10:12] estimaten er flatt litt ned,
+
+[00:10:14] så det gir ikke noe grunnlag for en rekyl etter min mening.
+
+[00:10:19] Og den andre måten man kunne eventuelt forklare det,
+
+[00:10:22] og fundamentalt, er at om rentene hadde kommet ned,
+
+[00:10:25] men rentene er jo egentlig flatt eller litt opp,
+
+[00:10:27] ettersom hvilken rente du ser på,
+
+[00:10:29] så det tror jeg heller ikke egentlig kan gi noe særlig forklaring på oppgangen.
+
+[00:10:33] Så skal man prøve å finne noe som virker ganske plausibelt
+
+[00:10:36] av hvorfor vi har fått den såpass sterke måneden,
+
+[00:10:38] så tror jeg kanskje det mest overbevisende er å se på sentimentetallene,
+
+[00:10:43] og dette er jo noe som vi tar opp med en jevne mellomrom.
+
+[00:10:46] Sentiment er en såkalt kontrærindikator,
+
+[00:10:49] så når alle er pessimistiske, så er det da man skal kjøpe.
+
+[00:10:52] Og i slutten av september, så var en av de sentimentindeksene
+
+[00:10:57] som vi følger med på, på den mest negative vi har sett siden mars 2009.
+
+[00:11:02] Så det er ekstremt negative nivåer,
+
+[00:11:05] så når du har såpass dårlig sentiment,
+
+[00:11:09] da er det veldig vanskelig å opprettholde så dårlig sentiment,
+
+[00:11:11] og da er det den letteste veien er at det blir noe bedre.
+
+[00:11:14] Og nå har det kommet fra ekstremt negativt til mer nøytralt.
+
+[00:11:18] Så jeg tror hvis man forklarer dette her med sentiment,
+
+[00:11:22] så virker det egentlig mer plausibelt, synes jeg, enn at det er fundamentalt.
+
+[00:11:26] Men sentiment er ikke noe som kan trekke markedet i flere måneder.
+
+[00:11:30] Fremover, det er en sånn kortsiktig indikator.
+
+[00:11:33] Så jeg tror det er en kortsiktig event vi egentlig ser her.
+
+[00:11:37] Nå som sentiment er mer på nøytrale nivåer,
+
+[00:11:39] så tror jeg det er litt mer sånn 50-50 rett og slett,
+
+[00:11:41] om det skal fortsette videre eller ikke.
+
+[00:11:44] Momentum har jo en tendens til å fortsette frem til noen nye impulser dukker opp,
+
+[00:11:49] og kanskje det Fed-møtet var den nye impulsen,
+
+[00:11:52] som stopper det opp.
+
+[00:11:53] Ellers så kan det ikke helt borti fra at hvis markedet klarer å risse av seg
+
+[00:11:57] det Fed-møtet nå i løpet av en dag eller to,
+
+[00:12:00] så er det ikke noe sånn teknisk motstand med det første.
+
+[00:12:03] Så det kan gå til at det fortsetter litt til.
+
+[00:12:05] Men jeg synes ikke man har grunnlag for å være noe veldig bestandt på det.
+
+[00:12:08] Nei, og timing på disse kortsiktige tingene,
+
+[00:12:12] det er, som vi har sagt mange ganger før,
+
+[00:12:15] veldig, veldig vanskelig for alle.
+
+[00:12:18] Uansett hvor aktiv og mye du kan,
+
+[00:12:21] noen marker det.
+
+[00:12:23] Men det jeg har sagt da,
+
+[00:12:25] mulig dette her blir the famous last words altså,
+
+[00:12:29] men jeg er nok temmelig overbevist om at vi dessverre
+
+[00:12:32] ikke har sett bunnen enda.
+
+[00:12:35] Altså jeg klarer rett og slett bare ikke se at alle brikkene har falt på plass enda.
+
+[00:12:40] Altså gjør du, vi snakket jo om dette med Knut Hellandsvik for et par uker siden,
+
+[00:12:45] Paul, han ramset opp flere av disse tingene som måtte på plass for at det liksom skulle
+
+[00:12:51] skrape bunnen.
+
+[00:12:52] Det med at markedet må være svært billig, vi er ikke helt der.
+
+[00:12:55] Sentimentet som du snakker om har vært negativt.
+
+[00:12:59] Ja, men nå har det kommet litt opp igjen.
+
+[00:13:02] Dette med at nedgangen i økonomien skal avta, der er vi vel ikke helt.
+
+[00:13:06] Og inflasjon og renter, at det på en måte har nådd toppen.
+
+[00:13:10] Vanskelig å liksom være skråsikker på at man er der ennå.
+
+[00:13:13] Ja, men jeg tror det er litt tidlig å prøve å liksom ta i med
+
+[00:13:17] når markedet skal begynne å prise inn bunnen i estimatene, for de har egentlig,
+
+[00:13:19] bare så vidt begynt å falle.
+
+[00:13:23] Så jeg ser for meg at fjerde kvartalsrapporteringssesongen er en større trussel når det gjelder
+
+[00:13:28] nedjustering i estimater enn det vi har sett i Q3.
+
+[00:13:31] Sånn Q3 har vært litt, litt soft vil jeg si, men ikke noe, ikke noe katastrofe.
+
+[00:13:36] Det er sånn i snitt estimatene ned i en prosent.
+
+[00:13:39] Så det er innenfor det du kan kanskje si er normalt, men klart svakere enn Q1,
+
+[00:13:43] eller Q2 som var svakere enn Q1.
+
+[00:13:45] Så det er en svakere trend som bygger seg opp her.
+
+[00:13:49] Etter hvert.
+
+[00:13:50] Men når det gjelder estimatene da, så er det egentlig først Q4 hvor selskapene gir noe guiding
+
+[00:13:55] for hva de forventer til neste år.
+
+[00:13:57] Så jeg tror det kommer større kutt når vi har fjerde kvartalsrapporteringssesongen.
+
+[00:14:01] Og estimatene til analytikerne for neste år synes jeg er fortsatt alt for positiv.
+
+[00:14:06] Så jeg tror oddsen for at vi skal videre ned på estimatene er relativt tydelig.
+
+[00:14:12] Og utover det så blir i så fall liksom bunnen en eller annen gang ut i neste år heller
+
+[00:14:17] at du kan begynne å ta i med det allerede nå.
+
+[00:14:19] I en videooppdatering for kundene tidligere i uken så viste du et par skjert fra bankene og kredittspreddene.
+
+[00:14:27] Og så sa du at det vil du følge nøye med på i ukene fremover. Hvorfor det?
+
+[00:14:31] Altså bank er en såkalt tidlig syklus sektor, så det er liksom en av de første av de sykliske sektorene
+
+[00:14:37] som begynner å henge etter markedet når man kommer inn i en restriksjon.
+
+[00:14:41] Så analytikerne og markedet, eller kanskje mest markedet og analytikerne er jo gjerne litt på etterskudd
+
+[00:14:46] med disse tingene.
+
+[00:14:47] Men at markedet begynner å prise.
+
+[00:14:49] Se inn lånetap, at det er grunnen til at bankaksjene begynner å svikte da
+
+[00:14:54] til tross for at inntjeningen fortsatt er relativt bra.
+
+[00:14:57] Det var jo en av trykkelige finansavisene i dag som påpekte det at sparebankssektoren har vært litt skuffende i år.
+
+[00:15:03] Så med andre ord så har det fungert som en leden indikator for at det har gått gradvis tyngre med økonomien nå.
+
+[00:15:09] Så det har fungert som en early warning på vei ned.
+
+[00:15:12] Men når det er en early cycle sektor så er det også en av de sektorene som begynner å funke igjen når man er på vei ut.
+
+[00:15:18] Så hvis vi ser at bank begynner å fungere så er jo det i seg selv et positivt tegn.
+
+[00:15:23] Men man trenger jo alltid litt flere krysspeilinger enn å bare se på en indikator.
+
+[00:15:29] Så da liker jeg å se på kredittspreadene også.
+
+[00:15:32] Hvordan har yieldmarkedet utviklet seg?
+
+[00:15:34] Så vi har sett egentlig gjennom dette året at banksektoren har korrelert ganske bra med kredittspreader.
+
+[00:15:41] Så jeg vil gjerne se at kredittspreadene nå begynner å komme litt inn igjen.
+
+[00:15:45] Og at det er det som gjør samme,
+
+[00:15:47] går i samme retning som bankene.
+
+[00:15:49] Så at du har to forskjellige indikatorer som egentlig sier det samme.
+
+[00:15:52] Så hittil så vil jeg si at bank har kommet litt å oppnå de siste par ukene.
+
+[00:15:56] Men det virker som det er kanskje aksjer som leder kreditt.
+
+[00:15:59] Normalt sett så er det egentlig kreditt som leder aksjer.
+
+[00:16:02] Så det er ikke helt obvist at dette er den bunnen vi ser etter.
+
+[00:16:06] Men det er i hvert fall noe man kan følge litt med på til å gi litt krysspeiling på når man eventuelt er på bunnen.
+
+[00:16:17] Jeg har som vanlig sett nærmere på hva kundene våre som handler via DNB-plattformen,
+
+[00:16:23] kjøpte og solgte aksjer i oktober.
+
+[00:16:26] Og der er det alltid mye snacks.
+
+[00:16:28] Samlet sett så handler kundene mindre,
+
+[00:16:32] altså gjør færre transaksjoner.
+
+[00:16:34] Men de viser tegn til optimisme i form av at på aggregert nivå,
+
+[00:16:38] når vi slår sammen alle kjøpene og salgene,
+
+[00:16:41] så nettokjøpte de aksjer igjen.
+
+[00:16:44] Og jeg synes det også var interessant at de nettokjøpte orkla.
+
+[00:16:49] Altså med nettokjøp så mener jeg rett og slett at de tilsammen kjøper for
+
+[00:16:53] et større beløp enn det de selger for.
+
+[00:16:56] Og som vi snakket om forrige uke, Pål,
+
+[00:16:58] så nedjusterte analytikeren vår orkla etter at de meldte om
+
+[00:17:03] både reorganisering i tillegg til også da litt skuffende tall og guidingestimat,
+
+[00:17:11] ble kuttet Finansavisen.
+
+[00:17:13] De skrev en artikkel at de lurte på om Ole Martin,
+
+[00:17:15] da analytikeren på Kaysa hadde spist huggormsuppe.
+
+[00:17:18] Det var faktisk litt morsomt skrevet.
+
+[00:17:22] Ellers så er det fortsatt energiaksjene da,
+
+[00:17:25] som styrer sjove med tanke på handelsaktivitet.
+
+[00:17:29] Det er stor interesse for både olje og rygg,
+
+[00:17:32] altså mer av det som vi rett og slett har sett i hele år.
+
+[00:17:36] Og det stemmer også opp mot hva kundene sier at de ønsker å ta eksponering mot
+
+[00:17:41] når vi gjør undersøkelser og spør de om det.
+
+[00:17:44] Så det virker som de gjør det de sier at de tenker å gjøre også.
+
+[00:17:50] Men apropos olje da,
+
+[00:17:51] uken startet med rykter om at Kina skal bort fra null-covid-politikken,
+
+[00:17:56] og som du sa i forrige uke,
+
+[00:17:58] så vil det alt annet like bety at Kina skal etterspørre mer olje.
+
+[00:18:03] Da er det vel fortsatt sånn at dette med at Kina skal forlate null-covid
+
+[00:18:07] er på ryktestadie,
+
+[00:18:08] men det har vel kommet noe mer dryppe nå utover i uken
+
+[00:18:11] som går i favør av dette her,
+
+[00:18:13] og oljeprisen er jo på rundt 97 nå,
+
+[00:18:15] hvis vi ser på nordsjøoljen.
+
+[00:18:17] Ja, ryktene begynner å bli litt mer spesifikke,
+
+[00:18:19] så jeg tror det er absolutt noe som gjelder.
+
+[00:18:20] Det er absolutt noe som er på gang her,
+
+[00:18:22] og det vi har fått i dag,
+
+[00:18:24] da er blant annet snakk om at de skal kanskje begynne å være litt mindre streng
+
+[00:18:29] med flyselskapene, som hadde tidligere blitt straffet
+
+[00:18:32] hvis de har med en viss mengde passasjerer som viser seg å være smittet.
+
+[00:18:36] Så det er jo hvertfall et område hvor det da er litt mer konkret
+
+[00:18:41] i forhold til ryktene,
+
+[00:18:42] og da tror jeg man kan være ganske sikker på at det er ting som skjer her.
+
+[00:18:47] Jeg tror når det gjelder oljeprisen også,
+
+[00:18:49] så er jo det egentlig en litt sånn krysspeiling,
+
+[00:18:51] at vi ser at oljeprisen viser litt mer livstegn igjen,
+
+[00:18:54] som du sa,
+
+[00:18:55] og den har jo egentlig vært i en negativ trend nå siden juni,
+
+[00:18:58] og nå synes jeg sånn den negativ trendkanalen nå ser ut til å brytes,
+
+[00:19:03] så er man litt kreativ med grafen,
+
+[00:19:05] så kan du kanskje egentlig finne en slags invertert hodeskulderbunnformasjon
+
+[00:19:09] som er omtrent ferdig der også,
+
+[00:19:11] så jeg synes egentlig oljeprisen begynner å se mer positiv nå
+
+[00:19:14] enn det har gjort det egentlig på flere måneder.
+
+[00:19:17] Denne handelsstatistikken,
+
+[00:19:19] den viser også at kundene våre de fortsetter å kjøpe lakseaksjer,
+
+[00:19:24] og i motsatt ende så finner vi grønne aksjer som nådde et nytt lavpunkt da,
+
+[00:19:30] ikke i form av at kundene nødvendigvis selger for så veldig mye mer enn de kjøper for,
+
+[00:19:35] men rett og slett at det er lite trading i disse aksjene,
+
+[00:19:39] så det er litt out of favor da,
+
+[00:19:41] for å si det på godt norsk.
+
+[00:19:45] Avslutningsvis så må vi også snakke om noen av aksjene
+
+[00:19:48] som har markert seg denne uken.
+
+[00:19:51] Når vi sitter her, Paul, så er OCBX-indeksen altså over 1200 igjen,
+
+[00:19:57] det betyr at hittil i år så er indeksen nå i pluss,
+
+[00:20:02] så får vi se hvordan dagen og uken ender da,
+
+[00:20:05] men av 65 aksjer i OCBX-indeksen,
+
+[00:20:09] så er det bare 16 som er ned denne uken,
+
+[00:20:11] så det har vært en klar styrkeuke for Oslo Børs.
+
+[00:20:15] Ja da, det går i positiv retning,
+
+[00:20:17] og det var litt det jeg prøvde å sikte til når jeg snakket om
+
+[00:20:21] om det Fed-møtet er nok for å ødelegge denne bear market rally eller ikke,
+
+[00:20:25] at er det nok impuls bak det,
+
+[00:20:27] så kan det godt hende at sentimentet må bli direkte bullish
+
+[00:20:30] før det egentlig har gått for langt,
+
+[00:20:32] så det kan jo fortsette en stund til,
+
+[00:20:34] men det er jo også interessant når du snakker om den splitten mellom
+
+[00:20:37] såkalt advances mot decliners her,
+
+[00:20:40] at når du ser på året totalt sett,
+
+[00:20:42] så er det jo ganske skjevt motsatt vei da,
+
+[00:20:44] at det er relativt få aksjer som er inn,
+
+[00:20:47] i pluss,
+
+[00:20:48] til tross for at indeksen da er relativt flat,
+
+[00:20:50] så det har noen tungvekter innenfor energi,
+
+[00:20:52] og så er det en del shipping-aksjer,
+
+[00:20:54] og så er det relativt tynt etter det,
+
+[00:20:56] så det er ikke veldig mange aksjer som egentlig
+
+[00:20:58] har bidratt så mye på den positive siden,
+
+[00:21:00] det er bare at det har vært nok av de til å klare å holde nullen sånn omtrent.
+
+[00:21:04] Ja nei, det er helt klart,
+
+[00:21:05] altså de som har vært tøffe og tatt eksponering
+
+[00:21:08] mot utvalgte shipping-segmenter og utvalgte energisegmenter,
+
+[00:21:12] det er de som har truffet innertid i år.
+
+[00:21:16] Men vi må ikke backtrade alt for mye,
+
+[00:21:19] vi skal snakke om noen aksjer sa jeg,
+
+[00:21:21] og det er shipping da, som det går i.
+
+[00:21:24] Valenius Vilhelmsen rapporterte denne uken,
+
+[00:21:27] og var opp 12% på rapporteringsdagen,
+
+[00:21:31] opp mer enn 20% uken sett innrett,
+
+[00:21:34] så det er en av aksjeraketene.
+
+[00:21:36] Bilfrakt er i sige, Paul.
+
+[00:21:39] Ja, det har jo vært utrolig sterkt egentlig den utviklingen,
+
+[00:21:43] det var jo sånn sterkt i starten av året,
+
+[00:21:45] og så har det vært i en sånn konsolideringsperiode,
+
+[00:21:47] hvor det klarte ikke helt å opprettholde den positive momentumen,
+
+[00:21:51] men da har det virkelig skutt fart igjen,
+
+[00:21:53] og jeg ser det som en litt mist opportunity, kan du si.
+
+[00:21:57] Vi har jo hatt Frontline i ukesportefølgen som var shipping-bett,
+
+[00:22:00] den er jo opp 25% siste måneden,
+
+[00:22:02] så jeg er egentlig fornøyd med det,
+
+[00:22:04] men Valenius Vilhelmsen da,
+
+[00:22:06] hvis du ser på de siste månedene, så er den opp 50%,
+
+[00:22:09] så hadde jo selvfølgelig vært bedre å ha satset på den,
+
+[00:22:12] selv om Frontline ikke er noe som har vært direkte skuffende,
+
+[00:22:15] heller.
+
+[00:22:16] Vi får skrytte litt av Jørgen da,
+
+[00:22:18] analytikeren på dette caset,
+
+[00:22:20] han har jo vært positiv og hatt kjøp her en god stund,
+
+[00:22:24] og gjenta kjøpsanbefalingen,
+
+[00:22:26] har oppjustert kursmålet fra 108 kroner til 131 kroner.
+
+[00:22:32] Ja, han har jo vært flink på dette her,
+
+[00:22:34] og shipping er jo en vanskelig sektor,
+
+[00:22:37] og det er jo litt fristende, enkelt å kanskje være bullish til enhver tid,
+
+[00:22:42] med andre klarere,
+
+[00:22:44] ikke liksom helt det å ta i med disse toppene og bunne så godt,
+
+[00:22:47] men han synes han har gjort en veldig god jobb på sektoren i år.
+
+[00:22:50] Og så virker det jo som på en måte etterspørselen er sterk,
+
+[00:22:53] og at Tidebanen nær sagt løfter alle disse bilfraktaksjene da,
+
+[00:22:58] ser man til både Høg og Gram, som den andre selskapet også heter,
+
+[00:23:04] så er vel også det gått veldig bra.
+
+[00:23:07] American Shipping Company, det må vi også nevne,
+
+[00:23:11] her har analytikeren,
+
+[00:23:13] samme analytiker, tatt opp dekning med en kjøpsambefaling,
+
+[00:23:18] og kursmål på 67 kroner,
+
+[00:23:22] beskriver dette caset som,
+
+[00:23:25] jeg har ikke lukt å lese rapporten enda,
+
+[00:23:27] men som en ocean yield 2-0,
+
+[00:23:30] og et sånt skikkelig utbyttecase,
+
+[00:23:32] det er jo alltid spennende på.
+
+[00:23:34] Ja, utbytte er jo en av de faktorene som over tid som regel
+
+[00:23:38] står for en vesentlig del av avkastningen når du ser på indexen,
+
+[00:23:41] over en lengre tidshorisont,
+
+[00:23:43] og det er klart hvis du har en direkte avkastning på opp imot 13%,
+
+[00:23:47] som er vel egentlig det som vi tror i dette tilfellet,
+
+[00:23:50] så trenger du egentlig ikke noe kursoppgang til å forsvare og eie den aksjen.
+
+[00:23:54] Så jeg synes alle sånne utbyttecase,
+
+[00:23:57] så lenge det er mulig å opprettholde utbytte på det nivået,
+
+[00:24:01] blir veldig lett å regne hjem kontra case som eventuelt da er mye mer syklisk i utviklingen,
+
+[00:24:09] eller eventuelt da har utbytte som er mye lavere,
+
+[00:24:12] og du egentlig satser på at utbytte over tid skal vokse så mye.
+
+[00:24:16] Så her har du utbytte som allerede nå er ganske spennende.
+
+[00:24:19] Vi får ta en oppdatering med Jørgen etter hvert,
+
+[00:24:24] så han får sett oss godt inn i selskapet og aksjen.
+
+[00:24:30] Men Kahoot, den må vi også ta før vi runder av i dag.
+
+[00:24:33] Også de rapporterte denne uken,
+
+[00:24:35] Polo her har jo analytikeren vår på dette case, Frank,
+
+[00:24:41] nedjustert til selv for en tid tilbake etter at det gikk feil vei veldig lenge for aksjen.
+
+[00:24:51] Og nå har han justert litt igjen.
+
+[00:24:53] Ja, så nå har han oppgradert til Kahoot,
+
+[00:24:55] så det kom ned til kursmålet hans med salgsanbefalingen,
+
+[00:24:59] så det var egentlig et ganske klokkerønt treffe synes jeg.
+
+[00:25:02] Og da når det kommer ned til kursmålet,
+
+[00:25:04] så må du enten endre anbefalingen eller endre kursmålet.
+
+[00:25:08] Da har vi gjort en liten endring på kursmålet også,
+
+[00:25:10] tatt det opp til 20 kroner fra 19.
+
+[00:25:13] Men nå føler jeg egentlig at den risikoen er litt mer balansert,
+
+[00:25:17] at nå er det ikke noe veldig tydelig nedsidig risiko kontra oppside.
+
+[00:25:23] Dilemma selskapet har akkurat nå er til hvilken grad de skal satse fullt ut på vekst,
+
+[00:25:28] eller om de skal være litt mer konservative og sørge for at kontantstrømmen ser bedre ut.
+
+[00:25:33] Det virker som de da har konkludert med at de skal prøve å være litt mer forsiktig
+
+[00:25:39] og prøve å forsvare kontantstrømmen så godt som mulig.
+
+[00:25:43] Det skuffer jo de som har kjøpt aksjen på grunn av vekstprofilen,
+
+[00:25:47] og samtidig så er det kanskje en liten påminnelse også
+
+[00:25:51] at det er ikke lett om dagen å drive noe som helst business,
+
+[00:25:56] men akkurat Kahoot er jo en sånn type ting hvor du kan si at det er ikke en must have,
+
+[00:26:00] det er en mer nice to have.
+
+[00:26:03] Sånn type produkt, og da kan man restrikere at en del av de som er brukere i dag
+
+[00:26:07] kanskje slutter å bruke det, og det er ikke like lett kanskje å få nye kunder inn.
+
+[00:26:11] Vi får la det bli siste ord for i dag.
+
+[00:26:16] Vi runder av, så da gjenstår det egentlig bare å si på alle tusen takk
+
+[00:26:20] for at du var med oss sist, men ikke minst folkens,
+
+[00:26:23] tusen takk til alle dere som hørte på.

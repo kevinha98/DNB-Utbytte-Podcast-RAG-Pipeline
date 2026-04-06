@@ -1,0 +1,881 @@
+Episode 270: Prissjokk på matvarer?
+Publisert: Mon, 25 Ap
+Vert: Marius Brun Haugen
+Varighet: 23 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/prissjokk-pa-matvarer
+
+--- Transkripsjon ---
+
+[00:00:00] Matvaruprisene har vært på stigende kurs siden høsten 2020, og nå er nok et rykk på gang.
+
+[00:00:06] Med invasjonen av Ukraina har prisene på blant annet vete steget kraftig, samtidig som høye energipriser gjør det mindre lønnsomt å produsere gjødsel, noe som kan løfte matprisene på bred basis lenger ut i tid.
+
+[00:00:22] Og situasjonen kan føre til matkrise i verdens fattige land, og dessuten høy prisvekst på matvarer gir nok et bidrag til å øke den allerede høye inflasjonen i vestlige land.
+
+[00:00:37] Så går vi mot et prissjokk på matvarer, og hvor skal dette her ende? Ja, det skal vi snakke om i dagens episode.
+
+[00:00:46] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen global økonomien og finansiering.
+
+[00:00:58] Jeg er Marius Brunhaugen fra DNB Markets, og med meg har jeg en alltid likeblige sjeføkonomen vår her på huset, Kjersti Haugland.
+
+[00:01:08] Hei Kjersti.
+
+[00:01:08] Hei, hei Marius.
+
+[00:01:10] Du, før vi konsentrerer oss om maten og kornet som det skal dreie seg om i dag, i fjor høst så lagde du og jeg, tror jeg lytterne husker, en episode om grønnflasjon, som vi kalte det.
+
+[00:01:24] Altså om det grønne skiftet, og i hvilken grad det vil bidra til at vi får ekstra.
+
+[00:01:28] Ekstra økt prisvekst de kommende årene, nettopp på grunn av høyere energipriser i denne transisjonsperioden, og så økte matpriser da igjen på grunn av høyere energikostnader.
+
+[00:01:40] Og nå er jo et sånt scenario enda mer aktuelt, vil jeg si, enn det det var da vi snakket om dette forrige gang.
+
+[00:01:47] Og tar vi også med oss andre store inflasjonsdrivende trender, sånn som deglobalisering og forsyningskjedeutfordringer,
+
+[00:01:55] så er jo dette her på mange måter i ferd med å bli en sånn perfekt storm nesten, med tanke på inflasjonen, er det ikke det?
+
+[00:02:04] Absolutt, og den stormen den bevittmer meg jo definitivt i fjor, når inflasjonen skaut opp og har fortsatt oppover i år til nivåer som man ikke har sett på 40 år i USA,
+
+[00:02:15] men det er skyhøye nivåer også i Europa, og nå bidrar jo da Ukraina-krigen til at inflasjonstoppen ikke kan anses å være nådd faktisk,
+
+[00:02:25] og at inflasjonen vil holde seg bekymringsverdig høy i en lang periode.
+
+[00:02:31] Så ja, dette her, det er veldig mange krefter som på likt bidrar til at vi må se for oss prisvekst som er høyere enn det det har vært de forrige ti årene.
+
+[00:02:42] Ja, og jeg har bare startet med dette fordi som kjent at alt henger sammen med alt,
+
+[00:02:47] men i dag så skal det jo da handle om mat og potensielle prissjokk på matvarer på en skala fra 1 til 10,
+
+[00:02:55] som det har holdt oss forr om dagen, både fra finansmarkedssiden og fra det økonomiske perspektivet.
+
+[00:03:00] Hvor bekymret skal vi være for eskalerende matvarerpriser og matkriser?
+
+[00:03:04] Ja, ser du nå dette ut fra et sentralbankperspektiv eller en vestlig forbrukersperspektiv,
+
+[00:03:12] så tror jeg ikke vi skal tenke at vi skal være så veldig bekymret.
+
+[00:03:15] Matvarerprisoppgangen bidrar til å løfte inflasjonen, men det er langt fra den viktigste komponenten,
+
+[00:03:22] men det er altså en ekstra komponent som bidrar til å løfte det.
+
+[00:03:25] Det er å løfte levekostnadene til folk.
+
+[00:03:27] Men nødvendighetsvarer er jo ikke en like stor del av forbruket til oss i rike land.
+
+[00:03:33] Det er de som faktisk bruker veldig store deler av sitt budsjett hver dag, hver måned,
+
+[00:03:39] på matvarer, på energi, som virkelig får smellen.
+
+[00:03:43] Så vi skal være veldig bekymret på deres vegner og selvfølgelig også for de ringvirkningene,
+
+[00:03:47] det i neste omgang kan føre til for oss her hjemme.
+
+[00:03:51] Men vi er ikke alene for å snakke om dette her i dag.
+
+[00:03:55] Ved siden av oss sitter nemlig Kristian Anton Smedsau, som er daglig leder i Agri Analyse.
+
+[00:04:02] Velkommen skal du være.
+
+[00:04:03] Takk for det.
+
+[00:04:04] Ja, det er Anton blant venner, er det ikke det?
+
+[00:04:07] Stemmer.
+
+[00:04:08] Ja, da blir det bare Anton fra nå av.
+
+[00:04:10] Og du har en doktorgrad i økologi og er førsteamensis ved NMBU,
+
+[00:04:16] og har også utgitt og redigert bøker om tema tilknyttet jordbruk, politisk økonomi og samfunn.
+
+[00:04:23] Så jeg er ganske sikker på, Anton, at du kan hjelpe oss å belyse denne situasjonen på en fornuftig måte, eller hva?
+
+[00:04:29] Jo, takk for det. Jeg skal jo gjøre mitt beste.
+
+[00:04:31] Jeg har i hvert fall hatt gleden av å jobbe med dette de siste 15-20 årene,
+
+[00:04:35] så sånn sett så har han jo forhåpentligvis fått et visst perspektiv på det.
+
+[00:04:38] Ja. Så situasjonen da, som jo mange vet, altså et mulig bortfall av viktig ukrainsk og russisk eksport av blant annet vetemais og solsikkerfrø,
+
+[00:04:50] det har gitt matvareprisene et ekstra løft.
+
+[00:04:52] Prøv å forklare for oss, hvor ille er dette her på vei til å bli med tanke på tilgangen på korn som jo vi sårt trenger i verden?
+
+[00:05:03] Ja, det er vel akkurat det som er den store utfordringen da, hvor ille dette er på vei til å bli, det er vel egentlig ingen som helt vet,
+
+[00:05:10] for her går det an å lage et ganske stort utfallsrom for den situasjonen som nå da dessverre er i primært det østlige Ukraina.
+
+[00:05:18] Men hvor ille er det nå da?
+
+[00:05:20] Hvor ille det er akkurat nå?
+
+[00:05:21] Nå så er det for så vidt ikke så galt, altså de internasjonale markedene fungerer, det er dyrere, og det merkes som Kjersti sa her,
+
+[00:05:31] for særlig de som har lav kjøpkraft i utgangspunktet, for de andre så er det for så vidt håndterbart sånn som det er nå.
+
+[00:05:39] Problemstillingen er hvis vi får forstyrringsforstyrrelse hvor varene ikke kommer fram, og markedet slutter å virke.
+
+[00:05:45] Og hvis det skulle skje, så vil situasjonen bli veldig alvorlig, fra et område som eksporterer ca. en tredjedel,
+
+[00:05:49] fra et område som eksporterer ca. en tredjedel,
+
+[00:05:51] av veten som er det viktigste planteproduktet, kanskje det viktigste enkeltproduktet i hele matvarekjeden.
+
+[00:06:00] Men sånn som det er nå, så tror vi at to tredjedeler av Ukrainas jord er i produksjon, og vil forhåpentligvis bli høstet.
+
+[00:06:08] Utfordringen umiddelbart da, det er at de må få ut det kornet som de ikke har fått eksportert på vanlig måte i vinter og for så vidt vår,
+
+[00:06:19] slik at de må tømme lagrene for å få plass til det nye, så en del av logistikken her er veldig usikker.
+
+[00:06:26] Det er også usikkerhet hvor lenge krigshandlingene vil vare.
+
+[00:06:30] Et godt scenario i anfølsestegn da, det er at de gir seg i løpet av mai, man får tømt eksisterende siloer,
+
+[00:06:38] gjort klart til ny avling, og fått gjort da innhøstingen på normalt vis, og man da vil kanskje få eksportert type halvparten til to tredjedeler.
+
+[00:06:47] Det er et positivt scenario. Den andre delen av et positivt scenario er at Russland vil produsere omtrent som før.
+
+[00:06:56] De har jo kunstgjødsel, det er ikke krigshandlinger der, og de har stort sett innsatsfaktorene som er nødvendige.
+
+[00:07:01] Og gitt at de da vil fortsette eksportøret til de landene som ikke har fordømt dem, og som de da på en måte har opprettholdt et greit handelsmessig forhold til,
+
+[00:07:12] så vil jo de volymene bli tilgjengelige da i markedet.
+
+[00:07:16] Men litt justert da, ikke sant? At dette justerer seg til. Det er det positive scenarioet.
+
+[00:07:21] Det negative scenarioet er at krigshandlingene drar ut, Ukraina blir ikke kvitt det de hadde, de får ikke inn det som står ute nå,
+
+[00:07:28] og som er i ferd med å begynne vekstsesongen, og det blir handelsforstyrrelser, så man får ikke ut kornet via Bosporos,
+
+[00:07:35] og da heller ikke den russiske eksporten, herunder den kazaksdanske som går via Russland.
+
+[00:07:40] Da ser det ganske mørkt ut, og da er jeg usikker på hvordan markedene vil fungere utover høsten,
+
+[00:07:45] hvis vi skulle komme dit. Så dette utfallsrommet er stort, og det er uvisst, men ingen grunn til å si at dette kommer til å gå veldig galt.
+
+[00:07:53] Dette kan vi handle oss gjennom i 2022, og så blir det nye spørsmål for 2023.
+
+[00:07:57] Eller vi kan si at det blir en veldig vanskelig situasjon fra 2022, markedene slutter å fungere,
+
+[00:08:02] og det blir mer strategisk avtale mellom enkeltland. Det siste er vel tross alt mindre sannsynlig, men utfallsrommet er stort.
+
+[00:08:10] Ja, og utfall av krigen, det er det i hvert fall ingen av oss som sitter her,
+
+[00:08:15] som klarer å spå. Men 2022, altså base case, det ser på en måte greit nok ut.
+
+[00:08:23] Når dette her begynner å se mer skummelt ut, er det allerede potensielt fra 2023?
+
+[00:08:31] Det ser potensielt greit nok ut i et best case-scenario. Det er fortsatt stor mulighet for at 2022 kan bli vanskelig,
+
+[00:08:41] men 2023 vil uansett bli krevende.
+
+[00:08:44] Fordi at en ting er å konsentrere seg om svarthavsområdet.
+
+[00:08:48] Den videre utfordringen er jo nettopp det vi var inne på i starten, altså den generelle inflasjonen på kostnadsfaktorer.
+
+[00:08:54] Gjødsel er dyrt å kjøpe inn, drivstoff er dyrt, de sliter med ulike andre kostnadsdrivere,
+
+[00:09:03] som dyrere reskop, sprøytemidler, kanskje mangel på innsatsfaktorer i det hele tatt.
+
+[00:09:10] Når det da forplanter seg inn i usikre avgjørelser,
+
+[00:09:14] bønder i Vesteuropa, bønder i Nord-Amerika, bønder i Sør-Amerika,
+
+[00:09:19] og kanskje direkte mangel på innsatsfaktorer, for eksempel i Afrika og deler av Asia,
+
+[00:09:24] så aner vi ikke den samlede konsekvensen av produksjonsbortfall for 2022.
+
+[00:09:31] For noe bortfall vil det bli, men vil det bli to prosent i forhold til normalår, eller vil det bli ti?
+
+[00:09:35] Det utfallsrommet er enormt stort, også selvfølgelig i den langsiktige konsekvensen,
+
+[00:09:42] også særlig fordi at de færreste land i dag har buffellagere for å håndtere den type forstyrrelser.
+
+[00:09:47] En ting som er kritisk her, som du vel var inne om, det er gjødseltilgang med tanke på avlingene fremover, er det ikke det?
+
+[00:09:57] Jo, gjødseltilgang, og særlig den mineralgjødseldelen knyttet til nitrogen, er jo det helt essensielle.
+
+[00:10:04] Hvis du ikke har nitrogentilførsel fra et år til et annet i en kornavling, og for så vidt delvis også grass,
+
+[00:10:10] særlig på korn, så går det fort ned med 40-50 prosent av volymet.
+
+[00:10:16] Så satt på spissen, og det har i hvert fall vært mitt syn etter å ha jobbet med den tid,
+
+[00:10:20] så tror jeg kanskje at mineralgjødsel er en kandidat til å være verdens viktigste oppfinnelse.
+
+[00:10:25] Det viktigste enkelproduktet vi faktisk sitter med, så når det ikke spres ut i en strekkelig grad,
+
+[00:10:29] og det vet vi det ikke vil bli, og det vil bli en form for rasjonerende bruk hos den enkelte bonde,
+
+[00:10:34] så løper vi en stor samlet risiko.
+
+[00:10:37] Og så spiller jo selvfølgelig været, det er det heller ikke.
+
+[00:10:38] Ja, og så spiller jo selvfølgelig været, det er det heller ikke.
+
+[00:10:39] Det er det heller ikke noen som styrer over en viktig rolle her i dyrkingen,
+
+[00:10:46] men vi bør vel håpe at værgudene er med oss i år.
+
+[00:10:50] Ja, det bør vi vel håpe i alle år, men særlig i år så er det helt avgjørende,
+
+[00:10:57] og det er klart at jordbruk er jo en form for værlotto,
+
+[00:11:00] og det er en svær logistikkoperasjon, ikke sant?
+
+[00:11:03] Altså man undervurderer litt den store logistikkoperasjonen der,
+
+[00:11:06] og får inn gjødsel.
+
+[00:11:08] Får inn gjødsel, drivstoff, såkolen, kanskje nye maskiner, sprøytebilder, et cetera.
+
+[00:11:15] Og så setter dette i funksjon, og så går det 3-4 måneder,
+
+[00:11:18] og så skal du ha ut hele avlingen igjen, ikke sant?
+
+[00:11:20] Det er en annen logistikkoperasjon.
+
+[00:11:22] Og så skal du tenke langsiktig og drive investeringer som er fornuftige.
+
+[00:11:25] Så det er jo egentlig en form for sånn ultimat sektorstyring
+
+[00:11:29] som vi driver med innenfor de ulike landene her,
+
+[00:11:32] som er ganske fascinerende sånn i volymeomfang.
+
+[00:11:36] Kjersti, blir du betrygget eller litt sånn rolig når du hører hva Anton sier?
+
+[00:11:41] Jeg synes i hvert fall det høres ut som det er en nøkter og realistisk innstilling
+
+[00:11:46] til de risikoene vi står stilt overfor.
+
+[00:11:49] Altså det trenger ikke nødvendigvis å gå åt skogen dette her.
+
+[00:11:53] Hvis ting stabiliserer seg og unngår de verst mulige utfallene,
+
+[00:11:57] så kan det hende at den selve effekten av Ukraina-krigen blir relativt begrenset.
+
+[00:12:04] Men at vi uansett står overfor en stigende tendens videre på matvarene
+
+[00:12:10] på grunn av den situasjonen som vi allerede står oppi.
+
+[00:12:12] Og det er jo også sånn at Ukraina-krigen har ført til en voldsom omdreining
+
+[00:12:17] i politikken, sikkerhetspolitikken, særlig i Europa.
+
+[00:12:22] Det har medført at forsvarsbudsjettene øker kraftig,
+
+[00:12:26] men det medfører jo også at dette grønne skiftet må skje enda raskere.
+
+[00:12:32] Selvforsyn...
+
+[00:12:34] Europa ønsker å bli selvforsynt med energi,
+
+[00:12:36] så dette handler jo ikke kun om klima, det handler om sikkerhetspolitikk.
+
+[00:12:39] Og nå har den fått enda mer hastverk.
+
+[00:12:41] Det betyr at det skal forceres ytterligere nettopp oppbyggingen
+
+[00:12:45] av veldig mye mer fornybar energi i Europa.
+
+[00:12:48] Og det vil jo også kreve nettopp veldig mange innsatsfaktorer
+
+[00:12:52] som vil drive opp mange forskjellige priser fremover.
+
+[00:12:57] Og, ja, føre til at oppgangen blant annet i matvareprisene
+
+[00:13:01] vil vare ved ei stund.
+
+[00:13:03] Hvis vi drar dette litt ned til konsekvenser,
+
+[00:13:07] og deler det inn i, kall det, Norge og Vesten,
+
+[00:13:11] og så de fattige landene, hvis vi starter med Norge og Vesten,
+
+[00:13:14] altså, vil det bli økt fokus, tror du, Anton, på egenproduksjon,
+
+[00:13:19] eller altså, kall det, økt grad av selvforsynthet fremover?
+
+[00:13:23] Ja, jeg tror det kommer på mange områder,
+
+[00:13:25] og som Kjersti sa her, så tror jeg dette blir litt sånn sektorovergripende,
+
+[00:13:29] og EU har jo nå innført et sånt strategisk begrep,
+
+[00:13:32] som de kaller for strategisk autonomi,
+
+[00:13:34] hvor de på en måte vil sikre seg kontroll på mange av de avgjørende
+
+[00:13:37] samfunnsmessige innsatsfaktorene, ikke sant?
+
+[00:13:39] Mat, energi, og ikke minst kritiske mineraler og sentrale produkter.
+
+[00:13:44] Nå tenkte jeg spesifikt på å kalle det korn, da.
+
+[00:13:46] Jo, jeg skjønner det.
+
+[00:13:47] Men så tror jeg at da vil korn være et element av det,
+
+[00:13:51] og jeg tror at vi vil se en økt lageraktivitet,
+
+[00:13:56] at vi bygger opp en del av de lagrene og en del av tankegangen
+
+[00:13:58] som har avviklet i etterkant av murens fall,
+
+[00:14:00] i da ...
+
+[00:14:02] november 1989,
+
+[00:14:04] og at man vil se litt på hvordan man skal på en måte revitalisere
+
+[00:14:08] de gamle systemene for å etterpå skape seg buffere.
+
+[00:14:11] Og det er relevant også innimot et klimaperspektiv,
+
+[00:14:14] for hvis du forventer større og økte forstyrrelser over tid,
+
+[00:14:18] så er det også viktig å kunne ta vare på de veldig gode avlingene
+
+[00:14:22] for år som kan bli litt dårligere.
+
+[00:14:24] Og Australia, som nå har en ganske god eksportsituasjon,
+
+[00:14:26] de har jo noen år om annet veldig dårlig eksportsituasjon,
+
+[00:14:29] for det varierer så voldsomt.
+
+[00:14:31] Så både den geopolitiske situasjonen,
+
+[00:14:33] og for så vidt de forventede klimaendringene,
+
+[00:14:35] taler til fordel for å bygge opp større buffere,
+
+[00:14:37] håndtere svingninger på en ny måte,
+
+[00:14:39] og at vi er litt på etterskudd med den tilpassningen.
+
+[00:14:42] Og det er en del av det, kanskje det er det
+
+[00:14:44] inflasjonsdrivende settingen vi er i,
+
+[00:14:46] og en del av det som jeg tror kommer til å begrunne
+
+[00:14:48] en litt annen tenking fremover.
+
+[00:14:50] Liten halvstikke, kanskje, men ...
+
+[00:14:52] Hva vil dette gjøre, da?
+
+[00:14:54] Vil det bli bedre å være bonde i Norge og Vesten,
+
+[00:14:58] fordi det blir økt fokus på dette her,
+
+[00:15:00] eller vil det bli tøffere rett og slett,
+
+[00:15:02] fordi kostnadene blir høyere,
+
+[00:15:04] innsatsfaktorene dyrere?
+
+[00:15:06] Jeg tror over tid så vil det bli bedre,
+
+[00:15:08] for man vil få en større forståelse for
+
+[00:15:10] viktigheten av at dette systemet fungerer,
+
+[00:15:12] og at det må ha en langsiktig planlegging.
+
+[00:15:14] Og vi vet jo at på norske budsjettene,
+
+[00:15:16] så brukte man da på 70-tallet,
+
+[00:15:18] hvor det var en sånn for- og opptrapping,
+
+[00:15:20] så brukte man 7-8% av statsbudsjettet
+
+[00:15:22] til jordbruksforhandlingene,
+
+[00:15:24] eller til jordbruksavtalen.
+
+[00:15:26] Nå bruker man drøyt 1%.
+
+[00:15:28] Det er ganske mye å gå på,
+
+[00:15:30] for dette vil gjøre stor forskjell i landbruket,
+
+[00:15:32] men det vil ikke knekke budsjettene akkurat,
+
+[00:15:34] så jeg tror at den kostnadssiden
+
+[00:15:36] er veldig håndterbar.
+
+[00:15:38] Og det er jo det som er det paroxale med jordbruket,
+
+[00:15:40] at jo, hvis det er knappet på produktene,
+
+[00:15:42] så står bonden veldig høyt i kur,
+
+[00:15:44] så det er mye fokus på jordbrukspolitikken.
+
+[00:15:46] Hvis man lykkes, og det er store overskudd
+
+[00:15:48] av jordbruksvarer,
+
+[00:15:50] så er det ingen som egentlig bryr seg om jordbrukspolitikken.
+
+[00:15:52] Jeg synes også det kan være interessant
+
+[00:15:54] å bare peike på, for alle de som sikkert lurer på
+
+[00:15:56] hva med norske matvarepriser,
+
+[00:15:58] det er jo systemet veldig spesielt i forhold til mange andre land,
+
+[00:16:00] fordi nettopp man har så tungt
+
+[00:16:02] innslag av reguleringer på priser.
+
+[00:16:04] Så en gang i året,
+
+[00:16:06] så settes jo disse målpriserne
+
+[00:16:08] for en rekke varer, der Norge er
+
+[00:16:10] vesentlige produsenter da, innenlands,
+
+[00:16:12] for å nettopp
+
+[00:16:14] styre det sånn at
+
+[00:16:16] priserne blir satt på en sånn måte,
+
+[00:16:18] og da i kombinasjon med tolvsatser
+
+[00:16:20] på konkurrerende import,
+
+[00:16:22] at det går unna
+
+[00:16:24] for å dekke
+
+[00:16:26] bønnene sine kostnader.
+
+[00:16:28] Så må jordbruksoppgjer
+
+[00:16:30] på trappene, som skal sette denne nye
+
+[00:16:32] målprisen, som gjelder da
+
+[00:16:34] fra 1. juli,
+
+[00:16:36] så det gjelder for etter omgangen.
+
+[00:16:38] Så typisk norske matvarer, de
+
+[00:16:40] gir et hopp en gang i året,
+
+[00:16:42] og så blir de liggende ganske stabilt.
+
+[00:16:44] Nivået på våre priser relativt
+
+[00:16:46] utlandet er typisk høyt,
+
+[00:16:48] men de svinger altså mindre
+
+[00:16:50] enn i mange andre land.
+
+[00:16:52] Så det gir en spesiell type dynamikk
+
+[00:16:54] i Norge i forhold til andre land.
+
+[00:16:56] Men sånn generelt da, i Vesten,
+
+[00:16:58] man må vel som forbruker
+
+[00:17:00] belage seg på at matet vi tar
+
+[00:17:02] er litt større jaffs enn lommeboken.
+
+[00:17:04] Absolutt, så det skjer jo nå
+
+[00:17:06] hvor mye av dette som skjer
+
+[00:17:08] via forbrukerne sine lommebøker,
+
+[00:17:10] det avhenger jo litt av hvordan
+
+[00:17:12] politikerne nå bestemmer seg for å
+
+[00:17:14] ta støyten fra bønnene
+
+[00:17:16] via de økte målprisene.
+
+[00:17:18] Der kommer det jo noe,
+
+[00:17:20] så det går ut over lommebøkene til folk.
+
+[00:17:22] Men de kan også gi større overføringer
+
+[00:17:24] til bønnene, altså direkte støtte.
+
+[00:17:26] De vil gå over budsjettene
+
+[00:17:28] og virke i hvert fall ikke direkte
+
+[00:17:30] inn på lommebøkene.
+
+[00:17:32] Så det er mange ting å tenke på på en gang.
+
+[00:17:34] Men klart, retningen er opp
+
+[00:17:36] på matvarepriser her i Norge.
+
+[00:17:38] Det er bare det at du kan ikke følge grafen
+
+[00:17:40] til veteprisene internasjonalt
+
+[00:17:42] og tenke at denne veien skal matvareprisene
+
+[00:17:44] i Norge. Sånn fungerer det ikke.
+
+[00:17:46] Men ja, ser vi på
+
+[00:17:48] de økonomiske og sosiale konsekvensene
+
+[00:17:50] utenfor Vesten
+
+[00:17:52] eller mer for den fattige delen
+
+[00:17:54] av verden,
+
+[00:17:56] så er det jo de som vil
+
+[00:17:58] rammes verst.
+
+[00:18:00] I et verstes scenario
+
+[00:18:02] så er det jo opprør
+
+[00:18:04] og migrasjonsbølger og sånne ting
+
+[00:18:06] som vil kunne skje.
+
+[00:18:08] Anton,
+
+[00:18:10] dette er jo noe man har vært igjennom
+
+[00:18:12] før til en viss grad.
+
+[00:18:14] I Midtøsten er det de som er mest utsatt
+
+[00:18:16] i forhold til knappet på
+
+[00:18:18] tilgang på vet og antipikolen.
+
+[00:18:20] Det er nok der importandelen er
+
+[00:18:22] generelt høyest.
+
+[00:18:24] Men Nordafrika
+
+[00:18:26] fra Tunis
+
+[00:18:28] til Egypt og så kommer de i Midtøsten
+
+[00:18:30] de har jo ganske
+
+[00:18:32] tørre områder
+
+[00:18:34] og relativt mye folk, sånn at Egypt
+
+[00:18:36] er jo for eksempel verdens største veteimportør.
+
+[00:18:38] Unn 10 millioner tonn får stort sett alltid
+
+[00:18:40] fra Ukraina og Russland.
+
+[00:18:42] Det er de for så vidt også veldig klare over.
+
+[00:18:44] Så de opprettholder nok mye av de kontaktene
+
+[00:18:46] for å muliggjøre det videre.
+
+[00:18:48] Men Tunis
+
+[00:18:50] i februar-mars 2011
+
+[00:18:52] det oppstod jo den arabiske våren
+
+[00:18:54] og det var jo nettopp som en protest mot
+
+[00:18:56] høye matpriser som var det utløsende.
+
+[00:18:58] Jeg sier ikke at det var den ene årsaken,
+
+[00:19:00] men det var nok det utløsende at det skjedde akkurat da.
+
+[00:19:02] Noe av samme utfordringen hadde de
+
+[00:19:04] i Syria, hvor Assad hadde solgt
+
+[00:19:06] kornlagerne sine litt på forhånd
+
+[00:19:08] og hadde lite å gå på når det begynte å bli knapt og tørt
+
+[00:19:10] i Syria
+
+[00:19:12] i forkant av opprørende der.
+
+[00:19:14] Sånn at dette er områder
+
+[00:19:16] som har en krevende
+
+[00:19:18] politisk situasjon
+
+[00:19:20] og som er veldig veteavhengige.
+
+[00:19:22] Sånn at
+
+[00:19:24] der slår dette direkte inn.
+
+[00:19:26] Så myndighetene der har nok
+
+[00:19:28] kriseplaner både i forhold til
+
+[00:19:30] lager, i forhold til å subsidiere
+
+[00:19:32] og i forhold til hvordan de skal få tak i det
+
+[00:19:34] så langt det er mulig.
+
+[00:19:36] Men for oss er dette selvfølgelig viktig
+
+[00:19:38] å følge med på og bidra til.
+
+[00:19:40] Så jeg tror at det her er det
+
+[00:19:42] både viktig å dyktiggjøre de
+
+[00:19:44] landene. Det tror jeg er viktig å gi noen
+
+[00:19:46] signaler for at overskudd
+
+[00:19:48] fra EU for eksempel kan også
+
+[00:19:50] finne veien dit for å sikre
+
+[00:19:52] at man får stabilisert
+
+[00:19:54] situasjonen
+
+[00:19:56] best mulig. For det er ganske forutsigbart
+
+[00:19:58] at det kommer til å bli krevende.
+
+[00:20:00] Tror du man er mer villig til det denne gangen?
+
+[00:20:02] Kaller det kloka skade da?
+
+[00:20:04] Fordi man ikke ønsker at det skal
+
+[00:20:06] havne i en sånn situasjon.
+
+[00:20:08] Jeg tror og håper at man har
+
+[00:20:10] lært litt av det vi har sett og at man
+
+[00:20:12] kan se litt bedre inn i
+
+[00:20:14] glasskula nå enn sist.
+
+[00:20:16] Det har kommet veldig tydelige avgjørelser
+
+[00:20:18] fra Verdens matfarefond som vi også fikk
+
+[00:20:20] spredsfris for et par år siden.
+
+[00:20:22] Nettopp advare mot
+
+[00:20:24] den situasjonen vi er i nå. Så vi har
+
+[00:20:26] alle advarsler, alle forutsetninger
+
+[00:20:28] for å kunne håndtere det bedre.
+
+[00:20:30] Og det er som sagt betydelig matoverskudd
+
+[00:20:32] i Vesteuropa
+
+[00:20:34] og i Nord-Amerika.
+
+[00:20:36] Og det må brukes mer strategisk.
+
+[00:20:38] Det kan jo bety også at hvis man bestemmer seg for det
+
+[00:20:40] at det blir et litt mer
+
+[00:20:42] skal vi si styrt
+
+[00:20:44] vetemarked. Og sånn var det jo
+
+[00:20:46] lenge etter krigen.
+
+[00:20:48] Det gikk godt over Koreakrigen og gått inn på
+
+[00:20:50] 50-tallet før vi i en grunn fikk et fungerende
+
+[00:20:52] vetemarked etter krigen. Så det har jo ikke
+
+[00:20:54] vært historisk uvanlig at
+
+[00:20:56] man i større grad har regulert
+
+[00:20:58] denne handelen fordi den har vært så strategisk
+
+[00:21:00] når ressursene blir knapp da.
+
+[00:21:02] Ok. Det er på tide
+
+[00:21:04] å oppsummere litt
+
+[00:21:06] innledningsvis og stille deg vel
+
+[00:21:08] spørsmålet. Går vi mot et
+
+[00:21:10] prissjokk? Ja.
+
+[00:21:12] Gjør vi det, Anton? Jeg tror vi har fått et
+
+[00:21:14] delvis prissjokk allerede. Og jeg tror
+
+[00:21:16] det at dette vil forsterke
+
+[00:21:18] seg en stund til fordi at mye
+
+[00:21:20] av det man produserer på nå i 2022, det er
+
+[00:21:22] varer innkjøpt for 2021 til en
+
+[00:21:24] helt annen pris. Og jordbruk
+
+[00:21:26] har litt lag både
+
+[00:21:28] når det gjelder liksom hvordan prisene bygges opp
+
+[00:21:30] og hvordan de kommer ned igjen.
+
+[00:21:32] Så når vi nå først er på en
+
+[00:21:34] knapphet som
+
+[00:21:36] PT er håndterbar
+
+[00:21:38] så vil det uansett ta tid å
+
+[00:21:40] få bygd opp produksjonen og bygd
+
+[00:21:42] opp lagerne.
+
+[00:21:44] Så dette vil nok
+
+[00:21:46] forsterke seg noe ytterligere i et best case
+
+[00:21:48] scenarie. I et worst case scenarie
+
+[00:21:50] så vil dette vare ved
+
+[00:21:52] bite seg fast og forsterke
+
+[00:21:54] seg utover både i 2023 og 2024.
+
+[00:21:56] Men jeg tror den fremste indikasjonen blir
+
+[00:21:58] egentlig vinteren, høsten nå
+
+[00:22:00] 2022 og vinteren 2023. Hvordan det har
+
+[00:22:02] gått med avlingene.
+
+[00:22:04] Og hvordan de ulike tilpassningene
+
+[00:22:06] som vi nå er usikre på har utviklet seg.
+
+[00:22:08] Så et halvt års tid så vet vi mye.
+
+[00:22:10] Ja, da har du nok å følge med på fremover
+
+[00:22:12] Kjersti.
+
+[00:22:14] Ja, et annet poeng her.
+
+[00:22:16] Vi kan jo ikke
+
+[00:22:18] trykke oss ut av dette her
+
+[00:22:20] med å øke sødelpressen eller
+
+[00:22:22] kutte rentene fordi
+
+[00:22:24] de kan ikke kuttes mer.
+
+[00:22:26] Gjer du det også så øker du jo
+
+[00:22:28] gjerne etterspørselen. Kanskje ikke først og fremst
+
+[00:22:30] dette mat, men det er jo det
+
+[00:22:32] vi har lært så kraftig nå at
+
+[00:22:34] kommer det en vegg av penger og
+
+[00:22:36] det allerede er kapasitetsproblemer
+
+[00:22:38] ja, da stiger priserne. Det er det som skjer.
+
+[00:22:40] Så her kan nok ikke
+
+[00:22:42] politikerne hjelpe oss ut av det
+
+[00:22:44] med mindre de da gjøre til
+
+[00:22:46] tiltak som bedre tilbud sier, og det er jo
+
+[00:22:48] nettopp da tiltak for å
+
+[00:22:50] minsker kostnadene for
+
+[00:22:52] bøndene, eller sørger rett og slett
+
+[00:22:54] for at de fortsetter å produsere da
+
+[00:22:56] til tross for økte kostnader.
+
+[00:22:58] Hei, jeg må si
+
+[00:23:00] veldig interessant dette her
+
+[00:23:02] altså uten tvil spennende
+
+[00:23:04] situasjon som
+
+[00:23:06] vi er i.
+
+[00:23:08] Så det gjenstår egentlig bare å si
+
+[00:23:10] Anton, tusen takk for at du tok deg tid til
+
+[00:23:12] å komme hit til oss i dag og
+
+[00:23:14] gi oss en oppdatering og ditt syn på
+
+[00:23:16] hva som skjer. Takk også til deg
+
+[00:23:18] Tersti, og sist men
+
+[00:23:20] ikke minst, tusen takk folkens
+
+[00:23:22] til alle dere som hørte på.
+
+[00:23:24] Denne podkasten
+
+[00:23:38] og dets innhold skal anses som

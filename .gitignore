@@ -1,0 +1,79 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+venv312/
+
+# Environment variables
+.env
+
+# Storage (runtime data)
+backend/storage/audio/
+backend/storage/chromadb/
+backend/storage/manifest.json
+
+# Node.js
+node_modules/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Whisper model cache
+backend/models_cache/
+
+# Runtime logs
+backend/watchdog.log
+backend/pipeline.log
+backend/watchdog_out.log
+backend/watchdog_err.log
+backend/pipeline_err.log
+backend/download_all.log
+backend/download_all_err.log
+backend/reindex.log
+backend/reindex_full.log
+backend/reindex_output.log
+backend/reindex_final.log
+backend/reindex_final2.log
+backend/reindex_final3.log
+backend/pip_log.txt
+backend/pip_install.log
+backend/pip_install2.log
+backend/pip_install_err.log
+
+# Temp / scratch files
+backend/_tmp_check.py
+backend/_import_check.txt
+backend/reindex_batch.ps1
+
+# Storage backups and zips (local only)
+backend/storage/transcripts backup-do-not-change/
+backend/storage/transcripts_old/
+backend/storage/utbytte-001-364/
+backend/storage/utbytte-batch-215-364/
+backend/storage/utbytte-batch-402-580/
+backend/storage/utbytte_batch-001-150.zip
+backend/storage/utbytte_batch-150-214.zip
+
+# Railway / API test artifacts
+qa-web-test.json
+railway-status.json
+railway-status-latest.json

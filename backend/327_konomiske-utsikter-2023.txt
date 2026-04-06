@@ -1,0 +1,1769 @@
+Episode 327: Økonomiske utsikter 2023
+Publisert: Thu, 26 Ja
+Vert: Marius Brun Haugen
+Varighet: 36 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/okonomiske-utsikter-2023
+
+--- Transkripsjon ---
+
+[00:00:00] Globalt er skyhøye inflasjon, høye renter og en alt i alt normal økonomisk vekst nå i bakspeilet som bringer 2023 for verdensøkonomien.
+
+[00:00:12] Og hvor høye renter tåler norske husholdninger etter fjorårets mat- og strømprissjokk, og kan kronen hente seg inn uten drahjelp fra Norges Bank?
+
+[00:00:22] Dette her er sentrale spørsmål som gjengen vår på makroanalyse i DNB Markets har regnet på, studert, diskutert og vurdert når de har jobbet frem rapporten
+
+[00:00:34] Økonomiske utsikter for 2023 med oppdaterte prognoser og risikovurderinger.
+
+[00:00:39] Og nå er rapporten klar, og du skal få høydepunktene og mer til i dagens episode.
+
+[00:00:57] Velkommen til Utbytte, DNB-podkasten der jeg forklarer hva som skjer innen global økonomi.
+
+[00:01:03] Jeg er Marius Bruun Haugen, og med meg har jeg sjef-økonom Kjersti Haugland og kinaekspert Kelly Chen. Velkommen begge to.
+
+[00:01:14] Tusen takk.
+
+[00:01:15] Senere i episoden skal vi zoome inn på norsk økonomi sammen med Kyr Omdahl, men vi starter globalt med dere to.
+
+[00:01:24] Kjersti, hvordan blir 2023 for verdensøkonomien?
+
+[00:01:27] Ja, nå blir det brems i økonomien. Det er det lite tvil om.
+
+[00:01:32] Og så er spørsmålet hvor hard blir den bremsen? Vi tror ikke den blir dramatisk.
+
+[00:01:36] Nei. Og på mange måter så kan vi jo si at det er godt nytt, i hvert fall med hva man kanskje kunne ha trodd for ikke så veldig lenge siden.
+
+[00:01:47] Det er ingen akutt gasskrise i Europa. Vi har sett tegn til absolutt motstandsdyktige forbrukere i USA.
+
+[00:01:53] Og så har vi en kinesisk gjennåpning som vi også skal komme tilbake til ganske snart, som man kanskje kan si at går uventet bra.
+
+[00:02:02] Er den varslete globale resesjonen avblåst, Kjersti?
+
+[00:02:05] Vi ser jo lysere på utsiktene for 2023 enn det vi gjorde for et halvt år siden.
+
+[00:02:11] Og det er jo særlig knyttet til Kina, og det er knyttet til eurozonen i Europa, der nettopp energikrisen er fortsatt utfordrende selvfølgelig.
+
+[00:02:21] Men gassprisene har kommet betydelig ned fra de voldsomt høye nivåene i fjor sommer.
+
+[00:02:27] Og det er også voldsomme støttetiltak som er rullet ut fra politikken.
+
+[00:02:32] Og det er også voldsomme støttetiltak som er rullet ut fra politikkerhold, som bidrar til at det nå ser ut som at vi skal få en mer utflating,
+
+[00:02:36] mild nedgang i blant våre viktigste handelspartnere, i stedet for en markert resesjon, sånn som det virkelig så ut å bli på høstparten i fjor.
+
+[00:02:48] Så det er betydelig bedre, men så er det jo også at USA, der har det jo, som du nevnte her,
+
+[00:02:53] viser seg at økonomien har holdt seg godt oppe gjennom fjoråret.
+
+[00:02:56] Forbrukerne har virkelig holdt ut på tross av saftige rentehevinger.
+
+[00:03:00] Men nå ser vi svakhetstegnene i de siste vekene, og så har det kommet inn en god en nøkkeltall,
+
+[00:03:07] som styrker oss i den trua vi allerede hadde for et halvt år siden,
+
+[00:03:10] at 2023 blir et år der USA går inn i en resesjon,
+
+[00:03:14] men vi tror det blir en mild resesjon, en forsiktig nedgang,
+
+[00:03:19] men det vil bremse opp også i verdens største økonomi nå.
+
+[00:03:24] Og Kelly, dere justerer opp veksten i Kina en god del,
+
+[00:03:28] på grunn av covid-politikken og de endringene vi har sett.
+
+[00:03:34] Men hvorfor legger dere inn at myndighetene likevel må inn og stimulere veksten,
+
+[00:03:39] altså selv med en relativt vellykket gjennåpning?
+
+[00:03:43] Det er kanskje litt sånn motstridende,
+
+[00:03:46] men jeg har tenkt på covid-restriksjonene som en tvangstrøya,
+
+[00:03:49] en veldig, veldig trang tvangstrøya som man har puttet på den kinesiske økonomien.
+
+[00:03:54] Det er jo veldig naturlig å tenke at, ok, når vi gjennåpner,
+
+[00:03:58] så faller økonomisk aktivitet seg ganske fritt ut igjen.
+
+[00:04:05] Utfordringen er jo at når du har hatt en økonomi som har vært plassert i en tvangstrøya i tre år,
+
+[00:04:11] og det siste året har vært veldig, veldig krevende,
+
+[00:04:14] så gjør det noe med økonomien, det gjør noe med investeringsviljen,
+
+[00:04:17] det skjer noe med forbrukerne også.
+
+[00:04:20] Og der tror vi på en skikkelig rekyl opp for de med høy inntekt,
+
+[00:04:25] men samlet sett så blir det nok litt svakere.
+
+[00:04:27] Vi har hatt ganske utfordrende arbeidsmarkeder,
+
+[00:04:32] lønnsnedgang og inntektstap for deler av husholdningene,
+
+[00:04:36] og det gir en litt mer krevende bilde.
+
+[00:04:39] Hva slags type stimulanser er det vi kommer til å se da?
+
+[00:04:44] Her er det to delt.
+
+[00:04:46] Først og fremst så har du jo boligsektoren som ligger litt med bruken rygg.
+
+[00:04:50] Der kommer det mer støttetiltak fra myndighetene.
+
+[00:04:54] Vi tror ikke at det blir brukt per se,
+
+[00:04:57] men stimulanseverktøy, så da er det andre ting som må til.
+
+[00:05:00] Typisk infrastruktur og andre typer investeringer
+
+[00:05:03] som Kina lett kan tråkke gassen på.
+
+[00:05:07] Disse prisene på råvarene, de har vi sett har kommet ganske bra ned
+
+[00:05:12] fra toppene i året som gikk.
+
+[00:05:16] Det kan jo også tilsi lavere eller negative inflasjonsimpulser.
+
+[00:05:22] Hva blir summen da for råvareprisene
+
+[00:05:26] når Kina skyter fart igjen og setter på gassen?
+
+[00:05:31] Her er det jo veldig viktig at vi har en veksthistorie
+
+[00:05:34] som ikke drives frem av oppdømmet tjenesteforbruk for eksempel i Kina,
+
+[00:05:39] men heller investeringer.
+
+[00:05:41] For boligsektoren ser vi for oss at det blir veldig positivt for etterspørselen.
+
+[00:05:46] Kina utgjør jo 50 prosent av verdens etterspørsel
+
+[00:05:50] etter mange metaller for eksempel.
+
+[00:05:53] Stål, kobber, aluminium.
+
+[00:05:56] Kommer det en etterspørselsvekst?
+
+[00:05:57] Og det er jo med på å drive opp prisene.
+
+[00:06:01] Også transportsektoren blir jo veldig positivt påvirket.
+
+[00:06:05] Jeg sa jo at de rike husholdningene, de med høy inntekt,
+
+[00:06:08] de er jo klare for å bruke, de er klare for å reise.
+
+[00:06:12] Og for olje for eksempel så har jo det mye å si
+
+[00:06:15] at mobiliteten i Kina og ut av Kina normaliseres.
+
+[00:06:20] Så det er også ventet til å trekke opp oljeetterspørselsveksten
+
+[00:06:25] og dermed også oljeprisene.
+
+[00:06:26] Er dette en historie som liksom først og fremst kommer til å utspille seg
+
+[00:06:32] andre halvdel av 2023, eller er det allerede i gang?
+
+[00:06:36] Våre oljemarkedsanalytikere har jo lagt også anslag i denne rapporten.
+
+[00:06:43] Og der er jo oljeprisene ventet til å stige gradvis gjennom året
+
+[00:06:47] til 105 dollar fatet i andre halvår.
+
+[00:06:51] All right.
+
+[00:06:52] Nøkkeltalene på inflasjonen, Kjersti,
+
+[00:06:55] i alle fall i USA-eurozonen, har kommet inn litt svakere enn ventet
+
+[00:07:00] de siste månedene.
+
+[00:07:03] Er inflasjonstoppen nådd?
+
+[00:07:04] Ja, inflasjonstoppen er nådd.
+
+[00:07:07] Den ble jo nådd for en god stund siden, på seinsommeren i USA.
+
+[00:07:12] Her har man hatt en nedavgående tendens en stund.
+
+[00:07:15] Mens i Europa så virker det som om november kanskje var prisvekstetoppen.
+
+[00:07:21] Og at vi nå er på vei ned igjen.
+
+[00:07:23] Og jeg tror egentlig at nedgangen,
+
+[00:07:25] i inflasjonen, både for USA og for Europa sin del,
+
+[00:07:29] vil være ganske markert gjennom 2023.
+
+[00:07:33] Så markedene vil være vittne til inflasjonsrater
+
+[00:07:37] som kommer seg ganske betydelig ned fra disse nivåene
+
+[00:07:41] som vi nå har faktisk blitt litt vant med å se oppe på typisk to-sifra-nivå.
+
+[00:07:46] Der skal vi ned ifra.
+
+[00:07:47] Og så er spørsmålet, hvorfor det?
+
+[00:07:50] Jo, det er jo fordi at vi har såkalt baseffekter
+
+[00:07:53] som er på vei til å renne ut.
+
+[00:07:55] Som vi makroøkodomer liker å si.
+
+[00:07:58] Hva er det egentlig for noe?
+
+[00:08:01] Jo, det er sånn at vi har hatt en veldig uvanlig kraftig oppgang
+
+[00:08:05] på særlig varer.
+
+[00:08:07] Prisoppgang på varer gjennom 2022.
+
+[00:08:10] Vi tror ikke at den prisoppgangen gjennom året der
+
+[00:08:13] skal gjenta seg i 2023.
+
+[00:08:15] Tvert imot så ser vi jo nå at flaskehalsene i global varehandel
+
+[00:08:18] de har løst seg opp.
+
+[00:08:20] Vi ser en klar nedgang i priserne på transport
+
+[00:08:23] og en veldig brei rekke med
+
+[00:08:25] varer rundt omkring
+
+[00:08:27] som går inn i den globale varehandelen.
+
+[00:08:29] Nettopp fordi at etterspørselen har normalisert seg igjen
+
+[00:08:32] nå som vi lever mer som normalt.
+
+[00:08:35] Og da vil ikke disse priserne på varer
+
+[00:08:38] fortsette å øke i dette tempoet.
+
+[00:08:40] Og når det ikke skjer, så vil årsvekstratene falle tilbake.
+
+[00:08:45] Og når den effekten kommer ut av tallene
+
+[00:08:48] etter drøyt årstid, så er spørsmålet
+
+[00:08:51] hvordan er den underliggende trenden i prisveksten da?
+
+[00:08:53] Og da tror jeg vi alle må forberede oss på
+
+[00:08:58] at vi skal legge oss på et inflasjonsnivå
+
+[00:09:01] som er høyere enn det vi har blitt kjent med
+
+[00:09:03] i ti år før pandemien.
+
+[00:09:05] Vi skal altså ikke tilbake igjen til inflasjonsrater
+
+[00:09:07] på fem til ti prosent, bare så det er sagt.
+
+[00:09:10] Men vi skal nok legge oss på inflasjonsrater
+
+[00:09:12] som er høyere enn sentralbankene sitt mål.
+
+[00:09:15] Fordi at det som driver kostnadsveksten fremover
+
+[00:09:18] det er jo at lønnsveksten kommer til å være
+
+[00:09:23] uvanlig høy.
+
+[00:09:23] Jeg tror vi i 2023 fortsatt å legge føringer
+
+[00:09:27] nettopp for kostnadsveksten, ikke minst i tjenestesektoren
+
+[00:09:30] men også for industrien selvfølgelig.
+
+[00:09:32] Og så har vi noen mer langsiktige utviklingstrekk
+
+[00:09:34] som vi har snakket om veldig lenge
+
+[00:09:35] men som vi nå legger inn i anslagene
+
+[00:09:37] at de faktisk har en effekt.
+
+[00:09:40] Det handler om deglobalisering
+
+[00:09:42] det handler om heimflytting av produksjon
+
+[00:09:44] det handler om proteksjonistiske strømninger
+
+[00:09:47] og det handler om at vi får et arbeidsmarked
+
+[00:09:52] som er mer skjermet for internasjonal konkurranse
+
+[00:09:55] enn det vi har vært vant med.
+
+[00:09:57] Og alle disse kreftene trekker i retning av
+
+[00:10:00] lågere produktivitetsvekst, høyere kostnadsvekst
+
+[00:10:03] og derfor tror vi sentralbankene kommer til å få problemer med
+
+[00:10:06] å få inflasjonen helt ned på 2%.
+
+[00:10:09] Og det tror vi vil være det som kjennetegner
+
+[00:10:12] årene vi har framforbi oss nå.
+
+[00:10:14] Så vi får en slags ny normal for prisveksten.
+
+[00:10:19] Hva er det vi snakker om da?
+
+[00:10:20] Hvis 2% på en måte ikke er mulig å nå
+
+[00:10:24] er det 3% eller 4%?
+
+[00:10:27] Hvor er det vi vil stabilisere seg?
+
+[00:10:30] Det er et veldig godt spørsmål.
+
+[00:10:32] Og vi har jo anslag som dermed sier at
+
+[00:10:34] vi vil legge oss på rundt 3%
+
+[00:10:36] altså nærmere 3 enn 2%.
+
+[00:10:38] Og så er det jo svært usikker på akkurat hvor vi havner.
+
+[00:10:42] Det vi ønsker å uttrykke med den prognosen vår
+
+[00:10:44] det er at vi skal ikke tilbake igjen til 5-10% inflasjon
+
+[00:10:48] det er skyhøye raterne.
+
+[00:10:50] Runt å forvente.
+
+[00:10:52] Men vi skal ikke tilbake igjen på de gamle nivåene
+
+[00:10:55] for her er det noen underliggende krefter
+
+[00:10:57] som driver inflasjonen mer opp.
+
+[00:10:58] Så en plass mellom
+
+[00:10:59] altså 3-4% kanskje
+
+[00:11:02] det er det vi tenker at vi må være vant med.
+
+[00:11:05] Men vi tror sentralbankene kommer til å streve
+
+[00:11:08] med dette fremover.
+
+[00:11:09] Og hvordan blir styringsrentene da?
+
+[00:11:11] Hva skjer med de i et sånt bilde?
+
+[00:11:14] Særlig USA da, som jo er tonangivende.
+
+[00:11:17] Higher for longer har jo vært et veldig populært begrepp.
+
+[00:11:20] Gjennom 2022.
+
+[00:11:21] Og det er jo egentlig det vi forventer her.
+
+[00:11:25] At først så skal sentralbankerentene klatre videre
+
+[00:11:28] frem mot sommeren i år.
+
+[00:11:31] Og vi vil nå en rentetopp, tror vi, i USA på 5,25%.
+
+[00:11:35] Så vi får en rentetopp i USA i første halvår altså?
+
+[00:11:38] Ja, det tror vi.
+
+[00:11:39] Vi tror det.
+
+[00:11:40] Og eurozonen tror vi at de tror jo for ti år mer
+
+[00:11:43] at renteoppgangen kommer til å bli godt kraftigere
+
+[00:11:46] enn det markedsaktørene selv legger til grunn.
+
+[00:11:49] Vi tror jo ECB på det.
+
+[00:11:50] De deler deres syn på styrken i økonomien
+
+[00:11:54] og egentlig styrken i det underliggende inflasjonspresset.
+
+[00:11:56] Og tror at ECB-rentene havner helt opp på 3,75%.
+
+[00:12:00] Og det er i så fall det høyeste nivået siden 2001.
+
+[00:12:04] Og så spørsmålet, hvor lenge blir rentene liggende
+
+[00:12:07] på unormalt høye nivåer da?
+
+[00:12:09] Jo, det tror vi at det kommer til å skje
+
+[00:12:11] at rentene kommer til å bli holdt høyere,
+
+[00:12:14] høyere, lengre enn den markedet akkurat nå priser inn.
+
+[00:12:18] Vi tror på sentralbankene.
+
+[00:12:20] Virkelig sier jeg at de tar på alvor
+
+[00:12:22] det at det er skummelt å være for rast ute med å lette opp igjen
+
+[00:12:27] når det underliggende inflasjonspresset er så høyt.
+
+[00:12:29] Så vi tar de på alvor der.
+
+[00:12:30] Og vi tror ikke at rentenegangen starter før i mars neste år.
+
+[00:12:35] Og da tror vi at både Fed og ECB og andre sentralbanker snur.
+
+[00:12:39] Men vi tror altså ikke at rentenegangen blir veldig kraftig.
+
+[00:12:43] Vi tror vi stopper på et høyere nivå
+
+[00:12:45] enn det markedet ser ut å prise inn i øyeblikket.
+
+[00:12:48] For hvis...
+
+[00:12:50] Altså prisveksten skal ligge på 3-4 prosent,
+
+[00:12:53] så kan man vel ikke gå og forvente at rentene skal komme sånn kraftig ned?
+
+[00:12:59] Nei, det er nettopp det vi ikke kan.
+
+[00:13:00] Og nå tror vi, bare for å være helt spesifikk,
+
+[00:13:02] vi tror at prisveksten kommer til å havne på 3 prosent.
+
+[00:13:05] Det er det som er anslaget vårt.
+
+[00:13:06] Og til og med litt i underkant av 3 prosent.
+
+[00:13:09] Men vi ønsker da å signalisere at vi i alle fall blir liggende over målet.
+
+[00:13:13] Og nettopp derfor så må sentralbankrentene holdes høye lengre.
+
+[00:13:17] Og på nivåer som vi ikke har vært vant med å se på,
+
+[00:13:20] er langstående.
+
+[00:13:21] Litt ned fra toppen, ja.
+
+[00:13:23] Men på et høyere nivå.
+
+[00:13:25] For eksempel, Europeisk sentralbanken
+
+[00:13:27] tror vi kommer til å stabilisere seg på en innskuddsrentenivå på 3,25 prosent.
+
+[00:13:33] Så det er jo godt over det som prises inn i dag.
+
+[00:13:36] Men likevel så forventer du at veksten skal ta seg opp i 2024.
+
+[00:13:40] Til tross for et sånt bakdeppe som dette her.
+
+[00:13:43] Ja, vi forventer at veksten skal ta seg opp.
+
+[00:13:45] Og særlig fordi at inflasjonen kommer ned fra disse veldig høye nivåene.
+
+[00:13:49] Fordi inflasjonen...
+
+[00:13:50] Inflasjonen har jo virkelig bidratt til å dra inn kjøpekraft
+
+[00:13:53] og ramme nettopp forbruket.
+
+[00:13:55] Og det er jo forbruksnedgang.
+
+[00:13:57] Vi tror kommer til å stå i sentrum for denne bremsen da.
+
+[00:14:00] Egentlig i de rike landene generelt i 2023.
+
+[00:14:04] Men vi tror, det må ikke misforstås i den forstand at vi tenker at
+
+[00:14:09] høyere renter ikke har noen konsekvenser for veksten.
+
+[00:14:12] For vi har tatt ned vekstanslagen våre for eurozonen.
+
+[00:14:15] For eksempel i årene som kommer etter 2023.
+
+[00:14:20] Fordi at bremsen må settes på lengre,
+
+[00:14:23] så blir ikke vekstbildet like sprekt som det vi hadde lagt til grunn
+
+[00:14:27] at det kom til å bli for et halvt år siden.
+
+[00:14:30] For her ligger det jo noen investeringsimpulser i eurozonen.
+
+[00:14:34] Og her er det jo Ukraina-krigen som virkelig har bidratt til det.
+
+[00:14:37] Behov for en enda kjappere energiomstilling.
+
+[00:14:41] Investeringer for å spare på energi.
+
+[00:14:43] For å bygge ut energiproduksjonsutstyr.
+
+[00:14:46] For å satse på både infrastruktur og på forsvar.
+
+[00:14:50] Forsvarsutbygging og så videre.
+
+[00:14:52] Så her ligger det jo et underliggende press.
+
+[00:14:54] Men nå kommer nok forbruksdelen av økonomien til å være svakere
+
+[00:14:59] fremme ved husholdningene sine etterspørsel.
+
+[00:15:01] Kommer ikke til å hente seg like mye inn som det vi trodde i forrige omgang.
+
+[00:15:05] Fordi rentene blir holdende, liggende høyere lenger.
+
+[00:15:09] Kelly, dere har lagt inn økende deglobalisering
+
+[00:15:12] som følge av den anspente geopolitiske konkurransen
+
+[00:15:15] mellom Kina og Vesten.
+
+[00:15:17] Men det har jo vært...
+
+[00:15:20] Det er litt sånn småpositive nyheter her
+
+[00:15:23] siste tiden, er det ikke det da?
+
+[00:15:26] Ja, du har jo med gjennåpningen av Kina
+
+[00:15:29] sett en del nye face-to-face-møter.
+
+[00:15:33] Og på G20-møter i november i Bali i fjor
+
+[00:15:37] så kom jo Xi og Biden sammen
+
+[00:15:39] og snakket om at de skulle sette
+
+[00:15:43] nye felles kjøreregler
+
+[00:15:46] for hvordan landene skal ha et forholdsvisere
+
+[00:15:50] forhold med hverandre, da.
+
+[00:15:51] Og for min del så tenker jeg at dette er jo
+
+[00:15:53] småpositivt. De er jo blitt bedre til å snakke sammen.
+
+[00:15:57] Diplomatiet er ikke like disfunksjonelt
+
+[00:15:59] som det har vært tidligere.
+
+[00:16:01] Men i bunn så ligger det jo fremdeles
+
+[00:16:03] denne geopolitiske rivaliseringen
+
+[00:16:05] og den har jo ikke endret seg
+
+[00:16:07] selv om de blir flinkere til å snakke
+
+[00:16:09] med hverandre om det.
+
+[00:16:11] Så vi legger egentlig til grunn at
+
+[00:16:13] bedriftene kommer til å reagere på dette her.
+
+[00:16:16] Det at de nå står om for en situasjon
+
+[00:16:19] med...
+
+[00:16:20] en ganske litt sånn ubehagelig
+
+[00:16:21] geopolitiske bakteppe
+
+[00:16:23] hvor du kan få veldig store endringer
+
+[00:16:26] i rammetid, altså vilkårene
+
+[00:16:28] raskt. Det kan komme
+
+[00:16:30] nye sanksjoner.
+
+[00:16:31] Og vi har jo faktisk hatt
+
+[00:16:33] nå fem år med egentlig ganske store
+
+[00:16:35] sjokk. Altså du hadde
+
+[00:16:37] handelskrigen, så fikk man
+
+[00:16:39] covid som gjorde det veldig tydelig
+
+[00:16:42] for bedrifter at
+
+[00:16:43] det er risikoforbundet
+
+[00:16:46] med å ha produksjonen bare
+
+[00:16:47] på ett sted, som Kina.
+
+[00:16:50] Og så har du jo hatt da
+
+[00:16:52] denne Ukraina-krigen, som gjorde det
+
+[00:16:54] veldig tydelig og på en måte løftet
+
+[00:16:56] geopolitikken frem.
+
+[00:16:58] Hva med de andre fremvoksende økonomiene?
+
+[00:17:00] Hvordan blir veksten der?
+
+[00:17:02] Der ser vi egentlig ganske
+
+[00:17:04] regionale forskjeller.
+
+[00:17:06] Som følge av en del av
+
+[00:17:08] den utflyttingen som skal skje fra
+
+[00:17:10] Kina, så venter vi at det er med
+
+[00:17:12] på å løfte en del av de asiatiske landene.
+
+[00:17:14] Vi venter at India blir en
+
+[00:17:16] vekstmotor, for eksempel.
+
+[00:17:18] Og så får vi også noen positive
+
+[00:17:20] skjønnelser i Asia ved at Kina
+
+[00:17:21] gjenåpnes, altså Thailand, det fantastiske
+
+[00:17:24] turistlandet, får seg et løft.
+
+[00:17:26] Så blir det litt mer krevende, kanskje for
+
+[00:17:28] andre deler av fremvoksende økonomier.
+
+[00:17:30] Altså Latinamerika er et veldig godt
+
+[00:17:31] eksempel på et
+
+[00:17:34] område hvor vi har hatt høy
+
+[00:17:35] inflasjon, veldig, veldig innstrammende
+
+[00:17:38] pengepolitikk, og som
+
+[00:17:40] har måttet fortsette egentlig
+
+[00:17:42] med det, i frykt av at
+
+[00:17:44] det blir økende
+
+[00:17:45] kapitalutganger fra
+
+[00:17:47] markedene der.
+
+[00:17:50] Så et litt sånn
+
+[00:17:52] blandet bilde, men samlet sett, så
+
+[00:17:53] er det jo ganske god vekst
+
+[00:17:56] i fremvoksende økonomier. Altså vi
+
+[00:17:57] anslår at de rike
+
+[00:17:59] industrialiserte landene vokser med
+
+[00:18:01] 0,6 prosent i år.
+
+[00:18:04] I fremvoksende økonomier så er det
+
+[00:18:06] nærmere fire.
+
+[00:18:08] Og det vil også være
+
+[00:18:09] fremover. Er det noe draget på
+
+[00:18:12] hente for de fremvoksende økonomiene
+
+[00:18:14] fra en svakere
+
+[00:18:15] dollar også gjennom 2023?
+
+[00:18:17] Ja, det gjør
+
+[00:18:19] presse litt mindre, kan man
+
+[00:18:21] veldig godt si.
+
+[00:18:24] Ja, ja, Kjersti.
+
+[00:18:26] De viktigste risikomomentene
+
+[00:18:28] for disse økonomiske
+
+[00:18:30] utsiktene er det
+
+[00:18:31] geopolitikk, geopolitikk,
+
+[00:18:33] geopolitikk?
+
+[00:18:35] Ja, geopolitikk. Det er
+
+[00:18:37] definitivt høyt oppe på liste.
+
+[00:18:39] Det må vi ta på alvor. Det har ikke
+
+[00:18:41] minst fjoråret vist oss.
+
+[00:18:43] Og nettopp det at
+
+[00:18:44] spenningsnivået er veldig høy, både knyttet til
+
+[00:18:47] selve invasjonen i Ukraina,
+
+[00:18:49] og hva som kan skje videre der,
+
+[00:18:51] av risiko for at det kan
+
+[00:18:53] bre seg, eventuelt
+
+[00:18:55] bli avsluttet selvfølgelig.
+
+[00:18:57] Det kan vi jo alle håpe på.
+
+[00:18:59] Men nå er det forholdet som har
+
+[00:19:01] blitt forsuret ytterligere med Kina,
+
+[00:19:03] som passivt støtter opp om Russland,
+
+[00:19:05] og som Taiwan,
+
+[00:19:07] konflikten blusset opp
+
+[00:19:08] gjennom fjoråret,
+
+[00:19:11] den ligger jo der hele tiden og murrer som
+
+[00:19:13] en potensielt stor skadelig
+
+[00:19:15] faktor for verdensøkonomien,
+
+[00:19:16] om det skulle inntreffe
+
+[00:19:18] militære,
+
+[00:19:19] militære intervensjoner
+
+[00:19:21] der, og med påfølgende
+
+[00:19:23] økonomiske sanksjoner, så det ligger der.
+
+[00:19:25] Så ja, geopolitikk er viktig,
+
+[00:19:27] og så er det også
+
+[00:19:29] for, hvis vi skal tenke
+
+[00:19:30] hvor sikre skal vi være på
+
+[00:19:33] at verdensøkonomien utvikler
+
+[00:19:35] seg, akkurat sånn som vi har snakket om nå i denne podcasten,
+
+[00:19:38] så kan vi jo egentlig være sikre på
+
+[00:19:39] at det er nok ikke akkurat sånn økonomien utvikler
+
+[00:19:41] seg, for her er det utrolig mange utkjente
+
+[00:19:43] faktorer, og de viktigste usikkerhetsfaktorene
+
+[00:19:45] er jo de vi ikke
+
+[00:19:47] akkurat nå klarer å forestille oss.
+
+[00:19:49] Men av de kjente
+
+[00:19:51] usikkerhetsfaktorene, så har vi
+
+[00:19:53] valgt å peike på nettopp geopolitikk,
+
+[00:19:55] vi har valgt å peike på
+
+[00:19:57] inflasjonsdriverene, altså
+
+[00:19:59] de kan også bli både
+
+[00:20:00] sterkere og svakere enn det vi har skissert
+
+[00:20:03] i denne rapporten her.
+
+[00:20:05] Hvis du får en finanspolitikk på høygir,
+
+[00:20:07] som virkelig reagerer enda
+
+[00:20:09] kraftigere med vilje til
+
+[00:20:11] å bruke penger over offentlige beskjedter, både
+
+[00:20:13] på støtteordninger og på
+
+[00:20:14] investeringsprosjekter, gjerne også knyttet til
+
+[00:20:17] det grønne skiftet og så videre,
+
+[00:20:19] og ispe den god andelen
+
+[00:20:21] av proteksjonisme også i
+
+[00:20:22] disse tiltakene, sånn som vi ser i USA
+
+[00:20:25] sin Inflation Reduction Act,
+
+[00:20:27] som virkelig favoriserer
+
+[00:20:30] innlandsk industri
+
+[00:20:31] i sine grønne
+
+[00:20:33] subsidier, og
+
+[00:20:35] EU som da
+
+[00:20:36] truer med å
+
+[00:20:38] gjøre igjen med samme mynt,
+
+[00:20:41] så er det klart at det er,
+
+[00:20:43] hvis dette virkelig ruller på seg,
+
+[00:20:44] og økonomien ikke kjøler seg noe
+
+[00:20:46] særlig ned, kanskje særlig hvis sentralbanker
+
+[00:20:49] responsen nå viser seg å være mer
+
+[00:20:50] pinglete da, enn det vi egentlig legger opp
+
+[00:20:52] til her, at sentralbankene
+
+[00:20:54] boker under for press tidlig når de ser at
+
+[00:20:56] ja, men inflasjonsraterne går jo tross alt
+
+[00:20:58] ned her, og
+
+[00:21:00] økonomien har bremst opp, ja, da er det kanskje
+
+[00:21:02] likevel på tide å
+
+[00:21:04] sette ned rentene, både
+
+[00:21:06] raskere kanskje, og mer enn det vi har
+
+[00:21:08] sett for oss her. Sentralbanker
+
+[00:21:10] har jo virkelig snudd på tiåringen før,
+
+[00:21:12] det kan de gjøre igjen. Hvis alle sånne
+
+[00:21:14] typer faktorer snur, så kan vi jo helt
+
+[00:21:16] klart få et kraftigere inflasjonspress,
+
+[00:21:19] enn det vi har lagt opp til her.
+
+[00:21:21] Og da vil vi få et større
+
+[00:21:22] problem på sikt, sant, med et større
+
+[00:21:24] behov for å stramme inn litt lenger ute
+
+[00:21:26] i løypet. Men så kan det jo også hende at
+
+[00:21:28] vi har overvurdert disse inflasjonsdriverene,
+
+[00:21:30] kanskje blir det økonomiske nedturen
+
+[00:21:32] nå sterkere enn det vi har lagt inn i våre
+
+[00:21:34] prognoser, slik at nedkjølingen i
+
+[00:21:36] arbeidsmarkedet blir så pass kraftig
+
+[00:21:38] at lønnsveksten går tydelig
+
+[00:21:40] ned, slik at det, og man har
+
+[00:21:42] kanskje også overvurdert
+
+[00:21:43] styrken i nettopp disse strukturelle
+
+[00:21:46] utviklingstrekkene med geopolitikk
+
+[00:21:48] og produksjonisme og så videre,
+
+[00:21:50] kanskje havner vi tilbake igjen
+
+[00:21:52] på gamle inflasjon- og kostnadsvekstnivåer,
+
+[00:21:55] det kan vi absolutt ikke
+
+[00:21:56] utelukke. Så det er
+
+[00:21:58] noen av faktorene som
+
+[00:22:00] vi trekker frem, og så gjenstår
+
+[00:22:02] det å se da hvordan
+
+[00:22:03] verden utvikler seg videre.
+
+[00:22:06] Bra det. Med det så får
+
+[00:22:08] jeg ta og få kyrre
+
+[00:22:10] inn i studio, så vi får høre litt
+
+[00:22:12] mer om utsiktene for den
+
+[00:22:14] norske økonomien. Tusen takk for at
+
+[00:22:16] dere var med. Bare hyggelig.
+
+[00:22:17] Velkommen i studio, Kyrre.
+
+[00:22:25] Takk. Det bremser
+
+[00:22:27] ute, men det blir ikke noe
+
+[00:22:29] langvarig fullstopp, har Kjersti
+
+[00:22:31] og Kelly fortalt meg. Hva betyr
+
+[00:22:33] dette da for vår oljesmørte
+
+[00:22:35] norske økonomi? Hva er status
+
+[00:22:37] når vi går inn i 2023?
+
+[00:22:39] Ja, vi er ved et
+
+[00:22:41] vendepunkt i økonomien.
+
+[00:22:43] Det har gått ganske bra
+
+[00:22:45] gjennom fjoråret.
+
+[00:22:47] Litt overraskelse kanskje over hvor godt
+
+[00:22:49] det har vært, særlig på det private forbruket.
+
+[00:22:51] Men så står vi nok foran
+
+[00:22:53] en periode hvor det bremser
+
+[00:22:55] tydelig opp.
+
+[00:22:57] Så hva er sterkt, og hvor blir det svagt?
+
+[00:22:59] Da har vi hatt
+
+[00:23:00] nasjonalregnskapstall som viser at det var ganske
+
+[00:23:03] bra vekst mot slutten av fjoråret.
+
+[00:23:04] Det har vi ikke desembertallet ennå riktig nok, men
+
+[00:23:06] frem til da har det vært ganske bra.
+
+[00:23:09] Forbruksveksten har vært
+
+[00:23:10] overraskende høy. Særlig har det vært
+
+[00:23:13] høy vekst i kjøp av biler
+
+[00:23:15] som drar forbruk opp.
+
+[00:23:17] Det blir jo nesten ikke noe salg av
+
+[00:23:19] biler til husholdningene i januar, tenker jeg.
+
+[00:23:20] Så jeg vil jo forbruke dette som en
+
+[00:23:23] stein. Og generelt så tror vi nok
+
+[00:23:25] at vi får et tydelig omslag
+
+[00:23:27] i privat etterspørsel
+
+[00:23:29] i første halvår i år.
+
+[00:23:32] Så det legger en veldig
+
+[00:23:33] demper på aktiviteten.
+
+[00:23:35] Men når vi kommer litt ut i
+
+[00:23:36] andre halvår, så venter vi at aktiviteten
+
+[00:23:39] begynner å ta seg opp igjen. At mye av tilpassningen
+
+[00:23:41] til den sjokke vi har hatt
+
+[00:23:43] med høy prisvekst og renteøkninger
+
+[00:23:45] og så videre, at den tilpassningen
+
+[00:23:47] begynner å bli unagjort.
+
+[00:23:50] Inflasjonen
+
+[00:23:50] har jo nådd nivåer som
+
+[00:23:52] vi ikke har sett på
+
+[00:23:54] 40 år. I hvilken grad
+
+[00:23:57] kommer den til å ligge som en
+
+[00:23:58] hemsko for vekst i året som kommer?
+
+[00:24:01] Ja, det var jo en veldig
+
+[00:24:02] sjokkartet utvikling i fjor, med en voldsom
+
+[00:24:05] oppgang i inflasjonen. Ikke bare
+
+[00:24:06] her, men i mange andre land.
+
+[00:24:09] Og vi må jo tilbake
+
+[00:24:10] nesten 40 år for å finne så høye
+
+[00:24:12] inflasjonsrater som vi så.
+
+[00:24:14] Mye av dette er drevet av importpriser
+
+[00:24:17] og elektrisitetspriser.
+
+[00:24:20] Selv om
+
+[00:24:21] denne strømstøtten har bidratt til å holde
+
+[00:24:22] prisveksten litt nede, så har det likevel
+
+[00:24:24] vært svært høye vekstrater
+
+[00:24:27] for KPI.
+
+[00:24:28] Når vi ser fremover, så tror vi ikke at vi skal
+
+[00:24:30] ha den samme drivet
+
+[00:24:32] i priserne. Det er jo tegnet at dette begynner
+
+[00:24:34] å dempe seg. Nå ser vi på en del av
+
+[00:24:36] impulsene fra både energi og råvaripriser,
+
+[00:24:39] så har de kommet ned,
+
+[00:24:40] og det tyder jo på at vi skal ha en svakere
+
+[00:24:42] prisvekst gjennom året.
+
+[00:24:45] Men antagelig kommer vi til å slite med ganske
+
+[00:24:46] høye årsrater,
+
+[00:24:48] i hvert fall i første del
+
+[00:24:50] neste år, før det faller av.
+
+[00:24:52] Kanskje faller det en del tydeligere av
+
+[00:24:55] i KPI, framfor denne
+
+[00:24:57] kjernekomponenten.
+
+[00:24:58] Og så er det nok noen sånne enkelteffekter,
+
+[00:25:00] altså i januar
+
+[00:25:02] så får vi noen baseeffekter.
+
+[00:25:04] I fjor så falt strømprisen mye, for da slo
+
+[00:25:06] denne strømstøtten til, blant annet,
+
+[00:25:08] og trakk strømprisen ned
+
+[00:25:10] i januar. Det skjer ikke i år,
+
+[00:25:12] i hvert fall ikke i samme grad.
+
+[00:25:14] Så det gir et løft i disse 12-månedersratene,
+
+[00:25:17] men underliggende
+
+[00:25:18] en avtakende tendens i år.
+
+[00:25:21] Og så blir det vel litt spennende
+
+[00:25:22] med lønnsoppgjøret også?
+
+[00:25:24] Det blir det. Det er
+
+[00:25:26] mange faktorer som slår inn
+
+[00:25:28] i dette oppgjøret,
+
+[00:25:30] og det er lett å tenke seg at nå skal de ha
+
+[00:25:32] kompensasjon for
+
+[00:25:33] reallønnsfall som var i fjor, at det skal kompenseres
+
+[00:25:36] i år. Den tanken står ikke
+
+[00:25:38] særlig sterkt i disse
+
+[00:25:39] frontfagsforhandlingene. I år så er det
+
+[00:25:42] også et mellomoppgjør.
+
+[00:25:44] Det er ganske sannsynlig at det er LO og NO
+
+[00:25:46] som forhandler, og de
+
+[00:25:48] trenger ikke å sende resultatet
+
+[00:25:50] ut i URA-stemming. Og i disse
+
+[00:25:52] forhandlingene så bruker jo
+
+[00:25:53] arbeidstakersiden også å legge ganske stor
+
+[00:25:56] vekk på hvordan det går med bedriftene, hva slags
+
+[00:25:58] lønnsomhetsutvikling de har, hva slags lønnsevne
+
+[00:26:01] bedriftene har. Og den ser jo ikke så
+
+[00:26:02] veldig bra ut, egentlig, så det er
+
+[00:26:04] noe som holder litt igjen på oppgjøret.
+
+[00:26:07] Vi tror likevel lønnsveksten kommer til å
+
+[00:26:08] tas opp fra i fjor og til i år,
+
+[00:26:11] og anslår en lønnsvekst på
+
+[00:26:12] rundt 4,8%.
+
+[00:26:15] Og det er kanskje
+
+[00:26:16] at frontfagene
+
+[00:26:18] ender ut med en ramme
+
+[00:26:20] som er litt lavere enn det.
+
+[00:26:22] Norges Bank hevet i renten
+
+[00:26:24] med 2,25 i
+
+[00:26:26] 2022. Kommer det til å bli like mye i år?
+
+[00:26:29] Det enkle svaret er nei.
+
+[00:26:31] Men litt mer
+
+[00:26:32] utdypende, så er det jo slik
+
+[00:26:34] at det som skjedde i fjor
+
+[00:26:36] var at man gikk inn i året
+
+[00:26:38] med en veldig lav rente.
+
+[00:26:41] Og man så jo for seg at
+
+[00:26:42] her skulle renten opp,
+
+[00:26:45] og etter hvert som inflasjonsoppgangen
+
+[00:26:47] ble mye tydeligere,
+
+[00:26:48] og man ble klar over at dette var ikke helt
+
+[00:26:50] midlertidig heller, så var det viktig
+
+[00:26:52] å få renten ut av det vi kan kalle
+
+[00:26:54] et stimulerende område.
+
+[00:26:56] Ta bort stimulansen som lå der, få den opp i et
+
+[00:26:58] nøytralt nivå, og enten begynne å stramme
+
+[00:27:00] inn litt, og det skjedde jo på slutten
+
+[00:27:02] av fjoråret da, at man fikk opp et litt
+
+[00:27:04] mer innstrammende nivå.
+
+[00:27:06] Når vi ser fremover, så er det mer
+
+[00:27:08] snakk om å finne et nivå
+
+[00:27:10] hvor renten kan bli liggende. Så det er en
+
+[00:27:12] finstyring inn mot en rentetopp.
+
+[00:27:15] Så vi tror at
+
+[00:27:16] da får vi heving på en kvarting
+
+[00:27:18] i mars, og en kvarting til i juni.
+
+[00:27:20] Og da er vi på tre av en kvart.
+
+[00:27:22] Og da er det nok?
+
+[00:27:24] Er du helt sikker?
+
+[00:27:26] Nei, overhovedet ikke.
+
+[00:27:28] Her kan renta bli både
+
+[00:27:30] høyere og lavere.
+
+[00:27:32] Det er jo slik at det er en løpende
+
+[00:27:34] avveiing her av hvordan
+
+[00:27:36] inflasjonen utvikler seg, og
+
+[00:27:38] hvordan renta påvirker
+
+[00:27:40] inflasjonen, og hvordan renta påvirker
+
+[00:27:42] aktiviteten ellers i økonomien.
+
+[00:27:44] Norges Bank skal jo avveie inflasjonen
+
+[00:27:46] opp mot sysselsetting
+
+[00:27:48] og også finansiell stabilitet
+
+[00:27:50] der inne i bildet her.
+
+[00:27:52] Så det er mange målsettinger
+
+[00:27:54] som Norges Bank skal fylle med
+
+[00:27:55] bare ett virkemiddel, nemlig renta.
+
+[00:27:58] Så man må tåle å
+
+[00:28:00] ikke få til alt, alle steder.
+
+[00:28:02] Sånn som det ser ut nå,
+
+[00:28:04] så kan en rente på en tre
+
+[00:28:06] og en kvart prosent
+
+[00:28:07] greie å balansere disse hensynene på en rimelig måte.
+
+[00:28:11] Men det sier seg selv at
+
+[00:28:12] det skal ikke så store avvik til på noen av disse
+
+[00:28:14] variablene før man kan få en helt annen rentebanen.
+
+[00:28:16] Ja. Nå sa vi også dette med at
+
+[00:28:18] mye av den høye inflasjonen
+
+[00:28:20] er importert,
+
+[00:28:22] beknyttet til energiprisene
+
+[00:28:24] og man kan si at
+
+[00:28:26] renten påvirker ikke
+
+[00:28:27] dette her. Dette
+
+[00:28:29] har blitt debattert
+
+[00:28:31] og kommer til å bli debattert.
+
+[00:28:33] Ja, det er en løpende debatt dette.
+
+[00:28:36] Det er helt klart at den inflasjonen
+
+[00:28:38] vi har sett gjennom
+
+[00:28:39] fjoråret og inn i dette året,
+
+[00:28:42] den er veldig påvirket av energipriser,
+
+[00:28:44] den er påvirket av importpriser
+
+[00:28:46] og internasjonale råvarupriser.
+
+[00:28:49] Det er klart at norsk pengepolitikk
+
+[00:28:50] påvirker jo ikke dette.
+
+[00:28:52] Kanskje litt gjennom valutakursen.
+
+[00:28:54] Men samtidig så er det jo sånn at
+
+[00:28:57] den typen effekter
+
+[00:29:01] er bare en del av
+
+[00:29:02] det samlede prisbildet.
+
+[00:29:04] Vi er i en situasjon også hvor
+
+[00:29:06] vi har kommet ut av en pandemi
+
+[00:29:08] med en veldig sterk vekst i økonomien
+
+[00:29:10] og press på ressursene mange steder.
+
+[00:29:12] Høy etterspørsel
+
+[00:29:13] som gjør det mulig for en del
+
+[00:29:16] bedrift å øke priser,
+
+[00:29:17] velte kostnadsøkninger over i prisen
+
+[00:29:19] og kanskje ta litt mer enn kostnadsøkninger nå.
+
+[00:29:22] Så det kan bidra til
+
+[00:29:25] å forsterke prisoppgangen.
+
+[00:29:28] Og så ser vi at
+
+[00:29:28] prisforventningene
+
+[00:29:30] både på korte og på lengre sikt
+
+[00:29:32] har begynt å dra seg oppover.
+
+[00:29:34] Det kan også gjøre at du får
+
+[00:29:36] selvforsterkende mekanismer
+
+[00:29:38] hvor bedrifter som ikke prissetter varen så ofte
+
+[00:29:41] tror at prisen kommer til å stige en del
+
+[00:29:43] og da vil de legge det inn
+
+[00:29:45] i kalkylerne sine.
+
+[00:29:47] Dette er forhold som norsk bank
+
+[00:29:48] kan påvirke med renteøkningene
+
+[00:29:52] som er en viktig grunn
+
+[00:29:53] til å heve rentene.
+
+[00:29:56] Har du noen eksempler på
+
+[00:29:58] disse prisvekstene?
+
+[00:30:01] Et annet eksempel
+
+[00:30:02] kan jo være restaurantprisen.
+
+[00:30:04] Når økonomien
+
+[00:30:07] åpnet igjen etter pandemien
+
+[00:30:08] så var det jo veldig
+
+[00:30:10] høy etterspørsel
+
+[00:30:11] etter restauranttjenester og hotelltjenester.
+
+[00:30:15] Da så vi også at
+
+[00:30:16] prisene gikk veldig sterkt opp.
+
+[00:30:17] På hotell har det kommet en god del
+
+[00:30:19] ned igjen på slutten av fjoråret.
+
+[00:30:21] Restaurantprisene har holdt
+
+[00:30:22] og fikk et ganske vedvarende
+
+[00:30:24] eller varig løft i prisene.
+
+[00:30:26] Det er et område hvor
+
+[00:30:27] utenfor prisutviklingen
+
+[00:30:29] så ser det ut som du har fått
+
+[00:30:29] et løft som ikke er så lett
+
+[00:30:32] å henge på energipriser
+
+[00:30:34] eller bare økte matvarepriser.
+
+[00:30:37] Det ligger noe mer i den enn bare det.
+
+[00:30:39] Ja, høyt prisnivå,
+
+[00:30:41] høye strømregninger
+
+[00:30:42] og økte renter
+
+[00:30:44] det ser jo ikke så lovende ut
+
+[00:30:47] å være forbruker i dette her.
+
+[00:30:50] Nei, det gjør jo ikke det.
+
+[00:30:52] Det er jo en
+
+[00:30:53] det er jo forhold som kommer til
+
+[00:30:56] å dempe bildet fremover.
+
+[00:30:59] Og så er det kanskje
+
+[00:31:00] så er det noen lyspunkter da
+
+[00:31:02] rundt dette likevel.
+
+[00:31:04] Fordi det er jo slik at
+
+[00:31:06] veldig mye av den prisoppgangen
+
+[00:31:07] som vi ser, den har funnet sted.
+
+[00:31:09] Vi har fått et løft i prisnivå.
+
+[00:31:11] Vi kommer ikke til å få så veldig mye løft
+
+[00:31:13] videre fremover.
+
+[00:31:15] Noe, men
+
+[00:31:15] vesentlig mindre enn i fjor.
+
+[00:31:18] Så på en måte så har vi unnagjort
+
+[00:31:19] litt av de verste sjokkene.
+
+[00:31:21] Og så vil det jo være slik at
+
+[00:31:23] vi får mer lønnsvekst i år.
+
+[00:31:25] Det er i hvert fall sannsynlig at
+
+[00:31:27] lønningene stiger.
+
+[00:31:29] Det blir ikke noe sånn reallønnsvekst og jubel
+
+[00:31:31] men vi får i hvert fall ikke det fall i reallønnen
+
+[00:31:35] som vi hadde i fjor.
+
+[00:31:36] Det ser ikke slik ut.
+
+[00:31:37] Det er jo noe som skal ta med seg
+
+[00:31:39] som en positivt bilde.
+
+[00:31:42] Og så under pandemien så
+
+[00:31:43] sparte utsolgningene mye.
+
+[00:31:45] Vi ser at de har trukket på en god del
+
+[00:31:47] av den sparingen gjennom fjoråret.
+
+[00:31:49] Men det er tydelige indikasjoner på at
+
+[00:31:51] ganske mange utsolgninger
+
+[00:31:53] fortsatt har en del sparemidler
+
+[00:31:55] tilgjengelig.
+
+[00:31:56] Noe som demper utslagene
+
+[00:31:59] på at man må ikke stramme inn
+
+[00:32:01] i livet ennå så brått.
+
+[00:32:03] Og etter hvert som
+
+[00:32:05] tiden går og man får litt lønnsvekst igjen
+
+[00:32:07] så kan det være at
+
+[00:32:08] dette er mer på å dempe
+
+[00:32:11] tilbakeslagene av utsolgningens
+
+[00:32:13] innstramming.
+
+[00:32:15] Samlet sett så tror vi at ganske mye
+
+[00:32:17] av tilpassningen er unnagjort
+
+[00:32:19] i løpet av det første halve året
+
+[00:32:21] i år, og så kommer veksten
+
+[00:32:23] litt tilbake enn i andre halvår.
+
+[00:32:26] Ja, og boligmarkedet oppe
+
+[00:32:27] i alt dette her da,
+
+[00:32:29] så isolert sett hvis man ser på
+
+[00:32:31] renteoppgangen og
+
+[00:32:33] kjøpekraften som blir
+
+[00:32:35] snevret inn, da er det
+
+[00:32:37] fort gjort å bli pessimistisk
+
+[00:32:39] til det. Ja, det vi har jo sett
+
+[00:32:41] også at prisen har falt i boligmarkedet
+
+[00:32:43] gjennom høsten i
+
+[00:32:45] fjor. Omsetningen
+
+[00:32:47] har kommet ned, men det er verdt å merke seg
+
+[00:32:49] at omsetningen er tilbake på
+
+[00:32:51] nivået vi hadde i 2019,
+
+[00:32:53] altså før pandemien, så vi kommer fra nivåer med
+
+[00:32:55] veldig høy aktivitet i boligmarkedet, og
+
+[00:32:57] interessant var det jo da også at
+
+[00:32:59] prisene ikke endret seg så mye
+
+[00:33:01] i desember, så det var en liten pause i
+
+[00:33:03] prisfallet i hvert fall. Vi tror nok prisen
+
+[00:33:05] skal lenger ned, men
+
+[00:33:06] vi tror jo også
+
+[00:33:09] at mye av dette prisfallet kanskje er unnagjort
+
+[00:33:11] i løpet av det første kvartalet,
+
+[00:33:13] så ser vi for oss litt mer utflating og
+
+[00:33:15] prisvekst etter det.
+
+[00:33:17] Vi må ikke glemme at nå, i hvert fall med
+
+[00:33:19] regjeringens anslag, så skal det komme
+
+[00:33:21] i løpet av fjoråret og dette året
+
+[00:33:23] 70 000 ukrainere til Norge,
+
+[00:33:25] de skal bosettes.
+
+[00:33:27] Det er ikke slik at de skal ut og kjøpe boliger, men
+
+[00:33:29] det er et etterspørsel etter boliger
+
+[00:33:31] som kommer til å holde seg ganske godt oppe,
+
+[00:33:33] så det gir jo et viktig
+
+[00:33:35] bidrag, og så ser vi at
+
+[00:33:37] typen sånn nyboligsalg og
+
+[00:33:39] byggeaktivitet er ferdig med å bremse opp,
+
+[00:33:42] som gjør at tilbudssiden
+
+[00:33:43] også reagerer på den
+
+[00:33:45] utviklingen vi ser, og
+
+[00:33:47] bidrar til å støtte
+
+[00:33:49] balansen i boligmarkedet.
+
+[00:33:50] Og det er også
+
+[00:33:51] en anekdotisk historie
+
+[00:33:53] fra boligmarkedet som viser at det kan være
+
+[00:33:54] ganske brennet noen steder, så det er ikke slik
+
+[00:33:57] at husholdninger er
+
+[00:33:58] helt uten kjøpekraft i dette markedet.
+
+[00:34:01] Men sånn, alt i alt
+
+[00:34:03] er det ikke så
+
+[00:34:05] ille dette her, eller?
+
+[00:34:07] Nei, altså, vi må huske litt på
+
+[00:34:08] hvor vi kommer fra.
+
+[00:34:10] Nå har vi vært gjennom en pandemi
+
+[00:34:12] hvor vi hadde nedstengninger
+
+[00:34:14] av økonomien, og så fikk vi gjennåpninger
+
+[00:34:17] og voldsom aktivitetsøkning
+
+[00:34:19] og stort press på en rekke
+
+[00:34:21] distribusjonskanaler.
+
+[00:34:23] Og det som
+
+[00:34:25] ble stengt under pandemien
+
+[00:34:27] var ikke bare å åpne opp igjen etterpå.
+
+[00:34:28] Det var en del tilpassingsproblemer rundt det.
+
+[00:34:32] Og så får vi
+
+[00:34:32] en gradvis opptrapping
+
+[00:34:35] av en slags energikrig i Europa,
+
+[00:34:37] og så får vi krig i Ukraina
+
+[00:34:39] og full energikrig,
+
+[00:34:41] holdt jeg på å si, i hvert fall energikrise
+
+[00:34:42] i Europa. Og det
+
+[00:34:45] påvirker jo selvfølgelig oss også
+
+[00:34:46] i stor grad, om enn på en litt annen måte
+
+[00:34:49] enn for mange europeiske land.
+
+[00:34:51] Så i lyset av de veldige sjokkene vi har hatt
+
+[00:34:53] i økonomien gjennom de siste årene, så har
+
+[00:34:55] vi jo tross alt greid oss ganske
+
+[00:34:57] bra. Vi er i en situasjon hvor
+
+[00:34:59] lenigheten er lav, og aktiviteten
+
+[00:35:01] har vært ganske bra.
+
+[00:35:03] Men vi er ikke helt ferdige med å tilpasse
+
+[00:35:05] oss disse sjokkene. Så det
+
+[00:35:07] kommer til å prege det første
+
+[00:35:08] halvåret i år.
+
+[00:35:10] Og så tror vi nok at vi skal ha
+
+[00:35:12] en gradvis vekst etter det.
+
+[00:35:15] Så er det jo risikoen stor da, for at
+
+[00:35:17] disse sjokkene er
+
+[00:35:19] kraftigere og større, og vi trenger mer
+
+[00:35:21] mer tid på tilpassning, eller at
+
+[00:35:22] det blir bråere nedgang, for eksempel.
+
+[00:35:25] Men det kan også være at vi får
+
+[00:35:26] mer positive impulser. Vi vil løsne
+
+[00:35:28] raskere enn vi tror.
+
+[00:35:31] Veldig bra det, Kyrre. Da gjenstår det
+
+[00:35:33] egentlig bare å si
+
+[00:35:35] tusen takk for at du var
+
+[00:35:37] med oss. Og så må jeg minne om avslutningsvis
+
+[00:35:39] at for dere som vil ha
+
+[00:35:41] flere detaljer, så går det an
+
+[00:35:43] å gå inn og laste ned og
+
+[00:35:45] lese hele rapporten Økonomiske
+
+[00:35:47] Utsikter. Den er
+
+[00:35:49] tilgjengelig på DNB Alfa
+
+[00:35:52] og analysesidene
+
+[00:35:53] til dnb.no
+
+[00:35:56] Så der finner dere den.
+
+[00:35:58] Tusen takk for at
+
+[00:36:00] dere fulgte med på podcasten.
+
+[00:36:02] Vi høres!
+
+[00:36:24] ...eller som investeringsrådgivning
+
+[00:36:26] tilpasset en enkelt investorsituasjon.
+
+[00:36:28] En investor som er behov for råd eller spørsmål
+
+[00:36:30] som gir spørkontakten en finansrådgiver.
+
+[00:36:33] DNB påtar seg ikke noe ansvar, hverken for

@@ -1,0 +1,836 @@
+{"episode_id": 309, "segment_index": 0, "start": 0.05, "end": 7.53, "text": "Velkommen til Utbytte. Den B-podtkasten der forklare hva som skjer i den globale økonomi og finansmarkene."}
+{"episode_id": 309, "segment_index": 1, "start": 7.53, "end": 13.05, "text": "Jeg er Marius Brunhaugen, men i denne episoden skal du ikke forhøre mer fra meg."}
+{"episode_id": 309, "segment_index": 2, "start": 13.05, "end": 20.13, "text": "Dermot skal du forhøre fra kreditsstrategen vår, Ole Kjenneru og rent og valutaanalytiker Ingvild Borgen."}
+{"episode_id": 309, "segment_index": 3, "start": 20.13, "end": 24.49, "text": "De har holdt nylet webinar om kaos i Storbritannia,"}
+{"episode_id": 309, "segment_index": 4, "start": 24.49, "end": 29.33, "text": "og det er de første fremst bruker tiden på sårbarheten, dette synliggjør også,"}
+{"episode_id": 309, "segment_index": 5, "start": 29.33, "end": 36.73, "text": "og for resten av Europa ikke minst knyttet til omstillingen fra et lavrente til et høyrenteregime."}
+{"episode_id": 309, "segment_index": 6, "start": 36.73, "end": 44.17, "text": "Og jeg synes alt i alt at Olo Engvild hadde en veldig interessant diskusjon om hvilke læredommer vi kan trekke ut"}
+{"episode_id": 309, "segment_index": 7, "start": 44.17, "end": 50.81, "text": "fra det som skjer i Storbritannia nå, og du får også høre mer om usikkerheten knyttet til utsiktene"}
+{"episode_id": 309, "segment_index": 8, "start": 50.81, "end": 54.61, "text": "for global vekst, inflasjon og rent."}
+{"episode_id": 309, "segment_index": 9, "start": 54.61, "end": 59.65, "text": "Og med det så enstår du bare å si god lytt, og takk for at du hører på utbyte."}
+{"episode_id": 309, "segment_index": 10, "start": 66.13, "end": 72.25, "text": "Kaos i rentmarkedene i Storbritannia, kaos for pensjonskassen i Storbritannia,"}
+{"episode_id": 309, "segment_index": 11, "start": 72.25, "end": 78.33, "text": "og for øveri en ganske stor usikkerhet i globale markeder om hvor verden er på vei,"}
+{"episode_id": 309, "segment_index": 12, "start": 78.33, "end": 82.49, "text": "hvordan det skal gå med inflasjonen, og det er temaen vi for i dag, Ingvild."}
+{"episode_id": 309, "segment_index": 13, "start": 82.53, "end": 89.05, "text": "Ja, store temaer. Vi tar jo litt utgangspunkt i at dere som hører på har les litt om det som har skjedd"}
+{"episode_id": 309, "segment_index": 14, "start": 89.05, "end": 95.17, "text": "de Storbritannia de siste ukenesel, men vi må ta en liten gjennomgang på en måte hovedpunkt."}
+{"episode_id": 309, "segment_index": 15, "start": 95.17, "end": 97.97, "text": "Så det som skjedde var nye regjeringen."}
+{"episode_id": 309, "segment_index": 16, "start": 97.97, "end": 103.21, "text": "Trussregjeringen la jo fram et så kalt mini-budgett eller de kaltere et mini-budgett,"}
+{"episode_id": 309, "segment_index": 17, "start": 103.21, "end": 106.37, "text": "få dagere rettrade de kommige regjering."}
+{"episode_id": 309, "segment_index": 18, "start": 106.37, "end": 111.17, "text": "Og det budgette innebar blant annet ganske omfattende støtteordninger for bedriftrevisholdninger"}
+{"episode_id": 309, "segment_index": 19, "start": 111.21, "end": 119.49, "text": "som følger de höge strømprisene, og store og permanente skattekutt til de rikeste og bedrifter."}
+{"episode_id": 309, "segment_index": 20, "start": 119.49, "end": 129.05, "text": "De foreslår å kutte, eller kutte i inntekt siden, øke kostnadene, og det hele skulle gjelsfinansieres."}
+{"episode_id": 309, "segment_index": 21, "start": 129.05, "end": 132.45, "text": "Og det ble jo en myeligbare spørsmål om hvordan er dette bra,"}
+{"episode_id": 309, "segment_index": 22, "start": 132.45, "end": 137.89, "text": "det skal ikke, dette blir ikke veldig mye med gjell på grønne av dette her."}
+{"episode_id": 309, "segment_index": 23, "start": 137.89, "end": 141.41, "text": "Og så sa de sånn, ja, vi skal få vekst beskrikt."}
+{"episode_id": 309, "segment_index": 24, "start": 141.41, "end": 147.05, "text": "Og så kanskje vi kommer med en plan senere om hvordan vi potensierer og finansiere disse tingene."}
+{"episode_id": 309, "segment_index": 25, "start": 147.05, "end": 150.05, "text": "Men det skulle ikke komme før i november."}
+{"episode_id": 309, "segment_index": 26, "start": 150.05, "end": 157.57, "text": "Og ekonomiet er jo strengt at det ikke er enig i at å kutte skattene på den måten er noe som er så vekstremmende."}
+{"episode_id": 309, "segment_index": 27, "start": 157.57, "end": 160.89, "text": "Vi husker ikke gantiske skattekuttene til Trump i 2018."}
+{"episode_id": 309, "segment_index": 28, "start": 160.89, "end": 162.89, "text": "Null effekt på veksten."}
+{"episode_id": 309, "segment_index": 29, "start": 163.35, "end": 169.39, "text": "Så vi vet kanskje at det ikke alltid funker i klare med høyere vekst."}
+{"episode_id": 309, "segment_index": 30, "start": 169.39, "end": 172.95, "text": "Og så er det jo noe med baktippet til denne budgetfremleggelsen,"}
+{"episode_id": 309, "segment_index": 31, "start": 172.95, "end": 178.31, "text": "som er at Storbutane og som de fleste vestelige økonomier har hatt en kraftig oppgang i inflasjonen,"}
+{"episode_id": 309, "segment_index": 32, "start": 178.31, "end": 179.99, "text": "høyste inflasjonstraten på 40 år,"}
+{"episode_id": 309, "segment_index": 33, "start": 179.99, "end": 185.03, "text": "og at Bank of England, centralbanken, var på gode vektel og hever rentene for å få inflasjon ned,"}
+{"episode_id": 309, "segment_index": 34, "start": 185.03, "end": 186.95, "text": "og så prøve å dempe etter spørsmål og ekonomin."}
+{"episode_id": 309, "segment_index": 35, "start": 186.95, "end": 189.75, "text": "Så det er jo særlig to ting som er spesielt med det budgetene,"}
+{"episode_id": 309, "segment_index": 36, "start": 189.83, "end": 194.03, "text": "både at de foreslår et budget,"}
+{"episode_id": 309, "segment_index": 37, "start": 194.03, "end": 195.59, "text": "en veldig ekspanskjut budget,"}
+{"episode_id": 309, "segment_index": 38, "start": 195.59, "end": 198.63, "text": "og så øker bidel til å øke etterspørsmål i en ekonomi,"}
+{"episode_id": 309, "segment_index": 39, "start": 198.63, "end": 202.91, "text": "der høy etterspørsmål er nettopp et problem som centralbanken prøver å hantere."}
+{"episode_id": 309, "segment_index": 40, "start": 202.91, "end": 207.63, "text": "Og så var det jo også det uansvarlige ide,"}
+{"episode_id": 309, "segment_index": 41, "start": 207.63, "end": 211.75, "text": "det å ta for gitt at dette her må investere i GID,"}
+{"episode_id": 309, "segment_index": 42, "start": 211.75, "end": 214.87, "text": "og hjelpe oss med dette må dere kunne finansiere for oss."}
+{"episode_id": 309, "segment_index": 43, "start": 214.87, "end": 216.47, "text": "Og det var jo svaret fra..."}
+{"episode_id": 309, "segment_index": 44, "start": 216.55, "end": 219.11, "text": "Og vi ser jo av markedsgrafen her,"}
+{"episode_id": 309, "segment_index": 45, "start": 219.11, "end": 223.59, "text": "vi ser på rentene at det ble en ganske kraftig respons, umiddelbart."}
+{"episode_id": 309, "segment_index": 46, "start": 223.59, "end": 225.39, "text": "Så det balte på seg til Bertha."}
+{"episode_id": 309, "segment_index": 47, "start": 225.39, "end": 228.27, "text": "Det balte på seg, investere er svaret med om man kan vel si det,"}
+{"episode_id": 309, "segment_index": 48, "start": 228.27, "end": 230.19, "text": "dumpe brytiske statsobligasjoner,"}
+{"episode_id": 309, "segment_index": 49, "start": 230.19, "end": 232.47, "text": "selve i hvert fall i Stort Mann,"}
+{"episode_id": 309, "segment_index": 50, "start": 232.47, "end": 235.95, "text": "noe som gjorde at rentene steg særlig,"}
+{"episode_id": 309, "segment_index": 51, "start": 235.95, "end": 238.47, "text": "rentene på statsobligasjoner med litt lengre løpetid,"}
+{"episode_id": 309, "segment_index": 52, "start": 238.47, "end": 244.47, "text": "vi fikk jo en oppgang i både 10 og 30 års rentene på anterhent 1 prosentpång i løpet av få dager,"}
+{"episode_id": 309, "segment_index": 53, "start": 244.47, "end": 246.19, "text": "så det er helt ekstremt store bevegelser."}
+{"episode_id": 309, "segment_index": 54, "start": 246.19, "end": 249.43, "text": "Det er veldig tydelig beskjed fra investerene, dette likte de ikke."}
+{"episode_id": 309, "segment_index": 55, "start": 249.43, "end": 251.87, "text": "Men så var det jo en liten twist på det hele i form av"}
+{"episode_id": 309, "segment_index": 56, "start": 251.87, "end": 256.79, "text": "at den brytiske pankjonsfondindustrien bidro til å forstærke bevegelsene."}
+{"episode_id": 309, "segment_index": 57, "start": 256.79, "end": 261.59, "text": "Kan du si hva er det mulig å ha en enkel kjappforklaring av hvor den de gjorde det?"}
+{"episode_id": 309, "segment_index": 58, "start": 261.59, "end": 262.51, "text": "Tror det er det mulig."}
+{"episode_id": 309, "segment_index": 59, "start": 262.51, "end": 266.03, "text": "Men altså bakdelen på her er jo lavere renter"}
+{"episode_id": 309, "segment_index": 60, "start": 266.03, "end": 270.31, "text": "som har vært en langvare brytte for pankjonskassene internasjonalt enklere,"}
+{"episode_id": 309, "segment_index": 61, "start": 270.31, "end": 273.75, "text": "men vi så jo mye problemene knyttet til at rentene plutselig steg nå"}
+{"episode_id": 309, "segment_index": 62, "start": 273.75, "end": 278.23, "text": "i form av at pankjonskassene i en om lang tid har posisjonert seg for,"}
+{"episode_id": 309, "segment_index": 63, "start": 278.23, "end": 281.07, "text": "sikrer seg mot videre rentefall."}
+{"episode_id": 309, "segment_index": 64, "start": 281.07, "end": 288.83, "text": "Brukt sopper for å redusere ulämpen kostnaden av at rentene skulle falle videre,"}
+{"episode_id": 309, "segment_index": 65, "start": 288.83, "end": 292.23, "text": "men når da rentene plutselig steg massift,"}
+{"episode_id": 309, "segment_index": 66, "start": 292.23, "end": 295.59, "text": "så måtte de stille sikkert mot disse soppene."}
+{"episode_id": 309, "segment_index": 67, "start": 295.59, "end": 297.59, "text": "Så da fikk de marginkrav."}
+{"episode_id": 309, "segment_index": 68, "start": 297.59, "end": 301.99, "text": "Og dette er noe vi har opplevd med gjemne melomrommet de siste årene,"}
+{"episode_id": 309, "segment_index": 69, "start": 302.03, "end": 306.63, "text": "mars 2020 ekstremt for hele fannsindustrien, pankjonskassene altså,"}
+{"episode_id": 309, "segment_index": 70, "start": 306.63, "end": 310.63, "text": "så måtte de stille sikkert for valuta-relatert hedsjer,"}
+{"episode_id": 309, "segment_index": 71, "start": 310.63, "end": 313.15, "text": "men nå kom det da i form av disse rentesopene."}
+{"episode_id": 309, "segment_index": 72, "start": 313.15, "end": 314.83, "text": "Så man måtte stille kontanter."}
+{"episode_id": 309, "segment_index": 73, "start": 314.83, "end": 317.47, "text": "Det er kanskje det som vi er mest overrasket over her."}
+{"episode_id": 309, "segment_index": 74, "start": 317.47, "end": 324.19, "text": "Hvorfor var det dette krav om kontanter når vi i Norge har klart å endre det litt,"}
+{"episode_id": 309, "segment_index": 75, "start": 324.19, "end": 327.59, "text": "disse avtalen som gjør at man kan stille obligasjonene som sikkerhet."}
+{"episode_id": 309, "segment_index": 76, "start": 327.59, "end": 331.11, "text": "Det var tydeligvis ikke en mulighet for de britiske pankjonskassene"}
+{"episode_id": 309, "segment_index": 77, "start": 331.15, "end": 332.15, "text": "på den samme måten."}
+{"episode_id": 309, "segment_index": 78, "start": 332.15, "end": 334.15, "text": "Og da formodet de hele selve."}
+{"episode_id": 309, "segment_index": 79, "start": 334.15, "end": 338.99, "text": "Og du fikk den initiale rentoppgangen som var kjupp supernegativ for dem,"}
+{"episode_id": 309, "segment_index": 80, "start": 338.99, "end": 342.67, "text": "men da måtte de stille mer kontanter i sikkert mot hedsjene sine."}
+{"episode_id": 309, "segment_index": 81, "start": 342.67, "end": 346.19, "text": "Og det kunne de kunne gjøre ved å selve understast obligasjoner,"}
+{"episode_id": 309, "segment_index": 82, "start": 346.19, "end": 347.71, "text": "men da steg rentene enn om dere."}
+{"episode_id": 309, "segment_index": 83, "start": 347.71, "end": 351.39, "text": "Og så måtte de stille enn om dere kontanter som sikkerhet."}
+{"episode_id": 309, "segment_index": 84, "start": 351.39, "end": 354.39, "text": "Man kom inn i det man kaller dødsspirale rett og slett."}
+{"episode_id": 309, "segment_index": 85, "start": 354.39, "end": 358.99, "text": "Og det var noen omtattet dette som at dette var et nesten et linemoment"}
+{"episode_id": 309, "segment_index": 86, "start": 358.99, "end": 361.63, "text": "for det britiske pankjonssystemet."}
+{"episode_id": 309, "segment_index": 87, "start": 361.63, "end": 364.83, "text": "Så vennskriset for når rentene stiger på denne måten her,"}
+{"episode_id": 309, "segment_index": 88, "start": 364.83, "end": 369.15, "text": "så er det egentlig superbra for nå var det en alt av forpliktelser de sitter med."}
+{"episode_id": 309, "segment_index": 89, "start": 369.15, "end": 373.47, "text": "Men det var en lik uretetskris ut av proportioner."}
+{"episode_id": 309, "segment_index": 90, "start": 373.47, "end": 377.27, "text": "Og markede forbritiske statsobligasjoner ble,"}
+{"episode_id": 309, "segment_index": 91, "start": 377.27, "end": 382.83, "text": "og det var så ekstreme tilstand der at det ble i Bank of Englands egen ord dysfunksjonelt."}
+{"episode_id": 309, "segment_index": 92, "start": 382.83, "end": 388.23, "text": "Og når markede for statsobligasjoner på samme måte som markede for valutta blir dysfunksjonelt,"}
+{"episode_id": 309, "segment_index": 93, "start": 388.23, "end": 392.51, "text": "så er det noe som setter hele et landsekonomie i fare."}
+{"episode_id": 309, "segment_index": 94, "start": 392.51, "end": 400.59, "text": "Og det er du nevne en lignende episode med dødsspiraler og det at for morginkrav og så videre."}
+{"episode_id": 309, "segment_index": 95, "start": 400.59, "end": 407.59, "text": "Vi har jo hatt to nylige tilfra det, både i Norge, mars 2020 og i USA, mars 2020."}
+{"episode_id": 309, "segment_index": 96, "start": 407.59, "end": 411.91, "text": "Og begge de tilfellene hvor vi fikk bransselg av amerikanske statsobligasjoner,"}
+{"episode_id": 309, "segment_index": 97, "start": 411.91, "end": 414.43, "text": "og vi fikk en kraftig svekkelse av den norske kronene."}
+{"episode_id": 309, "segment_index": 98, "start": 414.47, "end": 418.95, "text": "Begge de tilfellene enten med at centralbanken måtte intervenere i markede,"}
+{"episode_id": 309, "segment_index": 99, "start": 418.95, "end": 421.87, "text": "og det var også det som støvde nå i Storbritannia,"}
+{"episode_id": 309, "segment_index": 100, "start": 421.87, "end": 426.51, "text": "at Bank of England måtte annansere et par dagere etter radieringen fra en budgette,"}
+{"episode_id": 309, "segment_index": 101, "start": 426.51, "end": 428.71, "text": "nå må vi gjenngjøre kontittative lettelser."}
+{"episode_id": 309, "segment_index": 102, "start": 428.71, "end": 433.07, "text": "Som er et paradoks fordi de har egentlig vetet at de skal gjøre det motsatte,"}
+{"episode_id": 309, "segment_index": 103, "start": 433.07, "end": 436.99, "text": "de skal redusere behållningen sin, så de skal ha renten opp og redusere behållningen."}
+{"episode_id": 309, "segment_index": 104, "start": 436.99, "end": 443.87, "text": "Men nå var det også 13 dager skal vi kjøpe giltsbritiske statsobligasjoner for et ganske stort forlump."}
+{"episode_id": 309, "segment_index": 105, "start": 444.67, "end": 448.99, "text": "Og det når man fikk den nye, så fikk man jo litt indtrykk at nå er ting virkelig,"}
+{"episode_id": 309, "segment_index": 106, "start": 448.99, "end": 450.75, "text": "nå går verdena hengslenet."}
+{"episode_id": 309, "segment_index": 107, "start": 450.75, "end": 454.55, "text": "Det er en så stor centralbank begynner å gjøre QE igjen."}
+{"episode_id": 309, "segment_index": 108, "start": 454.55, "end": 458.15, "text": "Når de prøver å få en inflasjon og sette opp rentene,"}
+{"episode_id": 309, "segment_index": 109, "start": 458.15, "end": 461.63, "text": "QE er på en måte et av de mest sånn, ja,"}
+{"episode_id": 309, "segment_index": 110, "start": 461.63, "end": 463.75, "text": "mer jeg skal ikke kalle det desperatvirkemil,"}
+{"episode_id": 309, "segment_index": 111, "start": 463.75, "end": 466.87, "text": "men det er jo et virkemil man har brukt for å virkelig desperat prøve"}
+{"episode_id": 309, "segment_index": 112, "start": 466.87, "end": 471.23, "text": "å få opp simulere ekonomin da når det å kute renten ikke har vært noe i seg selv,"}
+{"episode_id": 309, "segment_index": 113, "start": 471.23, "end": 473.31, "text": "så det å komme med det nå virket helt absurd."}
+{"episode_id": 309, "segment_index": 114, "start": 473.35, "end": 476.31, "text": "Men igjen, det var noe det ble tvinget til å gjøre"}
+{"episode_id": 309, "segment_index": 115, "start": 476.31, "end": 479.99, "text": "på grunn av denne disfunksjonaliteten i market derfor statsobligasjoner."}
+{"episode_id": 309, "segment_index": 116, "start": 479.99, "end": 481.63, "text": "Nettopp på det er en viktig distinktjoner da."}
+{"episode_id": 309, "segment_index": 117, "start": 481.63, "end": 486.47, "text": "De ble ikke tvinget til å gjøre det fordi de var redde for at eksten og inflasjon skulle bli for lav,"}
+{"episode_id": 309, "segment_index": 118, "start": 486.47, "end": 491.39, "text": "som har vært hensynet som FED-DSB har lendt seg mot hele veien tidligere."}
+{"episode_id": 309, "segment_index": 119, "start": 491.39, "end": 496.07, "text": "Nå var det rett og sjovt bare likviriteten i market der, de måtte stabilisere market der."}
+{"episode_id": 309, "segment_index": 120, "start": 496.07, "end": 500.51, "text": "Og jeg vil jo si, tiltaket de komme, tog en helt annen form også,"}
+{"episode_id": 309, "segment_index": 121, "start": 500.51, "end": 504.67, "text": "enn det vi har sett for at centralbanken oppgjendet den siste 10-15 år."}
+{"episode_id": 309, "segment_index": 122, "start": 504.67, "end": 510.31, "text": "Ja, og den motvilgen som Bank og Winglen hadde mot å faktisk lansere QE på nyttene,"}
+{"episode_id": 309, "segment_index": 123, "start": 510.31, "end": 514.35, "text": "den har jeg kommet veldig start fra med løpet av de siste dagene bare."}
+{"episode_id": 309, "segment_index": 124, "start": 514.35, "end": 518.91, "text": "Fordi jeg, når de første å ganske til dette, så bidro det jo til å stabilisere markene noe."}
+{"episode_id": 309, "segment_index": 125, "start": 518.91, "end": 521.23, "text": "Pynet var fortsatt veldig svak, renten var fortsatt veldig høy,"}
+{"episode_id": 309, "segment_index": 126, "start": 521.23, "end": 523.43, "text": "så det var på en måte ikke nok."}
+{"episode_id": 309, "segment_index": 127, "start": 523.43, "end": 527.07, "text": "Og så kom det jo i starten av forjuke at Bank og Winglen-treff Bailey sa,"}
+{"episode_id": 309, "segment_index": 128, "start": 527.11, "end": 531.43, "text": "vi skal sluttet å støtte market der som plannakt nå på fredag,"}
+{"episode_id": 309, "segment_index": 129, "start": 531.43, "end": 534.19, "text": "der det som jeg har planen hele tiden, og den planen hold vi oss til."}
+{"episode_id": 309, "segment_index": 130, "start": 534.19, "end": 538.95, "text": "Så dere har tre dager på dere, sa han til banksjonsvannet, til å fikse ting."}
+{"episode_id": 309, "segment_index": 131, "start": 538.95, "end": 544.79, "text": "Og det var litt sånn harmelding å få, var det mange som mente det litt vel,"}
+{"episode_id": 309, "segment_index": 132, "start": 544.79, "end": 549.31, "text": "og det var mange som mente at Bailey gamblet litt når han kom en sånn har beskjed,"}
+{"episode_id": 309, "segment_index": 133, "start": 549.31, "end": 552.63, "text": "satte sin egen kredibilitet i fare,"}
+{"episode_id": 309, "segment_index": 134, "start": 552.71, "end": 555.27, "text": "og så fikk vi også litt motstjædende beskjed,"}
+{"episode_id": 309, "segment_index": 135, "start": 555.27, "end": 557.79, "text": "finansial time som kunne melde om andre i Bank og Winglen, så sa han,"}
+{"episode_id": 309, "segment_index": 136, "start": 557.79, "end": 561.51, "text": "nei, nei, slappet vi skal fortsette, og så kom den offisielle uttalset,"}
+{"episode_id": 309, "segment_index": 137, "start": 561.51, "end": 564.71, "text": "masse fram og tilbake, men det ble jo klart da at Bank og Winglen stod på sitt,"}
+{"episode_id": 309, "segment_index": 138, "start": 564.71, "end": 568.83, "text": "de skulle avslutte helt tydelig at de ikke var fornøydige,"}
+{"episode_id": 309, "segment_index": 139, "start": 568.83, "end": 571.11, "text": "men den rollen de ble tunge til å ta med,"}
+{"episode_id": 309, "segment_index": 140, "start": 571.11, "end": 575.91, "text": "og på en måte støtte opp market når politikerne handlet så uansvarlig som de gjorde."}
+{"episode_id": 309, "segment_index": 141, "start": 575.91, "end": 580.95, "text": "For den underliggende konflikten der er det nettopp at det er uforengelig å holde på med QE,"}
+{"episode_id": 309, "segment_index": 142, "start": 580.99, "end": 584.99, "text": "samtidig som du skal gjøre alt mulig annet for å få ned et inflasjon."}
+{"episode_id": 309, "segment_index": 143, "start": 584.99, "end": 587.19, "text": "De to funker ikke."}
+{"episode_id": 309, "segment_index": 144, "start": 587.19, "end": 587.59, "text": "Nei."}
+{"episode_id": 309, "segment_index": 145, "start": 587.59, "end": 588.23, "text": "Sammen."}
+{"episode_id": 309, "segment_index": 146, "start": 588.23, "end": 592.47, "text": "Og det er også det som marketes, det funker ikke at centralbanken holder på å få en inflasjon"}
+{"episode_id": 309, "segment_index": 147, "start": 592.47, "end": 595.67, "text": "når vi har politikere som da bidrar til å få inflasjonen opp."}
+{"episode_id": 309, "segment_index": 148, "start": 595.67, "end": 600.71, "text": "Og resultatet av det hele, eller vi har jo hvertfall kommet et skrift videre nå,"}
+{"episode_id": 309, "segment_index": 149, "start": 600.71, "end": 604.39, "text": "og kommet nye til rigår, om at den nye finansministeren hønt,"}
+{"episode_id": 309, "segment_index": 150, "start": 604.39, "end": 608.27, "text": "mer eller mindre reverserer nesten alt i dette minne beskjedte,"}
+{"episode_id": 309, "segment_index": 151, "start": 608.27, "end": 610.59, "text": "det blir ikke skattekutt,"}
+{"episode_id": 309, "segment_index": 152, "start": 610.63, "end": 613.83, "text": "blir skattehevinger faktisk som var planlagt, siniselt."}
+{"episode_id": 309, "segment_index": 153, "start": 613.83, "end": 620.11, "text": "Og denne støttårenningen blir betydelig mindre om fornært mye mindre ekspansiv tiltak."}
+{"episode_id": 309, "segment_index": 154, "start": 620.11, "end": 623.23, "text": "Så markete har virkelig disiplinert politikerne her."}
+{"episode_id": 309, "segment_index": 155, "start": 623.23, "end": 630.07, "text": "Ja, jeg synes ikke dette er en fantastisk illustrasjon på hvordan markene kan ha denne rollen."}
+{"episode_id": 309, "segment_index": 156, "start": 630.07, "end": 634.47, "text": "At politikere kommer med noe som er direkte uansvarlig."}
+{"episode_id": 309, "segment_index": 157, "start": 634.47, "end": 637.75, "text": "Og da sier markete på at nei, det går ikke."}
+{"episode_id": 309, "segment_index": 158, "start": 637.75, "end": 640.31, "text": "Og centralbanken sier også egentlig fra da."}
+{"episode_id": 309, "segment_index": 159, "start": 640.35, "end": 642.91, "text": "Det var det Bely gjorde. Dette gidder ikke vi vente på å støtte."}
+{"episode_id": 309, "segment_index": 160, "start": 642.91, "end": 646.35, "text": "Men det leder ut til et spørsmål om litt av implikasjonene her,"}
+{"episode_id": 309, "segment_index": 161, "start": 646.35, "end": 649.23, "text": "og hvilken lærer de om vi kan trekke på generelt basis."}
+{"episode_id": 309, "segment_index": 162, "start": 649.23, "end": 656.34, "text": "Er det sånn at dette innebærer at potensiale for en finanspolitiske dimulans"}
+{"episode_id": 309, "segment_index": 163, "start": 656.34, "end": 659.46, "text": "i andre dan også er redusert?"}
+{"episode_id": 309, "segment_index": 164, "start": 659.46, "end": 661.22, "text": "For det er jo veldig interessant."}
+{"episode_id": 309, "segment_index": 165, "start": 661.22, "end": 665.58, "text": "Det er fordi vi har jo snakket om etterfinanskrisen."}
+{"episode_id": 309, "segment_index": 166, "start": 665.58, "end": 668.06, "text": "Da var det jo pengepolitikken som måtte trå til,"}
+{"episode_id": 309, "segment_index": 167, "start": 668.1, "end": 670.7, "text": "og senke rentene begynne med de sekventetilvettelser"}
+{"episode_id": 309, "segment_index": 168, "start": 670.7, "end": 674.74, "text": "og pengepolitikken som fikk ansvar for å få økonomien på fot igjen."}
+{"episode_id": 309, "segment_index": 169, "start": 674.74, "end": 678.46, "text": "Og finanspolitikken var jo da veldig innstrammende, både USA og Europa."}
+{"episode_id": 309, "segment_index": 170, "start": 678.46, "end": 685.98, "text": "Og det bidrog jo til at den vekst gjenninhentingen etter finanskrisen ble litt tregg."}
+{"episode_id": 309, "segment_index": 171, "start": 685.98, "end": 691.02, "text": "Og så har man tenkt nå da at nå har det blitt snudd på det."}
+{"episode_id": 309, "segment_index": 172, "start": 691.02, "end": 693.86, "text": "Nå er det høyinflasjon, nå må pengepolitikken være innstrammende."}
+{"episode_id": 309, "segment_index": 173, "start": 693.86, "end": 696.06, "text": "Men da kan finanspolitikken ha."}
+{"episode_id": 309, "segment_index": 174, "start": 696.06, "end": 701.02, "text": "Og så har vi jo fått masse støttepakker, og vi har jo fått mye ekspanser."}
+{"episode_id": 309, "segment_index": 175, "start": 701.02, "end": 702.86, "text": "Det er jo ikke større utdaterne, det er ikke først utakkurat."}
+{"episode_id": 309, "segment_index": 176, "start": 702.86, "end": 706.26, "text": "Men dette her, så da har man tenkt, ja, man kan politikkerne bidra,"}
+{"episode_id": 309, "segment_index": 177, "start": 706.26, "end": 707.66, "text": "til at ting ikke blir så ille."}
+{"episode_id": 309, "segment_index": 178, "start": 707.66, "end": 710.18, "text": "Og da er jo det som er skjedd i større utdaterne nå."}
+{"episode_id": 309, "segment_index": 179, "start": 710.18, "end": 713.74, "text": "Intressant i form av at markeden sier, nei, det kan vi ikke."}
+{"episode_id": 309, "segment_index": 180, "start": 713.74, "end": 715.18, "text": "Det kan ikke blåst sånn."}
+{"episode_id": 309, "segment_index": 181, "start": 715.18, "end": 719.66, "text": "En distinktjoner er kanskje at mange av de støttepakkene"}
+{"episode_id": 309, "segment_index": 182, "start": 719.66, "end": 723.26, "text": "som man har utformet inn til nylig, for Europa generelt,"}
+{"episode_id": 309, "segment_index": 183, "start": 723.3, "end": 726.7, "text": "er at man har prøvd å dempe fallet."}
+{"episode_id": 309, "segment_index": 184, "start": 726.7, "end": 731.9, "text": "Man har sett at her har energiprisene steget så mye,"}
+{"episode_id": 309, "segment_index": 185, "start": 731.9, "end": 736.26, "text": "at du kommer til å kvele ettersprøslen som følger det spesielt i Europa."}
+{"episode_id": 309, "segment_index": 186, "start": 736.26, "end": 738.38, "text": "Og så prøver man å dempe fallet litt innan."}
+{"episode_id": 309, "segment_index": 187, "start": 738.38, "end": 741.82, "text": "Man skal forstå at ha et fall, men tiltakende at dempe fallet."}
+{"episode_id": 309, "segment_index": 188, "start": 741.82, "end": 746.7, "text": "Men så kommer det å brite på med et nytt forslag om at vi skal ikke bare dempe fallet,"}
+{"episode_id": 309, "segment_index": 189, "start": 746.7, "end": 747.82, "text": "vi skal akselere."}
+{"episode_id": 309, "segment_index": 190, "start": 747.82, "end": 750.54, "text": "Vi skal ha buse ettersprøslen, for vi liker ikke det."}
+{"episode_id": 309, "segment_index": 191, "start": 750.54, "end": 752.74, "text": "Vi vil ikke at folk skal ha det ille."}
+{"episode_id": 309, "segment_index": 192, "start": 752.74, "end": 754.5, "text": "Vi vil heller at folk skal ha det bra."}
+{"episode_id": 309, "segment_index": 193, "start": 754.5, "end": 757.38, "text": "Det er gode interessjoner, men kanskje ikke helt det man trenger når inflasjonen er så hei."}
+{"episode_id": 309, "segment_index": 194, "start": 757.38, "end": 759.14, "text": "Så det er litt av distinktjonen."}
+{"episode_id": 309, "segment_index": 195, "start": 759.14, "end": 763.26, "text": "Det er forskjellen med mye av det som har blitt gjort på passplans,"}
+{"episode_id": 309, "segment_index": 196, "start": 763.26, "end": 765.34, "text": "eller kontinentala Europa, og hver slags det er Britten å komme."}
+{"episode_id": 309, "segment_index": 197, "start": 765.34, "end": 768.1, "text": "Skattekuttene, permanentisk skattekuttene."}
+{"episode_id": 309, "segment_index": 198, "start": 768.1, "end": 768.82, "text": "Ja."}
+{"episode_id": 309, "segment_index": 199, "start": 768.82, "end": 772.7, "text": "Men du, den veit sitt makro-team,"}
+{"episode_id": 309, "segment_index": 200, "start": 772.7, "end": 774.7, "text": "har jo et syn om at Europa,"}
+{"episode_id": 309, "segment_index": 201, "start": 774.7, "end": 777.98, "text": "Europa skal inn i en ganske kraftig recession nå."}
+{"episode_id": 309, "segment_index": 202, "start": 777.98, "end": 781.54, "text": "Men så har vi et mer positivt syn på Euro-sonen etter fremme tid."}
+{"episode_id": 309, "segment_index": 203, "start": 781.58, "end": 784.26, "text": "Vi tror at Euro-sonen skal komme seg ut av recessionen."}
+{"episode_id": 309, "segment_index": 204, "start": 784.26, "end": 789.9, "text": "En viktig grunn til det, er at vi tror på nett- og finanspolitiske simulanser."}
+{"episode_id": 309, "segment_index": 205, "start": 789.9, "end": 794.94, "text": "Og at det europeiske politikret skal investere i blant annet grøn-omstilling for slik å bygge."}
+{"episode_id": 309, "segment_index": 206, "start": 794.94, "end": 796.22, "text": "Hva åpen av grønne ting?"}
+{"episode_id": 309, "segment_index": 207, "start": 796.22, "end": 798.26, "text": "De tingene vi virkelig liker nå i dag."}
+{"episode_id": 309, "segment_index": 208, "start": 798.26, "end": 800.94, "text": "De vi trenger, det er det Europa virkelig trenger."}
+{"episode_id": 309, "segment_index": 209, "start": 800.94, "end": 802.86, "text": "Det er særlig tyskland trenger nå i dag."}
+{"episode_id": 309, "segment_index": 210, "start": 802.86, "end": 806.18, "text": "Så det er jo ikke, jeg mener det er ikke en fjern antagelse."}
+{"episode_id": 309, "segment_index": 211, "start": 806.18, "end": 809.7, "text": "Men det å ha et positivt syn på Euro-sonen,"}
+{"episode_id": 309, "segment_index": 212, "start": 809.74, "end": 812.42, "text": "det er jo aldri kontroversielt."}
+{"episode_id": 309, "segment_index": 213, "start": 812.42, "end": 814.26, "text": "Du blant annet, synes jeg det."}
+{"episode_id": 309, "segment_index": 214, "start": 814.26, "end": 820.26, "text": "Og komme jo med en gang, eller ikke kort tid etter marketsturblensnitsurbetannia,"}
+{"episode_id": 309, "segment_index": 215, "start": 820.26, "end": 822.38, "text": "så kommer du bort og gnæ deg henne."}
+{"episode_id": 309, "segment_index": 216, "start": 822.38, "end": 827.02, "text": "Nå må dere reversere i det synet deres forro-son."}
+{"episode_id": 309, "segment_index": 217, "start": 827.02, "end": 830.54, "text": "For nå har dere fått bevist at det der kan ikke Europa gjøre kraftig."}
+{"episode_id": 309, "segment_index": 218, "start": 830.54, "end": 831.74, "text": "Og det mener jeg jo fortsatt,"}
+{"episode_id": 309, "segment_index": 219, "start": 831.74, "end": 837.78, "text": "at potensiale for en sånn finanspolitisk drevet oppgangskonjunktur"}
+{"episode_id": 309, "segment_index": 220, "start": 837.82, "end": 842.38, "text": "for at forro-sonen virker jo veldig russansynlig."}
+{"episode_id": 309, "segment_index": 221, "start": 842.38, "end": 843.98, "text": "Og enda mer russansynlig,"}
+{"episode_id": 309, "segment_index": 222, "start": 843.98, "end": 846.78, "text": "nå som vi fikk den typen respons i marketene."}
+{"episode_id": 309, "segment_index": 223, "start": 846.78, "end": 851.82, "text": "Ja, men da må jeg bare få nevne at tyskland,"}
+{"episode_id": 309, "segment_index": 224, "start": 851.82, "end": 854.26, "text": "Europa's største økonomi i skjigget nå,"}
+{"episode_id": 309, "segment_index": 225, "start": 854.26, "end": 855.78, "text": "sturbeltenne, eller egentlig ikke så mye i skjigget,"}
+{"episode_id": 309, "segment_index": 226, "start": 855.78, "end": 858.06, "text": "det har vært en elf å oppmerke som et par dødsene."}
+{"episode_id": 309, "segment_index": 227, "start": 858.06, "end": 861.7, "text": "Langsert jo en giga, en gigantisk støttebakke"}
+{"episode_id": 309, "segment_index": 228, "start": 861.7, "end": 864.3, "text": "til tysk industri og tyske hosholdninger."}
+{"episode_id": 309, "segment_index": 229, "start": 864.3, "end": 867.62, "text": "De kaller det energistøttebakke eller noe sant."}
+{"episode_id": 309, "segment_index": 230, "start": 867.78, "end": 871.62, "text": "Som er kjempe stor, 200 miljarder euro,"}
+{"episode_id": 309, "segment_index": 231, "start": 871.62, "end": 875.62, "text": "så kan man ikke sammenlenge det budgett i Storbevang"}
+{"episode_id": 309, "segment_index": 232, "start": 875.62, "end": 877.62, "text": "for det innebør skattekutt,"}
+{"episode_id": 309, "segment_index": 233, "start": 877.62, "end": 879.62, "text": "eksempremonente skattekutt,"}
+{"episode_id": 309, "segment_index": 234, "start": 879.62, "end": 881.62, "text": "og dette er mer en støttebakke."}
+{"episode_id": 309, "segment_index": 235, "start": 881.62, "end": 883.62, "text": "Men hvis vi skal se på størrelsen på den tyske støttebakken,"}
+{"episode_id": 309, "segment_index": 236, "start": 883.62, "end": 886.62, "text": "så utgjør den 5% av tysk BNP."}
+{"episode_id": 309, "segment_index": 237, "start": 886.62, "end": 891.62, "text": "Skattekuttene foreslåter trøstregeringen utgjorde 1,8% av britisk BNP per år."}
+{"episode_id": 309, "segment_index": 238, "start": 891.62, "end": 896.62, "text": "Så uansett da, dette var svære greier som kom fra tyskland også."}
+{"episode_id": 309, "segment_index": 239, "start": 896.62, "end": 898.62, "text": "Hvordan reagerer det, merker dere?"}
+{"episode_id": 309, "segment_index": 240, "start": 898.62, "end": 900.62, "text": "Kan du si det?"}
+{"episode_id": 309, "segment_index": 241, "start": 900.62, "end": 902.72, "text": "Et skuldretrek."}
+{"episode_id": 309, "segment_index": 242, "start": 902.72, "end": 906.72, "text": "Tyskensatrænte faldt. De faldt relativt til amerikanske satrænte."}
+{"episode_id": 309, "segment_index": 243, "start": 906.72, "end": 910.72, "text": "De har fått blitt lavere enn tilsvern amerikanske satrænte."}
+{"episode_id": 309, "segment_index": 244, "start": 910.72, "end": 913.72, "text": "Så det er jo en tegn på dette."}
+{"episode_id": 309, "segment_index": 245, "start": 913.72, "end": 915.72, "text": "Tyskland fikk lov da,"}
+{"episode_id": 309, "segment_index": 246, "start": 915.72, "end": 920.72, "text": "og kom med en finanspolitiske bust."}
+{"episode_id": 309, "segment_index": 247, "start": 920.72, "end": 923.72, "text": "Og det ble om noe kanskje tatt godt imot."}
+{"episode_id": 309, "segment_index": 248, "start": 923.72, "end": 925.72, "text": "Men samtidig var det en artikel jeg sentet det der,"}
+{"episode_id": 309, "segment_index": 249, "start": 925.72, "end": 929.72, "text": "som snakket om at dette synes Berglge var kjempe urettferdig."}
+{"episode_id": 309, "segment_index": 250, "start": 929.72, "end": 931.72, "text": "Fordi hadde du ikke den samme muligheten,"}
+{"episode_id": 309, "segment_index": 251, "start": 931.72, "end": 936.72, "text": "fordi hvis vi kom med en samme pakka dimensionert for vår økonomi,"}
+{"episode_id": 309, "segment_index": 252, "start": 936.72, "end": 938.72, "text": "så kommer vi til å bli straffet av markedet."}
+{"episode_id": 309, "segment_index": 253, "start": 938.72, "end": 941.72, "text": "Så da ble det liksom, dette kan ikke dere driv med,"}
+{"episode_id": 309, "segment_index": 254, "start": 941.72, "end": 945.72, "text": "for da er det en konkurransevridning som ikke er bra forresten av Europa."}
+{"episode_id": 309, "segment_index": 255, "start": 945.72, "end": 947.72, "text": "Så det skaper liksom gnistninger."}
+{"episode_id": 309, "segment_index": 256, "start": 947.72, "end": 952.72, "text": "Her klart. Men som tyskland, der sier det som tyske finansmilistern sa da,"}
+{"episode_id": 309, "segment_index": 257, "start": 952.72, "end": 954.72, "text": "som vi også snakket om,"}
+{"episode_id": 309, "segment_index": 258, "start": 954.72, "end": 957.72, "text": "tyskland har fått så mye tyn i så mange år,"}
+{"episode_id": 309, "segment_index": 259, "start": 957.72, "end": 959.72, "text": "for de bruker ikke nok penger,"}
+{"episode_id": 309, "segment_index": 260, "start": 959.72, "end": 963.72, "text": "for de ikke bidrar nok til å øke etterspørslen i sin økonomi."}
+{"episode_id": 309, "segment_index": 261, "start": 963.72, "end": 967.72, "text": "Og de som eurozons desiderert største økonomi,"}
+{"episode_id": 309, "segment_index": 262, "start": 967.72, "end": 970.72, "text": "det ganger hele eurozonen at tyskland gjør det,"}
+{"episode_id": 309, "segment_index": 263, "start": 970.72, "end": 972.72, "text": "så de sier, nå klager dere selv når vi gjør det,"}
+{"episode_id": 309, "segment_index": 264, "start": 972.72, "end": 974.72, "text": "de har bett om i så mange år."}
+{"episode_id": 309, "segment_index": 265, "start": 974.72, "end": 975.72, "text": "Det har vært satt."}
+{"episode_id": 309, "segment_index": 266, "start": 975.72, "end": 977.72, "text": "For det var det som skjedde,"}
+{"episode_id": 309, "segment_index": 267, "start": 977.72, "end": 979.72, "text": "og de likte ikke at de skulle ge gas egentlig,"}
+{"episode_id": 309, "segment_index": 268, "start": 979.72, "end": 981.72, "text": "at tyskland skulle klare seg bra,"}
+{"episode_id": 309, "segment_index": 269, "start": 981.72, "end": 984.72, "text": "hvis vi først skal ha det ille, så skal alle ha det ille."}
+{"episode_id": 309, "segment_index": 270, "start": 984.72, "end": 986.72, "text": "Det var liksom beskjeden fra Belga."}
+{"episode_id": 309, "segment_index": 271, "start": 986.72, "end": 988.72, "text": "Men jeg synes jo fortsatt det er relevant,"}
+{"episode_id": 309, "segment_index": 272, "start": 988.72, "end": 991.72, "text": "med tanke på det, i en av de handlingsrommet som sier,"}
+{"episode_id": 309, "segment_index": 273, "start": 991.72, "end": 994.72, "text": "Frankrike, Italien, Spanien, Belga, Nedran og så videre,"}
+{"episode_id": 309, "segment_index": 274, "start": 994.72, "end": 999.72, "text": "potensielt vil ha fremover i form av hvor mye de kan støtte økonomiene,"}
+{"episode_id": 309, "segment_index": 275, "start": 999.72, "end": 1004.72, "text": "hvor mye de kan satse på disse prosjektene i en periode,"}
+{"episode_id": 309, "segment_index": 276, "start": 1004.72, "end": 1008.78, "text": "der rentene må være høye for å få en inflasjon."}
+{"episode_id": 309, "segment_index": 277, "start": 1008.78, "end": 1013.78, "text": "Det er helt riktig, men det at Søra-Urp. land blir straffet av markene,"}
+{"episode_id": 309, "segment_index": 278, "start": 1013.78, "end": 1016.78, "text": "når de før uansvarlig politikk, det er jo ikke et nytt fenomen."}
+{"episode_id": 309, "segment_index": 279, "start": 1016.78, "end": 1020.78, "text": "Så det er på en måte en virkelighet de alleren er veldig kjent med."}
+{"episode_id": 309, "segment_index": 280, "start": 1020.78, "end": 1024.78, "text": "Men jeg mener bare at det, forskjellen på markedsreaksjonen på det Storbritannien gjør,"}
+{"episode_id": 309, "segment_index": 281, "start": 1024.78, "end": 1028.78, "text": "og det tysklandet gjør, viser at det var en grad av uansvarlighet"}
+{"episode_id": 309, "segment_index": 282, "start": 1028.78, "end": 1032.78, "text": "i det Storbritannien gjøre, som gjør at de ble ekstra hårdt straffet,"}
+{"episode_id": 309, "segment_index": 283, "start": 1032.78, "end": 1035.78, "text": "som man ikke kan på en måte ekstra polere og si at andre land"}
+{"episode_id": 309, "segment_index": 284, "start": 1035.78, "end": 1037.78, "text": "også ville oppleve i like stor grad."}
+{"episode_id": 309, "segment_index": 285, "start": 1037.78, "end": 1041.78, "text": "Så var det nestopp dette med pensjonskasser, som også forstærket rentebevegelsene."}
+{"episode_id": 309, "segment_index": 286, "start": 1041.78, "end": 1046.78, "text": "Hver fall i giltmarkedet, så bidrer vi det til en helt sykvoratilitet,"}
+{"episode_id": 309, "segment_index": 287, "start": 1046.78, "end": 1050.78, "text": "som man ikke kan bare si at dette kommer til å skje i euromarkedet også."}
+{"episode_id": 309, "segment_index": 288, "start": 1050.78, "end": 1055.78, "text": "Det blir også litt søkt. Men samtidig, du fikk en ganske markant reprising av"}
+{"episode_id": 309, "segment_index": 289, "start": 1055.78, "end": 1060.78, "text": "renteforventningen i Storbritannien, med syne på styringsrentet i Bank og England,"}
+{"episode_id": 309, "segment_index": 290, "start": 1060.78, "end": 1065.78, "text": "som løftes her fra 4,5 til nærmere 6%, bare baserer på denne skattepakken."}
+{"episode_id": 309, "segment_index": 291, "start": 1065.78, "end": 1069.78, "text": "Og Bank og England satt jo også når dere er det, så må vi bare sette repraterne enda mer."}
+{"episode_id": 309, "segment_index": 292, "start": 1069.78, "end": 1073.78, "text": "Så det er litt dimensjon der også vi står her."}
+{"episode_id": 309, "segment_index": 293, "start": 1073.78, "end": 1079.78, "text": "Ja, men så, vi har jo på en måte skrevet i titlen på dette webinare,"}
+{"episode_id": 309, "segment_index": 294, "start": 1079.78, "end": 1082.78, "text": "Hva Sittorbritannene, Hva Betyrer for oss?"}
+{"episode_id": 309, "segment_index": 295, "start": 1082.78, "end": 1087.78, "text": "Og det vi snakker om her, at det er bra at markedet disiplinerer og kan ha"}
+{"episode_id": 309, "segment_index": 296, "start": 1087.78, "end": 1089.78, "text": "den disiplinerende effekt på politikerne."}
+{"episode_id": 309, "segment_index": 297, "start": 1089.78, "end": 1093.78, "text": "Det er jo en typisk økonomik som vi ikke har her i Norge,"}
+{"episode_id": 309, "segment_index": 298, "start": 1093.78, "end": 1096.78, "text": "fordi vi trenger jo ikke markedet vi ikke avhenger,"}
+{"episode_id": 309, "segment_index": 299, "start": 1096.78, "end": 1098.78, "text": "invester med velvilje, hvis vi har lyst til å bruke mer penger,"}
+{"episode_id": 309, "segment_index": 300, "start": 1098.78, "end": 1101.78, "text": "for vi tar det bare fra alle fannene vårt."}
+{"episode_id": 309, "segment_index": 301, "start": 1101.78, "end": 1105.78, "text": "Men det erfaringen fra Storbritannien viser er jo nettopp,"}
+{"episode_id": 309, "segment_index": 302, "start": 1105.78, "end": 1109.78, "text": "at det er ikke greit å føre en uansvarlig politikk,"}
+{"episode_id": 309, "segment_index": 303, "start": 1109.78, "end": 1112.78, "text": "hvertfall ikke nå, når vi er i et høy-inflasjonsregime."}
+{"episode_id": 309, "segment_index": 304, "start": 1112.78, "end": 1117.78, "text": "Og det viser jo egentlig, at vikdigheten er at politikerne holder seg i kjenne,"}
+{"episode_id": 309, "segment_index": 305, "start": 1117.78, "end": 1122.78, "text": "og vikdigheten av handlingsteglen som vi har, som begrenser den offentlige pengebruken."}
+{"episode_id": 309, "segment_index": 306, "start": 1122.78, "end": 1124.78, "text": "Ja, nøkternet."}
+{"episode_id": 309, "segment_index": 307, "start": 1124.78, "end": 1126.91, "text": "Ja, absolutt."}
+{"episode_id": 309, "segment_index": 308, "start": 1126.91, "end": 1128.91, "text": "Så det er implikasjonen om dere."}
+{"episode_id": 309, "segment_index": 309, "start": 1128.91, "end": 1133.94, "text": "De som ikke opererer med nøkternet som nå kan potensielt bli straffet"}
+{"episode_id": 309, "segment_index": 310, "start": 1133.94, "end": 1137.94, "text": "gjennom markedesternamikken på en helt annen måte egentlig,"}
+{"episode_id": 309, "segment_index": 311, "start": 1137.94, "end": 1139.94, "text": "det vi har sett det siste ti året,"}
+{"episode_id": 309, "segment_index": 312, "start": 1139.94, "end": 1142.94, "text": "fordi da var problemet egentlig for lavinfrasjon."}
+{"episode_id": 309, "segment_index": 313, "start": 1142.94, "end": 1145.94, "text": "Man ønsket mer stimuler i dag, ikke mindre,"}
+{"episode_id": 309, "segment_index": 314, "start": 1145.94, "end": 1147.94, "text": "men nå er problemet for høy-inflasjon,"}
+{"episode_id": 309, "segment_index": 315, "start": 1147.94, "end": 1149.94, "text": "og for høy-hjertesprosjonsregi er relativt i tilbudet."}
+{"episode_id": 309, "segment_index": 316, "start": 1149.94, "end": 1153.94, "text": "Så å bruke finanspolitisk stimulis som et sånt stort argument"}
+{"episode_id": 309, "segment_index": 317, "start": 1153.94, "end": 1156.94, "text": "for at nå skal ikke ting gå så ille likevel,"}
+{"episode_id": 309, "segment_index": 318, "start": 1156.94, "end": 1158.94, "text": "det er kanskje ikke realistisk."}
+{"episode_id": 309, "segment_index": 319, "start": 1158.94, "end": 1161.94, "text": "Men jeg tror fortsatt på at et tyskland kan bruke vekken."}
+{"episode_id": 309, "segment_index": 320, "start": 1161.94, "end": 1163.94, "text": "Tyskland kan sikkert gjøre akkurat hva de vil,"}
+{"episode_id": 309, "segment_index": 321, "start": 1163.94, "end": 1166.94, "text": "men så får vi se med resten av Europa."}
+{"episode_id": 309, "segment_index": 322, "start": 1166.94, "end": 1170.94, "text": "Men implikasjon nummer to er også det som..."}
+{"episode_id": 309, "segment_index": 323, "start": 1170.94, "end": 1175.17, "text": "Haramann har hatt i en 10-år spesielt,"}
+{"episode_id": 309, "segment_index": 324, "start": 1175.17, "end": 1179.17, "text": "altså siden finanskrisen, begynner å bli 15 år siden,"}
+{"episode_id": 309, "segment_index": 325, "start": 1179.17, "end": 1183.17, "text": "med lavere ender som har gjort at aktører"}
+{"episode_id": 309, "segment_index": 326, "start": 1183.17, "end": 1186.17, "text": "har tatt risiko på kanskje en uansvarlig måte."}
+{"episode_id": 309, "segment_index": 327, "start": 1186.17, "end": 1189.17, "text": "Bedrifter som har økt gjelden sin,"}
+{"episode_id": 309, "segment_index": 328, "start": 1189.17, "end": 1192.17, "text": "basert på en forventning av syne eller håp,"}
+{"episode_id": 309, "segment_index": 329, "start": 1192.17, "end": 1195.17, "text": "om at rentene aldri skal komme seg opp fra null,"}
+{"episode_id": 309, "segment_index": 330, "start": 1195.17, "end": 1197.17, "text": "spesielt inn for noen eiendopsselskaper"}
+{"episode_id": 309, "segment_index": 331, "start": 1197.17, "end": 1199.17, "text": "som jeg har snakket om før."}
+{"episode_id": 309, "segment_index": 332, "start": 1199.17, "end": 1202.17, "text": "Eller hvis du er i fondsbransjen om det er pansjonsfond"}
+{"episode_id": 309, "segment_index": 333, "start": 1202.17, "end": 1204.17, "text": "eller andre typer ting,"}
+{"episode_id": 309, "segment_index": 334, "start": 1204.17, "end": 1206.17, "text": "at man har tatt mer risiko på balansen,"}
+{"episode_id": 309, "segment_index": 335, "start": 1206.17, "end": 1209.17, "text": "og gir det opp mer enn det man har gjort tidligere,"}
+{"episode_id": 309, "segment_index": 336, "start": 1209.17, "end": 1212.17, "text": "fordi du har rigget hele strukturene din"}
+{"episode_id": 309, "segment_index": 337, "start": 1212.17, "end": 1215.17, "text": "for at rentevolatiliteten skal være lav,"}
+{"episode_id": 309, "segment_index": 338, "start": 1215.17, "end": 1217.17, "text": "og rentene skal være lav."}
+{"episode_id": 309, "segment_index": 339, "start": 1217.17, "end": 1221.17, "text": "Og så ser man jo med en gang noe som det premisse ikke holder,"}
+{"episode_id": 309, "segment_index": 340, "start": 1221.17, "end": 1224.17, "text": "at første, rentevolateriteten er jo ikke lav lenger,"}
+{"episode_id": 309, "segment_index": 341, "start": 1224.17, "end": 1226.17, "text": "fordi centralbankene er ikke der,"}
+{"episode_id": 309, "segment_index": 342, "start": 1226.17, "end": 1228.17, "text": "og garanterer lav rentevolateritet."}
+{"episode_id": 309, "segment_index": 343, "start": 1228.17, "end": 1232.17, "text": "Og samtidig så ser vi at utsikkerheten om hvor rentene skal,"}
+{"episode_id": 309, "segment_index": 344, "start": 1232.17, "end": 1237.17, "text": "er en helt annen enn det man tenkte for sex, tolv og tjufyrer måneder siden."}
+{"episode_id": 309, "segment_index": 345, "start": 1237.17, "end": 1242.17, "text": "Og markedsutslagene som følger den risikoen man da har tatt,"}
+{"episode_id": 309, "segment_index": 346, "start": 1242.17, "end": 1245.17, "text": "og premisse for det ikke lenger funker,"}
+{"episode_id": 309, "segment_index": 347, "start": 1245.17, "end": 1247.17, "text": "de kan bli ganske store."}
+{"episode_id": 309, "segment_index": 348, "start": 1247.17, "end": 1249.17, "text": "Som vi nå erfar til med Storbritannia,"}
+{"episode_id": 309, "segment_index": 349, "start": 1249.17, "end": 1251.17, "text": "med rentebevegelsene,"}
+{"episode_id": 309, "segment_index": 350, "start": 1251.17, "end": 1255.17, "text": "og implikasjonene det hadde for det britiske pensjonssystemet."}
+{"episode_id": 309, "segment_index": 351, "start": 1255.17, "end": 1259.17, "text": "Og måten jeg tenker på dette er at når du får den typik kaos i rentemarkedene,"}
+{"episode_id": 309, "segment_index": 352, "start": 1259.17, "end": 1262.17, "text": "så gir det en ekstremt stor sansyne,"}
+{"episode_id": 309, "segment_index": 353, "start": 1262.17, "end": 1265.17, "text": "for at du får kaos i et annet sted i finansmarkedene."}
+{"episode_id": 309, "segment_index": 354, "start": 1265.17, "end": 1268.17, "text": "Og jeg personer trodde at du ville være hedgefond,"}
+{"episode_id": 309, "segment_index": 355, "start": 1268.17, "end": 1270.17, "text": "som ville ha noe problem her,"}
+{"episode_id": 309, "segment_index": 356, "start": 1270.17, "end": 1274.17, "text": "og at noen ville gå under som følgade den rentevolateriteten."}
+{"episode_id": 309, "segment_index": 357, "start": 1274.17, "end": 1277.17, "text": "Det skjedde ikke, men det kom i pensjonssystemet i stedet."}
+{"episode_id": 309, "segment_index": 358, "start": 1277.17, "end": 1280.17, "text": "For jeg tenker på ekstreme bevegelser,"}
+{"episode_id": 309, "segment_index": 359, "start": 1280.17, "end": 1282.17, "text": "gir ekstreme utsag."}
+{"episode_id": 309, "segment_index": 360, "start": 1282.17, "end": 1284.55, "text": "Så det er implikasjon nummer to,"}
+{"episode_id": 309, "segment_index": 361, "start": 1284.55, "end": 1288.55, "text": "at når du nå er i ferd med å etablere deg,"}
+{"episode_id": 309, "segment_index": 362, "start": 1288.55, "end": 1290.55, "text": "over i et nytt renteregime,"}
+{"episode_id": 309, "segment_index": 363, "start": 1290.55, "end": 1294.62, "text": "så kommer det til å avdekke en del groms på sjøben."}
+{"episode_id": 309, "segment_index": 364, "start": 1294.62, "end": 1299.62, "text": "Og jeg bruker bilder om at nå er vi på en måte i et scenario,"}
+{"episode_id": 309, "segment_index": 365, "start": 1299.62, "end": 1301.62, "text": "der tiderbannet trekker seg tilbake,"}
+{"episode_id": 309, "segment_index": 366, "start": 1301.62, "end": 1307.62, "text": "og vi endelig får se hvor mye søppel som har samlet seg på haben."}
+{"episode_id": 309, "segment_index": 367, "start": 1307.62, "end": 1311.62, "text": "Det er inne på hedgefondet at du trodde at det var der det kanskje skulle smelle."}
+{"episode_id": 309, "segment_index": 368, "start": 1311.62, "end": 1313.62, "text": "Det leste jeg en kommentar i Financial Times,"}
+{"episode_id": 309, "segment_index": 369, "start": 1313.62, "end": 1316.62, "text": "som påopøkte at det er litt typisk,"}
+{"episode_id": 309, "segment_index": 370, "start": 1316.62, "end": 1320.62, "text": "for i store krisen, når det virkelig skjer nå i markedene,"}
+{"episode_id": 309, "segment_index": 371, "start": 1320.62, "end": 1323.62, "text": "så skjer det jo i triple A-segmentet."}
+{"episode_id": 309, "segment_index": 372, "start": 1323.62, "end": 1326.62, "text": "Det du trodde var bensikkert,"}
+{"episode_id": 309, "segment_index": 373, "start": 1326.62, "end": 1329.62, "text": "fordi alle vet at hedgefond driver med mye rart,"}
+{"episode_id": 309, "segment_index": 374, "start": 1329.62, "end": 1332.62, "text": "og de er riske av naturlære det skal være."}
+{"episode_id": 309, "segment_index": 375, "start": 1332.62, "end": 1336.62, "text": "Men det er det som man trodde skulle være bensikkert,"}
+{"episode_id": 309, "segment_index": 376, "start": 1336.62, "end": 1340.62, "text": "pensjonsfond, Boligelånsobligasjoner i USA i 2007."}
+{"episode_id": 309, "segment_index": 377, "start": 1340.62, "end": 1345.62, "text": "Når det smeller der, er det tegn på at vi virkelig har en møte."}
+{"episode_id": 309, "segment_index": 378, "start": 1345.62, "end": 1349.62, "text": "Det er det som vi virkelig har en mer ikke systemisk kris, men kanskje."}
+{"episode_id": 309, "segment_index": 379, "start": 1349.62, "end": 1353.62, "text": "Det er svarte svarne som man heltidens snakker om vilkommen,"}
+{"episode_id": 309, "segment_index": 380, "start": 1353.62, "end": 1355.62, "text": "men aldri vet hvor."}
+{"episode_id": 309, "segment_index": 381, "start": 1355.62, "end": 1358.62, "text": "Det er aldri hajulmarkedet som kødder til for verdensøkonomien,"}
+{"episode_id": 309, "segment_index": 382, "start": 1358.62, "end": 1362.62, "text": "for hajulmarkedet er rigget for at ting går dårlig."}
+{"episode_id": 309, "segment_index": 383, "start": 1362.62, "end": 1365.62, "text": "Derfor har vi hajulmarkedet at ting tidigst går dårlig."}
+{"episode_id": 309, "segment_index": 384, "start": 1365.62, "end": 1370.62, "text": "Alle som er der vet hvordan risikoet ser ut,"}
+{"episode_id": 309, "segment_index": 385, "start": 1370.62, "end": 1372.62, "text": "og hvordan man skal behandle det."}
+{"episode_id": 309, "segment_index": 386, "start": 1372.62, "end": 1377.62, "text": "Men i tripulat er det ingen som tenker på at ting går dårlig."}
+{"episode_id": 309, "segment_index": 387, "start": 1377.62, "end": 1379.62, "text": "Man er ikke rigget for det."}
+{"episode_id": 309, "segment_index": 388, "start": 1379.62, "end": 1384.62, "text": "En ting som denne krisen i Storbritannia viser,"}
+{"episode_id": 309, "segment_index": 389, "start": 1384.62, "end": 1390.62, "text": "en implikasjon er at etter finanskrisen var det mye fokus på bankene."}
+{"episode_id": 309, "segment_index": 390, "start": 1390.62, "end": 1393.62, "text": "Bankene har tatt for mye risiko med å oppkapitaliseres."}
+{"episode_id": 309, "segment_index": 391, "start": 1393.62, "end": 1399.62, "text": "Så har fondsindustrien tatt over litt rollen til bankene i hvert fall."}
+{"episode_id": 309, "segment_index": 392, "start": 1399.62, "end": 1401.62, "text": "De er aktiv i markene,"}
+{"episode_id": 309, "segment_index": 393, "start": 1401.62, "end": 1404.62, "text": "men de møter ikke samme krav til oppkapitalisering."}
+{"episode_id": 309, "segment_index": 394, "start": 1404.62, "end": 1406.62, "text": "Det har vært en virkelig politikk."}
+{"episode_id": 309, "segment_index": 395, "start": 1406.62, "end": 1411.62, "text": "Man skal flytte bankene ut av bankene i fondsindustrien."}
+{"episode_id": 309, "segment_index": 396, "start": 1411.62, "end": 1413.62, "text": "De er ikke reglert."}
+{"episode_id": 309, "segment_index": 397, "start": 1413.62, "end": 1415.62, "text": "De er ikke reglert."}
+{"episode_id": 309, "segment_index": 398, "start": 1415.62, "end": 1417.62, "text": "De har ikke noe krav om egenkapital,"}
+{"episode_id": 309, "segment_index": 399, "start": 1417.62, "end": 1420.62, "text": "som bankene har vært litt i rammet."}
+{"episode_id": 309, "segment_index": 400, "start": 1420.62, "end": 1424.62, "text": "Det er jo i dag, kan vi lese på Franskets centralbanket-trøffen,"}
+{"episode_id": 309, "segment_index": 401, "start": 1424.62, "end": 1427.62, "text": "som sier at det som har skjedd i Storbritannia,"}
+{"episode_id": 309, "segment_index": 402, "start": 1427.62, "end": 1431.62, "text": "får alle oss at fond må bygge opp mer likvidere,"}
+{"episode_id": 309, "segment_index": 403, "start": 1431.62, "end": 1433.62, "text": "må bygge opp mer kapital."}
+{"episode_id": 309, "segment_index": 404, "start": 1433.62, "end": 1435.62, "text": "Det er resultatet av det som skjer der."}
+{"episode_id": 309, "segment_index": 405, "start": 1435.62, "end": 1437.62, "text": "Så det har jo stor implikasjoner."}
+{"episode_id": 309, "segment_index": 406, "start": 1437.62, "end": 1442.62, "text": "Det er noe som både Fed og SB har snakket om en lenger periode,"}
+{"episode_id": 309, "segment_index": 407, "start": 1442.62, "end": 1445.62, "text": "at likviditetsrisikoene i fondsindustrien,"}
+{"episode_id": 309, "segment_index": 408, "start": 1445.62, "end": 1447.62, "text": "og spesielt på obligasjonsfond,"}
+{"episode_id": 309, "segment_index": 409, "start": 1447.62, "end": 1449.62, "text": "hvor du har eindeller og obligasjoner,"}
+{"episode_id": 309, "segment_index": 410, "start": 1449.62, "end": 1452.62, "text": "som tidigvis det kan ta flere uker å omsette det,"}
+{"episode_id": 309, "segment_index": 411, "start": 1452.62, "end": 1456.62, "text": "så du har investorer som kan ta pengar ut på dagen,"}
+{"episode_id": 309, "segment_index": 412, "start": 1456.62, "end": 1460.62, "text": "og du sitter med eindeller som kan ta veldig lang tid å kvitte deg med,"}
+{"episode_id": 309, "segment_index": 413, "start": 1460.62, "end": 1461.62, "text": "og den løper tidligere seg om."}
+{"episode_id": 309, "segment_index": 414, "start": 1461.62, "end": 1464.62, "text": "Og da må du stelle det sikreste av der typisk databliokasjoner,"}
+{"episode_id": 309, "segment_index": 415, "start": 1464.62, "end": 1465.62, "text": "da får man sånn det."}
+{"episode_id": 309, "segment_index": 416, "start": 1465.62, "end": 1466.62, "text": "Det er ikke så mye som er ent med det, ikke sant?"}
+{"episode_id": 309, "segment_index": 417, "start": 1466.62, "end": 1471.62, "text": "Nei, da får man sånn dødspiraller som vi har sett mange av de siste årene."}
+{"episode_id": 309, "segment_index": 418, "start": 1471.62, "end": 1475.62, "text": "Men så mer markedsvolatilitet,"}
+{"episode_id": 309, "segment_index": 419, "start": 1475.62, "end": 1479.62, "text": "men det er jo som følger høyere ender og disse sårbarhetene."}
+{"episode_id": 309, "segment_index": 420, "start": 1479.62, "end": 1485.62, "text": "Det er en ting, men vi må snakke litt om centralbankens rolle også."}
+{"episode_id": 309, "segment_index": 421, "start": 1485.62, "end": 1487.62, "text": "Ja, for det er implikasjonen om et re-potensielt her."}
+{"episode_id": 309, "segment_index": 422, "start": 1487.62, "end": 1488.62, "text": "Ja."}
+{"episode_id": 309, "segment_index": 423, "start": 1488.62, "end": 1491.62, "text": "Hvilken rolle kan centralbankene stille?"}
+{"episode_id": 309, "segment_index": 424, "start": 1491.62, "end": 1495.62, "text": "Fordi vi har jo veldig lenge snakket om denne Fed-putten,"}
+{"episode_id": 309, "segment_index": 425, "start": 1495.62, "end": 1496.62, "text": "eller centralbank-putten,"}
+{"episode_id": 309, "segment_index": 426, "start": 1496.62, "end": 1501.62, "text": "det at ved det minste tegn til svakhet enten er i A.dk. eller i markedet,"}
+{"episode_id": 309, "segment_index": 427, "start": 1501.62, "end": 1505.62, "text": "så har centralbankene vært der kommet."}
+{"episode_id": 309, "segment_index": 428, "start": 1505.62, "end": 1509.62, "text": "Det beste eksempel på det er jo det som skjedde i USA på sluttet av 2018."}
+{"episode_id": 309, "segment_index": 429, "start": 1509.62, "end": 1513.62, "text": "Fed var på veit eller hever enten, eller hadde hevet og renten en del."}
+{"episode_id": 309, "segment_index": 430, "start": 1513.62, "end": 1515.62, "text": "Ja, tok inlikviditet."}
+{"episode_id": 309, "segment_index": 431, "start": 1515.62, "end": 1519.62, "text": "Markedene gikk sånn 12. greit, helt til det ikke gjorde det."}
+{"episode_id": 309, "segment_index": 432, "start": 1519.62, "end": 1521.62, "text": "Børsen fald 15 prosent i løpet av december."}
+{"episode_id": 309, "segment_index": 433, "start": 1521.62, "end": 1524.62, "text": "Det er ikke et spesielt kraftig valg i løpet av den nante."}
+{"episode_id": 309, "segment_index": 434, "start": 1524.62, "end": 1527.62, "text": "Men det var nok til å få Fed til å snu på hele nå,"}
+{"episode_id": 309, "segment_index": 435, "start": 1527.62, "end": 1529.62, "text": "og si slopp og slopp, vi skal kutte renten igjen."}
+{"episode_id": 309, "segment_index": 436, "start": 1529.62, "end": 1533.62, "text": "Vi viser hvor følelsen centralbankene tidligere har vært,"}
+{"episode_id": 309, "segment_index": 437, "start": 1533.62, "end": 1535.62, "text": "for børsjero og for svakhet ekonomin,"}
+{"episode_id": 309, "segment_index": 438, "start": 1535.62, "end": 1539.62, "text": "at de er virkelig bare stiller opp."}
+{"episode_id": 309, "segment_index": 439, "start": 1539.62, "end": 1541.62, "text": "Og det har gitt denne mentaliteten om at ok,"}
+{"episode_id": 309, "segment_index": 440, "start": 1541.62, "end": 1544.62, "text": "det kan være litt dårlig stemning i markedene."}
+{"episode_id": 309, "segment_index": 441, "start": 1544.62, "end": 1545.62, "text": "Men det vil aldri være lenge."}
+{"episode_id": 309, "segment_index": 442, "start": 1545.62, "end": 1546.62, "text": "Biderdip."}
+{"episode_id": 309, "segment_index": 443, "start": 1546.62, "end": 1547.62, "text": "Ja, biderdip."}
+{"episode_id": 309, "segment_index": 444, "start": 1547.62, "end": 1548.62, "text": "Følg når det faller."}
+{"episode_id": 309, "segment_index": 445, "start": 1548.62, "end": 1551.62, "text": "Fedputten, denne centralbankforsikringen,"}
+{"episode_id": 309, "segment_index": 446, "start": 1551.62, "end": 1554.62, "text": "som har vært til stedet egentlig helt siden 2008,"}
+{"episode_id": 309, "segment_index": 447, "start": 1554.62, "end": 1555.62, "text": "eller siden finanskrisen,"}
+{"episode_id": 309, "segment_index": 448, "start": 1555.62, "end": 1558.62, "text": "har jo lagt grunnlaget for biderdip-mentaliteten."}
+{"episode_id": 309, "segment_index": 449, "start": 1558.62, "end": 1559.62, "text": "Og denne er det jo fortsatt."}
+{"episode_id": 309, "segment_index": 450, "start": 1559.62, "end": 1563.62, "text": "Når du har sett spesielt ta juni og juli,"}
+{"episode_id": 309, "segment_index": 451, "start": 1563.62, "end": 1565.62, "text": "det var kjempe dårlig stemning i juni,"}
+{"episode_id": 309, "segment_index": 452, "start": 1565.62, "end": 1568.62, "text": "og så i juli ser man at forventningen"}
+{"episode_id": 309, "segment_index": 453, "start": 1568.62, "end": 1570.62, "text": "det var Fed skal gjøre frem og videre,"}
+{"episode_id": 309, "segment_index": 454, "start": 1570.62, "end": 1573.62, "text": "kommer til å øke sandsvinnet for at det blir en resursjon."}
+{"episode_id": 309, "segment_index": 455, "start": 1573.62, "end": 1575.62, "text": "Og da må vi Fed kutte igjen."}
+{"episode_id": 309, "segment_index": 456, "start": 1575.62, "end": 1576.62, "text": "Så markedene begynte,"}
+{"episode_id": 309, "segment_index": 457, "start": 1576.62, "end": 1578.62, "text": "aktiemarkedene begynte alle redde i juli,"}
+{"episode_id": 309, "segment_index": 458, "start": 1578.62, "end": 1581.62, "text": "og posisjonere seg for at dere Fed skulle kutte rentene,"}
+{"episode_id": 309, "segment_index": 459, "start": 1581.62, "end": 1584.62, "text": "selv om inflasjonen var på 9%."}
+{"episode_id": 309, "segment_index": 460, "start": 1584.62, "end": 1587.62, "text": "Ja, så det er håpet om at centralbankene fortsatt er der,"}
+{"episode_id": 309, "segment_index": 461, "start": 1587.62, "end": 1588.62, "text": "den henger i."}
+{"episode_id": 309, "segment_index": 462, "start": 1588.62, "end": 1593.62, "text": "Men det er på en måte to litt forskjellige diskusjoner."}
+{"episode_id": 309, "segment_index": 463, "start": 1593.62, "end": 1596.62, "text": "Det ene er jo hvor hvitt centralbankene skal kutte"}
+{"episode_id": 309, "segment_index": 464, "start": 1596.62, "end": 1599.62, "text": "når inflasjonen eller når resursjonen blir et faktum."}
+{"episode_id": 309, "segment_index": 465, "start": 1599.62, "end": 1601.62, "text": "Det kan vi snakke litt om etterpå."}
+{"episode_id": 309, "segment_index": 466, "start": 1601.62, "end": 1604.62, "text": "Men det andre er denne er centralbanken helt borte nå."}
+{"episode_id": 309, "segment_index": 467, "start": 1604.62, "end": 1609.62, "text": "Og jeg mener jo at eksempel i Storbritannien viser at den er ikke helt borte,"}
+{"episode_id": 309, "segment_index": 468, "start": 1609.62, "end": 1613.62, "text": "fordi de stepper inn når de må intervenere i markedene,"}
+{"episode_id": 309, "segment_index": 469, "start": 1613.62, "end": 1616.62, "text": "fordi markedene, essentielle markedere,"}
+{"episode_id": 309, "segment_index": 470, "start": 1616.62, "end": 1618.62, "text": "stats- og blikasjonsmarkedene, blir dysfunksjonel,"}
+{"episode_id": 309, "segment_index": 471, "start": 1618.62, "end": 1620.62, "text": "slutt å fungere, da kommer de."}
+{"episode_id": 309, "segment_index": 472, "start": 1620.62, "end": 1624.62, "text": "Og det er jo det at centralbankene på en måte blir tvungi"}
+{"episode_id": 309, "segment_index": 473, "start": 1624.62, "end": 1631.62, "text": "til å ta denne rollen som Bayer Last Research er noe som er et resultat av"}
+{"episode_id": 309, "segment_index": 474, "start": 1631.62, "end": 1635.62, "text": "regulering etter finanskrisen, og at banker og finansinstitutioner"}
+{"episode_id": 309, "segment_index": 475, "start": 1635.62, "end": 1639.62, "text": "har fått tøyre krav til kapitalboldning og likviditetsboldning."}
+{"episode_id": 309, "segment_index": 476, "start": 1639.62, "end": 1642.62, "text": "Sånn at det er dyrt for banken å ta denne rollen."}
+{"episode_id": 309, "segment_index": 477, "start": 1642.62, "end": 1647.62, "text": "Før så kunne banker i mysere grad oppdre som stabilisatorer i markedene."}
+{"episode_id": 309, "segment_index": 478, "start": 1647.62, "end": 1648.62, "text": "Det kan de ikke nå lenger."}
+{"episode_id": 309, "segment_index": 479, "start": 1648.62, "end": 1651.62, "text": "Da får vi sånn en typ av dødspyraller."}
+{"episode_id": 309, "segment_index": 480, "start": 1651.62, "end": 1653.62, "text": "Og da må centralbankene steppe inn."}
+{"episode_id": 309, "segment_index": 481, "start": 1653.62, "end": 1657.62, "text": "Det der en roll som centralbankene nå er så bevisst i veldig stor grad."}
+{"episode_id": 309, "segment_index": 482, "start": 1657.62, "end": 1661.62, "text": "De vet at hvis ikke vi gjør det så rakner det fullstendig."}
+{"episode_id": 309, "segment_index": 483, "start": 1661.62, "end": 1666.9, "text": "Men så ser vi også fra Bank og England at de ikke..."}
+{"episode_id": 309, "segment_index": 484, "start": 1666.9, "end": 1671.9, "text": "Det å komme med tiltak nå og versjus for tre år siden,"}
+{"episode_id": 309, "segment_index": 485, "start": 1671.9, "end": 1673.9, "text": "når man var bekymret for deflasjon."}
+{"episode_id": 309, "segment_index": 486, "start": 1673.9, "end": 1675.9, "text": "Tiltakene tar en helt annen form."}
+{"episode_id": 309, "segment_index": 487, "start": 1675.9, "end": 1677.9, "text": "Det er ikke QF Forever."}
+{"episode_id": 309, "segment_index": 488, "start": 1677.9, "end": 1679.9, "text": "Det er ikke Whatever It Takes."}
+{"episode_id": 309, "segment_index": 489, "start": 1679.9, "end": 1684.9, "text": "Men det er 13 dager og så må du stå på egne følter."}
+{"episode_id": 309, "segment_index": 490, "start": 1684.9, "end": 1688.9, "text": "Og til og med er Bank og England i seg selv en slik slags klausul"}
+{"episode_id": 309, "segment_index": 491, "start": 1688.9, "end": 1691.9, "text": "der det står vi kjøper ikke til hvilket smelspris."}
+{"episode_id": 309, "segment_index": 492, "start": 1691.9, "end": 1693.9, "text": "Det er grænser for hvor mye vi kan gine og betale."}
+{"episode_id": 309, "segment_index": 493, "start": 1693.9, "end": 1695.9, "text": "Det er veldig tydelig."}
+{"episode_id": 309, "segment_index": 494, "start": 1695.9, "end": 1698.9, "text": "Det er langt fra unlimited QF Whatever It Takes."}
+{"episode_id": 309, "segment_index": 495, "start": 1698.9, "end": 1703.9, "text": "Det er en usikkerhet om vi kan ekstra polere fra det Bank og England har gjort."}
+{"episode_id": 309, "segment_index": 496, "start": 1703.9, "end": 1706.9, "text": "Til Fed, DSB og så videre."}
+{"episode_id": 309, "segment_index": 497, "start": 1706.9, "end": 1709.9, "text": "Men jeg synes ikke veldig sin noe om mentaliteten"}
+{"episode_id": 309, "segment_index": 498, "start": 1709.9, "end": 1713.9, "text": "og den konflikten som man potensielt kan ha i centralbankene"}
+{"episode_id": 309, "segment_index": 499, "start": 1713.9, "end": 1715.9, "text": "når de skal kjempe mot tainfrasjon"}
+{"episode_id": 309, "segment_index": 500, "start": 1715.9, "end": 1720.9, "text": "og potensielt også driv med redningsaksjoner i marken samtidig."}
+{"episode_id": 309, "segment_index": 501, "start": 1720.9, "end": 1724.9, "text": "Det er ikke enkelt som det man hadde i 2016,"}
+{"episode_id": 309, "segment_index": 502, "start": 1724.9, "end": 1726.9, "text": "for eksempel når DSB kom med sin store basoka,"}
+{"episode_id": 309, "segment_index": 503, "start": 1726.9, "end": 1728.97, "text": "som vi kaltte det da."}
+{"episode_id": 309, "segment_index": 504, "start": 1728.97, "end": 1730.97, "text": "Og det er jo..."}
+{"episode_id": 309, "segment_index": 505, "start": 1730.97, "end": 1734.97, "text": "Jeg synes det er litt naift hvis man skal kjøpe risikoaktiva."}
+{"episode_id": 309, "segment_index": 506, "start": 1734.97, "end": 1738.97, "text": "I dag baserer på at her skal for eksempel Fed eller DSB"}
+{"episode_id": 309, "segment_index": 507, "start": 1738.97, "end": 1743.97, "text": "trå til på en måte som man typisk har sett igjen de siste 15 år."}
+{"episode_id": 309, "segment_index": 508, "start": 1743.97, "end": 1748.97, "text": "Simplikasjonen av dette er at Fed- og centralbankputten, den er der,"}
+{"episode_id": 309, "segment_index": 509, "start": 1748.97, "end": 1750.97, "text": "men den sitter veldig langt inne."}
+{"episode_id": 309, "segment_index": 510, "start": 1750.97, "end": 1753.97, "text": "Det er jo mer markedsvolatilitet."}
+{"episode_id": 309, "segment_index": 511, "start": 1753.97, "end": 1757.97, "text": "At Biden ikke er en like, alltid den like gode strategi lenger."}
+{"episode_id": 309, "segment_index": 512, "start": 1757.97, "end": 1759.97, "text": "Nei, kanskje ikke."}
+{"episode_id": 309, "segment_index": 513, "start": 1759.97, "end": 1764.97, "text": "Potensielt at dårlig nyheter kan ha en negativ inni"}
+{"episode_id": 309, "segment_index": 514, "start": 1764.97, "end": 1769.97, "text": "i riktning på prising og risikoaktiva, så det tyder det sikkert hatt."}
+{"episode_id": 309, "segment_index": 515, "start": 1769.97, "end": 1773.97, "text": "Men hvis vi skal gjøre oss litt ferdig med Storbritannia"}
+{"episode_id": 309, "segment_index": 516, "start": 1773.97, "end": 1777.97, "text": "og se mer på markedsutvikling, renteutsikterne fremover,"}
+{"episode_id": 309, "segment_index": 517, "start": 1777.97, "end": 1780.97, "text": "så snakker det veldig mye om politikere og pengepolitik,"}
+{"episode_id": 309, "segment_index": 518, "start": 1780.97, "end": 1783.97, "text": "men det er jo... Hva skjer med veksten og inflasjonen?"}
+{"episode_id": 309, "segment_index": 519, "start": 1783.97, "end": 1785.97, "text": "Det leder vi egentlig til det."}
+{"episode_id": 309, "segment_index": 520, "start": 1785.97, "end": 1788.97, "text": "Hvis vi ikke kan stole så mye på disse centralbankene,"}
+{"episode_id": 309, "segment_index": 521, "start": 1788.97, "end": 1790.97, "text": "hva betyr det til å begynne med?"}
+{"episode_id": 309, "segment_index": 522, "start": 1790.97, "end": 1796.97, "text": "Bare for å begynne med en grafer, som viser da BNP-veksten globalt basert på IMF-tal."}
+{"episode_id": 309, "segment_index": 523, "start": 1796.97, "end": 1798.97, "text": "Så historien fram til og med 2021,"}
+{"episode_id": 309, "segment_index": 524, "start": 1798.97, "end": 1803.97, "text": "og IMF sine anslag for de neste... Ja, fram til 2026."}
+{"episode_id": 309, "segment_index": 525, "start": 1803.97, "end": 1807.97, "text": "Og du ser jo at her har du liksom spesielt periode rundt 20- og 20-21,"}
+{"episode_id": 309, "segment_index": 526, "start": 1807.97, "end": 1812.97, "text": "og så venter vi i IMF at du skal ha en real vekst for global økonomi"}
+{"episode_id": 309, "segment_index": 527, "start": 1812.97, "end": 1816.97, "text": "på litt over 3 prosent i år, så mest på at den av det er jo noe historie."}
+{"episode_id": 309, "segment_index": 528, "start": 1816.97, "end": 1824.97, "text": "Men til neste år så forventer de en svak oppremsing til sånn at vi får en vekst på 2,8 prosent."}
+{"episode_id": 309, "segment_index": 529, "start": 1824.97, "end": 1828.97, "text": "Og så i 2024 enn, så skal vi tilbake en litt over 3 prosent."}
+{"episode_id": 309, "segment_index": 530, "start": 1828.97, "end": 1832.97, "text": "Det er jo bare for å sette i perspektiv gjennomtninglig vekst mellom finanskrisen"}
+{"episode_id": 309, "segment_index": 531, "start": 1832.97, "end": 1835.97, "text": "og koranagrisen, var på cirka 3,5 prosent i globalt BNP."}
+{"episode_id": 309, "segment_index": 532, "start": 1835.97, "end": 1837.97, "text": "Så 2,8 er ikke veldig laft."}
+{"episode_id": 309, "segment_index": 533, "start": 1837.97, "end": 1839.97, "text": "Og bare for å sette litt konteks her,"}
+{"episode_id": 309, "segment_index": 534, "start": 1839.97, "end": 1844.97, "text": "en måte i forveien disse tallene kom i forjukel, noe sånt nå."}
+{"episode_id": 309, "segment_index": 535, "start": 1844.97, "end": 1852.97, "text": "En måte før så skrev IMF så en lang report om levekostnadskrisen for Europa,"}
+{"episode_id": 309, "segment_index": 536, "start": 1852.97, "end": 1857.97, "text": "nyttet til høy energipriser hvor de hensyn tar både de direkte effektene av at gas er dyrt,"}
+{"episode_id": 309, "segment_index": 537, "start": 1857.97, "end": 1862.97, "text": "strøm er dyrt, og de indirekte effektene som oppsor for de alle andre må sette"}
+{"episode_id": 309, "segment_index": 538, "start": 1862.97, "end": 1864.97, "text": "og priserne som følge av at strøm er dyrt,"}
+{"episode_id": 309, "segment_index": 539, "start": 1864.97, "end": 1868.97, "text": "og de andre indirekte effektene som kommer som følge av at vi får subsidier"}
+{"episode_id": 309, "segment_index": 540, "start": 1868.97, "end": 1871.97, "text": "for å hantere at ting er ble dyrt, så når de hensyn tar alle disse tingene her,"}
+{"episode_id": 309, "segment_index": 541, "start": 1871.97, "end": 1875.97, "text": "så finner de at du har den største levekostnadskrisen i Europa,"}
+{"episode_id": 309, "segment_index": 542, "start": 1875.97, "end": 1877.97, "text": "hvertfall tilbake til 70-tallet."}
+{"episode_id": 309, "segment_index": 543, "start": 1877.97, "end": 1880.97, "text": "Det er veldig brettbasert."}
+{"episode_id": 309, "segment_index": 544, "start": 1880.97, "end": 1882.97, "text": "Og det du mener, det her er litt mismert,"}
+{"episode_id": 309, "segment_index": 545, "start": 1882.97, "end": 1887.97, "text": "fordi Europa er verdens neste største økonomi,"}
+{"episode_id": 309, "segment_index": 546, "start": 1887.97, "end": 1890.97, "text": "så når du går så dårlig i Europa, da bør det gå fast."}
+{"episode_id": 309, "segment_index": 547, "start": 1890.97, "end": 1892.97, "text": "I USA har du litt bedre lønsevekst."}
+{"episode_id": 309, "segment_index": 548, "start": 1892.97, "end": 1894.97, "text": "Men fortsatt nå er det samme."}
+{"episode_id": 309, "segment_index": 549, "start": 1894.97, "end": 1898.97, "text": "Ja, så du har en levekostnadskriser der også,"}
+{"episode_id": 309, "segment_index": 550, "start": 1898.97, "end": 1901.97, "text": "men i Europa er den mer prekær."}
+{"episode_id": 309, "segment_index": 551, "start": 1901.97, "end": 1904.97, "text": "Og hvis du tar den tredde økonomin, det er utød."}
+{"episode_id": 309, "segment_index": 552, "start": 1904.97, "end": 1906.97, "text": "Kina er bare disse tre økonominene som finnes,"}
+{"episode_id": 309, "segment_index": 553, "start": 1906.97, "end": 1907.97, "text": "det er det ikke."}
+{"episode_id": 309, "segment_index": 554, "start": 1907.97, "end": 1909.97, "text": "Men det går ikke spesielt bra i Kina heller."}
+{"episode_id": 309, "segment_index": 555, "start": 1909.97, "end": 1914.97, "text": "Om det er lønvekst, eller om det er fall i BNP,"}
+{"episode_id": 309, "segment_index": 556, "start": 1914.97, "end": 1916.97, "text": "og har ikke feil i noe."}
+{"episode_id": 309, "segment_index": 557, "start": 1916.97, "end": 1917.97, "text": "Når du dropper og publicerer et tall,"}
+{"episode_id": 309, "segment_index": 558, "start": 1917.97, "end": 1920.97, "text": "det er så ille der at du ikke tør og publicerer et tall, tydeligvis."}
+{"episode_id": 309, "segment_index": 559, "start": 1920.97, "end": 1922.97, "text": "Men det går ikke veldig bra i Kina."}
+{"episode_id": 309, "segment_index": 560, "start": 1922.97, "end": 1924.97, "text": "Du har hatt en kollapse i Bolimarket."}
+{"episode_id": 309, "segment_index": 561, "start": 1924.97, "end": 1927.97, "text": "De stengerne er byer på byer,"}
+{"episode_id": 309, "segment_index": 562, "start": 1927.97, "end": 1931.97, "text": "som følger av en litt rar strategi knyttet til korona."}
+{"episode_id": 309, "segment_index": 563, "start": 1931.97, "end": 1935.97, "text": "Så ting funker ikke helt bra økonomiset i Kina heller."}
+{"episode_id": 309, "segment_index": 564, "start": 1935.97, "end": 1938.97, "text": "Så det er så satte på her at den globale veksten skal holde oss oppe"}
+{"episode_id": 309, "segment_index": 565, "start": 1938.97, "end": 1940.97, "text": "fordi Kina går bra."}
+{"episode_id": 309, "segment_index": 566, "start": 1940.97, "end": 1942.97, "text": "Nei, nei, det er ikke det her."}
+{"episode_id": 309, "segment_index": 567, "start": 1942.97, "end": 1946.97, "text": "Vi kan sida det i MF-siden,"}
+{"episode_id": 309, "segment_index": 568, "start": 1946.97, "end": 1948.97, "text": "det er kanskje litt veldig optimistisk,"}
+{"episode_id": 309, "segment_index": 569, "start": 1948.97, "end": 1951.97, "text": "men det ligner jo på med konsensynslag,"}
+{"episode_id": 309, "segment_index": 570, "start": 1951.97, "end": 1953.97, "text": "og hvert og siden med sitt makro-team, sitt eget anslag,"}
+{"episode_id": 309, "segment_index": 571, "start": 1953.97, "end": 1955.97, "text": "om at det skal gå dårlig,"}
+{"episode_id": 309, "segment_index": 572, "start": 1955.97, "end": 1958.97, "text": "men det skal ikke gå sånn kjempe dårlig."}
+{"episode_id": 309, "segment_index": 573, "start": 1958.97, "end": 1960.97, "text": "Og der er du uenig."}
+{"episode_id": 309, "segment_index": 574, "start": 1960.97, "end": 1962.97, "text": "Ja, fordi i den måten jeg ser på dette her,"}
+{"episode_id": 309, "segment_index": 575, "start": 1962.97, "end": 1965.97, "text": "så i MF, de ser for seg en liten dump i veien,"}
+{"episode_id": 309, "segment_index": 576, "start": 1965.97, "end": 1967.97, "text": "sånn at du må senke farta litt."}
+{"episode_id": 309, "segment_index": 577, "start": 1967.97, "end": 1969.97, "text": "Mens konsensus,"}
+{"episode_id": 309, "segment_index": 578, "start": 1969.97, "end": 1972.97, "text": "og vi har kanskje en litt mer dramatisk dump,"}
+{"episode_id": 309, "segment_index": 579, "start": 1972.97, "end": 1974.97, "text": "men du kan fortsatt kjøre over den."}
+{"episode_id": 309, "segment_index": 580, "start": 1974.97, "end": 1980.97, "text": "Men når jeg ser på verden, så tenker jeg at her er et høl i veien."}
+{"episode_id": 309, "segment_index": 581, "start": 1980.97, "end": 1984.97, "text": "Og du kommer til å ødelæge bilen, hvis du kjører over det."}
+{"episode_id": 309, "segment_index": 582, "start": 1984.97, "end": 1987.97, "text": "På grunn av levekostnadskrisen, og veldig svakvekstig kina."}
+{"episode_id": 309, "segment_index": 583, "start": 1987.97, "end": 1990.97, "text": "Kina er en ting, vi kan droppe det for nå,"}
+{"episode_id": 309, "segment_index": 584, "start": 1990.97, "end": 1994.97, "text": "men når du ser på realt interksveksten til resolveningen i USA,"}
+{"episode_id": 309, "segment_index": 585, "start": 1994.97, "end": 1996.97, "text": "eller er det det som forlennensaktskjøer,"}
+{"episode_id": 309, "segment_index": 586, "start": 1996.97, "end": 1999.97, "text": "det har skjedd to ganger siden andre verdenskrig,"}
+{"episode_id": 309, "segment_index": 587, "start": 1999.97, "end": 2002.97, "text": "at du har hatt den type fall i USA før."}
+{"episode_id": 309, "segment_index": 588, "start": 2002.97, "end": 2004.97, "text": "Det ene var finanskrisen,"}
+{"episode_id": 309, "segment_index": 589, "start": 2004.97, "end": 2006.97, "text": "det andre var resesjonen i 1900-sanskjøen."}
+{"episode_id": 309, "segment_index": 590, "start": 2006.97, "end": 2008.97, "text": "Fall i levekostnaden, eller fall i..."}
+{"episode_id": 309, "segment_index": 591, "start": 2008.97, "end": 2013.97, "text": "Oppganger i levekostnadene, nedganger i alle interktene."}
+{"episode_id": 309, "segment_index": 592, "start": 2013.97, "end": 2015.97, "text": "Det har skjedd to ganger før."}
+{"episode_id": 309, "segment_index": 593, "start": 2015.97, "end": 2018.97, "text": "Finanskrisen var det primært høyere arbeidsrødighet,"}
+{"episode_id": 309, "segment_index": 594, "start": 2018.97, "end": 2022.97, "text": "som videreåter at kjøpekraften for resolveningsektoren som helt ble redusert."}
+{"episode_id": 309, "segment_index": 595, "start": 2022.97, "end": 2025.97, "text": "Og så var det resesjonen i 1973-1974,"}
+{"episode_id": 309, "segment_index": 596, "start": 2025.97, "end": 2027.97, "text": "hvor du hadde energirasjonering,"}
+{"episode_id": 309, "segment_index": 597, "start": 2027.97, "end": 2029.97, "text": "ekstrem akkang i matprisene og energiprisene,"}
+{"episode_id": 309, "segment_index": 598, "start": 2029.97, "end": 2031.97, "text": "på linne med det man har i dag."}
+{"episode_id": 309, "segment_index": 599, "start": 2031.97, "end": 2032.97, "text": "Du hadde en dekspå..."}
+{"episode_id": 309, "segment_index": 600, "start": 2032.97, "end": 2034.97, "text": "i konsumprisene på 10 % over åvra."}
+{"episode_id": 309, "segment_index": 601, "start": 2034.97, "end": 2036.97, "text": "Egentlig helt identisk."}
+{"episode_id": 309, "segment_index": 602, "start": 2036.97, "end": 2039.97, "text": "Da så du også at det virkelig begynte å butte for økonomi,"}
+{"episode_id": 309, "segment_index": 603, "start": 2039.97, "end": 2043.97, "text": "og du hadde en dramatisk utvikling for veksene dyrp,"}
+{"episode_id": 309, "segment_index": 604, "start": 2043.97, "end": 2045.97, "text": "og ganske langvarig resesjon."}
+{"episode_id": 309, "segment_index": 605, "start": 2045.97, "end": 2048.97, "text": "Du tror mer på en dyp og langvarig resesjon, der det ser?"}
+{"episode_id": 309, "segment_index": 606, "start": 2048.97, "end": 2050.97, "text": "Ja. Jeg ser ikke dette som konsistent,"}
+{"episode_id": 309, "segment_index": 607, "start": 2050.97, "end": 2055.97, "text": "at du på en ene siden skal ha så kraftig fall i kjøpekraften,"}
+{"episode_id": 309, "segment_index": 608, "start": 2055.97, "end": 2058.0, "text": "sånt type forværinger i kjøpekraften,"}
+{"episode_id": 309, "segment_index": 609, "start": 2058.0, "end": 2062.0, "text": "og samtidig klar å ha en dynamikt der bedriftende,"}
+{"episode_id": 309, "segment_index": 610, "start": 2062.0, "end": 2064.0, "text": "som da har nedgang i topplinjen,"}
+{"episode_id": 309, "segment_index": 611, "start": 2064.0, "end": 2066.0, "text": "så er det dårligere bundlinje også,"}
+{"episode_id": 309, "segment_index": 612, "start": 2066.0, "end": 2068.0, "text": "fordi du har i margiden volateritet som følger alle seg"}
+{"episode_id": 309, "segment_index": 613, "start": 2068.0, "end": 2070.0, "text": "det som skjer med kostnadene dine,"}
+{"episode_id": 309, "segment_index": 614, "start": 2070.0, "end": 2074.0, "text": "at du da skal klare holde investeringer oppe denne sjøkste kjerke."}
+{"episode_id": 309, "segment_index": 615, "start": 2074.0, "end": 2077.0, "text": "Men hvis vi skal si så du er negativt,"}
+{"episode_id": 309, "segment_index": 616, "start": 2077.0, "end": 2079.0, "text": "så anterst ser til tivesk utsiktende,"}
+{"episode_id": 309, "segment_index": 617, "start": 2079.0, "end": 2082.0, "text": "mer negativt enn også konsensus og IMF."}
+{"episode_id": 309, "segment_index": 618, "start": 2082.0, "end": 2084.0, "text": "Men, når inflasjonen..."}
+{"episode_id": 309, "segment_index": 619, "start": 2084.0, "end": 2087.0, "text": "Jeg tror ikke du har tid til å gå gjennom alle du har."}
+{"episode_id": 309, "segment_index": 620, "start": 2087.0, "end": 2091.0, "text": "Lang liste grønner til at inflasjonen skal være høy,"}
+{"episode_id": 309, "segment_index": 621, "start": 2091.0, "end": 2093.0, "text": "både på kort sikt og på lang sikt."}
+{"episode_id": 309, "segment_index": 622, "start": 2093.0, "end": 2096.0, "text": "Kan du velge ut noen av de viktigste?"}
+{"episode_id": 309, "segment_index": 623, "start": 2098.0, "end": 2100.0, "text": "Nei, ok. Hvis vi tar det kort siktig,"}
+{"episode_id": 309, "segment_index": 624, "start": 2100.0, "end": 2104.0, "text": "så er det for det første de tregettene du har i inflasjonen"}
+{"episode_id": 309, "segment_index": 625, "start": 2104.0, "end": 2106.0, "text": "som følger at en del varige grupper,"}
+{"episode_id": 309, "segment_index": 626, "start": 2106.0, "end": 2108.0, "text": "for eksempel boligrelatert i kostnadene,"}
+{"episode_id": 309, "segment_index": 627, "start": 2108.0, "end": 2112.0, "text": "er indeksert til det inflasjonen er her og nå."}
+{"episode_id": 309, "segment_index": 628, "start": 2112.0, "end": 2115.0, "text": "Så deksten i boligrelatert i kostnadene"}
+{"episode_id": 309, "segment_index": 629, "start": 2115.0, "end": 2118.0, "text": "vil stige i tråd med det som skjer med inflasjonen."}
+{"episode_id": 309, "segment_index": 630, "start": 2118.0, "end": 2120.0, "text": "Så når du har en ekstra med høy inflasjon i dag,"}
+{"episode_id": 309, "segment_index": 631, "start": 2120.0, "end": 2123.0, "text": "så gir det mulighet for videre høy inflasjon"}
+{"episode_id": 309, "segment_index": 632, "start": 2123.0, "end": 2125.0, "text": "i en viktig del AKP."}
+{"episode_id": 309, "segment_index": 633, "start": 2125.0, "end": 2127.0, "text": "Sånn ser vi her hjemme."}
+{"episode_id": 309, "segment_index": 634, "start": 2127.0, "end": 2131.0, "text": "Det er tregetter i måten man setter opp priserne."}
+{"episode_id": 309, "segment_index": 635, "start": 2131.0, "end": 2135.0, "text": "Det andre er effekten av lønninger."}
+{"episode_id": 309, "segment_index": 636, "start": 2135.0, "end": 2137.0, "text": "Så lenge du har en unaturlig høy lønnsvekster,"}
+{"episode_id": 309, "segment_index": 637, "start": 2137.0, "end": 2139.0, "text": "relativt i hva som er produktivitetsveksten,"}
+{"episode_id": 309, "segment_index": 638, "start": 2139.0, "end": 2142.0, "text": "så gir det et kostnadspress i bedriftene"}
+{"episode_id": 309, "segment_index": 639, "start": 2142.0, "end": 2146.0, "text": "som man kun klarer å hente gjennom at det blir bort."}
+{"episode_id": 309, "segment_index": 640, "start": 2146.0, "end": 2148.0, "text": "Du har ikke lenger den lønnsveksen."}
+{"episode_id": 309, "segment_index": 641, "start": 2148.0, "end": 2151.0, "text": "Lønnsveksen kommer ned, skjer ikke helt på seg selv."}
+{"episode_id": 309, "segment_index": 642, "start": 2151.0, "end": 2154.0, "text": "Eller noe med to, du må sette ta det ut i høyere konsumpriser."}
+{"episode_id": 309, "segment_index": 643, "start": 2154.0, "end": 2156.0, "text": "At ferdigvarepriserne dinne stiger."}
+{"episode_id": 309, "segment_index": 644, "start": 2156.0, "end": 2160.38, "text": "Så lenge du har en lønnsvekster som ligger for oss med å si"}
+{"episode_id": 309, "segment_index": 645, "start": 2160.38, "end": 2163.38, "text": "langt over det som er underregnet produktivitetsveksten,"}
+{"episode_id": 309, "segment_index": 646, "start": 2163.38, "end": 2165.38, "text": "så er det veldig inflatorisk."}
+{"episode_id": 309, "segment_index": 647, "start": 2165.38, "end": 2168.38, "text": "Det er så godt det er lønnsprisbiral som man er sjovret for."}
+{"episode_id": 309, "segment_index": 648, "start": 2168.38, "end": 2170.38, "text": "Og der mener jeg også at vi er."}
+{"episode_id": 309, "segment_index": 649, "start": 2170.38, "end": 2172.38, "text": "Og så er det noe med tre, på det kort siktet,"}
+{"episode_id": 309, "segment_index": 650, "start": 2172.38, "end": 2175.38, "text": "det er ting som er knyttet til opportunism og så videre."}
+{"episode_id": 309, "segment_index": 651, "start": 2175.38, "end": 2178.38, "text": "Og at når du har tal fra bank og internasjonen selv,"}
+{"episode_id": 309, "segment_index": 652, "start": 2178.38, "end": 2180.38, "text": "så viser jeg at når inflasjonen egentlig,"}
+{"episode_id": 309, "segment_index": 653, "start": 2180.38, "end": 2183.38, "text": "det står høyere inflasjonen her, det stå lettere blir det"}
+{"episode_id": 309, "segment_index": 654, "start": 2183.38, "end": 2187.38, "text": "for hver enkelt aktør å sette av prisen sinne uforholdsmesse med."}
+{"episode_id": 309, "segment_index": 655, "start": 2187.38, "end": 2190.38, "text": "Uavhengig om du skylles høyere kostnader,"}
+{"episode_id": 309, "segment_index": 656, "start": 2190.38, "end": 2191.38, "text": "eller bare den typen opportunismen, at,"}
+{"episode_id": 309, "segment_index": 657, "start": 2191.38, "end": 2193.38, "text": "åi, her kan jeg ta ut mer marginer."}
+{"episode_id": 309, "segment_index": 658, "start": 2193.38, "end": 2197.38, "text": "Man ser en slags konvergens på tørselen,"}
+{"episode_id": 309, "segment_index": 659, "start": 2197.38, "end": 2201.38, "text": "og alle varegrupper når inflasjonen blir tilstriklig høy."}
+{"episode_id": 309, "segment_index": 660, "start": 2201.38, "end": 2204.38, "text": "Og spesielt det man finner er at over 5 prosent"}
+{"episode_id": 309, "segment_index": 661, "start": 2204.38, "end": 2207.38, "text": "er det super lett for bedrifter å sette av prisen sinne"}
+{"episode_id": 309, "segment_index": 662, "start": 2207.38, "end": 2210.38, "text": "uten at det mister salg."}
+{"episode_id": 309, "segment_index": 663, "start": 2210.38, "end": 2212.61, "text": "Så vi som forbrukere,"}
+{"episode_id": 309, "segment_index": 664, "start": 2212.61, "end": 2216.61, "text": "vår evne til å stille spørsmål ved en prisoppgang,"}
+{"episode_id": 309, "segment_index": 665, "start": 2216.61, "end": 2218.61, "text": "blir rettet vert så dårlig at vi, ok,"}
+{"episode_id": 309, "segment_index": 666, "start": 2218.61, "end": 2219.61, "text": "eget prisen stiger,"}
+{"episode_id": 309, "segment_index": 667, "start": 2219.61, "end": 2222.61, "text": "om du skylles bare sikker at nå stiger alt."}
+{"episode_id": 309, "segment_index": 668, "start": 2222.61, "end": 2225.61, "text": "Når vi slutter som forbrukere"}
+{"episode_id": 309, "segment_index": 669, "start": 2225.61, "end": 2229.61, "text": "å tilpasse forbruket vårt de relatire prisen sinne,"}
+{"episode_id": 309, "segment_index": 670, "start": 2229.61, "end": 2233.77, "text": "så er det et kjempeproblem for inflasjonstyrnene mekk."}
+{"episode_id": 309, "segment_index": 671, "start": 2233.77, "end": 2235.77, "text": "Og der er vi egentlig også litt."}
+{"episode_id": 309, "segment_index": 672, "start": 2235.77, "end": 2237.77, "text": "Når det gjelder mer langsiktige faktorer,"}
+{"episode_id": 309, "segment_index": 673, "start": 2237.77, "end": 2239.77, "text": "så er det dette med deglobalisering,"}
+{"episode_id": 309, "segment_index": 674, "start": 2239.77, "end": 2242.77, "text": "det at man skifter produksjon jemfra Kina"}
+{"episode_id": 309, "segment_index": 675, "start": 2242.77, "end": 2244.77, "text": "på grunn av mer sånn politiske..."}
+{"episode_id": 309, "segment_index": 676, "start": 2244.77, "end": 2247.93, "text": "Den ligger da på en måte etteresersjonen."}
+{"episode_id": 309, "segment_index": 677, "start": 2247.93, "end": 2249.93, "text": "Jeg tenker jo enn at resersjonen kommer jo."}
+{"episode_id": 309, "segment_index": 678, "start": 2249.93, "end": 2252.93, "text": "Det er jo mange som tenker."}
+{"episode_id": 309, "segment_index": 679, "start": 2252.93, "end": 2256.93, "text": "Men mer sånn at det er at man har flyttet produksjon til Kina,"}
+{"episode_id": 309, "segment_index": 680, "start": 2256.93, "end": 2259.93, "text": "og det har selvfølgelig bidat til at vi har hatt lavet"}
+{"episode_id": 309, "segment_index": 681, "start": 2259.93, "end": 2261.93, "text": "inflasjon i vesten i lang lang tid."}
+{"episode_id": 309, "segment_index": 682, "start": 2261.93, "end": 2263.93, "text": "Hvis det nå går litt i revers,"}
+{"episode_id": 309, "segment_index": 683, "start": 2263.93, "end": 2266.93, "text": "så tilser det være høyere inflasjon."}
+{"episode_id": 309, "segment_index": 684, "start": 2266.93, "end": 2270.93, "text": "Og bo begynne om at det dyrer å producere ting her hjemme,"}
+{"episode_id": 309, "segment_index": 685, "start": 2270.93, "end": 2272.93, "text": "enn det der i Kina."}
+{"episode_id": 309, "segment_index": 686, "start": 2272.93, "end": 2274.93, "text": "Men kanskje viktigst av alt,"}
+{"episode_id": 309, "segment_index": 687, "start": 2274.93, "end": 2280.93, "text": "fordi hver gang du har hatt litt press i kapasiteten i USA."}
+{"episode_id": 309, "segment_index": 688, "start": 2280.93, "end": 2283.93, "text": "Og Nike eller Amazon eller sånten,"}
+{"episode_id": 309, "segment_index": 689, "start": 2283.93, "end": 2286.93, "text": "eller Walmart, skal vi producere dette her på hjembanen,"}
+{"episode_id": 309, "segment_index": 690, "start": 2286.93, "end": 2288.93, "text": "eller skal vi producere det i et land,"}
+{"episode_id": 309, "segment_index": 691, "start": 2288.93, "end": 2290.93, "text": "lavkostnadsland som Kina."}
+{"episode_id": 309, "segment_index": 692, "start": 2290.93, "end": 2292.93, "text": "Hvis vi bare flytter det til Kina,"}
+{"episode_id": 309, "segment_index": 693, "start": 2292.93, "end": 2295.93, "text": "så slipper vi å høyere lønnsvekst her hjemme."}
+{"episode_id": 309, "segment_index": 694, "start": 2295.93, "end": 2298.93, "text": "Så man har sett at den globaliseringseffekten"}
+{"episode_id": 309, "segment_index": 695, "start": 2298.93, "end": 2301.93, "text": "har primært virket deflatorisk,"}
+{"episode_id": 309, "segment_index": 696, "start": 2301.93, "end": 2306.93, "text": "fordi du har klart å fra frikoblet produktiviteten i økonomin"}
+{"episode_id": 309, "segment_index": 697, "start": 2306.93, "end": 2308.93, "text": "med realønning til arbeidene."}
+{"episode_id": 309, "segment_index": 698, "start": 2308.93, "end": 2312.93, "text": "Så reala lønning til arbeidene har stagnert de siste 40 år."}
+{"episode_id": 309, "segment_index": 699, "start": 2312.93, "end": 2315.93, "text": "Men produktiviteten bare stegte."}
+{"episode_id": 309, "segment_index": 700, "start": 2315.93, "end": 2319.93, "text": "Og den fremvørt kanskje ikke så sannsvinner."}
+{"episode_id": 309, "segment_index": 701, "start": 2319.93, "end": 2324.93, "text": "Men du er ganske bred enig om egentlig at det å ha inflasjon på 1-2%,"}
+{"episode_id": 309, "segment_index": 702, "start": 2324.93, "end": 2327.93, "text": "det er kanskje bytes hyft med å ha inflasjon på 2-3%."}
+{"episode_id": 309, "segment_index": 703, "start": 2327.93, "end": 2329.93, "text": "Ja, og da er jeg spørsmålet,"}
+{"episode_id": 309, "segment_index": 704, "start": 2329.93, "end": 2332.93, "text": "hvis du fortsetter å operere med at inflasjonsmål på 2,"}
+{"episode_id": 309, "segment_index": 705, "start": 2332.93, "end": 2335.93, "text": "og du helt inn stanger på oppsiden av det,"}
+{"episode_id": 309, "segment_index": 706, "start": 2335.93, "end": 2338.93, "text": "på samme måte som centralbankene kjørte rentene i null"}
+{"episode_id": 309, "segment_index": 707, "start": 2338.93, "end": 2342.93, "text": "og drev med kue, fordi inflasjonen var litt for lav."}
+{"episode_id": 309, "segment_index": 708, "start": 2342.93, "end": 2344.93, "text": "Så skal jeg høre en ting."}
+{"episode_id": 309, "segment_index": 709, "start": 2345.93, "end": 2347.93, "text": "Men bare en liten sann."}
+{"episode_id": 309, "segment_index": 710, "start": 2347.93, "end": 2351.93, "text": "Du er jo inneforstått med at du har negativt,"}
+{"episode_id": 309, "segment_index": 711, "start": 2351.93, "end": 2353.93, "text": "veldig negativt økonomin, og så er det negativt,"}
+{"episode_id": 309, "segment_index": 712, "start": 2353.93, "end": 2357.93, "text": "men tenk på at du tror inflasjonen skal være høy når den nærmeste siden."}
+{"episode_id": 309, "segment_index": 713, "start": 2357.93, "end": 2360.93, "text": "Mykje høyere enn det konsensusforventning der."}
+{"episode_id": 309, "segment_index": 714, "start": 2360.93, "end": 2365.93, "text": "Og du må da være enig i at du kan kanskje ikke ha rett på begge deler."}
+{"episode_id": 309, "segment_index": 715, "start": 2365.93, "end": 2368.93, "text": "Fordi hvis det går så dårlig med økonomin som du tror,"}
+{"episode_id": 309, "segment_index": 716, "start": 2368.93, "end": 2370.93, "text": "da vil jo inflasjonen komme ned."}
+{"episode_id": 309, "segment_index": 717, "start": 2370.93, "end": 2372.93, "text": "Men hvis inflasjonen fortsetter å være så,"}
+{"episode_id": 309, "segment_index": 718, "start": 2372.93, "end": 2376.99, "text": "så er det til så at det ikke skal gå så dårlig med økonomin."}
+{"episode_id": 309, "segment_index": 719, "start": 2376.99, "end": 2378.99, "text": "Så du kan ha rett på en av de."}
+{"episode_id": 309, "segment_index": 720, "start": 2378.99, "end": 2380.99, "text": "Så hvis man sier at det går bra med økonomin,"}
+{"episode_id": 309, "segment_index": 721, "start": 2380.99, "end": 2384.99, "text": "så er det hvertfall inkonsistent med synet om at inflasjonen skal ned."}
+{"episode_id": 309, "segment_index": 722, "start": 2384.99, "end": 2386.99, "text": "Og hvis du blir en liten fært stomp,"}
+{"episode_id": 309, "segment_index": 723, "start": 2386.99, "end": 2390.99, "text": "også så imittes du at det er inkonsistent med at inflasjonen kommer ned."}
+{"episode_id": 309, "segment_index": 724, "start": 2390.99, "end": 2393.99, "text": "Fordi da har du det gapet mellom tilbudetetspersi."}
+{"episode_id": 309, "segment_index": 725, "start": 2393.99, "end": 2394.99, "text": "Men du har en..."}
+{"episode_id": 309, "segment_index": 726, "start": 2394.99, "end": 2396.99, "text": "Det har gått på en ganger."}
+{"episode_id": 309, "segment_index": 727, "start": 2396.99, "end": 2398.99, "text": "Hvis vi skal hape på noe,"}
+{"episode_id": 309, "segment_index": 728, "start": 2398.99, "end": 2401.99, "text": "eller for min del så håper jeg på en kraftig restasjon,"}
+{"episode_id": 309, "segment_index": 729, "start": 2401.99, "end": 2403.99, "text": "og at inflasjonen kommer ned. Det vil jo være det beste."}
+{"episode_id": 309, "segment_index": 730, "start": 2403.99, "end": 2404.99, "text": "Det finnes det."}
+{"episode_id": 309, "segment_index": 731, "start": 2404.99, "end": 2406.99, "text": "Hvis ikke, så har vi det inflasjonen problemet henger med oss i Langland."}
+{"episode_id": 309, "segment_index": 732, "start": 2406.99, "end": 2408.99, "text": "Da er det 1970 da da på nyttet, ikke sant?"}
+{"episode_id": 309, "segment_index": 733, "start": 2408.99, "end": 2411.99, "text": "Og 1970 talt viser også at du kan ha en dyrp restasjon,"}
+{"episode_id": 309, "segment_index": 734, "start": 2411.99, "end": 2414.99, "text": "og likevel ikke fixe inflasjonen på det."}
+{"episode_id": 309, "segment_index": 735, "start": 2414.99, "end": 2418.99, "text": "Men en 70-tal var vist nok veldig spesielt."}
+{"episode_id": 309, "segment_index": 736, "start": 2419.99, "end": 2421.99, "text": "Skal vi ta siste graf?"}
+{"episode_id": 309, "segment_index": 737, "start": 2421.99, "end": 2423.99, "text": "Disse grafene liker vi veldig godt."}
+{"episode_id": 309, "segment_index": 738, "start": 2423.99, "end": 2425.99, "text": "Du viser som styreingsstretter."}
+{"episode_id": 309, "segment_index": 739, "start": 2425.99, "end": 2426.99, "text": "Vakkerig graf."}
+{"episode_id": 309, "segment_index": 740, "start": 2426.99, "end": 2427.99, "text": "Det er vakkerig graf."}
+{"episode_id": 309, "segment_index": 741, "start": 2427.99, "end": 2429.99, "text": "Jeg pleier å si at de er spektakulære,"}
+{"episode_id": 309, "segment_index": 742, "start": 2429.99, "end": 2431.99, "text": "og det er ofte noen som lær, fordi de tror jeg er ironisk."}
+{"episode_id": 309, "segment_index": 743, "start": 2431.99, "end": 2433.99, "text": "Men jeg mener de er spektakulære."}
+{"episode_id": 309, "segment_index": 744, "start": 2433.99, "end": 2438.99, "text": "De viser at styreingsstretter er til Nævropøske Centrallbanken og FED,"}
+{"episode_id": 309, "segment_index": 745, "start": 2438.99, "end": 2440.99, "text": "og så viser de markedsprisningen,"}
+{"episode_id": 309, "segment_index": 746, "start": 2440.99, "end": 2442.99, "text": "at investernes forventning til hva disse rentene skulle være,"}
+{"episode_id": 309, "segment_index": 747, "start": 2442.99, "end": 2445.99, "text": "to, tre år til frem i tid på ulike tidspunkter i år."}
+{"episode_id": 309, "segment_index": 748, "start": 2447.09, "end": 2449.09, "text": "Blå linje i januar."}
+{"episode_id": 309, "segment_index": 749, "start": 2449.09, "end": 2452.09, "text": "Mørkegrøn linje i Norge, Juni."}
+{"episode_id": 309, "segment_index": 750, "start": 2452.09, "end": 2454.09, "text": "Og gul linje nå."}
+{"episode_id": 309, "segment_index": 751, "start": 2454.09, "end": 2458.09, "text": "Og det som er spektakulært med den er jo hvordan..."}
+{"episode_id": 309, "segment_index": 752, "start": 2458.09, "end": 2460.09, "text": "Det er januar som er spektakulært."}
+{"episode_id": 309, "segment_index": 753, "start": 2460.09, "end": 2461.09, "text": "Det er veldig spørg."}
+{"episode_id": 309, "segment_index": 754, "start": 2461.09, "end": 2462.09, "text": "Endringen er spektakulæret,"}
+{"episode_id": 309, "segment_index": 755, "start": 2462.09, "end": 2464.09, "text": "men også januar er spektakulært i form av at"}
+{"episode_id": 309, "segment_index": 756, "start": 2464.09, "end": 2466.09, "text": "da var man innforsett med at ok,"}
+{"episode_id": 309, "segment_index": 757, "start": 2466.09, "end": 2467.09, "text": "inflasjonen er høy,"}
+{"episode_id": 309, "segment_index": 758, "start": 2467.09, "end": 2469.09, "text": "og det er ikke bare midletid."}
+{"episode_id": 309, "segment_index": 759, "start": 2469.09, "end": 2471.09, "text": "Vi skal ha høy inflasjon i en lang periode,"}
+{"episode_id": 309, "segment_index": 760, "start": 2471.09, "end": 2476.09, "text": "men likevel så priset markedin at ECB skulle ha negativ rente nesten i tre år fremover."}
+{"episode_id": 309, "segment_index": 761, "start": 2476.09, "end": 2480.09, "text": "Og FED skulle ikke ha en høy rente en 1,6 eller 1,7 prosent."}
+{"episode_id": 309, "segment_index": 762, "start": 2480.09, "end": 2483.09, "text": "Så vi ligger i USA med en inflasjon på nesten 6 prosent,"}
+{"episode_id": 309, "segment_index": 763, "start": 2483.09, "end": 2486.09, "text": "og så tror Markedat FED på dette tidspunktet"}
+{"episode_id": 309, "segment_index": 764, "start": 2486.09, "end": 2491.09, "text": "skal stramme inn mindre enn det det gjorde i 2016-17-18."}
+{"episode_id": 309, "segment_index": 765, "start": 2491.09, "end": 2494.09, "text": "Det er helt utrolig, men hvis du ser..."}
+{"episode_id": 309, "segment_index": 766, "start": 2494.09, "end": 2498.09, "text": "Det samme gjelder jo oss som har lagt prognoser,"}
+{"episode_id": 309, "segment_index": 767, "start": 2498.09, "end": 2501.09, "text": "og det samme gjelder jo centralbankene selv."}
+{"episode_id": 309, "segment_index": 768, "start": 2501.09, "end": 2503.09, "text": "Hvis du ser selv sine egne rentoverventninger,"}
+{"episode_id": 309, "segment_index": 769, "start": 2503.09, "end": 2506.09, "text": "så har de også bevegte akkad på samme måte."}
+{"episode_id": 309, "segment_index": 770, "start": 2506.09, "end": 2508.09, "text": "Så du viser jo bare noe sånn,"}
+{"episode_id": 309, "segment_index": 771, "start": 2508.09, "end": 2510.09, "text": "tror jeg er veldig mensklig i at man står der"}
+{"episode_id": 309, "segment_index": 772, "start": 2510.09, "end": 2513.09, "text": "og har hatt nullræntet en negativ eller renter i lang tid,"}
+{"episode_id": 309, "segment_index": 773, "start": 2513.09, "end": 2516.09, "text": "og det å da si, nei, om et år så skal følge styreaksenter"}
+{"episode_id": 309, "segment_index": 774, "start": 2516.09, "end": 2519.09, "text": "være 4-5 prosent, det var bare helt utopisk."}
+{"episode_id": 309, "segment_index": 775, "start": 2519.09, "end": 2521.09, "text": "Det var klart ikke å se det for seg."}
+{"episode_id": 309, "segment_index": 776, "start": 2521.09, "end": 2524.09, "text": "Så det har blitt en sånn gradvis justering i, ok,"}
+{"episode_id": 309, "segment_index": 777, "start": 2524.09, "end": 2526.09, "text": "ok, kanskje vi skal så, og kanskje vi skal så ut."}
+{"episode_id": 309, "segment_index": 778, "start": 2526.09, "end": 2529.09, "text": "Men det som også gjør at den..."}
+{"episode_id": 309, "segment_index": 779, "start": 2529.09, "end": 2531.09, "text": "Vi må tenke litt når vi ser denne grafen,"}
+{"episode_id": 309, "segment_index": 780, "start": 2531.09, "end": 2534.09, "text": "er jo det menskligige i oss da som gjør at vi ikke klarer"}
+{"episode_id": 309, "segment_index": 781, "start": 2534.09, "end": 2537.09, "text": "å se for oss så ekstremt høy renten i vår."}
+{"episode_id": 309, "segment_index": 782, "start": 2537.09, "end": 2540.09, "text": "Er det noe som fortsatt påvirker oss,"}
+{"episode_id": 309, "segment_index": 783, "start": 2540.09, "end": 2542.09, "text": "og som gjør at den tanken for nå tenker,"}
+{"episode_id": 309, "segment_index": 784, "start": 2542.09, "end": 2544.09, "text": "og man kan si, nå er vi snart på toppen,"}
+{"episode_id": 309, "segment_index": 785, "start": 2544.09, "end": 2546.09, "text": "nå er toppen der,"}
+{"episode_id": 309, "segment_index": 786, "start": 2546.09, "end": 2548.09, "text": "nå skal det ned igjen hvert."}
+{"episode_id": 309, "segment_index": 787, "start": 2548.09, "end": 2550.09, "text": "Det kan ikke gå over 5 prosent."}
+{"episode_id": 309, "segment_index": 788, "start": 2550.09, "end": 2551.09, "text": "Nei, det går ikke."}
+{"episode_id": 309, "segment_index": 789, "start": 2551.09, "end": 2553.09, "text": "Så da spørser vi, er det riktig, er vi på toppen nå,"}
+{"episode_id": 309, "segment_index": 790, "start": 2553.09, "end": 2557.09, "text": "eller er vi fortsatt preget av denne mentaliteten?"}
+{"episode_id": 309, "segment_index": 791, "start": 2557.09, "end": 2558.09, "text": "Det vet vi ikke."}
+{"episode_id": 309, "segment_index": 792, "start": 2558.09, "end": 2560.09, "text": "Vi har ikke noe svært på det,"}
+{"episode_id": 309, "segment_index": 793, "start": 2560.09, "end": 2562.09, "text": "men vi kan vel si det sånn at på etterpå"}
+{"episode_id": 309, "segment_index": 794, "start": 2562.09, "end": 2564.09, "text": "det forvekste inflasjon og ikke minst rent utsiktende"}
+{"episode_id": 309, "segment_index": 795, "start": 2564.09, "end": 2567.09, "text": "så er det ekstremt stor usikkerhet i mogen."}
+{"episode_id": 309, "segment_index": 796, "start": 2567.09, "end": 2569.09, "text": "Den grafen der isen er selv betyd bare at"}
+{"episode_id": 309, "segment_index": 797, "start": 2569.09, "end": 2572.09, "text": "vi har veldig lite oversikt over"}
+{"episode_id": 309, "segment_index": 798, "start": 2572.09, "end": 2575.09, "text": "hvordan makro, endringer i makro,"}
+{"episode_id": 309, "segment_index": 799, "start": 2575.09, "end": 2577.09, "text": "faktisk kan påvirke rent utsiktende."}
+{"episode_id": 309, "segment_index": 800, "start": 2577.09, "end": 2581.25, "text": "Og det som er skråsikker på noe her, er..."}
+{"episode_id": 309, "segment_index": 801, "start": 2581.25, "end": 2583.25, "text": "Og så vil jeg også si at det er ikke bare"}
+{"episode_id": 309, "segment_index": 802, "start": 2583.25, "end": 2587.25, "text": "at vi har innsett at inflasjonen er et problem"}
+{"episode_id": 309, "segment_index": 803, "start": 2587.25, "end": 2589.25, "text": "som må håndtere seg med veldig høy renter"}
+{"episode_id": 309, "segment_index": 804, "start": 2589.25, "end": 2590.25, "text": "som vi ikke har vært vant til."}
+{"episode_id": 309, "segment_index": 805, "start": 2590.25, "end": 2592.25, "text": "Det er også den usikkerheten på hvordan"}
+{"episode_id": 309, "segment_index": 806, "start": 2592.25, "end": 2594.25, "text": "de skal centralbankende håndtere dette her."}
+{"episode_id": 309, "segment_index": 807, "start": 2594.25, "end": 2596.25, "text": "Hvor tøffig trynnet er."}
+{"episode_id": 309, "segment_index": 808, "start": 2596.25, "end": 2599.25, "text": "Ja, og hvordan ser de selv på den"}
+{"episode_id": 309, "segment_index": 809, "start": 2599.25, "end": 2601.25, "text": "fedt eller centralbankputten da?"}
+{"episode_id": 309, "segment_index": 810, "start": 2601.25, "end": 2604.25, "text": "Og jeg synes jo jeg har fått tydelige og tydelige signaler"}
+{"episode_id": 309, "segment_index": 811, "start": 2604.25, "end": 2606.25, "text": "fra centralbankene i det siste tiden"}
+{"episode_id": 309, "segment_index": 812, "start": 2606.25, "end": 2608.25, "text": "om at de er opptatt av inflasjonen."}
+{"episode_id": 309, "segment_index": 813, "start": 2608.25, "end": 2610.25, "text": "De skal bekjempe inflasjonen hva det koster vil."}
+{"episode_id": 309, "segment_index": 814, "start": 2610.25, "end": 2612.25, "text": "Vi får også så power i fedt."}
+{"episode_id": 309, "segment_index": 815, "start": 2612.25, "end": 2614.25, "text": "Den trekker jo veldig mye paralleller tilbake"}
+{"episode_id": 309, "segment_index": 816, "start": 2614.25, "end": 2618.25, "text": "til Polfolker, den store fedtjefen"}
+{"episode_id": 309, "segment_index": 817, "start": 2618.25, "end": 2621.25, "text": "som virkelig bekjempet inflasjonen på till i 80-tal."}
+{"episode_id": 309, "segment_index": 818, "start": 2621.25, "end": 2625.25, "text": "Få jo intrikket av at de har tenkt å gå"}
+{"episode_id": 309, "segment_index": 819, "start": 2625.25, "end": 2626.25, "text": "ordentlig tilverkst denne gangen."}
+{"episode_id": 309, "segment_index": 820, "start": 2626.25, "end": 2629.25, "text": "Og ikke gjente feilen fra 70-80-tallet."}
+{"episode_id": 309, "segment_index": 821, "start": 2629.25, "end": 2631.25, "text": "Og de feilen med ikke setter brønta nok"}
+{"episode_id": 309, "segment_index": 822, "start": 2631.25, "end": 2635.25, "text": "og kutter for raskt når du ser at det går lårdere"}
+{"episode_id": 309, "segment_index": 823, "start": 2635.25, "end": 2636.25, "text": "med ekonomin."}
+{"episode_id": 309, "segment_index": 824, "start": 2636.25, "end": 2638.25, "text": "Det er det jeg intrykker jeg får hvertfall å se"}
+{"episode_id": 309, "segment_index": 825, "start": 2638.25, "end": 2640.25, "text": "i grafenet, og det tilser jo da"}
+{"episode_id": 309, "segment_index": 826, "start": 2640.25, "end": 2642.25, "text": "kanskje at vi ikke er helt ferdig"}
+{"episode_id": 309, "segment_index": 827, "start": 2642.25, "end": 2643.25, "text": "med rentoppgangen enn og en."}
+{"episode_id": 309, "segment_index": 828, "start": 2643.25, "end": 2644.25, "text": "Kanskje ikke helt."}
+{"episode_id": 309, "segment_index": 829, "start": 2644.25, "end": 2645.25, "text": "Takk til dere."}
+{"episode_id": 309, "segment_index": 830, "start": 2645.25, "end": 2648.25, "text": "Det er her hjemme som har spurt med"}
+{"episode_id": 309, "segment_index": 831, "start": 2648.25, "end": 2650.25, "text": "på sendingen, og takk til deg, Emil."}
+{"episode_id": 309, "segment_index": 832, "start": 2650.25, "end": 2651.25, "text": "Takk til deg, Olle."}
+{"episode_id": 309, "segment_index": 833, "start": 2651.25, "end": 2654.4, "text": "Ja, da takker du for det."}
+{"episode_id": 309, "segment_index": 834, "start": 2670.47, "end": 2672.47, "text": "Denne podcasten og detts innhold"}
+{"episode_id": 309, "segment_index": 835, "start": 2672.47, "end": 2675.47, "text": "skal anses som arkysføresmaterial fra DMB"}

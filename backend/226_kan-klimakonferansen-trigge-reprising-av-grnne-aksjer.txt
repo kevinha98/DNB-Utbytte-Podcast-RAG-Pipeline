@@ -1,0 +1,882 @@
+Episode 226: Kan klimakonferansen trigge reprising av grønne aksjer?
+Publisert: Sat, 16 Oc
+Vert: Marius Brun Haugen
+Gjest: Anne Margrethe Platou
+Varighet: 30 minutter
+Lytt her: https://play.acast.com/s/utbytte/kanklimakonferansentriggereprisingavgronneaksjer-
+
+--- Transkripsjon ---
+
+[00:00:06] Grønne aksjer, altså selskaper som gir eksponering mot fornybar industri og teknologi, har hatt motvind på børsen i år.
+
+[00:00:15] Er det sannsynlig at FNs klimakonferanse i Glasgow i starten av november vil markere startskuddet for en reprising for flere av børsens grønne håpefulle?
+
+[00:00:26] Det skal vi undersøke i dagens episode.
+
+[00:00:29] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen global økonomien og finansmarkedene.
+
+[00:00:48] Jeg er Marius Brunnhaugen fra DNB Markets, og i dagens episode skal jeg snakke med en bærekraftekspert, en forvalter og en analytiker.
+
+[00:00:59] Og så skal jeg sjekke inntjeningsestimater og handelsflyten i markedet for å se om det er grunnlag for å håpe på at klimakonferansen til FN skal skape fornyet entusiasme blant investorene i grønne aksjer.
+
+[00:01:13] Om investorene vil juble etter klimamøtet, det gjenstår å se.
+
+[00:01:18] Men jeg må innrømme at jeg middelbart er litt skeptisk, for vil ikke klimakonferansen fort kunne ende opp som en middels interessant kapitalmarkedsdag med mye prat og halvtåkte planer på strateginivå som er vanskelig å se for seg hvordan man skal lykkes med i praksis?
+
+[00:01:33] Det er ikke helt usannsynlig, men jeg må innrømme at jeg ikke kan nok om dette her, så vi må nesten starte med å finne ut hva klimakonferansen egentlig er, og hva den skal handle om.
+
+[00:01:49] Derfor skal jeg først ta en prat med Anne Margrethe.
+
+[00:01:52] Hun jobber fulltid med ESG, altså bærekraft, her i DNB, og hun startet for øvrig nettopp i en ny rolle som ESG-analytiker hos oss i DNB Markeds.
+
+[00:02:10] Hei Anne Margrethe.
+
+[00:02:11] Hei Marius.
+
+[00:02:12] Du, hva er COP26?
+
+[00:02:14] Vel, FN har mange konvensjoner, blant annet FNs konvensjon på klimaendringer fra 1992, hvor FN-landene har forpliktighet til å redusere klimapåvirkning.
+
+[00:02:27] Dette er en veldig rund formulering, så ordet COP, som da står for Conference of the Parties, er det årlige møte hvor nettopp klimakonvensjonens medlemmer,
+
+[00:02:37] altså nær 200 FN-land, skal enes og konkretisere hvordan de skal redusere klimapåvirkning.
+
+[00:02:46] I de 30 årene siden konvensjonen start, så har COP-ene blitt arrangert i ulike land, og alltid med variert grad av suksess.
+
+[00:02:54] Kyoto-protokollen, for eksempel.
+
+[00:02:56] Den fra COP3, den forpliktet industrialiserte land å sette klimamål og etablerte nettopp CO2-kvotehandel, som jo er en viktig markedsmekanisme.
+
+[00:03:08] Og de fleste husker nok Paris-avtalen fra COP21 i 2015, hvor COP-landene ble enige om å begrense temperaturøkning til 2 grader.
+
+[00:03:19] Så Kyoto og Paris, de regnes begge som suksess, mens andre av toppmøtene har gått litt i sånn rikk og natt.
+
+[00:03:26] Kort sagt da, COP, det er en litt sånn kronglete titel, men det er viktig at det er et viktig klimatoppmøte som setter retning.
+
+[00:03:36] Hva er det som gjør det ekstra vesentlig for investorer å følge med på klimakonferansen denne gangen?
+
+[00:03:42] Vel, tradisjonelt så har COP fått mindre fokus fra finansmarkedene, men nå anses klima i økende grad som en finansiell risiko.
+
+[00:03:52] Pluss at det er to år siden forrige COP på grunn av pandemien.
+
+[00:03:56] COP26 er litt spesiell.
+
+[00:03:59] Dessuten så er årets prioriteringer, som da COP-en alltid setter, de er absolutt relevante for finans.
+
+[00:04:06] Så første mål vil at alle skal sette 2030-mål for å nå såkalt netto-null-utslipp, altså net zero, i 2050.
+
+[00:04:16] For oss i Norge så er dette i tråd med de målene EU og Norge allerede har satt,
+
+[00:04:22] og hvor reguleringer for finansmarkedsfaktorer nå i verksettet,
+
+[00:04:26] så for oss er konsekvensene kanskje litt mindre på den siden.
+
+[00:04:29] Men dersom flere store land setter konkrete 2030-mål på for eksempel kullproduksjon eller elbiler,
+
+[00:04:37] og begge de er tema på konferansen, så kan det være veldig interessant.
+
+[00:04:42] Andre mål er å løfte temaet natur og biologisk mangfold,
+
+[00:04:47] og med det så ser vi konturene av at naturrisiko får økt finansiell betydning.
+
+[00:04:54] Altså hvordan endringer i naturen påvirker verdivurderingen av et selskap eller assets.
+
+[00:05:02] Konkrete mål innenfor naturrisiko ligger litt frem i tid, men det er interessant at det er på programmet.
+
+[00:05:08] Men så, Koppens tredje mål heter Mobilize Finance.
+
+[00:05:13] Så her løftes finans-specifikt, fordi FN innser et kapitalgap på minst 100 milliarder dollar per år fremover.
+
+[00:05:22] Så FN vil derfor...
+
+[00:05:24] Som EU allerede gjør, bruker nettopp finansmarkedsreguleringer til å dirigere kapitalflyt i grønn retning.
+
+[00:05:32] Dette er veldig positivt i den forstand at det skaper forutsigbarhet i kapitalmarkedene,
+
+[00:05:39] men trolig implementeringshassel på kort sikt.
+
+[00:05:42] Men disse tre målene til Koppens til tross, så er det en sak jeg gjerne vil følge litt med på,
+
+[00:05:48] og det går på krav rundt rapportering, transparans,
+
+[00:05:54] selve operasjonaliseringen av Parisavtalen.
+
+[00:05:58] Slike tema, det er sånn som typisk ikke får noe særlig store overskrifter,
+
+[00:06:02] men det er viktig for forutsigbarheten og dermed for kapitalflyten.
+
+[00:06:09] Så ja, store klimamål og milliarder og sånne ting, det er veldig bra,
+
+[00:06:13] men den rapporteringen er det som faktisk forplikter og driver endring.
+
+[00:06:18] Ja, det er veldig interessant det du sier der.
+
+[00:06:21] En annen ting som jeg har fundert litt på, og som slo meg,
+
+[00:06:26] det er at det vi nå ser skjer med både oljeprisen og energimarkedet generelt i verden,
+
+[00:06:34] det gir oss jo en kallet reality check på mange måter.
+
+[00:06:39] Man er utsolgt på gass, vi ser at strømprisene går til himmels,
+
+[00:06:44] kullkraftverk fyres opp, og oljetilspørselen den stiger.
+
+[00:06:49] Ja.
+
+[00:06:51] Vi har jo fått føle på kroppen hvor sårbare vi er når det ikke blåser eller regner,
+
+[00:06:57] og jeg har tenkt at kanskje dette her faktisk vil kunne virke samlende
+
+[00:07:03] og kunne ha potensialet til å føre noe positivt med seg,
+
+[00:07:08] gitt at det tvinger politikerne og andre beslutningstagere
+
+[00:07:12] til å lande flere konkrete tiltak under konferansen som går av stabelen i Glasgow.
+
+[00:07:19] Ja.
+
+[00:07:21] Ja, absolutt.
+
+[00:07:23] Vel, koppene de skiller seg nok litt fra andre toppmøter,
+
+[00:07:27] fordi klimamålet per definisjon er såpass langsiktig.
+
+[00:07:32] Dessuten så har koppen tett samarbeid med IPCC,
+
+[00:07:36] altså FNs vitenskapelige klimaarbeid,
+
+[00:07:39] og de ser på de store syklusene og er mindre preget av de kjappe omgivelsene,
+
+[00:07:45] hvis jeg kan si det sånn.
+
+[00:07:46] Men du er allikevel inne på noe for IPCC-rapporten fra august i år,
+
+[00:07:51] understreket av at klimaendringene skjer hurtigere enn ventet.
+
+[00:07:57] Og det i kombinasjon med at markedet nå føler klima- og energiendringer
+
+[00:08:04] ordentlig på lommeboken,
+
+[00:08:06] det øker nok forståelsen av hvordan energisystemene henger sammen,
+
+[00:08:11] og hvor mye klimaløsningene avhenger av internasjonalt samarbeid.
+
+[00:08:18] Dette med samhandling står jo for øvrig også på COP26-agenda.
+
+[00:08:21] Så jeg synes det også er litt ironisk at konferansen holdes i Storbritannia,
+
+[00:08:26] som nå både har gjenstartet kulekraftverk og har meldt seg ut av EU-samarbeidet.
+
+[00:08:32] Så vi får se hvordan det går.
+
+[00:08:34] Og så må jeg si det at jeg innser også at resonemanget mitt ganske lett kan argumenteres imot.
+
+[00:08:42] For politikerne er nok, vil jeg tro, på mange måter relativt maktesløse på en måte
+
+[00:08:47] mot energikrisen nå på kort sikt.
+
+[00:08:49] Så jeg tipper at ganske mange er redde for at de skyhøye energiprisene
+
+[00:08:55] skal vende opp nionen mot klimapolitikken og det grønne skiftet.
+
+[00:09:00] Hvis man velger å se saken fra den siden,
+
+[00:09:03] så vil det jo bli vanskeligere, skulle man tro,
+
+[00:09:06] å få gjennom noe på klimamøtet som de grønne investorene etter hvert vil juble for.
+
+[00:09:14] Men nok om det nå, hvis vi skal være realistiske,
+
+[00:09:17] hva vil du si er det absolutt beste?
+
+[00:09:19] Det nære knyttet til utfallet av klimakonferansen er,
+
+[00:09:24] altså det som vi får deg, Anne-Margrette, til å smile fra øre til øre.
+
+[00:09:28] Vel, husk at det er jo nær 200 parter som skal enes,
+
+[00:09:33] og vi får ikke alltid de store utfallene fra KOP.
+
+[00:09:37] Så min litt mer sånn moderate forhåpning, som jeg var litt inne på i sted,
+
+[00:09:42] går jo nettopp på dette med rapporteringskrav.
+
+[00:09:45] For dette vil gi igjen forutsigbarhet,
+
+[00:09:47] som igjen gir økt kapitalflyt.
+
+[00:09:51] Så det er det jeg vil se etter da.
+
+[00:09:54] Men hvem vet, jeg vil også tro at vår nye rødgrønne klimaminister,
+
+[00:09:59] som snart kommer, sikkert veldig gjerne vil begynne til sjansen
+
+[00:10:02] til å overgå vår forrige klimaminister,
+
+[00:10:05] så vi kan få noen overraskelser.
+
+[00:10:08] Ja, det blir spennende å se.
+
+[00:10:10] Takk skal du ha, Anne-Margrette.
+
+[00:10:11] Nå skal jeg ta meg en tur videre til Audion.
+
+[00:10:14] Jeg tenker det er greit å få input også fra,
+
+[00:10:17] en som sitter på forvaltningssiden,
+
+[00:10:19] og høre hva han mener om saken.
+
+[00:10:23] Så ha det bra.
+
+[00:10:24] Ha det.
+
+[00:10:26] Audion Vikstrand Iversen jobber som forvalter i D&B Asset Management,
+
+[00:10:31] og er alltid interessant å prate med.
+
+[00:10:34] Han har vært med på podcasten mange ganger før,
+
+[00:10:37] og forvalter blant annet bærekraftsfondet Future Waves.
+
+[00:10:41] Så vi har avtalt en kaffeprat,
+
+[00:10:43] så nå er jeg klar for både Fairtrade og resirkulerte pappkrus.
+
+[00:10:48] Hei Audion.
+
+[00:10:52] Det er godt å se deg igjen.
+
+[00:10:54] Jeg trenger noen vurderinger rundt COP26 fra deg,
+
+[00:10:58] som sitter på investorsiden.
+
+[00:11:00] Du har jo vært i G med lenge,
+
+[00:11:02] og kjenner bærekraftstematikken godt.
+
+[00:11:06] Klimakonferansen til FN har jo vært arrangert hvert år siden 1995,
+
+[00:11:10] så dette her er den 26. konferansen i rekken.
+
+[00:11:14] Så litt historikk, det har vi jo å jobbe med.
+
+[00:11:17] Hvis vi starter med historien,
+
+[00:11:19] har klimakonferansen trigget reprising av grønne aksjer før?
+
+[00:11:26] Nei, den har ikke det.
+
+[00:11:28] Ikke så lenge jeg kan huske,
+
+[00:11:30] og jeg tror det nærmeste vi kommer er vel den perioden rundt 2006 og 2007,
+
+[00:11:36] hvor vicepresident Al Gore reiser rundt med sin dokumentar.
+
+[00:11:40] Og det skapte jo enorm engasjement.
+
+[00:11:43] Fordi jeg også husker litt tilbake igjen,
+
+[00:11:45] så var det jo også en film som han vant Nobelpris,
+
+[00:11:50] og så var det jo også en film som han vant Nobelprisen på seg,
+
+[00:11:52] så det sier jo noe om omfanget som det fikk.
+
+[00:11:54] Selve disse klimakonferansene har jo vært veldig mye politisk retorikk.
+
+[00:11:58] Det har dreist seg om å enes om noen felles uttalser,
+
+[00:12:03] og så lage nasjonale og regionale virkemidler i underkant.
+
+[00:12:08] Det er sjeldent noe som man ikke blir veldig glad for å høre om,
+
+[00:12:12] men samtidig er det utrolig viktige statements om hvordan man tror,
+
+[00:12:16] og hvordan man skal løse disse felles utfordringene som vi har.
+
+[00:12:20] Men nå har vel klimantrendet aldri vært så høyt på agendaen som det det er nå,
+
+[00:12:27] men som du er inne på, altså dersom klimakonferansen skal trigge inn reprising av grønne aksjer,
+
+[00:12:33] så vil jeg jo tro at det må komme et eller annet som enten reduserer usikkerhet,
+
+[00:12:39] eller øker vekstforventningene.
+
+[00:12:42] Er det sannsynlig, slik du ser det, at vi får noe som er konkret nok?
+
+[00:12:47] Ja.
+
+[00:12:48] Ikke sant?
+
+[00:12:49] Det er jo veldig ofte sånn, når vi aksjefolk prater om trigger,
+
+[00:12:52] så er det jo veldig ofte at et par ting skjer samtidig.
+
+[00:12:55] Og noe av det som har skjedd nå i høst, som kalde oppspill til hele toppmøtet i Glasgow,
+
+[00:13:01] det er jo dette med energipriser.
+
+[00:13:03] Og veldig mye av klimarisiko, det dreier seg om hvordan vi forbrenner energi,
+
+[00:13:09] hvordan vi får strøm.
+
+[00:13:11] Og nå står vi plutselig opp i en energikrise, en global energikrise.
+
+[00:13:15] Og den har noen veldig dumme og uheldige mennesker,
+
+[00:13:17] blant annet med at nå fyrer man opp dieselaggregatene igjen,
+
+[00:13:20] man planlegger enda flere kullkraftverk,
+
+[00:13:22] og man kjøper inn kull og dytter inn på lagrene slik at man har sikret energiforsikring gjennom vinteren.
+
+[00:13:29] Så det som er veldig synd med dette klimatoppmøtet,
+
+[00:13:33] er at man allerede har brukt opp all retorikken på hvor langt man vil komme i 2030.
+
+[00:13:38] For hvis man begynner nå å si at vi skal ha enda lavere klimaerslep,
+
+[00:13:42] så begynner man å misse troverdighet.
+
+[00:13:45] Så det er en sånn type toppmøte som kommer inn litt sånn bakveien,
+
+[00:13:49] for det skulle egentlig vært en veldig sånn fin sånn forspillmusikk til toppmøtet.
+
+[00:13:54] Og så blir det litt sånn bismak,
+
+[00:13:56] for at de sier også noe om hvilke motkrefter som kan komme på banen,
+
+[00:14:00] og som deler seg å komme på banen,
+
+[00:14:02] og da er det ofte sånn mer kull,
+
+[00:14:05] og atom er det noe man diskuterer,
+
+[00:14:07] vi i Norge har jo vår egen diskusjon med gass og så videre.
+
+[00:14:10] Men så er stemningsskiftet i Europa i forhold til norsk klima,
+
+[00:14:14] har jo vært ganske entydig,
+
+[00:14:17] og det er at nå blir vi jo gratulert med å ha hyllet fordi vi har gass,
+
+[00:14:21] og så er det ikke sikkert at det kommer til å være sånn om 12 måneder,
+
+[00:14:23] men det er sånn det akkurat er nå,
+
+[00:14:25] fordi man står med midt opp i den energikrisen.
+
+[00:14:27] Så bakteppet er sånn at ja, vi trenger mer energi.
+
+[00:14:32] Så noe av det som kommer til å komme ut er sånn,
+
+[00:14:34] hvordan kan vi komme ut av denne energikrisen?
+
+[00:14:37] Og det finnes jo ikke noen sånne veldig gode korte svar på det,
+
+[00:14:41] men en av de sektorene som jeg tenker som kan komme ut som
+
+[00:14:44] en veldig god vinner ut av denne diskusjonen,
+
+[00:14:47] i hvert fall hvis den tar den formen,
+
+[00:14:49] det er solenergi.
+
+[00:14:50] Fordi det tar tre til ni måneder å bygges et stort solkraftanlegg.
+
+[00:14:55] Så jeg vil si at da kan man ha kapasitet til neste vinter.
+
+[00:14:59] Vind på land tar 12 måneder,
+
+[00:15:02] å bygge ut mer gass og kull og sånt tar flere år.
+
+[00:15:05] Så hvis man ønsker å si at vi er villige til å stasse enda mer på solen,
+
+[00:15:10] så er det teknisk mulig å øke produksjonen en god del.
+
+[00:15:13] Og det kan godt tenkes at det er et sånt type svar
+
+[00:15:16] som vi kommer til å tygge på etter toppmøtet.
+
+[00:15:18] Så ja, ok, dette ble bra for solen.
+
+[00:15:20] Og så vet jeg, og det er dels også med det tyske valget,
+
+[00:15:24] hvor de grønne nå har fått en fin maktposisjon,
+
+[00:15:27] at de kommer til å prate mye mer om hydrogen.
+
+[00:15:29] Og det er noe som vi i Norge er opptatt av,
+
+[00:15:31] og vi deler jo ofte mellom sånn blå og grønn hydrogen.
+
+[00:15:34] Og det er jo særlig den grønne hydrogenen man er opptatt av,
+
+[00:15:36] det vil si at man produserer hydrogen bare basert på fornybar energi.
+
+[00:15:41] Mens vi i Norge, vi bruker gass,
+
+[00:15:43] og da blir den blå.
+
+[00:15:45] Men hydrogen som en del av energimiksen,
+
+[00:15:48] tror jeg vi kommer til å høre enda mer om etter toppmøtet.
+
+[00:15:51] Og så er det, for i mestårig, så er det likevel en lang vei å gå,
+
+[00:15:54] fordi at man er ikke helt der ved å kunne selge gode produkter enda.
+
+[00:15:59] Bakteppet som jeg tror de fleste husker,
+
+[00:16:01] altså 2019-2020 var veldig gode år for grønne aksjer,
+
+[00:16:06] og så har 2021 vært utfordrende.
+
+[00:16:08] Altså avslutningsvis, Audun,
+
+[00:16:10] altså er det noe grunn til å være urolig for at COP26 skal ha
+
+[00:16:13] en slags motsatt effekt på markedet?
+
+[00:16:16] Altså om klimatoppmøtet ikke resulterer i noe?
+
+[00:16:19] Altså at det vi ser som følge av det,
+
+[00:16:23] er at investorene da reduserer,
+
+[00:16:26] fortsetter å redusere eksponeringen sin.
+
+[00:16:29] Altså at politikerne rett og slett,
+
+[00:16:31] for å si det på godt norsk,
+
+[00:16:32] sauser det til såpass mye under dette møtet,
+
+[00:16:34] at det bidrar til et enda dårligere sentiment for grønne aksjer.
+
+[00:16:38] Er det noe å være redd for?
+
+[00:16:40] Man skal alltid være varsom,
+
+[00:16:41] når man har med så britt,
+
+[00:16:42] så brede politiske møter å gjøre,
+
+[00:16:45] altså gjerne en sånn type internasjonal karakter.
+
+[00:16:47] Men jeg tror det bakteppet som er tegnet om alt,
+
+[00:16:50] og som man har veldig mye dokumentasjon på,
+
+[00:16:53] gjør at man kommer til å,
+
+[00:16:56] om man ikke ender opp med å kjøpe aksjer,
+
+[00:16:59] akkurat de dagene,
+
+[00:17:00] så tror jeg i hvert fall ikke man kommer til å enda opp med å selge de.
+
+[00:17:02] For det er ikke så mange andre måter
+
+[00:17:05] å få til et grønt skift på,
+
+[00:17:07] en eller annen kombinasjon av hydrogen, sol og vind,
+
+[00:17:10] og kanskje litt atom,
+
+[00:17:11] kanskje litt gass,
+
+[00:17:12] men poenget er bare at det skal bygges og investeres
+
+[00:17:16] så ufattelig mye de neste ti årene,
+
+[00:17:18] at med mindre politikerne bløffer,
+
+[00:17:20] og da tror jeg de ikke blir gjenvalgt,
+
+[00:17:22] så kommer dette bakteppet til å være så sterkt,
+
+[00:17:25] at det er mer fristende å kjøpe aksjer enn å selge de.
+
+[00:17:29] Bra Audun, tusen takk for hjelpen.
+
+[00:17:33] Dette her var uten tvil veldig nyttig.
+
+[00:17:36] Nå skal jeg videre og se litt på både inntjeningsestimater
+
+[00:17:41] og pengeflyten i markedet,
+
+[00:17:44] og så får vi se hva jeg får ut av det.
+
+[00:17:47] Vi vet at avkastningen generelt ikke har vært god
+
+[00:17:56] i grønne aksjer hittil i år.
+
+[00:17:58] Derfor er det også interessant å ta en avsjekk
+
+[00:18:01] på hva investorene faktisk gjør.
+
+[00:18:04] En titt på pengeflyten i et stort børshandlet fond,
+
+[00:18:08] iShares Global Clean Energy,
+
+[00:18:10] viser en massiv inngang i fondet,
+
+[00:18:13] altså at det har blitt kjøpte andeler
+
+[00:18:15] for langt mer enn det har blitt solgt for
+
+[00:18:17] på starten av året.
+
+[00:18:19] Deretter har det flatet ut.
+
+[00:18:22] Tilsvarende finner jeg når jeg ser på pengeflytene
+
+[00:18:25] i flere av DNBs grønne fond.
+
+[00:18:27] De er godt nettokjøpt i år,
+
+[00:18:29] men ettersom avkastningen har sklidd utover året,
+
+[00:18:32] så har nettokjøp på månedsbasis blitt til nettosalg
+
+[00:18:36] i løpet av de siste månedene.
+
+[00:18:39] Dog er det ingen tegn til investorpanikk,
+
+[00:18:42] at man selger fonden og tar ut penger.
+
+[00:18:44] Og når jeg ser på privatkundeaktiviteten
+
+[00:18:48] i noen av de store grønne aksjene
+
+[00:18:51] i hovedindeksen på Oslo Børs,
+
+[00:18:53] sånn som Nell, Tomra, Skatex Solar og Vov,
+
+[00:18:57] så ser jeg at verdien det har blitt kjøpt og solgt for
+
+[00:19:00] i disse aksjene i de fleste tilfeller
+
+[00:19:03] er blitt kraftig redusert,
+
+[00:19:05] eller i hvert fall har flatet ut i år.
+
+[00:19:08] Noe som kanskje ikke er så overraskende,
+
+[00:19:10] det er vel til en viss grad en innspeiling av at
+
+[00:19:12] aksjekursene har falt tilbake,
+
+[00:19:14] og at sentimentet har blitt tyngre.
+
+[00:19:17] Men også når jeg ser på konsensusestimatene,
+
+[00:19:20] altså snittet av inntjeningsforventningene
+
+[00:19:23] til analytikerne for de samme aksjene,
+
+[00:19:26] så har de i stort sett blitt nedjustert
+
+[00:19:28] til dels kraftig i år.
+
+[00:19:32] Så med det så gjenstår det egentlig bare
+
+[00:19:34] én ting før vi konkluderer,
+
+[00:19:37] nemlig å se på risikomomenter for de grønne aksjene.
+
+[00:19:41] Og forventninger om stadig høyere renter,
+
+[00:19:45] det er elefanten i rommet her, tenker jeg.
+
+[00:19:48] Så derfor er det best å stemme av med Paul Harper
+
+[00:19:52] før jeg konkluderer.
+
+[00:19:54] Paul, nå har jeg satt meg litt inn i hva COP26 handler om,
+
+[00:20:05] og hvordan de som sitter på forvaltersiden
+
+[00:20:07] tenker rundt dette,
+
+[00:20:08] men jeg trenger dine gode innspill om et par ting.
+
+[00:20:11] Det ene, det er høyere renter,
+
+[00:20:14] for jeg frykter rett og slett at høyere renter,
+
+[00:20:17] da særlig hvis forventningene om høyere renter
+
+[00:20:21] eskalerer fra dagens nivå,
+
+[00:20:23] vil veie mye tyngre i det korte bildet
+
+[00:20:26] enn positive signaler som politisk vilje,
+
+[00:20:29] flere reguleringer og enighet om økte rapporteringskrav
+
+[00:20:33] og samarbeid på tvers av land.
+
+[00:20:36] Hva tenker du?
+
+[00:20:37] Jeg tror du har helt rett at kommer rentene opp,
+
+[00:20:40] så er det en motvind for dette type selskap.
+
+[00:20:43] Så noe vi har sett det siste året har jo vært nettopp det at
+
+[00:20:47] selskap med lav inntjening eller negativ inntjening
+
+[00:20:51] korrelerer egentlig ganske likt med mye av disse grønne selskapene
+
+[00:20:55] som også da har lav inntjening.
+
+[00:20:57] Så det har vært nettopp den frykten at selskap hvor inntjening kommer
+
+[00:21:02] langt frem i tid blir jo da relativt sett mindre verdt
+
+[00:21:06] hvis du må diskontere den inntjeningen med en høyere rente.
+
+[00:21:10] Så det er jo klart at det er en motvind.
+
+[00:21:13] Og så må vi også huske at mye av det med det grønne skiftet,
+
+[00:21:17] det kommer ikke uten kostnader.
+
+[00:21:19] Og disse kostnadene da får plante seg gjennom verdikjeden.
+
+[00:21:23] Og etter hvert så kommer jo det også ut til konsumentene
+
+[00:21:26] som gjør at du da får høyere konsumpriser på grunn av dette også.
+
+[00:21:30] Og høyere konsumpriser blir jo da enda en grunn eventuelt
+
+[00:21:34] for sentralbanken å måtte sette opp rentene et hakk til.
+
+[00:21:38] Så dette her er noe som kan slå ut noe negativt for denne type aksjen,
+
+[00:21:43] men også i seg selv utløse noe høyere renter.
+
+[00:21:46] I tillegg da så har vi denne nåværende situasjonen
+
+[00:21:49] med høye energipriser som har medført økt bruk av brun energi.
+
+[00:21:55] Og min første tanke innledningsvis,
+
+[00:21:58] det var jo at dette ville kunne potensielt føre til
+
+[00:22:02] økt handlekraft inn mot klimamøte.
+
+[00:22:05] Men etter å ha liksom fundert litt mer på dette og diskutert det,
+
+[00:22:09] så er jeg egentlig redd for at dette likegjerne kan slå negativt ut som positivt.
+
+[00:22:15] Nettopp fordi at politikerne ikke vil risikere å få opinionen imot seg.
+
+[00:22:21] De står litt i en skvis.
+
+[00:22:24] Så jeg synes i hvert fall ikke det er lett å trekke noen klar konklusjon ut av nettopp dette.
+
+[00:22:30] Hva tenker du om det?
+
+[00:22:32] Altså bildet har jo absolutt blitt noe mer nyansert det siste året,
+
+[00:22:36] for nå blir jo noen av disse kostnadene litt mer synlige.
+
+[00:22:39] Så vi ser det først og fremst i strømprisene.
+
+[00:22:43] Som du sier, så er jo dette noe som slår ikke nødvendigvis jevnt ut.
+
+[00:22:47] Det er gjerne de med lavere inntekt som får en større hit med høyere strømpriser,
+
+[00:22:53] eller det er en større del av deres inntekter da går til faste utgifter.
+
+[00:22:58] Så det er en utfordring for politikerne både å kommunisere dette på en fornuftig måte,
+
+[00:23:04] men også å finne en måte å kompensere de som kommer dårligst ut av dette her,
+
+[00:23:10] uten at det da skaper en oppsikting.
+
+[00:23:13] En mer negativ stemning til hele den grønne skiftet.
+
+[00:23:17] Så dette er noe hvor politikerne må klare å kommunisere godt og komme med fornuftige løsninger,
+
+[00:23:22] hvis dette skal klare å fortsette i en positiv måte.
+
+[00:23:26] Og når det gjelder estimater og pengeflyt som vi også har sett på,
+
+[00:23:31] så ser vi jo det at pengene inn i grønt til en ganske stor grad har stoppet opp,
+
+[00:23:38] men folk har heller på ingen måte startet å trekke ut penger
+
+[00:23:42] i store kvanter.
+
+[00:23:44] Så det virker som det er en litt sånn vent og seholdning nå.
+
+[00:23:49] Estimatene som vi jo også har sett på til noen av de utvalgte norske grønne selskapene,
+
+[00:23:56] de er stort sett alle på vei nedover, og det i seg selv er jo ikke positivt,
+
+[00:24:02] men det kan jo også bety at det ikke skal så mange positive nyheter til da,
+
+[00:24:06] for å bedre sentimentet litt i markedet, eller hva?
+
+[00:24:10] Ja, som du sier så er det jo mange av disse selskapene som har skuffet med de oppdateringene som har kommet,
+
+[00:24:16] og det har jo vært noe av grunnen til at vi har hatt negative anbefalinger,
+
+[00:24:20] både på Nell og Skatec blant annet, at selskapet som er i en forholdsvis underutviklet bransje,
+
+[00:24:28] opplever gjerne at det tar litt lengre tid enn man kanskje i utgangspunktet hadde håpet,
+
+[00:24:33] for å utvikle teknologien og komme opp i marsfatt.
+
+[00:24:37] Så jeg tror for en investor,
+
+[00:24:38] så er det lettere å være positivt på lang sikt innenfor det grønne skiftet,
+
+[00:24:43] enn på kort sikt.
+
+[00:24:44] Kort på kort sikt så er det jo mye rart som kan skje,
+
+[00:24:47] og det er mye vanskeligere å være veldig sikker på.
+
+[00:24:51] Så de parallellene tilbake til internett,
+
+[00:24:54] synes jeg er veldig relevante når man ser på det grønne skiftet.
+
+[00:24:58] At på slutten av 90-tallet,
+
+[00:25:00] så for de aller fleste da, med kanskje unntak av Paul Krugman og noen få andre,
+
+[00:25:05] så var det åpenbart at nettet skulle bli stort,
+
+[00:25:08] og ingen tok feil på akkurat det,
+
+[00:25:11] men det var allikevel veldig mange internettselskap,
+
+[00:25:14] som gikk på en voldsom smell i 2000, 2001, 2002 og så videre.
+
+[00:25:19] Så det er vanskelig å vite om de grønne selskapene som er på børs i dag,
+
+[00:25:23] kommer til å være de som sitter igjen som de langsiktige vinnere,
+
+[00:25:26] eller om det kommer til å være selskap vi aldri har hørt om enda,
+
+[00:25:29] som ender opp å være det Google og Facebooks av det grønne skiftet.
+
+[00:25:33] Ja, og med det så er vi jo godt på vei inn i konklusjonen,
+
+[00:25:38] Paul, og basert på denne lille miniøvelsen som vi har gjort da i denne episoden,
+
+[00:25:44] selvfølgelig med forbehold om alle de forenklinger og begrensede undersøkelser vi har foretatt,
+
+[00:25:50] så synes jeg ikke at vi har grunnlag for å si at det er sannsynlig at klimamøtet i seg selv
+
+[00:25:56] skal markere startskuddet for en reprising av grønne aksjer.
+
+[00:26:01] I hvert fall ikke uten drahjelp av andre ytre faktorer,
+
+[00:26:06] som for eksempel renten.
+
+[00:26:09] Ja, jeg synes det er vanskelig egentlig å se for seg at det kommer noe såpass konkret på dette tidspunktet
+
+[00:26:18] at det kommer til å slå voldsomt ut.
+
+[00:26:20] Det er jo alltid mulig at det kan komme et eller annet,
+
+[00:26:23] men jeg tror kanskje det viktigste her er til hvilken grad man får langsiktig forutsigbarhet rundt dette,
+
+[00:26:32] og selv om det kanskje ikke slår ut så voldsomt i aksjekursene,
+
+[00:26:35] umiddelbart så har det egentlig mer å si hvis man skal se på investeringer i et lengre tidshorisont.
+
+[00:26:43] At det er nettopp den muligheten til å kunne ha litt forutsigbarhet til å tørre å investere mer i dette her,
+
+[00:26:50] som jeg tror kanskje blir det aller viktigste.
+
+[00:26:53] Og som Audun var inne på, så kan det bli ekstra interessant blant annet å følge med på sol fremover.
+
+[00:27:03] Det er kanskje der det er størst...
+
+[00:27:04] I hvert fall at det er mulighet til å gjøre en del mer i det korte bildet,
+
+[00:27:11] mens en del andre energikilder tar lengre tid å stable på bena.
+
+[00:27:17] Også hadde du et poeng på,
+
+[00:27:19] at det blir interessant å høre hva for noe eventuelt nytt som kommer rundt gass i tiden framover.
+
+[00:27:27] Hva land og politikere tenker rundt det?
+
+[00:27:30] Ja, så dette er egentlig dette med overgangsteknologi.
+
+[00:27:35] For noe vi har skjønt kanskje litt tydeligere nå de siste ukene,
+
+[00:27:40] er at gass er en viktig del av prosessen med å få ned CO2 på kort sikt,
+
+[00:27:47] selv om det fremdeles produseres en del CO2.
+
+[00:27:50] For det vi har opplevd nå som gassprisen har skutt i været,
+
+[00:27:54] er at kullkraftverket har måttet starte opp igjen.
+
+[00:27:57] Skip som har vært konvertert til å kunne kjøre på LNG for eksempel,
+
+[00:28:01] LNG for eksempel har begynt å kjøre på bunkersolje igjen,
+
+[00:28:05] så vi har sett at konsekvensene av høye gasspriser har vært å øke CO2-trykket.
+
+[00:28:13] Så jeg tror det er i hvert fall noe klarere nå at det å sørge for at man har nok gass,
+
+[00:28:21] er et tiltak som har en betydelig effekt på hvor mye CO2 som blir produsert på kort sikt,
+
+[00:28:29] og så får man heller fase det ut når man kommer litt lenger gjennom prosessen
+
+[00:28:34] med å utvikle sol og vind og andre energikilder.
+
+[00:28:38] Så jeg tror akkurat det er noe som kanskje blir litt tydeligere for enkelte politikere,
+
+[00:28:44] og vi har jo hatt noen av de mer ivrige grønne aktivistene som har ment at man skal kutte ut gass umiddelbart også,
+
+[00:28:53] og nå ser vi egentlig konsekvensene av hva det vil bety, at når energibehovet er der,
+
+[00:28:58] så blir det bare til at man da heller bruker skittnere teknologi i stedet for.
+
+[00:29:02] Og for å markere et punktum for episoden, så kan vi avslutte med at som grønn investor,
+
+[00:29:10] så er COP26 definitivt en begivenhet man skal holde et øye på å få med seg,
+
+[00:29:17] og selv om sentimentet og aksjekursutviklingen er i disfavor av grønne aksjer akkurat nå,
+
+[00:29:23] så er det veldig mye som taler for at det vil oppstå mange gode investeringsmuligheter,
+
+[00:29:28] i årene som kommer, og det å ta i med markedet, det er alltid vanskelig, det vet vi,
+
+[00:29:34] og en langsiktig tilnærming til investering i aksjer, det er som regel et godt utgangspunkt for de aller fleste av oss,
+
+[00:29:41] og slik markedet er for grønne aksjer nå, så er nok langsiktighet og diversifisering ekstra viktig.
+
+[00:29:47] Denne episoden er klippet og redigert av Kim André Farago og Iver Nese.
+
+[00:29:59] Takk også til Anne Margrethe Plato, bærekraftsanalyser,
+
+[00:30:02] bærekraftsanalytikeren vår i Denbe Markets,
+
+[00:30:05] Audun Vikstrand Iversen, forvalter av fondene DNB Disruptive og DNB Future Waves,
+
+[00:30:10] og Paul Harper, aksjestrateg her i Denbe Markets, som alle stilte velvillig opp for å lage denne episoden.
+
+[00:30:17] Takk også til min kollega Ole Andreas Krohn for god sparring i planleggingen,
+
+[00:30:23] og sist men ikke minst kan jeg ta med at mer informasjon om DNBs bærekraftambisjoner,
+
+[00:30:29] det finner du på våre nettsider.
+
+[00:30:31] Det samme gjelder informasjon om de bærekraftsrettede fondene man kan handle via DNB.
+
+[00:30:37] Og i aksjeanalysene til DNB Markets, som er tilgjengelig på innloggede sider i aksjehandelsløsningen i Nettbanken,
+
+[00:30:45] finner du også grunnlige bærekraftsvurderinger til hvert enkelt selskap på side 3 i rapporten.

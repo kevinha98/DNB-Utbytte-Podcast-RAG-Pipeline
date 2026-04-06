@@ -1,0 +1,627 @@
+{"episode_id": 104, "segment_index": 0, "start": 0.05, "end": 7.05, "text": "Det er snart tre månedersiden Norge innførte de strengeste og mest ingrippende tiltakene i fredstid."}
+{"episode_id": 104, "segment_index": 1, "start": 7.05, "end": 16.05, "text": "Vi har veldig konsekvensene for både næringslivet, og folk flest ble raskt synlig med bland annet stengte foretninger og masse permiteringer."}
+{"episode_id": 104, "segment_index": 2, "start": 16.05, "end": 25.3, "text": "Det tross for flere krisepaker fra regjeringen og bankers ville til å finne løsninger sammen med kundene er det mange bedrifter som sliter."}
+{"episode_id": 104, "segment_index": 3, "start": 25.3, "end": 37.3, "text": "De samlede konsekvensene for næringsliv og enkelt mennesker, de er vanskelig å forestille seg, men allerede nå vet vi at regjeringen, den blir høy og vil bare øke framover."}
+{"episode_id": 104, "segment_index": 4, "start": 37.3, "end": 52.3, "text": "Miljøredene har sittet løst, sin koronakrisen og de påfolgende tiltakene lader av norske næringslivbrakken og har regjeringen lagt fram proposisjonen Norge ut av krisen, som er den siste i en rekke krisepaker."}
+{"episode_id": 104, "segment_index": 5, "start": 52.3, "end": 58.3, "text": "Så hvordan blir Norge's vei ut av krisen? Ja, det skal vi diskutere i denne episoden."}
+{"episode_id": 104, "segment_index": 6, "start": 60.72, "end": 73.97, "text": "Velkommen til Utbytte, DNB-polkasten, der vi får klare hva som skjer i den globale økonomien og finansmarkedene."}
+{"episode_id": 104, "segment_index": 7, "start": 73.97, "end": 82.97, "text": "Jeg er Marius Brunhaugen fra DNB Markets, og i dag har jeg med meg Kari Ålrede Mån. Velkommen hit."}
+{"episode_id": 104, "segment_index": 8, "start": 82.97, "end": 83.97, "text": "Tusen takk."}
+{"episode_id": 104, "segment_index": 9, "start": 85.26, "end": 92.26, "text": "Du er statssekretær for Høyre i Finansdepartementet og et kjent fjes for oss i DNB."}
+{"episode_id": 104, "segment_index": 10, "start": 92.26, "end": 102.26, "text": "Du har blant annet vært konserndirektør for strategiske prosjekter og sørget for nye innovasjoner i banken, og det er ikke dårlig."}
+{"episode_id": 104, "segment_index": 11, "start": 102.26, "end": 109.26, "text": "I tillegg har du blant annet også vært styrrelader ved NOH, og dette tror jeg skal bli veldig spennende og ikke minst interessant."}
+{"episode_id": 104, "segment_index": 12, "start": 110.26, "end": 115.26, "text": "Men før vi hører fra deg, Kari, så må vi også introducere den andre gjesten vår."}
+{"episode_id": 104, "segment_index": 13, "start": 115.26, "end": 120.26, "text": "Det er ingen ringere enn vår egen, chefokonom Kersti."}
+{"episode_id": 104, "segment_index": 14, "start": 120.26, "end": 121.26, "text": "Hei, hei, Kersti."}
+{"episode_id": 104, "segment_index": 15, "start": 121.26, "end": 123.26, "text": "Hei, og takk for den røye introduksjonen."}
+{"episode_id": 104, "segment_index": 16, "start": 123.26, "end": 126.26, "text": "Ja, bare hyggelig. Det er sånn Kersti. Det vet du lytter."}
+{"episode_id": 104, "segment_index": 17, "start": 126.26, "end": 137.26, "text": "Vi har laget mange podcaster de siste månene, men i dag er det første gang vi er i samme rom siden Norge stengte ned når vi spiller inn en podcast."}
+{"episode_id": 104, "segment_index": 18, "start": 137.26, "end": 147.26, "text": "Det synes jeg er litt fint. Det får vi bare ta nå synes jeg er som et av flere tegn på at ting er på vei tilbake til en slags normal, eller hva?"}
+{"episode_id": 104, "segment_index": 19, "start": 147.26, "end": 151.26, "text": "Definitivt et av flere positive tegn når det er sista."}
+{"episode_id": 104, "segment_index": 20, "start": 151.26, "end": 156.26, "text": "Men som sagt, Kari, tenkte vi skulle starte med å høre litt fra deg og rett på sak."}
+{"episode_id": 104, "segment_index": 21, "start": 156.26, "end": 160.26, "text": "Hvor dyp mener regjeringen at krisen er akkurat nå?"}
+{"episode_id": 104, "segment_index": 22, "start": 160.26, "end": 169.26, "text": "Nei, den er jo dyp, og den blir dyp, men akkurat nå er vi på vei, vil jeg si, fra en fase til en annen."}
+{"episode_id": 104, "segment_index": 23, "start": 169.26, "end": 176.26, "text": "Vi har vært igjen om en aller første runde som var, jeg tror, for veldig mange av oss dramatisk nok."}
+{"episode_id": 104, "segment_index": 24, "start": 176.26, "end": 187.26, "text": "Med mange som ble permittert, og det var jo helt surrealistisk å gå rundt i Oslo fordi jeg som var fysisk på jobben."}
+{"episode_id": 104, "segment_index": 25, "start": 187.26, "end": 195.26, "text": "Så det var en spøkelsesby, helt stille på tebanen i rørstiden, og litt tendenser til hamstring i butikkenet."}
+{"episode_id": 104, "segment_index": 26, "start": 195.26, "end": 200.26, "text": "Det er jo noe ingen av oss opplevd, og trodde vi kanskje skulle oppleve."}
+{"episode_id": 104, "segment_index": 27, "start": 200.26, "end": 206.26, "text": "Så vi var jo der i en litt sånn sjokkartet tilstand."}
+{"episode_id": 104, "segment_index": 28, "start": 206.26, "end": 219.26, "text": "Og tiltakspakker og virkemidler der etter det handler om nødhjelp til bedrifter og inntektsikring for enkeltmensker."}
+{"episode_id": 104, "segment_index": 29, "start": 219.26, "end": 225.26, "text": "Så da var det egentlig bare å, det var tempo som jeg alt å kjøre på det vi klarte,"}
+{"episode_id": 104, "segment_index": 30, "start": 225.26, "end": 229.26, "text": "og ha veldig fokus på at dette måtte skje raskt."}
+{"episode_id": 104, "segment_index": 31, "start": 229.26, "end": 233.26, "text": "Vi kunne ikke få det helt perfekt, men det måtte skje raskt, og det gjorde det."}
+{"episode_id": 104, "segment_index": 32, "start": 233.26, "end": 242.26, "text": "Så det var den første fasen, og nå er vi jo over i en litt mer sånn en fase hvor vi må tenke mye mer."}
+{"episode_id": 104, "segment_index": 33, "start": 242.26, "end": 250.26, "text": "Ikke handle så fort, men tenke mer, og fortsatt holde tempo, men ingen vet jo nå hva som egentlig skjer fremover,"}
+{"episode_id": 104, "segment_index": 34, "start": 250.26, "end": 252.26, "text": "og hvor krevende det blir."}
+{"episode_id": 104, "segment_index": 35, "start": 252.26, "end": 258.26, "text": "At det blir krevende, det er helt sikker på at mange som ikke kan gå tilbake til den jobben de hadde før."}
+{"episode_id": 104, "segment_index": 36, "start": 258.26, "end": 264.26, "text": "Det er jeg helt sikker på, men akkurat hvordan veien blir, det vet jeg ikke."}
+{"episode_id": 104, "segment_index": 37, "start": 264.26, "end": 269.26, "text": "Og det tror jeg ikke kjersti vet, selv ikke kjersti vet det."}
+{"episode_id": 104, "segment_index": 38, "start": 269.26, "end": 276.26, "text": "Vi skal komme tilbake til dette her, men kan ikke du, Kari, dra oss gjennom raskt,"}
+{"episode_id": 104, "segment_index": 39, "start": 276.26, "end": 284.26, "text": "i korte trekk i den graden, det er mulig da hovedlinjene i proposasjonen Norge ut av krisen dette ble lagt fram i sluttet av maj?"}
+{"episode_id": 104, "segment_index": 40, "start": 284.26, "end": 292.26, "text": "Jo, det som er hovedoppgaven nå, etter den fasen vi har vært igjen om siden 12. mars,"}
+{"episode_id": 104, "segment_index": 41, "start": 292.26, "end": 296.26, "text": "når vi nå har løsnet opp på hvertfall de strengeste smittevernetiltakene i Norge,"}
+{"episode_id": 104, "segment_index": 42, "start": 296.26, "end": 300.26, "text": "så handler det om å få folk tilbake på jobben,"}
+{"episode_id": 104, "segment_index": 43, "start": 300.26, "end": 304.26, "text": "og veldig mange kan jo gå tilbake og komme seg tilbake i den jobben de hadde."}
+{"episode_id": 104, "segment_index": 44, "start": 304.26, "end": 307.26, "text": "Så det er som førstepril, og det er helt overrørende."}
+{"episode_id": 104, "segment_index": 45, "start": 307.26, "end": 312.26, "text": "Vi har gjort en del ting, der er både på bevilge penger til bygg,"}
+{"episode_id": 104, "segment_index": 46, "start": 312.26, "end": 316.26, "text": "og den type ting som du vet, at det genererer aktivitet,"}
+{"episode_id": 104, "segment_index": 47, "start": 316.26, "end": 323.26, "text": "og også noen litt mer sånn spisset tiltak på lønnsstøtte for permitterte,"}
+{"episode_id": 104, "segment_index": 48, "start": 323.26, "end": 328.26, "text": "for å se buse den utviklingen vi ser da at over 100.000 permitterte har kommet tilbake."}
+{"episode_id": 104, "segment_index": 49, "start": 328.26, "end": 333.26, "text": "Så det å få folk tilbake jobb er jo det aller viktigste nå."}
+{"episode_id": 104, "segment_index": 50, "start": 333.26, "end": 336.26, "text": "Og så skal vi jo videre."}
+{"episode_id": 104, "segment_index": 51, "start": 336.26, "end": 340.26, "text": "Det er jo ingen som tror at vi kommer tilbake til akkurat det vi var,"}
+{"episode_id": 104, "segment_index": 52, "start": 340.26, "end": 345.26, "text": "men når vi da skal endre oss så gjelder du at den endringen skjer på en positiv måte,"}
+{"episode_id": 104, "segment_index": 53, "start": 345.26, "end": 352.26, "text": "og det handler jo i arbeidsmarkedet, så vil det jo være aller tøffest,"}
+{"episode_id": 104, "segment_index": 54, "start": 352.26, "end": 354.26, "text": "for de som hadde det tøffest fra før,"}
+{"episode_id": 104, "segment_index": 55, "start": 354.26, "end": 360.26, "text": "altså de som hadde det man på fagspråket kaller løses tilknittning til arbeidsmarkedet,"}
+{"episode_id": 104, "segment_index": 56, "start": 360.26, "end": 365.26, "text": "altså de som har typisk ravest utdannelse og kortest erfaring,"}
+{"episode_id": 104, "segment_index": 57, "start": 365.26, "end": 370.26, "text": "så det å søge for at de både kan lære seg nye ting,"}
+{"episode_id": 104, "segment_index": 58, "start": 370.26, "end": 375.26, "text": "og at man passer på lærlinger og alle typer sånne ordninger"}
+{"episode_id": 104, "segment_index": 59, "start": 375.26, "end": 380.26, "text": "som gjør at ikke de faller ut og endrer opp på dagpenger."}
+{"episode_id": 104, "segment_index": 60, "start": 380.26, "end": 384.26, "text": "Det er jo med et liv som man ikke ønsker seg."}
+{"episode_id": 104, "segment_index": 61, "start": 384.26, "end": 386.26, "text": "Det er en stor oppgave."}
+{"episode_id": 104, "segment_index": 62, "start": 386.26, "end": 389.26, "text": "Og så i tillegg er det et par andre viktige aspekter."}
+{"episode_id": 104, "segment_index": 63, "start": 389.26, "end": 393.26, "text": "Det ene er jo at når vi nå skal omstille oss at det skjer i riktig,"}
+{"episode_id": 104, "segment_index": 64, "start": 393.26, "end": 395.26, "text": "at det skjer i grøn retning,"}
+{"episode_id": 104, "segment_index": 65, "start": 395.26, "end": 399.26, "text": "det er jo også, og det er jo et mye mer sånn langsiktig og stort mål"}
+{"episode_id": 104, "segment_index": 66, "start": 399.26, "end": 403.26, "text": "enn akkurat krisen vi løser ikke hele klimakrisen i koronakrisen,"}
+{"episode_id": 104, "segment_index": 67, "start": 403.26, "end": 407.26, "text": "men når man skal gjøre endringer så skal det hvertfall gå i riktig retning."}
+{"episode_id": 104, "segment_index": 68, "start": 407.26, "end": 410.26, "text": "Og så må vi passe på at da vi kommer ut av denne krisen,"}
+{"episode_id": 104, "segment_index": 69, "start": 410.26, "end": 414.26, "text": "at vi ikke har en offentlig sektor på 80 prosent,"}
+{"episode_id": 104, "segment_index": 70, "start": 415.26, "end": 419.26, "text": "det er veldig fort gjort at hvis det nå ikke tar oss inn i en"}
+{"episode_id": 104, "segment_index": 71, "start": 419.26, "end": 425.26, "text": "mange offentlig miljarder, så forblir de der så lenge vi har rådt til å ha dem."}
+{"episode_id": 104, "segment_index": 72, "start": 425.26, "end": 428.26, "text": "Så det er jo søgplatt vi har en robust privat sektor"}
+{"episode_id": 104, "segment_index": 73, "start": 428.26, "end": 432.26, "text": "og folk som også etter denne krisen tørre å satse og vil satse,"}
+{"episode_id": 104, "segment_index": 74, "start": 432.26, "end": 436.26, "text": "det tror jeg blir en stor oppgave i tillegg."}
+{"episode_id": 104, "segment_index": 75, "start": 436.26, "end": 440.26, "text": "Miljardene de har sitt et løst de siste måned."}
+{"episode_id": 104, "segment_index": 76, "start": 440.26, "end": 446.26, "text": "Og det har jo kommet mye positive respons på tiltakene og krisepakene,"}
+{"episode_id": 104, "segment_index": 77, "start": 446.26, "end": 451.26, "text": "men det har vel også kommet kritikk, men som vil jo alltid være antag."}
+{"episode_id": 104, "segment_index": 78, "start": 451.26, "end": 455.61, "text": "Hvordan har det egentlig vært å jobbe med disse krisepakene?"}
+{"episode_id": 104, "segment_index": 79, "start": 455.61, "end": 460.61, "text": "Det har vært typer intense selvfølgelig først av alt,"}
+{"episode_id": 104, "segment_index": 80, "start": 460.61, "end": 467.61, "text": "og så har vi, vi har jo tenkt at når det gjelder rett og slett"}
+{"episode_id": 104, "segment_index": 81, "start": 467.61, "end": 471.61, "text": "å gjøre så godt man kan, så fort man kan, for så mange så mulig,"}
+{"episode_id": 104, "segment_index": 82, "start": 471.61, "end": 475.61, "text": "og det er hvertfall det det handler om, sånn i mars-april,"}
+{"episode_id": 104, "segment_index": 83, "start": 475.61, "end": 480.61, "text": "spesielt intense, kanskje frem til påske de aller, aller første ukene."}
+{"episode_id": 104, "segment_index": 84, "start": 480.61, "end": 484.61, "text": "Har noen ganger vært redd for at nå stimulerer vi for fort for mye,"}
+{"episode_id": 104, "segment_index": 85, "start": 484.61, "end": 489.61, "text": "uten å tenke oss om, eller har det vært, her må vi kjøre på ferdig snakka?"}
+{"episode_id": 104, "segment_index": 86, "start": 489.61, "end": 493.61, "text": "Ikke vært redd for at vi gjør for mye,"}
+{"episode_id": 104, "segment_index": 87, "start": 493.61, "end": 499.61, "text": "jeg har vært mye mer redd for at vi ikke klarer å lage tiltak,"}
+{"episode_id": 104, "segment_index": 88, "start": 499.61, "end": 504.61, "text": "sånn at pengene faktisk kommer ut til de som trenger dem,"}
+{"episode_id": 104, "segment_index": 89, "start": 504.61, "end": 509.61, "text": "for samtidig som du skal ha et visst, du må jo ha kontroll"}
+{"episode_id": 104, "segment_index": 90, "start": 509.61, "end": 512.61, "text": "og noe villkor for å motta støtt og den type ting,"}
+{"episode_id": 104, "segment_index": 91, "start": 512.61, "end": 514.61, "text": "så det har vært balanse gangen hele tiden."}
+{"episode_id": 104, "segment_index": 92, "start": 514.61, "end": 517.61, "text": "Hvor fort kan du gjøre det? Og samtidig,"}
+{"episode_id": 104, "segment_index": 93, "start": 517.61, "end": 523.61, "text": "samtidig ha kontroll på, hvertfall, akseptabel kontroll da,"}
+{"episode_id": 104, "segment_index": 94, "start": 523.61, "end": 529.61, "text": "på pengerbruken, og det er jo en sånn ny,"}
+{"episode_id": 104, "segment_index": 95, "start": 529.61, "end": 532.61, "text": "jeg tror det er folk har sett en litt ny side av finaksportmange,"}
+{"episode_id": 104, "segment_index": 96, "start": 532.61, "end": 535.61, "text": "tror jeg, i disse tider, og det har vært nesten sånn av og til."}
+{"episode_id": 104, "segment_index": 97, "start": 535.61, "end": 539.61, "text": "Jeg tenkte at det er sånn sånn satilitt og start-up-lab,"}
+{"episode_id": 104, "segment_index": 98, "start": 539.61, "end": 542.61, "text": "for det er liksom sånn minimum viable product ut,"}
+{"episode_id": 104, "segment_index": 99, "start": 542.61, "end": 546.61, "text": "og test i marked, så får vi heller justere etter hvert og sånn."}
+{"episode_id": 104, "segment_index": 100, "start": 546.61, "end": 551.61, "text": "Sånn har vi jobbet, og det har vi også vært veldig tydelig på i all kommunikasjon,"}
+{"episode_id": 104, "segment_index": 101, "start": 551.61, "end": 554.61, "text": "at nå har vi ikke seks måneder med høring,"}
+{"episode_id": 104, "segment_index": 102, "start": 554.61, "end": 557.61, "text": "og seks måneder til med utarbeidelseproposasjon."}
+{"episode_id": 104, "segment_index": 103, "start": 557.61, "end": 559.61, "text": "Her skal du gå på en uke alt vi gjør,"}
+{"episode_id": 104, "segment_index": 104, "start": 559.61, "end": 562.61, "text": "og da må du tørre og bare kjøre på."}
+{"episode_id": 104, "segment_index": 105, "start": 562.61, "end": 565.61, "text": "Og så har vi klart å behålle både ro og humør samtidig"}
+{"episode_id": 104, "segment_index": 106, "start": 565.61, "end": 569.61, "text": "og sove litt i det veldig. Så det er egentlig godt overraskende bra,"}
+{"episode_id": 104, "segment_index": 107, "start": 569.61, "end": 570.61, "text": "vil jeg si, sånn sett."}
+{"episode_id": 104, "segment_index": 108, "start": 570.61, "end": 575.61, "text": "Det er bra. Søvn og godt humør, det er alltid lurt."}
+{"episode_id": 104, "segment_index": 109, "start": 575.61, "end": 578.61, "text": "Kersti, jeg har jo stilt dette spørsmålet før."}
+{"episode_id": 104, "segment_index": 110, "start": 578.61, "end": 585.61, "text": "Da var vi helt i start med krisen om hvordan det synes at myndighetene har håndtert krisen."}
+{"episode_id": 104, "segment_index": 111, "start": 585.61, "end": 589.61, "text": "Nå har det fått synke litt mer inn, man vet litt mer hva det går i."}
+{"episode_id": 104, "segment_index": 112, "start": 589.61, "end": 592.61, "text": "Så nå får du spørsmålet en gang til. Hva synes du nå?"}
+{"episode_id": 104, "segment_index": 113, "start": 592.61, "end": 599.61, "text": "Jeg synes at myndighetene har takket krisen og svaret på krisen på en veldig god mat."}
+{"episode_id": 104, "segment_index": 114, "start": 599.61, "end": 602.61, "text": "Og da er det en god spådel til regjering og åte stort ting."}
+{"episode_id": 104, "segment_index": 115, "start": 602.61, "end": 611.61, "text": "For sammen har dette ført et skikkelig push av viktige hjelpåringer,"}
+{"episode_id": 104, "segment_index": 116, "start": 611.61, "end": 617.61, "text": "utraskt, som jeg beskrever av Kari her, som har vært ekstremt viktig."}
+{"episode_id": 104, "segment_index": 117, "start": 617.61, "end": 623.61, "text": "Og at det da skjedde så raskt, det har vært ekstremt viktig for både bedrifter og husholdninger."}
+{"episode_id": 104, "segment_index": 118, "start": 623.61, "end": 628.61, "text": "Og så får det heller være at ikke alt her var perfekt."}
+{"episode_id": 104, "segment_index": 119, "start": 628.61, "end": 633.61, "text": "Og at noe har skapt noen uhellige insentiver, som jeg førte til at arbeidsledigheten antagligvis"}
+{"episode_id": 104, "segment_index": 120, "start": 633.61, "end": 638.61, "text": "har hoppet enda mer opp på toppen, han var jo helt opp på 10,4%,"}
+{"episode_id": 104, "segment_index": 121, "start": 638.61, "end": 643.61, "text": "var antagligvis enda litt høyere ledigshopp enn det man hadde hatt."}
+{"episode_id": 104, "segment_index": 122, "start": 643.61, "end": 647.61, "text": "Vi sendes til å troffe helt perfekt da at det koronakriset skulle oppe"}
+{"episode_id": 104, "segment_index": 123, "start": 647.61, "end": 653.61, "text": "om det var bakgrunn for alt det der hoppet i permitteringene."}
+{"episode_id": 104, "segment_index": 124, "start": 653.61, "end": 657.61, "text": "Men alt var ikke perfekt, men det viktigste var den viljen som ble demonstreret."}
+{"episode_id": 104, "segment_index": 125, "start": 657.61, "end": 662.61, "text": "Det ble demonstrert av regjering og storting til å bruke penger nærsakt"}
+{"episode_id": 104, "segment_index": 126, "start": 662.61, "end": 666.61, "text": "over en logesko og skjelden har vært politikerne for at lika masse høyere opp"}
+{"episode_id": 104, "segment_index": 127, "start": 666.61, "end": 670.61, "text": "fra et samlet økonomkorps. Kanskje ikke helt samlet, men dårlig."}
+{"episode_id": 104, "segment_index": 128, "start": 670.61, "end": 671.61, "text": "Ja, men ikke langt unna."}
+{"episode_id": 104, "segment_index": 129, "start": 671.61, "end": 677.61, "text": "Ikke langt unna for at det her er måten å bare dra frem det store skytse."}
+{"episode_id": 104, "segment_index": 130, "start": 677.61, "end": 681.61, "text": "Og der har jeg ikke noe å utmerke, altså når det gjelder sånn"}
+{"episode_id": 104, "segment_index": 131, "start": 681.61, "end": 684.61, "text": "størrelsen på pengerbruket, det er ikke sånn at Norge har brukt"}
+{"episode_id": 104, "segment_index": 132, "start": 684.61, "end": 688.61, "text": "så ekstremt masse penger i forhold til andre land."}
+{"episode_id": 104, "segment_index": 133, "start": 688.61, "end": 692.61, "text": "Land som Tyskland har brukt enda mer, enda større ordninger"}
+{"episode_id": 104, "segment_index": 134, "start": 692.61, "end": 697.61, "text": "til og med USA har jo enda større impuls fra finanspolitikken"}
+{"episode_id": 104, "segment_index": 135, "start": 697.61, "end": 700.61, "text": "enn det Norge har gått på."}
+{"episode_id": 104, "segment_index": 136, "start": 700.61, "end": 704.61, "text": "Men jeg tror det er veldig viktig at Norge fra før av hadde"}
+{"episode_id": 104, "segment_index": 137, "start": 704.61, "end": 708.61, "text": "velferdsordninger som var godt egna til å netoppe"}
+{"episode_id": 104, "segment_index": 138, "start": 708.61, "end": 710.61, "text": "å bruke i dagens situasjon."}
+{"episode_id": 104, "segment_index": 139, "start": 710.61, "end": 715.61, "text": "Og så er du sånn at en stor offentlig sektor"}
+{"episode_id": 104, "segment_index": 140, "start": 715.61, "end": 719.61, "text": "det er til både glede og kanskje til noe i betymring, definitivt."}
+{"episode_id": 104, "segment_index": 141, "start": 719.61, "end": 722.61, "text": "Men det hjelper oss jo nå i dagens situasjon at ein treide"}
+{"episode_id": 104, "segment_index": 142, "start": 722.61, "end": 726.61, "text": "av alle sysse satt i Norge er ansatt i offentlig sektor."}
+{"episode_id": 104, "segment_index": 143, "start": 726.61, "end": 729.61, "text": "Og deg har nok ikke følt på noe jobb usikkerhet i dagens situasjon"}
+{"episode_id": 104, "segment_index": 144, "start": 729.61, "end": 733.61, "text": "og en del andre uti samfunnet har ikke følt på det."}
+{"episode_id": 104, "segment_index": 145, "start": 733.61, "end": 738.61, "text": "Og jeg tror at summen av det, og denne kontantreaksjonen"}
+{"episode_id": 104, "segment_index": 146, "start": 738.61, "end": 742.61, "text": "fra finanspolitikken og fra pengepolitikken"}
+{"episode_id": 104, "segment_index": 147, "start": 742.61, "end": 745.61, "text": "der den har da ikke holdt det bak i det hele tatt"}
+{"episode_id": 104, "segment_index": 148, "start": 745.61, "end": 747.61, "text": "med å kjøre på med virkemiddel."}
+{"episode_id": 104, "segment_index": 149, "start": 747.61, "end": 750.61, "text": "Ja, det er en viktig grunn til at vi i dag"}
+{"episode_id": 104, "segment_index": 150, "start": 750.61, "end": 753.61, "text": "når vi står i begynnelsen av juni"}
+{"episode_id": 104, "segment_index": 151, "start": 753.61, "end": 756.61, "text": "har samlet med oss i løpet av den sista månen"}
+{"episode_id": 104, "segment_index": 152, "start": 756.61, "end": 758.61, "text": "en del positive nyheter."}
+{"episode_id": 104, "segment_index": 153, "start": 758.61, "end": 761.61, "text": "Blandt annet om at forbruket i norsk akademi"}
+{"episode_id": 104, "segment_index": 154, "start": 761.61, "end": 763.61, "text": "holdes bedre oppe enn det vi kunne ha frykt av."}
+{"episode_id": 104, "segment_index": 155, "start": 763.61, "end": 766.61, "text": "Men ser at arbeidsledigheten er på vei ned"}
+{"episode_id": 104, "segment_index": 156, "start": 766.61, "end": 768.61, "text": "på et veldig høyke nivå."}
+{"episode_id": 104, "segment_index": 157, "start": 768.61, "end": 771.61, "text": "Sånn i sunda kjæreste jeg så kaldde analysen"}
+{"episode_id": 104, "segment_index": 158, "start": 771.61, "end": 774.61, "text": "fra regjeringen eller beskrivelsen til karriere."}
+{"episode_id": 104, "segment_index": 159, "start": 774.61, "end": 776.61, "text": "Den er riktig."}
+{"episode_id": 104, "segment_index": 160, "start": 776.61, "end": 780.61, "text": "Ja, den er helt riktig. Det var viktig å bruke masse penger."}
+{"episode_id": 104, "segment_index": 161, "start": 780.61, "end": 784.61, "text": "Og jeg synes at de har lykkast å i samarbeid."}
+{"episode_id": 104, "segment_index": 162, "start": 784.61, "end": 786.61, "text": "De har vår veldig tett samarbeid med næringsliv"}
+{"episode_id": 104, "segment_index": 163, "start": 786.61, "end": 788.61, "text": "og interesseorganisasjoner og så videre"}
+{"episode_id": 104, "segment_index": 164, "start": 788.61, "end": 790.61, "text": "for å finne trefstikkordninger."}
+{"episode_id": 104, "segment_index": 165, "start": 790.61, "end": 792.61, "text": "Så jeg synes det er denne workshoppen"}
+{"episode_id": 104, "segment_index": 166, "start": 792.61, "end": 795.61, "text": "som tydelig har våre bedrevet på intensivt vis."}
+{"episode_id": 104, "segment_index": 167, "start": 795.61, "end": 797.61, "text": "Den har våre veldig lykkast."}
+{"episode_id": 104, "segment_index": 168, "start": 797.61, "end": 799.61, "text": "Så det skal politikerne ha æra for."}
+{"episode_id": 104, "segment_index": 169, "start": 799.61, "end": 801.61, "text": "Og byråkaterne."}
+{"episode_id": 104, "segment_index": 170, "start": 801.61, "end": 803.61, "text": "Ja, med makrobilde."}
+{"episode_id": 104, "segment_index": 171, "start": 803.61, "end": 807.61, "text": "Du må bare dra oss kort hvor den ting ser ut nå."}
+{"episode_id": 104, "segment_index": 172, "start": 807.61, "end": 809.61, "text": "Dette er også noe vi har snakket om gjennleven"}
+{"episode_id": 104, "segment_index": 173, "start": 809.61, "end": 811.61, "text": "som vi har vært inne på."}
+{"episode_id": 104, "segment_index": 174, "start": 811.61, "end": 813.61, "text": "Ja, det er vrin til lage prognoser."}
+{"episode_id": 104, "segment_index": 175, "start": 813.61, "end": 817.61, "text": "Ja, ting har svinger veldig fort både opp og ned."}
+{"episode_id": 104, "segment_index": 176, "start": 817.61, "end": 820.61, "text": "Det er ikke så lenge siden du la fram nye prognoser,"}
+{"episode_id": 104, "segment_index": 177, "start": 820.61, "end": 823.61, "text": "men det er på en måte allerede rukket å bli litt gamle."}
+{"episode_id": 104, "segment_index": 178, "start": 823.61, "end": 826.61, "text": "Så kort beskrivelse av bildet nå, Kersti?"}
+{"episode_id": 104, "segment_index": 179, "start": 826.61, "end": 829.61, "text": "Bildet ser mer positivt ut"}
+{"episode_id": 104, "segment_index": 180, "start": 829.61, "end": 832.61, "text": "enn det det gjør når vi la fram våre prognoser i begynnelsen av maj."}
+{"episode_id": 104, "segment_index": 181, "start": 832.61, "end": 834.61, "text": "Da trodde vi at norske økonomi"}
+{"episode_id": 104, "segment_index": 182, "start": 834.61, "end": 837.61, "text": "kom til å falle med 6 prosent i år."}
+{"episode_id": 104, "segment_index": 183, "start": 837.61, "end": 841.61, "text": "Akkurat nå så tror jeg at fallet kan bli mindre enn det."}
+{"episode_id": 104, "segment_index": 184, "start": 841.61, "end": 844.61, "text": "Men ser dere at det fallet som vi såg for oss i boligpriserne,"}
+{"episode_id": 104, "segment_index": 185, "start": 844.61, "end": 846.61, "text": "det har i grunn ikke materialisert seg."}
+{"episode_id": 104, "segment_index": 186, "start": 846.61, "end": 849.61, "text": "Tvertimod var det jo en veldig sterk oppgang nå i maj"}
+{"episode_id": 104, "segment_index": 187, "start": 849.61, "end": 851.61, "text": "i et par måneder med nedgang."}
+{"episode_id": 104, "segment_index": 188, "start": 852.61, "end": 855.61, "text": "Så vi ser oliprisen har begynt å stiga igjen."}
+{"episode_id": 104, "segment_index": 189, "start": 855.61, "end": 859.61, "text": "Vi ser i olienvesteringstelningene at olisselskapene"}
+{"episode_id": 104, "segment_index": 190, "start": 859.61, "end": 864.61, "text": "faktisk ikke planlegger å kutte investeringene sine noe særlig i år."}
+{"episode_id": 104, "segment_index": 191, "start": 864.61, "end": 866.61, "text": "De forventer det neste år, men ikke i år."}
+{"episode_id": 104, "segment_index": 192, "start": 866.61, "end": 868.61, "text": "Kan det hende at det er noe i dette her"}
+{"episode_id": 104, "segment_index": 193, "start": 868.61, "end": 870.61, "text": "så ligger det også en forventning om at Stortingsplatthalet"}
+{"episode_id": 104, "segment_index": 194, "start": 870.61, "end": 874.61, "text": "kommer til å veta nettopp den skattelettelse"}
+{"episode_id": 104, "segment_index": 195, "start": 874.61, "end": 878.61, "text": "eller skattehjelppakken nå som næringer du har etterlist."}
+{"episode_id": 104, "segment_index": 196, "start": 878.61, "end": 882.61, "text": "Så man har fått en del faktorer og det er at regjeringen"}
+{"episode_id": 104, "segment_index": 197, "start": 882.61, "end": 886.61, "text": "har faktisk å åpne opp samfunnet raskere"}
+{"episode_id": 104, "segment_index": 198, "start": 886.61, "end": 889.61, "text": "og har planer å forforsette og åpne opp samfunnet raskere"}
+{"episode_id": 104, "segment_index": 199, "start": 889.61, "end": 892.61, "text": "enn det vi kanskje såg for oss i begynnelsen av maj."}
+{"episode_id": 104, "segment_index": 200, "start": 892.61, "end": 896.61, "text": "Så flere ting har gått bedre enn ventet i Norge."}
+{"episode_id": 104, "segment_index": 201, "start": 896.61, "end": 899.61, "text": "Jeg vil ikke si at det samme er tilfelle for omverden våre."}
+{"episode_id": 104, "segment_index": 202, "start": 899.61, "end": 902.61, "text": "Det går omtrent lika dårlig som jeg hadde trodd,"}
+{"episode_id": 104, "segment_index": 203, "start": 902.61, "end": 905.61, "text": "for eksempel i Europa og i USA."}
+{"episode_id": 104, "segment_index": 204, "start": 905.61, "end": 911.61, "text": "Men i Norge så ser man at vi har våre blant deg landene"}
+{"episode_id": 104, "segment_index": 205, "start": 911.61, "end": 914.61, "text": "som har klart oss relativt fint."}
+{"episode_id": 104, "segment_index": 206, "start": 914.61, "end": 917.61, "text": "Men vi har jo selvfølgelig en veldig alvorlig kriser"}
+{"episode_id": 104, "segment_index": 207, "start": 917.61, "end": 919.61, "text": "som kommer til å være med oss i lång tid framøver."}
+{"episode_id": 104, "segment_index": 208, "start": 919.61, "end": 923.61, "text": "Det som går som en kule globalt, det er jo aksemarket, det er det."}
+{"episode_id": 104, "segment_index": 209, "start": 923.61, "end": 927.61, "text": "Men ok, det skal vi ikke innom i denne episoden."}
+{"episode_id": 104, "segment_index": 210, "start": 927.61, "end": 930.61, "text": "Kari, du var jo inne på dette her,"}
+{"episode_id": 104, "segment_index": 211, "start": 930.61, "end": 936.61, "text": "arbeidsplasser, hvor viktig er det å lykke oss"}
+{"episode_id": 104, "segment_index": 212, "start": 936.61, "end": 938.61, "text": "til å stimulere til arbeid?"}
+{"episode_id": 104, "segment_index": 213, "start": 938.61, "end": 945.77, "text": "Jeg vil si at av alle oppgaver, så er det det aller viktigste nå,"}
+{"episode_id": 104, "segment_index": 214, "start": 945.77, "end": 949.77, "text": "for det drar egentlig med seg alt mulig annet,"}
+{"episode_id": 104, "segment_index": 215, "start": 949.77, "end": 953.77, "text": "både økonomisk og sosialt."}
+{"episode_id": 104, "segment_index": 216, "start": 953.77, "end": 958.77, "text": "Så det er det aller aller viktigste"}
+{"episode_id": 104, "segment_index": 217, "start": 958.77, "end": 963.77, "text": "for alle sektor på tvers av hva du måte måle."}
+{"episode_id": 104, "segment_index": 218, "start": 963.77, "end": 967.77, "text": "Kan du bare dele en liten, men fin historie,"}
+{"episode_id": 104, "segment_index": 219, "start": 967.77, "end": 970.77, "text": "da jeg bare besøkte en god kamerat derfor leden."}
+{"episode_id": 104, "segment_index": 220, "start": 970.77, "end": 973.77, "text": "Han har vært 50% permittert,"}
+{"episode_id": 104, "segment_index": 221, "start": 973.77, "end": 976.77, "text": "jobber inn det som må definere som reiseliv på en eller annen måte."}
+{"episode_id": 104, "segment_index": 222, "start": 976.77, "end": 978.77, "text": "Han hadde nå nettopp fått beskjøen"}
+{"episode_id": 104, "segment_index": 223, "start": 978.77, "end": 982.77, "text": "at nå skulle han tilbake en 900% stilling."}
+{"episode_id": 104, "segment_index": 224, "start": 982.77, "end": 985.77, "text": "Og jeg tenker, selvfølgelig blir jeg veldig glad på hans veiene,"}
+{"episode_id": 104, "segment_index": 225, "start": 985.77, "end": 987.77, "text": "men jeg tenker også et større perspektiv,"}
+{"episode_id": 104, "segment_index": 226, "start": 987.77, "end": 989.77, "text": "at han er ikke den eneste som får den beskjedene om dagen."}
+{"episode_id": 104, "segment_index": 227, "start": 989.77, "end": 991.77, "text": "Og det er jo veldig bra."}
+{"episode_id": 104, "segment_index": 228, "start": 991.77, "end": 994.77, "text": "Det viser jo at ting går i riktig retning."}
+{"episode_id": 104, "segment_index": 229, "start": 994.77, "end": 996.77, "text": "Jo, det gjør det."}
+{"episode_id": 104, "segment_index": 230, "start": 996.77, "end": 999.77, "text": "Samtidig må man ikke la seg lure."}
+{"episode_id": 104, "segment_index": 231, "start": 999.77, "end": 1003.77, "text": "Nå er det typisk finansspartmange"}
+{"episode_id": 104, "segment_index": 232, "start": 1003.77, "end": 1006.77, "text": "enda mer forsiktig enn mange andre,"}
+{"episode_id": 104, "segment_index": 233, "start": 1006.77, "end": 1009.77, "text": "men det vi ser er jo, og det er jo som forventer,"}
+{"episode_id": 104, "segment_index": 234, "start": 1009.77, "end": 1012.77, "text": "at de som ble permittert,"}
+{"episode_id": 104, "segment_index": 235, "start": 1012.77, "end": 1015.77, "text": "veldig mange av de ville også komme raskt tilbake,"}
+{"episode_id": 104, "segment_index": 236, "start": 1015.77, "end": 1019.77, "text": "så fort samfunnet å åpnet opp litt mer igjen."}
+{"episode_id": 104, "segment_index": 237, "start": 1019.77, "end": 1023.77, "text": "Så det er ikke så veldig overraskende,"}
+{"episode_id": 104, "segment_index": 238, "start": 1023.77, "end": 1025.77, "text": "og det blir jo ikke en vanskelig oppgave."}
+{"episode_id": 104, "segment_index": 239, "start": 1025.77, "end": 1029.77, "text": "Vanskelig oppgave blir jo de siste 100-150.000."}
+{"episode_id": 104, "segment_index": 240, "start": 1029.77, "end": 1032.77, "text": "Det er ikke liksom de første som er krevne,"}
+{"episode_id": 104, "segment_index": 241, "start": 1032.77, "end": 1034.77, "text": "men det er uansett ledelig,"}
+{"episode_id": 104, "segment_index": 242, "start": 1034.77, "end": 1038.77, "text": "og det prøver vi å forsterke den tendensen"}
+{"episode_id": 104, "segment_index": 243, "start": 1038.77, "end": 1040.77, "text": "når jeg får noe sånne glemelinger nå"}
+{"episode_id": 104, "segment_index": 244, "start": 1040.77, "end": 1042.77, "text": "etter vi sendt ut denne her."}
+{"episode_id": 104, "segment_index": 245, "start": 1042.77, "end": 1045.77, "text": "Det er forslag om lønstøtte,"}
+{"episode_id": 104, "segment_index": 246, "start": 1045.77, "end": 1049.77, "text": "det heter jo noe annet mer teknisk"}
+{"episode_id": 104, "segment_index": 247, "start": 1049.77, "end": 1051.77, "text": "på finansdepartementalsk,"}
+{"episode_id": 104, "segment_index": 248, "start": 1051.77, "end": 1054.77, "text": "men i hvert fall lønstøtte for å ta tilbake"}
+{"episode_id": 104, "segment_index": 249, "start": 1054.77, "end": 1056.77, "text": "permittertat, og gippig,"}
+{"episode_id": 104, "segment_index": 250, "start": 1056.77, "end": 1058.77, "text": "da kan vi gjøre det i sommer"}
+{"episode_id": 104, "segment_index": 251, "start": 1058.77, "end": 1059.77, "text": "og fortsette denne utviklingen,"}
+{"episode_id": 104, "segment_index": 252, "start": 1059.77, "end": 1062.77, "text": "eller ta denne chansen hvis vi er et hotell,"}
+{"episode_id": 104, "segment_index": 253, "start": 1062.77, "end": 1063.77, "text": "eller hva det måtte være."}
+{"episode_id": 104, "segment_index": 254, "start": 1063.77, "end": 1065.77, "text": "Og det var hele poenget."}
+{"episode_id": 104, "segment_index": 255, "start": 1065.77, "end": 1067.77, "text": "Nå må jo lenger du er borte fra arbeidsparket,"}
+{"episode_id": 104, "segment_index": 256, "start": 1067.77, "end": 1069.77, "text": "det jo verre blir det."}
+{"episode_id": 104, "segment_index": 257, "start": 1069.77, "end": 1074.77, "text": "Og så det er et sånn overødende utrolig viktig poeng."}
+{"episode_id": 104, "segment_index": 258, "start": 1074.77, "end": 1078.77, "text": "Enten du er uansett hvilken del av politikken du tilhører,"}
+{"episode_id": 104, "segment_index": 259, "start": 1078.77, "end": 1080.77, "text": "jeg tror ikke det er noen som fortsatt"}
+{"episode_id": 104, "segment_index": 260, "start": 1080.77, "end": 1082.77, "text": "prøver å lage motsetningen mellom det at"}
+{"episode_id": 104, "segment_index": 261, "start": 1082.77, "end": 1084.77, "text": "hvem som har opptatt arbeidsplasset,"}
+{"episode_id": 104, "segment_index": 262, "start": 1084.77, "end": 1085.77, "text": "men det er jeg tror ikke,"}
+{"episode_id": 104, "segment_index": 263, "start": 1085.77, "end": 1087.77, "text": "den gjelder ikke akkurat nå vil jeg si,"}
+{"episode_id": 104, "segment_index": 264, "start": 1087.77, "end": 1089.77, "text": "eller har vi aldri gjort det."}
+{"episode_id": 104, "segment_index": 265, "start": 1089.77, "end": 1092.02, "text": "Men hva er nøklene til å sikre"}
+{"episode_id": 104, "segment_index": 266, "start": 1092.02, "end": 1095.02, "text": "kompetanseutvikling og riktige arbeidskraft?"}
+{"episode_id": 104, "segment_index": 267, "start": 1095.02, "end": 1099.02, "text": "Nei, det er jo ingen som har"}
+{"episode_id": 104, "segment_index": 268, "start": 1099.02, "end": 1101.02, "text": "fasiten på den, har du ikke,"}
+{"episode_id": 104, "segment_index": 269, "start": 1101.02, "end": 1104.02, "text": "men vi har hvertfall løft av det som"}
+{"episode_id": 104, "segment_index": 270, "start": 1104.02, "end": 1106.02, "text": "er tillegg til det overørdende"}
+{"episode_id": 104, "segment_index": 271, "start": 1106.02, "end": 1108.02, "text": "å få folk tilbake jobb,"}
+{"episode_id": 104, "segment_index": 272, "start": 1108.02, "end": 1110.02, "text": "så handler det nettopp om at man også"}
+{"episode_id": 104, "segment_index": 273, "start": 1110.02, "end": 1113.02, "text": "en del må få mer formel kompetanse."}
+{"episode_id": 104, "segment_index": 274, "start": 1113.02, "end": 1115.02, "text": "Det er opprett av mange nye studieplasset,"}
+{"episode_id": 104, "segment_index": 275, "start": 1115.02, "end": 1117.02, "text": "for eksempel får vi vete at"}
+{"episode_id": 104, "segment_index": 276, "start": 1117.02, "end": 1119.02, "text": "det er mange som nå velger å studere,"}
+{"episode_id": 104, "segment_index": 277, "start": 1119.02, "end": 1121.02, "text": "det er ikke egentlig det velger det her,"}
+{"episode_id": 104, "segment_index": 278, "start": 1121.02, "end": 1123.02, "text": "de ser at de kommer ikke til å få noe jobb"}
+{"episode_id": 104, "segment_index": 279, "start": 1123.02, "end": 1125.02, "text": "neste år, så det er bedre å"}
+{"episode_id": 104, "segment_index": 280, "start": 1125.02, "end": 1127.02, "text": "se om man kan studere videre"}
+{"episode_id": 104, "segment_index": 281, "start": 1127.02, "end": 1130.02, "text": "og få noe godt ut av det."}
+{"episode_id": 104, "segment_index": 282, "start": 1130.02, "end": 1132.02, "text": "Så det handler om"}
+{"episode_id": 104, "segment_index": 283, "start": 1132.02, "end": 1134.02, "text": "kompetanse på ulike"}
+{"episode_id": 104, "segment_index": 284, "start": 1134.02, "end": 1137.02, "text": "måter, og så handler det om"}
+{"episode_id": 104, "segment_index": 285, "start": 1137.02, "end": 1141.02, "text": "at vi ikke glipper på de som nå"}
+{"episode_id": 104, "segment_index": 286, "start": 1141.02, "end": 1143.02, "text": "har læringplass, eller"}
+{"episode_id": 104, "segment_index": 287, "start": 1143.02, "end": 1146.02, "text": "som er helt var på kanten av å"}
+{"episode_id": 104, "segment_index": 288, "start": 1146.02, "end": 1148.02, "text": "ikke være inne i arbeidsmarkedet"}
+{"episode_id": 104, "segment_index": 289, "start": 1148.02, "end": 1150.02, "text": "tidligere, de er jo de første som"}
+{"episode_id": 104, "segment_index": 290, "start": 1150.02, "end": 1152.02, "text": "ryker ut hvis man ikke passer ekstra på."}
+{"episode_id": 104, "segment_index": 291, "start": 1152.02, "end": 1154.02, "text": "Så det er et viktig element i"}
+{"episode_id": 104, "segment_index": 292, "start": 1154.02, "end": 1156.02, "text": "det vi la frem for i fredag,"}
+{"episode_id": 104, "segment_index": 293, "start": 1156.02, "end": 1159.02, "text": "og sørg for at vi gjorde noe"}
+{"episode_id": 104, "segment_index": 294, "start": 1159.02, "end": 1161.02, "text": "eller setter inn tiltak også der."}
+{"episode_id": 104, "segment_index": 295, "start": 1161.02, "end": 1163.02, "text": "Det er ikke noe enklere jobber å løse,"}
+{"episode_id": 104, "segment_index": 296, "start": 1163.02, "end": 1165.02, "text": "det er helt klart."}
+{"episode_id": 104, "segment_index": 297, "start": 1165.02, "end": 1168.02, "text": "Kjester, hvordan stimulerer man"}
+{"episode_id": 104, "segment_index": 298, "start": 1168.02, "end": 1170.02, "text": "riktig til økthetes spørsmål?"}
+{"episode_id": 104, "segment_index": 299, "start": 1170.02, "end": 1172.02, "text": "Å jo jo, det er en kravande"}
+{"episode_id": 104, "segment_index": 300, "start": 1172.02, "end": 1174.02, "text": "spørsmål å svare på,"}
+{"episode_id": 104, "segment_index": 301, "start": 1174.02, "end": 1176.02, "text": "fordi det er enda mer komplisert"}
+{"episode_id": 104, "segment_index": 302, "start": 1176.02, "end": 1178.02, "text": "noe jeg ikke er det var, for"}
+{"episode_id": 104, "segment_index": 303, "start": 1178.02, "end": 1180.02, "text": "vi kan jo faktisk ikke bare pøse på"}
+{"episode_id": 104, "segment_index": 304, "start": 1180.02, "end": 1182.02, "text": "masse stimulanser inn i næringer som"}
+{"episode_id": 104, "segment_index": 305, "start": 1182.02, "end": 1184.02, "text": "faktisk ikke får lov å operere på"}
+{"episode_id": 104, "segment_index": 306, "start": 1184.02, "end": 1186.02, "text": "full kapasitet. For vi er jo fortsatt"}
+{"episode_id": 104, "segment_index": 307, "start": 1186.02, "end": 1188.02, "text": "ikke tilbake på normalen om"}
+{"episode_id": 104, "segment_index": 308, "start": 1188.02, "end": 1190.02, "text": "når det gjelder hva vi kan gjøre"}
+{"episode_id": 104, "segment_index": 309, "start": 1190.02, "end": 1192.02, "text": "i forskjellige næringer,"}
+{"episode_id": 104, "segment_index": 310, "start": 1192.02, "end": 1194.02, "text": "reiselig, restauranger,"}
+{"episode_id": 104, "segment_index": 311, "start": 1194.02, "end": 1196.02, "text": "hotell osv."}
+{"episode_id": 104, "segment_index": 312, "start": 1196.02, "end": 1198.02, "text": "Så der kommer antagligvis det måtte"}
+{"episode_id": 104, "segment_index": 313, "start": 1198.02, "end": 1200.02, "text": "å leve med restriksjoner i god stund"}
+{"episode_id": 104, "segment_index": 314, "start": 1200.02, "end": 1202.02, "text": "framøver, men mindre det kommer et"}
+{"episode_id": 104, "segment_index": 315, "start": 1202.02, "end": 1204.02, "text": "branslags medisinsk gjennombrud."}
+{"episode_id": 104, "segment_index": 316, "start": 1204.02, "end": 1206.02, "text": "Så her må han altså både finne tiltak"}
+{"episode_id": 104, "segment_index": 317, "start": 1206.02, "end": 1208.02, "text": "som faktisk"}
+{"episode_id": 104, "segment_index": 318, "start": 1208.02, "end": 1210.02, "text": "treffe økonomien der det faktisk"}
+{"episode_id": 104, "segment_index": 319, "start": 1210.02, "end": 1212.02, "text": "er kapasitet til å øke"}
+{"episode_id": 104, "segment_index": 320, "start": 1212.02, "end": 1214.02, "text": "aktiviteten, til å få inn"}
+{"episode_id": 104, "segment_index": 321, "start": 1214.02, "end": 1216.02, "text": "flere sysselsatte. Så det må"}
+{"episode_id": 104, "segment_index": 322, "start": 1216.02, "end": 1218.02, "text": "taimas godt. Og så må du"}
+{"episode_id": 104, "segment_index": 323, "start": 1218.02, "end": 1220.02, "text": "også sørges for"}
+{"episode_id": 104, "segment_index": 324, "start": 1220.02, "end": 1222.02, "text": "at det er disse tiltakene som Kari"}
+{"episode_id": 104, "segment_index": 325, "start": 1222.02, "end": 1224.02, "text": "også var inne på, at det ikke er"}
+{"episode_id": 104, "segment_index": 326, "start": 1224.02, "end": 1226.02, "text": "sånn penger som bare tyt inn i"}
+{"episode_id": 104, "segment_index": 327, "start": 1226.02, "end": 1228.02, "text": "økonomien, som er veldig vanskelig å"}
+{"episode_id": 104, "segment_index": 328, "start": 1228.02, "end": 1230.02, "text": "dra oss ut igjen, for vi har allerede"}
+{"episode_id": 104, "segment_index": 329, "start": 1230.02, "end": 1232.02, "text": "en utfordring med en veldig"}
+{"episode_id": 104, "segment_index": 330, "start": 1232.02, "end": 1234.02, "text": "høy og offentlig etterspørsel som"}
+{"episode_id": 104, "segment_index": 331, "start": 1234.02, "end": 1236.02, "text": "andel av økonomien var, og"}
+{"episode_id": 104, "segment_index": 332, "start": 1236.02, "end": 1238.02, "text": "det er en finering hvor tross alt er"}
+{"episode_id": 104, "segment_index": 333, "start": 1238.02, "end": 1240.02, "text": "nede i en mer sånn solnegangsperiode"}
+{"episode_id": 104, "segment_index": 334, "start": 1240.02, "end": 1242.02, "text": "er det då man må sørge for"}
+{"episode_id": 104, "segment_index": 335, "start": 1242.02, "end": 1244.02, "text": "for å få eksportintektene våre i"}
+{"episode_id": 104, "segment_index": 336, "start": 1244.02, "end": 1246.02, "text": "framtiden også, så man må sørge for at"}
+{"episode_id": 104, "segment_index": 337, "start": 1246.02, "end": 1248.02, "text": "næringslivet har romt å vokse der."}
+{"episode_id": 104, "segment_index": 338, "start": 1248.02, "end": 1250.02, "text": "Og siste ting bare for å"}
+{"episode_id": 104, "segment_index": 339, "start": 1250.02, "end": 1252.02, "text": "sagt det, så er det mange lobbygrupper"}
+{"episode_id": 104, "segment_index": 340, "start": 1252.02, "end": 1254.02, "text": "der ute nå som er på jakt dit"}
+{"episode_id": 104, "segment_index": 341, "start": 1254.02, "end": 1256.02, "text": "de pengene til de store projektene"}
+{"episode_id": 104, "segment_index": 342, "start": 1256.02, "end": 1258.02, "text": "som skal skapa Norges framtiden,"}
+{"episode_id": 104, "segment_index": 343, "start": 1258.02, "end": 1260.02, "text": "og det høres veldig bra ut."}
+{"episode_id": 104, "segment_index": 344, "start": 1260.02, "end": 1262.02, "text": "Men poenget er at hvis alle hadde"}
+{"episode_id": 104, "segment_index": 345, "start": 1262.02, "end": 1264.02, "text": "suttet med svaret på hva som"}
+{"episode_id": 104, "segment_index": 346, "start": 1264.02, "end": 1266.02, "text": "investeringer for å sikre Norges framtid, så hadde"}
+{"episode_id": 104, "segment_index": 347, "start": 1266.02, "end": 1268.02, "text": "det jo gjort for lenge å si. Poenget er at"}
+{"episode_id": 104, "segment_index": 348, "start": 1268.02, "end": 1270.02, "text": "det bruker allerede store penger på"}
+{"episode_id": 104, "segment_index": 349, "start": 1270.02, "end": 1272.02, "text": "investeringer, og fra staten i allsags"}
+{"episode_id": 104, "segment_index": 350, "start": 1272.02, "end": 1274.02, "text": "type prosjekter som egentlig skal øke"}
+{"episode_id": 104, "segment_index": 351, "start": 1274.02, "end": 1276.02, "text": "produktiviteten. Når der en nivå er ganske"}
+{"episode_id": 104, "segment_index": 352, "start": 1276.02, "end": 1278.02, "text": "høy, så her må man være veldig"}
+{"episode_id": 104, "segment_index": 353, "start": 1278.02, "end": 1280.02, "text": "forsiktig med å hverdera de"}
+{"episode_id": 104, "segment_index": 354, "start": 1280.02, "end": 1282.02, "text": "ulike gode formål."}
+{"episode_id": 104, "segment_index": 355, "start": 1282.02, "end": 1284.02, "text": "Som økonomiskørselig er det jo"}
+{"episode_id": 104, "segment_index": 356, "start": 1284.02, "end": 1286.02, "text": "litt av din jobb, det er jo å"}
+{"episode_id": 104, "segment_index": 357, "start": 1286.02, "end": 1288.02, "text": "være litt bekymret og"}
+{"episode_id": 104, "segment_index": 358, "start": 1288.02, "end": 1290.02, "text": "skeptisk til ting, da."}
+{"episode_id": 104, "segment_index": 359, "start": 1290.02, "end": 1292.02, "text": "Og i forhold til"}
+{"episode_id": 104, "segment_index": 360, "start": 1292.02, "end": 1294.02, "text": "hva som du har mist bekymret"}
+{"episode_id": 104, "segment_index": 361, "start": 1294.02, "end": 1296.02, "text": "framover, er det dette her du var inne på"}
+{"episode_id": 104, "segment_index": 362, "start": 1296.02, "end": 1298.02, "text": "med at man kommer med Kalle"}
+{"episode_id": 104, "segment_index": 363, "start": 1298.02, "end": 1300.09, "text": "tiltak som viser seg å være nesten"}
+{"episode_id": 104, "segment_index": 364, "start": 1300.09, "end": 1302.09, "text": "irreversible?"}
+{"episode_id": 104, "segment_index": 365, "start": 1302.09, "end": 1304.57, "text": "Eller er det andre ting?"}
+{"episode_id": 104, "segment_index": 366, "start": 1304.57, "end": 1306.57, "text": "Nå ser jeg ikke så veldig bekymret for"}
+{"episode_id": 104, "segment_index": 367, "start": 1306.57, "end": 1308.57, "text": "det virke som å må måge på lite grann"}
+{"episode_id": 104, "segment_index": 368, "start": 1308.57, "end": 1310.57, "text": "selv har veldig. Det de har gjort så"}
+{"episode_id": 104, "segment_index": 369, "start": 1310.57, "end": 1312.57, "text": "langt virke som om de er veldig"}
+{"episode_id": 104, "segment_index": 370, "start": 1312.57, "end": 1314.57, "text": "på vekt over for det selv, så foreløpig"}
+{"episode_id": 104, "segment_index": 371, "start": 1314.57, "end": 1316.57, "text": "ser det bra ut, at den heller"}
+{"episode_id": 104, "segment_index": 372, "start": 1316.57, "end": 1318.57, "text": "avventer og ser om det behov for"}
+{"episode_id": 104, "segment_index": 373, "start": 1318.57, "end": 1320.57, "text": "enda mer tiltak, og at den"}
+{"episode_id": 104, "segment_index": 374, "start": 1320.57, "end": 1322.57, "text": "kan gjere sitt ytterst for å"}
+{"episode_id": 104, "segment_index": 375, "start": 1322.57, "end": 1324.57, "text": "unngå at dette er sånn irreversible"}
+{"episode_id": 104, "segment_index": 376, "start": 1324.57, "end": 1326.57, "text": "penger. Men ja, den kan være"}
+{"episode_id": 104, "segment_index": 377, "start": 1326.57, "end": 1328.57, "text": "bekymret for det, men det er jo"}
+{"episode_id": 104, "segment_index": 378, "start": 1328.57, "end": 1330.57, "text": "bekymret for at det ender"}
+{"episode_id": 104, "segment_index": 379, "start": 1330.57, "end": 1332.57, "text": "selvfølgelig, at det ender opp med at"}
+{"episode_id": 104, "segment_index": 380, "start": 1332.57, "end": 1334.57, "text": "det nedturen blir"}
+{"episode_id": 104, "segment_index": 381, "start": 1334.57, "end": 1336.57, "text": "djupt og at det ikke blir gjort nok"}
+{"episode_id": 104, "segment_index": 382, "start": 1336.57, "end": 1338.57, "text": "det er jo også absolutt det grøft"}
+{"episode_id": 104, "segment_index": 383, "start": 1338.57, "end": 1340.57, "text": "man kan gå inn i og at"}
+{"episode_id": 104, "segment_index": 384, "start": 1340.57, "end": 1342.57, "text": "man ikke klarer å finne gode nok"}
+{"episode_id": 104, "segment_index": 385, "start": 1342.57, "end": 1344.57, "text": "tiltak, for det er nok ikke"}
+{"episode_id": 104, "segment_index": 386, "start": 1344.57, "end": 1346.57, "text": "det er nok ikke i så fall"}
+{"episode_id": 104, "segment_index": 387, "start": 1346.57, "end": 1348.57, "text": "et signal på mangel"}
+{"episode_id": 104, "segment_index": 388, "start": 1348.57, "end": 1350.57, "text": "på vilje, men heller i mangel på"}
+{"episode_id": 104, "segment_index": 389, "start": 1350.57, "end": 1352.57, "text": "evne, fordi det er ikke bare"}
+{"episode_id": 104, "segment_index": 390, "start": 1352.57, "end": 1354.57, "text": "å bruke politikk til å"}
+{"episode_id": 104, "segment_index": 391, "start": 1354.57, "end": 1356.57, "text": "fixe økonomien, økonomien"}
+{"episode_id": 104, "segment_index": 392, "start": 1356.57, "end": 1358.57, "text": "skal jo helst å fixe seg selv, men akkurat"}
+{"episode_id": 104, "segment_index": 393, "start": 1358.57, "end": 1360.57, "text": "nå trengs det til de grader"}
+{"episode_id": 104, "segment_index": 394, "start": 1360.57, "end": 1362.57, "text": "ingripen fra myndighetene,"}
+{"episode_id": 104, "segment_index": 395, "start": 1362.57, "end": 1364.57, "text": "men det er ikke sikkert at"}
+{"episode_id": 104, "segment_index": 396, "start": 1364.57, "end": 1366.57, "text": "politikken selv om man prøver"}
+{"episode_id": 104, "segment_index": 397, "start": 1366.57, "end": 1368.57, "text": "alt jeg kan, klarer å fixe"}
+{"episode_id": 104, "segment_index": 398, "start": 1368.57, "end": 1370.57, "text": "eller få deg zorre"}
+{"episode_id": 104, "segment_index": 399, "start": 1370.57, "end": 1372.57, "text": "fra denne"}
+{"episode_id": 104, "segment_index": 400, "start": 1372.57, "end": 1374.57, "text": "koronakriso, til å"}
+{"episode_id": 104, "segment_index": 401, "start": 1374.57, "end": 1376.57, "text": "ikke bli permanente, antagligvis så blir"}
+{"episode_id": 104, "segment_index": 402, "start": 1376.57, "end": 1378.57, "text": "du permanent. Nå er det"}
+{"episode_id": 104, "segment_index": 403, "start": 1378.57, "end": 1380.57, "text": "om og gjerre å få den andel"}
+{"episode_id": 104, "segment_index": 404, "start": 1380.57, "end": 1382.57, "text": "til å bli minst muligere av bedrifter"}
+{"episode_id": 104, "segment_index": 405, "start": 1382.57, "end": 1384.57, "text": "som egentlig var levegrødd diktighet"}
+{"episode_id": 104, "segment_index": 406, "start": 1384.57, "end": 1386.57, "text": "at det er kommet å gå tapt for alltid."}
+{"episode_id": 104, "segment_index": 407, "start": 1386.57, "end": 1388.57, "text": "Hva gir det mening det kjære siden?"}
+{"episode_id": 104, "segment_index": 408, "start": 1388.57, "end": 1390.57, "text": "Det gir det veldig mening, det er mye"}
+{"episode_id": 104, "segment_index": 409, "start": 1390.57, "end": 1392.57, "text": "vi kan diskutere lenge her, men akkurat det"}
+{"episode_id": 104, "segment_index": 410, "start": 1392.57, "end": 1394.57, "text": "som kjære siden var inn på"}
+{"episode_id": 104, "segment_index": 411, "start": 1394.57, "end": 1396.57, "text": "slutten her, det er jo det som er"}
+{"episode_id": 104, "segment_index": 412, "start": 1396.57, "end": 1398.57, "text": "veldig krevne"}
+{"episode_id": 104, "segment_index": 413, "start": 1398.57, "end": 1400.57, "text": "nå, i begynnelsen"}
+{"episode_id": 104, "segment_index": 414, "start": 1400.57, "end": 1402.57, "text": "handler veldig mye"}
+{"episode_id": 104, "segment_index": 415, "start": 1402.57, "end": 1404.57, "text": "om bare temp"}
+{"episode_id": 104, "segment_index": 416, "start": 1404.57, "end": 1406.57, "text": "og prøve å treffe så godt"}
+{"episode_id": 104, "segment_index": 417, "start": 1406.57, "end": 1408.57, "text": "man kunne, så rask man kunne"}
+{"episode_id": 104, "segment_index": 418, "start": 1408.57, "end": 1410.57, "text": "med ekstant halv miljarder"}
+{"episode_id": 104, "segment_index": 419, "start": 1410.57, "end": 1412.57, "text": "mens nå er det jo mye mer"}
+{"episode_id": 104, "segment_index": 420, "start": 1412.57, "end": 1414.57, "text": "tankarbeid"}
+{"episode_id": 104, "segment_index": 421, "start": 1414.57, "end": 1416.57, "text": "og mye større kompleksitet"}
+{"episode_id": 104, "segment_index": 422, "start": 1416.57, "end": 1418.57, "text": "og veldig forskjeller i"}
+{"episode_id": 104, "segment_index": 423, "start": 1418.57, "end": 1420.57, "text": "ulike deler, og det skal rime"}
+{"episode_id": 104, "segment_index": 424, "start": 1420.57, "end": 1422.57, "text": "med utviklingen på"}
+{"episode_id": 104, "segment_index": 425, "start": 1422.57, "end": 1424.57, "text": "smittevernssiden"}
+{"episode_id": 104, "segment_index": 426, "start": 1424.57, "end": 1426.57, "text": "og utviklingen av selve smitten"}
+{"episode_id": 104, "segment_index": 427, "start": 1426.57, "end": 1428.57, "text": "men bare et eksempel til det du"}
+{"episode_id": 104, "segment_index": 428, "start": 1428.57, "end": 1430.57, "text": "sier, så har vi"}
+{"episode_id": 104, "segment_index": 429, "start": 1430.57, "end": 1432.57, "text": "hvordan vi stimulerer noen steder"}
+{"episode_id": 104, "segment_index": 430, "start": 1432.57, "end": 1434.57, "text": "som i andre steder, det er forskjell"}
+{"episode_id": 104, "segment_index": 431, "start": 1434.57, "end": 1436.57, "text": "for eksempel bare på bygg og anlegg"}
+{"episode_id": 104, "segment_index": 432, "start": 1436.57, "end": 1438.57, "text": "selv om vi sier det i et uttrykk"}
+{"episode_id": 104, "segment_index": 433, "start": 1438.57, "end": 1440.57, "text": "så hvertfall sånn som våre"}
+{"episode_id": 104, "segment_index": 434, "start": 1440.57, "end": 1442.57, "text": "analyser viser, så kunne vi"}
+{"episode_id": 104, "segment_index": 435, "start": 1442.57, "end": 1444.57, "text": "dytte en foreslå av 4 miljarder"}
+{"episode_id": 104, "segment_index": 436, "start": 1444.57, "end": 1446.57, "text": "til typen ved likhold"}
+{"episode_id": 104, "segment_index": 437, "start": 1446.57, "end": 1448.57, "text": "og sånn av bygg, mens på anleggssektoren"}
+{"episode_id": 104, "segment_index": 438, "start": 1448.57, "end": 1450.57, "text": "så er hvertfall de tallene vi har"}
+{"episode_id": 104, "segment_index": 439, "start": 1450.57, "end": 1452.57, "text": "tilsier at der er det gode kapasitetsuddel"}
+{"episode_id": 104, "segment_index": 440, "start": 1452.57, "end": 1454.57, "text": "så får vi løpet, så det haster ikke"}
+{"episode_id": 104, "segment_index": 441, "start": 1454.57, "end": 1456.57, "text": "men samtidig sier vi at det kommer"}
+{"episode_id": 104, "segment_index": 442, "start": 1456.57, "end": 1458.57, "text": "til å komme når det måtte"}
+{"episode_id": 104, "segment_index": 443, "start": 1458.57, "end": 1460.57, "text": "være behov for det, så jeg kan alle"}
+{"episode_id": 104, "segment_index": 444, "start": 1460.57, "end": 1462.57, "text": "sånn er det, det har jo vært"}
+{"episode_id": 104, "segment_index": 445, "start": 1462.57, "end": 1464.57, "text": "noen måneder med rimelig intense"}
+{"episode_id": 104, "segment_index": 446, "start": 1464.57, "end": 1466.57, "text": "lobby"}
+{"episode_id": 104, "segment_index": 447, "start": 1466.57, "end": 1468.57, "text": "lobbyvirksomhet, så jeg har fått"}
+{"episode_id": 104, "segment_index": 448, "start": 1468.57, "end": 1470.57, "text": "mailer fra"}
+{"episode_id": 104, "segment_index": 449, "start": 1470.57, "end": 1472.57, "text": "alle normale"}
+{"episode_id": 104, "segment_index": 450, "start": 1472.57, "end": 1474.57, "text": "bedrifter som vi kjenner til, men også"}
+{"episode_id": 104, "segment_index": 451, "start": 1474.57, "end": 1476.57, "text": "du får jo fra alle mulige andre"}
+{"episode_id": 104, "segment_index": 452, "start": 1476.57, "end": 1478.57, "text": "som ikke vi treffer"}
+{"episode_id": 104, "segment_index": 453, "start": 1478.57, "end": 1480.57, "text": "klokkerent på, så det er"}
+{"episode_id": 104, "segment_index": 454, "start": 1480.57, "end": 1482.57, "text": "cirkus og danseskoder og rideskoder"}
+{"episode_id": 104, "segment_index": 455, "start": 1482.57, "end": 1484.57, "text": "og akvarier"}
+{"episode_id": 104, "segment_index": 456, "start": 1484.57, "end": 1486.57, "text": "så man hører"}
+{"episode_id": 104, "segment_index": 457, "start": 1486.57, "end": 1488.57, "text": "om ulike utfordringer"}
+{"episode_id": 104, "segment_index": 458, "start": 1488.57, "end": 1490.57, "text": "det er åpenbart et stort læret"}
+{"episode_id": 104, "segment_index": 459, "start": 1490.57, "end": 1492.57, "text": "og bleke selvfølgelig en stor utfordring"}
+{"episode_id": 104, "segment_index": 460, "start": 1492.57, "end": 1494.57, "text": "men i Zoom, altså"}
+{"episode_id": 104, "segment_index": 461, "start": 1494.57, "end": 1496.57, "text": "mange gode tiltak"}
+{"episode_id": 104, "segment_index": 462, "start": 1496.57, "end": 1498.6, "text": "men med kostnaderne"}
+{"episode_id": 104, "segment_index": 463, "start": 1498.6, "end": 1500.6, "text": "hva blir kostnaderne?"}
+{"episode_id": 104, "segment_index": 464, "start": 1500.6, "end": 1502.6, "text": "det har vi ikke"}
+{"episode_id": 104, "segment_index": 465, "start": 1502.6, "end": 1504.6, "text": "får vi ikke gjort opp endelig"}
+{"episode_id": 104, "segment_index": 466, "start": 1504.6, "end": 1506.6, "text": "enda, for det er veldig mye her"}
+{"episode_id": 104, "segment_index": 467, "start": 1506.6, "end": 1508.6, "text": "det er veldig mye som blir fremstilt"}
+{"episode_id": 104, "segment_index": 468, "start": 1508.6, "end": 1510.6, "text": "som eksektetall"}
+{"episode_id": 104, "segment_index": 469, "start": 1510.6, "end": 1512.6, "text": "og det er jo"}
+{"episode_id": 104, "segment_index": 470, "start": 1512.6, "end": 1514.6, "text": "vi gjør de beste regnestykene vi kan"}
+{"episode_id": 104, "segment_index": 471, "start": 1514.6, "end": 1516.6, "text": "men det er jo anslag"}
+{"episode_id": 104, "segment_index": 472, "start": 1516.6, "end": 1518.6, "text": "på bakgrunn av"}
+{"episode_id": 104, "segment_index": 473, "start": 1518.6, "end": 1520.6, "text": "ekstremt usikker"}
+{"episode_id": 104, "segment_index": 474, "start": 1520.6, "end": 1522.6, "text": "grunnlag, altså mye mer usikker"}
+{"episode_id": 104, "segment_index": 475, "start": 1522.6, "end": 1524.6, "text": "enn det vi vanligvis har"}
+{"episode_id": 104, "segment_index": 476, "start": 1524.6, "end": 1526.6, "text": "så miljardene spretter litt opp og ned"}
+{"episode_id": 104, "segment_index": 477, "start": 1526.6, "end": 1528.6, "text": "og det er jo det som"}
+{"episode_id": 104, "segment_index": 478, "start": 1528.6, "end": 1530.6, "text": "også gjør at man blir litt sånn"}
+{"episode_id": 104, "segment_index": 479, "start": 1530.6, "end": 1532.6, "text": "fartsplinn, fordi en miljard her"}
+{"episode_id": 104, "segment_index": 480, "start": 1532.6, "end": 1534.6, "text": "og en miljard der, det betyr liksom"}
+{"episode_id": 104, "segment_index": 481, "start": 1534.6, "end": 1536.6, "text": "ikke så mykje så mykje lenger"}
+{"episode_id": 104, "segment_index": 482, "start": 1536.6, "end": 1538.6, "text": "så det blir en oppgave"}
+{"episode_id": 104, "segment_index": 483, "start": 1538.6, "end": 1540.6, "text": "å komme vekk fra det"}
+{"episode_id": 104, "segment_index": 484, "start": 1540.6, "end": 1542.6, "text": "igjen og tilbake til at vi faktisk"}
+{"episode_id": 104, "segment_index": 485, "start": 1542.6, "end": 1544.6, "text": "bryr oss om å bevilge 50 millioner"}
+{"episode_id": 104, "segment_index": 486, "start": 1544.6, "end": 1546.6, "text": "til"}
+{"episode_id": 104, "segment_index": 487, "start": 1546.6, "end": 1548.6, "text": "hva det måtte være. Nå er det"}
+{"episode_id": 104, "segment_index": 488, "start": 1548.6, "end": 1550.6, "text": "litt sånn som jeg tror det"}
+{"episode_id": 104, "segment_index": 489, "start": 1550.6, "end": 1552.6, "text": "er naturlig at det blir"}
+{"episode_id": 104, "segment_index": 490, "start": 1552.6, "end": 1554.6, "text": "i en sånn ekstremt periode"}
+{"episode_id": 104, "segment_index": 491, "start": 1554.6, "end": 1556.6, "text": "og vi prøver å gjøre så godt vi kan"}
+{"episode_id": 104, "segment_index": 492, "start": 1556.6, "end": 1558.6, "text": "og så får vi justere etter hvert."}
+{"episode_id": 104, "segment_index": 493, "start": 1558.6, "end": 1560.6, "text": "Hvis vi avslutningsvis"}
+{"episode_id": 104, "segment_index": 494, "start": 1560.6, "end": 1562.6, "text": "i hvert fall gjør et forsikt på"}
+{"episode_id": 104, "segment_index": 495, "start": 1562.6, "end": 1564.6, "text": "løfteblikke enda-linger fram"}
+{"episode_id": 104, "segment_index": 496, "start": 1564.6, "end": 1566.6, "text": "jeg er her med at dere har begynt å"}
+{"episode_id": 104, "segment_index": 497, "start": 1566.6, "end": 1568.6, "text": "tenke enda-linger fram, altså"}
+{"episode_id": 104, "segment_index": 498, "start": 1568.6, "end": 1570.6, "text": "hva er neste steg for regjeringen?"}
+{"episode_id": 104, "segment_index": 499, "start": 1570.6, "end": 1572.6, "text": "Nei, det vi"}
+{"episode_id": 104, "segment_index": 500, "start": 1572.6, "end": 1574.6, "text": "opplever at alle"}
+{"episode_id": 104, "segment_index": 501, "start": 1574.6, "end": 1576.6, "text": "økonomer også sier at"}
+{"episode_id": 104, "segment_index": 502, "start": 1576.6, "end": 1578.6, "text": "nå"}
+{"episode_id": 104, "segment_index": 503, "start": 1578.6, "end": 1580.6, "text": "vi har vært gjennom en sånn"}
+{"episode_id": 104, "segment_index": 504, "start": 1580.6, "end": 1582.6, "text": "første chokfase og så er vi over i en annen"}
+{"episode_id": 104, "segment_index": 505, "start": 1582.6, "end": 1584.6, "text": "fase hvor vi må"}
+{"episode_id": 104, "segment_index": 506, "start": 1584.6, "end": 1586.6, "text": "se han følge med tett"}
+{"episode_id": 104, "segment_index": 507, "start": 1586.6, "end": 1588.6, "text": "og se han hvordan det går"}
+{"episode_id": 104, "segment_index": 508, "start": 1588.6, "end": 1590.6, "text": "og fint sikte litt mer og sette"}
+{"episode_id": 104, "segment_index": 509, "start": 1590.6, "end": 1592.6, "text": "inn tiltak der det er"}
+{"episode_id": 104, "segment_index": 510, "start": 1592.6, "end": 1594.6, "text": "nødvendig, nord der nødvendig"}
+{"episode_id": 104, "segment_index": 511, "start": 1594.6, "end": 1596.6, "text": "og vi har ikke prøvet å si akkurat"}
+{"episode_id": 104, "segment_index": 512, "start": 1596.6, "end": 1598.6, "text": "hva det er eller nord der, men vi bare sier at"}
+{"episode_id": 104, "segment_index": 513, "start": 1598.6, "end": 1600.6, "text": "spesielt på arbeidsmarkedet"}
+{"episode_id": 104, "segment_index": 514, "start": 1600.6, "end": 1602.6, "text": "så kommer vi til å følge veldig tett"}
+{"episode_id": 104, "segment_index": 515, "start": 1602.6, "end": 1604.6, "text": "og diskutere videre med partene"}
+{"episode_id": 104, "segment_index": 516, "start": 1604.6, "end": 1606.6, "text": "hvordan ser det ut i august"}
+{"episode_id": 104, "segment_index": 517, "start": 1606.6, "end": 1608.6, "text": "og hva er da"}
+{"episode_id": 104, "segment_index": 518, "start": 1608.6, "end": 1610.6, "text": "fornuftig å gjøre på den tiden"}
+{"episode_id": 104, "segment_index": 519, "start": 1610.6, "end": 1612.6, "text": "og så blir det"}
+{"episode_id": 104, "segment_index": 520, "start": 1612.6, "end": 1614.6, "text": "interessant å se om"}
+{"episode_id": 104, "segment_index": 521, "start": 1614.6, "end": 1616.6, "text": "sånn som jeg opplever nå, så stor det jo"}
+{"episode_id": 104, "segment_index": 522, "start": 1616.6, "end": 1618.6, "text": "folk på at vi har smitten"}
+{"episode_id": 104, "segment_index": 523, "start": 1618.6, "end": 1620.6, "text": "under kontroll i norge"}
+{"episode_id": 104, "segment_index": 524, "start": 1620.6, "end": 1622.6, "text": "sånn at man følger i princip de rådene"}
+{"episode_id": 104, "segment_index": 525, "start": 1622.6, "end": 1624.6, "text": "man får å gjøre kanskje ikke"}
+{"episode_id": 104, "segment_index": 526, "start": 1624.6, "end": 1626.6, "text": "dobbelt så mye som man ellers vil gjort"}
+{"episode_id": 104, "segment_index": 527, "start": 1626.6, "end": 1628.6, "text": "men det er jo ikke"}
+{"episode_id": 104, "segment_index": 528, "start": 1628.6, "end": 1630.6, "text": "det er også"}
+{"episode_id": 104, "segment_index": 529, "start": 1630.6, "end": 1632.6, "text": "en situasjon som er viktig å holde"}
+{"episode_id": 104, "segment_index": 530, "start": 1632.6, "end": 1634.6, "text": "og så er det et moment"}
+{"episode_id": 104, "segment_index": 531, "start": 1634.6, "end": 1636.6, "text": "til som vi ikke har snakket om"}
+{"episode_id": 104, "segment_index": 532, "start": 1636.6, "end": 1638.6, "text": "som vi kunne hatt en egen runde på"}
+{"episode_id": 104, "segment_index": 533, "start": 1638.6, "end": 1640.6, "text": "og det er jo hele det internasjonale bilder"}
+{"episode_id": 104, "segment_index": 534, "start": 1640.6, "end": 1642.6, "text": "og hva det kommer"}
+{"episode_id": 104, "segment_index": 535, "start": 1642.6, "end": 1644.6, "text": "å gjøre med oss eller mot oss"}
+{"episode_id": 104, "segment_index": 536, "start": 1644.6, "end": 1646.6, "text": "med både oljepris"}
+{"episode_id": 104, "segment_index": 537, "start": 1646.6, "end": 1648.6, "text": "og global recession"}
+{"episode_id": 104, "segment_index": 538, "start": 1648.6, "end": 1650.6, "text": "det er jo en to-timmer-sjenning i seg selv"}
+{"episode_id": 104, "segment_index": 539, "start": 1650.6, "end": 1652.6, "text": "men på lang sikt så er det jo det"}
+{"episode_id": 104, "segment_index": 540, "start": 1652.6, "end": 1654.6, "text": "som blir det kanskje allermest"}
+{"episode_id": 104, "segment_index": 541, "start": 1654.6, "end": 1656.6, "text": "krevende for norge"}
+{"episode_id": 104, "segment_index": 542, "start": 1656.6, "end": 1659.02, "text": "for norske økonomi"}
+{"episode_id": 104, "segment_index": 543, "start": 1659.02, "end": 1661.02, "text": "men i som kjæreste"}
+{"episode_id": 104, "segment_index": 544, "start": 1661.02, "end": 1663.02, "text": "mange tiltak"}
+{"episode_id": 104, "segment_index": 545, "start": 1663.02, "end": 1665.02, "text": "mange gode tiltak"}
+{"episode_id": 104, "segment_index": 546, "start": 1665.02, "end": 1667.02, "text": "ting nå ser ut til å gå"}
+{"episode_id": 104, "segment_index": 547, "start": 1667.02, "end": 1669.02, "text": "den riktige veien så"}
+{"episode_id": 104, "segment_index": 548, "start": 1669.02, "end": 1671.02, "text": "det er vel grunn til å være på den optimistiske"}
+{"episode_id": 104, "segment_index": 549, "start": 1671.02, "end": 1673.02, "text": "foten selv om det er utfordring"}
+{"episode_id": 104, "segment_index": 550, "start": 1673.02, "end": 1675.02, "text": "ja, vi må"}
+{"episode_id": 104, "segment_index": 551, "start": 1675.02, "end": 1677.02, "text": "være optimistisk i den forstand"}
+{"episode_id": 104, "segment_index": 552, "start": 1677.02, "end": 1679.02, "text": "at ting ser ikke så mørkt ut"}
+{"episode_id": 104, "segment_index": 553, "start": 1679.02, "end": 1681.02, "text": "som det gjorde ikke minst"}
+{"episode_id": 104, "segment_index": 554, "start": 1681.02, "end": 1683.02, "text": "som det gjorde 12 mars"}
+{"episode_id": 104, "segment_index": 555, "start": 1683.02, "end": 1685.02, "text": "med noe som det gjorde"}
+{"episode_id": 104, "segment_index": 556, "start": 1685.02, "end": 1687.02, "text": "og bare en månedstis i så"}
+{"episode_id": 104, "segment_index": 557, "start": 1687.02, "end": 1689.02, "text": "noe positive tegn har vi tatt med oss"}
+{"episode_id": 104, "segment_index": 558, "start": 1689.02, "end": 1691.02, "text": "det må vi fortsette å være glad for"}
+{"episode_id": 104, "segment_index": 559, "start": 1691.02, "end": 1693.02, "text": "men vi må heller ikke lukke øynene for"}
+{"episode_id": 104, "segment_index": 560, "start": 1693.02, "end": 1695.02, "text": "nettopp der, det kommer til å være krevende"}
+{"episode_id": 104, "segment_index": 561, "start": 1695.02, "end": 1697.02, "text": "den siste nedgangen"}
+{"episode_id": 104, "segment_index": 562, "start": 1697.02, "end": 1699.02, "text": "å få arbeidsledighet ned"}
+{"episode_id": 104, "segment_index": 563, "start": 1699.02, "end": 1701.02, "text": "til normale nivåer"}
+{"episode_id": 104, "segment_index": 564, "start": 1701.02, "end": 1703.02, "text": "enn kommer til å bli stadig med krevende"}
+{"episode_id": 104, "segment_index": 565, "start": 1703.02, "end": 1705.02, "text": "for noen kommer til å miste jobben permanent her"}
+{"episode_id": 104, "segment_index": 566, "start": 1705.02, "end": 1707.02, "text": "en del, en god del folk"}
+{"episode_id": 104, "segment_index": 567, "start": 1707.02, "end": 1709.02, "text": "og det blir krevende"}
+{"episode_id": 104, "segment_index": 568, "start": 1709.02, "end": 1711.02, "text": "for økonomi og for oss alle å håndtere"}
+{"episode_id": 104, "segment_index": 569, "start": 1711.02, "end": 1713.02, "text": "jeg har spart viktigste spørsmål"}
+{"episode_id": 104, "segment_index": 570, "start": 1713.02, "end": 1715.02, "text": "helt til sist"}
+{"episode_id": 104, "segment_index": 571, "start": 1715.02, "end": 1717.02, "text": "Kari, altså"}
+{"episode_id": 104, "segment_index": 572, "start": 1717.02, "end": 1719.02, "text": "nå har du jo vært en lang"}
+{"episode_id": 104, "segment_index": 573, "start": 1719.02, "end": 1721.02, "text": "og strefsom periode antaget med mye å gjøre"}
+{"episode_id": 104, "segment_index": 574, "start": 1721.02, "end": 1723.02, "text": "blir det tid til sommeferie"}
+{"episode_id": 104, "segment_index": 575, "start": 1723.02, "end": 1725.08, "text": "og blir det norge eller blir det dammerk"}
+{"episode_id": 104, "segment_index": 576, "start": 1725.08, "end": 1727.08, "text": "det blir sommeferie"}
+{"episode_id": 104, "segment_index": 577, "start": 1727.08, "end": 1729.08, "text": "og det blir norge"}
+{"episode_id": 104, "segment_index": 578, "start": 1729.08, "end": 1731.08, "text": "så det blir fjell og fjord"}
+{"episode_id": 104, "segment_index": 579, "start": 1731.08, "end": 1733.08, "text": "og øretfiske og litt forskjellig"}
+{"episode_id": 104, "segment_index": 580, "start": 1733.08, "end": 1735.08, "text": "god å høre, det høres"}
+{"episode_id": 104, "segment_index": 581, "start": 1735.08, "end": 1737.08, "text": "veldig bra ut igjen"}
+{"episode_id": 104, "segment_index": 582, "start": 1737.08, "end": 1739.08, "text": "tusen takk for at du tog det tid"}
+{"episode_id": 104, "segment_index": 583, "start": 1739.08, "end": 1741.08, "text": "til å være med her hos oss"}
+{"episode_id": 104, "segment_index": 584, "start": 1741.08, "end": 1743.08, "text": "og så til deg Kersti"}
+{"episode_id": 104, "segment_index": 585, "start": 1743.08, "end": 1745.08, "text": "og ikke minst takk til alle dere som hørte på"}
+{"episode_id": 104, "segment_index": 586, "start": 1745.08, "end": 1771.91, "text": "denne podcasten"}
+{"episode_id": 104, "segment_index": 587, "start": 1771.91, "end": 1773.91, "text": "og detts innehåll skal anses"}
+{"episode_id": 104, "segment_index": 588, "start": 1773.91, "end": 1775.91, "text": "som markedsføringsmaterial fra DMB"}
+{"episode_id": 104, "segment_index": 589, "start": 1775.91, "end": 1777.91, "text": "og må ikke oppfattes som"}
+{"episode_id": 104, "segment_index": 590, "start": 1777.91, "end": 1779.91, "text": "investeringsanbefaling"}
+{"episode_id": 104, "segment_index": 591, "start": 1779.91, "end": 1782.3, "text": "eller som investeringsanalyset"}
+{"episode_id": 104, "segment_index": 592, "start": 1782.3, "end": 1784.3, "text": "innehåll skal heller ikke anses for å være"}
+{"episode_id": 104, "segment_index": 593, "start": 1784.3, "end": 1786.3, "text": "investeringsrådivning"}
+{"episode_id": 104, "segment_index": 594, "start": 1786.3, "end": 1788.49, "text": "tilpasset den enkelte kundesbehovet"}
+{"episode_id": 104, "segment_index": 595, "start": 1788.49, "end": 1790.49, "text": "informasjonen som giser podcasten"}
+{"episode_id": 104, "segment_index": 596, "start": 1790.49, "end": 1792.49, "text": "er kun mennes som generell sparverledning"}
+{"episode_id": 104, "segment_index": 597, "start": 1792.49, "end": 1794.49, "text": "og er ikke ment å utgjøre juridisk"}
+{"episode_id": 104, "segment_index": 598, "start": 1794.49, "end": 1796.49, "text": "finansiell, kommersiell"}
+{"episode_id": 104, "segment_index": 599, "start": 1796.49, "end": 1798.49, "text": "skattemessig eller renskapsmessig"}
+{"episode_id": 104, "segment_index": 600, "start": 1798.49, "end": 1801.42, "text": "rådivning"}
+{"episode_id": 104, "segment_index": 601, "start": 1801.42, "end": 1803.42, "text": "innholdig sendingen er ikke gjennomgått"}
+{"episode_id": 104, "segment_index": 602, "start": 1803.42, "end": 1805.42, "text": "eller godkjent av DMB Markets avdeling for analyset"}
+{"episode_id": 104, "segment_index": 603, "start": 1805.42, "end": 1807.51, "text": "alle uttalser"}
+{"episode_id": 104, "segment_index": 604, "start": 1807.51, "end": 1809.51, "text": "reflekterer DMBs vurderinger"}
+{"episode_id": 104, "segment_index": 605, "start": 1809.51, "end": 1811.51, "text": "på tidspunktet for den aktuelle sendingen"}
+{"episode_id": 104, "segment_index": 606, "start": 1811.51, "end": 1813.51, "text": "og kan etterkant endres uten nærmere beskjed"}
+{"episode_id": 104, "segment_index": 607, "start": 1813.51, "end": 1817.21, "text": "DMB er ikke ansvarlig"}
+{"episode_id": 104, "segment_index": 608, "start": 1817.21, "end": 1819.21, "text": "for hvordan informasjonen i podcasten"}
+{"episode_id": 104, "segment_index": 609, "start": 1819.21, "end": 1821.21, "text": "benyttes eller tolkes"}
+{"episode_id": 104, "segment_index": 610, "start": 1821.21, "end": 1823.21, "text": "informasjonen som hennviset til"}
+{"episode_id": 104, "segment_index": 611, "start": 1823.21, "end": 1825.21, "text": "historisk avkastning i finansiell"}
+{"episode_id": 104, "segment_index": 612, "start": 1825.21, "end": 1827.21, "text": "indeks eller prognoser"}
+{"episode_id": 104, "segment_index": 613, "start": 1827.21, "end": 1829.21, "text": "gir ingen garantif"}
+{"episode_id": 104, "segment_index": 614, "start": 1829.21, "end": 1831.21, "text": "og fremtidig avkastning"}
+{"episode_id": 104, "segment_index": 615, "start": 1831.21, "end": 1833.75, "text": "DMB gjør oppmerksom på at den hver"}
+{"episode_id": 104, "segment_index": 616, "start": 1833.75, "end": 1835.75, "text": "investering i et finansiellest"}
+{"episode_id": 104, "segment_index": 617, "start": 1835.75, "end": 1837.75, "text": "instrument er forbundet med risiko"}
+{"episode_id": 104, "segment_index": 618, "start": 1837.75, "end": 1840.17, "text": "for økonomisk tap"}
+{"episode_id": 104, "segment_index": 619, "start": 1840.17, "end": 1842.17, "text": "finansielle instrumenter kan både øke"}
+{"episode_id": 104, "segment_index": 620, "start": 1842.17, "end": 1844.17, "text": "og minnske valg i"}
+{"episode_id": 104, "segment_index": 621, "start": 1844.17, "end": 1846.17, "text": "slik at avkastning kan bli negativ som følge"}
+{"episode_id": 104, "segment_index": 622, "start": 1846.17, "end": 1848.3, "text": "av kursvald"}
+{"episode_id": 104, "segment_index": 623, "start": 1848.3, "end": 1850.3, "text": "DMB tar intet ansvar for direkte eller"}
+{"episode_id": 104, "segment_index": 624, "start": 1850.3, "end": 1852.3, "text": "indirekte tap og kostnader"}
+{"episode_id": 104, "segment_index": 625, "start": 1852.3, "end": 1854.3, "text": "som måtte oppståve bruk av den"}
+{"episode_id": 104, "segment_index": 626, "start": 1854.3, "end": 1856.3, "text": "fys i podcasten"}

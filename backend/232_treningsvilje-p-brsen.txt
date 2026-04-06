@@ -1,0 +1,895 @@
+Episode 232: Treningsvilje på børsen
+Publisert: Sat, 13 No
+Vert: Marius Brun Haugen
+Varighet: 22 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/treningsvilje-pa-brsen
+
+--- Transkripsjon ---
+
+[00:00:03] Treningsaksjen satt seg blant ukens vinnere, mens sjømat er ukens klare taper i aksjemarkedet.
+
+[00:00:15] Prisveksten i USA er likevel det viktigste datapunktet å få med seg denne uken.
+
+[00:00:20] Og så har vi børsintroduksjonen av elbilprodusenten Rivian.
+
+[00:00:24] Alt dette her skal vi snakke mer om i dagens episode.
+
+[00:00:37] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer i den globale økonomien og finansmarkedene.
+
+[00:00:44] Jeg er Marius Brunhaugen fra DNB Markets, og med meg har jeg ingen ringere enn aksjestrategen vår, Paul Harper.
+
+[00:00:52] Hei, Paul.
+
+[00:00:53] Hei, Marius.
+
+[00:00:54] Da er det endelig fredag igjen, og det går mot en flat uke for hovedindeksen på Oslo Børs.
+
+[00:01:02] Men vi skal snakke både sjømat, elbil, olje og treningsaksjer, for der har det skjedd interessante ting.
+
+[00:01:08] Men prisveksten i USA er i hvert fall etter min mening det viktigste datapunktet.
+
+[00:01:14] Denne uken for investorene, er du enig?
+
+[00:01:17] Ja, det tror jeg må egentlig si jeg er.
+
+[00:01:19] For oppsett av de tallene som du nevner her, så er det selvfølgelig viktig for de enkeltselskapene det gjelder.
+
+[00:01:25] Men når vi ser for inflasjon, så er jo det viktig for økonomien og børsen totalt sett.
+
+[00:01:32] Og tidligere denne uken så kom det da månedsinflasjonstall fra USA, og det var klart høyere enn ventet.
+
+[00:01:38] Nå har vi hatt flere måneder hvor det har vært litt på den høye siden,
+
+[00:01:42] men nå tror jeg det er større.
+
+[00:01:44] Det er et større spørsmålstegn til Feds vurdering at denne inflasjonen er midlertidig,
+
+[00:01:50] og markedet blir klart mer usikker på om de helt tror på det case lenger.
+
+[00:01:54] Men markedet tok det jo ganske med ro etter at disse tallene kom, sånn umiddelbart, eller hva?
+
+[00:02:00] Ja, så det er ikke sånn veldig stor dramatikk i dette her,
+
+[00:02:04] for vi har jo sett at det har bygget seg opp litt gradvis dette med inflasjonen.
+
+[00:02:09] Så til å begynne med så tror jeg det er helt riktig at mesteparten var midlertidige faktorer,
+
+[00:02:14] og det er en del midlertidige faktorer som er inne i bildet fremdeles.
+
+[00:02:18] Men ser vi litt på sånne ting som lønningsnivåene for eksempel,
+
+[00:02:23] så begynner veksten der å øke,
+
+[00:02:26] og det er nok en av de viktigste faktorene som må til hvis inflasjonen skal vare.
+
+[00:02:31] For ellers så blir det jo til at kjøpekraften bare blir svakere,
+
+[00:02:35] veksten dabber av av den grunn, og så kommer vi tilbake til start.
+
+[00:02:40] Men hvis du først får høyere lønninger,
+
+[00:02:43] og vi vet at arbeidsmarkedet er ganske stramt,
+
+[00:02:46] det fikk vi bekreftelse for fra uken før,
+
+[00:02:51] så blir det mye større potensial at priser begynner å øke,
+
+[00:02:55] og det øker ikke bare en gang, men det fortsetter å øke,
+
+[00:02:58] for har husholdningene penger i banken og høyere lønninger,
+
+[00:03:02] så har de evnen til å betale mer også,
+
+[00:03:04] og da kan det plutselig bli satt litt mer i system.
+
+[00:03:06] Ja, og bare for å ta med noen fakta,
+
+[00:03:09] altså prisveksten som du sa i oktober,
+
+[00:03:13] ble hele, sier jeg altså, 0,6 prosent høyere enn måneden før,
+
+[00:03:19] og måler man prisveksten år over år, så er det høyeste siden 1990,
+
+[00:03:23] bare for å sette det litt i perspektiv,
+
+[00:03:25] og som du er inne på, det blir jo vanskeligere og vanskeligere
+
+[00:03:29] å kjøpe den der argumentasjonen som blant annet Fed fortsatt holder på,
+
+[00:03:34] at dette her er forbigående.
+
+[00:03:36] Ja, og det ser jo det i markedet også,
+
+[00:03:38] at nå priser man inn at første renteøkningen skal komme i juli,
+
+[00:03:43] neste år, og når jeg så på dette her i går,
+
+[00:03:47] så var muligheten for en renteøkning allerede i juni
+
+[00:03:51] nå priset til litt over 80 prosent,
+
+[00:03:54] og for at det skal skje, så må den nedtrappingen av kvantitativ lettelse
+
+[00:03:58] skje noe fortere enn de har indikert,
+
+[00:04:01] sånn sett så er det en del som skjer her,
+
+[00:04:04] og markedet da tror at rentene må opp raskere
+
+[00:04:08] enn det Fed har selv indikert tidligere.
+
+[00:04:10] Så markedet tar det innover seg,
+
+[00:04:13] har aksjeinvestorene tatt det nok innover seg?
+
+[00:04:17] Ja, det er jo vanskelig å si helt konkret,
+
+[00:04:20] for rentene i første omgang har,
+
+[00:04:24] startpunktet er forholdsvis lavt,
+
+[00:04:26] og jeg må si jeg var litt overrasket forrige uke
+
+[00:04:29] etter at arbeidsmarkedstallene kom,
+
+[00:04:31] at rentene, eller 10-årsrenten da,
+
+[00:04:33] beveget seg noe nedover,
+
+[00:04:35] men her har det også vært en del av historien
+
+[00:04:39] at det er flere makro-hedgefond
+
+[00:04:42] som har kommet litt skjevt ut med posisjonering her,
+
+[00:04:45] så det kan hende at noen av disse bevegelser
+
+[00:04:47] reflekterer en flow-effekt av at de har måttet prøve
+
+[00:04:51] å komme seg ut av sure posisjoner,
+
+[00:04:54] og jeg har sett flere ganske kjente navn
+
+[00:04:55] innenfor makro-hedgefond,
+
+[00:04:57] da har jeg rapportert,
+
+[00:04:58] eller i hvert fall sagt fra til de som investerer der,
+
+[00:05:03] at de har gått på tap på 10% pluss enkelt av de
+
+[00:05:07] de siste måneden,
+
+[00:05:08] og da blir det ganske store flytelementer
+
+[00:05:10] som også kan forstyrre priset,
+
+[00:05:12] og prisutviklingen.
+
+[00:05:13] Og bare for å ta et lite hopp,
+
+[00:05:15] men i forlengelsen av dette rundt prisveksten,
+
+[00:05:20] det er jo sånn at alt henger sammen med alt.
+
+[00:05:22] Litt interessant denne uken også,
+
+[00:05:24] skal vi kalle det balanseringen til Biden
+
+[00:05:27] knyttet til bruk av strategiske oljereserver også?
+
+[00:05:32] Ja, han er jo i en litt sånn tricky posisjon her,
+
+[00:05:35] for det at på den ene siden så er bensinpriser
+
+[00:05:38] et ganske følsomt tema i USA,
+
+[00:05:41] så han vil jo egentlig helst at bensinprisen
+
+[00:05:44] ikke skal økes alt for mye,
+
+[00:05:46] men på den andre siden så er det jo COP26 som skjer,
+
+[00:05:50] og da høres det ikke like bra ut at han oppfordrer
+
+[00:05:53] til mer oljeproduksjon.
+
+[00:05:55] Så han er i en litt vanskelig posisjon akkurat nå,
+
+[00:05:59] men da når bensinprisene øker,
+
+[00:06:02] og prisene på veldig mye annet stiger også,
+
+[00:06:05] så er dette noe som merkes blant amerikanske husholdninger,
+
+[00:06:09] og når det gjelder amerikanske bensinspesialiseringer,
+
+[00:06:11] så har ikke de så mye skatt på bensinen som vi har i Norge,
+
+[00:06:15] så da blir det jo til at de prisendringene for oljeprisen
+
+[00:06:19] da blir mye mer merkbart i bensinprisen i pumpa,
+
+[00:06:23] for i Norge så blir jo en del av den totalprisen
+
+[00:06:27] absorbert, kan du si, av et forholdsvis høyt skattenivå
+
+[00:06:30] til å begynne med.
+
+[00:06:31] Så det blir jo helt satt noe mer følsomt i USA enn det er her.
+
+[00:06:35] Men bare for å runde av hele prisvekstdelen
+
+[00:06:38] av dagens prat,
+
+[00:06:41] vi er fortsatt ikke der at det gjør deg bekymret
+
+[00:06:46] i forhold til hvordan synet vårt på aksjemarkedet er.
+
+[00:06:53] Man skal fortsatt være med.
+
+[00:06:55] Ja, altså vi tror dette er ikke nok til å skape noe større korreksjon,
+
+[00:07:01] men jeg vil si at hvor sikker man kan være på det,
+
+[00:07:06] så jeg vil si at det er noe mindre sikker nå
+
+[00:07:08] enn det kanskje var for en uke siden,
+
+[00:07:09] så jeg vil ikke si at det er over,
+
+[00:07:11] men det er klart litt mer utfordrende enn det var.
+
+[00:07:17] Og grunnen til at dette blir såpass viktig er at vi har hatt
+
+[00:07:20] nå i ti år pluss en slags hovedfaktor som har drevet børsen opp,
+
+[00:07:26] at renter er lave, og det gjør at investorer har ikke
+
+[00:07:30] så mange alternativer.
+
+[00:07:31] Kommer renten opp, så er det plutselig da reelle alternativer
+
+[00:07:35] i forhold til hvor man kan sette sparepengene,
+
+[00:07:37] og det da blir en ganske stor endring i forhold til
+
+[00:07:41] big picture for hele aksjemarkedet.
+
+[00:07:43] La oss gå over til noen av enkelte aksjene som fanget oppmerksomheten vår
+
+[00:07:48] i uken som gikk, og et av de er treningsaksjensats.
+
+[00:07:53] Investorene likte åpenbart at sats kunne melde om
+
+[00:07:56] bra fart i antall medlemmer, og har jo sendt aksjen solid opp
+
+[00:08:01] på torsdag, og det ser ut til å fortsette i dag på fredag, Paul.
+
+[00:08:04] Ja, det var bra tall, og her får du litt ekstra futt,
+
+[00:08:08] fordi at de har en litt svak balanse, så det har vært
+
+[00:08:11] bekymring at de må eventuelt gjøre en emisjon
+
+[00:08:14] på et eller annet tidspunkt her, så da blir det jo til at
+
+[00:08:17] klarer du å holde bedre tall, så blir sannsynligheten for det
+
+[00:08:21] noe mindre, eller i hvert fall skal det komme, så blir det da
+
+[00:08:24] noe mindre utvann enn det ellers hadde vært,
+
+[00:08:27] så da får du egentlig litt mer futt i gode tall
+
+[00:08:29] når det også er en del av situasjonen.
+
+[00:08:33] Så det var bra tall, noe av det som var bedre
+
+[00:08:36] enn vi hadde forventet, var med at det kom litt mer støtte
+
+[00:08:40] fra staten her, så vi kan si at det var kanskje ikke
+
+[00:08:44] like bra som det så ut ved første inntrykk,
+
+[00:08:47] så vi har fortsatt holde anbefaling på aksjen,
+
+[00:08:50] og vi gjorde ikke noe med kursmålet, så da er vi ikke
+
+[00:08:54] kanskje like begeistret som markedet, men jeg skjønner
+
+[00:08:57] godt at det fikk en positiv reaksjon når du da også
+
+[00:09:01] får den effekten på balansen.
+
+[00:09:03] Ja, det kan man helt sikkert si at det er fortjent,
+
+[00:09:06] og så er det viktig å understreke, som du sier,
+
+[00:09:08] at vi gjenter holde anbefalingen og har kursmål,
+
+[00:09:10] 23 kroner, og det er jo et par ting man kan tenke over
+
+[00:09:16] hvis man ser på aksjen. Det ene er jo i hvilken grad
+
+[00:09:19] koronarestriksjoner, dersom det nå kommer tilbake,
+
+[00:09:23] vil kunne skape nyrunder med trøbbel for sats,
+
+[00:09:28] og selv om det er positivt at det har fått opp
+
+[00:09:30] medlemsbasen tilbake til utgangspunktet,
+
+[00:09:34] og kanskje enda bedre enn det man var før pandemien,
+
+[00:09:37] så vet vi jo ikke med sikkerhet om,
+
+[00:09:40] om de fortsatt lykkes med å få like mange kunder
+
+[00:09:44] inn på sentrene, slik at de får gjort mer salg
+
+[00:09:47] i form av å selge flere PET-timer,
+
+[00:09:50] selge flere sjokolader, flere håndkler,
+
+[00:09:53] Gud vet hva, og det vil jo igjen påvirke marginen,
+
+[00:09:57] og dette er jo ting som vi forløpig ikke vet,
+
+[00:10:00] sånn sett så er det jo så fælt til en viss grad
+
+[00:10:04] at man skal være litt balansert her,
+
+[00:10:07] og vi sier hold.
+
+[00:10:08] Ja, så det er jo fortsatt litt tidlig å si
+
+[00:10:10] at man er helt tilbake til utgangspunktet her,
+
+[00:10:14] så du kan si at relativt sett så har de kanskje
+
+[00:10:16] styrket sin posisjon i markedet,
+
+[00:10:19] men som du sier, du må få folk inn døren,
+
+[00:10:22] og det er jo alltid et forholdsvis høyt kjørn
+
+[00:10:25] i denne bransjen, så det trenger hele tiden
+
+[00:10:27] å få nye kunder inn, for en del av de som er medlemmer
+
+[00:10:32] slutter å betale etter hvert, og detter ut av listen,
+
+[00:10:35] og det kan jo hende at det er enkelte som
+
+[00:10:37] fortsatt er medlemmer nå, fordi at de hadde
+
+[00:10:40] medlemskapet fryst gjennom hele koronatiden,
+
+[00:10:43] og så har de bare ikke somlet seg til å oppdatere
+
+[00:10:46] at de kanskje ikke har tenkt å fortsette å trene,
+
+[00:10:49] så vi trenger egentlig noen måneder til
+
+[00:10:51] før vi kan være helt sikre på dette.
+
+[00:10:52] Kan du gjøre et lite eksperiment da, Paul?
+
+[00:10:55] Før pandemien så var du støttestadig
+
+[00:10:56] å se på romaskinen nede på senteret til sats,
+
+[00:11:00] til og med jeg var medlem der, ikke bare støttemedlem,
+
+[00:11:03] men i løpet av pandemien så fant jeg til slutt ut
+
+[00:11:06] at nei, nå kutter jeg dette medlemskapet,
+
+[00:11:08] og selv om jeg har tenkt på å melde meg inn igjen,
+
+[00:11:11] så har ikke jeg gjort det enda.
+
+[00:11:12] Det betyr ikke at jeg ikke kommer til å gjøre det,
+
+[00:11:14] men hva med deg? Er du i gang igjen?
+
+[00:11:15] Jeg har begynt å trene igjen, men jeg merker at
+
+[00:11:18] det er ikke like mye folk der som det var før korona,
+
+[00:11:21] så det er noe av grunnen til at,
+
+[00:11:23] altså jeg lar meg ikke helt oppvise enda før,
+
+[00:11:26] så var det jo ikke alltid at det var like greit
+
+[00:11:28] å få plass på tredjemøller,
+
+[00:11:29] men nå er det mer enn nok ledige maskiner,
+
+[00:11:32] så jeg har ikke helt kommet tilbake til
+
+[00:11:34] der det var til å begynne med.
+
+[00:11:41] Ok, vi får la sats ligge og gå over på sjømatt,
+
+[00:11:46] og mens investorene jublet for sats,
+
+[00:11:50] så gjorde de det motsatte for sjømattaksjene,
+
+[00:11:52] flere av de rapporterte denne uken.
+
+[00:11:55] Var det litt for høye forventninger å innfri,
+
+[00:11:59] eller var det mye som var berettiget
+
+[00:12:03] å skuffe investorene?
+
+[00:12:05] Ja, sjømatt, de er jo alltid litt sent ute med å rapportere,
+
+[00:12:09] og nå har det jo egentlig vært flere kvartaler
+
+[00:12:11] på rad hvor sjømatt har vært litt på den svake siden.
+
+[00:12:15] Så har jo de vært påvirket av korona
+
+[00:12:18] kanskje mer enn mange andre bransjer,
+
+[00:12:20] men vi har jo nå hatt flere kvartaler
+
+[00:12:23] hvor stort sett de fleste selskapene har hatt bra tall,
+
+[00:12:26] men sjømatt har ofte vært unntaket.
+
+[00:12:29] Og det har vært unntaket denne gangen også,
+
+[00:12:32] alle sammen var litt på den svake siden.
+
+[00:12:34] Du kan jo si at Movi hadde allerede kommet med
+
+[00:12:36] en sånn operational update for noen uker siden,
+
+[00:12:40] så det tallet der var ikke en overraskelse,
+
+[00:12:44] men det var jo litt lavere enn det som var i konsensus
+
+[00:12:46] før den operational updateen ble annonsert.
+
+[00:12:49] Så Movi ble egentlig reddet av litt bedre utbytte,
+
+[00:12:53] så der ble det ikke noen særlig negative reaksjoner.
+
+[00:12:56] Nei, da kan vi bare ta med at når det gjelder Movi,
+
+[00:13:00] så har vi en holdanbefaling som vi gjentar,
+
+[00:13:04] men vi har løftet kursmålet fra 225 kroner
+
+[00:13:07] opp til 235.
+
+[00:13:10] Bakkafrost derimot var vel det som på en måte
+
+[00:13:13] fikk flest til å heve øyenbrynene,
+
+[00:13:16] og her er vi vel der at vi gjerne skulle sett en
+
+[00:13:19] profit warning faktisk, med tanke på den rapporten de kom på.
+
+[00:13:23] Ja, altså her var det en ganske stor miss,
+
+[00:13:25] og det tror jeg de aller fleste ville egentlig si
+
+[00:13:27] var såpass stort at de kanskje burde ha sagt noe på forhånd.
+
+[00:13:31] Så der fikk du en veldig stor negativ reaksjon,
+
+[00:13:35] så det var ikke bare det at kursene reagerte i takt
+
+[00:13:38] med at inntjeningssystematene ble justert,
+
+[00:13:40] men det har også trukket multiplene ned,
+
+[00:13:44] for bakkafrost er jo en av de selskapene som har
+
+[00:13:47] aller høyeste multipler til å begynne med.
+
+[00:13:50] Så implisitt i det så ligger det egentlig en slags forventning
+
+[00:13:52] at der er det kanskje noe lavere risiko for inntjeningen
+
+[00:13:55] enn hos enkelte andre, men det viser seg da at
+
+[00:13:58] når de ikke klarer å levere, så blir de straffet enda litt hardere.
+
+[00:14:03] Og her er det nok også et element av at bakkafrost
+
+[00:14:06] har jo tidligere vært en av de som har levert aller best,
+
+[00:14:09] til tross for at mange andre har hatt dårlige tall.
+
+[00:14:13] Men det virker som de sliter litt med å klare å få orden på
+
+[00:14:18] det de kjøpte i skottene her for en stund tilbake.
+
+[00:14:22] Sånn sett tror jeg tilliten til at det er noe som er lett å fikse
+
+[00:14:27] har kanskje blitt noe mindre.
+
+[00:14:29] Så det blir da nedjustering i estimator,
+
+[00:14:32] men også nedjustering i hvor mye man er villig til
+
+[00:14:35] å betale for denne inntjeningen.
+
+[00:14:36] Så den har jo hatt en PM-multiple på over 20 tidligere,
+
+[00:14:39] mens en del andre selskap i sektorene da er noe under 20.
+
+[00:14:45] Og det tror jeg det er vanskeligere kanskje å mene
+
+[00:14:49] at den multiplen skal være blant de høyeste i sektoren.
+
+[00:14:52] Kanskje den skal være litt mer midt på treet.
+
+[00:14:54] Og så falt jo aksjen ganske kraftig umiddelbart,
+
+[00:14:58] og det er vel også, kan du si, en medvirkende årsak
+
+[00:15:01] til at vi gjentar hold anbefalingen på aksjen
+
+[00:15:05] og har et kursmål på 700.
+
+[00:15:07] Ja, så vi tok det ned fra 700,
+
+[00:15:09] så jeg synes egentlig reaksjonen er lett å forklare
+
+[00:15:14] utifra det som skjedde,
+
+[00:15:15] men nå har det jo falt ganske mye,
+
+[00:15:17] så sånn sett så kan man kanskje eventuelt
+
+[00:15:20] vurdere å se på det en gang til,
+
+[00:15:22] men jeg synes det er vanskelig
+
+[00:15:24] når du først har dårlige tall
+
+[00:15:25] og estimatene begynner å falle,
+
+[00:15:27] så er det ikke så lett å liksom helt si
+
+[00:15:29] hva er det som skal egentlig få fart i case igjen.
+
+[00:15:32] Og så har vi Lerøy Seafood da,
+
+[00:15:34] som også var i denne uken,
+
+[00:15:36] og her har vi en kjøpsambefaling
+
+[00:15:39] som har et kursmål på 85 kroner.
+
+[00:15:42] Vi har justert det bittelitt ned fra 88,
+
+[00:15:44] men Lerøy var jo ganske greit.
+
+[00:15:48] Ja, den var litt bedre enn det vi hadde i våre estimater,
+
+[00:15:51] men vi var litt mindre optimistiske
+
+[00:15:53] enn det konsensus var,
+
+[00:15:54] så konsensus har måttet ta estimatene noe ned,
+
+[00:15:58] og de guidet litt ned på volym til neste år.
+
+[00:16:01] Så det var egentlig litt overraskende,
+
+[00:16:03] så volymguidingen var rundt 5% lavere
+
+[00:16:06] enn det vi hadde i våre estimater,
+
+[00:16:08] og da kommer inntjeningen ned,
+
+[00:16:09] tilsvarende.
+
+[00:16:11] Så har vi tatt estimatene ned rundt 5% for 2022,
+
+[00:16:14] mer sånn 3% for 2023,
+
+[00:16:17] så aksjen falt 5% på rapporteringsdagen,
+
+[00:16:20] da kan du egentlig kanskje si at det var
+
+[00:16:22] nogelunde fair utifra endringen i estimatene,
+
+[00:16:26] men jeg tror ikke den fortjener noe større fall enn det.
+
+[00:16:29] Så hvis man skal velge mellom bakkerfrost og Lerøy,
+
+[00:16:33] så synes jeg egentlig Lerøy er lettere
+
+[00:16:36] å like i forhold til at den i utgangspunktet
+
+[00:16:38] har noe lavere pågave,
+
+[00:16:39] prising, mens begge to leverer litt så som så.
+
+[00:16:44] Når det ikke er noen av de som har vært så sterke
+
+[00:16:47] operasjonelt, så er det lettere å gå for den
+
+[00:16:50] som har litt lavere multipler.
+
+[00:16:52] Så også at ledelsen løftet frem at kostnadsinflasjonen
+
+[00:16:57] er en sånn risiko på medium horisont,
+
+[00:17:03] så betyr det kanskje ikke så mye for case
+
+[00:17:06] i første omgang, men det er jo interessant
+
+[00:17:09] i form av det vi snakket om innledningsvis,
+
+[00:17:11] nemlig inflasjonen generelt.
+
+[00:17:13] Det er jo ikke det eneste selskapet
+
+[00:17:15] eller eneste bransjen vi har sett disse meldingene fra.
+
+[00:17:18] Det kommer jo veldig bredt.
+
+[00:17:20] Ja, det er jo sånn at inflasjon gjør at
+
+[00:17:23] både kostnådene og omsetningen øker,
+
+[00:17:26] men det er jo ikke sånn at alle klarer å
+
+[00:17:28] dytte alle disse ekstra kostnådene over på kunder,
+
+[00:17:31] så det blir noen som er relativt vinner
+
+[00:17:33] og noen som er relativt tapere.
+
+[00:17:35] Skjønmat er jo en av de bransjene hvor det er
+
+[00:17:37] en sånn standardprodukt,
+
+[00:17:39] så sånn sett skal det slå ganske jevnt for de fleste,
+
+[00:17:43] mens i enkelt andre bransjer så er det nok
+
+[00:17:45] litt mer forskjell da hvem som virkelig har
+
+[00:17:48] en pricing power, en evne til å si at
+
+[00:17:51] det øker kostnådene, så er det kunden som
+
+[00:17:54] må finne seg i det, eller andre hvor det da
+
+[00:17:57] kanskje er sterkere konkurranse,
+
+[00:17:59] og da ender det opp med at det går utover
+
+[00:18:01] marginen i stedet for.
+
+[00:18:02] Vi hopper videre til AKBP, Paul.
+
+[00:18:05] Vi må nevne den.
+
+[00:18:06] Men vi, altså Denby Markets,
+
+[00:18:08] var til rektelegger i forbindelse med at
+
+[00:18:11] Aker og BP solgte 18 millioner aksjer
+
+[00:18:15] i Aker-BP denne uken.
+
+[00:18:18] Derfor er det også begrenset hva vi kan
+
+[00:18:19] kommentere og si på grunn av rollen vi har
+
+[00:18:22] hatt der i denne transaksjonen,
+
+[00:18:24] men det var jo en stor begivenhet,
+
+[00:18:26] så det må nevnes.
+
+[00:18:28] Ja, så aksjen falt rundt 10%,
+
+[00:18:30] det er faktisk litt mer enn det,
+
+[00:18:32] og det var omtrent der denne plasseringen
+
+[00:18:35] ble satt, så vi kan si at det forholdsvis
+
+[00:18:38] var en stor discount det ble satt på,
+
+[00:18:40] men så må vi huske at det var en relativt stor post
+
+[00:18:43] som ble plassert,
+
+[00:18:44] og det blir noe signaleffekt når de største
+
+[00:18:47] eierne velger å selge seg ned.
+
+[00:18:50] På den andre siden kan jeg si at endring i eierskap
+
+[00:18:53] endrer ikke driften i selskapet på noe vis,
+
+[00:18:56] og selskapet er jo identisk med det det var
+
+[00:18:57] i starten av uken,
+
+[00:18:59] så sånn sett har jo ikke selskapet blitt
+
+[00:19:01] noe mindre verdt som følge av dette her,
+
+[00:19:03] så over tid skal nok dette jevnes ut
+
+[00:19:06] til en viss grad,
+
+[00:19:07] men det er det hva skjer med oljeprisen,
+
+[00:19:09] det har jo kommet litt ned de siste dagene,
+
+[00:19:12] så det er jo et spørsmålstegn,
+
+[00:19:14] kursen har jo gått mye i forkant,
+
+[00:19:16] så det er nok sikkert en del som har lyst
+
+[00:19:19] til å ta gevinst,
+
+[00:19:19] men det siste faktor som er greit
+
+[00:19:21] å bare være klar over,
+
+[00:19:23] er at AKBP kommer inn i MSCI-indeksene
+
+[00:19:26] i slutten av måneden,
+
+[00:19:28] så da blir det en del passivfond
+
+[00:19:30] som kjøper aksjer der mot slutten av november,
+
+[00:19:33] så den endringen skjer etter Claus 30. november,
+
+[00:19:36] så fra 1. desember,
+
+[00:19:37] så er AKBP inn i de indeksene.
+
+[00:19:40] Interessant å vite, Paul,
+
+[00:19:42] den hadde i hvert fall ikke jeg fått med meg,
+
+[00:19:44] så sikkert noen av lytterne våre,
+
+[00:19:47] som også dette var nytt for.
+
+[00:19:49] Jeg tenkte avslutningsvis at vi skulle dra utenlands,
+
+[00:19:53] Paul, det er jo ikke bare på Oslo Børs,
+
+[00:19:55] det skjer ting,
+
+[00:19:56] selv om det er det vi konsentrerer oss mest om.
+
+[00:19:59] Vi nevnte jo Tesla,
+
+[00:20:02] som gikk til nye høyder for et par uker siden,
+
+[00:20:06] men ja,
+
+[00:20:07] de falt jo forsovet tilbake denne uken,
+
+[00:20:09] etter Musk sin Twitter-avstemning
+
+[00:20:11] om om han skal selge aksjer eller ikke,
+
+[00:20:13] men det lar vi ligge i i dag.
+
+[00:20:15] Vi skal snakke om et annet elbilselskap,
+
+[00:20:19] som kom på børs denne uken,
+
+[00:20:21] Rivian Automotive.
+
+[00:20:22] De har blant annet Amazon og Ford
+
+[00:20:24] blant de største aksjonærene.
+
+[00:20:27] Ja, den børsdebyen,
+
+[00:20:29] den må jo sies å være suksessfull.
+
+[00:20:32] Aksjen steg onsdag,
+
+[00:20:34] og den stengte torsdag på neste,
+
+[00:20:37] 1923 dollar,
+
+[00:20:38] og selskapet er mer verdt enn tradisjonelle bilprodusenter,
+
+[00:20:41] som både Ford og GM,
+
+[00:20:45] ja, har skapt voldsom interesse fra investorene rett og slett.
+
+[00:20:50] Men dette her er faktisk et selskap da,
+
+[00:20:52] som enda ikke egentlig har en sånn etablert,
+
+[00:20:55] definert forretningsmodell,
+
+[00:20:56] hvis jeg har forstått det riktig.
+
+[00:20:57] Og de forventer ikke mer enn en million dollar,
+
+[00:21:00] leste jeg i Finansavisen i omsetning for tredje kvartal.
+
+[00:21:04] Men,
+
+[00:21:05] bilene er jo,
+
+[00:21:06] kule da,
+
+[00:21:07] synes jeg.
+
+[00:21:07] Selv om jeg vet du er uenig, Paul.
+
+[00:21:09] Ja, jeg må si jeg synes de er litt stygge,
+
+[00:21:11] men det får ...
+
+[00:21:12] Nei, jeg likte pick-upen da,
+
+[00:21:14] men jeg er ikke noen bilekspert.
+
+[00:21:16] Men, nei, jeg skal ikke påstå at jeg har så veldig mye
+
+[00:21:19] mer å henge konklusjonen på at jeg ikke synes de ser så voldsomt fine ut,
+
+[00:21:23] men jeg må synes det er litt rart at et selskap som er helt i starten,
+
+[00:21:27] skal plutselig være mer verdt enn etablerte selskap som Ford og GM,
+
+[00:21:31] og det er jo ikke sånn at Ford og GM ikke klarer å lage elektriske biler,
+
+[00:21:36] så helt hvordan de klarer å få sånn prising der,
+
+[00:21:40] synes jeg er vanskelig å forstå,
+
+[00:21:41] for Ford har jo flere elektriske biler,
+
+[00:21:43] de har jo også en elektrisk pick-up,
+
+[00:21:45] så helt hvorfor man skal være villig til å betale mer for et selskap uten å track record,
+
+[00:21:50] skjønner jeg ikke helt.
+
+[00:21:51] Nei, så må vi jo bare undersøke da,
+
+[00:21:52] at dette tok vi med som en fun fact,
+
+[00:21:56] det er ikke noe selskap som vi verken følger til vanlig,
+
+[00:22:01] eller har analysedekning på,
+
+[00:22:03] bare sånn at det er klart.
+
+[00:22:05] Men aksjetikkeren,
+
+[00:22:06] det er RIVN,
+
+[00:22:08] og den er mulig å handle via handelsløsningen i nettbanken til DNB,
+
+[00:22:14] som alle andre amerikanske aksjer.
+
+[00:22:18] Med det, Poul, så har vi kommet til veis ende for nå.
+
+[00:22:23] Så med det så gjenstår det bare å si takk for at du var med, Poul,
+
+[00:22:27] og sist men ikke minst,
+
+[00:22:28] tusen takk folkens til alle dere som hørte på.

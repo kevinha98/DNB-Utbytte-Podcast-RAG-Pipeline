@@ -1,0 +1,1434 @@
+Episode 347: Investortempen, Tesla og andre aksjejokere
+Publisert: Sat, 22 Ap
+Vert: Marius Brun Haugen
+Gjest: Paul Harper
+Varighet: 39 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/investortempen-tesla-og-andre-aksjejokere
+
+--- Transkripsjon ---
+
+[00:00:00] I denne episoden byr Paul Harper og jeg på en rykende fersk temperaturmåling om investorenes vurdering av aksjemarkedet.
+
+[00:00:08] Vi skal også gi en oppdatering på selskapenes rapportering og se nærmere på både Nordic Semiconductor, Movi og Tesla.
+
+[00:00:16] I tillegg så har vi et par aksjejokere til dere denne uken, og vi skal få høre hva den anslåtte rammen for lønnsavtalen mellom LO og NHO betyr for norsk næringsliv, inflasjon og styringsrente.
+
+[00:00:36] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen globale økonomien og finansmarkedene.
+
+[00:00:44] Jeg er Marius Brunhaugen, og med meg har jeg aksjestrateg Paul Harper. Hei, Paul.
+
+[00:00:50] Hei, Marius.
+
+[00:00:51] Det er fredag 21. april, klokken har passert ett når vi sitter her og spiller inn episoden, og det første spørsmålet i dag får bli om noen av aksjene dine har streiket denne uken, Paul.
+
+[00:01:03] Jeg vet ikke om jeg skal si mine aksjer, men det var kanskje en streik.
+
+[00:01:06] Blant kjøper av Nordic Semiconductor de siste par dagene, det er kanskje nærmeste vi kommer.
+
+[00:01:11] Ja, og vi kommer ikke utenom det denne uken. Nordic skal vi snakke mer om litt senere, men først streiken mellom LO og NHO på grunn av lønnsforhandlingene.
+
+[00:01:23] Den har jo, som alle vet, man kan ikke ha unngått å få det med seg, preget nyhetsbildet denne uken.
+
+[00:01:30] Det har truffet til børsnoterte selskapene også, sånn som Veidekke, Årkla og Hydro for å nevne noen.
+
+[00:01:35] Men for de fleste da med begrenset effekter på inntjeningen av signifikant betydning, og dermed også aksjekursen.
+
+[00:01:43] Torsdag annonserte jo partene at de var blitt enige om rammen, og det er jo bra.
+
+[00:01:48] Men jeg tenkte likevel da at det er på sin plass med en oppsummering med tanke på hva det betyr for norsk næringsliv, inflasjonen og styringsrenten.
+
+[00:01:57] Og derfor så fikk jeg Kyr Omdahl til å stikke innom studio denne uken også, for å dele sin vurdering med oss.
+
+[00:02:04] Ja, partene ble enige om en ny avtale.
+
+[00:02:09] De anslår at avtalen innebærer en ramme på 5,2 prosent, og da må vi tilbake til 2008 for å finne et år med like høy lønnsvekst som det.
+
+[00:02:21] Men rammen virker kanskje litt knapp.
+
+[00:02:26] Det er lagt vekt på å gi ganske store kronemessige tillegg til de med de laveste lønningene.
+
+[00:02:33] Og så har de anslått at lønnsglidningen implicit kommer til å bli lavere i år enn i fjor.
+
+[00:02:39] Og med det drivet som er i norsk økonomi for tiden og på lønningene, så virker det ikke så sannsynlig at den lønnsglidningen skal bli lavere.
+
+[00:02:50] At funksjonæreindustrien skal få lavere lokale tillegg i år enn i fjor, når en god del av disse tilleggene baseres på lønnsomheten i fjor, virker ikke sannsynlig.
+
+[00:03:00] Og så for arbeiderne er det rimelig å tenke seg at bedrifter som går godt kommer til å gi en god del tillegg,
+
+[00:03:07] og bedrifter som ikke går så godt vil likevel slite fordi lønningene løftes opp av de faste tilleggene.
+
+[00:03:14] Jeg anser det som ganske sannsynlig at industrien kommer til å ende opp med en høyere lønnsvekst enn det som er rammen.
+
+[00:03:20] Rammen er likevel viktig. Det er den som legges til grunn i de andre oppgjørene, særlig innenfor stat og kommune.
+
+[00:03:27] Og det er ikke noen grunn til å forvente at de kommer til å avvike mye fra denne rammen, men innretningen på tilleggene kan nok bli litt annerledes.
+
+[00:03:36] Samlet sett så innebærer dette en forventning om økt reallønn.
+
+[00:03:41] Partene la til grunn 4,9 prosent på prisveksten, og med en ramme på 5,2 så er det tre tiendeler opp på reallønna.
+
+[00:03:50] Samtidig skal det da ikke så veldig mye til på pristigningen før de tre tiendelene spises opp.
+
+[00:03:56] Så det er jo ikke snakk om store reallønnsveksten for i år.
+
+[00:04:01] Men det vi ser er jo at lønnsveksten stiger mye fordi lønnsomheten i industrien særlig var god i fjor,
+
+[00:04:11] og lønningene som andel av lønnskostnader og driftsresultat, den andelen gikk ned i fjor, fordi driftsresultaten er steg.
+
+[00:04:20] Med den lønnsveksten vi ser nå, og med noe svakere driftsresultater, så venter vi at lønnsandelen,
+
+[00:04:26] vil stige og komme tilbake på de nivåene vi har sett i tidligere år.
+
+[00:04:30] Rammen på 5,2 prosent er kanskje litt liten for industrien, det er sannsynlig at vi får litt høyere lønnsvekst der.
+
+[00:04:38] Det er også sannsynlig at noen andre grupper ender ut med lønnsvekst som er høyere,
+
+[00:04:42] og vi tror nok samlet lønnsvekst kan stige til opp mot 5,5 prosent.
+
+[00:04:48] Hvis det materialiserer seg, så gir det jo også grunnlag for at Norges Bank kan heve rentene mer enn de har signalisert så langt.
+
+[00:04:55] De har allerede signalisert heving i mai og juni, og en viss sannsynlighet for at det kan komme en heving også til høsten.
+
+[00:05:04] Og den sannsynligheten har økt nå.
+
+[00:05:06] Ja, Paul, status for uken er at aksjemarkedene er hårfint ned når vi sitter her.
+
+[00:05:13] Den amerikanske tiåringen er marginalt opp over 3,5 prosent, og oljeprisen har fått litt solstikk.
+
+[00:05:23] Den er litt slapp, rett og slett.
+
+[00:05:25] Nå er den rett i overkant av 80 dollar-fate.
+
+[00:05:28] Er rolige markeder et signal i seg selv som vi kan lese noe av?
+
+[00:05:32] Ja, hvis vi ser på VIX-indeksen for eksempel, så er det trukket ned til det laveste nivået vi har sett siden 2021.
+
+[00:05:38] Så det har blitt litt stille når vi ser starten av hver dag denne uken,
+
+[00:05:44] så har det gjerne vært relativt små bevegelser siden kvelden før,
+
+[00:05:48] når vi ser på hvordan utviklingen har vært i markedet i USA.
+
+[00:05:52] Så på den ene siden kan vi si at en lav volatilitet,
+
+[00:05:55] til en viss grad så kan det være litt skummelt,
+
+[00:05:58] for det er jo gjerne en inverse korrelasjon,
+
+[00:06:00] at når VIX-en er høy og faller, så er det gjerne positivt for aksjemarkedet.
+
+[00:06:05] Når det er lavt og så begynner å stige, så er det negativt.
+
+[00:06:07] Så jo lavere VIX-en er, jo større risiko er det for at man eventuelt kan få et sjokk på et eller annet tidspunkt.
+
+[00:06:13] Men så lenge det holder seg lavt, så sier det egentlig at da blir det litt stille,
+
+[00:06:18] og jeg vet ikke om kjedelig er riktig ord å bruke, men ikke de største svingningene akkurat nå.
+
+[00:06:22] Neida, men kjedelig kan være bra også det, altså. Du skal ikke glemme det.
+
+[00:06:25] Ja, for aksjemarkedet sier det, så er kjedelig ofte bra.
+
+[00:06:29] Da får du litt sånn sakte, men sikkert positiv tendens uten stor i dramatikken.
+
+[00:06:33] Og så nevnte du oljeprisen som en litt sånn svakhetstegn,
+
+[00:06:37] og det synes jeg er noe som er litt sånn skuffende,
+
+[00:06:41] det at det ikke klarte å bygge noe særlig videre i momenten på det OPEC-kuttet,
+
+[00:06:45] og da når det først begynner å falle tilbake igjen,
+
+[00:06:47] så får man egentlig litt inntrykk at det da er kanskje minste motstandsvei for en del ned der dessverre.
+
+[00:06:54] Og så har vi,
+
+[00:06:55] vi har fått ferske svar fra spørreundersøkelsen vår,
+
+[00:06:59] Investortempen, som vi gjennomfører annenhver måned.
+
+[00:07:03] Da får vi altså svar fra mer enn 1200 aktive kunder
+
+[00:07:06] som kjøper og selger aksjer via aksjensløsningen i nettbanken til DNB.
+
+[00:07:11] Så dette her gir oss et mål på stemningen blant private investorer, rett og slett.
+
+[00:07:17] Og svarene som vi har fått nå viser at flertallet fremdeles er optimistiske,
+
+[00:07:25] på markedsutviklingen, særlig for globale aksjer,
+
+[00:07:29] mer enn dobbelt så mange tror på oppgang som nedgang.
+
+[00:07:33] Fra forrige måling i februar så har andelen optimister da gått noe tilbake,
+
+[00:07:39] men optimismen er i føreskjed fremdeles.
+
+[00:07:44] Hvordan passer det inn med stemningsindikatorene du følger på?
+
+[00:07:47] Ja, det kommer selvfølgelig litt an på hvilke man ser på,
+
+[00:07:49] men sentiment som generelt sett har jo vært ganske negativ lenge.
+
+[00:07:53] Og av de forskjellige som vi har hatt,
+
+[00:07:55] som vi kanskje legger mest vekt på,
+
+[00:07:56] så vil jeg si at flertallet de er egentlig fortsatt der hvor sentimentet er ganske bearish.
+
+[00:08:03] Og det er jo noe som gjør at det er kanskje en viss forklaring på
+
+[00:08:07] at markedet har holdt seg relativt greit,
+
+[00:08:09] at når mange er forholdsvis bearish,
+
+[00:08:12] i hvert fall når vi tenker på det mer internasjonale investorer,
+
+[00:08:15] så er det ikke så lett å få negative overraskelser
+
+[00:08:18] hvis det er det man er posisjonert for allerede.
+
+[00:08:20] Så det er kanskje en av de tingene som kanskje er mest positivt
+
+[00:08:25] for markedet nettopp,
+
+[00:08:26] det at det er veldig mange som er ganske forviktige akkurat nå.
+
+[00:08:28] På spørsmål om hva som gir størst grunn til bekymring
+
+[00:08:34] for avkastningen fremover i aksjemarkedet,
+
+[00:08:37] så er det fortsatt inflasjonen som for flest stemmer.
+
+[00:08:43] Vi ser at de spurte er mest entusiastiske
+
+[00:08:47] for aksjene innen energi, sjømat og shipping.
+
+[00:08:52] Og det er sjømat og da,
+
+[00:08:55] IT og Telekom som er en samlet samleboks
+
+[00:08:58] som går mest frem fra februar.
+
+[00:09:02] Og så er investorene minst entusiastiske
+
+[00:09:03] for aksjene innen eiendom og retail,
+
+[00:09:07] eller da, forbruksvarer og detaljehandel.
+
+[00:09:10] Dette svarer jo bra mot det vi har sett før.
+
+[00:09:13] Og finans, det er den sektoren som flest har blitt
+
+[00:09:16] mer negativ til siden februar.
+
+[00:09:20] Men her må vi jo nesten tilskrive det til bankuron, eller hva?
+
+[00:09:23] Ja, det er naturlig.
+
+[00:09:25] Det har vært litt stress innenfor banksystemet
+
+[00:09:28] at det blir litt mer forsiktig for den sektoren.
+
+[00:09:31] Og noe som vi har snakket om en del ganger tidligere
+
+[00:09:33] er at bank er en veldig viktig sektor å følge med på
+
+[00:09:35] bare som en indikator.
+
+[00:09:37] For begynner det å markere og lukte at det er en resesjon
+
+[00:09:41] som er på vei, da er bank gjerne en av de sektorene
+
+[00:09:43] som begynner å gå dårlig først.
+
+[00:09:45] For da må du begynne å legge inn i estimaten
+
+[00:09:47] at det blir økt lånetap og etter hvert rentekutt
+
+[00:09:49] som da slår negativt inn på inntjeningen.
+
+[00:09:52] På den andre siden, hvis bank holder seg ganske bra,
+
+[00:09:55] så sier det egentlig en slags leden indikator
+
+[00:09:58] for at det er kanskje mindre risiko for en resesjon.
+
+[00:10:00] Så det er alltid veldig interessant
+
+[00:10:01] å følge med på den sektoren.
+
+[00:10:03] Men i sum vil jeg si at denne undersøkelsen vår
+
+[00:10:08] blant private investorerne viser ingen radikale endringer
+
+[00:10:11] fra det bildet som vi har sett tegnet fra tidligere i år.
+
+[00:10:15] Men det er jo verdt å merke seg at selv om energi
+
+[00:10:19] fremdeles er den sektoren som blir foretrukket av flest,
+
+[00:10:25] så er det tilbakegang i andelen som er positiv til den sektoren.
+
+[00:10:31] Det er jo reft det du sa om oljeprisen tidligere, Paul.
+
+[00:10:36] Ingen grunn til krise, men det er jo litt urovekkende
+
+[00:10:38] at oljeprisen er litt slapp.
+
+[00:10:41] Ja, det er det.
+
+[00:10:42] Det vil jeg si kommer litt i den kategorien av tegn til
+
+[00:10:45] at det er kanskje litt oppbremsing i økonomien,
+
+[00:10:48] for klarer du ikke å få en oppgang i oljeprisen
+
+[00:10:49] til tross for lavere produksjon,
+
+[00:10:52] så sier det noe om etterspørselssiden.
+
+[00:10:55] Så jeg vil egentlig være enig og si at det er ganske positivt
+
+[00:10:58] til energi på mellomlang sikt,
+
+[00:10:59] for det har jo vært lite investeringer i økt kapasitet
+
+[00:11:04] og produksjon nå lenge,
+
+[00:11:06] så når økonomien da begynner å akselerere igjen,
+
+[00:11:08] så tror jeg det blir et veldig stramt marked.
+
+[00:11:11] Men spørsmålet er om resesjonen er første stasjon
+
+[00:11:15] før vi begynner å få en akselerasjon,
+
+[00:11:17] da kan det godt hende at oljeprisen skal videre ned
+
+[00:11:19] før det eventuelt bunner ut.
+
+[00:11:21] I forhold til oljeprisen,
+
+[00:11:23] så bet jeg meg merke i litt Kina-data denne uken,
+
+[00:11:29] blant annet for raffinerikjøringen i mars,
+
+[00:11:32] den var på all-time high.
+
+[00:11:35] Dette støtter da opp om troen på at gjennåpningen av land
+
+[00:11:38] booster den innenlandske olje-etterspørselen.
+
+[00:11:41] Kinas oljeimport fra Russland, Paul,
+
+[00:11:44] den var også på all-time high i mars,
+
+[00:11:46] jeg får alt dette her på mail fra Helge,
+
+[00:11:48] oljeanalytikeren vår.
+
+[00:11:50] Og en annen ting som gikk i all-time high,
+
+[00:11:53] Kina, vet du hva det var?
+
+[00:11:54] Nei, det får du overraske meg.
+
+[00:11:56] I mars, ja, det var kullproduksjon.
+
+[00:11:58] Opp 5 prosent år over år til 419 millioner tonn.
+
+[00:12:03] Så det virker jo som om Kina er fokusert på energisikkerhet.
+
+[00:12:07] Og med tanke på at Europa støvsuger markedet for LNG,
+
+[00:12:11] så har nok ikke de fremvoksne markedene så mye annet valg
+
+[00:12:16] enn å bruke kull, enten de vil eller nei.
+
+[00:12:18] Ja, så det er jo veldig mye som egentlig skjer
+
+[00:12:20] når du liksom graver litt ned i statistikken her,
+
+[00:12:23] at det får en sånn endring i markedsandeler
+
+[00:12:25] mellom Europa og Asia når det gjelder LNG for eksempel,
+
+[00:12:29] som du nevner, og så når det gjelder akkurat Kina,
+
+[00:12:32] så er nok en del av den raffineriutnyttelsen
+
+[00:12:37] i en åpning, og noe av det er også da at
+
+[00:12:39] når russerne ikke får solgt den oljen til Europa,
+
+[00:12:43] så er det Kina som er en vilje kjøper,
+
+[00:12:46] og da kjører de egentlig maktskapasitet på raffineri,
+
+[00:12:49] så at de da kan selge den oljen videre tilbake til Europa igjen.
+
+[00:12:52] Så det er en del av dette her hvor oljen ender opp
+
+[00:12:56] samme tid til slutt, men det da blir noen flere
+
+[00:12:58] mellomledd før man kommer dit.
+
+[00:13:00] Opec-kuttet som vi nevnte i forrige episode,
+
+[00:13:04] forrige uke, Paul, som overrasket oss
+
+[00:13:07] og markedet i påsken, det har ikke trodd i kraft
+
+[00:13:10] riktig enda, og det har jo vært en viss uro
+
+[00:13:13] blant investorene i forhold til hva dette vil bety
+
+[00:13:15] for tankmarkedet, hvor utsiktene egentlig
+
+[00:13:18] har sett veldig bra ut.
+
+[00:13:21] Skippinganalytikeren,
+
+[00:13:22] vår her på huset, mener i midlertid at
+
+[00:13:25] tankaksjer fortsatt gjelder.
+
+[00:13:28] Så tank kan vi jo si at det er en liten joker
+
+[00:13:31] om dagen. Denne uken så sendte
+
+[00:13:33] shippingteamet ut forhåndsomtaler
+
+[00:13:36] før QN-rapporteringen, der de gjentar kjøp
+
+[00:13:39] på blant annet Frontline og Hafnia.
+
+[00:13:43] Og nå skal dere få høre shippinganalytikker
+
+[00:13:45] Jørgen Lians viktigste grunner til at han
+
+[00:13:48] mener tankaksjene har mer å gå på.
+
+[00:13:51] Det som har skjedd siden annonseringen
+
+[00:13:54] av OP-kuttene, også vi må ikke glemme
+
+[00:13:56] denne bankkrisen som rammet markedet generelt.
+
+[00:14:00] Begge de tingene har jo dratt ned aksjene nå,
+
+[00:14:02] så hvis man ser hvor aksjene er nå, så føler
+
+[00:14:05] jo vi at de er på et hyggeligere inngangsnivå
+
+[00:14:08] enn de har vært på en stund. Og når det gjelder
+
+[00:14:11] OP-kutte, det har ikke begynt enda i den
+
+[00:14:14] forstand, men lastene som skal plukkes opp
+
+[00:14:17] i mai når kuttene er i gang, er allerede
+
+[00:14:21] et av grunnlagene for ratesettingen, så det
+
+[00:14:24] skal man begynne å se. Men jeg tror det man må
+
+[00:14:26] huske her er at det som gjør tank spennende
+
+[00:14:29] er at ordreboken er utrolig tynn. Etter første
+
+[00:14:33] halvdel i år så er det omtrent ikke tankskip
+
+[00:14:35] igjen, i hvert fall i stortank som kommer til
+
+[00:14:38] leveranse. Og det er vanskelig å få levert
+
+[00:14:40] nye skip noen gang i nærmeste fremtid.
+
+[00:14:44] Så det lange bildet, det har hverken endret
+
+[00:14:47] seg etter OP-kuttene eller etter
+
+[00:14:51] all uroen i makrobildet for øvrig, mener vi.
+
+[00:14:55] Og det legger et godt grunnlag for en varig
+
+[00:14:58] oppsykel. Og når du da ser hva som er pristinn
+
+[00:15:02] i aksjen i dag, mener vi, så er det fortsatt god
+
+[00:15:05] oppside i aksjekursen, og særlig kanskje inn mot
+
+[00:15:09] Q1, hvor du kommer til å få en indikasjon på hva
+
+[00:15:11] inntendingen vil være i Q2, hvor det etter vår
+
+[00:15:14] mening ligger alt for lite, ligger alt for lave
+
+[00:15:18] rater og konservative estimater inn i konsensus.
+
+[00:15:21] Og å ha tankeeksponering inn mot rapporteringen
+
+[00:15:23] nå, tror vi blir bra, så lenge ratebildet holder
+
+[00:15:25] seg bra, og det gjør det. Og det som er betryggende
+
+[00:15:28] for folk flest, på tross av et OP-kutt som vi
+
+[00:15:31] regner oss frem til vil ha en impact på etterspørselen
+
+[00:15:34] med en halvannen til to prosent, så er allerede
+
+[00:15:37] markedet så stramt og tilstrekkelig nok,
+
+[00:15:41] mener vi, til at det vil holde seg rimelig greit.
+
+[00:15:44] Og du håper fortsatt at det er utrolig hyggelig
+
+[00:15:46] bakteppe down the road, om det er et år eller to
+
+[00:15:49] frem i tid. Så dette er en ganske bra
+
+[00:15:51] gryende supercykel innenfor shipping, og tanker
+
+[00:15:55] er et av de segmentene hvor det ser ut til å være
+
+[00:15:56] tilfelle.
+
+[00:15:57] Ja, Paul, det er alltid farlig å si at denne
+
+[00:16:00] gangen er det annerledes, eller i hvert fall
+
+[00:16:03] legge til en liten dose sunn skepsis.
+
+[00:16:08] Det tror jeg er lurt når man hører ord som
+
+[00:16:10] supercykel og så videre, men Jørgen har jo
+
+[00:16:13] noen gode poenger.
+
+[00:16:14] Ja da, det er en uvanlig situasjon innenfor
+
+[00:16:18] shipping med det at det ikke er en bølge med masse
+
+[00:16:22] nybestillinger som sørger for at det da går fra
+
+[00:16:25] boom til bust. Og det er jo, kan jeg si at, selv om det
+
+[00:16:28] som du sier, er skummelt å si at this time it's
+
+[00:16:31] different, så er det enkelt ting som åpenbart er
+
+[00:16:34] annerledes denne gangen. Det behøver ikke å bety
+
+[00:16:37] at det er annerledes i evig tid, men akkurat i
+
+[00:16:39] denne syklusen her, så tror jeg det er grunn for
+
+[00:16:42] å mene at det ikke nødvendigvis følger det samme
+
+[00:16:44] mønster som det har gjort tidligere.
+
+[00:16:46] Fra olje og tank må vi ta en liten løsning av denne
+
+[00:16:48] taturen innom vindkraft og vindservice
+
+[00:16:51] selskapet Cadelere. De annonserte tidlig i den
+
+[00:16:56] uken en kontrakt med Siemens Gamesa for bruk av
+
+[00:16:59] et fartøy til transport og installering av 26
+
+[00:17:02] vindkraftturbiner offshore Danmark. Og her er
+
+[00:17:06] det en oppgitt dagrate på 375 000 euro
+
+[00:17:10] varighet på rundt fire måneder. Og dette arbeidet
+
+[00:17:12] er planlagt å bli gjort i 2026. Så det som er
+
+[00:17:17] grunnen til at jeg tar frem dette her, er at det er
+
+[00:17:19] en veldig hyggelig rate sammenlignet med
+
+[00:17:21] forventningen og hva man har sett for denne type
+
+[00:17:26] skipet etter markedet før. Og det er vanskelig å
+
+[00:17:30] ikke tolke dette her som at markedsbalansen
+
+[00:17:32] flytter seg i Cadelers favor, særlig når man
+
+[00:17:36] ser kundenes behov for å vilje til å sikre seg
+
+[00:17:41] tilgjengelig kapasitet så langt som tre år
+
+[00:17:44] frem i tid. Analystimen til Denver Markets har
+
+[00:17:47] en kjøpsombefaling med kursmål 55 kroner per
+
+[00:17:50] aksjepål. Det betyr at det er oppside fra de 43-44
+
+[00:17:54] kronene den legger på når vi sitter her. Hvordan
+
+[00:17:57] slår Cadelers ut på raderen din?
+
+[00:17:59] Ja, egentlig er det en aksje som har likt lenge.
+
+[00:18:01] Vi hadde i ukesportefølgen i fjor, men da var
+
+[00:18:04] det litt sånn at den var stakk i en trading range
+
+[00:18:06] i lang tid, så vi ble utholdmodig kanskje litt
+
+[00:18:09] for fort. Men det var litt sånn frustrerende når
+
+[00:18:12] den verken klarte å bryte opp eller ned. Men det som
+
+[00:18:17] er interessant med dette case er at når det gjelder
+
+[00:18:19] sånne type miljørelaterte investeringer, så
+
+[00:18:22] mener vi at man skal følge litt den picks and
+
+[00:18:25] shovels approach her, at det er bedre å eie de
+
+[00:18:28] tingene som gjør det mulig å bygge vindparker
+
+[00:18:32] og som fasiliterer disse prosjektene, heller
+
+[00:18:35] enn å eie prosjektene i seg selv. Så det er
+
+[00:18:38] de som tjente penger i gold rush, det var de som
+
+[00:18:41] salte spatene, ikke de som lett etter gullet.
+
+[00:18:44] Så det er den samme logikken her. Som du sier,
+
+[00:18:47] et marked hvor det er relativt få båter som er
+
+[00:18:50] teknisk kapabel til å gjøre den typen jobb, så det
+
+[00:18:55] er et lite marked, og da har du mulighet til å
+
+[00:18:59] klare å forhandle gode rater. Så vi synes dette
+
+[00:19:01] er et veldig spennende case.
+
+[00:19:03] Jeg skal til vindkraftkonferansen i København
+
+[00:19:07] neste uke. Jeg er jo møte blant annet
+
+[00:19:08] Kadeler, så det er jeg veldig spent på. Det er
+
+[00:19:11] klart, hvis markedet virkelig strammer seg til
+
+[00:19:13] her i favor av leverandørene som gjør at de kan
+
+[00:19:17] drive skikkelig lønnsomt, så kan det jo også
+
+[00:19:19] bli gøy å være aksjonær da. Men det gjenstår
+
+[00:19:23] å se. Vi skal se litt nærmere på blant annet
+
+[00:19:32] Movi og Nordic Semiconductor og Tesla i dag,
+
+[00:19:37] som alle er aktuelle denne uken i forbindelse
+
+[00:19:39] med rapporteringssesongen. Men først, Paul,
+
+[00:19:42] her hjemme i Norden så starter jo rapporteringene
+
+[00:19:45] for alvor neste uke. Hvordan ser det ut nå?
+
+[00:19:49] Føler du braket løs? Hva er det samlede inntrykk
+
+[00:19:52] av positiv og nødvendig?
+
+[00:19:53] Hva er det som har kommet av negative resultatvarsler
+
+[00:19:54] og det som har kommet av rapportering i så langt?
+
+[00:19:57] Jeg synes det er litt skuffende når vi ser på
+
+[00:20:00] de nordiske selskapene. Det er opp i en 15-16
+
+[00:20:04] selskap som har enten rapportert tall eller kommet
+
+[00:20:07] med noen resultatvarsler av noen slag. Nå er det
+
+[00:20:10] et klart flertall som er på den svake siden.
+
+[00:20:13] Nå må det jo sies at når selskapet har kommet
+
+[00:20:15] med resultatvarsler, så er det oftere negativt
+
+[00:20:18] ladet enn positivt ladet. Så sånn sett blir det
+
+[00:20:20] naturlig en viss skju på nedsiden på
+
+[00:20:23] grunn av det. Men når vi ser blant de norske
+
+[00:20:25] selskapene, så TGS, PGS, begge to skuffet med
+
+[00:20:29] omsetningstallene. Skipsted kom med et resultatvarsel
+
+[00:20:33] for noen uker tilbake. Stolt Nilsen har vært bra,
+
+[00:20:36] så Nordic Semi har vært ganske dårlig.
+
+[00:20:39] Blant de andre nordiske selskapene så har det
+
+[00:20:41] også vært et flertall som er på den svake siden.
+
+[00:20:44] Selv om det kanskje har vært en relativt ok start
+
+[00:20:47] blant amerikanske selskap, så synes jeg egentlig
+
+[00:20:49] de nordiske ikke har imponert noe særlig enda.
+
+[00:20:50] Når du ikke er semikonduktor, må vi snakke om
+
+[00:20:55] denne uken, denne teknologi- og halvlederaksjonen
+
+[00:20:59] som den kan beskrives som leverte. Ingen god
+
+[00:21:01] rapport, hverken med tanke på inntjeningen i
+
+[00:21:05] første kvartal eller guidingen. Før så var det
+
+[00:21:08] forsyningsproblemer som skapte utfordringer.
+
+[00:21:10] Nå pekes det på etterspørsene. Analytikeren vår
+
+[00:21:14] her i Markets, han gjenta kjøpsombefalingen,
+
+[00:21:16] men har kuttet kursmålet til 170 kroner.
+
+[00:21:19] Hva er det som skjer? Aksjene har vært
+
+[00:21:20] for 115 kroner når vi sitter her, Paul. Den falt
+
+[00:21:23] 3 prosent onsdag før rapporten. Den falt 17 prosent
+
+[00:21:27] på rapporteringsdagen torsdag, og er ned 5 prosent
+
+[00:21:32] når vi sitter her fredag, så får vi se hvordan det
+
+[00:21:34] ender, men likevel. Jeg synes jo det er vanskelig
+
+[00:21:37] å lese noe bra ut av dette her. Hva tenker du?
+
+[00:21:40] Det er krevende å se på dette her som en soleklar
+
+[00:21:43] kjøpsmulighet, synes jeg.
+
+[00:21:45] Jeg må si at jeg er egentlig enig i det, og hvis
+
+[00:21:47] vi skal prøve å tenke hvem er det som er aktuelt
+
+[00:21:50] å kjøpe?
+
+[00:21:50] Hvem er det som kjøper denne aksjen? Så er ikke
+
+[00:21:52] det egentlig så lett å komme frem til, for ser du
+
+[00:21:54] på de største aksjonærene her, så finner du
+
+[00:21:58] egentlig veldig mange av de mest kjente norske
+
+[00:22:01] long-only-forvaltersystemene, så de har jo mye
+
+[00:22:04] aksjer fra før av. Så jeg ser for meg det er
+
+[00:22:07] egentlig kanskje en større risiko at en eller
+
+[00:22:09] to av de velger å kaste inn håndkle, og at det
+
+[00:22:12] da blir mer salgspresse i denne aksjen utover.
+
+[00:22:15] Så etter de litt skuffende Q4-tallene, så var
+
+[00:22:17] det egentlig veldig få av de som solgte, og
+
+[00:22:20] tilsvarende stort fall på rapporteringsdagen.
+
+[00:22:23] Men hvis du kjøpte Nordic på åpning dagen etter,
+
+[00:22:28] så fikk du fra trough til peak en 25 prosent
+
+[00:22:32] avkastning de neste ukene. Så da var det som
+
+[00:22:36] ikke den ordentlige kapitulasjonen i aksjen,
+
+[00:22:38] tror jeg. Så risikoen denne gangen er at hvis
+
+[00:22:40] det er noen enkelte som føler at to ganger
+
+[00:22:45] per rad er litt for mye, og velger å kaste
+
+[00:22:48] kortene nå, så kan kanskje den perioden nå
+
+[00:22:50] etter tallene også bli en del tyngre i motsetning
+
+[00:22:53] til det som skjedde etter Q4-tallene.
+
+[00:22:56] Er det noe annet som kan bikke i positiv retning?
+
+[00:22:58] Har det vært mange shortere i aksjen? Kan det
+
+[00:23:01] være en del av de som tar gevinst, som gjør at
+
+[00:23:03] noe av presset blir borte?
+
+[00:23:06] Det er jo selvfølgelig en mulighet, og vi har
+
+[00:23:09] ikke fulle details på hvor mye aksjer er
+
+[00:23:13] shortet på dette, men jeg tror ikke det er
+
+[00:23:16] veldig usannsynlig at det er en god del short
+
+[00:23:19] interest i akkurat dette.
+
+[00:23:20] Så sånn sett blir det et sånn type bullargument
+
+[00:23:23] litt mer i den retningen. Men det er jo ofte sånn
+
+[00:23:26] at et sånn gammelt ordtak at både positive og
+
+[00:23:30] negative ting kommer i treere. Nå har vi hatt
+
+[00:23:32] to resultatvarsler, så jeg vet ikke hvor
+
+[00:23:35] confident jeg er på at du kan være helt sikker
+
+[00:23:37] på at dette er den siste. Så hadde jeg vært
+
+[00:23:39] short i denne aksjen, så hadde jeg sikkert
+
+[00:23:40] tatt litt gevinst nå, men jeg er ikke sikker på
+
+[00:23:42] at jeg hadde tatt hele den gevinsten. Så det
+
+[00:23:45] er noe som kanskje kan hjelpe, men det er
+
+[00:23:47] noe som i så fall vil antakelig skje i løpet
+
+[00:23:49] av de neste par dagene.
+
+[00:23:50] Så hvis aksjene er slapp nå i dag og første
+
+[00:23:55] halvdelen av neste uke, så vil det kanskje tyde
+
+[00:23:57] på at det ikke er så mye short-indekning,
+
+[00:24:00] eller at de har gjort det de skal allerede.
+
+[00:24:02] Over til en aksje som leverte, nemlig Movi.
+
+[00:24:08] Der har vi en kjøpsombefaling og kursmål
+
+[00:24:10] 220 kroner. Aksjene har krabbet over 200 kroner
+
+[00:24:15] denne uken, og det kommer jo etter at de kommer
+
+[00:24:18] med denne trading-oppdateringen sin, som de gjør
+
+[00:24:20] i forkant av hver kvartalsrapportering.
+
+[00:24:24] Den var bedre enn ventet på nær sagt alle
+
+[00:24:27] parametre, hvis man ser på den norske delen
+
+[00:24:29] av driften, og i sum så var det en sterk
+
+[00:24:32] oppdatering. Så legger vi til at lakseprisen
+
+[00:24:37] fortsatt er rundt 120 kroner kiloen, så er
+
+[00:24:39] jo ikke dette dårlig i det hele tatt, eller
+
+[00:24:41] hva, Paul? Men noen ganger kanskje blir
+
+[00:24:42] fristet til å ta gevinst her etterhvert.
+
+[00:24:44] Ja, det er jo det at sjømat har historisk
+
+[00:24:47] vært en veldig sesongpreget sektor,
+
+[00:24:50] hvor det ofte er en ganske bra tidspunkt
+
+[00:24:53] å eie aksjen fra en eller annen gang ut på høsten
+
+[00:24:56] frem til sånn type april-mai. Og det er klart
+
+[00:24:59] nå begynner vi å nærme det punktet hvor det
+
+[00:25:01] ofte er riktig tid å ta gevinst, så det er
+
+[00:25:03] kanskje en viss trussel her, at det er
+
+[00:25:06] sikkert en del som da kanskje sitter på
+
+[00:25:08] gevinster, i hvert fall hvis de kjøpte like
+
+[00:25:09] etter den grunnrente skattenyheten kom
+
+[00:25:11] opprinnelig. Så det er noe som trekker litt
+
+[00:25:14] på den negative siden. Men på den andre
+
+[00:25:16] siden, i hvert fall hvis rapporteringssesongen
+
+[00:25:18] fortsetter sånn som det har startet,
+
+[00:25:20] så er da sjømat en av de få sektorene hvor
+
+[00:25:23] det faktisk er oppjustering i estimatene
+
+[00:25:25] fremover. Og jeg synes ikke prisingen er noe
+
+[00:25:27] sånn veldig skummelt heller, nettopp fordi
+
+[00:25:30] at kursene falt såpass mye i den grunnrente
+
+[00:25:33] skattenyheten. Så sånn sett så synes jeg
+
+[00:25:37] egentlig sjømat, fundamentalt i hvert fall,
+
+[00:25:38] virker egentlig ganske interessant. Så er
+
+[00:25:42] det litt den timing da, om det er litt sånn
+
+[00:25:44] sell it, may it go away som gjelder for den
+
+[00:25:47] sektoren, eller om man skal egentlig bare
+
+[00:25:48] sitte igjennom. For det er ikke sånn at det
+
+[00:25:50] slår til å være.
+
+[00:25:50] Flere av de store amerikanske selskapene
+
+[00:25:54] har også levert tall denne uken, både
+
+[00:25:57] investeringsbanken Goldman Sachs, Netflix
+
+[00:26:00] og Tesla for å nevne noen. Og det er Tesla
+
+[00:26:03] vi skal vie litt ekstra oppmerksomhet i dag.
+
+[00:26:07] Det er den mest handlede internasjonale
+
+[00:26:09] aksjen blant privatkundene våre, så du
+
+[00:26:11] kan si at det skulle også bare mangle.
+
+[00:26:14] Forvalter Audun Vikstrand Iversen, han er
+
+[00:26:17] investert i Tesla gjennom fondet DNB
+
+[00:26:19] Disruptive Muligheter.
+
+[00:26:21] Og nå skal vi få høre hans vurdering av
+
+[00:26:23] Tesla-rapporten som kom onsdag kveld denne
+
+[00:26:26] uken, og hans vurdering rundt selskapets
+
+[00:26:30] forretningsmodell.
+
+[00:26:33] Ja, det er helt riktig. På onsdag kveld etter
+
+[00:26:35] close i USA så hadde Tesla sin conference call
+
+[00:26:39] hvor de presenterte sine tall, og der var
+
+[00:26:41] Elon Musk med på callen hele veien. Og veldig
+
+[00:26:45] mye interessant, selv ved tallene i seg selv
+
+[00:26:47] så var det marginer som var litt dårligere
+
+[00:26:50] enn marka forventet.
+
+[00:26:52] Etterkant så ser vi nå at analytikere tar ned
+
+[00:26:54] litt marginbanen for dette året, og vi tar også
+
+[00:26:57] ned estimatene for neste kvartal, altså andre
+
+[00:27:00] kvartal, og det skyldes disse priskuttene som
+
+[00:27:03] vi har sett Tesla gjøre nå flere ganger de
+
+[00:27:05] siste seks månedene. Så det er en sånn, nå
+
+[00:27:08] er vi i en sånn periode hvor det er mye
+
+[00:27:10] usikkerhet, fordi i tillegg så er jo markedet
+
+[00:27:13] veldig opptatt av ikke bare marginene, men de
+
+[00:27:15] har også kommet i en periode nå hvor man lurer
+
+[00:27:17] litt på om det rett og slett er etterspørsel
+
+[00:27:20] litt av alle disse elektriske bilene som er
+
+[00:27:22] kommet, og det er litt sammenheng med
+
+[00:27:24] situasjonen rundt omkring i verden med
+
+[00:27:27] resesjon og økende renter og så videre.
+
+[00:27:29] Men i sum, i dette kvartalet, så leverte man
+
+[00:27:33] likevel ganske ok, mens marginene som det var
+
+[00:27:36] det markedet var opptatt av i forkant da, var
+
+[00:27:38] da dårligere. De kom rett til underkant av
+
+[00:27:40] 20 prosent. Og med til denne historien så
+
+[00:27:42] hører du at Tesla har sagt at de har hatt
+
+[00:27:45] et gulv, margingulv, på 20 prosent, som
+
+[00:27:49] man da gikk under. Og nå ser vi at estimatene
+
+[00:27:51] kommer ned inn.
+
+[00:27:52] Inn mot noen 17-18 prosent i neste kvartal.
+
+[00:27:55] Og det virker fornuftig. Men når man først
+
+[00:27:58] hadde muligheten til å sitte og høre på Musk,
+
+[00:28:00] så er det klart at han sier jo også veldig mye
+
+[00:28:02] spennende om fremtiden og hvordan han tenker.
+
+[00:28:05] Og det tror jeg er veldig verdt å ta med seg
+
+[00:28:07] inn i denne historien, i hvert fall som en
+
+[00:28:09] langsiktig invester. Fordi det han sier er
+
+[00:28:12] at han er villig til å offre disse marginene
+
+[00:28:15] for å få volym. Og han, og de av dere der ute
+
+[00:28:20] som kjenner Tesla i sånn litt grann,
+
+[00:28:22] fra før av, vet at han er veldig opptatt av
+
+[00:28:25] denne softwarepakka hans som går på selvkjørende
+
+[00:28:28] biler. At du får en softwareprogram i Tesla-billene
+
+[00:28:34] som gjør at det etter hvert skal kunne bli
+
+[00:28:37] fullt selvkjørende. Det er det veldig mange som
+
+[00:28:39] ikke tror på. Elon Musk tror veldig på det,
+
+[00:28:42] og han har guidet på det noen ganger og
+
+[00:28:44] bommet ganske mye. Så det han sier er at han
+
+[00:28:47] er villig til å selge en elbil med 0 prosent
+
+[00:28:50] bruttomagin for å fange opp likevarende
+
+[00:28:52] lifetime value. Og da har vi litt på dette her
+
+[00:28:56] med de av oss som barberer oss med høvel.
+
+[00:29:00] Litt på den businessmodellen hvor de sier at
+
+[00:29:02] du kan få første pakke veldig billig, og så er
+
+[00:29:06] det egentlig barberbladene som koster utrolig
+
+[00:29:08] mye penger. Og disse pakkene som Elon Musk
+
+[00:29:11] selger på software-skiden, de koster 15 000
+
+[00:29:13] dollar, sånn røffelig. Det finnes veldig mange
+
+[00:29:16] rabatter og så videre, men hvis vi holder oss
+
+[00:29:18] i sånn type størrelse, så er det å salg med
+
+[00:29:22] 100 000 dollar, det er en stor størrelse.
+
+[00:29:22] 100 prosent bruttomagin. Og det er en del, det er
+
+[00:29:26] ikke en strategi som han har funnet opp nå, men
+
+[00:29:29] som han har trodd på lenge, men som vi nå ser
+
+[00:29:31] konsekvensene. Og det er det selvfølgelig mange
+
+[00:29:33] som ikke liker, og de selger. Så den aksjen
+
+[00:29:36] var jo ned sånn 8-9 prosent i går, og har
+
+[00:29:40] skapt en sånn litt usikkerhet, i alle fall i
+
+[00:29:44] denne campen som ikke enten er elske eller
+
+[00:29:47] hate, for det er jo en aksje som er preget
+
+[00:29:50] veldig mye av den type tilnæring.
+
+[00:29:52] Og det ser vi også i spriket på price targets.
+
+[00:29:57] Nå handler jo denne aksjen rett i overkant av
+
+[00:29:59] 160. Vi ser at de som da er mest bare, de er
+
+[00:30:03] jo godt under både 80 og ned mot 50. Og så kom
+
+[00:30:08] det en analyse i går, det er nå et investor
+
+[00:30:12] eller et F-miljø som har fulgt Tesla i mange
+
+[00:30:16] år, og som er kontroversielle, men de mener
+
+[00:30:19] at dette er en aksje som kan være hvert 2 000
+
+[00:30:22] dollar.
+
+[00:30:22] I 2027. Og veldig mye av den verdistigningen
+
+[00:30:27] som de ser for seg da, det er nettopp at de lykkes
+
+[00:30:30] med denne softwarepakka. Så de tar den strategien til
+
+[00:30:32] Musk og sier at hvis han lykkes med det, så har
+
+[00:30:35] man da snudd hele bilen sin på hodet, hvor
+
+[00:30:38] faktisk det er sånn å ikke gi bort bilen, men kunne
+
+[00:30:41] selge bilen ganske kraftig subsidert, og så leve
+
+[00:30:44] av softwaren etterpå. Så vi får en sånn
+
+[00:30:48] subscription-based softwareløsning, som vi kjenner til
+
+[00:30:52] fra mange andre industrier de siste 10-15
+
+[00:30:55] årene. I summa summarum, så for mitt
+
+[00:30:59] funn, så solgte jeg litt i forkant, og kommer
+
+[00:31:02] nok til å være litt gjerrig på å øke den
+
+[00:31:06] posisjonen i det korte bildet, men dette er en
+
+[00:31:08] fantastisk historie på lang sekt, hvis du deler
+
+[00:31:11] Tesla sitt syn på selvkjørende biler. Og bare
+
+[00:31:16] legge til en ting der, for nå har vi fått dette
+
+[00:31:18] med kunstig intelligens. Vi alle sammen gjennom disse
+
+[00:31:22] språkmodellene på chat, GPT og så videre, så har vi
+
+[00:31:24] begynt å skjønne kraften av det. Det som Tesla har
+
+[00:31:27] gjort de siste 18 månedene, er at de har gitt bort
+
+[00:31:31] og solgt den ganske billige softwarepakka, så det
+
+[00:31:34] er fortsatt på en sånn pilot oppe i versjon 11
+
+[00:31:36] et eller annet, og de samler, de får veldig mye
+
+[00:31:40] data. Så nå er de oppe i, de har passert noen
+
+[00:31:44] 150 millioner miles, altså 200 millioner kilometer,
+
+[00:31:48] og det vi vet fra alle disse andre diskusjonene nå,
+
+[00:31:51] som vi har en bred opplæring, voksen opplæring i
+
+[00:31:54] kunstig intelligens, så vet vi at maskinlæring er
+
+[00:31:57] basert på data. Og den datatilfangsten som Musk nå
+
+[00:32:02] får, og Tesla får, den kommer til å medføre at
+
+[00:32:08] denne maskinlæringen gjør at vi øker sannsynligheten
+
+[00:32:12] for hva den kommer til å få til. Så vi har en eksponensiell
+
+[00:32:14] vekst.
+
+[00:32:16] Snart skal Paul oppsummere veien videre for aksjer,
+
+[00:32:20] men før det skal vi høre om flere resultater.
+
+[00:32:25] Nå er det ikke resultater for første kvartal, men om
+
+[00:32:28] data fra noen av de mest spennende biotekstselskapene
+
+[00:32:31] på børsen. Nycode Therapeutics kom med oppdaterte
+
+[00:32:34] data denne uken, og DNB Markets, de har hatt
+
+[00:32:38] Ultimovax innom for en oppdatering, og nettopp
+
+[00:32:41] Ultimovax sine data, som kan komme når som helst
+
+[00:32:45] mellom nå og sommeren, er de knyttet stor spenning til.
+
+[00:32:50] Utvikler Geir Hiller Holom, han stakk innom studio
+
+[00:32:53] for å minne oss på hva som skjer.
+
+[00:32:57] Ultimovax er det helt klart mest spennende selskapet
+
+[00:33:00] om dagen i forhold til kjente trigger, for der venter vi
+
+[00:33:03] to avlesninger dette halvåret, så det kan i prinsippet
+
+[00:33:07] komme når som helst. Det er fra to randomiserte
+
+[00:33:11] studier, det vil si at pasientene har enten fått
+
+[00:33:15] legemiddelet eller ikke fått legemiddelet, som da
+
+[00:33:18] igjen vil si at da vil vi få veldig gode,
+
+[00:33:20] gode svar på om dette virker eller ikke.
+
+[00:33:24] Så det blir enormt spennende å se hva slags data
+
+[00:33:27] de kommer med. Og det er klart for hele sektoren
+
+[00:33:31] også, så tror jeg dette her er enormt viktig at vi
+
+[00:33:36] får gode data. Det trenger vi etter det har vært
+
+[00:33:41] litt trått, får man vel lov å si, siste årene.
+
+[00:33:45] Så utrolig spennende tid, både for Ultimovax og
+
+[00:33:49] sektoren generelt. Når det kommer til Nikod, så fikk
+
+[00:33:54] vi også veldig oppløftende nyheter nå på tirsdag,
+
+[00:34:00] hvor vi fikk data som også var ventet dette halvåret
+
+[00:34:04] på deres Limoral-studie, en fase 2-studie, som ikke
+
+[00:34:09] hadde det randomiserte studiedesignet, men som
+
+[00:34:12] hadde et sånt design hvor alle de 52 pasientene
+
+[00:34:15] fikk legemiddelet. Og det er klart, det er en
+
+[00:34:19] veldig bra studie. De dataene vi fikk var, sånn som
+
+[00:34:23] vi vurderer det, veldig gode, spesielt på det målet
+
+[00:34:28] som er det viktigste for kreftpasientene, hvor lenge
+
+[00:34:32] lever man, det som kalles overall survival, eller OS-tallet,
+
+[00:34:36] som var veldig, veldig sterkt, og spesielt sterkt
+
+[00:34:39] på den pasientgruppen som ligner mest på den gruppen
+
+[00:34:42] som de nå har allerede valgt ut å gå videre med
+
+[00:34:46] i en neste studie som de skal starte.
+
+[00:34:49] I fjerde kvartal i år, så kjempegode nyheter
+
+[00:34:52] fra det selskapet. En litt mindre studie, men likevel
+
+[00:34:58] veldig oppløftende og veldig moro. Så den trengte vi.
+
+[00:35:04] Ja, hele biotek-sektoren har jo hatt og er fortsatt
+
+[00:35:08] i et utfordrende børsklima, så disse aksjene her
+
+[00:35:12] sklir definitivt inn under kategoriene aksjejokere
+
+[00:35:16] de også. Nøkkelen for selskapene er at de har
+
+[00:35:19] det er gode data på de medisiner de forsøker
+
+[00:35:23] å utvikle, og når det gjelder ultimovaks-dataene
+
+[00:35:26] som Geir nevnte, så er de knyttet til hudkreftstudiet
+
+[00:35:30] deres innen malingt melanom, som er en av de
+
+[00:35:33] skummeleste hudkrefttypene. Det andre studiet
+
+[00:35:36] er mot mestelium, som er lungehinnekreft.
+
+[00:35:42] Geir og Denby Markets har kjøpsombefaling
+
+[00:35:45] på begge aksjene. Kursmålet er 200 kroner
+
+[00:35:48] på ultimovaks.
+
+[00:35:49] Og 102 kroner på nykode.
+
+[00:35:53] Men det betyr det, Paul, at det er på tide for oss
+
+[00:35:56] å oppsummeres, så kanskje du kan komme med noen
+
+[00:36:01] velmennende visdomsord om veien videre for aksjer
+
+[00:36:04] til slutt?
+
+[00:36:05] Ja, så vi er jo fortsatt på den litt forsiktige foten
+
+[00:36:07] når det gjelder aksjemarked, og det går jo egentlig
+
+[00:36:10] ut på en blanding av at vi tror estimatene skal
+
+[00:36:12] fortsette å trekke ned. Det er egentlig litt uavhengig
+
+[00:36:14] av om det blir resesjon eller ikke. Det er egentlig
+
+[00:36:16] bare spørsmål om hvor mye de skal ned etter vårt
+
+[00:36:19] syn, og det går jo ut på det.
+
+[00:36:20] Og at vi har fortsatt morginer som er på unormalt
+
+[00:36:23] høyt nivå, så det er egentlig bare en slags
+
+[00:36:25] mean reversion det jeg snakker om til å trekke
+
+[00:36:28] estimatene ned, selv om det går relativt greit
+
+[00:36:30] i økonomien. Men da blir det snakk om kanskje
+
+[00:36:33] 2-3 prosent ned hvert kvartal fremover,
+
+[00:36:37] og det er ikke nok til å kanskje egentlig skape
+
+[00:36:39] noen store negative reaksjoner, så det er mer sånn
+
+[00:36:41] at det er litt slappt en periode. Og så får vi se
+
+[00:36:45] når det eventuelt blir resesjoner etter hvert.
+
+[00:36:48] For jeg tror at blir det en myk landing, så er det
+
+[00:36:50] snakk om å utsette resesjonen, heller enn at du
+
+[00:36:52] da kan starte en lengre oppgangssyklus. Noe av
+
+[00:36:56] grunnen til det er at, altså at det blir en myk
+
+[00:36:59] landing, så går arbeidsledigheten kanskje opp
+
+[00:37:01] en halv prosentpoeng eller noe tilsvarende, men
+
+[00:37:03] da begynner du en ny syklus med nesten full
+
+[00:37:06] employment allerede, så da tar det ikke mange
+
+[00:37:08] måneder før du begynner å få lønnspress i en
+
+[00:37:11] ny runde med frykt rundt inflasjon og så videre.
+
+[00:37:14] Så jeg tror det er egentlig mer snakk om timing
+
+[00:37:16] heller enn om det blir resesjoner eller ikke.
+
+[00:37:20] Så det er jo egentlig ikke en veldig positiv
+
+[00:37:23] kombinasjon for aksjer, at da har du en situasjon
+
+[00:37:25] hvor det kan gå til at det trekker sidelengs eller
+
+[00:37:28] litt oppover en stund til, men jeg klarer ikke
+
+[00:37:30] å bli noe særlig mer optimistisk enn akkurat det
+
+[00:37:33] for prising. Kanskje det ser ok ut hvis du ikke
+
+[00:37:36] legger så mye vekt på at rentene har beveget
+
+[00:37:38] seg oppover. Tar du det inn i regnestykket, så
+
+[00:37:40] er det ikke så billig lenger. Og det er klart
+
+[00:37:42] hvis det blir resesjon, da er det stor nedsidig
+
+[00:37:44] inntjening, så da ser det heller ikke ting noe
+
+[00:37:46] spesielt billig ut i et sånt scenario. Så
+
+[00:37:48] halerisikoene er skud på nedsiden. De
+
+[00:37:51] bullefaktorene er litt mer sånn at det kan gå
+
+[00:37:54] greit en stund til, men jeg klarer liksom ikke
+
+[00:37:56] å bli så veldig mye mer entusiastisk enn det.
+
+[00:37:59] Neste gang du og jeg setter oss ned sammen
+
+[00:38:02] i studio, så er det nok stor sannsynlighet
+
+[00:38:05] for at vi er i gang med mai-månd, så da får
+
+[00:38:08] vi jo se om det blir å snakke litt rundt
+
+[00:38:11] «Sell in May and go away», eller om vi klarer
+
+[00:38:14] å være noe mer originale i tematikken, men
+
+[00:38:17] det har vi et par uker på å tenke opp
+
+[00:38:21] noe lurt, Paul. Det betyr at vi har kommet
+
+[00:38:23] til vei sende for i dag, så tusen takk for
+
+[00:38:27] at du var med, Paul, og ikke minst takk til
+
+[00:38:31] både Kyrre, Jørgen, Geir og Audun, som alle
+
+[00:38:34] bidro inn til episoden denne gangen. Og så
+
+[00:38:38] får vi bare minne om til slutt at liker du
+
+[00:38:40] podcasten, så vil vi gjerne at du legger igjen
+
+[00:38:42] en kommentar eller gir oss en hyggelig rating,
+
+[00:38:45] og dersom du ønsker, eller har ønsker om
+
+[00:38:47] gjester som vi skal invitere, temaer vi skal
+
+[00:38:49] ta opp eller aksjer vi skal kommentere, så kan du
+
+[00:38:52] sende oss en mail på utbyttepodden at dnb.no.
+
+[00:39:08] Denne sendingen ble publisert i podcasten
+
+[00:39:10] «Utbytte». Innholdet i sendingen er å anses
+
+[00:39:12] som markedsføringsmateriale fra DNB og er
+
+[00:39:14] ment å være generell spareveiledning. Sendingen
+
+[00:39:17] skal ikke ha oppfattes som et tilbud om å kjøpe
+
+[00:39:18] eller selge finansielle instrumenter, eller som

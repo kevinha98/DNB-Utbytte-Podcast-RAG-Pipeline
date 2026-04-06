@@ -1,0 +1,1417 @@
+Episode 351: Mai-aksjer, handelsdata og gjeldsskvis
+Publisert: Tue, 09 Ma
+Vert: Marius Brun Haugen
+Varighet: 28 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/mai-aksjer-handelsdata-og-gjeldsskvis
+
+--- Transkripsjon ---
+
+[00:00:03] Hvordan var handlemønstret til norske privatinvestorer i april, og hvilke aksjer skal man eie nå i mai?
+
+[00:00:10] Og vil en gjelskvis kunne treffe finansmarkedet i løpet av året?
+
+[00:00:15] Dette er temaene Paul Harper og jeg skal ta for oss i dagens episode, og blant aksjene vi skal se nærmere på denne gangen, er energiselskapet Equinor og flyselskapet Norwegian.
+
+[00:00:27] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen globale økonomien og finansmarkedene.
+
+[00:00:45] Jeg er Marius Bruun Haugen, og med meg har jeg aksjestrateg Paul Harper.
+
+[00:00:50] Hei, Marius.
+
+[00:00:52] Da var det et par uker siden forrige podcast sammen med deg, Paul, så det er definitivt på tide.
+
+[00:00:57] Når vi sitter her i studio, så er det mandag 8. mai, men det er altså bare den femte handledagen på Oslo Børs denne måneden.
+
+[00:01:05] Så vi kan jo driste oss til en rask oppsummering av april, synes jeg.
+
+[00:01:12] Globale aksjer steg jo i april. Hovenindeksen ved Oslo Børs var en av de flinkeste i klassen, den med en oppgang på nesten 3 prosent.
+
+[00:01:20] S&P opphalte 2 prosent i sammenligning.
+
+[00:01:23] Sjømat utmerket seg positivt på sektornivå, blant annet, mens flere råvarer og oljerelaterte aksjer falt litt tilbake.
+
+[00:01:31] Dette er jo historie, da.
+
+[00:01:32] Men jeg synes du hadde en interessant observasjon i månedsrapporten.
+
+[00:01:35] Den som du sendte ut i forrige uke, der du pekte på at til tross for at oppgangen i markedet var relativt bredt basert,
+
+[00:01:42] så gjorde defensive aksjer det bedre enn mange av de sykliske.
+
+[00:01:46] Ja, det er jo ofte sånn at når markedet er stert, så er det de mer sykliske aksjene som pleier å gjøre det best.
+
+[00:01:52] Og det er jo gjerne fordi at sykliske aksjer, så er inntjeningen mer avhengig av utviklingen i økonomien.
+
+[00:01:58] Så er man positiv på økonomien, så er det gjerne de sykliske som skal gjøre det best.
+
+[00:02:05] Verkest utvikling gir i hvert fall noe inntrykk på at det var kanskje noe motvillig oppgang, kan det si,
+
+[00:02:11] at investorene følte de måtte være med, men de turte ikke helt å satse på de mer spennste aksjene.
+
+[00:02:17] Og det har holdt seg egentlig til mer defensive aksjer, aksjer med sterk balanse,
+
+[00:02:21] aksjer hvor inntjening er relativt lite korrelert med økonomien.
+
+[00:02:26] Ja, bare som eksempel så titter jeg på et par aksjer.
+
+[00:02:29] Det er fra april, Orkla gjorde det bedre, Norwegian Telenor gjorde det bedre, Norsk Hydro,
+
+[00:02:34] bare for å illustrere.
+
+[00:02:35] Illustrere litt da, men dette vil jo svinge litt avhengig av når man går inn og ser på chartene.
+
+[00:02:42] Men spørsmålet er hvordan du vil oppsummere rapporteringssesongen.
+
+[00:02:46] Polen er jo godt i gang nå og drar seg vel mot slutten, selv om vi har en hektisk uke foran oss her hjemme.
+
+[00:02:52] Ja, jeg synes den har vært bedre enn ventet. Det er jo forskjellige måter man kan prøve å måle dette på.
+
+[00:02:57] Kanskje det som er mest vanlig er å se om tallene var da høyere eller lavere enn konsensus,
+
+[00:03:03] men det synes jeg egentlig er en bedre måte å vurdere rapporteringssesongen.
+
+[00:03:05] Rapporteringssesongen på er å se hvordan forventning til inntjening til neste år har endret seg.
+
+[00:03:10] Til hvilken grad er det disse rapportene gjør analytikere mer optimistiske til fremtiden,
+
+[00:03:15] eller eventuelt mer negativ.
+
+[00:03:18] Så hvis vi ser litt gjennom de forskjellige her, så er gjennomsnittet i Norden da litt opp på estimatene.
+
+[00:03:25] De siste tre kvartalene så har estimatene blitt justert litt ned.
+
+[00:03:29] Her er det snakk om opp en halv prosent denne gangen mot det ned i en prosent kvartalet før.
+
+[00:03:35] Det er liksom store endringer i forventninger her, men fortegnet er i det minste positivt,
+
+[00:03:41] og det er litt bedre enn det pleier å være.
+
+[00:03:43] Mens på Oslo Børs så har estimatendringer vært flatt til litt negativt,
+
+[00:03:47] så Oslo kommer ut kanskje litt dårligere enn Norden, synes jeg.
+
+[00:03:52] Ja, Orkla, Movi, Veidekke, Norwegian, det er bare noen av de som rapporterer denne uken her.
+
+[00:03:58] Hva er du mest med på?
+
+[00:03:59] Nei, det blir kanskje sjømatsektoren som er av de forskjellige sektorene,
+
+[00:04:04] den som gjerne er sist ut med rapporter.
+
+[00:04:08] Så det er flere large caps, som du sier, Movi og Salmar kommer denne uken,
+
+[00:04:12] og så har vi Lerøy pluss noen flere neste uke.
+
+[00:04:15] Så det er alltid litt spennende å se hva den grupperingen klarer å gjøre,
+
+[00:04:19] for som du nevnte i starten her, så har sjømat vært en av de bedre sektorene på Oslo Børs hittil i år.
+
+[00:04:26] Sesongmønstre er jo gjerne sånn at sjømat gjør det bra frem til sånn cirka nå,
+
+[00:04:30] og så er det litt mindre spennende gjennom sommeren.
+
+[00:04:33] Så om sjømat kan fortsette den gode utviklingen,
+
+[00:04:37] er det nok avhengig av at de leverer bra på disse rapportene som kommer nå.
+
+[00:04:40] Ja, er det noe ekstra nytte av den svake kronen?
+
+[00:04:43] Ja, det gjelder jo litt i hvert fall når det gjelder eksport.
+
+[00:04:47] Det bidrar egentlig positivt til veldig mye på Oslo Børs,
+
+[00:04:51] og det er noe som kanskje er lett å glemme,
+
+[00:04:54] at når du ser på inntjening til de norske selskapene,
+
+[00:04:58] så er det veldig mange som har enten tall som rapporteres i spesielt,
+
+[00:05:02] i spesielt dollar,
+
+[00:05:03] eller at det har en virksomhet som hovedsakelig er dollarrelatert.
+
+[00:05:08] Så du har selvfølgelig alle oljeselskapene rapporterer i dollar,
+
+[00:05:11] Jara rapporterer i dollar,
+
+[00:05:13] men så har du Hydro som rapporterer i kroner,
+
+[00:05:16] men aluminium blir jo solgt i dollar.
+
+[00:05:18] Sånn sett, hvis du summerer opp alt som egentlig er en slags utenvanske valuta,
+
+[00:05:25] som er driftsbasen til selskapene,
+
+[00:05:27] så kommer du opp i en to tredjedeler pluss av Oslo Børs.
+
+[00:05:31] Så kroner har mye å si.
+
+[00:05:33] I mange tilfeller så er det egentlig bare en sånn type vekslingssak,
+
+[00:05:36] men det er jo også relevant.
+
+[00:05:38] Andre ganger så kan det slå enda litt mer,
+
+[00:05:41] hvis du har inntekter i for eksempel dollar,
+
+[00:05:43] og kanskje kostnader i kroner,
+
+[00:05:45] så får du en slags giret effekt av dette.
+
+[00:05:47] Hittil i år så er OCBX ikke den beste i klassen,
+
+[00:05:53] bare opp rundt to prosent.
+
+[00:05:55] S&P 500 til sammenligning opp åtte prosent.
+
+[00:05:58] Europa samlingindeksen ti,
+
+[00:05:59] og Nasdaq-indeksen,
+
+[00:06:01] teknologitunge amerikanske indeksen opp 17 prosent.
+
+[00:06:06] Men uansett om vi ser hjemme- eller utepål,
+
+[00:06:10] så er det vel riktig å si at investorsentimentet er litt forsiktig.
+
+[00:06:14] Ja, det tror jeg er riktig å si,
+
+[00:06:16] og det er jo selvfølgelig også forskjellige måter man kan måle dette på.
+
+[00:06:20] Den som vi bruker kanskje mest er en sånn ukentlig spørreundersøkelse
+
+[00:06:24] som blir kalt Bull og Bear Survey,
+
+[00:06:26] hvor investors blir spurt om de tror markedet skal opp eller ned
+
+[00:06:29] de neste seks månedene.
+
+[00:06:31] Den har jo vært under null nå nesten kontinuerlig
+
+[00:06:34] i det siste halvandet året.
+
+[00:06:37] Så vanligvis når den er veldig negativ,
+
+[00:06:39] så er det et godt tidspunkt å kjøpe aksjer på,
+
+[00:06:41] og tilsvarende når den er veldig positiv,
+
+[00:06:43] så er det et salgssignal.
+
+[00:06:45] Men nå har vi da hatt en veldig lang periode
+
+[00:06:48] hvor sentimentet har vært negativ,
+
+[00:06:50] og det gjør det litt vanskelig for markedet å falle,
+
+[00:06:52] for mange er jo posisjonert nettopp for et negativt bilde,
+
+[00:06:57] og da blir det ikke så lett å overraske på den negative siden.
+
+[00:07:00] Men når det er sagt,
+
+[00:07:02] så trenger du noe mer enn bare at mange er negative.
+
+[00:07:05] Hvis det går dårlig for bedriftene,
+
+[00:07:07] så er det ikke så lett å få aksjene til å stige
+
+[00:07:09] selv om mange er posisjonerte for det.
+
+[00:07:11] Så litt sånn jevnt dårlig sentiment
+
+[00:07:13] er kanskje en av de faktorene som har bidratt
+
+[00:07:16] til oppgangen vi har sett i år.
+
+[00:07:18] I forrige uke satte jeg og gjorde opp status
+
+[00:07:21] for hva private investorerne vår handlet i april,
+
+[00:07:26] altså de som handler via plattformen til DMB.
+
+[00:07:30] Og kundene, de nytt og kjøpte aksjer i april,
+
+[00:07:34] akkurat som de gjorde i mars,
+
+[00:07:36] men den store trendendringen,
+
+[00:07:38] det var aktiviteten altså.
+
+[00:07:42] Og da tenker jeg på det totale antall kjøp og salg.
+
+[00:07:46] Aktiviteten bremset veldig opp.
+
+[00:07:49] For første gang var den under nivåene
+
+[00:07:50] fra vi startet den offisielle målingen i januar 2020.
+
+[00:07:54] Klart påsken spiller inn her,
+
+[00:07:55] for da blir det en del ekstra mindre handledager,
+
+[00:07:58] men litt.
+
+[00:08:00] Likevel så virker det som det er en del som sitter på gjære nå.
+
+[00:08:04] Og så var det jo også i april en måned
+
+[00:08:07] hvor volatiliteten var ganske lav,
+
+[00:08:11] og det er klart, da skaper det også mindre tradingmuligheter.
+
+[00:08:14] Ja, altså VIX-indeksen har jo vært på noe av det laveste
+
+[00:08:16] vi har sett på flere år nå i det siste,
+
+[00:08:19] og som du sier så har det vært mye mindre daglig volatilitet
+
+[00:08:23] i aksjemarkedet,
+
+[00:08:24] og det gjør at det kanskje er litt færre muligheter
+
+[00:08:27] for å handle.
+
+[00:08:28] Og i tillegg så har vi,
+
+[00:08:30] sånn børsen sånn jevnt egentlig gått relativt sidelengs
+
+[00:08:34] i en periode,
+
+[00:08:35] så da blir det så også vanskelig å kanskje finne på gode ideer
+
+[00:08:38] og hva man skal kjøpe og selge
+
+[00:08:40] hvis ting går litt sånn litt opp og ned
+
+[00:08:42] uten at det egentlig er noe særlig trend å følge der.
+
+[00:08:45] Så det er nok litt sånn blanding av faktorer,
+
+[00:08:48] men det er nok, som du sier, mye nervøsitet i markedet.
+
+[00:08:51] Da tør ikke mange å egentlig strekke seg så veldig langt
+
+[00:08:55] og eventuelt satse stort på enkelt case,
+
+[00:08:57] så da blir det kanskje litt mer det å bare sitte
+
+[00:08:59] stille med det man har fra før av.
+
+[00:09:01] Ja, og når du ser på hva slags aksjer som kundene handler i,
+
+[00:09:07] så er det mye av det samme som vi har sett tidligere i år.
+
+[00:09:10] Det er mye energiaksjer.
+
+[00:09:12] Aksjer som vår energi, Ake, BP, Equinor.
+
+[00:09:17] Også Norwegian er som regel med på topplisten.
+
+[00:09:20] Norwegian skal vi også snakke litt mer om
+
+[00:09:22] mot slutten av episoden.
+
+[00:09:24] Men før det, det er et par ting som
+
+[00:09:27] vi kan kanskje si dessverre,
+
+[00:09:29] er i fokus nå, og som det er greit
+
+[00:09:33] å følge litt ekstra med på.
+
+[00:09:35] Det ene er uroen rundt de amerikanske regionbankene.
+
+[00:09:38] Det kommer vi ikke helt utenom,
+
+[00:09:41] som du har sagt før, Paul.
+
+[00:09:42] Banker er viktige for økonomien,
+
+[00:09:44] og utviklingen til sektoren gir signaler
+
+[00:09:46] for det bredere markedet,
+
+[00:09:48] og det faktum at de amerikanske bankene
+
+[00:09:50] ikke har hentet inn fallet fra den største uroen i mars,
+
+[00:09:54] det er ikke så oppmuntrende.
+
+[00:09:57] Nei, jeg synes i hvert fall når de var såpass
+
+[00:09:59] oppmuntrende, at de ikke har hentet inn fallet fra den største uroen i mars,
+
+[00:09:59] det er oversoldt hvis det viser seg at dette her var bare
+
+[00:10:02] en slags begrenset problem for noen enkelte regionbanker,
+
+[00:10:07] så skulle man da kanskje ha sett en litt mer overbevisende
+
+[00:10:09] rekyl, synes jeg, i de større bankene i USA.
+
+[00:10:14] Det har jo vært litt begrenset, kan jeg si.
+
+[00:10:17] Det kommer litt opp, og så har det kommet litt ned igjen,
+
+[00:10:19] men jeg synes det er langt fra overbevisende
+
+[00:10:21] det vi har sett der.
+
+[00:10:23] Så det store spørsmålet er til hvilken grad
+
+[00:10:25] dette er noe mer systematisk eller ikke,
+
+[00:10:28] og på den ene siden,
+
+[00:10:29] så er det jo mange som sier at
+
+[00:10:31] nå er jo bankene mye mer solid enn de var
+
+[00:10:33] før finanskrisen, og det er jo helt riktig.
+
+[00:10:36] Men et problem som man kommer aldri helt bort fra
+
+[00:10:39] i bank er at uansett hvor solid banken er,
+
+[00:10:43] hvis alle kundene velger å trekke pengene ut samtidig,
+
+[00:10:46] så går en hver bank over ende.
+
+[00:10:47] Så bank er litt sånn unik i forhold til
+
+[00:10:50] de andre sektorene, at det er en bransje
+
+[00:10:52] hvor det er avhengig av tillit fra kundene
+
+[00:10:55] og investorene, og hvis den tilliten begynner
+
+[00:10:59] å stige, så er det en stor problem.
+
+[00:10:59] Da er det egentlig ikke så voldsomt mye
+
+[00:11:01] man får gjort, som alt.
+
+[00:11:04] Man bygger tillit gradvis,
+
+[00:11:05] og det kan bli borte veldig fort.
+
+[00:11:07] Ja, og så har vi liksom ikke noen måte
+
+[00:11:08] for å fastslå hvor alvorlig denne tillitskrisen er
+
+[00:11:11] før man plutselig ser resultatet i det,
+
+[00:11:14] i form av at folk tar ut penger av en masse.
+
+[00:11:17] Ja, og så har du dette med at
+
+[00:11:20] nå har rentene økt noe voldsomt nå
+
+[00:11:23] i de siste 12 månedene, sånn cirka.
+
+[00:11:26] Og spørsmålet var,
+
+[00:11:27] hva er det som kommer til å da
+
+[00:11:29] knekke når man tar rentene opp
+
+[00:11:31] såpass mye, og det virker som vi kanskje har fått
+
+[00:11:33] svaret nå, at det er nettopp disse regionbankene.
+
+[00:11:35] For da blir det til at da har du
+
+[00:11:37] et alternativ i stedet for å
+
+[00:11:39] ha pengene i banken til en halv prosent
+
+[00:11:41] rente, så kan du for eksempel
+
+[00:11:43] sette deg i noen sånn type money market fond
+
+[00:11:45] som er tilsvarende
+
+[00:11:47] lav risiko, eller muligens lavere risiko
+
+[00:11:49] hvis du er redd at banken skal gå over ende.
+
+[00:11:51] Men der kan du få en sånn type 4 prosent
+
+[00:11:53] avkastning. Så det er klart du,
+
+[00:11:55] de har et slags reell konkurrent
+
+[00:11:56] for hvor du kan eventuelt sette penger
+
+[00:11:59] uten å måtte sette de i aksjer.
+
+[00:12:02] Og så har du også det at
+
+[00:12:03] mange av disse bankene har da kjøpt
+
+[00:12:05] statsrenter som
+
+[00:12:07] statsrentepapirer på,
+
+[00:12:09] da når de kjøpte det på veldig lave renter,
+
+[00:12:11] og nå når rentene kommer opp, så sitter de på
+
+[00:12:13] en god del urealiserte tape her.
+
+[00:12:15] Og da er det litt sånn spørsmål, kan de
+
+[00:12:17] sitte der helt til forfall, eller må de
+
+[00:12:19] realisere noen av disse tapene?
+
+[00:12:21] Og noe hverken vi, eller den
+
+[00:12:23] amerikanske sentralbanken, for den slags
+
+[00:12:25] skyld, eller andre vet
+
+[00:12:26] er, det er
+
+[00:12:28] hvor mye bankene
+
+[00:12:31] både i USA og her i
+
+[00:12:33] Europa også for så vidt, vil stramme inn
+
+[00:12:35] utlånspraksisen sin, og
+
+[00:12:36] hva som blir ringvirkningene
+
+[00:12:39] av det. Og en ting som jeg har tenkt
+
+[00:12:41] da i mitt enkle hode, det er som følger,
+
+[00:12:43] altså selskaper som er
+
+[00:12:45] i eller nær finansieringstrøbbel,
+
+[00:12:48] de vil jo ikke
+
+[00:12:49] få det lettere, tvertimot.
+
+[00:12:51] Enten så skal rentene videre opp,
+
+[00:12:53] eller så strammer bankene til,
+
+[00:12:55] og det blir dyrere å finansiere seg
+
+[00:12:57] uansett, og dette her, det vil
+
+[00:12:58] vel øke sannsynligheten for at
+
+[00:13:01] noe eller noen havner i
+
+[00:13:03] problemer som trigger uro i
+
+[00:13:05] markedet på. Altså, vi vet jo selvfølgelig
+
+[00:13:07] ikke hvem, vi vet ikke hvor, vi vet ikke
+
+[00:13:09] når, men det er jo nettopp sånn
+
+[00:13:10] smellende som regel skjer da.
+
+[00:13:13] Altså, er jeg inne på noe her, eller er det sånn
+
+[00:13:14] overdrevent fryktscenario jeg tegner?
+
+[00:13:17] Nei, jeg tror det er absolutt et veldig
+
+[00:13:19] viktig poeng, for jeg ser
+
+[00:13:21] ikke i form av at det er noe sånn stor
+
+[00:13:22] trussel når det gjelder
+
+[00:13:24] husholdning. Vi fikk jo forrige uke
+
+[00:13:27] den nyeste payrollsrapporten,
+
+[00:13:28] som var fortsatt veldig sterk,
+
+[00:13:30] det var laveste arbeidsledighet siden 50-tallet,
+
+[00:13:33] lønnsvekslene har jo vært
+
+[00:13:34] sterkere enn inflasjon nå, hvis du måler
+
+[00:13:37] det måned over måned siden i fjor i sommer,
+
+[00:13:39] så husholdningene klarer seg egentlig
+
+[00:13:40] relativt greit, men det er bedriftene som du
+
+[00:13:43] sier som er der hvor det er
+
+[00:13:45] den største trusselen nå. I kveld
+
+[00:13:46] så kommer det en rapport fra
+
+[00:13:49] USA som heter
+
+[00:13:50] Senior Loan Officer Opinion Survey,
+
+[00:13:53] som er et kvartalsvis spørreundersøkelse
+
+[00:13:55] om bankene strammer
+
+[00:13:57] til eller ikke.
+
+[00:13:58] Førkvartal så var det allerede
+
+[00:14:00] relativt stramt, og det var før
+
+[00:14:02] disse bankene begynte å gå over ende.
+
+[00:14:04] Så får vi et opptikk i kveld som er
+
+[00:14:06] ganske sannsynlig, så er man på
+
+[00:14:08] nivåer som tidligere da har sammenfalt
+
+[00:14:10] med resesjoner. Så jeg tror det er
+
+[00:14:12] absolutt en stor trussel, begynner
+
+[00:14:14] bedriftene å slite, så er det klart
+
+[00:14:16] da kommer man til å også begynne å se at
+
+[00:14:18] lønnsvekslene faller relativt
+
+[00:14:20] fort, og ledigheten begynner å stige,
+
+[00:14:22] og så smitter det over til husholdningssektoren.
+
+[00:14:25] Så jeg tror det er det som er den største
+
+[00:14:26] trusselen akkurat nå, at vi begynner
+
+[00:14:28] å se innstramning i kredit,
+
+[00:14:30] som da begynner å merkes i
+
+[00:14:32] økonomien relativt snart.
+
+[00:14:34] Og apropos gjeld, Paul, i det siste
+
+[00:14:36] så har vi sett at denne bekymringen, eller usikkerheten
+
+[00:14:38] rundt det amerikanske gjeldstaket
+
+[00:14:41] har blusset opp igjen.
+
+[00:14:43] Det gjør jo det med jevne
+
+[00:14:44] mellomrom. Er det noe mer enn
+
+[00:14:47] støy denne gangen?
+
+[00:14:48] Det har jo reddet å vise seg
+
+[00:14:50] å være de tidligere årene når
+
+[00:14:52] dette har vært på agenda.
+
+[00:14:54] Det er alltid litt vanskelig å si. Det er jo kanskje litt det at
+
+[00:14:57] forhåndsvis
+
+[00:14:58] konten i amerikansk politikk har blitt
+
+[00:15:00] mer og mer polarisert de siste årene,
+
+[00:15:02] så da er kanskje trusselen enda litt større
+
+[00:15:04] denne gangen enn det har vært tidligere.
+
+[00:15:06] Så det er veldig vanskelig
+
+[00:15:07] å gi noe godt svar på det.
+
+[00:15:10] Jeg tror de aller fleste antar at det
+
+[00:15:12] ordner seg på et eller annet vis i siste liten,
+
+[00:15:14] men det er nettopp det at ingen av sidene
+
+[00:15:16] har egentlig noe insentiv
+
+[00:15:18] til å komme med
+
+[00:15:20] noe særlig løsning før det er
+
+[00:15:22] i tolvte time, så da må vi sitte og vente
+
+[00:15:24] helt til siste slutt. Men da har du også
+
+[00:15:26] den risikoen at det faktisk blir en
+
+[00:15:28] overraskelse at det ikke kommer frem til noe,
+
+[00:15:30] nettopp fordi at man antar at
+
+[00:15:31] fornuften seier til slutt, og at det
+
+[00:15:34] blir en eller annen løsning.
+
+[00:15:36] Bankeråden påvirker behovet for
+
+[00:15:37] renteøkninger, men det virker
+
+[00:15:40] som finansuroen
+
+[00:15:42] også påvirker oljeprisen.
+
+[00:15:44] Jeg har ikke noen veldig stort belegg
+
+[00:15:46] kanskje for å komme med den påstanden, men
+
+[00:15:48] oljeprisen er nå en gang midt på
+
+[00:15:49] 70-tallet, til tross for at OPEC
+
+[00:15:52] annonserte dette overraskende
+
+[00:15:54] produksjonskuttet i påsken,
+
+[00:15:56] og dette trever kraft.
+
+[00:15:58] Fra nå i mai.
+
+[00:16:00] Bra for inflasjonspresse
+
+[00:16:01] på litt sånn overordnet basis, men ikke så bra
+
+[00:16:04] for energisektoren på,
+
+[00:16:06] ettersom konsensusforventningen
+
+[00:16:08] til oljeprisen vel er høyere enn den er nå.
+
+[00:16:10] Ja, konsensus er jo et skottstykke
+
+[00:16:12] oppe på 80-tallet et sted, når det
+
+[00:16:14] gjelder brønte olje
+
+[00:16:16] i hvert fall, så dette er jo en av de
+
+[00:16:18] krispeilingene som kan si at
+
+[00:16:19] hvis det er enkelte tegn til at økonomien
+
+[00:16:22] kanskje begynner å miste litt fart, så
+
+[00:16:24] kan man også legge egentlig på
+
+[00:16:26] den listen utvikling i
+
+[00:16:28] oljeprisen, og en del andre råvarer som
+
+[00:16:30] også egentlig er kanskje litt slappere
+
+[00:16:32] enn vi hadde forventet.
+
+[00:16:33] Vi har et sånt bullcase basert på
+
+[00:16:36] den Kina-gjenåpningen,
+
+[00:16:38] og det har jo bidratt
+
+[00:16:39] positivt, men til tross for det
+
+[00:16:42] så kommer da en del råvarepriser ned,
+
+[00:16:44] og det tyder kanskje på at det er noe
+
+[00:16:46] svakhet andre steder
+
+[00:16:48] som da kanskje har vært noe
+
+[00:16:50] svakere enn forventet.
+
+[00:16:52] Så jeg må si at det ville vært mye lettere
+
+[00:16:54] å egentlig være positivt til
+
+[00:16:55] veksten hvis vi hadde sett oljeprisene
+
+[00:16:58] stige nå, og som det
+
+[00:17:00] sier, denne oljepris- eller
+
+[00:17:02] produksjonskuttet fra OPEC
+
+[00:17:03] ga et lite løft, men
+
+[00:17:06] det tok ikke veldig lang tid
+
+[00:17:08] før oljeprisene begynte å komme ned igjen,
+
+[00:17:10] så det tyder på at det var egentlig short covering
+
+[00:17:12] som trakk prisen opp igjen, og når det
+
+[00:17:14] var gjort, så var det minste motstandsvei ned igjen.
+
+[00:17:17] Renter og inflasjon,
+
+[00:17:18] det er åpenbart
+
+[00:17:20] fremdeles et tema
+
+[00:17:22] vi må forholde oss til. Den amerikanske
+
+[00:17:24] sentralbanken Fed økte renten
+
+[00:17:26] til 5,7%,
+
+[00:17:28] 25% i forrige uke.
+
+[00:17:30] Noen tror at det er
+
+[00:17:32] siste heving. Makro-gjengen vår
+
+[00:17:34] er på huset og holder en knapp på at det blir en
+
+[00:17:36] kvarting til i juni.
+
+[00:17:39] Den måntlige
+
+[00:17:40] amerikanske jobberapporten som du nevnte
+
+[00:17:42] i Stepål, den peker vel
+
+[00:17:44] i retning av en heving til, den, eller hva?
+
+[00:17:46] Ja, det var i hvert fall litt
+
+[00:17:48] på den haukete siden,
+
+[00:17:50] kan du si, så det er litt
+
+[00:17:52] sånn usikker.
+
+[00:17:54] Jeg er kanskje ikke like overbevist som
+
+[00:17:56] makroøkonomen at det kommer en renteheving
+
+[00:17:58] til, og det er heller egentlig ikke
+
+[00:17:59] futures-markedet, så når vi ser på
+
+[00:18:01] Fed Funds futures, så er det som oddsen
+
+[00:18:04] for en til relativt
+
+[00:18:06] lavt, så jeg tror konsensus-
+
+[00:18:08] forventning er at renten
+
+[00:18:10] skal nå ligge flatt igjennom
+
+[00:18:12] sommeren, og så skal det komme kutt i
+
+[00:18:13] september, og det som kanskje er
+
+[00:18:16] litt mer spennstig i markedsforventningen,
+
+[00:18:18] er at det da skal komme kutt egentlig både
+
+[00:18:20] september, november og desember,
+
+[00:18:22] og at du da skal ha en lang rekke med
+
+[00:18:24] kutt igjennom neste år også.
+
+[00:18:25] Så akkurat det bildet der,
+
+[00:18:28] det blir en økning til,
+
+[00:18:30] eller ikke, er ikke så viktig kanskje,
+
+[00:18:32] det er egentlig det tempo med hvor fort
+
+[00:18:34] disse kuttene kommer, som er kanskje det som er
+
+[00:18:36] mest interessant nå, synes jeg.
+
+[00:18:37] Men har markedet rett i det da, eller er det
+
+[00:18:40] litt på bærtur,
+
+[00:18:42] da betyr jo det da, hvis
+
+[00:18:43] Fed skal begynne å kutte, at vi vil se
+
+[00:18:46] et veldig, veldig tydelig omslag
+
+[00:18:48] i favør av
+
+[00:18:49] mye svakere
+
+[00:18:51] økonomi, og kanskje også
+
+[00:18:56] makrodata nå fram mot
+
+[00:18:58] og gjennom sommeren?
+
+[00:18:59] Altså jeg synes det er noe som begynner å ligne en litt frakobling
+
+[00:19:02] her mellom aksjer og renter,
+
+[00:19:04] for markedet da
+
+[00:19:06] priser inn sånn cirka
+
+[00:19:08] ni rentekutt nå i løpet av de neste
+
+[00:19:10] 18 månedene, sånn
+
+[00:19:12] cirka.
+
+[00:19:13] Jeg ser ikke helt for meg at du kommer til å få såpass mange
+
+[00:19:16] rentekutt uten at det er en
+
+[00:19:18] resesjon. Så rentemarkedet
+
+[00:19:20] som peker, synes jeg er ganske tydelig
+
+[00:19:22] i den retningen, og du ser det også i forhold
+
+[00:19:24] til rentekurven, hvor du har hatt
+
+[00:19:26] denne inverterte kurven nå siden i fjor,
+
+[00:19:28] høst, ti år siden den nå priser
+
+[00:19:30] inn vesentlig kutt
+
+[00:19:32] etterhvert, så sånn sett hvis
+
+[00:19:34] det viser seg å være en myk landing, så må
+
+[00:19:36] markedet da begynne å rekalibrere
+
+[00:19:39] renteforventningen opp
+
+[00:19:40] nå herfra. Men hvis vi ser på aksjemarkedet
+
+[00:19:42] så er det vanskelig egentlig å se noe spor
+
+[00:19:44] til resesjon, det er hverkelig inntjeningsestimatene
+
+[00:19:47] eller prisingen
+
+[00:19:48] for den saks skyld, så jeg synes egentlig
+
+[00:19:50] der har vi liksom litt sånn at
+
+[00:19:52] enten aksjemarkedet eller rentemarkedet
+
+[00:19:54] må komme til å justere seg
+
+[00:19:56] etter hvert. Historisk sett
+
+[00:19:58] har rentemarkedet gjerne vært litt flinkere til
+
+[00:20:00] å beregne disse tingene enn aksjer, så
+
+[00:20:02] det er også en krysspeiling som gjør meg
+
+[00:20:04] litt mer nervøs for aksjer.
+
+[00:20:06] Så summa summarum så vurderer
+
+[00:20:08] du det dit enn at aksjemarkedet
+
+[00:20:10] er høyt priset i forhold til risikoen
+
+[00:20:12] for resesjon
+
+[00:20:14] og blir det ikke resesjon
+
+[00:20:16] så skal rentene mest sannsynlig videre opp
+
+[00:20:18] så derfor er aksjemarkedet litt
+
+[00:20:20] fanget mellom barken og veien.
+
+[00:20:22] Du har ikke endret det synet siden vi satt der
+
+[00:20:24] sist for noen uker siden?
+
+[00:20:25] Nei, så det har egentlig vært synet
+
+[00:20:27] siden starten av året og om noe
+
+[00:20:29] så har det egentlig bare blitt enda litt
+
+[00:20:31] mer conviction i akkurat det
+
+[00:20:33] for nå er det jo sånn at
+
+[00:20:35] som du sier at enten så blir det et problem
+
+[00:20:37] med at inntjeningen må komme ned
+
+[00:20:39] kraftig på grunn av en resesjon
+
+[00:20:41] eller hvis det da ikke blir
+
+[00:20:43] resesjon og inntjeningen klarer å holde
+
+[00:20:45] seg sånn noglunde, da skal rentene
+
+[00:20:47] opp en del og utgangspunktet er
+
+[00:20:49] et marked som er priset relativt høyt
+
+[00:20:51] i hvert fall relativt til renter.
+
+[00:20:53] Så det er litt sånn uansett hvilken vei det skulle
+
+[00:20:55] gå så er det egentlig utfordrende
+
+[00:20:57] for seg at aksjer skal levere
+
+[00:20:59] så voldsomt mye
+
+[00:21:01] utover eventuelt da at jo mer
+
+[00:21:03] det går på kort sikt, jo større er fallhøyden
+
+[00:21:05] når det eventuelt smelter.
+
+[00:21:08] Avslutningsvis så skal vi
+
+[00:21:09] snakke litt om Equinor og
+
+[00:21:11] Norwegian, børsens
+
+[00:21:13] største selskap målt i markedsverdi
+
+[00:21:15] la frem rapporten
+
+[00:21:17] sin for første kvartal torsdag
+
+[00:21:19] 4. mai og det var
+
+[00:21:21] god stemning derpå. Ja da, det var
+
+[00:21:23] bedre enn ventet tallet der
+
+[00:21:25] men kanskje litt sånn som vi har
+
+[00:21:27] sett i enkelte andre tilfeller. Det har ikke
+
+[00:21:29] vært de helt store estimatendringene
+
+[00:21:31] i etterkant. Så når vi ser på
+
+[00:21:33] konsensusestimatene i
+
+[00:21:35] Bloomberg så er det sånn ganske flatt
+
+[00:21:37] egentlig. Så kan jeg si at her var det nok
+
+[00:21:39] kanskje noe risiko for at estimatene skulle
+
+[00:21:41] ned nettopp fordi at oljeprisen
+
+[00:21:43] nå er et godt stykke under konsensus
+
+[00:21:45] så det blir gjerne til at når
+
+[00:21:47] analytikerne skal gå tilbake til
+
+[00:21:49] regnearkene sine så justerer de
+
+[00:21:51] litt ned på oljeprisanslaget og litt
+
+[00:21:53] ned på gassanslaget
+
+[00:21:55] sånn sett så var det et bra
+
+[00:21:57] kvartal det som var nødvendig til å unngå
+
+[00:21:59] å kutte i estimatene.
+
+[00:22:01] Ja da, analysetimet har
+
+[00:22:03] gjentatt kjøpsanbefalingen på aksjen
+
+[00:22:05] oppjustert kursmålet fra 370 til
+
+[00:22:07] 380 kroner
+
+[00:22:09] kontanter
+
+[00:22:11] det har de mye av så det bør være
+
+[00:22:13] rom for utbyttere her
+
+[00:22:15] solide utbyttere her
+
+[00:22:17] de kommende årene på. Ja absolutt
+
+[00:22:19] så de har solid kapasitet
+
+[00:22:21] til utbytte og de har jo nedbetalt mye
+
+[00:22:23] gjeld det siste året også så da
+
+[00:22:25] er det sånn at de kan betale ut mer
+
+[00:22:27] til en del de har i inntekter i en periode
+
+[00:22:29] til å gire opp balansen
+
+[00:22:31] igjen. Og det er nok kanskje
+
+[00:22:33] også litt relief
+
+[00:22:35] her at de ikke nå
+
+[00:22:37] sier at de skal begynne å pumpe masse penger
+
+[00:22:39] inn i fornybare prosjekter som
+
+[00:22:41] da antageligvis har relativt lav
+
+[00:22:43] lønnsomhet som er litt
+
+[00:22:45] problem generelt med mye av disse
+
+[00:22:47] fornybare prosjekter at det er
+
+[00:22:49] ikke like enkelt
+
+[00:22:51] å tjene penger på
+
+[00:22:52] sånne prosjekter hvor det er stort sett
+
+[00:22:55] relativt lav avkastningskrav
+
+[00:22:57] som er sånn den flip-siden med at
+
+[00:22:58] de har lav kapitalkostnåd i sånne
+
+[00:23:01] prosjekter og den ene kapitalkostnådet
+
+[00:23:03] er den andres avkastning så
+
+[00:23:05] sånn sett så tror jeg det er litt relief
+
+[00:23:07] der at Equinor ikke sløser bort penger
+
+[00:23:09] på litt sånne luftige prosjekter
+
+[00:23:11] som det kanskje kunne være litt frykt for at det kunne gjøre.
+
+[00:23:14] Du styrer jo
+
+[00:23:15] porteføljen med anbefalte
+
+[00:23:16] aksjer som vi oppdaterer for kundene
+
+[00:23:18] hver mandag og
+
+[00:23:21] Equinor er en del av porteføljen.
+
+[00:23:23] Ja det er det
+
+[00:23:24] det er egentlig et større veddemål
+
+[00:23:27] å ha den enn å ha den
+
+[00:23:28] så selv når vi har den i porteføljen så blir det
+
+[00:23:31] likevel en undervekt fordi at den er såpass stor
+
+[00:23:33] på Oslo Børs. Det har jo vært
+
+[00:23:35] en utfordring da at vi har jo egentlig hatt
+
+[00:23:37] et forholdsvis
+
+[00:23:38] nøytralt syn
+
+[00:23:41] på energisektoren
+
+[00:23:42] nå med tanke på at vi tror oljeprisen
+
+[00:23:45] skal opp senere på år og da synes jeg
+
+[00:23:47] det er litt skummelt å være altfor undervektet
+
+[00:23:49] men for å oppnå en nøytral vekt
+
+[00:23:51] så blir det til at vi da må ha et eller annet i tillegg
+
+[00:23:53] til Equinor og da
+
+[00:23:55] blir jo vektingen litt feil der
+
+[00:23:57] så vi blir en slags undervekt i Equinor
+
+[00:23:58] en overvekt i AKBP
+
+[00:24:00] og da har ikke det bidratt noe positivt
+
+[00:24:03] til avkastning for å si det sånn når AKBP
+
+[00:24:05] har gjort det vesentlig dårligere enn Equinor
+
+[00:24:06] hittil i år. Og det er bare å minne om at
+
+[00:24:08] Equinor er en så stor del
+
+[00:24:11] av hovedindekten da på
+
+[00:24:12] Oslo Børs. Ja det er nettopp det
+
+[00:24:15] den er litt over 20% av
+
+[00:24:16] av indeksen og når porteføljen er
+
+[00:24:18] en equal weight så er det
+
+[00:24:21] da får vi egentlig ikke noe stort mer enn
+
+[00:24:22] 10% vekt på Equinor
+
+[00:24:25] i yktporteføljen selv om vi har den.
+
+[00:24:27] Siste selskap tenkte vi skulle innom
+
+[00:24:29] i dag er flyselskap
+
+[00:24:30] Norwegian. Der
+
+[00:24:33] har analyssteamet en kjøpsambefaling
+
+[00:24:35] kursmål 16
+
+[00:24:36] kroner. Denne er ikke
+
+[00:24:39] å finne i porteføljen
+
+[00:24:41] din Paul, men
+
+[00:24:42] aksjen fikk seg et løft slutten av
+
+[00:24:45] forrige uke da de la fram
+
+[00:24:46] trafikktall som var gode.
+
+[00:24:49] Ja, de har overrasket
+
+[00:24:50] positivt med det de har kommet med
+
+[00:24:53] så langt og guidingen for sommeren har også
+
+[00:24:54] vært ganske positiv.
+
+[00:24:57] Synes det egentlig er litt sånn interessant paradoks
+
+[00:24:59] her at du skulle jo tro at
+
+[00:25:00] er det noe at hvis husholdningene
+
+[00:25:03] sliter med høyeste rønnpriser
+
+[00:25:05] og renter og så videre så er det en ganske
+
+[00:25:07] enkel måte å spare penger på
+
+[00:25:09] er å kutte ned på feriebudsjettet
+
+[00:25:11] men det er ikke noe tegn til det
+
+[00:25:13] i det Norwegian guider i hvert fall
+
+[00:25:15] at her virker det som de fyller
+
+[00:25:17] alt de har av fly og som de fleste
+
+[00:25:19] har sikkert fått med seg så er det ikke
+
+[00:25:21] flybrettet like billig nå som det var for
+
+[00:25:23] noen år tilbake og i tillegg til det
+
+[00:25:25] så har de sånn kronen som gjør at
+
+[00:25:26] sommerferien i år blir antageligvis noe dyrere
+
+[00:25:29] enn kanskje de fleste hadde
+
+[00:25:30] forventet, men på ferie skal
+
+[00:25:32] de fleste og det ser ut som
+
+[00:25:35] til tross for litt stram økonomi
+
+[00:25:37] så merkes ikke det i Norwegian sine tall
+
+[00:25:39] enda. Nei, det er interessant
+
+[00:25:41] det der, de måtte vel til og med sette opp
+
+[00:25:43] ekstra fly til flere
+
+[00:25:44] destinasjoner nede i syden, Mallorca og sånn
+
+[00:25:47] blant annet, men
+
+[00:25:48] aksjekursen den løftet seg jo
+
+[00:25:51] veldig i januar
+
+[00:25:53] og de første dagene inn i februar
+
+[00:25:55] men siden den gang så har den
+
+[00:25:57] jo konsolidert
+
+[00:25:58] og nå ligger den jo rundt 11 kroner
+
+[00:26:01] hva sier det det? Til tross for
+
+[00:26:03] at det har kommet til en del gode dryp
+
+[00:26:05] i form av disse blant annet månedlige
+
+[00:26:06] trafikkoppdateringene.
+
+[00:26:08] Altså flyselskap er en notorisk
+
+[00:26:10] sykliske, så igjen da hvis de ikke
+
+[00:26:12] stiger på gode nyheter så kan det
+
+[00:26:15] være kanskje tegn til at aksjemarkedet
+
+[00:26:16] begynner å bli litt nervøs på utviklingen
+
+[00:26:18] i syklusen, men det kan jo også
+
+[00:26:20] som du sier, de hadde en ganske bra periode
+
+[00:26:22] så det er jo naturlig at aksjen også har
+
+[00:26:25] liten pause, det kan ikke bare gå rett til
+
+[00:26:26] himmels, så der er det litt sånn
+
+[00:26:29] on offense akkurat nå hvilken vei
+
+[00:26:31] man skal lese det, så vi får se hva de
+
+[00:26:33] kommer med tallet her, men det blir
+
+[00:26:35] litt bearish hvis det ikke stiger
+
+[00:26:37] på gode nyheter, det er jo
+
+[00:26:39] noe som alltid er
+
+[00:26:41] viktig å ha litt i bakhodet på samme måte
+
+[00:26:43] som at hvis en aksje stiger på dårlige
+
+[00:26:44] nyheter så er det egentlig gjerne en positiv.
+
+[00:26:48] Rapporten kommer
+
+[00:26:49] på fredag
+
+[00:26:50] 12. mai
+
+[00:26:51] ellers resten av denne uken
+
+[00:26:55] er en inflasjonstall
+
+[00:26:56] fra USA, som vanlig
+
+[00:26:59] interessant.
+
+[00:27:00] Ja, så der, inflasjon har jo vært
+
+[00:27:02] kanskje det største tema nå de siste årene
+
+[00:27:04] og det blir ikke noe veldig
+
+[00:27:06] annerledes, det bortsett fra eventuelt
+
+[00:27:08] utvikling i
+
+[00:27:09] bankutlån og så videre som vi også nevnte
+
+[00:27:12] men når det gjelder akkurat det med
+
+[00:27:14] inflasjon så er jo det et
+
+[00:27:16] tema som har kanskje da gjort
+
+[00:27:18] at sentralbanken har rentet opp
+
+[00:27:20] med å muligens stramme til
+
+[00:27:22] litt for mye denne gangen
+
+[00:27:25] vanskelig for de å begynne å
+
+[00:27:27] kutte renten så lenge inflasjonen er
+
+[00:27:29] såpass over målet
+
+[00:27:31] de har satt seg her, så dette blir
+
+[00:27:33] spennende. Markedet selvfølgelig
+
+[00:27:35] trenger helst å ha det tallet under
+
+[00:27:37] konsensus, et tall som er høyt
+
+[00:27:39] her kan da skape litt
+
+[00:27:40] problemer. Bra det, det var
+
+[00:27:43] det jeg hadde på blokka
+
+[00:27:45] for i dag, så det betyr at vi har
+
+[00:27:47] kommet til veis
+
+[00:27:48] med Paul, det gjenstår det bare å si
+
+[00:27:51] tusen takk for at du var
+
+[00:27:52] med
+
+[00:27:55] liker du som lytter podcasten
+
+[00:27:57] så vil vi gjerne at du legger en
+
+[00:27:59] kommentar eller gir oss en hyggelig
+
+[00:28:01] rating og dersom du har ønsker om
+
+[00:28:03] gjester vi skal investere, temaer vi skal ta opp
+
+[00:28:05] eller aksjer vi skal kommentere
+
+[00:28:07] så kan du sende oss en mail på utbyttepodden
+
+[00:28:09] at dmb.no

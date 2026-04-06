@@ -1,0 +1,511 @@
+Episode 264: Hvor høyt skal styringsrenten?
+Publisert: Fri, 25 Ma
+Vert: Marius Brun Haugen
+Varighet: 23 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/hvor-hyt-skal-styringsrenten
+
+--- Transkripsjon ---
+
+[00:00:00] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen globale økonomien og finansmarkedene.
+
+[00:00:08] Jeg er Marius Benhaugen fra DNB Markets og i dag skal det handle om høyere renter.
+
+[00:00:15] Norges Bank økte som ventet styringsrenten med 0,25 prosentpoeng til 0,75 prosent torsdag denne uken.
+
+[00:00:24] I tillegg så hevet de rentebanen og sammenlignet med tidligere varsler de nå enda høyere renter de kommende årene.
+
+[00:00:33] Så hva betyr dette her for norsk økonomi og hvor stor usikkerhet er det rundt anslagene og er risikoen på oppsiden?
+
+[00:00:42] Alt dette skal du få høre mer om nå, men ikke av meg.
+
+[00:00:46] Men mine gode kollegaer på makroanalyse, det er valutastrateg Magne Østnord og seniorøkonom Kyrre Omdahl.
+
+[00:00:55] God fornøyelse og takk for at du hører på Utbytte.
+
+[00:00:59] God torsdag og velkommen til webinar her fra DNB Markets.
+
+[00:01:12] Norges Bank er tema for dagens sending.
+
+[00:01:16] Styringsrenten ble hevet som ventet til 0,75 prosent.
+
+[00:01:22] Rentebanen er også en god del høyere enn forrige rentebane fra desember.
+
+[00:01:29] Det har blitt en vane å kunne ønske deg velkommen.
+
+[00:01:32] Kyrre, var du overrasket over at den nye rentebanen var så mye høyere enn den forrige fra desember?
+
+[00:01:42] Jeg var for så vidt det. Det var ikke det vi hadde trodd på forhånd.
+
+[00:01:45] Så at det løftet rentebanen enda mer og et halvt prosentpoeng over det som var anslagene våre, det var litt overrasket.
+
+[00:01:54] Hvis vi skal se veldig overordnet på dette, så betyr jo det at sentralbanken nå og da,
+
+[00:02:01] legger opp til ytterligere tre rentehøvinger i år, fire neste år til en styringsrente på 2,5 prosent.
+
+[00:02:12] Det betyr jo at det går bra i den norske økonomien.
+
+[00:02:16] Ja, det gjør det. Det betyr også at inflasjonen har løftet seg og holder seg ganske høy en stund fremover,
+
+[00:02:24] og at lønnsveksten er tiltakende.
+
+[00:02:26] Vi skal gå litt inn på noen av enkeltfaktorene.
+
+[00:02:31] Vi har jo vært med å påvirke endringen i rentebanen her, og hvis vi skal starte med noe av det vanskeligste.
+
+[00:02:39] Det internasjonale bildet er jo opplagt usikkert, det er det alltid, men usikkerheten føles jo kanskje enda større akkurat nå.
+
+[00:02:50] Så gjør jo Norges Bank ganske store endringer i anslaget for mange handelspartnere, hvor de tar ned vekstutsiktene,
+
+[00:03:00] men.
+
+[00:03:01] Både lønns- og inflasjonsutsiktene, de blir løftet betydelig, så summen er jo da at dette bidrar til å løfte rentebanen ganske betydelig.
+
+[00:03:13] Ja, det er riktig. Det er i stor grad en følge av krigen i Ukraina, som man tror kommer til å dempe aktivitetsutviklingen,
+
+[00:03:22] men det gir også impulser, særlig via energimarkedene og råvaremarkedene, og det løfter inflasjonen ganske betydelig.
+
+[00:03:30] Og det ser vi igjen da også i renten internasjonalt, som har trukket ganske mye opp siden den forrige pengepolitiske rapporten til Norges Bank.
+
+[00:03:39] Og de høyere rentene, det er jo selvfølgelig en følge for også de norske rentene, så det er en viktig bidragsyter til at rentebanen løftes.
+
+[00:03:46] Men jeg sitter jo likevel, vi skal gå litt dypere inn i inflasjonsutsiktene her hjemme etter hvert, men jeg sitter vel likevel med en følelse av at vi har veldig høy inflasjon i USA,
+
+[00:03:57] og en sentralbank som nå virkelig skal agere.
+
+[00:04:00] Vi skal agere tøft på det. Vi har inflasjonsrater også i eurozonen, som er ganske høye, og der er også ECB i bevegelse.
+
+[00:04:10] Men likevel så er vi jo, vi har jo høy inflasjon her hjemme også, men vi har på en måte ikke det samme inflasjonspresse her likevel. Hvorfor det?
+
+[00:04:22] Nei, det kan nok være litt forskjellige årsaker til det. Det er også litt ulike årsaker til hvorfor inflasjonen er så høy i Europa og i USA.
+
+[00:04:29] Energiprisene, for eksempel, får et sterkere gjennomslag i KPI i USA enn det gjør i eurozonen og enn det gjør her hjemme.
+
+[00:04:39] Men så har vi litt andre impulser som drar inflasjonen litt mer opp i disse andre landene. Så det har litt med sammensetningen kanskje av effektene å gjøre også.
+
+[00:04:48] Vi mente og har ment en stund at Norges Banks anslag for lønnsveksten fra desember var alt for lavt, og ikke lenge etterpå.
+
+[00:04:59] Da vi la frem egne oppdaterte prognoser, så la vi inn et vesentlig høyere anslag for lønnsveksten.
+
+[00:05:06] Nå kommer Norges Bank og er mer på linje med oss, løfter anslaget for lønnsveksten til 3,8 prosent i år, og så skal lønnsveksten holde seg nær opp under 4 prosent i flere år fremover.
+
+[00:05:24] Det vittner om et ganske stramt arbeidsmarked.
+
+[00:05:27] Ja, et stramt arbeidsmarked er en ting, men også at inflasjonen er ganske høy, eller blir høy i år og for så vidt neste år.
+
+[00:05:37] Og det gjør at skal arbeidstakerne kunne få reallønnsvekst, så må de også ha et litt mer driv i den nominelle lønnsveksten.
+
+[00:05:46] Og når arbeidsmarkedet er stramt, så vil jo på en måte kraven om reallønnsvekst også komme frem litt tidligere.
+
+[00:05:53] Sentralbanksjefen ble jo spurt om nettopp...
+
+[00:05:58] Denne setningen om at dersom inflasjonen blir vedvarende høyere, så innebærer det høyere styringsrente enn det rentebanen tilsier.
+
+[00:06:09] Om det var et signal til partene i arbeidslivet.
+
+[00:06:14] Hun svarte som hun måtte ved å avfeie det, men disse sammenhengene påvirker jo hverandre.
+
+[00:06:22] Så hvordan tror du partene vil forholde seg til nettopp trusselen om høyere renter dersom de tvinger frem en høyere lønnsvekst?
+
+[00:06:34] Dette er jo en mekanisme som går langt tilbake i tid, og som egentlig ble tydeliggjort når Svein Gjendrom tok sjefstolen i Norges Bank.
+
+[00:06:41] Hvor han ønsket å få fram at Norges Bank har en slags reaksjonsfunksjon.
+
+[00:06:46] Det får konsekvenser, de lønnsoppgjørende som partene blir enige om, for pengepolitikken.
+
+[00:06:53] Og det har vært sånn sett veldig tydelig at dersom det nominelle bildet begynner å dra seg til, så vil det få føringer for renta, den vil bli satt opp.
+
+[00:07:01] Og det er på en måte noe av det samme som gjentas nå.
+
+[00:07:04] Og det kan jo ses som en slags advarsel, eller bare en liten påminnelse om at det å gi for høy tillegg, det kan få føringer for renta.
+
+[00:07:16] Vi har hatt lave renter i lang tid nå. Nå peker det i retning av en normalisering og etter hvert også en pengepolitikk som faktisk virker innstrammende.
+
+[00:07:30] Forbruksveksten som Norges Bank legger til grunn,
+
+[00:07:34] er jo ganske frisk de nærmeste tiden før den faller litt av.
+
+[00:07:39] Men må vel likevel sies og kunne tolkes som at det er ikke noe stor knekk i forbruket som forårsakes av høyere renter de legger opp til?
+
+[00:07:51] Nei, jeg holder på å si snarere tvert imot. Vi ser at veksten i disponibel realinntekt, den blir relativt moderat.
+
+[00:08:00] Og mye lavere da enn veksten i forbruket.
+
+[00:08:05] Så det betyr at spareraten den faller en del.
+
+[00:08:08] Så dette er jo en konsekvens av at husholdningene ønsker å ikke endre forbruket sitt så mye, selv om inntektene går litt ned, så det går litt ut over sparingen.
+
+[00:08:20] Når vi kommer inn mot slutten av perioden, så er det jo flater denne spareraten ut, og det er mer samsvar mellom forbruksvekst og inntektsvekst.
+
+[00:08:28] På denne grafen Norges Bank pleier å vise med gjeldsbetjeningskostnader som andel av BNP,
+
+[00:08:32] på denne grafen Norges Bank pleier å vise med gjeldsbetjeningskostnader som andel av BNP,
+
+[00:08:34] så er det knapt mulig å se spor av denne varslede rentehevingen.
+
+[00:08:40] Men samtidig, det er jo lett å tenke seg at det ikke nødvendigvis er de samme husholdningene som sitter med sparebeholdning og veldig høy gjeld.
+
+[00:08:51] Det gjør jo bildet litt vanskelig å tolke.
+
+[00:08:54] Fordi det er klart at det er noen husholdninger som vil slite hvis vi får den renteøkningen som Norges Bank legger opp.
+
+[00:09:02] Og det kan nok være unge husholdninger som er mer nyetablerte, har høy gjeldsgrad og i liten grad bruker å binde renta.
+
+[00:09:06] som er mer nyetablerte, har høy gjeldsgrad og i liten grad bruker å binde renta,
+
+[00:09:14] men også er en gruppeutholdninger som normalt bidrar ganske mye til forbruksvekst.
+
+[00:09:20] Så hvis de rammes hardt her, så kan det jo gi et større utslag i forbruket enn det vi tenker oss.
+
+[00:09:29] På den andre siden kan det jo være at slik modellen til Norges Bank er laget,
+
+[00:09:35] så har det jo basert seg altså på historikk, hvor det er de samme husholdningene,
+
+[00:09:39] altså de unge nyetablerte som har kanskje hatt mest nytte av fall i rentene,
+
+[00:09:43] som har generert høy forbruksvekst.
+
+[00:09:47] Så det er jo mulig at modellen fanger opp dette allikevel til en viss grad.
+
+[00:09:51] Du, i kjølvannet av den energikrisen vi har sett utvikle seg i Europa fra høsten i fjor,
+
+[00:10:01] og som har blitt intensivert nå med krigen i Europa,
+
+[00:10:05] i Ukraina, så er jo et forskjert grønt skifte
+
+[00:10:09] og høyere etterspørsel etter norsk gass, sentrale puslespillbrikker.
+
+[00:10:16] Norges Bank gir jo anslag for oljeinvesteringene her,
+
+[00:10:19] og normalt så tenker vi jo at veldig høye priser vil gi aktivitetseffekter også her hjemme,
+
+[00:10:27] men det er litt vanskelig å finne spor av det i anslagene til Norges Bank.
+
+[00:10:34] Ja, det ser ut som det.
+
+[00:10:35] Det ser i hvert fall ikke sånn ut, men det er en ganske sterk vekst i oljeinvesteringene neste år og år etter.
+
+[00:10:41] Vi finner jo ikke den samme som boosten i BNP, så det kan jo være at det er noen andre ting det går imot.
+
+[00:10:47] Og så kan det jo være at...
+
+[00:10:49] Men denne skattepakken har jo gjort noe med hva oljeselskapene har for planer allerede.
+
+[00:10:57] Ja, og vi vet jo at det antagelig blir et fall i investeringen i år,
+
+[00:11:03] og så kommer det en boost neste år.
+
+[00:11:06] Og så har nå Norges Bank oppjustert også 2024-anslagene,
+
+[00:11:09] så vi får skikkelig bra driv også der.
+
+[00:11:12] Så skyldes jo noe av den oppjusteringen at de har tatt ned nivået både i år og neste år,
+
+[00:11:17] og så skal de opp til litt høyere enn det forrige nivået de hadde i 2024.
+
+[00:11:22] Det virker jo som om det som kanskje begrenser veksten litt her,
+
+[00:11:27] er kapasiteten innenfor leverandørindustrien,
+
+[00:11:33] at det ikke helt greier å øke produksjonen.
+
+[00:11:35] Rask nok.
+
+[00:11:37] Det gir minner tilbake til et knappt ti år siden hvor det ga seg utslag i galopperende priser.
+
+[00:11:48] Ja, det kan fort gjøre det, ja.
+
+[00:11:50] Nå er jo anslaget i oljeprisen på vei ned igjen, når vi ser såpass langt ut.
+
+[00:11:57] Det virker vel et 85-80 dollar-fate, så det kan jo være at lønnsomheten er ganske god.
+
+[00:12:02] Og med et veldig driv for å...
+
+[00:12:04] for å...
+
+[00:12:05] øke investeringene, og kanskje tyne mest mulig produksjon ut nå, mens prisen er gode,
+
+[00:12:10] så kunne man jo fort tenke seg at oljeselskapene er villige til å pøse ut ganske mye penger
+
+[00:12:15] til leverandørindustrien for å få dem til å levere det de trenger.
+
+[00:12:20] En faktor til, det er kronekursen.
+
+[00:12:24] Kronen har styrket seg en del siden forrige pengepolitiske rapport i desember.
+
+[00:12:31] Nå avsluttet jo Norges Bank siden.
+
+[00:12:38] Kronen har satt sine tidserier i slutten av forrige uke,
+
+[00:12:39] så de har ikke fått med seg den siste fyrer dagers styrking,
+
+[00:12:43] men det er små bidrag inn i renteregnskapet.
+
+[00:12:46] Kronen betyr lite for rentesettingen, kan det virke.
+
+[00:12:50] Ja, og ser vi på bevegelsene i kronen i dette kvartalet i forhold til hva det troddes sist
+
+[00:12:56] så er kanskje ikke anslagene vant så veldig langt unna.
+
+[00:13:00] Men vi har fått en veldig styrking nå de siste dagene
+
+[00:13:02] som Norges Bank da ikke har fanget opp.
+
+[00:13:05] Likevel er det jo slik at når de ser på denne kronenutviklingen,
+
+[00:13:08] så vil de jo normalt korrigere for hva slags bidrag endringen i oljeprisene har gitt.
+
+[00:13:14] Om oljeprisene har løftet seg så mye som den har,
+
+[00:13:16] og har blitt liggende på over 100 dollar fat og gått over det,
+
+[00:13:21] så skulle man tenke seg at det skulle ha gitt en veldig sterk krone.
+
+[00:13:24] Når vi ikke har fått det, så betyr det at den underliggende kronen er ganske svak.
+
+[00:13:28] Og det skulle ha gitt et positivt bidrag til renteregnskapet.
+
+[00:13:32] Men igjen er det vel slik at det er en felles faktor som ligger i usikkerheten
+
+[00:13:38] rundt det som skjer i Ukraina og virkningen inn på markedene.
+
+[00:13:41] Og den usikkerheten er jo med på å svekke kronen.
+
+[00:13:45] Dette balanserer hverandre litt opp.
+
+[00:13:47] Når vi så på dette i forkant, så synes vi det var vanskelig å se for oss
+
+[00:13:53] at kronen skulle ha noen store effekter inn i renteregnskapet.
+
+[00:13:56] Og det viser seg egentlig at det ble små bidrager.
+
+[00:13:59] Og da har vi nevnt renteregnskap.
+
+[00:14:02] Og jeg tenkte at vi skulle se litt mer på det.
+
+[00:14:05] For renteregnskapet er jo egentlig en modellbasert beregning
+
+[00:14:11] hva de enkelte faktorene bidrar med til endringer i rentebanen siden sist.
+
+[00:14:16] Altså siden desember.
+
+[00:14:19] Men så legges det jo skjønn.
+
+[00:14:22] Og denne gangen så var det skjønnet ganske betydelig.
+
+[00:14:27] Særlig innenfor det nærmeste året.
+
+[00:14:29] Hvor de nye...
+
+[00:14:32] Tallene gitt modellsammensetningen tilsier at renten skulle mye raskere opp.
+
+[00:14:41] De liker å lene seg til å gå gradvis frem.
+
+[00:14:45] Ja. Skulle de fulgt modellen sin, så skulle det vært hissig på røyten og satt rentene veldig raskt opp.
+
+[00:14:51] Jeg håper det er litt som i USA.
+
+[00:14:53] Men i Norge så ligger ikke banken så langt på etterskudd.
+
+[00:14:57] De startet jo renteoppgangen for en stund siden og varslet renteoppgangen en god stund.
+
+[00:15:02] Så det er jo godt priset inn i markedene.
+
+[00:15:05] Og antakelig også mange husholdninger.
+
+[00:15:08] Så det er en viktig faktor å kunne heve litt gradvis, se effektene på økonomien.
+
+[00:15:15] Særlig når det er så mye usikkerhet om utviklingen fremover.
+
+[00:15:20] Og det gjelder da spesielt internasjonale forhold.
+
+[00:15:22] Hvor usikkerheten både rundt inflasjonen og aktivitetsutviklingen er kjempestor.
+
+[00:15:28] Og det å heve raskt, kanskje bidra til et tilbakeslag i økonomien.
+
+[00:15:32] Og så få usikkerheten mot seg utenfra.
+
+[00:15:34] Det ville være dumt.
+
+[00:15:36] Så det tilsier at de gjør dette gradvis.
+
+[00:15:39] Men vi snakker jo ofte om forventningsrette anslag.
+
+[00:15:44] Man skal legge det til grunn det man tror mest sannsynlig.
+
+[00:15:48] Og så er det alltid et utfallsrom på begge sider her.
+
+[00:15:51] Men når man gjør den typen skjønnsmessige vurderinger.
+
+[00:15:54] Er det da fortsatt forventningsrett?
+
+[00:15:56] Ja, det er litt uklart da om det er like mye risiko på nedsiden her som det er på oppsiden.
+
+[00:16:00] Av den skjønnsmessige vurderingen.
+
+[00:16:02] Rentebanen.
+
+[00:16:03] Men det skal jo ikke så mye til hvis vi ser et mye svakere bilde ute.
+
+[00:16:08] Energipriser som faller igjen.
+
+[00:16:10] At de kan tenke seg kanskje å være mer forsiktig med renteøkningene.
+
+[00:16:15] Muligens ikke akkurat de nærmeste kvartalene.
+
+[00:16:17] Men litt ut i tid her.
+
+[00:16:20] Jeg sitter vel igjen med et inntrykk at de opplever den strategien sin som veldig robust.
+
+[00:16:25] Det å gå gradvis frem.
+
+[00:16:28] Vi skal ikke mer enn tre måneder tilbake.
+
+[00:16:30] Da risikoen kanskje kommer.
+
+[00:16:32] Ja, kanskje var på nedsiden.
+
+[00:16:34] Og de hevet til tross for at regjeringen nettopp hadde stengt ned deler av økonomien.
+
+[00:16:40] Men hva tenker du?
+
+[00:16:47] Vi ser at markedsrentene ligger fortsatt betydelig over rentebanen.
+
+[00:16:54] I hvert fall i perioder frem i tid her.
+
+[00:16:58] Det tyder jo på at markedsaktørene tror
+
+[00:17:02] at Norges Bank må gå enda mer aggressivt i verks.
+
+[00:17:06] Ja, det ser vi på rentebanen.
+
+[00:17:08] Med lupet så ligger jo inne noen få flere rentepunkter enn en kvarting på hvert møte i år.
+
+[00:17:15] Så det indikerer at det er en liten oppsiderisk.
+
+[00:17:18] I tillegg så har de jo tydeliggjort at høyere inflasjon kan føre til at de må heve renta raskere og ta i mer.
+
+[00:17:26] Og hvis du sitter i rentemarkedet og ser at andre sentralbanker snur seg ganske fort.
+
+[00:17:30] Og tar i mye.
+
+[00:17:33] Og Fed som nå signaliserer 50 punkter og kanskje flere 50 punkter.
+
+[00:17:38] Så er det jo lett å tenke at risikoen er den veien også for Norge.
+
+[00:17:42] Og sånn sett prise inn en litt høyere rentebane enn Norges Bank antyder.
+
+[00:17:47] Og spesielt når modellen deres viser at den optimale rentebanen skulle vært enda høyere.
+
+[00:17:54] Når man ikke tar hensyn til den fordelen av å gjøre ting litt mer gradvis.
+
+[00:17:58] Ja.
+
+[00:17:59] Nei det er lett å sitte med et inntrykk av at man adopterer litt situasjonen kanskje særlig i USA.
+
+[00:18:07] Og anvender den og tror at Norges Bank blir tvunget til å gjøre noe annet.
+
+[00:18:12] Men inflasjonen vår er betydelig lavere enn i USA og antas jo være det også fremover.
+
+[00:18:18] Men sentralbanksjefen fikk jo flere ganger det samme spørsmålet om hvorfor man ikke hever raskere eller mer.
+
+[00:18:27] Når prognosen tilsier at inflasjonen blir liggende rundt 2,5% på lang sikt her.
+
+[00:18:37] Ja det er ikke sant. Det ene er at inflasjonen blir liggende over målet gjennom hele prognoseperioden.
+
+[00:18:42] Men også at produksjonskapet er, altså at vi har litt høyere kapasitetsutnyttelse enn normalt gjennom denne perioden.
+
+[00:18:52] Når begge de faktorene er på samme side så er jo det en indikasjon på at
+
+[00:18:55] renta burde blitt satt enda høyere opp enn det de indikerer.
+
+[00:18:59] Men motstykket her ligger jo i risikobildet, altså hvor Norges Bank mener at de får et bedre grep om utviklingen
+
+[00:19:07] hvis de tar hevingene mer forsiktig.
+
+[00:19:11] Og når de har kommet opp til toppunktet sitt, så hvis man følger prognosene,
+
+[00:19:16] så har inflasjonen stabilisert seg, og så ser vi at BNP-veksten har begynt å bli litt på den svake siden.
+
+[00:19:25] Og BNP-gapet er på vei ned.
+
+[00:19:27] Så da er man jo i en situasjon hvor de kan begynne å slakke av gradvis.
+
+[00:19:33] Nå så vi jo ved denne korsveien at de bruker skjønnet sitt til å ikke heve så fort som renteregnskapet skulle tilsi.
+
+[00:19:43] Om tre måneder når vi står i juni, så er verden helt sikkert litt annerledes enn vi tror den kommer til å bli akkurat nå.
+
+[00:19:51] Er det symmetri i det skjønnet?
+
+[00:19:55] De vil utøve her.
+
+[00:19:57] Altså, vil de være like tilforlatelige til å bruke skjønnen på nedsiden som på oppsiden når vi kommer til juni?
+
+[00:20:06] Ja, det tror jeg nok.
+
+[00:20:09] Og du kan jo si det sånn at når pandemien kom, og de satte renta ned til null,
+
+[00:20:16] så fortalte jo modellen at de skulle satt den ned i negativ territoriet.
+
+[00:20:19] Så det ville ikke gjøres, de holdt renta høyere.
+
+[00:20:21] Så det indikerer jo at, eller det var et eksempel på at de er villige til å holde renta høyere,
+
+[00:20:26] enn det som skal være den optimale rentebanen.
+
+[00:20:29] Men nå er vi litt i motsatt retning.
+
+[00:20:32] Og så får vi se hvor usikkerheten heller renner ved neste korsvei.
+
+[00:20:37] Du, vi er jo også i bransjen for å lage prognoser.
+
+[00:20:42] Vi har et styringsrenteanslag fra Norges Bank som topper på 2%.
+
+[00:20:47] Hvordan synes du det står seg nå etter dagens rentebeskjed?
+
+[00:20:52] Det står seg godt i forhold til de makroanslagene vi har.
+
+[00:20:55] For da får vi også en moderat vekst fremover,
+
+[00:21:02] ganske stabilt arbeidsmarked og en inflasjon som avtar og nærmer seg 2-målet.
+
+[00:21:09] Og det er ikke behov for å stramme til så mye mer.
+
+[00:21:12] Norges Bank har nok inntrykk av at de har et litt mer stikk i inflasjonsbildet.
+
+[00:21:18] Det holder seg litt høyere. Lønnsveksten holder seg høyere gjennom perioden.
+
+[00:21:22] Og det er klart, det har jo skjedd en del sider,
+
+[00:21:25] siden vi lagde anslag og vi ser kanskje mer og langvarig inflasjonsimpulser utenfra.
+
+[00:21:31] Så vi må ta en liten runde på det og vurdere hvordan de utsiktene er
+
+[00:21:36] og hva slags følger det får for en sånn rentebane.
+
+[00:21:40] Det ligger jo i korten at det heller går oppover enn nedover i forhold til våre anslag her.
+
+[00:21:48] Avslutningsvis, Kyrre, var det noe du så som du i anslagene eller kommunikasjonen,
+
+[00:21:55] som du stoppet opp og du synes skurret litt?
+
+[00:21:59] Eller synes du dette var et tilforlatelig bilde de tegner?
+
+[00:22:03] Det er jo et tilforlatelig bilde.
+
+[00:22:05] Jeg ble jo kanskje litt overrasket over at de løfter det nominelle vekstbildet
+
+[00:22:10] og holder egentlig ganske høyt gjennom hele perioden.
+
+[00:22:14] Men vi er jo ikke helt fremmed for en sånn utvikling når vi ser til bakover i tid heller.
+
+[00:22:19] Og det henger jo godt sammen kanskje med det bildet de tegner opp ute,
+
+[00:22:23] med ganske solid oppgang i inflasjonstallene der.
+
+[00:22:27] Men i det store hele synes jeg de har lagt frem et bilde som virker konsistent og fornuftig.
+
+[00:22:34] Supert. Takk for at du kom. Vi setter strek her.
+
+[00:22:40] Takk til dere som så på. Ha en fortsatt fin torsdag og på gjensyn.
+
+[00:23:10] Teksting av Nicolai Winther

@@ -1,0 +1,593 @@
+Episode 248: Bank- og utbytteaksjer med Erlend Brenne og Paul Harper
+Publisert: Sat, 15 Ja
+Vert: Marius Brun Haugen
+Varighet: 22 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/bank-og-utbytteaksjer-med-erlend-brenne-og-paul-harper
+
+--- Transkripsjon ---
+
+[00:00:03] Hva slags avkastning kan vi forvente av banksektorene i år, og hvilke bankaksjer gir best utbytte?
+
+[00:00:20] Dette her skal vi snakke mer om i dagens episode.
+
+[00:00:37] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen global økonomien og finansmarkedene.
+
+[00:00:44] Jeg er Marius Brunhaugen fra DNB Markets, og med meg har jeg aksjestrateg Paul Harper.
+
+[00:00:50] Hei, hei, Paul.
+
+[00:00:52] Hei, Marius.
+
+[00:00:52] Ja, hvorfor er det relevant for lytterne våre, Paul, at vi nok en gang lager en oppdatering med fokus på bank og utbytteaksjer?
+
+[00:01:02] Ja, vi synes jo bank er en av de mer spennende sektorene her, fordi at nå kommer vi inn i en periode hvor rentene øker.
+
+[00:01:10] Og stort sett for de fleste sektorene så er høyere renter ikke noe spesielt positivt.
+
+[00:01:16] Men akkurat bank er et unntak.
+
+[00:01:19] Så med høyere renter så bedre det inntjeningspotensialet, så det er noe som er en fin måte å hedge porteføljen.
+
+[00:01:29] Det at du har enkeltaksjer som klarer seg bra med høyere renter, heller enn at man eventuelt satser alt på vekstaksjer for eksempel,
+
+[00:01:37] som klarer seg dårligere når rentene øker.
+
+[00:01:41] Men når det er sagt så er dette noe som man må følge litt med på underveis også,
+
+[00:01:46] heller enn å bare antate det er enveis.
+
+[00:01:49] For et av de punktene som vi har nevnt tidligere er at det er ikke bare vi som har oppdaget denne sammenhengen med rentene.
+
+[00:01:59] Det er jo egentlig et ganske velkjent fenomen.
+
+[00:02:02] Så på et eller annet tidspunkt så skal man vurdere å ta gevinst.
+
+[00:02:05] Og hvis det viser seg at veksten i økonomien er dårligere, og renteoppgangen ikke kommer like fort som antatt,
+
+[00:02:12] så er det nok en risiko at det er en del som blir skuffet som har kjøpt bankaksjer.
+
+[00:02:18] Så man må følge litt med.
+
+[00:02:19] Underveis.
+
+[00:02:20] Men vi synes det er en veldig spennende sektor å være investert i.
+
+[00:02:23] Ja, og disse tingene du nevner skal vi nok komme innom i løpet av praten i dag.
+
+[00:02:31] Men vi er ikke alene, og det er jo godt å ha med flere meninger.
+
+[00:02:36] Vi er så heldige at vi har med oss en gjest som er godt kvalifisert til det.
+
+[00:02:41] Det er forvalter Erlend Brenne fra Neff Kapitalforvaltning.
+
+[00:02:45] Hei, Erlend.
+
+[00:02:46] Hei, Markus.
+
+[00:02:46] Hei, Paul.
+
+[00:02:48] Tusen takk for at jeg fikk lov til å snakke med deg.
+
+[00:02:49] Takk for at jeg fikk lov til å bli invitert.
+
+[00:02:51] Ja, veldig hyggelig å ha deg med, som sagt.
+
+[00:02:53] Jeg tenkte, siden det er første gang her på Utbyttepodkasten,
+
+[00:02:57] kan ikke du starte med å fortelle bare kort om deg og Neff Kapitalforvaltning?
+
+[00:03:02] Jo, det kan jeg.
+
+[00:03:04] Litt kort om meg selv, så har jeg en master i finans,
+
+[00:03:08] samt en eksekutiv MBA i finans, altså en AFA og pluss porteføljeforvalter.
+
+[00:03:14] Jeg har jobbet innen finans de siste snart 20 årene,
+
+[00:03:19] de siste 10-12 årene, så har jeg jobbet som forvalter
+
+[00:03:24] med fokus på norske, nordiske selskap,
+
+[00:03:29] og spesielt innen bank og finans.
+
+[00:03:32] Så det var den korte versjonen på meg.
+
+[00:03:35] Om Neff Kapitalforvaltning, så er vi et lite forvaltningshus,
+
+[00:03:39] som er i ganske sterk vekst.
+
+[00:03:42] Vår kjernekompetanse er utbyttepodkaster,
+
+[00:03:46] og kanskje spesielt bank og finans, sparebanker,
+
+[00:03:49] vi er en fin gjeng som har bygd stein på stein,
+
+[00:03:54] og som har lang erfaring for bransjen.
+
+[00:03:57] Vi er det som kalles en aktiv forvalter, ikke et fond.
+
+[00:04:00] Vi har to typer modellporteføljer,
+
+[00:04:04] en som heter Utbyttefinans, som investerer i norske banker og finansaksjer,
+
+[00:04:10] og en som heter Neff Norske Aksjer, som er en bredere portefølje
+
+[00:04:14] med samme investeringsfilosofi, basert på samme leften.
+
+[00:04:19] I tillegg har vi det som kalles skreddersøm for større porteføljer,
+
+[00:04:24] der vi på en måte definerer mandatet til porteføljer sammen med kunden.
+
+[00:04:30] Så det er vel egentlig i korte trekk litt om meg og litt om Neff Kapitalforvaltning.
+
+[00:04:37] Bra, Dern. Det har vi fått plassert deg og Neff,
+
+[00:04:41] og kan gå løs på tema.
+
+[00:04:45] 2021 var jo definitivt et godt år for alle som har,
+
+[00:04:49] fokus på investering i banker og utbyttefinans, hvis jeg har forstått det riktig,
+
+[00:04:55] som du forvalter, og så ga en 43 prosent avkastning i 2021,
+
+[00:05:00] og gjennomsnittlig avkastning har vært på over 20 prosent i året.
+
+[00:05:05] Stemmer ikke det? Det er jo veldig hyggelig tall.
+
+[00:05:07] Jo, det har vært en veldig hyggelig reise siden vi startet opp.
+
+[00:05:13] Litt over 200 prosent siden vi startet opp i april 2016.
+
+[00:05:19] Det har vært en fin reise, både for oss og for kundene våre, tror jeg.
+
+[00:05:28] Fremtiden ser jo for så vidt interessant ut også.
+
+[00:05:31] Ja da, for det handler jo om å se fremover, og det er det vi skal gjøre i dag.
+
+[00:05:36] Så første spørsmålet blir vel egentlig rett og slett,
+
+[00:05:39] er norsk banksektor et godt sted å være også i året vi har foran oss, Erlend?
+
+[00:05:45] Ja, det tror jeg.
+
+[00:05:46] I et marked med svagt stigende renter,
+
+[00:05:48] ja, vil marginene øke.
+
+[00:05:51] Høyere inntjening gir som regel solide utbytter.
+
+[00:05:55] Vi tror på en litt sterkere rotasjon mot såkalt verdieaksja
+
+[00:05:59] enn det vi har sett frem til nå.
+
+[00:06:02] Så kort og trekk, ja, det tror vi.
+
+[00:06:06] Ja, Paul, du var jo inne på det, som lytterne våre vet.
+
+[00:06:10] Vi er positive til finans,
+
+[00:06:13] så det er jo vanskelig å være uenig med Erlend i det overordnede,
+
+[00:06:18] med tilnærmingen.
+
+[00:06:19] Ja, det er jo sånn at det meste av disse forskjellige fundamentale faktorene
+
+[00:06:23] ser jo ut til å fortsatt peke i en positiv retning for bank.
+
+[00:06:27] Det var jo en veldig sterk sektor i fjor,
+
+[00:06:30] men det var jo ikke nødvendigvis å bety at det ikke er litt mer å hente der.
+
+[00:06:34] Så litt som jeg nevnte tidligere,
+
+[00:06:36] så kan man kanskje si at den største trusselen er nettopp det at
+
+[00:06:40] jeg tror det er mange som er enige i den påstaden,
+
+[00:06:44] så risikoen er kanskje at det er veldig mange som er posisjonert for dette,
+
+[00:06:48] allerede.
+
+[00:06:49] Og som investor må du jo alltid tenke litt på hvor er det den neste kjøperen kommer fra,
+
+[00:06:56] og blir det den marginale endringen her at det kommer flere kjøpere,
+
+[00:07:00] eller eventuelt at de som er der allerede velger å sikre gevinst.
+
+[00:07:04] Så jeg tror egentlig det fundamentale ser bra nok ut til at
+
+[00:07:08] de som eier bank allerede ikke har lyst til å trekke seg ut,
+
+[00:07:12] og at det fortsatt er muligheter her.
+
+[00:07:15] Men det er vel kanskje det som er den største trusselen,
+
+[00:07:18] at det er såpass mange som kanskje er enige med påstaden allerede.
+
+[00:07:23] Men Erlend, hva er det som gjør deg mest optimistisk da?
+
+[00:07:27] Altså, man har jo typisk en del parametre man sjekker av når man ser på banksektoren.
+
+[00:07:33] Det er liksom underliggende utviklingen i økonomien,
+
+[00:07:37] det er rentemarginene til bankene, det er utlandsvekst, det er lånetap,
+
+[00:07:41] det er konkurransesituasjonen og selvfølgelig prising.
+
+[00:07:45] Altså, hva er det som gir mest grunn til,
+
+[00:07:48] til optimisme her?
+
+[00:07:49] Jeg tror egentlig det er kombinasjonen av alle ting der.
+
+[00:07:53] For å se på norsk økonomi så går jo det bra,
+
+[00:07:57] det er positive tegn der.
+
+[00:07:59] Arbeidsledigheten er lav, veksten er god.
+
+[00:08:03] Når du ser på rentemarginen,
+
+[00:08:05] som er kanskje en av viktige hovedinntektskildene til bankene,
+
+[00:08:10] så gir høyere rente bedre marginer.
+
+[00:08:13] Altså utlånsrenten blir satt opp.
+
+[00:08:18] Det er kanskje i snitt 15-20 punkter,
+
+[00:08:21] mens innskuddsrenten knapt settes opp,
+
+[00:08:24] som gir høyere marginer eller marginekspansjon.
+
+[00:08:27] Lånetapet er jo moderat i hvert fall.
+
+[00:08:31] Bankene tok relativt godt tid tidlig i pandemien,
+
+[00:08:35] og selv om enkelte sektorer kan ha litt,
+
+[00:08:40] eller slite litt, så tror vi at i sum at utlånstapene blir lave.
+
+[00:08:45] Og konkurransesituasjonen,
+
+[00:08:47] så er jo norske banker egentlig relativt disiplinerte.
+
+[00:08:51] Det har vært perioder med høyere konkurranseintensivitet
+
+[00:08:54] enn det vi ser for øyeblikket.
+
+[00:08:56] Sånn overordnet tikker bank og finans av ganske mange boks
+
+[00:09:04] i positivt forstand når man ser på situasjonen.
+
+[00:09:13] Man kan jo si at jeg har i hvert fall ettervist inntrykk av,
+
+[00:09:16] uten at jeg har sett på de detaljene i 2021,
+
+[00:09:19] så løftet liksom tidevannet alt, mer eller mindre.
+
+[00:09:23] Må man være mer selektiv i 2022, også når det kommer til bank?
+
+[00:09:30] Det tror jeg.
+
+[00:09:32] Tidevannet løftet det aller meste i fjor.
+
+[00:09:38] Jeg tror nok, ja, at man skal være litt mer selektiv.
+
+[00:09:43] Se på hvilke banker man skal ha.
+
+[00:09:45] Og hvilke banker som nytter mest av det bildet vi tegner.
+
+[00:09:54] Men ja, jeg tror på en måte at litt mer selektiv bør man kanskje være
+
+[00:10:01] inni det året her.
+
+[00:10:03] I hvilken grad tror du at konkurransesituasjonen,
+
+[00:10:05] banken i mellom da, kommer til å intensiveres
+
+[00:10:09] i kampen om kunden og hvordan vi det kunne slå ut?
+
+[00:10:14] Jeg tror enn så lenge så virker man ganske så disiplinert.
+
+[00:10:23] Jeg tror enn så lenge...
+
+[00:10:29] Du vet jo ikke helt hvordan den type utenlandske aktører
+
+[00:10:35] vil gjøre det da.
+
+[00:10:37] Men det virker på med at konkurranseintensiteten er...
+
+[00:10:44] De er mer disiplinerte nok til at de tror det vil fortsette
+
+[00:10:51] en liten periode til.
+
+[00:10:53] Men i forhold til hva som kan ødelegge moro her da,
+
+[00:10:57] som folk allerede har vært inne på at det er greit å være klar over her.
+
+[00:11:02] Det er mange som er positive og kanskje skadde,
+
+[00:11:05] derfor ikke så mye negativt til for å snu sentimentet
+
+[00:11:09] etter at vi har noen veldig gode år bak oss.
+
+[00:11:12] Hva ser du som, hva skal vi si, største risikofaktoren?
+
+[00:11:16] Nei, altså... Hva skal vi si?
+
+[00:11:18] Markedsuro er alltid en faktor, men samtidig gir jo svingningen
+
+[00:11:22] en mulighet til å skape oppkastning.
+
+[00:11:24] Uansett så tror vi bankene vil klare seg bra på relativen,
+
+[00:11:27] men hvis man skal trekke fram noen sånne faktorer,
+
+[00:11:31] så kan det jo være...
+
+[00:11:33] Regulatorisk inngrep kan jo være en faktor.
+
+[00:11:36] Superprofit for banker går vel ikke nødvendigvis.
+
+[00:11:41] Gått hjem med regulatoriske myndigheter.
+
+[00:11:45] Og selvsagt om renteoppgangen skulle utebli,
+
+[00:11:49] så kan det ødelegge noe av festen.
+
+[00:11:52] Men en ting som vi kan forvente vil komme,
+
+[00:11:57] jo mindre myndighetene da, og nå ser det jo ikke sånn ut i det hele tatt,
+
+[00:12:01] skulle finne på noe nytt, det er utbytte.
+
+[00:12:05] Pål, hva ligger i konsensus i forhold til utbytte
+
+[00:12:09] av de norske bankene i dag?
+
+[00:12:11] Ja, de fleste er et eller annet sted mellom 4 og 5 prosent,
+
+[00:12:15] sånn cirka. Det er litt variasjon mellom de forskjellige bankene.
+
+[00:12:19] Da var det kanskje sånn i nærmere fem for en liten stund siden,
+
+[00:12:22] og så begynner det å trekke litt nedover etter hvert,
+
+[00:12:24] som kursutviklingen har vært såpass sterk.
+
+[00:12:27] Men det er jo bedre enn gjennomsnittet på Oslo Børs.
+
+[00:12:30] Og utifra våre tanker rundt avkastningspotensialet totalt sett
+
+[00:12:36] for børsen, så kommer det et godt stykke på vei med det utbyttet.
+
+[00:12:41] Uten at du nødvendigvis behøver ha så mye kursoppgang
+
+[00:12:44] til å klare å slå børsen i løpet av året.
+
+[00:12:47] Så vi synes egentlig de tallene der er relativt bra.
+
+[00:12:50] Ja, og det er jo på en måte også et relativt viktig argument
+
+[00:12:56] for å isolert sett eie banker også i 2022.
+
+[00:13:00] Og vi kanskje tror at markedet som helhet kan bli litt mer utfordrende.
+
+[00:13:04] Og da er det greit å ha denne, hva skal vi si, relativt trygge utbyttene
+
+[00:13:09] i bakhånd?
+
+[00:13:11] Ja, det er jo alltid greit det med at det er sjeldent at det er så store
+
+[00:13:15] overraskelser med utbytte. Så for at bankene skal kutte utbytte,
+
+[00:13:21] så må egentlig noe forholdsvis drastisk skje med negativ fortegn.
+
+[00:13:26] Det er enten at økonomien stopper opp mye fortere enn vi forventer,
+
+[00:13:30] eller at det skulle være noe sånn type regulatoriske inngrep
+
+[00:13:34] eller noen nye runder med smitte som eventuelt gjør at det plutselig blir
+
+[00:13:39] trussel med at lånetapene kan øke kraftig.
+
+[00:13:44] Så det er den type ting som eventuelt kunne dukke opp.
+
+[00:13:49] Men jeg tror generelt sett så er det viktig å følge med på utbytte
+
+[00:13:54] som en vesentlig del av avkastning. Ser man på lange tidsserier,
+
+[00:13:59] sånn type 50-60 år, så er utbytte gjerne en nesten like stor del
+
+[00:14:06] av den totale avkastningen som kursendring.
+
+[00:14:09] Litt ettersom hvilke indekser du ser på selvfølgelig,
+
+[00:14:13] så utbytte er absolutt ikke noe man skal glemme når man vurderer
+
+[00:14:17] totalavkastningen i aksjemarkedet.
+
+[00:14:19] Erlend, hvilke banker er det som skriner best på utbytte hos deg?
+
+[00:14:24] Nei, sånn som på min beregning, så skriner Sparbanken Nord-Norge bra,
+
+[00:14:31] og DNB skriner bra. Mange banker skriner bra,
+
+[00:14:38] men det er kanskje de to som skriner best i min bok.
+
+[00:14:42] Og DNB har jo også litt avhengig av hva som skjer med S-banken og det,
+
+[00:14:49] så det er noen muligheter kanskje å få tilbakekjøpt der også.
+
+[00:14:52] Så jeg tror hvis du skal legge frem dem som skriner best på akkurat utbytte,
+
+[00:14:58] så er det de to.
+
+[00:15:00] I hvilken grad er utbytte et parameter du ser på da, når du investerer?
+
+[00:15:05] Nei, utbytte er jo en av parametrene vi ser på.
+
+[00:15:07] Ikke nødvendigvis det mest avgjørende.
+
+[00:15:10] For oss er helheten viktig, altså både egenkapitalavkastning,
+
+[00:15:15] prising, forvaltet utlånstak, vekst, ledelse, strategi,
+
+[00:15:20] det er andre parametre som er interessant å se på.
+
+[00:15:24] Og så samtidig så vurderer vi på en måte de store linjene,
+
+[00:15:28] altså makro og marked.
+
+[00:15:30] Da kommer jo på en måte sparringen med de beste analytikerne,
+
+[00:15:36] blant annet pålærer i studio og Håkon Åstrup som bankanalytiker som er viktig for oss.
+
+[00:15:42] Og så sitter vi og gjør våre egne analyser på ting.
+
+[00:15:47] Men det som er, de midlertidige utbyttebegrensningene er jo borte nå,
+
+[00:15:54] sånn at jeg er helt enig med Pål at de utbyttene nå ligger jo an til en sånn 4-5%.
+
+[00:16:02] Det er jo hyggelig løpende avkastning.
+
+[00:16:06] Og så er det jo litt sånn at utbyttebetalende selskap er jo ofte solide selskap
+
+[00:16:13] som betaler jo gjemt utbytte over tid.
+
+[00:16:17] Så en sånn interessant observasjon er jo for eksempel,
+
+[00:16:23] det er sikkert ikke mange som har snakket om på en podcast,
+
+[00:16:25] men Melus Sparebank som i år 2000 kostet vel grunnfondspriset rundt 100 kroner.
+
+[00:16:32] De har delt ut utbytte på,
+
+[00:16:34] nå tar jeg litt spørsmål,
+
+[00:16:37] litt sånn fra hodet mitt da,
+
+[00:16:39] men jeg tror de har rundt 10 kroner hvert år,
+
+[00:16:41] så rundt 220-230 kroner,
+
+[00:16:43] og handles i dag for 160 kroner.
+
+[00:16:46] Og det viser jo på en måte litt av egenskapene til sparebankene her da.
+
+[00:16:53] Og en annen på en måte interessant observasjon rundt egenkapitalbevis da,
+
+[00:17:00] som helhet er at siden egenkapitalbevisindeksen ble laget i 1998,
+
+[00:17:08] så har 1 kroner investert litt hver enn sånn 16-17 kroner i dag,
+
+[00:17:14] mens hadde man investert 1 kroner,
+
+[00:17:16] så hadde man på Oslo Børs,
+
+[00:17:18] så hadde man hatt 5-6 kroner i dag,
+
+[00:17:20] 6 kroner, 6 kanskje litt over det.
+
+[00:17:24] Så det har vært en formidabel plass å ha investert pengene sine de siste 25-20 årene.
+
+[00:17:34] Det tror vi på en måte blant annet har utbyttet en del av de faktorene som gjør at
+
+[00:17:40] at de investeringene har vært gode over tid da.
+
+[00:17:44] Ja, disse eksemplene du trakk fram på sparebanker,
+
+[00:17:50] altså er det eksempler på banker som har vært med deg hele veien?
+
+[00:17:59] Du fortalte jo innledningsvis at du har vært i GM her i et par ti år.
+
+[00:18:04] Eller har du eksempler på andre investeringer som du har hatt med deg hele veien?
+
+[00:18:09] Altså vært veldig langsiktig?
+
+[00:18:11] Jeg skal ikke si at Melhus har vært noe jeg har vært veldig langsiktig i,
+
+[00:18:17] men det har vært bra for dem som har vært der.
+
+[00:18:20] Men for min egen del, det er grunn for spørsmålet som jeg stort sett har vært med gjennom 10-12 år,
+
+[00:18:28] er vel kanskje sparebanker gjennom SMN, altså min i større eller mindre grad.
+
+[00:18:33] Men det er jo på en måte kanskje den som har vært med mest.
+
+[00:18:42] Ja, som jeg har vært inne på, altså norske sparebanker de har levert fantastisk avkastning over tid,
+
+[00:18:50] men det er jo historie, så i sum da, Erlend, hva er det som taler for at det skal fortsette slik i årene fremover da?
+
+[00:19:00] Nei, altså det vil si det som kjenne tegnet.
+
+[00:19:03] Det er jo historie, så i sum da, Erlend, hva er det som taler for at det skal fortsette slik i årene fremover da?
+
+[00:19:04] Nei, altså det vil si det som kjenne tegnet.
+
+[00:19:06] Den gode banka er jo solid ledelse, god strategi, bra fokus på relevante områder. Kontroll på utlandsboka.
+
+[00:19:15] Se mal på eksempel sånne parametere som kost og innkomst som, du kan si har sine svakigheter, men kanskje kan gi et litt sånn bilde da.
+
+[00:19:21] Du kan si har sine svakigheter, men kanskje kan gi et litt sånn bilde da.
+
+[00:19:23] På rundt 0,6 for 20 år siden, ligner den på 0,4 nå og indikerer at bankene stadig utvikler og effektiviserer seg.
+
+[00:19:33] Så jeg tror med den som Paul også vel sa her, at utbytte på 4-5%, du har en egenkapitalavkastning på kanskje 10-13%.
+
+[00:19:48] Det som vi ikke har sagt her er jo at norske banker er jo mer solide enn egentlig på lenge.
+
+[00:19:57] Vi har jo hatt en kapitaloppbygging som gjør dem til noen av de mest solide bankene rundt omkring.
+
+[00:20:04] Så jeg tror på en måte at det er gode grunner til at dette fortsetter.
+
+[00:20:12] En siste ting jeg tenkte vi kunne touche innom, det er oljeprisen.
+
+[00:20:18] For når vi sitter her, så er den i overkant av 84 og nær 85 dollar fat.
+
+[00:20:27] Spørsmålet mitt er vel egentlig, i det korte bildet, Paul, kan oljeprisen bli en sånn liten svingfaktor også for bankene?
+
+[00:20:38] Tenker jeg særlig for de bankene som da har eksponering mot oljeprisen.
+
+[00:20:46] Så lenge den holder seg stabil og høy, så vil jo det definitivt være positivt i form av mindre risiko knyttet til utlånstap.
+
+[00:20:56] Kanskje blir det større etterpå?
+
+[00:20:57] Etter spørselsvekst, etter lån, et cetera.
+
+[00:21:01] Ja, så det er jo sånn at det er vanskelig å komme unna oljeprisen nesten uansett hva man investerer i Norge.
+
+[00:21:08] For om det ikke er direkte eksponering, så blir det gjerne indirekte eksponering på grunn av at du har kunder som er eksponert,
+
+[00:21:15] eller kunders kunder, eller et eller annet sted i kjeden, så finner man alltid oljeprisen til slutt.
+
+[00:21:21] Så som du sier, enkelte av sparebankene er nok mer eksponert enn andre.
+
+[00:21:26] Så SR Bank for eksempel.
+
+[00:21:27] SR Bank for eksempel har mye eksponering på grunn av den geografiske plasseringen.
+
+[00:21:33] Vår egen bank, DNB, blir jo gjerne sett på blant mange internasjonale investorer som et slags oljeprisspill på et vis.
+
+[00:21:41] Så det er en viss korrelasjon mellom DNB og oljeprisen, hvor det er spesielt internasjonale investorer som spiller rundt det tema.
+
+[00:21:50] Men i bunn og grunn er det jo gjerne sånn med banker at en økonomi som tikker og går bra,
+
+[00:21:57] er det som er lønnsomt for banken.
+
+[00:22:00] Og går det bra med oljeindustrien, så går det som regel bra med norsk økonomi også.
+
+[00:22:05] Så for banker generelt i Norge, så er nok dette viktig.
+
+[00:22:10] Og for enkelte av bankene, så er det viktig spesielt også i forhold til risikoen rundt lånetap.
+
+[00:22:16] Så det varierer litt fra bank til bank, men på et eller annet nivå, så kommer man aldri helt unna den oljepriseksponeringen til slutt.
+
+[00:22:24] Ok.
+
+[00:22:25] Det får bli det siste.
+
+[00:22:27] For i dag, så da gjenstår det bare å si tusen takk til dere begge for at dere var med oss sist.
+
+[00:22:35] Men ikke minst, tusen takk folkens til alle dere som hørte på.

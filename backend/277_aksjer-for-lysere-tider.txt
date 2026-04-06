@@ -1,0 +1,1205 @@
+Episode 277: Aksjer for lysere tider
+Publisert: Sat, 21 Ma
+Vert: Marius Brun Haugen
+Varighet: 31 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/aksjer-for-lysere-tider
+
+--- Transkripsjon ---
+
+[00:00:00] Nesten samtlig av de store aksjesektorene har gitt negativ avkastning hittil i år, men energisektoren er kraftig opp, både globalt og her hjemme, og er dermed et hedelig unntak.
+
+[00:00:12] Så hvor sterkt står de norske olje- og gasselskapene midt oppi dette her, og er det fortsatt oppside i de store oljeaksjene på børsen, og som vi går inn i den virkelig lyse tiden på året?
+
+[00:00:23] Dette her skal vi snakke mer om i dagens episode, der vi som vanlig også skal ta pulsen på det viktigste som har skjedd i markedet etter nok en uke med store svingninger og til dels kraftige børsfall.
+
+[00:00:52] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen global økonomien og finansmarkedene.
+
+[00:00:59] Jeg er Marius Brunhaugen fra DNB Markets, og med meg har jeg en aksjestrateg.
+
+[00:01:06] Pål Harper, hei Pål.
+
+[00:01:08] Hei Marius.
+
+[00:01:09] Ja, og ved siden av deg Pål så sitter et av våre nyeste tilskudd på analyseteamet, det er oljeanalytiker Steffen Evjen. Velkommen skal du være, Steffen.
+
+[00:01:20] Takk for det, takk for det.
+
+[00:01:21] Første gang på podkasten, så er det på plass med en liten introduksjon som du har tatt over, som jeg tipper noen av lytterne våre allerede er klare over, ansvaret for oljeaksjene her i DNB Markets.
+
+[00:01:34] Så du har vært i svingen en liten stund som sagt, men denne uken her så sendte du ut en sektoroppdatering i sammenheng med at vi har gjort justeringer på oljepriseanslagene.
+
+[00:01:45] Og før vi kommer til det, altså litt sånn hvis vi tar det store blikket på dette her, jeg tenker at nå er vi på vei inn i den mest spennende tiden for oljenæringen på veldig, veldig mange år. Er du enig?
+
+[00:01:58] Ja, det er jo helt klart at selv om det er et dystert bakteppe med det som skjer.
+
+[00:02:04] I verden så ligger det meste til rette for høye oljepriser i en lang periode fremover, og i lys av det så er det noe som oljesatskapene drar nytte av, og vi må vel 10-15 år tilbake i tid for å finne tilsvarende nivåer.
+
+[00:02:21] Så oljenæringen er jo interessant både fra oljesatskapens side, men også fra servicenæringen som klart kan se et løft nå som mange har ventet på ganske lenge.
+
+[00:02:34] Og dette her det skal vi snakke mer om i dag, men før vi går mer inn på oljen så må vi ta litt om markedet generelt på etter en ganske hektisk periode med store svingninger og en god del nedturer så trodde jeg onsdag formiddag når vi møttes på kontoret etter 17. mai på at dette skulle bli en sånn der pustig bakkenuke for markedet generelt,
+
+[00:02:59] men den gang ei, altså allerede onsdag kveld så fikk vi jo nok en kjempetrøkk.
+
+[00:03:04] Vi fikk med Nasdaq ned 5% og kanskje enda mer interessant, consumer staples og discretionary sektorene, altså sektorene som er for nødvendig og kanskje ikke fullt så nødvendig forbruk, de falt over 6% begge to på onsdag.
+
+[00:03:21] Så kan vi tolke dette her som at vi nå er på vei inn i en ny fase av nedturen der det er i ferd med å sette seg en sånn reell frykt for inntjeningen på toppen av det vi har snakket.
+
+[00:03:34] Vi har snakket veldig mye om det siste året, halvåret, altså inflasjonen og bekymringer rundt de finansielle forholdene.
+
+[00:03:40] Jeg tror det er i hvert fall en måte å lese det akkurat, det på Walmart er jo en klassisk defensive aksje, en av de plassene man eventuelt kan vurdere å gjemme seg hvis man er veldig redd for utviklingen fremover,
+
+[00:03:54] og de kommer da dårlig tall og svak guiding, sier at kostnadene øker fortere enn de klarer å dytte det over på kundene.
+
+[00:04:02] Og for uken hittil da...
+
+[00:04:04] Dette er jo før markedet åpnet i USA på fredag, så er Walmart ned 20%, så det er en stor bevegelse for den typen aksje.
+
+[00:04:13] Taget hadde også resultatvarsel og dårlig guiding, den var ned 30% nå for uken.
+
+[00:04:20] Så når du har disse store selskapene falle såpass mye, så på ett vis kan det kanskje argumentere for at det er en slags kapitulasjon,
+
+[00:04:28] at nå begynner investorene å kaste kortene for å selge aksjer som normalt sett skal være.
+
+[00:04:34] Ganske defensivt.
+
+[00:04:35] Men når man ser på utviklingen gjennom den dagen, så synes jeg det ikke er like lett å egentlig karakterisere det som en kapitulasjon,
+
+[00:04:44] for så man på gjennomsnittsutviklingen der, så var det så at det begynte høyt, jobbet seg sånn gradvis nedover,
+
+[00:04:51] så det virket som det var mer sånne VWAP-ordre, fremfor med sånn panikk-dumping.
+
+[00:04:57] Og så siste punkt å bare nevne her, som blir kanskje litt konspiratorisk muligens,
+
+[00:05:02] men det var et stort hedgefond som...
+
+[00:05:04] Som annonserte at de legger ned virksomheten denne uken, det er Melvin Capital,
+
+[00:05:10] som dere kanskje husker fra den GameStop-episoden, de tappte jo masse penger i løpet av den tiden.
+
+[00:05:16] Så det at de solgte seg ut, dette er et hedgefond som spesialiserer seg innenfor konsumsektoren,
+
+[00:05:22] så det kan nok også ha bidratt til noe av den nedgangen,
+
+[00:05:25] og det ville også stemme med at det var en mer sånn kontrollert salg, fremfor panikkartet.
+
+[00:05:31] Ja, men bra, det er alltid nyanser.
+
+[00:05:34] Og Paul, man skal kanskje ikke lese alt for mye inn i en sånn endagsbevegelse,
+
+[00:05:41] selv om svingningene er store, men uansett det store bildet,
+
+[00:05:47] det er jo at selv om lønningene stiger, så stiger inflasjonen mer mange steder,
+
+[00:05:53] så den reelle kjøpekraften til folk, og kaller det gjerne også bedrifter, den blir jo mindre.
+
+[00:05:59] Ja, og det er jo det som ligger bak disse svake tallene,
+
+[00:06:04] det er nettopp det markedet er mest bekymret for akkurat nå.
+
+[00:06:07] Jeg mener jeg så, og det var på Twitter da, så jeg har ikke faktasjekket dette her,
+
+[00:06:12] at 41 prosent av S&P 500-aksjene nå er under høynoteringene fra før covid,
+
+[00:06:20] så det er en del som virkelig har korrigert ned.
+
+[00:06:24] Ja, det er jo alltid sånn at det å bare se på indeksnivå,
+
+[00:06:28] så kan det være mye rart som blir gjemt litt under vannskorpen,
+
+[00:06:32] for det er klart at de største selskapene veier jo mye mer i indeksene,
+
+[00:06:37] så det å grave litt ned i hvilket sektor og hvilket enkeltaksjer gjør det bra og dårlig
+
+[00:06:43] å se på indeksen på en uvektet basis for eksempel,
+
+[00:06:46] så får man gjerne litt mer informasjon og litt dybde i hva som egentlig skjer,
+
+[00:06:51] heller enn å bare se på hovedindeksene.
+
+[00:06:53] Men er det noe annet da på tjekklisten som ellers har vært å nevne denne uken?
+
+[00:06:58] Vi har jo snakket litt om ulønnsom tech,
+
+[00:07:01] vi har snakket om fengene som har begynt å falle,
+
+[00:07:04] vi snakker jo ofte om de lange amerikanske rentene, et cetera.
+
+[00:07:08] Ja, så en av de tingene som er verdt å bare kanskje begynne å se litt nærmere på nå,
+
+[00:07:13] er at en del av de fengaksjene er jo nå priset i den type nivå
+
+[00:07:19] som man normalt sett ville kalle value.
+
+[00:07:22] Så tenk på Google for eksempel, det er 17 ganger PE i år,
+
+[00:07:25] så er det to år frem i tid, så er det 14 ganger PE.
+
+[00:07:28] Så jeg synes det er mye lettere å lage noe bull case for de aksjene
+
+[00:07:33] fremfor tech-aksjer som ikke tjener noen penger enda,
+
+[00:07:36] og antageligvis fremdeles ikke gjør det to-tre år frem i tid.
+
+[00:07:40] Så en viktig ting å huske på her er at forskjellen på en aksje som er ned 80%
+
+[00:07:45] og en som er ned 90%, det er ikke 10%, det er 50%.
+
+[00:07:48] Så det at de grafene kanskje ser ut når vi begynner å nærme oss
+
+[00:07:52] bunnen for enkelt av disse aksjene, så er det fortsatt for en del store prosentnedsider
+
+[00:07:57] hvis du kjøper de i dag.
+
+[00:07:59] Så vi er fortsatt på den foten at man skal holde seg unna
+
+[00:08:01] i hvert fall de mest spekulative vekstaksjene,
+
+[00:08:04] for det er nettopp de som er mest utsatt når rentene stiger,
+
+[00:08:09] og da er det fremdeles mye nedsidig i mange av de, tror jeg.
+
+[00:08:12] Når vi sitter her, så er det fredag 20. mai klokken 12,
+
+[00:08:17] og vi får nå se hvor markedet slutter,
+
+[00:08:18] men hvis vi går til Oslo Børs, så ligger du an til en sånn forsiktig plussuke,
+
+[00:08:24] så vi er jo fortsatt der vi har vært.
+
+[00:08:27] I hele året, at Oslo Børs er annerledes markedet.
+
+[00:08:32] Ja, det er jo nettopp det at når det er en sektor som gjør det veldig bra i verden,
+
+[00:08:38] og den ene sektoren er den største i Oslo,
+
+[00:08:40] så blir det jo til at Oslo da klarer å holde seg mye bedre
+
+[00:08:44] enn så å si alt annet.
+
+[00:08:46] Og i tillegg til olje og energi, som vi skal snakke litt mer om,
+
+[00:08:50] så har jo også Oslo en god del andre råvarer som klarer seg bra,
+
+[00:08:55] og selv om sjømat har vært litt rugglete,
+
+[00:08:57] den siste uken, så er sjømat også et av de unntakene som har vært relativt sterke,
+
+[00:09:02] så alle de områdene som har holdt seg bra,
+
+[00:09:04] er nettopp de tingene som er store sektorer i Oslo.
+
+[00:09:07] Ja, og vi har jo rundet av mer eller mindre rapporteringssesongen denne uken,
+
+[00:09:12] og det har vært tradisjon tro, en del shippingselskaper
+
+[00:09:16] fra litt ulike undersektorer som har vært i ilen,
+
+[00:09:20] og alt i alt så har det vel vært ganske greit,
+
+[00:09:23] men vi bør ikke gå inn på de detaljene nå,
+
+[00:09:26] men du sendte jo ut en oppdatering du ondstat med MyPoll
+
+[00:09:30] når det gjelder rapporteringssesongen,
+
+[00:09:33] og konklusjonen er vel at for Oslo Børs så har ting faktisk vært ganske bra,
+
+[00:09:40] altså man har sett en økning i analytikernes inntjeningsforventer
+
+[00:09:43] til de norske selskapene, men som du påpekker da,
+
+[00:09:47] dette er drevet av særlig energi,
+
+[00:09:50] og det er også materialsektoren som er hydro og jara og lignende.
+
+[00:09:54] Ja, så jeg synes det har vært en bra rapportering,
+
+[00:09:56] og med det så mener vi ikke egentlig så mye om tallene var bedre enn ventet,
+
+[00:10:02] det er egentlig hvordan estimatene endrer seg som er det vi legger mest vekt på,
+
+[00:10:06] for det er nettopp hvordan fremtidsutsiktene har endret seg,
+
+[00:10:10] heller enn hva som allerede er i bakspeilet som blir mest viktig.
+
+[00:10:13] Men når vi ser på hvordan gjennomsnittsendringen i estimatene har vært,
+
+[00:10:17] så blir det jo til at igjen da graver man litt mer i tallene,
+
+[00:10:21] så er det kanskje ikke like bra som det ser ut på indeksnivå,
+
+[00:10:24] så gjennomsnitt oppjusterer,
+
+[00:10:26] oppjustering i EPS er for indeksselskap når du ikke vekter det,
+
+[00:10:32] er opp 0,7 prosent.
+
+[00:10:34] Normalt sett så pleier det å være litt ned,
+
+[00:10:36] så det er bedre enn det pleier å være,
+
+[00:10:38] men når du ser på indeksnivå,
+
+[00:10:40] så er det opp 17 prosent totalt sett,
+
+[00:10:43] men av de 17 prosent så er 10 prosentpoeng ekko i nord,
+
+[00:10:47] og så legger du til resten av energi- og råvaresektoren,
+
+[00:10:51] så har du 16 av de 17 prosentene kommer fra de to sektorene.
+
+[00:10:55] Så det ser veldig sterkt ut på indeksnivå,
+
+[00:10:58] det er ikke like sterkt når du graver litt mer i det,
+
+[00:11:01] men uansett bedre enn det pleier å være.
+
+[00:11:03] Ja, men desto større grunn da til å ta en ekstra titt på oljesektoren,
+
+[00:11:09] og ja, det er jo dagens hovedtema det.
+
+[00:11:13] Vår oljeanalytiker, Helge André Martinsen,
+
+[00:11:16] som du jobber tett med, Steffen,
+
+[00:11:18] han har løftet oljeprisanslagen,
+
+[00:11:21] og nå venter vi en videre oppgang til 130 dollar fatet,
+
+[00:11:25] mot slutten av året.
+
+[00:11:27] Det er en sånn kombinasjon av lave lagre,
+
+[00:11:30] lite ledig kapasitet,
+
+[00:11:31] og en opptrapping av disse sanksjonene mot Russland,
+
+[00:11:35] som er bidragsytre til oppgangen,
+
+[00:11:38] og deretter så mener vi at det ligger an til
+
+[00:11:40] en gradvis nedgang i prisen til 90 dollar fatet,
+
+[00:11:44] men da snakker vi altså ut i 2025.
+
+[00:11:46] Men poenget er at forward-kurven ligger vesentlig lavere
+
+[00:11:49] enn prognosene våre fra tredje kvartalet og fremover,
+
+[00:11:53] og da er dette her,
+
+[00:11:55] er det naturlig nok positivt for de norske oljeaksjene
+
+[00:11:58] som Equinor, AKBP, og vår energi, som du dekker.
+
+[00:12:03] Ja, åpenbart så skal man vel,
+
+[00:12:05] sånn per definisjon, kjøpe oljeaksjer
+
+[00:12:07] når man tror oljeprisene skal stige.
+
+[00:12:11] Og vi har jo et ganske fremoverlent oljeprissyn her nå i DNB,
+
+[00:12:16] som Helge André har satt.
+
+[00:12:17] Og vi, litt sånn tilbake til pål da,
+
+[00:12:19] på estimatene så ser vi jo nå at vi ligger 40% over
+
+[00:12:25] konsensus på Equinor-EPS i 2023.
+
+[00:12:28] Og det sier jo litt om hvor langt foran kurven vi er der,
+
+[00:12:32] og det sier også litt om potensialet i de her aksjene,
+
+[00:12:34] hvis markedet på en måte begynner å tro på de estimatene vi har på oljepris.
+
+[00:12:39] Så er det jo selvfølgelig litt sånn forskjell på de enkelte aksjene,
+
+[00:12:42] hvordan de er prisa og sånn, som vi kommer tilbake til,
+
+[00:12:45] men her er vi jo i en situasjon hvor
+
+[00:12:48] tidevannet egentlig løfter alle aksjene antageligvis.
+
+[00:12:51] Så vi har jo da nå kjøp på alle aksjene,
+
+[00:12:54] og ser en bra oppsida i de,
+
+[00:12:56] og mener jo at den dagens pris ikke reflekterer det oljeprisbanen
+
+[00:13:01] som vi ser for oss da gjennom året her,
+
+[00:13:03] og så forbi de neste årene.
+
+[00:13:06] En ting er jo oljeprisen, en annen ting er gassprisen.
+
+[00:13:11] Hvilke antakelser gjør du om den?
+
+[00:13:13] Altså, den er jo en viktig del av mixen,
+
+[00:13:15] i hvert fall til en viss grad, for både Equinor og vår energi.
+
+[00:13:18] Ja, gassprisen har jo de fleste oppdaget de siste årene,
+
+[00:13:22] i hvert fall ekstremt viktig for Equinor,
+
+[00:13:24] altså historisk så har vel gassprisen måtte vært ganske stabil
+
+[00:13:28] på et lavt nivå,
+
+[00:13:30] og det har blitt brukt veldig begrensende innsats
+
+[00:13:33] i å se på det markedet,
+
+[00:13:36] og så har jo visse ting her nå ført til at
+
+[00:13:38] gassprisen har eskalert til ekstreme nivåer,
+
+[00:13:42] og denne fortsatt prisen har gått over oljen
+
+[00:13:44] på oljeekvalent basis.
+
+[00:13:47] Men også for vår energi,
+
+[00:13:49] altså der er det ikke 35% av produksjonen som er gass?
+
+[00:13:53] Jo, det stemmer det.
+
+[00:13:55] Så det som er i dag, så har jo både Equinor og vår energi
+
+[00:13:58] ca. 35% av totalproduksjonen i gass.
+
+[00:14:01] Det som er forskjellen er at hvis man ser ut i tid,
+
+[00:14:04] så vil vår energi ha en produksjonsvekst primært i form av olje,
+
+[00:14:09] som gjør at det faller ned til rundt 20% i 2025,
+
+[00:14:13] så man kan jo si at Equinor vil ha en relativ eksponering mot gass
+
+[00:14:17] som er ganske stabil, mens vår energi vil gradvis
+
+[00:14:21] ha en mer relativ eksponering mot olje.
+
+[00:14:24] Når det kommer til gassprisen,
+
+[00:14:26] så er jo det å predikere oljepris,
+
+[00:14:28] det er jo en vanskelig nok øvelse i seg selv.
+
+[00:14:31] Det å predikere gasspris,
+
+[00:14:33] det tror jeg egentlig er tilnærmet umulig,
+
+[00:14:36] hvis man ser på de bevegelsene som har vært de siste årene,
+
+[00:14:39] og fra dag til dag,
+
+[00:14:40] og til og med nå forskjellen også i gasspris
+
+[00:14:43] levert til Storbritannia kontra Nederland,
+
+[00:14:48] hvor det har vært en stor differanse der også,
+
+[00:14:51] så er jo det et marked som er ekstremt vanskelig å predikere,
+
+[00:14:54] og vi har egentlig gjort den enkelte løsningen,
+
+[00:14:57] at vi har brukt forvoldkurven til våre estimater,
+
+[00:15:00] og så husker jeg å gå tilbake fra mine dager på studiene,
+
+[00:15:03] at noe av det første man lærer i makro,
+
+[00:15:06] det er jo at forvoldkurven er ingen god predikator
+
+[00:15:09] for fremtidige spotpriser,
+
+[00:15:12] men nå er det vel sånn at i mangel av andre ting,
+
+[00:15:15] så har vi brukt forvoldkurven,
+
+[00:15:17] og den tilsier jo fortsatt at gassmarkedet kommer til
+
+[00:15:20] å være stramt, dog på en fallende kurve,
+
+[00:15:25] men dagens forvoldkurve impliserer at du kan selge gass
+
+[00:15:30] i 2024 og tidlig 2025 for en høyere pris
+
+[00:15:35] enn hva et oljepris sekvalent koster.
+
+[00:15:39] Oljeselskapene har jo vært gjennom en,
+
+[00:15:42] vi kan vel kalle det for en tøff periode,
+
+[00:15:45] de har i hvert fall blitt tvunget til å være disiplinerte,
+
+[00:15:48] og det er vel liksom de signalene de fortsatt prøver å sende ut
+
+[00:15:53] at det skal de være,
+
+[00:15:55] og nå ligger jo tingene til rette, som du sier,
+
+[00:15:58] for at de skal skuffe inn penger,
+
+[00:16:02] og det gir vel åpenbart gode muligheter
+
+[00:16:05] for utbyttefest i årene som kommer.
+
+[00:16:08] Ja, de står jo i en veldig spesiell posisjon
+
+[00:16:11] i form av at de har fortsatt ganske lave investeringsprogram,
+
+[00:16:17] eller ganske lave capex-nivåer forhold til historisk.
+
+[00:16:21] Vi ser jo fortsatt ingen vilje til at det kommer til å øke betraktelig fremover.
+
+[00:16:25] Og utbyttefest, det er klart at i dag så får du jo en direkte avkastning
+
+[00:16:28] i både Equinor og vår på rundt 10%, som jo historisk er ekstremt høyt.
+
+[00:16:33] Og vi tror jo at det er en klar kapasitet til å øke nivåene også herfra.
+
+[00:16:39] Så jeg vil jo si at det allerede er en fest,
+
+[00:16:42] og spørsmålet er egentlig bare hvor langvarig,
+
+[00:16:45] og hvor stor den festen kan bli.
+
+[00:16:49] Og det er jo ingen tvil om at kapasiteten er der,
+
+[00:16:51] og så får vi jo se om villigheten er like stor,
+
+[00:16:55] eller om du da begynner å spise av kontantstrømmen til å investere mer,
+
+[00:16:59] eller å gjøre andre ting.
+
+[00:17:02] Og så er det jo også en sånn politisk del her,
+
+[00:17:06] at vi kommer jo fra en skattepakke som blitt i tidlig fase covid,
+
+[00:17:12] som nå i ettertid har vist seg å være kraftig,
+
+[00:17:16] så det er mange ting selskapene må balansere her,
+
+[00:17:19] men det som er utvilsomt er at de har hatt en sterk kontantstrøm de siste årene,
+
+[00:17:24] og det vil fortsette også de neste årene.
+
+[00:17:26] Men utbytte i forhold til hva investorene er opptatt av,
+
+[00:17:31] det er klart det er viktig uansett hvilket av casene du ser på.
+
+[00:17:37] Vi var begge med på en lunsj vi arrangerte med vår energi her
+
+[00:17:41] i forbindelse med kvartalsrapporten,
+
+[00:17:43] og det er jo det første investorene spør om.
+
+[00:17:46] Ja, det henger vel litt sammen med at olje,
+
+[00:17:49] til tross for deres viktighet i dagens energilingning,
+
+[00:17:55] så er jo olje og gass noe som verden håper skal gå ned i viktighet gjennom dette århundret,
+
+[00:18:04] og i det ligger det også at før eller siden så kommer man til et punkt
+
+[00:18:09] hvor antageligvis priserne vil falle ganske kraftig,
+
+[00:18:11] og så kan jo det ta 10, 20, 30 år, hvem vet.
+
+[00:18:15] Og det er jo det som også er bakgrunnen for at investorene ønsker høye utbytter,
+
+[00:18:20] så de har mulighet til å reinvestere kapitalen på den måten de ønsker,
+
+[00:18:24] fremfor at oljeselskapene reinvesterer kapitalen i nye oljeprosjekt som man risikerer da
+
+[00:18:30] kan bli såkalt «stranded assets» og bli veldig ulønnsomme.
+
+[00:18:35] Så det er en balansegang der, og vi ser jo at vår energi,
+
+[00:18:40] som har en veldig bra profil, de har jo veldig mye vekst nå i det korte bildet,
+
+[00:18:45] og så har du akkurat BP som har en litt mer langsiktig profil og vokser mer i slutten av 10 året her,
+
+[00:18:51] så da må jo investorene finne det caset de synes matcher deres egen preferanse best.
+
+[00:18:57] Men Poul, sånn generelt, det er jo vanskelig å være uenig at det gir mening
+
+[00:19:02] å ha en real eksponering mot olje og gass, og kanskje vi kunne sagt råvære generelt også.
+
+[00:19:08] Men Poul, sånn generelt, det er jo vanskelig å være uenig at det gir mening å ha en real eksponering mot olje og gass, og kanskje vi kunne sagt råvære generelt også.
+
+[00:19:10] Men Poul, sånn generelt, det er jo vanskelig å være uenig at det gir ting som dette, som det er nå.
+
+[00:19:12] Så det eneste som kanskje vel taler imot det er at det å eie olje og gass er en konsensuskål, rett og slett.
+
+[00:19:17] Så det eneste som vel taler imot det er at det å eie olje og gass er en konsensuskål, rett og slett.
+
+[00:19:19] Ja, jeg tror det er riktig, det er at det mest overbevisende bear case er nettopp det at de fleste virker sånn at de er ganske enige i akkurat det der,
+
+[00:19:30] kanskje med mulig unntak av Greta Thunberg muligens,
+
+[00:19:33] men ellers så tror jeg at det er vanskelig å finne noen som er så veldig bearish på sektoren,
+
+[00:19:36] men jeg tror det er nettopp dette her med at
+
+[00:19:39] du har en sektor som er priset relativt moderat
+
+[00:19:43] egentlig her
+
+[00:19:44] så hvis du hadde hatt høy prising
+
+[00:19:46] og en konsensus bullsinn
+
+[00:19:48] da hadde det vært en grunn til å være litt mer skeptisk
+
+[00:19:50] eller hvis det var en investeringsboom
+
+[00:19:52] som da ville på noen år frem i tid
+
+[00:19:55] plutselig gjøre at det ble alt for mye kapasitet
+
+[00:19:58] det ville også vært en grunn til å være litt mer skeptisk
+
+[00:20:00] men når du har den kombinasjonen med
+
+[00:20:02] attraktiv prising
+
+[00:20:04] og en vilje til å holde igjen litt på investeringene
+
+[00:20:08] så synes jeg det er vanskelig å se for seg noe annet
+
+[00:20:10] enn at dette skal gå bra
+
+[00:20:11] Vi må snakke litt om det der med investeringslysten
+
+[00:20:15] men tenkte å ta toppanbefalingen først, Steffen
+
+[00:20:19] det er vår energi
+
+[00:20:21] du sa det som du sa
+
+[00:20:22] vi har kjøpsanbefaling på alle
+
+[00:20:24] hva er det som gjør at vi liker vår energi best?
+
+[00:20:27] er det noe prisingsmessig eller er det andre ting?
+
+[00:20:30] Det er egentlig profilen på selskapet
+
+[00:20:32] som vi synes er
+
+[00:20:34] veldig optimal
+
+[00:20:35] i forhold til hvordan et ODI-selskap
+
+[00:20:36] bør se ut i 2022
+
+[00:20:38] de har jo en produksjonsvekst
+
+[00:20:41] som langt overgår konkurrentene
+
+[00:20:43] det er jo 9% årlig vekst i produksjon
+
+[00:20:45] frem til 2025
+
+[00:20:46] vi ser jo ikke vi når på 2%
+
+[00:20:49] og AKBP
+
+[00:20:51] også er litt over det
+
+[00:20:53] så der er det jo en god start
+
+[00:20:55] også det andre elementet er
+
+[00:20:57] at mesteparten av
+
+[00:20:59] investeringene som fører til
+
+[00:21:01] produksjonsveksten, de er jo da reddet tatt
+
+[00:21:03] så vi ser nå en vekst
+
+[00:21:06] i produksjon de neste
+
+[00:21:07] tre årene kombinert med at
+
+[00:21:09] investeringene antageligvis
+
+[00:21:11] vil toppe ut i år
+
+[00:21:13] altså da har du en kombinasjon her da at du får voksende
+
+[00:21:15] produksjon med en synkende
+
+[00:21:17] synkende capex
+
+[00:21:19] som gjør at det supporterer
+
+[00:21:22] jo den kontantstrømmen
+
+[00:21:23] veldig, veldig godt
+
+[00:21:24] og når du da kommer fra en utbyttegild på 10%
+
+[00:21:27] i dag og et selskap som
+
+[00:21:29] i våre øyne også kommuniserer
+
+[00:21:32] et ønske
+
+[00:21:33] og en vilje om å vokse utbytte
+
+[00:21:35] hvert år, da synes
+
+[00:21:37] jeg at summen av det her gjør at
+
+[00:21:39] det ser veldig bra ut
+
+[00:21:41] og på våre estimater
+
+[00:21:42] hvis du investerer i vår energi
+
+[00:21:45] i dag så vil du få rundt 90%
+
+[00:21:47] av dagens markedsverdi
+
+[00:21:49] i frikotanstrøm
+
+[00:21:50] i løpet av de årene og vi tror kanskje at
+
+[00:21:53] underkant av halvparten av det også kommer til
+
+[00:21:55] å tilfalle de som investerer i aksjen
+
+[00:21:57] gjennom utbytte og tilbakekjøp
+
+[00:21:59] så det
+
+[00:22:00] er vanskelig å
+
+[00:22:02] ikke si at det er et bra valg
+
+[00:22:05] Nei, så de skal rett og slett bare
+
+[00:22:07] og da mener jeg ikke bare, for det er ikke bare bare
+
+[00:22:09] men de skal, så lenge de klarer
+
+[00:22:11] å levere på
+
+[00:22:12] eksekusjon, altså gjennomføring
+
+[00:22:15] av planlagt produksjons
+
+[00:22:17] økning, så står
+
+[00:22:19] dette caset seg
+
+[00:22:20] veldig bra, vi trenger ikke å se
+
+[00:22:23] type nye investeringer
+
+[00:22:25] og oppkjøp av andre felt
+
+[00:22:27] for at dette her skal
+
+[00:22:29] se bra ut, det er det du sier
+
+[00:22:31] Ja, nå er jo første prioritet, altså vi vil
+
+[00:22:32] komme i mål med de
+
+[00:22:35] utviklingene som de har, som er
+
+[00:22:37] gått i gang, og som også er et poeng
+
+[00:22:39] at det er kostnadene også låst inn
+
+[00:22:41] det er klart, man ser jo en kostnadsinflasjon
+
+[00:22:43] også i oljesektoren, som
+
+[00:22:45] kanskje ikke BP er litt mer utsatt
+
+[00:22:47] for, gitt at de har prosjekter som
+
+[00:22:49] kommer til å gå lenger ut i tid
+
+[00:22:50] men ja, det er noe annerledes om
+
+[00:22:53] å eksekute det de allerede har
+
+[00:22:55] og så tenker jeg at
+
+[00:22:57] det er jo lenge til 2025-2026
+
+[00:22:59] men man får liksom ta
+
+[00:23:01] perioden etter det litt
+
+[00:23:02] inn mot de årene, men
+
+[00:23:05] det er klart at inn mot 2025 så
+
+[00:23:07] føler man jo at vi har en god visibilitet
+
+[00:23:09] på caset, og
+
+[00:23:11] det er
+
+[00:23:13] ganske få fallgruver som
+
+[00:23:15] åpenbarer seg, og litt sånn tilbake til slutt på
+
+[00:23:17] prising, så Paul snakket jo om Google
+
+[00:23:19] der på 14 ganger PE
+
+[00:23:20] våre
+
+[00:23:22] altså vår energi og de andre aksjene i oljesektoren
+
+[00:23:25] de er jo prisa på mellom
+
+[00:23:27] 5 og 6 ganger PE på årets
+
+[00:23:29] temat av de neste årene, og så er det
+
+[00:23:31] klart at nå er det jo tross alt
+
+[00:23:32] oljeselskapet her som er
+
+[00:23:35] i en tid med superprofit, så da forsvarer
+
+[00:23:37] jo det en litt lavere prising, men det sier
+
+[00:23:39] også litt om hvor attraktiv
+
+[00:23:41] prising det er i forhold til de underliggende
+
+[00:23:42] inntjeningene som de står foran.
+
+[00:23:44] Så hvis olje- og gassprisene
+
+[00:23:47] da holder seg nå i nærheten av
+
+[00:23:49] de nivåene vi tror
+
+[00:23:51] og
+
+[00:23:51] selskapene kommer til å fortsette
+
+[00:23:55] å skuffe inn
+
+[00:23:56] penger, ser du noe risiko litt sånn
+
+[00:23:58] lenger ute for at her
+
+[00:24:01] er det noen som kan bli fristet
+
+[00:24:02] og rett og slett bli forkallet
+
+[00:24:04] betalingskåte for å kjøpe
+
+[00:24:06] seg nye produserende felt
+
+[00:24:08] når de ser at her
+
+[00:24:10] trenger vi å erstatte produksjonen på en eller annen måte?
+
+[00:24:13] Det er jo selvfølgelig alltid en risiko,
+
+[00:24:14] men det som er litt sånn merkelig her
+
+[00:24:16] det er jo at når oljeprisene er høy
+
+[00:24:18] så er det nok vanskeligere for
+
+[00:24:20] kjøpere og selgere å bli enige om pris
+
+[00:24:22] og vi ser vel nå at
+
+[00:24:24] det blir for
+
+[00:24:26] høy spread da mellom
+
+[00:24:28] det kjøper vil betale
+
+[00:24:30] og det selger ønsker å få,
+
+[00:24:32] og da ender det opp med at det ikke blir
+
+[00:24:34] noe av de dealene
+
+[00:24:35] så ser man typisk at det skjer
+
+[00:24:38] flere sånne transaksjoner på lavere
+
+[00:24:40] oljepriser hvor det er
+
+[00:24:42] litt mer velvillige fra begge parter
+
+[00:24:44] og det er enklere å se oppsida
+
+[00:24:46] så vi
+
+[00:24:48] er vel egentlig der at vi tror ikke
+
+[00:24:50] det kommer til å bli noen forhastet
+
+[00:24:52] oppkjøp
+
+[00:24:53] og det er også ingenting som tyder på
+
+[00:24:56] at investeringsviljen
+
+[00:24:58] i å investere i nye
+
+[00:25:00] prosjekter kommer til å
+
+[00:25:02] øke betraktelig, det er fortsatt
+
+[00:25:04] til tross for dagens pris
+
+[00:25:06] så har de jo i bakhodet at
+
+[00:25:08] ting kan gjendre seg raskt
+
+[00:25:10] og tross alt så er det slik at
+
+[00:25:12] det du investerer i et
+
+[00:25:14] oljeprosjekt i dag, det får du jo først igjen
+
+[00:25:17] om fem til syv år
+
+[00:25:18] og det er jo lenge til
+
+[00:25:20] så det de holder nok igjen
+
+[00:25:23] tror jeg er fortsatt en god del på det
+
+[00:25:24] Ja, og det er jo det også du har
+
+[00:25:26] sagt når vi har snakket om dette før på
+
+[00:25:28] at investeringene som må gjøres
+
+[00:25:31] det er
+
+[00:25:32] det går så langt frem at
+
+[00:25:34] da er det så stor usikkerhet
+
+[00:25:35] med hvordan verden
+
+[00:25:38] ser ut og ikke minst
+
+[00:25:40] hva politikerne mener er OK
+
+[00:25:42] så man tør faktisk
+
+[00:25:44] ikke å ta de sånn per i dag
+
+[00:25:46] Jeg tror det kan si at det reduserer
+
+[00:25:48] risikoene virkelig for
+
+[00:25:50] disse oljeselskapene, for ellers
+
+[00:25:52] så er det jo litt sånn at når det går bra
+
+[00:25:54] så er fristelsen for å gjøre store investeringer
+
+[00:25:57] relativt stort, og da blir det
+
+[00:25:58] sånn boom og bust utvikling
+
+[00:26:00] men nå har jo som oljeselskapene
+
+[00:26:02] etter å ha fått flere år med pepper
+
+[00:26:05] om at nå skal fossil energi
+
+[00:26:07] stenges ned, og så videre
+
+[00:26:08] så kan de se at ja, det er
+
+[00:26:10] sterk etterspørsel de neste årene
+
+[00:26:12] men de aner ikke hva situasjonen kommer til å være
+
+[00:26:14] 10 år frem i tid, eller 15 år frem i tid
+
+[00:26:17] og da har de som ikke
+
+[00:26:18] den tilliten til at
+
+[00:26:21] det er riktig å ta
+
+[00:26:22] store investeringsbeslutninger
+
+[00:26:25] som tar mange år før du får en ordentlig
+
+[00:26:26] payback, så du kan si at miljøaktivistene
+
+[00:26:29] har nok til en viss grad vunnet
+
+[00:26:31] på akkurat det, men det gjør at
+
+[00:26:32] det da også må legge opp til at det blir
+
+[00:26:35] høye energipriser i lang tid
+
+[00:26:37] fremover, og at det blir
+
+[00:26:39] også en periode med veldig lønnsom
+
+[00:26:41] utvikling for oljeselskapene
+
+[00:26:42] Men samtidig, altså Stefanie, i en verden med
+
+[00:26:44] energiknapphet
+
+[00:26:46] og råvarknapphet generelt
+
+[00:26:49] altså er det ikke
+
+[00:26:50] jeg tenker at dette bildet må
+
+[00:26:53] endre seg litt
+
+[00:26:54] over tid da, men det er
+
+[00:26:57] mulighet av feil
+
+[00:26:58] Ja, vi får se da
+
+[00:27:00] det er jo
+
+[00:27:01] ting kan jo endre seg akkurat at
+
+[00:27:03] men man kommer jo alltid tilbake til at
+
+[00:27:05] og det ser man jo politisk også, så øker jo bare
+
+[00:27:07] noen ambisjoner
+
+[00:27:09] og alle beløp
+
+[00:27:10] og kapasitetsmål
+
+[00:27:13] i forhold til å øke fornybar
+
+[00:27:15] satsning i Europa
+
+[00:27:16] de har blitt økt som følge av
+
+[00:27:19] å bli mindre avhengig av russisk olje og gass
+
+[00:27:21] og det øker jo
+
+[00:27:23] egentlig usikkerheten da
+
+[00:27:24] for hvor
+
+[00:27:26] levedyktig olje og gass er
+
+[00:27:28] om 10-15 år
+
+[00:27:30] Neida
+
+[00:27:31] men det er jo et spørsmål
+
+[00:27:32] hvor lang tid tar denne overgangen
+
+[00:27:34] tar det 10 år
+
+[00:27:35] eller tar det faktisk 20 eller 30
+
+[00:27:37] eller 40 år
+
+[00:27:39] men ok, det er mange sider
+
+[00:27:42] av dette, vi kan også bare ta med
+
+[00:27:44] det kom
+
+[00:27:46] sånn plan fra
+
+[00:27:47] EU også denne uken
+
+[00:27:49] det er noen 300 milliarder
+
+[00:27:52] milliarder
+
+[00:27:54] europlan
+
+[00:27:55] Repower EU
+
+[00:27:56] er det noe der som var verdt å ta med seg
+
+[00:27:59] i forhold til olje og gass
+
+[00:28:01] sektoren
+
+[00:28:02] og på generelt basis
+
+[00:28:04] så vil jo de her målene
+
+[00:28:07] selvfølgelig gjøre at
+
+[00:28:08] politikere får ønske at verden
+
+[00:28:11] skal bli raskere uavhengig
+
+[00:28:13] av olje og gass
+
+[00:28:13] så er det jo en gang sånn at det er langt ut i tid
+
+[00:28:17] det er vanskelig
+
+[00:28:19] å tolke realismen
+
+[00:28:21] i de her målene
+
+[00:28:21] og det er jo ingenting som investorerne prater om i dag
+
+[00:28:24] i forhold til prising av oljeaksjer
+
+[00:28:26] man skal jo selvfølgelig ha det i bakhodet
+
+[00:28:29] men jeg tror nok at det blir så
+
+[00:28:31] såpass diffust, såpass langt ut
+
+[00:28:33] og såpass
+
+[00:28:34] det blir såpass vagt da at
+
+[00:28:36] det er vanskelig å konkretisere
+
+[00:28:38] noe som man greier å
+
+[00:28:40] kvantifisere på en impact på
+
+[00:28:42] olje og bronsen
+
+[00:28:43] i fremtiden
+
+[00:28:46] ja, men bra, for å oppsummere altså
+
+[00:28:48] vi har kjøp på både Aker
+
+[00:28:50] BP, Equinor og vår
+
+[00:28:52] energi kursmålet det er
+
+[00:28:54] 440 kroner på Aker BP
+
+[00:28:56] 400 på Equinor
+
+[00:28:58] og 51 på
+
+[00:29:01] energi som også er vår
+
+[00:29:03] topp anbefaling i
+
+[00:29:05] dette space
+
+[00:29:06] helt til slutt
+
+[00:29:07] Paul, markedet har vært
+
+[00:29:10] rugglete og
+
+[00:29:12] nedadgående da med unntak av Oslo Børs
+
+[00:29:14] lenge og
+
+[00:29:16] bildet har ikke endret seg så mye
+
+[00:29:18] siden vi satt sammen sist
+
+[00:29:20] nå husker jeg faktisk ikke om det var for en uke eller to siden
+
+[00:29:22] i farten. Nei, det er stort sett de samme
+
+[00:29:24] faktorene som preger det store
+
+[00:29:26] bildet her, at du har en
+
+[00:29:28] innstramningssykler, så
+
+[00:29:31] det er en regel som har fungert
+
+[00:29:33] bra over mange år, og hvis man skal
+
+[00:29:35] gjøre det denne gangen, så sier det at
+
+[00:29:37] man skal være litt forsiktig
+
+[00:29:39] da du har både renteoppgang
+
+[00:29:42] i 50 punkter
+
+[00:29:43] av gangen, pluss quantitative tightening
+
+[00:29:45] så det blir en ganske voldsom
+
+[00:29:47] innstramningsperiode vi har foran oss
+
+[00:29:49] samtidig som vekstforventning
+
+[00:29:51] blir også noe redusert, men
+
+[00:29:53] du kan se at skal det si noe positivt
+
+[00:29:55] her, så er jo alle disse faktorene
+
+[00:29:57] godt kjent, så det er ikke sånn at dette
+
+[00:29:59] er noe overraskelse på noe vis
+
+[00:30:01] og sentiment er da ganske utbombet
+
+[00:30:03] det også, så det hadde ikke vært så veldig
+
+[00:30:05] overraskende om man får noe
+
+[00:30:07] bear market rally her
+
+[00:30:09] og det er jo veldig vanskelig
+
+[00:30:11] å vite da, både om det kommer
+
+[00:30:13] men hvis det først kommer, så kan det være ganske brutalt
+
+[00:30:15] hvis man ligger veldig undervektet
+
+[00:30:17] sånn sett så tror jeg man skal være
+
+[00:30:19] forberedt på at det blir
+
+[00:30:21] mye volatilitet en periode til
+
+[00:30:23] Med det så
+
+[00:30:25] runder vi av for i dag
+
+[00:30:28] Tusen takk til dere begge for
+
+[00:30:29] at dere var med
+
+[00:30:31] men ikke minst, tusen takk folkens
+
+[00:30:34] til alle dere som hørte på
+
+[00:30:36] Denne podcasten og
+
+[00:31:01] detts innhold skal anses som

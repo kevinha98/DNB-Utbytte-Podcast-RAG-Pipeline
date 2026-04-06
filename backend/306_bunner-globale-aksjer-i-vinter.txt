@@ -1,0 +1,955 @@
+Episode 306: Bunner globale aksjer i vinter?
+Publisert: Sat, 15 Oc
+Vert: Marius Brun Haugen
+Varighet: 30 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/bunner-globale-aksjer-i-vinter
+
+--- Transkripsjon ---
+
+[00:00:00] Inflasjonen holder seg urovekkende høy. Vi har hatt shortskvis lignende bevegelser for S&P 500, bekymrede forvaltere som sender åpent brev til den amerikanske sentralbanken, nye skuffelser fra vår energi, og midt oppi dette så er også et nyttig RIG-selskap blitt notert på Euronext Growth, og Kadeler har hentet penger.
+
+[00:00:22] Det er med andre ord vært en ny begivenhetsrik uke i markedet, og alt dette her skal vi snakke mer om i dagens episode.
+
+[00:00:32] Vi skal også se nærmere på hva slags type bear market vi står i nå, og hvor viktig det er rimelig å anta at vi når bunnen av bølgedalen for globale aksjer i løpet av vinteren.
+
+[00:00:51] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen global økonomien og finansmarkedene.
+
+[00:00:58] Jeg er Marius Brunhaugen, og med meg på dette som er fredag 14. oktober, klokken har plassert 13 når vi spiller inn denne episoden,
+
+[00:01:09] så har jeg aksjesøtregg Paul Harper og Knut Hellandsvik som er aksjesjef i DNB Asset Management. Velkommen begge to.
+
+[00:01:18] Tusen takk.
+
+[00:01:19] Som mange av lytterne våre vet, betyr dette her at vi får sett markedet fra to ulike vinkler i dag, både det vi kaller sell side,
+
+[00:01:28] som Paul er fra Meglerhus-siden, og det vi kaller buy side, som Knut er i dette tilfellet, fordi han representerer fondsforvalterne i DNB.
+
+[00:01:38] Knut, du er også med å forvalte fondene DNB Global, som har 30 milliarder under forvaltning, så ikke dårlig bare det.
+
+[00:01:46] Og så tror jeg nå at mange, særlig på forvaltersiden i aksjemarkedet, og jeg presiserer, tror, sitter i den campen som mener at
+
+[00:01:57] ja, det blir en tøff vinter, men sannsynligvis en mild resesjon.
+
+[00:02:02] Og det kommer til å gjøre vondt litt til å være i markedet, men oddsen er i favør av at vi skraper bunnen en eller annen gang i løpet av de neste seks månedene.
+
+[00:02:13] Så da kommer det med andre ord inngangsmuligheter for den som kan være langsiktig.
+
+[00:02:17] Er du med i den campen her, Knut?
+
+[00:02:19] Ja, som en optimistisk humøring så må jeg vel si ja til det.
+
+[00:02:23] Vi skal diskutere dette her mer i detalj senere.
+
+[00:02:27] Episoden, men vi får ta det nære først, Paul.
+
+[00:02:29] Handeluken den startet med at Nasdaq falt til sin laveste sluttkurs på to år.
+
+[00:02:35] President Bidens begrensninger på eksport av databrikker til Kina var blant tingene som ble trukket frem som bidragsyter til en litt ekstra svekkelse,
+
+[00:02:44] som vi så for teknologiaksjene i starten av uken.
+
+[00:02:47] Men det aller viktigste tema denne uken her, som så mange uker før, det har vært dette med prisvekst og renter vi slipper,
+
+[00:02:56] vil liksom ikke unna det.
+
+[00:02:58] Og i går, torsdag 13. oktober, da kom beskjeden om at på årsbasis så var kjerninflasjonen i USA opp 6,6 prosent.
+
+[00:03:06] Mer enn ventet, enda en gang, prisveksten var bredt plassert,
+
+[00:03:10] og spikeren i kista for en ny heving på 75 basispunkter fra Fed og USA-økonomen våre her på huset, Knut Magnussen,
+
+[00:03:18] han vil ikke utelukke en heving på 100 basispunkter neste rentemøte.
+
+[00:03:23] Reaksjonene ble som jeg ville forventet.
+
+[00:03:25] Aksjer ned.
+
+[00:03:25] Den amerikanske 10-åringen til godt over 4 prosent, men så endret stemningen seg,
+
+[00:03:31] og på Twitter så karakteriserte du det som shortskvis lignende bevegelser for S&P 500 futures, Paul.
+
+[00:03:39] Hva var det som skjedde?
+
+[00:03:40] Ja, så aller først så falt S&P 4 prosent, og det er jo en ganske stor bevegelse for å være en indeks.
+
+[00:03:47] Og så plutselig så snudde det, så var det plutselig opp 5 prosent, så tilsvarende stort med en motsatt retning.
+
+[00:03:53] Så å ha så store intradag-svingninger, det er egentlig veldig uvanlig når du ser på et stort indeks som S&P 500.
+
+[00:04:02] 10 år siden kom jo også litt ned etter at den var litt over 4 prosent,
+
+[00:04:06] men Fed Funds futures begynner å prise inn nå enda litt mer på rentesiden der.
+
+[00:04:12] Nå er det fullt ut priset inn at det kommer 75 punkter i neste møte,
+
+[00:04:17] men i tillegg da en 50 prosent sannsynlighet for at det skal faktisk være et helt prosentpoeng opp,
+
+[00:04:23] og oddsen for 75 punkter møte etter der igjen, og er det sånn 50-50,
+
+[00:04:30] mens tidligere så var det egentlig bare en moderat sjanse for det.
+
+[00:04:33] Men i forhold til denne bevegelsen som vi så i USA i går kveld,
+
+[00:04:38] altså hva misser jeg her?
+
+[00:04:40] Altså i hvert fall for meg da, mitt enkle hodet, denne oppgangen gir jo ikke mening da.
+
+[00:04:44] Annet enn i så fall at sentimentet er utbombet,
+
+[00:04:47] så er det vel ikke så mange andre forklaringsfaktorer på denne intradag-rekylen,
+
+[00:04:53] og nesten blir en slags ukrykkel.
+
+[00:04:54] Nei, så jeg tror du er inne på noe når du snakker om sentiment her.
+
+[00:04:57] Så den første bevegelsen tror jeg var sånn de fleste ville forvente.
+
+[00:05:02] Og så, som du sier, plutselig så snudde det uten at det var noe sånn veldig god forklaring på det,
+
+[00:05:06] og det at Fed Funds futurene ikke hadde noe stor endring etter det,
+
+[00:05:11] tror jeg liksom bekrefter at det var ikke noe annen tolkning av inflasjonstallene
+
+[00:05:16] som egentlig var konklusjonen, for det kunne kanskje ha begynt å lage noe historie på at
+
+[00:05:20] ja, det var høyt, men det var noe grunnlag.
+
+[00:05:23] For å mene at nå er vi helt sikre på at det er toppen, og så kommer det ned veldig fort etter det.
+
+[00:05:27] Så jeg tror det var så enkelt som at her var det mange som var tydeligvis posisjonert for en skuffelse,
+
+[00:05:34] at det har vært utsett veldig mye putt-opsjoner blant annet i forkant,
+
+[00:05:39] og da når de skal cashes inn, eller de skal dekke inn disse hedgene,
+
+[00:05:43] så blir det plutselig sånn at den flow-effekten dominerer det fundamentale.
+
+[00:05:47] Så jeg tror det er den flow-effekten som er den mest plausible forklaringen på dette her,
+
+[00:05:52] men fra et rent fundamentalt perspektiv så er det helt logisk å klare seg litt i hodet
+
+[00:05:58] og prøve å forstå dette her, for det er mye vanskeligere egentlig å resonere frem til, synes jeg.
+
+[00:06:04] Ja, og så får vi vel bare innse at det er ikke alle disse kortsiktige bevegelsene
+
+[00:06:09] vi nødvendigvis må ha en forklaringsfaktor på, rett og slett.
+
+[00:06:14] Uansett, Katie Wood, hun publiserte i starten av uken et åpent brev til Fed,
+
+[00:06:22] ganske sentralbanken, med en klar oppfordring til at det er på tide å stoppe med rentehevingene.
+
+[00:06:28] I samme åndedag så kan jeg jo nevne at ETF-en hun er mest kjent for,
+
+[00:06:32] ARK Innovation, den satte ny årslag av å tangere til COVID-bunnen fra mars 2020.
+
+[00:06:36] Knut, dere har vel ikke begynt med å åpne brev til sentralbanken ennå?
+
+[00:06:40] Nei, det har ikke vi, men det er klart når du ser på hva markedet priser inn,
+
+[00:06:44] og at Fed skal faktisk øke renten med 4,5 prosent på et år,
+
+[00:06:49] så er det klart det her er ganske...
+
+[00:06:52] ganske tøffe kost, og det vi også ser på er jo det man kaller transmission,
+
+[00:06:57] altså når de økningene da går inn i den virkelige økonomien,
+
+[00:07:02] hva slags impact det vil ha, så det er klart det er ganske tøff kost som Fed har satt i gang her.
+
+[00:07:09] Men det er helt tydelig at det vil ha inflasjon ned til nesten hvilken som helst kost,
+
+[00:07:14] så hvor det her skal ende, det er jo selvfølgelig et stort utfallsrom på.
+
+[00:07:18] Ja da, det var litt spøkfull inngang på spørsmålet mitt her,
+
+[00:07:22] der alvorlig i Fed-referatet denne uken, så fikk vi jo bekreftet at de er mer redde for å heve rentene for lite,
+
+[00:07:30] enn de er for å heve det for mye, altså Paul, er ikke du litt bekymret nå da,
+
+[00:07:34] for at rentetoppen blir en del høyere enn det som markedet priser inn i dag?
+
+[00:07:38] Ja, så det er nok en viss fare her at vi har gått fra den ene grøftekanten til den andre,
+
+[00:07:42] at de var for sent ute med å begynne å stramme til,
+
+[00:07:45] altså nå kommer det til å ende opp med at de strammer til for mye til slutt.
+
+[00:07:49] Men når det er sagt, så er det en utfordrende situasjon for,
+
+[00:07:52] for hvis man ser på de amerikanske husholdningene, så har de egentlig en relativt stert utgangspunkt,
+
+[00:07:59] så mange av de sitter fremdeles på en god del sparepenger etter den covid-perioden,
+
+[00:08:04] hvor det var egentlig tvangssparing, kan du si, at de fikk sjekker i posten fra staten,
+
+[00:08:09] men hadde ingenting å bruke pengene på.
+
+[00:08:11] Så de har hatt nå en periode hvor de har begynt å bruke litt av de sparepengene,
+
+[00:08:16] men det er fremdeles ganske mye som er igjen.
+
+[00:08:18] Men i tillegg til det, en viktig faktor som jeg opplever,
+
+[00:08:21] for at det er relativt få som har fått med seg,
+
+[00:08:23] er at nå har vi faktisk reallønnsvekst igjen i USA.
+
+[00:08:27] Så de fleste tenker, når de snakker om vekst, at de tenker i år-over-år-termer,
+
+[00:08:32] men hvis du ser måned over måned, så har du egentlig nå hatt tre måneder
+
+[00:08:36] hvor lønnsveksten har vært helt ok,
+
+[00:08:39] og så den forrige måneden nå, så var inflasjonen så vidt høyere,
+
+[00:08:43] men i to måneder før der igjen, så var inflasjonen klart lavere enn lønnsveksten,
+
+[00:08:49] og mest sannsynlig de neste månedene,
+
+[00:08:51] så kommer inflasjonen også til å være lavere.
+
+[00:08:53] Så den reallønnsveksten gjør at konsumentene har en ganske solid startpunkt.
+
+[00:08:59] Du har heller ikke noe flytende rente i stor grad i USA,
+
+[00:09:03] så i motsetning til Norge, hvor renteoppgang slår ganske fort,
+
+[00:09:06] i USA tar det mye lengre tid før det begynner å merkes.
+
+[00:09:12] Så det er ikke så lett for Fed å bremse ting opp med renteutviklingen,
+
+[00:09:17] som kanskje mange antar, og det gjør at hele situasjonen er mye mer utfordrende
+
+[00:09:21] enn jeg tror kanskje mange tenker.
+
+[00:09:23] Ja, akkurat det, fordi hvis du har rett til at amerikansk økonomi er litt sterkere
+
+[00:09:28] enn det konsensus legger til grunn, så på en side er jo det bra,
+
+[00:09:31] men på en annen side så vil vel det også gjøre det vanskeligere for Fed å stagge prisveksten?
+
+[00:09:36] Det er nettopp det, og da kan det kanskje hende at vi får disse neste renteøkningene
+
+[00:09:41] som er guidet, og så blir det en liten pause hvor de skal se an hvordan det ser ut,
+
+[00:09:46] og at kanskje den store overraskelsen blir at i stedet for å sette renten ned mot slutten av neste år,
+
+[00:09:51] så er det en ny runde med oppgang i rentene, og da tilsvarende at den eventuelle store bunnen
+
+[00:09:57] kommer ikke før et godt stykke ut i neste år.
+
+[00:10:00] Så det er klart det er vanskelig å si noe veldig konkret helt enda,
+
+[00:10:05] men mangel på disse store ubalansen som det ofte er i slutten av syklusen,
+
+[00:10:09] er ikke så lett å finne denne gangen, og da er det heller ikke så lett å helt se
+
+[00:10:14] hvordan du får en voldsom oppbremsing heller.
+
+[00:10:16] Vi må bare vel belage oss på å følge mer med på renter og prisvekst,
+
+[00:10:21] også i månedene som kommer. Knut, det ser ut til at vi slipper unna det med det første.
+
+[00:10:25] Nei, jeg vil bare legge til, vi har jo hatt en del earnings-rapporter her i det siste,
+
+[00:10:29] fra store amerikanske selskaper, sånn som Domino's Pizza og Pepsi,
+
+[00:10:35] og de kom jo mye sterkere enn forventet, så det virker som om de amerikanske konsumeren er sterk.
+
+[00:10:40] Også luksusselskapet LVMH kom også med veldig, veldig sterke tall.
+
+[00:10:45] Vi hadde Delta Airlines som snakket om egentlig veldig sterke tall
+
+[00:10:50] på international travel, og ser sterk recovery også fra business travels globalt, faktisk.
+
+[00:10:57] Så ingen tegn til at konsumeren er på vei nedover.
+
+[00:11:01] Ja, flere av de store amerikanske bankene kommer med tall i dag,
+
+[00:11:07] om ikke så lenge i forhold til når vi sitter her og spiller inn dette,
+
+[00:11:10] så blir det jo spennende å se hva de sier også.
+
+[00:11:13] Ellers, Paul, som vi har snakket om før, flertall av disse Q3-forhåndsvarslingene
+
+[00:11:19] som har kommet, har jo vært på den negative siden,
+
+[00:11:22] i hvert fall det vi har sett her hjemme og i Norden.
+
+[00:11:26] Så ja, vi får jo se da.
+
+[00:11:27] Det kan bli noen volatile uker fremover, avhengig av hva selskapene sier,
+
+[00:11:31] og så er jo et spørsmål i hvilken grad de kommer til å komme med noe særlig guiding
+
+[00:11:36] i det hele tatt, om de liksom tør de å gjøre det nå.
+
+[00:11:40] Ja, det er et godt poeng, for jeg ville tenke at de fleste venter nok til Q4-rapporten
+
+[00:11:47] før de kommer med guiding for neste år.
+
+[00:11:50] Jeg antar at det kommer til å være veldig mange tilfeller hvor du får sånne type kommentarer
+
+[00:11:54] med at ja, det er veldig mye usikkerhet, og vi får se litt hvordan det går,
+
+[00:11:58] og bla bla bla egentlig.
+
+[00:12:00] Jeg tror de venter rett og slett til de har litt mer visibilitet
+
+[00:12:04] før de som føler seg er tvunget til å si noe om neste års utsikter.
+
+[00:12:08] Så det kan godt hende at her er det, det blir oppdatering av guiding for i år,
+
+[00:12:12] men relativt lite nytt om hva de forventer til neste år,
+
+[00:12:16] for jeg tror selskapene selv er veldig usikre,
+
+[00:12:18] og da vil de helst unngå å si etterpå.
+
+[00:12:20] Det er noe annet som vi da eventuelt må justere ned igjen på et senere tidspunkt.
+
+[00:12:25] Ok, la oss ta det til hjemlige trakter.
+
+[00:12:30] Vår energi tok jeg med innledningsvis, de må vi innom.
+
+[00:12:34] De nedjusterte i en produksjonsoppdatering tirsdag, guidingen for 2022.
+
+[00:12:40] Markedet likte jo ikke det, men jeg tror de likte enda mindre
+
+[00:12:43] at dette her var andre gangen på kort tid at vår ikke leverte rett og slett.
+
+[00:12:48] Så det blir litt sånn en klam hånd da,
+
+[00:12:50] det langsiktige usikkerhet som ligger der, og det liker ikke investorene.
+
+[00:12:55] Samtidig så vet vi at det er veldig sterke krefter som trekker i retning av
+
+[00:12:58] høye olje- og gasspriser gjennom vinteren,
+
+[00:13:02] og det gjør jo at veldig mange av disse selskapene kommer til å tjene gode penger.
+
+[00:13:06] Aksjekursen i vår, den er nå 33-ish,
+
+[00:13:09] og da er det jo ikke så langt igjen dessverre til børsintroduksjonskursen på 28,
+
+[00:13:13] så Paul, er dette her en kjøpsmulighet, eller er det mer trikk igjen som så nå?
+
+[00:13:18] Det er dessverre litt mer trikk igjen.
+
+[00:13:20] Vi hadde egentlig håpet, synes jeg,
+
+[00:13:22] for det er, om vi sier på de fleste måtene du kan se på dette her,
+
+[00:13:26] så virker denne aksjen billig.
+
+[00:13:28] Så det er sånn 5xP, 13x13% direkte avkastning.
+
+[00:13:32] Det er ikke veldig mye som du finner med en bedre kombinasjon der.
+
+[00:13:35] Men som vi har opplevd med tidligere case,
+
+[00:13:38] at det å være billig alene er som regel ikke bra nok grunn.
+
+[00:13:42] Du må ha også noe positiv trigger av noe slag,
+
+[00:13:46] og dessverre da så er de triggerne vi har sett her heller på den negative siden,
+
+[00:13:50] at den var billig før dette varslet kom,
+
+[00:13:53] så har den blitt enda litt billigere, kan du si.
+
+[00:13:55] Men det er det value uten en catalyst,
+
+[00:13:57] det er en litt skummel kombinasjon,
+
+[00:13:59] og da kan du risikere at du blir sittende i en value trap.
+
+[00:14:03] Så jeg er rett og slett veldig usikker i hvert hva som er riktig å gjøre her.
+
+[00:14:06] Vi liker energi generelt,
+
+[00:14:09] sånn sett er det vanskelig å være undervektet i sektoren.
+
+[00:14:13] For de fleste forvalterne er det ikke noe særlig enkelt
+
+[00:14:16] å være overvektet i Equinor,
+
+[00:14:17] så da må de finne noe annet å vekke seg opp i.
+
+[00:14:20] Og da er vår i hvert fall en av alternativene,
+
+[00:14:22] men jeg må innrømme at jeg synes ikke den er like overbevisende
+
+[00:14:25] som jeg trodde for en stund tilbake.
+
+[00:14:27] Jeg får bare ta med for åretens skyld at i Denby Market
+
+[00:14:31] så har Steffen, som er analytikeren,
+
+[00:14:33] som er på case en kjøpsombefaling og kursmål 46,
+
+[00:14:36] justerte det ned fra 48 her ganske nylig.
+
+[00:14:39] Men Knut, det er jo mange oljeaksjer å velge mellom.
+
+[00:14:43] Tror du ikke forvalterne dine og for så vidt andre forvalter
+
+[00:14:46] spør seg selv i disse dager om hvorfor all verden skal de ta vår,
+
+[00:14:50] når de kan ta noe annet som kanskje har mindre usikkerhet?
+
+[00:14:52] Ja, litt avhengig av hvilken forvalter du snakker med,
+
+[00:14:55] for innen Norge, som Paul sier,
+
+[00:14:58] så er det ikke så mye valg og mange aksjer å velge mellom.
+
+[00:15:02] Men enig i at den ser jo ganske billig ut nå,
+
+[00:15:05] og hvis du sammenligner med børsintroduksjonskursen,
+
+[00:15:10] som gitt at dollaren nå er mye sterkere,
+
+[00:15:14] og gassprisen er mye sterkere,
+
+[00:15:15] så er det klart den ser attraktiv ut,
+
+[00:15:17] men selvfølgelig også skuffet,
+
+[00:15:20] over den siste warning som kom her,
+
+[00:15:24] med tanke på capex og produksjonsproblemer,
+
+[00:15:26] og også tanke på den realiserte prisen som de har fått.
+
+[00:15:30] Men det er klart vi er også veldig positive til energisektoren
+
+[00:15:34] på globalt basis,
+
+[00:15:35] og der er det mye mer å velge mellom.
+
+[00:15:38] Så vi har en god overvekt innenfor energi,
+
+[00:15:41] og tror at priserne kommer til å holde seg høye i lang tid fremover.
+
+[00:15:45] Denne uken har Rikselskapet selv Drilling North Sea,
+
+[00:15:50] blitt notert på AeroNext Growth,
+
+[00:15:52] og offshore vindselskapet, eller service-selskapet Cadelier,
+
+[00:15:55] de har hentet penger i markedet.
+
+[00:15:57] En disclaimer her, det er at Dembe Markets var involvert i begge transaksjonene.
+
+[00:16:01] Men Paul, er det positivt at markedet for kapitalinnhenting
+
+[00:16:06] og børsintroduksjoner ikke er helt stengt?
+
+[00:16:09] Ja, det er absolutt positivt at det er muligheter,
+
+[00:16:12] men det viser at det er ikke hvem som helst som klarer
+
+[00:16:16] å hente penger i markedet nå.
+
+[00:16:17] Det er et selskap hvor ...
+
+[00:16:19] Du helst skal være i en bransje hvor det er litt optimisme,
+
+[00:16:24] og energi er en av de segmentene.
+
+[00:16:26] I tillegg er det nok viktig også at det er et selskap
+
+[00:16:30] som kan vise til litt solid kvalitet.
+
+[00:16:34] I Cadeliers tilfelle er det noe så sjeldent
+
+[00:16:36] som et grønt selskap som tjener penger.
+
+[00:16:39] Dette har vært noe som egentlig tenkte lenge,
+
+[00:16:43] at de har et nisjemarked her,
+
+[00:16:46] hvor det er relativt begrenset med konkurranse,
+
+[00:16:48] og antageligvis god plass til å øke kapasiteten der,
+
+[00:16:53] for det er klart mer etterspørsel enn det er tilbud,
+
+[00:16:56] så jeg tror det er et veldig spennende segment
+
+[00:16:58] som de er oppi.
+
+[00:17:00] Det gjør det mye lettere å hente penger,
+
+[00:17:03] heller enn et mer gjennomsnittlig selskap
+
+[00:17:07] hadde kanskje hatt det litt vanskelig
+
+[00:17:09] til å prøve å gjøre det samme.
+
+[00:17:11] Jeg får bare ta med at jeg hadde David Mullen,
+
+[00:17:14] som er sjefen i Shelf Drilling North Sea i studio,
+
+[00:17:18] tidligere denne uken i forbindelse med at de ble notert.
+
+[00:17:22] Han var temmelig bullish.
+
+[00:17:24] Hvis dere ønsker å se det intervjuet for å sette dere litt mer inn i caset,
+
+[00:17:29] så er det bare å logge inn i aksjensløsningen til DNB
+
+[00:17:32] og gå på videosiden der.
+
+[00:17:35] Andre sektorer, Knut.
+
+[00:17:37] Bank, det kan vi bruke litt tid på.
+
+[00:17:41] Hvis man tror på en mild resesjon,
+
+[00:17:43] så er vel bank litt interessant nå?
+
+[00:17:46] Absolutt. Vi mener at banksektoren nå priser inn
+
+[00:17:49] en resesjon.
+
+[00:17:51] Husk også at sektoren har vært igjennom utrolig mye
+
+[00:17:54] etter finanskrisen med både det regulatoriske
+
+[00:18:00] og å bygge opp kapital.
+
+[00:18:02] Vi liker det.
+
+[00:18:05] Sektoren har vært stresstestet utrolig mye i det siste.
+
+[00:18:09] Husk også at høyere renter er jo ekstremt positivt
+
+[00:18:13] for bankene, i alle fall til å begynne med.
+
+[00:18:15] De bygger jo opp en kursen her i forhold til
+
+[00:18:18] dersom man begynner å se økt mislihold.
+
+[00:18:21] Men vi tror det absolutt priser inn.
+
+[00:18:23] Så en spesiell dag i dag, det har jo både JP Morgan,
+
+[00:18:26] Citibank, Wells Fargo og Morgan Stanley som rapporterer.
+
+[00:18:30] Vi vet mye mer i ettermiddag, men vi synes sektoren
+
+[00:18:33] ser alt for billig ut akkurat nå.
+
+[00:18:36] Hva skal vi si, uroen som har vært rundt noen av
+
+[00:18:39] de europeiske bankene, Credit Suisse blant annet,
+
+[00:18:42] og ikke minst rundt dette med britiske pensjonskasser,
+
+[00:18:45] det blir mer for isolerte tilfeller.
+
+[00:18:47] Og ikke en showstopper i denne sammenhengen.
+
+[00:18:51] Ja, det vil jeg si.
+
+[00:18:53] Man vet aldri når man har så store endringer
+
+[00:18:56] som vi går igjennom akkurat nå.
+
+[00:18:58] For det sier det sånn, hvem som svømmer naken
+
+[00:19:00] når the tide water goes out, som man sier.
+
+[00:19:03] Men det er klart, vi synes sektoren ser mye bedre ut
+
+[00:19:08] enn den har gjort tidligere, og vi tror som sagt
+
+[00:19:12] mye negativt er allerede priset inn her.
+
+[00:19:15] Ja, så bare lyst til kort.
+
+[00:19:16] Kom innom laksesektoren, for jeg lagde en episode
+
+[00:19:21] om mulige konsekvenser og ringvirkninger av
+
+[00:19:24] grunneren til skatten, og hva det vil ha på verdiskapningen
+
+[00:19:28] både langs kysten og ikke minst sjømataksjene.
+
+[00:19:31] Det er liksom det som er tema for alle som
+
+[00:19:34] titter litt på sjømat om dagen.
+
+[00:19:36] Episoden ble lagt ut i dag, altså fredag 14. oktober,
+
+[00:19:40] og der hører du blant annet Sjur Mann fra Lerøy Seafood.
+
+[00:19:44] Så jeg er ikke flauere enn at jeg anbefaler alle dere,
+
+[00:19:46] å høre den, hvis dere kjære lytter, ikke har gjort det allerede.
+
+[00:19:50] Men jeg tenkte å høre med deg, Knut.
+
+[00:19:52] Har dere satt noen standpunkt på sjømat nå?
+
+[00:19:56] Er sektoren investerbar, eller er usikkerheten for stor?
+
+[00:19:59] Vi synes vel at det kan være litt dead money,
+
+[00:20:02] i alle fall i det korte bildet.
+
+[00:20:04] Men når det er sagt, så føler vi at veldig mye negativt
+
+[00:20:07] er priset inn, gitt den skattepakken som kom her.
+
+[00:20:11] Så vi tør ikke å være undervektet norsk laks,
+
+[00:20:14] men det er klart bakka for oss ser jo veldig spennende ut her,
+
+[00:20:18] gitt at vi har ikke noe eksponering mot Norge når det gjelder produksjon,
+
+[00:20:22] og den er ganske billig.
+
+[00:20:24] Og Movi også, som har vel 55% av ebit som kommer fra Norge,
+
+[00:20:28] resten fra utlandet, den synes vi også ser ganske billig ut her,
+
+[00:20:32] på en 11-12 ganger neste års inntjening.
+
+[00:20:35] Også om man går inn i nå en høysesong for laks.
+
+[00:20:40] Så absolutt ikke at vi tror det er dead money,
+
+[00:20:43] men kanskje selvfølgelig etter den skattepakken,
+
+[00:20:46] at det ikke er så spennende som det var før.
+
+[00:20:54] Ok, da får vi gå videre mer inn på det vi innledet med,
+
+[00:21:00] og hvis man tar en titt nå, så er 8 av 10 av verdens mest verdifulle selskaper
+
+[00:21:09] ned hittil i år, hvis man ser på S&P 500-indeksen.
+
+[00:21:14] Apple, Microsoft, Google, Amazon og Tesla,
+
+[00:21:16] de er alle ned i rangen 20-40%.
+
+[00:21:21] Så skal vi ikke glemme at, ser du for eksempel på treårsbasis,
+
+[00:21:24] så er de opp fra 30% til Tesla som er opp 1200% eller noe i den duren.
+
+[00:21:30] Så det skal vi ikke glemme.
+
+[00:21:32] Men vi har til og med deratt en del defensivaksjer,
+
+[00:21:34] sånn som McDonalds og Coca-Cola, de er ned 68% hittil i år.
+
+[00:21:38] Du nevnte Pepsi da, de er så vidt i pluss etter disse gode tallene.
+
+[00:21:42] Men uansett, S&P er ned i overkant av 20%,
+
+[00:21:45] Nasdaq 100 er ned i overkant av 30%,
+
+[00:21:48] og det vi er fram til er, som alle vet, at vi er i et bear market.
+
+[00:21:53] Knut, du har filosofert litt over hva slags type bear market vi er i,
+
+[00:21:58] så kan ikke du opplyse oss?
+
+[00:22:01] Nei, vi synes det er litt interessant å finne et rammeverk for hvor vi er.
+
+[00:22:06] En study vi likte var noe Goldman Sachs gjorde sammen med professor Robert Shiller ved Yale,
+
+[00:22:13] der de ser på, det var vel 28 ulike bear market i USA de siste 120 årene,
+
+[00:22:20] så vi har brukt mye historie her.
+
+[00:22:23] Men de fant at det var tre distinkte typer bear market,
+
+[00:22:27] avhengig av hvilke triggers som gjør at man går inn i det.
+
+[00:22:32] Det første er jo strukturelt bear market,
+
+[00:22:35] det er typisk drevet av strukturelle ubalanser og finansielle bobler.
+
+[00:22:39] Og der er jo typisk banksektoren involvert,
+
+[00:22:42] og i moderne tid så husker vi krasje i Japan på begynnelsen av 90-tallet,
+
+[00:22:47] vi hadde finanskrisen selvfølgelig 07-09.
+
+[00:22:51] Og det man så da, da faller markedet mest, det er det verste type bear market,
+
+[00:22:56] faller 50-60%, det tar ca. 3 år for å nå bunn,
+
+[00:23:01] og 56 år for å komme tilbake til utgangspunktet.
+
+[00:23:05] Den andre kategorien er såkalte sykliske bear markets,
+
+[00:23:09] og typisk drevet av høyere inflasjon,
+
+[00:23:12] og renter i slutten av en høy konjunktur,
+
+[00:23:15] som vi hadde på begynnelsen av 80- og 90-tallet.
+
+[00:23:18] Og da faller markedet i snitt 30%,
+
+[00:23:21] det tar 2 år for å nå bunn,
+
+[00:23:23] og ca. 4 år for å komme tilbake til utgangspunktet.
+
+[00:23:27] Og den tredje kategorien er hendelsesdrevne bear markets,
+
+[00:23:31] og det er typisk et eksternt sjokk,
+
+[00:23:33] det kan være krig, oljeprissjokk, pandemi.
+
+[00:23:37] Så typisk eksempel her, Black Monday 1987,
+
+[00:23:40] gjeldskrisen i fremvoksende markeder i 1998,
+
+[00:23:44] og selvfølgelig covid-pandemien i 2021.
+
+[00:23:47] Markedet da faller i snitt 30%,
+
+[00:23:49] det varer 69 måneder nå bunn,
+
+[00:23:52] og tar ca. 1 år for å komme tilbake.
+
+[00:23:54] Selvfølgelig, covid gikk enda fortere enn det,
+
+[00:23:57] både ned og opp.
+
+[00:23:59] Men når man tar utgangspunkt i det rammeverket her,
+
+[00:24:02] og skal man prøve da, hvor er vi nå?
+
+[00:24:04] Hva slags type bear market er vi inne i?
+
+[00:24:06] Vi tror vi er inne i et syklisk bear market.
+
+[00:24:08] Og hva får du ut av det?
+
+[00:24:10] Ja, og spørsmålet er da,
+
+[00:24:12] hva er det som skal til for at markedet skal bunne ut?
+
+[00:24:15] Og det man har sett historisk er,
+
+[00:24:17] det må være svært billig,
+
+[00:24:19] og vi tror ikke vi er der enda.
+
+[00:24:21] For eksempel, USA handler på snitter
+
+[00:24:24] de siste 20 årene, ca. 15,5 ganger earnings,
+
+[00:24:28] så det er ikke billig enda.
+
+[00:24:30] Ellendig sentiment, ja, der er vi nok.
+
+[00:24:33] Og svært negativ posisjonering,
+
+[00:24:35] der tror ikke vi er enda.
+
+[00:24:37] Og tredje argumentet er at nedgangen i økonomien avtar.
+
+[00:24:42] Vi tror heller ikke vi er der enda.
+
+[00:24:45] Og fjerde punktet er at både inflasjon og renten
+
+[00:24:49] har nådd toppen, og det kan man debattere.
+
+[00:24:52] Så konklusjonen her er vel at vi har nok litt igjen
+
+[00:24:56] før vi skal se at markedet bunner ut,
+
+[00:24:59] men vi har kommet et godt stykke på vei.
+
+[00:25:02] Det andre elementet jeg vil ta med er at
+
+[00:25:04] så langt har det vært primært en multiple kontraksjon,
+
+[00:25:06] mens inntjeningsestimatene,
+
+[00:25:09] i alle fall på konsensus selvsagt,
+
+[00:25:11] har jo enda ikke kommet ned så veldig mye.
+
+[00:25:14] Og i USA så tror man nå at S&P earnings skal opp 80%
+
+[00:25:18] når man ser på konsensus,
+
+[00:25:20] og det tror vi er litt realistisk gitt den innstrammingen
+
+[00:25:24] som vi er midt inne i.
+
+[00:25:26] Poul, gir dette her mening for deg?
+
+[00:25:28] Ja, jeg tror det virker egentlig veldig fornuftig,
+
+[00:25:31] alt det du sa der.
+
+[00:25:33] Og en sånn tanke for når ...
+
+[00:25:36] Vi snakker om det, akkurat den strukturelle delen der,
+
+[00:25:40] at jeg tror det også er viktig at vi kanskje tar med at
+
+[00:25:44] vi har jo egentlig hatt en periode nå hvor det har vært
+
+[00:25:47] nesten 40 år i strekken med fallende renter,
+
+[00:25:50] og at nå er vi kanskje inne i en periode hvor rentene,
+
+[00:25:54] tilsvarende da, behøver ikke å stige like mye som før,
+
+[00:25:57] men at du har en strukturell stigende rentetrend.
+
+[00:26:00] For ofte ser du tilbake på sånn type 150 år med historikk i renter,
+
+[00:26:04] så er det rentesyklene.
+
+[00:26:06] Ofte veldig lange da, du har 30 og 40 år i en retning,
+
+[00:26:09] og så snur det og går motsatt vei.
+
+[00:26:12] Sånn sett kan vi si at det kanskje er et strukturell element
+
+[00:26:15] inne i dette også, som man må gradvis ...
+
+[00:26:19] Bare bli vant til rett og slett at renten skal ikke ned
+
+[00:26:22] der det var tidligere, det heller kanskje bare trekke
+
+[00:26:25] sånn sakte, men sikkert opp nå over en lengre periode
+
+[00:26:28] som blir en viss brems på avkastningspotensialet.
+
+[00:26:32] Men la oss avslutte der vi startet da, Knut,
+
+[00:26:34] til tross for at vi ikke har tikket av alle disse elementene
+
+[00:26:39] som må på plass for at vi på en måte skal si at nå,
+
+[00:26:42] nå tror vi at vi har passert bunnen.
+
+[00:26:45] Hva er det som gjør deg sterk i troen da,
+
+[00:26:47] på at i løpet av de, si neste seks månedene da,
+
+[00:26:50] så vil vi, eller er det i hvert fall Åtten i favor
+
+[00:26:54] for at vi skraper bunnen for globale aksjer?
+
+[00:26:58] Nei, og så la oss si seks til tolv måneder da,
+
+[00:27:02] nå er vi kanskje 11 måneder inne i det bear marketet her,
+
+[00:27:06] men det er klart, det er jo en del andre ting som kan skje,
+
+[00:27:09] altså Kina har jo sin kongress som begynner nå neste uke,
+
+[00:27:13] det kan bli interessant, de må jo gjøre noen tiltak her
+
+[00:27:17] for å snu den negative trenden.
+
+[00:27:20] Vi har selvfølgelig krigen i Ukraina, utrolig vanskelig
+
+[00:27:23] å se noen løsning med det første, men you never know,
+
+[00:27:26] der kan det skje ting, og vi kan se kraftig fall i inflasjon,
+
+[00:27:31] det også vil være svært positivt for sentimentet om det skulle skje,
+
+[00:27:36] så det er en del trigger her som kan komme på plass,
+
+[00:27:40] men ellers så får vi jo være tålmodige,
+
+[00:27:43] men husk det er den beste tiden å kjøpe aksjer på,
+
+[00:27:47] på regnvernsdager, ikke når sola skinner,
+
+[00:27:50] så man skal absolutt tenke på aksjemarkedet her fremover,
+
+[00:27:54] og heller average in, som man sier.
+
+[00:27:58] Nei, jeg er så bekymret, jeg vet du,
+
+[00:28:00] påholde litt som Ludvig fra Flåklypa,
+
+[00:28:04] og det er jo ikke helt bra det heller å være for bekymret
+
+[00:28:07] når du holder på med aksjer, men det jeg har tenkt litt på da,
+
+[00:28:10] altså er det ikke en reell fare for at vi undervurderer risikoen i markedet nå,
+
+[00:28:15] altså vi fikk jo en sånn påminnelse om dette her
+
+[00:28:18] med det som skjedde med sjømat aksjene da,
+
+[00:28:21] altså i hvert fall jeg fikk en påminnelse om det, noen hadde jo skjønt dette her,
+
+[00:28:25] men altså hva om markedet undervurderer risikoen som ligger i den geopolitiske situasjonen,
+
+[00:28:30] som bare blir mer og mer anspent, bare som et eksempel?
+
+[00:28:34] Ja, det er jo vanskelig å vite om det er undervurdert eller ikke,
+
+[00:28:38] for det er jo ofte en tendens til at man nesten overvurderer sånne type risikofaktorer,
+
+[00:28:43] at når du tenker at hvor dramatisk kan det være,
+
+[00:28:47] som regel så er det kanskje ikke like ille som man tror,
+
+[00:28:50] men det er heller ikke like bra som man tror når det går i riktig vei.
+
+[00:28:53] Men når det er sagt, så fikk jeg en liten sånn påminnelse tidligere i uken
+
+[00:28:58] når det kom de nyhetene om at
+
+[00:29:00] plutselig så var det problemer på gassanlegg i Norge,
+
+[00:29:05] hvis det hadde vært en neste skritt etter at gasserørledningen ble bombet,
+
+[00:29:12] at da plutselig så er det en situasjon som kanskje er en risikofaktor som er litt undervurdert,
+
+[00:29:17] at du trenger ikke å sprenger mer enn to-tre rører i Nordsjøen,
+
+[00:29:21] så er plutselig hele situasjonen i Europa ikke akkurat snudd på hodet,
+
+[00:29:25] men ser i hvert fall veldig mye annerledes ut enn det gjør i dag.
+
+[00:29:28] Og hvis vi skal prøve å sette noe prosentrisiko på det,
+
+[00:29:32] så er det i hvert fall ikke null, kanskje ikke mer enn fem prosent eller ti prosent,
+
+[00:29:37] men hvis det først skulle skje, så tror jeg det er litt undervurdert i hvert fall den risikoen,
+
+[00:29:42] men jeg tror ikke man kan investere basert på å prøve å beregne sånne type odds,
+
+[00:29:47] for da blir det veldig, om du tror det er to prosent eller fire prosent,
+
+[00:29:50] så slår det ganske mye på svaret, og det er jo ingen som egentlig har mulighet til å vurdere.
+
+[00:29:55] Nei da.
+
+[00:29:57] Sånn som Knut, på en måte, som du er inne på,
+
+[00:30:00] altså går man ut av markedet, da er det veldig vanskelig å komme inn igjen,
+
+[00:30:04] for den timingen, den vet vi at den er det de færreste av oss som klarer.
+
+[00:30:08] Alright, jeg tror vi får sett et strek der for i dag.
+
+[00:30:14] Markedet er fortsatt åpent, det, så vi får vel bare komme oss tilbake på desken, alle mann,
+
+[00:30:19] før vi tar helge til hvert.
+
+[00:30:21] Da gjenstår det egentlig bare å si tusen takk for at dere var med begge to,
+
+[00:30:25] og sist, men ikke minst, tusen takk folkens.
+
+[00:30:28] Takk til alle dere som hørte på.

@@ -1,0 +1,1477 @@
+Episode 311: Temperaturmåling på grønne aksjer
+Publisert: Wed, 02 No
+Vert: Marius Brun Haugen
+Varighet: 40 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/temperaturmaling-pa-groenne-aksjer
+
+--- Transkripsjon ---
+
+[00:00:00] Velkommen til Utbytte, den B-podkasten der vi forklarer hva som skjer i den globale økonomien og finansmarkedene.
+
+[00:00:08] Jeg er Marius Brunhaugen, og i denne oppdateringen tar vi rett og slett en temperaturmåler på investeringsmulighetene i det grønne skiftet.
+
+[00:00:16] I en verden hvor energipriser går i været som følge av knappet og krig, så er det naturlig å spørre seg hva som vil skje med den videre utviklingen og utbyggingen av fornybar energi.
+
+[00:00:28] Kan det innebære at investeringer utsettes fordi det er lettere og billigere å fortsette med gamle energikilder?
+
+[00:00:36] Eller er det som nå skjer spesielt i Europa en trigger for at andelen fornybar energi raskt vil utgjøre en større del av energimiksen?
+
+[00:00:45] Dette her var blant temaene vi tok opp i et direkte sendt webinar som ble holdt tirsdag 1. november,
+
+[00:00:52] og det gjorde jeg sammen med forvalterne Christian Rom og Laura McTavish fra fondet DMB.
+
+[00:00:58] Miljø og invest.
+
+[00:01:00] Vi var også innom sektorer som sol, vann, vind og hydrogen og flere konkrete fornybar aksjer.
+
+[00:01:07] Og underveis fikk jeg også mange gode spørsmål fra de som fulgte webinaret som vi tok med i diskusjon.
+
+[00:01:13] Og opptaket fra seansen, det skal dere få høre nå.
+
+[00:01:17] God fornøyelse, og takk for at du hører på Utbytte.
+
+[00:01:27] Christian og Laura, dere har jo vært her i studio noen ganger nå, men jeg får jo si velkommen begge to.
+
+[00:01:34] Tusen takk, Marius.
+
+[00:01:35] Ja.
+
+[00:01:35] Så får vi prøve å finne ut om dette bear-markedet som vi er inne i på generell basis byr på muligheter for den laksiktige,
+
+[00:01:42] grønne investoren, og det gjør det vel, hva?
+
+[00:01:46] Men det skal vi diskutere rundt, og alle første i dag så skal dere innlede litt for oss.
+
+[00:01:52] Ja.
+
+[00:01:53] Så, DNB Miljøinvest, vi investerer i bærekraftige løsningsleverandører for et bedre miljø,
+
+[00:01:58] med et team på tre stykker med ulike erfaringer og bakgrunner.
+
+[00:02:02] Christian er fra finans, Stian fra ingeniørfaget kjøpemiljø,
+
+[00:02:05] og så har jeg fra bærekraft, som fyller hverandre veldig godt og har kommet med ulike perspektiver.
+
+[00:02:13] Og så har vi en veldig bred tolkning av miljøtema, bredere enn referansindeksen.
+
+[00:02:18] Vi ser på både de mest åpenbare grønne løsningene, for eksempel fornybar energi,
+
+[00:02:23] men også litt mindre åpenbare løsninger som vi finner langs verdikjeder, opp og ned verdikjedene,
+
+[00:02:29] og innenfor disse tre temene energi, ressurseffektivitet og elektrisering.
+
+[00:02:34] Så vi har investert i bærekraftige løsningsleverandører for et bedre miljø,
+
+[00:02:39] men i siste uke kom det en rapport fra FNs miljøprogram som hadde noe funn som gjør at vi må stille oss selv det spørsmålet
+
+[00:02:48] «Er 1,5-graders mål fortsatt oppnåelig?».
+
+[00:02:52] Fordi det rapporten fant var at med dagens klimapolitikk er vi faktisk på vei mot 2,4-2,8 grader med global oppvarming.
+
+[00:03:02] Konsekvensene av dette har vi allerede sett i år.
+
+[00:03:04] Det har jo vært flomm i Pakistan, Sør-Afrika og Nigeria.
+
+[00:03:08] Det har vært rekordtørke i amerikanske Vesten og Frankrike.
+
+[00:03:14] Og så har det også vært hetebølger i Europa og i Arktisk.
+
+[00:03:19] Og dette samt krig, energisikkerhet, økte mat- og energipriser, nedgang i økonomisk vekst,
+
+[00:03:28] det blir bakteppet til klimakonferansen som begynner om noen uker.
+
+[00:03:33] Så jeg har rett til disse.
+
+[00:03:34] Diskusjonene blir særdeles krevende.
+
+[00:03:37] Og noen fokusområder som vi kommer å følge tett med på diskusjonene rundt,
+
+[00:03:43] blir dette med «loss and damage».
+
+[00:03:45] Altså de landene som kjenner mest på klimaendringene,
+
+[00:03:49] de ønsker kompensasjon fra de rike landene som har forårsaket klimaendringene.
+
+[00:03:54] Og så blir det andre elementer at naturgass vil kanskje stå høyt på agendaen,
+
+[00:03:59] spesielt gitt betydningen den har for verdskontinentet.
+
+[00:04:03] Så afrikanske land.
+
+[00:04:04] Med petroliumsrikdom ønsker jo retten til å utvikle de,
+
+[00:04:08] spesielt nå når vi har en situasjon der Europa er ute etter nye leverandører fra stedet av Russland.
+
+[00:04:15] Så der kommer til.
+
+[00:04:16] Vi har ikke den muligheten å jobbe trinnvis lenger.
+
+[00:04:21] Det må skje ganske bratt.
+
+[00:04:22] Vi trenger en omveltning av samfunn og økonomi for oss å unngå klimakatastrofer.
+
+[00:04:28] Og dette vil kaste.
+
+[00:04:30] Det estimeres at det vil kaste mellom 2-6 billioner.
+
+[00:04:34] Under dollar per år, eller 2% av globale finansielle eiendeler, for å få dette til.
+
+[00:04:42] Men vi mener jo at det vil kaste enda mer å ikke gjøre noe.
+
+[00:04:46] Så vi som et artikkel 9-fond med bærekraftig investering som formål,
+
+[00:04:51] vi har underlagt rapporteringskrav som gjør at vi må bevise hvordan vi viser impact.
+
+[00:04:58] Og da er denne metrikken mulig unnatt utslipp veldig viktig for oss.
+
+[00:05:03] Så vi har jobbet sammen med konsulenten ISS-ESG de siste tre årene for å måle dette på porteføljen.
+
+[00:05:09] Og det vi ser er at selskapene i porteføljen underlater sannsynligvis mer utslipp enn de slipper ut.
+
+[00:05:17] Det fant vi igjen i år.
+
+[00:05:19] Og eneste forskjellen fra i fjor er at vi har nå målt dette mot to scenarier.
+
+[00:05:23] Tidligere kun IA Stebs, eller stated policy scenario, som ser på hvordan utslippsbanen vil utvikle seg til 2050.
+
+[00:05:32] Med dagens klimapolitikk.
+
+[00:05:34] Men i tillegg så har vi også sett på en net zero-scenario.
+
+[00:05:37] Så hvis vi klarer å levere på 1,5-graders mål, så ser vi samme resultat i begge scenarier som er veldig, veldig bra.
+
+[00:05:46] Og selv om fondene investerer i de selskapene som muliggjør utslippsbesparelser,
+
+[00:05:50] så viser jo dette som FNs miljøprogram kommer med at det er veldig viktig å gjøre et arbeid mot de utslippene som de selskapene har.
+
+[00:06:01] Så derfor er det veldig viktig å gjøre et arbeid mot de utslippene som de selskapene har. Så derfor er det veldig viktig å gjøre et arbeid mot de utslippene som de selskapene har.
+
+[00:06:02] Så derfor er det veldig viktig å gjøre et arbeid mot de utslippene som de selskapene har.
+
+[00:06:04] Og jobbe med å ha dialog med selskapene om sine science-based netto-null-utslippsplaner.
+
+[00:06:09] Og her var målet 80% av portføljen, om allerede ligger på 79%, så veldig nærme det målet som er veldig bra.
+
+[00:06:17] Så den bare kraftsrapporten vår kom i denne måneden, der skriver vi mer om denne analysen med mulige unnatte utslipp.
+
+[00:06:24] Og så får du også litt om investeringsprosessen og universet.
+
+[00:06:29] Og så kommer vi litt inn på denne problematikken rundt datametripp.
+
+[00:06:32] Bare å glede seg. Den kommer da i mailboksen eller ligger på våre nettsider i november.
+
+[00:06:38] Herlig, det ser vi frem til.
+
+[00:06:40] Og så tenkte jeg bare å nevne litt sånn mer det korte bildet.
+
+[00:06:43] Det har jo vært et rugglete marked og veldig volatilt siden egentlig vi fikk covid.
+
+[00:06:50] Og man fikk en grønn bølge etter det, ettersom man så på dette som en løsning videre for å komme seg ut av krisen og skape økonomisk vekst.
+
+[00:06:59] Og mye målsetninger ble satt.
+
+[00:07:01] Og så fikk man jo denne utviklingen og utfordringene med en sterk kostnadsutvikling i verdikjeder og også i logistikkostnader.
+
+[00:07:12] Og et ja, inflasjon som begynte å ta tak og renter som kommer opp.
+
+[00:07:16] Og som gjorde at det hele kulminerte i begynnelsen av 2021.
+
+[00:07:20] Og sektoren snudde ned og forventningene ble nedjustert.
+
+[00:07:25] Så som du nevnte innleggsvis så er man jo nå da i et bear market.
+
+[00:07:30] Med mer enn 20% fra topp.
+
+[00:07:32] Men ser man underliggende hva som har skjedd i denne perioden så vil vel vi si da at det har vært en veldig interessant og spennende utvikling for sektoren.
+
+[00:07:41] Og første biten av det er jo nettopp det som har skjedd på policy-siden.
+
+[00:07:46] Hvor det er både i Europa og nå nylig i USA kommet med klare støtteordninger for sektoren.
+
+[00:07:52] Og spesielt den i USA med ti års visibilitet på hva som kan bygges av fornybare prosjekter er veldig fordelaktig.
+
+[00:07:59] Og så vet vi at energisikkerhet som var en viktig del på en måte av narrativet for sektoren.
+
+[00:08:06] Hvis man ser ti år tilbake.
+
+[00:08:08] Men som kanskje har kommet litt i bakleksa.
+
+[00:08:11] Ettersom man har hatt nok av energikilder der ute.
+
+[00:08:15] Men som nå har blitt aktualisert igjen av Russlands innovasjon i Ukraina.
+
+[00:08:21] Som har ledet til en da energikrise i Europa.
+
+[00:08:24] Og som har gjort at man har sett strømpriser i Europa.
+
+[00:08:27] Som har gått ekstremt høyt.
+
+[00:08:30] Nå ser det ut som at vi klarer oss gjennom denne vinteren.
+
+[00:08:33] Og tiltakene for å redusere ettersprøssel hjelper.
+
+[00:08:37] Men fortsatt så har jo denne utviklingen i energipriser gjort det klart mer attraktivt på relativen.
+
+[00:08:44] Å bygge sol og vind.
+
+[00:08:46] Men som vi har sagt, vi har en bred tilnærming til miljøinvesteringer.
+
+[00:08:49] Som også innbærer at en viktig del av universet vårt relaterer seg til ressurseffektivitet.
+
+[00:08:55] Og det er nettopp det også.
+
+[00:08:57] Å spare på den energien vi har.
+
+[00:09:01] Bra.
+
+[00:09:02] Jeg kan jo åpne ballen.
+
+[00:09:03] Så Laura, du nevnte dette med at verden er på vei mot 2,5 graders global oppvarming.
+
+[00:09:08] Og den reduseringen til 1,5 grader virker å være langt unna.
+
+[00:09:12] I følge denne FN-rapporten som kom.
+
+[00:09:16] Hva legger dere til grunn?
+
+[00:09:18] Kommer politikerne bare til å fortsette å presse på for det grønne skiftet nå?
+
+[00:09:23] Full guffe.
+
+[00:09:24] Uavhengig av hva som skjer med inflasjon.
+
+[00:09:26] Potensielle nedgangstider og så videre.
+
+[00:09:29] Ja.
+
+[00:09:30] Så det vil vi si et klart ja på.
+
+[00:09:32] Og det man ser av prosjekter.
+
+[00:09:35] Ikke noe tegn til at de viker der?
+
+[00:09:38] Nei.
+
+[00:09:39] Men det har hatt en periode nå hvor det har vært en reset i forventningene.
+
+[00:09:43] For på en måte, hva som lå inne i utviklingsplanene til disse fornybare selskapene og til energiselskapene.
+
+[00:09:50] Var jo på noen helt andre prisnivåer enn det man ser nå etter krisen.
+
+[00:09:55] Så nå er det på en måte, det er høyere råvarekostnader.
+
+[00:10:00] Det er høyere renter.
+
+[00:10:01] Så du trenger på en måte en periode da hvor du må gå gjennom prosjekter på nytt.
+
+[00:10:05] Og rekalibrere modeller.
+
+[00:10:08] Og så er det jo andre ting.
+
+[00:10:09] Det tar jo lang tid å bygge disse prosjektene.
+
+[00:10:11] Så en viktigere del av det på kort sikt er jo da på en måte nettopp denne energieffektiviteten.
+
+[00:10:15] Og hva man kan gjøre på etterspørselsreduksjonssiden da.
+
+[00:10:19] Det er alltid mye politikk i energi.
+
+[00:10:21] Men akkurat nå føles det som det er ekstremt mye politikk.
+
+[00:10:24] Enten man snakker om olje og kull eller man snakker om vind og sol og det grønne.
+
+[00:10:31] Altså hvordan navigerer dere i dette her og skiller på en måte støy fra det som er viktig?
+
+[00:10:36] Med tanke på å gjøre de kloke investeringene.
+
+[00:10:39] Ja, så det er et veldig godt spørsmål og en ekstremt viktig del av det vi gjør.
+
+[00:10:44] Og det er jo helt enig med deg, usikkerheten har jo aldri vært høyere.
+
+[00:10:48] Men da tror jeg det er viktig å holde fast på og fokusere på arbeidsoppgaver.
+
+[00:10:53] Som toppidretter.
+
+[00:10:54] Og da går du tilbake til investeringsprosessen din.
+
+[00:10:57] Og det er nettopp det å gjøre disse dypdykkene ned i selskapene som vi elsker.
+
+[00:11:01] Og forstå forretningsmodellen.
+
+[00:11:03] Forstå konkurransefortrinnene.
+
+[00:11:05] Og forstå om dette er et selskap som faktisk kan skape aksjonærverdier over tid.
+
+[00:11:09] For så lenge som du er sikker på det investeringscaset.
+
+[00:11:13] Og det virker som at den bare forbedrer sin konkurranseposisjon.
+
+[00:11:17] Gjennom en periode nå med høy usikkerhet.
+
+[00:11:20] Så betyr jo det at du kan være sikker i troen på at de kommer til å komme ut.
+
+[00:11:23] De kommer til å komme ut av dette på den andre siden.
+
+[00:11:25] Bare enda bedre stilt.
+
+[00:11:27] Så det er vel det som er tilnærmingen vår.
+
+[00:11:29] Og dere nevnte jo dette med energisikkerhet.
+
+[00:11:33] Er det et tema som veier tungt og bare mest sannsynlig kommer til å veie enda tyngre.
+
+[00:11:39] Når dere investerer fremover.
+
+[00:11:41] Fordi det er så høyt oppe på agendaen generelt.
+
+[00:11:44] Ja, så energisikkerhet blir jo viktigere og viktigere her.
+
+[00:11:48] Og spesielt med bakteppe Kina vs. Russland også.
+
+[00:11:53] Så ser man jo at for eksempel i denne tiltakspakken i USA.
+
+[00:11:57] At det er jo veldig mye fokus på at man skal reshore verdikjeder.
+
+[00:12:03] Men det er klart at dette vil jo ha implikasjoner for inflasjon.
+
+[00:12:08] Og vil jo ikke være lett å gjøre.
+
+[00:12:10] Tenk noe på solsektoren for eksempel i vårt univers.
+
+[00:12:13] Så er det jo store deler som da er basert i Kina i dag.
+
+[00:12:18] Og det er jo selvfølgelig ikke noe som er flyttet over natten.
+
+[00:12:20] Så dette er jo ting man må da tenke på.
+
+[00:12:22] Og gjøre vurderinger rundt.
+
+[00:12:24] Men at det er en globaliseringstrend der ute.
+
+[00:12:27] Og at det er noe man må ta med seg og ha i bakhodet.
+
+[00:12:30] Når man gjør disse selskapsanalysene.
+
+[00:12:32] Det tror vi på.
+
+[00:12:34] Ja, det er jo bare å ta Europa som eksempel.
+
+[00:12:38] Altså hvor mange sånne batteriser eller fabrikker er det som er på tegnebrettet rundt om i Europa?
+
+[00:12:43] Er det ikke noe sånn 50 pluss bare for å dekke på en måte den ventede etterspørselen?
+
+[00:12:49] Ja, så det er enorme investeringer som skal til der.
+
+[00:12:51] Og så er det jo klart at for eksempel for en batterifabrikk så vil det jo også da du krever en del energi.
+
+[00:12:57] Som vil være en viktig del av produksjonskosten.
+
+[00:12:59] Og da må du jo stille deg spørsmål igjen.
+
+[00:13:01] Er det faktisk noe du kan ha i Europa?
+
+[00:13:05] Og konkurrere hvis du får 30% igjen av investeringskosten og betydelig lavere strømkostnader i et land som USA for eksempel.
+
+[00:13:13] Så det er ammoniak og grønn ammoniak innen kunstgjødsel.
+
+[00:13:18] Så med disse nye policyene.
+
+[00:13:20] Så er det helt klart mye ting å tenke på her.
+
+[00:13:22] I forhold til om alt dette på en ressurseffektiv måte.
+
+[00:13:27] Og på en økonomisk måte.
+
+[00:13:30] Hvor er det best å ha disse verdikjedene?
+
+[00:13:33] Ja.
+
+[00:13:34] Nei, siden jeg nevnte batterier bare som et eksempel.
+
+[00:13:38] Bare interessant å høre.
+
+[00:13:40] Vi vet jo at det er noen norske selskaper som prøver seg her.
+
+[00:13:44] Det er i hvert fall Trenavn som har liksom figurert en del der ute.
+
+[00:13:49] Med Freier som det ene som du kan handle på en måte i aksjemarkedet.
+
+[00:13:53] Men så er det jo mange rundt omkring i hele verden.
+
+[00:13:55] Er dette en del av spacet deres som er interessant?
+
+[00:14:01] Ja, det er en interessant del av spacet.
+
+[00:14:03] Siden du vet at det kommer mye vekst der.
+
+[00:14:05] Men så er det jo da så viktig å se på forretningsmodeller og hva som er konkurransebarriere.
+
+[00:14:13] Om de faktisk bringer noe unikt til Torx.
+
+[00:14:15] Og der sliter vi vel med flere av disse batteriselskapene.
+
+[00:14:18] At vi er redde for at det ikke er så mye unikt de har å konkurrere på.
+
+[00:14:22] Annet enn kostnad på kapitalen og tilgang til ressurser.
+
+[00:14:28] Så dette er en sektor vi er undervektig i PT.
+
+[00:14:32] Ikke fordi vi ikke liker vekstutsiktene.
+
+[00:14:35] Men det er egentlig gjennomgående for hele denne sektoren.
+
+[00:14:38] At det er veldig store og gode vekstmuligheter på topplinje.
+
+[00:14:41] Men det er bare de som faktisk har noen unike konkurransefortrinn og en unik forretningsmodell.
+
+[00:14:47] Med god ledelse som faktisk kan gjøre at du som aksjonær tjener på deg.
+
+[00:14:52] Så vi i batterisektoren i dag, vårt største eksponering er Elge Chemical.
+
+[00:14:57] Som er da nest største batteriprodusent etter Cattle i Kina.
+
+[00:15:02] Dette er sør-koreansk selskap.
+
+[00:15:04] Og som allerede har kommet langt i planene om å bygge ut sine fabrikker i USA.
+
+[00:15:08] Og i tillegg ligger langt fremme på alt av R&D i forhold til nye kjemikalieblandinger.
+
+[00:15:14] Som vi også vil trenge for å dekke opp.
+
+[00:15:16] I forhold til selskaper som, jeg kaller det transisjonscase.
+
+[00:15:22] Altså selskaper som gjerne kan bli stemplet som brune.
+
+[00:15:26] Ikke grønne per i dag.
+
+[00:15:28] Men så er de kanskje i en endring og vil gjøre en endring for å bli grønne.
+
+[00:15:33] Er det noe som dere kan investere i via fondet?
+
+[00:15:37] Eller faller det utenfor kategorisk?
+
+[00:15:39] Ja, det er en veldig viktig del av mulighetssiden.
+
+[00:15:43] Fordi dette er jo selskaper som ofte har, som for eksempel Enel.
+
+[00:15:47] Det er det største utvikler og utbygger av fornybar energi.
+
+[00:15:52] Men de har litt kulproduksjon ennå.
+
+[00:15:56] Men de har en veldig tydelig plan for å trappe ned.
+
+[00:15:59] Og så blir de en veldig viktig del av løsningen.
+
+[00:16:02] Så det å ekskludere det hadde kanskje ikke vært så heldig.
+
+[00:16:06] Og så kom det faktisk en rapport for noen uker siden som sa at dette selskapet.
+
+[00:16:11] Var faktisk det selskapet som har spart mest utslipp av alle i verden.
+
+[00:16:16] Så det viser at ved å ekskludere de så går du glipp av en veldig stor mulighet også.
+
+[00:16:21] Så det er absolutt noe som er investerbart.
+
+[00:16:24] Hvor setter dere grensen da på hva som er investerbart og ikke?
+
+[00:16:29] Er Equinor investerbart hvis de investerer i Skatec for å si det sånn?
+
+[00:16:34] Det er vel en avveining mellom hva som er grønt, hva som er mer sånn nøytralt kanskje.
+
+[00:16:39] Og det som er da rødt.
+
+[00:16:42] Og da er det jo også noen strenge eksklusjonskriterier som gjelder.
+
+[00:16:46] Men også en vurdering av timen av hva som er innenfor.
+
+[00:16:50] Og Equinor har da kommet for kort etter vår mening.
+
+[00:16:54] I sin transisjon.
+
+[00:16:57] Nei, jeg kan ikke dere investere per i dag.
+
+[00:17:00] Fordi det er jo en som lurer på hvordan dere vurderer Equinors satsing på vind og sol.
+
+[00:17:05] Men da lar vi den ligge.
+
+[00:17:07] Og så tar vi heller videre.
+
+[00:17:08] Så tar vi heller videre på neste spørsmål som har blitt sendt inn om sol.
+
+[00:17:12] En som lurer på om vi kan snakke litt om hvor i verdikjeden.
+
+[00:17:15] Hvordan vurderer dere de selskapene sånn som Otovo og Sunrun som er blitt nevnt som eksempler her?
+
+[00:17:22] Ja, så det er jo en del av solverdikkjeden som vi ser på som veldig interessant og spennende.
+
+[00:17:29] Og hvor vi på en måte har hatt et stort bett gående inn i året.
+
+[00:17:35] Og egentlig økt.
+
+[00:17:36] Ettersom man så hva mulighetene var fra denne Inflation Reduction Act som man fikk i USA.
+
+[00:17:41] Som betyr ti år med visibilitet på subsidier i USA.
+
+[00:17:46] Og Otovo respektivt for sitt lokale hjemmemarked som er Europa.
+
+[00:17:51] Når du da klart får disse høyere energiprisene.
+
+[00:17:54] Så begynner husholdningene å tenke på hvordan de kan spare og hvordan de kan utgjøre en forskjell.
+
+[00:17:59] Og da kommer jo soltak top of mind.
+
+[00:18:03] Så det synes vi er veldig interessant.
+
+[00:18:05] En veldig interessant del av solverdikkjeden.
+
+[00:18:08] Hvor du har en veldig sterk vekst.
+
+[00:18:10] På grunn av value proposition er så sterk nå som du har disse høye energiprisene.
+
+[00:18:17] Og så er det jo spennende også hva dette muliggjør i forhold til hvordan energi og elektrisitetsmarkedet vil se ut i fremtiden.
+
+[00:18:26] For dette gjør jo at du kan ta mange av disse dumme soltakene og faktisk få dem til å bli hustakene.
+
+[00:18:31] Og til å bli kraftverk.
+
+[00:18:33] Og i tillegg da med et batteri i kjelleren og med en elbil i garasjen.
+
+[00:18:38] Og digitale løsninger som gjør at disse kan snakke sammen.
+
+[00:18:42] Så har du veldig mye muligheter både til å produsere men også konsumere når dette er fordelaktig for kraftnettet.
+
+[00:18:49] Som kan se for seg at disse blir fremtidige serviceselskaper for elektrisitetsmarkedet.
+
+[00:18:55] Som vil være en stor omveltning i forhold til hvordan det er i dag med store sentrale kraftverk.
+
+[00:19:01] Så her skjer det mye.
+
+[00:19:02] Det kommer til å skje mye fremover.
+
+[00:19:05] Det har ikke tegnt seg noen bilder av hvem som blir vinnerne her, har det det?
+
+[00:19:11] Nei, det har det kanskje ikke.
+
+[00:19:14] Og så er det jo litt sånn når du ser på resten av verdisjen.
+
+[00:19:16] Hvem er det faktisk som sitter og kommer til å ende opp med å få de sterkeste marginene?
+
+[00:19:21] Og hvem har de sterkeste konkurransekreftene?
+
+[00:19:23] Ja, men ta et selskap som Otovo for eksempel.
+
+[00:19:25] Hvilke konkurransefortsinn har de på en måte foran konkurrentene sine?
+
+[00:19:28] De er en slags mellommann.
+
+[00:19:30] Ja.
+
+[00:19:31] De sier det er sitt konkurransefortsinn, er det ikke det?
+
+[00:19:33] Ja, og så er det jo det at de er markedsplassen fra andre bransjer.
+
+[00:19:37] Og hvis du ser at man klarer å ta en vinneposisjon som en digital markedsplass i en sektor.
+
+[00:19:43] Og dette er jo da et veldig stort marked.
+
+[00:19:45] Så over langen da, så vil det skape seg muligheter for å kapitalisere nettopp på det her.
+
+[00:19:50] Fordi at det bare er plass til en en markedsplass.
+
+[00:19:53] Men det er jo helt klart at man trenger fortsatt å få dykt videre topplinje der.
+
+[00:19:59] For å liksom, for å virkelig få se denne operational leverage da.
+
+[00:20:03] Og at marginer kommer opp.
+
+[00:20:04] Og det er jo klart at det at man nå legger til mye lagring.
+
+[00:20:07] Legger til muligheter for å selge elbilladere.
+
+[00:20:09] Også kanskje i forhold til varmepumper og andre muligheter som gjør at du kan få en større share of wallet da.
+
+[00:20:16] Hos kunden.
+
+[00:20:17] Og i tillegg også skape flere løsninger i forhold til hvordan dette snakkes sammen.
+
+[00:20:21] Flere som lurer på om dere kan dele litt tanker rundt atomkraft.
+
+[00:20:27] Det er jo ikke så rart med tanke på, hva skal vi si, energisituasjonen vi har i dag.
+
+[00:20:32] Og en ting er jo om det er investerbart og hva man eventuelt da ser på.
+
+[00:20:37] Men kan vi kanskje starte med å si litt om hvordan dere vurderer atomkraft.
+
+[00:20:42] Inni, hva skal vi mer si, den industrielle sammenhengen da.
+
+[00:20:46] Inni energimiksen og hva som må til for å klare å nå disse målene som vi har snakket om.
+
+[00:20:53] Jeg kan vel begynne med å si at.
+
+[00:20:55] Det er jo en diskusjon nå i EU om dette skal være regnet med som grønt.
+
+[00:21:00] Så det er jo en faktor.
+
+[00:21:01] Per i dag så har vi litt strenge eksklusjonskriterier som gjør at det må være under 5% av omsetningen.
+
+[00:21:09] Men kanskje den diskusjonen vil endre seg.
+
+[00:21:12] Så hvis EU stempler dette som grønt?
+
+[00:21:14] Ja, men en faktor er om de stempler det som grønt.
+
+[00:21:16] Og det andre om det faktisk vil kunne vurderes som grønt likevel.
+
+[00:21:20] For du må gjennom flere tester likevel.
+
+[00:21:22] Do no significant harm for eksempel.
+
+[00:21:24] Og så kan det være at det feiler på noen av de andre testene.
+
+[00:21:27] Så i praksis så kan det være at det likevel ikke vil være mye som kunne kalles grønt.
+
+[00:21:32] Men det er jo en interessant diskusjon.
+
+[00:21:34] Er det noen investeringsmuligheter da?
+
+[00:21:36] Altså er atomkraft investerbart for dere?
+
+[00:21:39] Ikke for oss PT som sagt.
+
+[00:21:41] Da må det skje noen endringer i ...
+
+[00:21:43] Hvis regelverket går i den favoriten.
+
+[00:21:46] Er det mange muligheter der da?
+
+[00:21:48] Da vil jeg si nei sånn til å begynne med.
+
+[00:21:50] Fordi sånn som det har vært på den eksisterende teknologien som har vært der på nuclear.
+
+[00:21:54] Så hvis det ikke allerede var et kjernekraftverk som var oppe å stå.
+
+[00:21:58] Så har det vært alt for dyrt på en måte å bygge et nyttet.
+
+[00:22:01] I forhold til de energiprisene du har.
+
+[00:22:04] Og det er klart at med de økte energiprisene nå så ser du større muligheter.
+
+[00:22:07] Og så ser man også på nye teknologier innen kjernekraft.
+
+[00:22:11] Som det er mer modulære, mindre løsninger.
+
+[00:22:14] Og så kan man også bruke avfall til å drifte disse kjernekraftverkene.
+
+[00:22:18] Så det er jo muligheter og ting som skjer der.
+
+[00:22:22] Det bør nok komme noen versjon 2 og versjon 3 på teknologi.
+
+[00:22:26] For at det virkelig skal ta av dette nysalget av nye kjernekraftverk.
+
+[00:22:31] Men til nå så har det vært ikke så interessant.
+
+[00:22:34] Siden det har vært så lite konkurransedyktig på pris i forhold til sol og vind.
+
+[00:22:38] Men vi er vel enige at sånn som Laura viser til å begynne med der.
+
+[00:22:41] Hvor dårlig vi ligger an i forhold til utslippsmålene.
+
+[00:22:44] Og i forhold til disse 1,5-gradersmålene som man sier at vi ikke kommer til å nå.
+
+[00:22:49] Så trenger vi jo alt vi kan få tak i.
+
+[00:22:51] Av energikilder som ikke slipper ut.
+
+[00:22:55] Men også lagring.
+
+[00:22:57] Og nå er jeg litt flåset der da.
+
+[00:22:59] For jeg kan ikke dette godt nok.
+
+[00:23:01] Men nå har det jo begynt å fyre opp igjen kraftverk her og der.
+
+[00:23:04] For eksempel i Europa der hvor man har muligheten til det da.
+
+[00:23:08] Men en utfordring hvis jeg har forstått det riktig.
+
+[00:23:10] For eksempel i Frankrike.
+
+[00:23:11] Det er jo at disse atomkraftverkene de er så gamle og skrøpelige da.
+
+[00:23:16] At det i seg selv er en stor utfordring.
+
+[00:23:20] Ja, det er en utfordring.
+
+[00:23:22] Så derfor trenger du nye investeringer i nye prosjekter.
+
+[00:23:27] Men fortsatt så er de såpass dyre at det er ikke bare bare å få igjennom det heller.
+
+[00:23:33] Så det er jo derfor man da ønsker å få noe ny teknologi på disse kraftverkene.
+
+[00:23:38] Som gjør at man kommer på et annet kostnadsnivå.
+
+[00:23:40] Og hvor du trenger ikke de samme sikkerhetsklareringene og godkjenningene.
+
+[00:23:45] For å faktisk kunne gå videre med utbyggingen av det.
+
+[00:23:47] Ja.
+
+[00:23:48] Det er en lett løsning på alle disse utfordringene selvfølgelig.
+
+[00:23:52] Men som dere også påpeker.
+
+[00:23:54] Derfor så kommer det til å komme masse vekstlommer og muligheter her.
+
+[00:24:00] Høyst sannsynlig.
+
+[00:24:01] Men vi tar oss videre av det jeg som påpeker.
+
+[00:24:03] Altså med vekst i disse markedene så kommer begrensninger på ressurser.
+
+[00:24:08] Altså materialer, arealer og så videre.
+
+[00:24:11] Jeg må lure på i hvilken grad tar dere med dette i vurderingen av vekstmuligheten.
+
+[00:24:16] Og bærekraftpotensialet.
+
+[00:24:17] Ikke sant?
+
+[00:24:19] Man setter jo et avtrykk med alle de tingene man legger inn.
+
+[00:24:24] For å få noe fornybart ut.
+
+[00:24:27] Ja, et element er jo de sosiale dimensjonene også.
+
+[00:24:30] Man vet at kobold kommer ofte fra Kongo.
+
+[00:24:33] Der er det utfordringer med barnearbeid for eksempel.
+
+[00:24:35] Så det er jo noe å tenke på.
+
+[00:24:37] Og så er det jo også utslipp.
+
+[00:24:39] At mange av de som utvinner sånne mineraler og materialer.
+
+[00:24:43] At det forbinder med høye utslipp.
+
+[00:24:46] Men det blir jo ikke en løsning å flytte tilbake i steinhulene våre.
+
+[00:24:51] Og skru av alle energien.
+
+[00:24:53] Du blir jo nødt til å investere.
+
+[00:24:56] Og derfor har vi også som tilnærming at vi kan se på hele verdikjeden.
+
+[00:24:59] Og også se på gruvebiten av det.
+
+[00:25:01] Men det er jo helt klart at når du ser på det vi kommer til å trenge.
+
+[00:25:04] For å gjennomføre dette skiftet.
+
+[00:25:06] Så er det jo flere materialer som blir utfordrende.
+
+[00:25:10] Men derfor er det på en måte som investor at du har et ekstra øye da.
+
+[00:25:14] For de som driver med resirkulering av disse materialene.
+
+[00:25:19] Og som har en value proposition da.
+
+[00:25:22] Som helt klart er mindre ressurskrevende.
+
+[00:25:25] Men åpenbart utfordrende.
+
+[00:25:27] Men så vil jeg også si at hva man har sett fra mange andre sektorer.
+
+[00:25:31] Er at når du får at pris er noe som er et veldig godt egnet virkemiddel.
+
+[00:25:39] For å stimulere teknologisk utvikling.
+
+[00:25:42] Og det har vi sett egentlig litt i batterisektoren også.
+
+[00:25:45] Hvor NMC var den blandingen av batterier man hadde til å begynne med.
+
+[00:25:49] På de første Teslanene man kjøpte.
+
+[00:25:51] Og nå hvor det har utviklet seg til LFP.
+
+[00:25:54] På grunn av at priser har kommet opp.
+
+[00:25:55] Og man ser på andre typer løsninger.
+
+[00:25:57] Og det tror jeg vi kommer til å fortsette.
+
+[00:25:59] Hvor det hele tiden på en måte.
+
+[00:26:01] At pris vil være en faktor.
+
+[00:26:03] Og som da vil stimulere nettopp innovasjon.
+
+[00:26:07] Som gjør at man hele tiden kan løfte den begrensningen.
+
+[00:26:11] Og begrensningshølen som man så på som satt.
+
+[00:26:14] At den kan løftes til et nytt nivå.
+
+[00:26:17] Det er flere som lurer på om vi kunne si litt mer om sol.
+
+[00:26:22] Kanskje litt tidligere i verdikjeden.
+
+[00:26:24] Jeg vet ikke om jeg gjør det passende å snakke litt om Skatek da.
+
+[00:26:28] For her er vel et sånt spørsmål som man går og funderer på.
+
+[00:26:32] Må de hente penger for å møte vekstambisjonene sine?
+
+[00:26:35] Eller må de redusere vekstambisjonene for å ha penger nok til å,
+
+[00:26:38] hva skal vi si, stå og løpe ut?
+
+[00:26:41] Hva tenker dere rundt det?
+
+[00:26:43] Skatek er jo da senere i verdikjeden, ikke sant?
+
+[00:26:45] Sånn som bygger og eier solkraft og noe vindkraft.
+
+[00:26:49] Og masse prosjekter i forskjellige steder.
+
+[00:26:51] Blant annet i en del fremovoksende markeder.
+
+[00:26:54] Klar eksponering mot fremovoksende markeder.
+
+[00:26:57] Hvor du vet har de mest skittende energimiksene.
+
+[00:27:00] Og hvor du faktisk kan gjøre mest for å kutte utslipp.
+
+[00:27:03] Ved å skifte til fornybart.
+
+[00:27:06] Og så er det jo klart at hvis de ønsker å levere på den veksten
+
+[00:27:09] de har sagt de skal levere på.
+
+[00:27:11] Så var de jo tydelig på denne kapitalmarkedstagen.
+
+[00:27:13] At da vil man jo også kreve noe kapital.
+
+[00:27:16] Så det vil man jo da trenge.
+
+[00:27:18] Men det vil jo da være en god ting.
+
+[00:27:20] Fordi det betyr at de har vekstmuligheter.
+
+[00:27:22] Som faktisk har en magin som det lar seg regne gjennom å gjøre det på.
+
+[00:27:27] Og der er det jo et stort eierandel.
+
+[00:27:30] Blant ledelse og styre.
+
+[00:27:33] Som gjør at vi er relativt sikre på at de kommer til å gjøre fornuftige veivalg.
+
+[00:27:38] Når det kommer til om et prosjekt faktisk,
+
+[00:27:41] vil det være lønnsomt å gå videre med.
+
+[00:27:44] Eller om man skal la det bli på tegnebrettet.
+
+[00:27:48] Det blir mye sol her.
+
+[00:27:49] Men vi får ta et siste da.
+
+[00:27:50] Altså vi snakket jo om tidligere i verdikjeden.
+
+[00:27:52] Så på en måte noen tanker rundt hvordan dere ser på den delen av det.
+
+[00:27:58] Altså de som produserer veifrepaneler etc.
+
+[00:28:03] Ja.
+
+[00:28:04] Rex Elysium var en vi var inne med her forrige gang vi var på.
+
+[00:28:06] En stund tilbake.
+
+[00:28:07] Vi er ikke aksjonærer der lenger.
+
+[00:28:09] Men det er jo en del av.
+
+[00:28:10] En del av verdikjeden som er interessant.
+
+[00:28:12] Nå har jo disse prisene kommet veldig mye ned.
+
+[00:28:14] Og det kommer opp mye kapasitet.
+
+[00:28:16] Så vi har vel kanskje troen på at det ruller litt over.
+
+[00:28:18] Men en annen del som vi synes er interessant er disse inverterne.
+
+[00:28:22] Det som gjør at du går fra vekselstrøm til likestrøm.
+
+[00:28:25] Og der er et selskap amerikansk som heter Enphase.
+
+[00:28:29] Som da lager disse inverterne da.
+
+[00:28:31] Som på en måte blir hjernen til solsystemet.
+
+[00:28:34] På disse systemene som O2O installerer.
+
+[00:28:36] Eller som en sønder den installerer.
+
+[00:28:38] Og ettersom vi snakket om da.
+
+[00:28:39] Om du får en elbillader.
+
+[00:28:41] Og du får en varmepumpe.
+
+[00:28:43] Kanskje styrer varmtvannstanken.
+
+[00:28:45] Batteri i kjelleren.
+
+[00:28:46] Så blir det veldig mye mer applikasjoner i hjemmet.
+
+[00:28:49] Som trenger å snakke sammen.
+
+[00:28:51] Og hvis man kan få dette til å snakke sammen på én plattform.
+
+[00:28:54] Så ville jo det vært veldig interessant.
+
+[00:28:56] Og veldig interessant for de som da eventuelt har denne plattformen.
+
+[00:28:59] Og det der er et selskap som Enphase da har en ledende posisjon.
+
+[00:29:04] Hydrogen da, Laura.
+
+[00:29:06] Er det gøy?
+
+[00:29:07] Ja, vi var jo besøkt.
+
+[00:29:09] Til noen hydrogen-selskaper i statene for noen uker siden.
+
+[00:29:12] Vi så blant annet Plug Power som er en stor posisjon i fannet.
+
+[00:29:17] Ble dere entusiastiske av å titte nærmere på det?
+
+[00:29:20] Nei, det spørsmålet her er vel egentlig.
+
+[00:29:22] En som sender inn som lurer på.
+
+[00:29:24] Hvordan ser dere på hydrogen-selskaper relativt til andre grønne energiselskaper?
+
+[00:29:30] Ja, så hydrogen er jo spennende.
+
+[00:29:32] Og det er jo fordi at det er på en måte en energibærer.
+
+[00:29:37] På en måte en måte å få disse forskjellige energisiloene til å snakke sammen.
+
+[00:29:43] Tenk for eksempel på tungtransport som er en vanskelig nøtt å knekke.
+
+[00:29:47] Fordi at batteriene blir veldig tunge.
+
+[00:29:49] Du mister mye av nyttelasten.
+
+[00:29:50] Og da, hvis man har overskuddsenergi.
+
+[00:29:53] Konverterer det til hydrogen.
+
+[00:29:54] Så kan det være en løsning.
+
+[00:29:56] Eller transporterer det som grønn abunjak fra Afrika.
+
+[00:29:59] Hvor du kan produsere billig strøm.
+
+[00:30:02] Hvor det er et prosjekt som for eksempel Skatex ser på.
+
+[00:30:04] Og tar det inn til Europa.
+
+[00:30:05] Som på en måte trenger å bygge ned den industrien.
+
+[00:30:08] Så det har helt klart en plass.
+
+[00:30:10] Men det er jo også ineffektivt.
+
+[00:30:11] Det er fremtiden, men det har ikke helt knukket koden enda på en eller annen måte?
+
+[00:30:14] Ja, for det er jo ineffektivt.
+
+[00:30:16] Ser du på hva som er effektiviteten når du tar fra elektrisitet til hydrogen.
+
+[00:30:22] Og tilbake til elektrisitet for eksempel.
+
+[00:30:24] Så er jo da på en måte du mister mye effektivitet i den reisen.
+
+[00:30:28] Som gjør at man må betydelig ned på kostnadene.
+
+[00:30:32] Eller man må produsere dette til en veldig lav strømpris.
+
+[00:30:35] For å regne det.
+
+[00:30:37] Og det er jo det som har vært litt utfordring.
+
+[00:30:39] Men så er det også litt sånn høne og egge der også.
+
+[00:30:41] At man trenger å skalere opp det her.
+
+[00:30:43] Fordi at når du får skala.
+
+[00:30:45] Så er det jo åpenbart at du får ned kostnadene veldig mye.
+
+[00:30:47] Og der er jo veldig tidlig.
+
+[00:30:49] Og der er jo kanskje 15 år tidligere ute enn hvor solen er i dag.
+
+[00:30:53] Og der har det jo vært veldig forløsende med denne boblen man hadde i grønt.
+
+[00:30:58] Og hvor mange av disse har fått inn mye kapital.
+
+[00:31:00] Hvor det investeres veldig mye kapasitet i dag.
+
+[00:31:02] Men hvor det fortsatt på en måte gjenstår.
+
+[00:31:04] Å se hvem som blir vinneren.
+
+[00:31:07] Med to strekker med svaret.
+
+[00:31:08] Og lønnsomheten på det.
+
+[00:31:09] Men her også.
+
+[00:31:10] Denne Inflation Reduction Act i USA.
+
+[00:31:13] Hvor du får 3 dollar per kilo.
+
+[00:31:15] For å produsere grønt hydrogen.
+
+[00:31:17] Er jo noe som massivt forbedrer økonomien på hydrogen.
+
+[00:31:20] Og som vil massivt akselerere veksten for hydrogen.
+
+[00:31:23] Så det er absolutt noe man bør se på.
+
+[00:31:26] Og følge med på.
+
+[00:31:27] Men vi har jo på en måte en undervekt.
+
+[00:31:29] I forhold til hva vi har i vår indeks da.
+
+[00:31:32] Av dette.
+
+[00:31:33] Og investeringer i Plugged Power.
+
+[00:31:35] Og Air Liquide i dag.
+
+[00:31:37] Av på en måte hele investeringsmulighetsområdet deres.
+
+[00:31:42] Hva er mest og minst rentesensitivt.
+
+[00:31:46] Som ting ser ut i dag.
+
+[00:31:48] Er det noen nyanser her?
+
+[00:31:50] Ja det er jo.
+
+[00:31:52] Men det er jo klart at renter er et viktig element.
+
+[00:31:54] Siden det er jo hovedandelen av kostnaden.
+
+[00:31:58] Til disse selskapene.
+
+[00:32:00] Eller disse solparkene og vindparkene.
+
+[00:32:02] Når prisen på penger blir dyrere.
+
+[00:32:04] Eller altså finansieringen blir dyrere.
+
+[00:32:07] Så skaper jo det selvfølgelig utfordringer da.
+
+[00:32:10] For en del av disse selskapene.
+
+[00:32:12] Men så skal vi huske på at alternativene også har blitt enda mer dyre.
+
+[00:32:15] Så gjennom denne energikrisenåten.
+
+[00:32:17] Så på relativen.
+
+[00:32:18] Så har jo på tross av de renteøkningene.
+
+[00:32:20] Så har jo da fornybart blitt på relativen mer attraktivt.
+
+[00:32:24] Men hvis vi skal trekke fram noen som er mindre rentesensitive.
+
+[00:32:27] For å svare på spørsmålet.
+
+[00:32:28] Så er det vel naturlig å trekke fram biofuel.
+
+[00:32:31] Som et alternativ.
+
+[00:32:33] Som da er på en måte dropp i en alternativ.
+
+[00:32:36] Både for flymaskiner og for lastebiler.
+
+[00:32:39] Og hvor da på en måte capexen er ikke så tung.
+
+[00:32:43] Og hvor du da allerede har mye kapasitet opp å stå.
+
+[00:32:46] Og hvor du kan investere i selskaper som har mye kapasitet opp å stå i dag.
+
+[00:32:50] Uten at på en måte all vekst ligger fremover i tid.
+
+[00:32:54] Her er Darling Ingridet.
+
+[00:32:56] Nå investerer jo dere i aksjer.
+
+[00:32:59] Men med tanke på renteøkning.
+
+[00:33:01] Og at de kommer opp.
+
+[00:33:02] Blir det sånn flere og flere tilfeller.
+
+[00:33:04] Hvor du tenker at Søren også skulle ønske hadde muligheten til å investere i obligasjonene.
+
+[00:33:09] Kanskje ta tid i stedet for.
+
+[00:33:11] Nei, det bruker vi ikke noe energi på.
+
+[00:33:13] Det er jo 90% av tiden vil jeg si vi bruker på denne dype selskapsanalysen.
+
+[00:33:17] Og det å forstå konkurransefortrinnene til disse selskapene.
+
+[00:33:21] Det er det som driver oss.
+
+[00:33:22] Og det er det vi synes er interessant.
+
+[00:33:24] Så er det oppløftende å se at prosjekter nå begynner å rulle igjen.
+
+[00:33:29] Og ser at man har fått kommet seg gjennom denne transaksjonen.
+
+[00:33:33] Vi må innom vind også.
+
+[00:33:35] For det har vi jo ikke snakket om.
+
+[00:33:37] Skjer det mye spennende i vind om dagen?
+
+[00:33:39] Ja, det må vi jo si.
+
+[00:33:41] Det er jo kanskje vært enda tøffere påvirket enn sol.
+
+[00:33:46] Spesielt fordi at man har veldig globale verdikjeder.
+
+[00:33:50] Dette er store turbiner.
+
+[00:33:52] Lange vindblader som du skal transportere.
+
+[00:33:54] Gjerne fra Kina eller langt med båt.
+
+[00:33:57] Og du trenger store kraner.
+
+[00:33:59] Det har jo vært det verst tenkelige scenariet du kunne få for disse selskapene.
+
+[00:34:03] Med disse økende råvareprisene.
+
+[00:34:06] Og utfordringene på logistikk.
+
+[00:34:08] Med frakterater som går en masse.
+
+[00:34:11] Og da også med dette rentenivået som kommer opp.
+
+[00:34:14] Som har gjort at det har fått en stor dislocation i markedet.
+
+[00:34:20] Og fått en sånn luftlomme som man trenger å jobbe seg gjennom.
+
+[00:34:24] Og som man da ser preget i dag i ordreboka til investasjonen.
+
+[00:34:29] Jeg mener du husker at forrige gang dere var her.
+
+[00:34:31] Så fortalte dere at trenden er at disse vindmølene.
+
+[00:34:35] Særlig kanskje de ute til havs.
+
+[00:34:37] Kanskje på landet og for alt jeg vet.
+
+[00:34:39] Blir jo bare større og større.
+
+[00:34:41] For de skal på en måte bli mer og mer effektive.
+
+[00:34:44] Bare fortsetter det?
+
+[00:34:46] Det bare fortsetter.
+
+[00:34:48] Og det snakkes jo til stadighet om større og større turbiner.
+
+[00:34:51] Så det er en trend som vil fortsette.
+
+[00:34:53] Og det er klart at det gjør jo lettere og lettere.
+
+[00:34:55] Eller gjør value proposition for offshore vind.
+
+[00:34:57] Veldig attraktivt.
+
+[00:35:00] For der har du masse plass.
+
+[00:35:02] Og det er enkelt å transportere det ut.
+
+[00:35:04] Enkelt å sette det opp.
+
+[00:35:06] Så om ti år kommer man til å trenge enda større båter.
+
+[00:35:09] For å frakte dette ut enn det man har i dag.
+
+[00:35:11] Ja om ikke ti år så kanskje 15 år da.
+
+[00:35:15] De båtene som er i dag for eksempel.
+
+[00:35:17] For en turbininstallasjonsbåt som Cadler er et selskap.
+
+[00:35:21] Som leverer løsninger til.
+
+[00:35:23] Så er jo disse da laget i dag.
+
+[00:35:25] For å tåle en effekt.
+
+[00:35:26] For å tåle en betydelig større turbin.
+
+[00:35:28] Og lengre vindblader enn det man har i dag.
+
+[00:35:31] Så det er jo et.
+
+[00:35:33] Ja.
+
+[00:35:34] Det man får så mye å gå på.
+
+[00:35:35] Men at det til slutt blir et resultat.
+
+[00:35:38] Og du må bygge ny tonasje på en større.
+
+[00:35:40] Det gir nok mening.
+
+[00:35:42] Men da vil du også ha større ettersprøsler.
+
+[00:35:44] Så du trenger mer kapasitet.
+
+[00:35:45] Og disse eksisterende vil jo da kunne gå.
+
+[00:35:47] Og gjøre mye av den services biten.
+
+[00:35:50] Som man trenger for å holde dem opp og gå.
+
+[00:35:52] Disse turbinene som bygges i dag.
+
+[00:35:54] Ja ja.
+
+[00:35:55] Og en veldig interessant ting der.
+
+[00:35:57] Er at for alle som kan olje.
+
+[00:35:59] Så har du oljeselskapene.
+
+[00:36:01] Og så har du leverandørnæringen.
+
+[00:36:03] Med rigg og seismikk.
+
+[00:36:05] Etcetera.
+
+[00:36:07] Der har man jo sett nå den siste tiden.
+
+[00:36:09] At styrkeforholdet har begynt.
+
+[00:36:11] Å flyte seg bittelitt i favør av leverandørnæringen.
+
+[00:36:14] Som har vært under press lenge riktig nok.
+
+[00:36:17] Men litt i retning av.
+
+[00:36:21] Favør av leverandørnæringen.
+
+[00:36:23] Ser dere noe av de samme tingene innen vind?
+
+[00:36:27] Altså hvordan vurderer dere styrkeforholdet der?
+
+[00:36:29] Mellom de som er kraftprodusentene.
+
+[00:36:31] Og de som leverer til dem?
+
+[00:36:33] Ja.
+
+[00:36:34] Så det her er for hvilket som helst sektor på en måte.
+
+[00:36:38] Og ettersom du går gjennom en sykel.
+
+[00:36:40] Så vil du typisk se at verdiskapningen.
+
+[00:36:43] Flytter seg litt i verdikjeden.
+
+[00:36:46] For vind samme som olje og gass.
+
+[00:36:48] Så ser du nå som et selskap som Candler.
+
+[00:36:50] Som da leverer disse tjenestene.
+
+[00:36:52] For offshore vind.
+
+[00:36:53] Er godt posisjonert.
+
+[00:36:55] Og hvor man ser økende kraftrater.
+
+[00:36:57] Og en økende inntening for disse selskapene.
+
+[00:36:59] Fordi det er på en måte store investeringer som trengs.
+
+[00:37:02] For å bygge disse båtene.
+
+[00:37:03] Og i tillegg så er det så mye som skal bygges her.
+
+[00:37:06] At den må økes betydelig.
+
+[00:37:08] Den kapasiteten til denne bransjen.
+
+[00:37:10] Så der er det på en måte et sted hvor man ser nå.
+
+[00:37:12] Hvor det er god inntening og godt momentum.
+
+[00:37:14] Hvis man ser på disse turbineleverandørene.
+
+[00:37:16] Som jeg snakket om sånn som Vestas.
+
+[00:37:18] Så er det nå en situasjon hvor det er veldig tøft.
+
+[00:37:21] Men så må man tenke at når man investerer i aksjer.
+
+[00:37:24] Så er det på en måte fremtiden.
+
+[00:37:26] Og hvordan fremtidsutsiktene vil endre seg.
+
+[00:37:29] Som man må tenke på.
+
+[00:37:31] Og der tror vi kanskje at.
+
+[00:37:33] Som for en Vestas nå.
+
+[00:37:35] At man på en måte er i nærheten av hvor ille det kan se ut.
+
+[00:37:39] Vår tilmeldte tid for i dag er i ferd med å gå ut.
+
+[00:37:43] Så vi får ta siste spørsmål som har kommet inn.
+
+[00:37:46] Vi synes det var fint.
+
+[00:37:48] Altså nå har vi snakket mye energi i dag.
+
+[00:37:50] Men det er jo ikke så rart da.
+
+[00:37:52] Med tanke på hva skal vi si.
+
+[00:37:53] Den situasjonen verden står i.
+
+[00:37:55] Og det skjer så mye her.
+
+[00:37:57] En som lurer på hvilken kraftform er den absolutt grønneste.
+
+[00:38:01] Ut fra deres mening.
+
+[00:38:03] Fra bygging til sluttproduktet er ute hos sluttkunden.
+
+[00:38:09] Har dere sett på det?
+
+[00:38:11] Ja for det blir jo på en livstidssykel analyse.
+
+[00:38:16] Det er jo interessante analyser å gjøre.
+
+[00:38:19] Men det gir kanskje ikke mening.
+
+[00:38:24] Jo da, det gir mening.
+
+[00:38:26] Men sånn som vi er.
+
+[00:38:27] Og det som situasjonen er.
+
+[00:38:29] Er at vi trenger alle mann på dekk.
+
+[00:38:31] Og løpe så fort vi kan.
+
+[00:38:33] Og det betyr at vi trenger så mye vindturbiner som vi kan bygge.
+
+[00:38:37] Over de neste 30 årene.
+
+[00:38:40] Og det samme gjelder sol.
+
+[00:38:43] Og ettersom du skalerer opp disse.
+
+[00:38:45] Så blir du nødt til.
+
+[00:38:47] Det er ikke alltid det blåser.
+
+[00:38:49] Det er ikke alltid solen skinner.
+
+[00:38:51] Og da vil dette skape mer variabilitet i strømnettet.
+
+[00:38:54] Og da trenger du type hydrogen.
+
+[00:38:56] For å komme inn der.
+
+[00:38:57] For å balansere det her.
+
+[00:38:58] Så vi ligger bakpå.
+
+[00:38:59] Vi trenger å skalere fortere.
+
+[00:39:01] Du kan bare skalere sol og vind så raskt som du kan.
+
+[00:39:03] Så derfor trenger du antageligvis nukleer som en del av mixen her også.
+
+[00:39:07] Og det du kan gjøre også på CO2 lagring.
+
+[00:39:11] Så vi er fortsatt der at vi må gjøre alt vi kan.
+
+[00:39:13] For i det hele tatt å komme i mål.
+
+[00:39:15] Og så får vi heller justere underveis.
+
+[00:39:17] Når vi ser hvordan vi kan komme fortest mulig i mål.
+
+[00:39:20] Det er en god konklusjon Marius.
+
+[00:39:23] Vi setter strek der.
+
+[00:39:25] Tusen takk for at dere var med i dag.
+
+[00:39:28] Og sist men ikke minst folkens.
+
+[00:39:30] Tusen takk til alle dere som hørte på.
+
+[00:40:02] Så skal vi komme inn i denne rådgivningen.
+
+[00:40:05] Nå går vi til kanalen.
+
+[00:40:07] E 400 betakelige doktorandverk.
+
+[00:40:10] Står dere påOOOOOO.
+
+[00:40:11] Bekjos dommer!
+
+[00:40:12] Bare where I go?!
+
+[00:40:13] Sunnrykk!
+
+[00:40:14] For er du redd på bBruh.no
+
+[00:40:15] bargripset.no
+
+[00:40:16] vallte utklippOUT.
+
+[00:40:17] hele tatt 14 minutter av disse ere,
+
+[00:40:19] også et av,-
+
+[00:40:20] Noen ting kom til.
+
+[00:40:21] Ta mine profits!
+
+[00:40:22] Så...
+
+[00:40:23] F ser hvordan dette ser ut.
+
+[00:40:24] F nr 2.
+
+[00:40:25] Det er!".
+
+[00:40:26] Det er jo altså en svære konstruksjon.
+
+[00:40:27] Kanskje dere hatt ouweb for at det var noe av det som var om meret.
+
+[00:40:28] Men når vi går mer på pr mayoritet.

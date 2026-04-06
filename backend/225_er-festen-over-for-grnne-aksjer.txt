@@ -1,0 +1,2032 @@
+Episode 225: Er festen over for grønne aksjer?
+Publisert: Sat, 09 Oc
+Vert: Marius Brun Haugen
+Gjest: Ole Andreas Krohn
+Varighet: 49 minutter
+Lytt her: https://play.acast.com/s/utbytte/erfestenoverforgronneaksjer-
+
+--- Transkripsjon ---
+
+[00:00:00] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer i den globale økonomien og finansmarkedene.
+
+[00:00:07] Jeg er Marius Brunhaugen fra DNB Markets, og i denne episoden skal det handle om grønne aksjer.
+
+[00:00:15] For etter en kruttsterk utvikling for de grønne aksjene i 2019 og 2020, så har 2021 hittil vært en betydelig mer variabel affære.
+
+[00:00:25] Hva skyldes dette her? Det grønne skiftet er jo ikke over.
+
+[00:00:30] Men dette som utgangspunkt inviterte vi til et direkte sendt webinar for DNB-kunder som ble holdt tirsdag 5. oktober.
+
+[00:00:37] Og nå skal du få høre opptaket fra seansen der Øyvind Fjell, som er forvalter av fondet DNB Grønt Norden,
+
+[00:00:44] sammen med mine kollegaer Ole Andreas Krohn og Paul Harper fra DNB Markets,
+
+[00:00:49] deler sine tanker rundt tema og svarer på spørsmål fra investorene.
+
+[00:00:53] Velkommen til DNB Markets og denne sendingen Tom Nakspill for grønne nordiske aksjer.
+
+[00:01:06] Er det på tide å gå hjem?
+
+[00:01:08] Etter en periode med fantastisk utvikling gjennom 2019 og 2020 for de grønne aksjene,
+
+[00:01:15] og også for mange av de andre ESG-relaterte aksjene, så har det vært litt motstand og buttet litt imot så langt i år.
+
+[00:01:22] Så i denne sendingen skal vi se litt på hvilke faktorer som har påvirket denne utviklingen,
+
+[00:01:27] hvilke mulige investeringers muligheter vi ser fremover,
+
+[00:01:31] og ikke minst fremtiden for aksjer innenfor sektoren med oss.
+
+[00:01:35] Til å navigere gjennom dette landskapet har vi Øyvind Fjell fra forvalter for DNB Grønt Norden,
+
+[00:01:43] og Paul Harper, aksjestrateg hos oss i DNB Markets.
+
+[00:01:48] Så minner vi om at det er fullt mulig å sende inn spørsmål underveis.
+
+[00:01:53] Vi svarer på spørsmål så langt vi rekker.
+
+[00:01:59] Først og fremst, det fondet du forvalter, DNB Grønt Norden, investerer i i dag, naturligvis, i Norden.
+
+[00:02:05] Dere har også et mer utdannet, det er ikke bare grønt, det er også et ESG-perspektiv i mandatet deres.
+
+[00:02:14] Er det noe som gjør at akkurat de nordiske markedene er spesielt attraktive for den type investeringer?
+
+[00:02:22] De nordiske markedene vil jeg argumentere for er attraktive uansett om du er grønn eller ikke,
+
+[00:02:28] men det er klart at vi er tidlig ute på teknologiadopsjon, vi er innovativ i Norden,
+
+[00:02:34] så jeg tror at tilfanget av grønne selskaper er veldig bra i Norden og kommer til å fortsette å være bra.
+
+[00:02:41] I tillegg er det jo sånn at kulturen i Norden er veldig bra på ESG og bærekraft.
+
+[00:02:47] Vi ser jo for eksempel i dag at selskapene i Norden har et veldig bra CO2-footprint sammenlignet med andre selskap,
+
+[00:02:56] som er naturlig å sammenligne seg med i Europa og USA.
+
+[00:03:00] Ytterligere ser vi at i fondet vårt,
+
+[00:03:04] så klarer vi å implementere det på en god måte,
+
+[00:03:09] gitt at vi har krav på både ESG-skåren til selskapene,
+
+[00:03:15] det vil si at vi måler hvor gode selskapene er på bærekraft,
+
+[00:03:19] og vi ser at vi kommer veldig høyt sammenlignet med andre områder,
+
+[00:03:24] og vi ser på CO2 igjen at utslippene er veldig attraktive i forhold til andre regioner.
+
+[00:03:31] Så det er en bra plattform å bygge på, sånn som jeg synes.
+
+[00:03:34] Kanskje det kan tas litt gjennom fondene og hvordan dere går frem?
+
+[00:03:40] Hvis jeg skal si litt om Grønt Norden og temaet grønne aksjer spesielt,
+
+[00:03:48] så er det klart at den transisjonen til et grønt samfunn fram til 2050
+
+[00:03:56] er den viktigste endringen vi kommer til å se i samfunnet vårt de neste 3-10 år.
+
+[00:04:04] Det er min påstand.
+
+[00:04:06] Vi kommer til å gå fra et samfunn som er fossilbasert, som har høye utslipp,
+
+[00:04:13] til et samfunn som har null utslipp.
+
+[00:04:16] Og det kommer til å kreve en hel del.
+
+[00:04:19] Vi trenger grønne selskap for å få til dette.
+
+[00:04:23] Grønne selskap bidrar på en positiv måte inn i den transisjonen med teknologi, produkt,
+
+[00:04:31] og hjelper til for at dette skal foregå på en positiv måte.
+
+[00:04:37] Så kan du si at vekstutsiktene er veldig gode.
+
+[00:04:42] Grønne aksjer har mulighet til å stå 30 år med sterk vekst foran seg.
+
+[00:04:47] Men er det ikke sånn at for grønne aksjer er alt helt lysegrønt?
+
+[00:04:51] Er det sånn at veien fremover er farefull?
+
+[00:04:54] Ja, definitivt.
+
+[00:04:56] Vil alle grønne aksjer slå indeks over tid?
+
+[00:04:59] Nei.
+
+[00:05:00] Er det en del luftslått blant de grønne aksjene?
+
+[00:05:02] Ja, det er det.
+
+[00:05:04] Så jeg tenkte å si litt om trusler og muligheter i dag.
+
+[00:05:08] Truslene er store, men jeg mener at mulighetene er større for grønne aksjer.
+
+[00:05:13] Hvis vi skal si litt om hvordan vi jobber med region Norden med grønne aksjer,
+
+[00:05:19] så kjenner jo de fleste til Norden vi er heldige i Grønt Norden som får lov å jobbe med Norden.
+
+[00:05:25] Det er en investeringsregjon som er unik i det at den er solid.
+
+[00:05:30] Vi er så liten at vi som forvaltere kan være aktive og kjenne alle selskapene,
+
+[00:05:35] og samtidig ikke for stor sånn at vi har kontrollen på alle selskapene.
+
+[00:05:40] Hvis vi ser på regionen fra et geografisk perspektiv,
+
+[00:05:43] så utfyller landene hverandre på en veldig god måte,
+
+[00:05:46] sånn at vi har nok byggestegner til at vi kan diversifisere på en god måte,
+
+[00:05:52] og ha nok aksjer i ulike sektorer og bransjer til en hver tid.
+
+[00:05:57] Sverige er jo lokomotivet i Norden.
+
+[00:05:59] Der finner vi spesielt en sterk og stor industrisektor,
+
+[00:06:03] i tillegg til mange hurtigvoksende teknologiselskap.
+
+[00:06:07] Vi har en sterk konsumsektor.
+
+[00:06:09] Vi har en finansbransje som er veldig solid.
+
+[00:06:12] De grønne selskapene i Sverige kommer jo i veldig stor grad fra nettopp industrisektoren,
+
+[00:06:17] og gode eksempel på det er jo Nibe for eksempel, Atlas Copco og ABB.
+
+[00:06:23] Ser vi til Danmark, så representerer jo Danmark mer stabiliteten i Norden.
+
+[00:06:28] Der ser vi en rekke veldig stabile og gode selskap innenfor spesielt helse,
+
+[00:06:34] men også innenfor handel og konsum.
+
+[00:06:38] De grønne selskapene i Norden, i Danmark finner vi innenfor vin spesielt,
+
+[00:06:44] der de har en lang legacy, der vi vet at for eksempel Vestas og Ørsted er gigantiske.
+
+[00:06:51] Norge representerer litt mer kryddere i en nordisk portefølje,
+
+[00:06:56] vi er gode på råvarer, vi er gode på oppdrett og fiskeri,
+
+[00:07:01] og vi har jo også en del faktisk ganske spennende grønne selskap etter hvert,
+
+[00:07:05] med kanskje solselskapene Skatek, Rekk, Nell, Tomra, Aker-selskapene i spissen.
+
+[00:07:15] Så har vi Finnland som er også et råvareintensivt land,
+
+[00:07:21] de har mye skog og stål, og vi ser spesielt at skogsektoren,
+
+[00:07:26] driver mye innovasjon, der de da bruker skogbaserte eller trebaserte råvarer,
+
+[00:07:32] til å drive fram nye produktgrupper som er spennende i fremtiden.
+
+[00:07:36] Så kan vi jo si litt om nordiske avkastningen.
+
+[00:07:40] Norden har jo gjort mye rett, vil jeg si.
+
+[00:07:44] Det er iallfall det avkastningen tyder på.
+
+[00:07:47] Sammenlignet med nordisk indeks med for eksempel Europa og verden,
+
+[00:07:51] så ser vi at de siste 20 årene, så har Norden levert fantastisk,
+
+[00:07:55] levert fantastisk avkastning mellom 2 og 3 prosentpoeng høyere avkastning
+
+[00:08:01] enn henholdsvis verden og Europa.
+
+[00:08:05] Og det betyr at Norden gir noe rett over tid.
+
+[00:08:09] Når jeg nevnte dette med bærekraft, det er vi ganske gode på.
+
+[00:08:12] Jeg tror vi er gode på for eksempel eierstyring også,
+
+[00:08:15] og det er varie konkurransefordeler, sånn som jeg ser det.
+
+[00:08:21] Hvis vi så ser på grønne aksjer,
+
+[00:08:23] Gålei sa det godt med grønne aksjer i et nordisk perspektiv,
+
+[00:08:28] så jeg begynte DNB i 2018, og jeg vil jo si det var liksom,
+
+[00:08:33] i 2019 tok grønne aksjer, begynte å ta av.
+
+[00:08:38] Vi begynte å se at performansen for grønne aksjer
+
+[00:08:42] jo var bedre enn for den bredere indeksen,
+
+[00:08:45] og vi begynte å se at fondstegningene tok seg opp.
+
+[00:08:49] Og det er jo trender vi har sett, ikke bare i Norden,
+
+[00:08:52] men på global basis.
+
+[00:08:54] Og faktisk så er jo tegningene inn i ESG og grønne mandat,
+
+[00:08:58] de har jo fortsatt å stige selv gjennom 2021.
+
+[00:09:02] Så hvis vi ser på reisen som grønne aksjer har hatt,
+
+[00:09:05] så er det klart at 2019 var bra, 2020 var fantastisk,
+
+[00:09:09] og det er klart at sentimentet der ble kanskje litt for bra på toppen.
+
+[00:09:15] Og 2021 har jo egentlig vært 2020 i reprise,
+
+[00:09:18] men med motsatt fortegn hittil.
+
+[00:09:21] Så trekker vi i linjer mellom de to årene,
+
+[00:09:24] så kanskje vi får et bedre bilde på hva underliggende verdiskaping
+
+[00:09:29] har vært i perioden da.
+
+[00:09:31] Så hvis du ser litt større på da, de siste tre årene,
+
+[00:09:35] så har jo da grønne aksjer hatt en fantastisk reise.
+
+[00:09:40] De har fortsatt gjort det bedre enn den bredere aksjeindeksen i perioden.
+
+[00:09:45] Men vi har jo også sett at rammevilkårene har blitt fantastisk mye bedre
+
+[00:09:49] for grønne aksjer.
+
+[00:09:50] Sånn at hvis vi tar en sånn betraktning med i bildet,
+
+[00:09:56] så vil jeg jo si at det er kanskje relativt attraktivt å kjøpe grønne aksjer her,
+
+[00:10:02] i og med at det tross alt har skjedd mye som ikke egentlig viser seg så godt i prisen i øyeblikket.
+
+[00:10:09] Så er det interessant å si litt om fremtiden også.
+
+[00:10:14] Hva skal vi forvente for å få grønne aksjer fremover?
+
+[00:10:16] Jeg tror vi kan i alle fall si at rammevilkårene som jeg var inne på,
+
+[00:10:20] er ekstremt attraktive.
+
+[00:10:22] Vi ser at regulatørene stadig kommer med nye og positive tiltak.
+
+[00:10:27] Jeg tenker på EU, jeg tenker på USA, jeg tenker på Kina for eksempel.
+
+[00:10:32] Alle setter jo nye miljømål, for eksempel.
+
+[00:10:35] Og det er jo ekstremt positivt.
+
+[00:10:39] Vi ser at selskapene ønsker å implementere grønne tiltak,
+
+[00:10:43] ønsker å kommittere seg til å bli grønne.
+
+[00:10:46] Vi ser at konsumentene går den veien.
+
+[00:10:48] Enten det er i valg av produkt, eller med stemmeseddelen i hånden.
+
+[00:10:54] Så for meg da, når jeg begynte i DNB, så var vel liksom spørsmålet litt sånn
+
+[00:10:59] det grønne skiftet, vil det skje eller vil det ikke skje?
+
+[00:11:04] Og der føler jeg vel at spørsmålet nå er ikke om det vil skje,
+
+[00:11:08] men heller hvordan vil det skje, og når vil det skje.
+
+[00:11:12] Og hvis vi skal prøve å lære litt av historien her, så er det jo fristende
+
+[00:11:17] å ta en parallell til utviklingen for tech-aksjer rundt årtusenskiftet.
+
+[00:11:24] Der så vi jo en lignende oppgang, etterfylt av en kraftig nedgang,
+
+[00:11:30] konsolidering, før en til slutt realiserte potensiale som fantes i teknologi.
+
+[00:11:36] Og for grønne aksjer da, så er det klart vi har hatt en oppgang,
+
+[00:11:40] vi har hatt en liten nedgang.
+
+[00:11:42] Og det er kanskje naturlig å tenke seg at det tar litt tid før vi nettopp ser potensialet.
+
+[00:11:47] Og at det blir fullført til slutt.
+
+[00:11:50] Men jeg føler meg mer og mer sikker på at potensialet vil bli realisert på grønne aksjer.
+
+[00:11:56] Og så er det klart, det er ikke sånn at hver dag i uken kommer data til å bli reflektert i aksjekursene.
+
+[00:12:02] Men vi har jo godt bevist, bare her på huset, i DNB teknologi,
+
+[00:12:07] at det kan jo være fruktbart å plukke aksjer i et miljø der en har en 20 år lang veksthistorie foran seg.
+
+[00:12:15] Så jeg ser positivt på bakteppet for grønne aksjer.
+
+[00:12:21] Jeg tror at vi er i år tre av en 30 år lang reise.
+
+[00:12:25] Jeg tror at truslene er der, ja.
+
+[00:12:28] Men mulighetene er faktisk enda større.
+
+[00:12:33] Så det var min lille innledning, egentlig.
+
+[00:12:36] Ok.
+
+[00:12:38] Paul, noen spørsmål for meg, umiddelbart?
+
+[00:12:41] Jeg synes egentlig den siste grafen der var ganske interessant.
+
+[00:12:44] Og hvis du ser tilbake til tech-boblen.
+
+[00:12:46] Hva tror du var kjennetegnet til hvilke tech-selskap som overlevde og klarte å være med hele den reisen?
+
+[00:12:54] Og hva var forskjellen med de og pets.com som bare forsvant på vei ned?
+
+[00:12:59] Det er selvfølgelig 10 000 kroners spørsmål her.
+
+[00:13:03] Men det er jo klart at for en del av det grønne skiftet, så ligger jo kanskje usikkerheten enda lenger fram i tid.
+
+[00:13:13] Eller veksthistorien ligger lenger fram i tid.
+
+[00:13:16] Og vi er mer usikre på hvordan industristrukturen vil se ut i mange tilfeller.
+
+[00:13:23] Jeg tenker hydrogen er jo et greit eksempel på det. Potensialet er fantastisk.
+
+[00:13:28] Vi er usikre på hvor mange spillere som vil være der. Vil kineserne komme?
+
+[00:13:32] Hvilken forretningsmodell har du egentlig?
+
+[00:13:35] Tjener selskapene penger?
+
+[00:13:37] Nei, ikke egentlig.
+
+[00:13:39] Så vi vet at potensialet er der, men vi vet ikke nøyaktig når det vil inntreffe.
+
+[00:13:43] Og samtidig hvilken markedsandel vi vil ha framover for eksempel er vanskelig å regne på.
+
+[00:13:49] Og da tenker jeg liksom, ikke nødvendigvis at det er der du i første omgang skal være.
+
+[00:13:55] Men jeg tenker gjerne sånn at kan vi få avkastning i noe som er priset fornuftig?
+
+[00:14:03] La oss si en aksje som Vestas som ofte har vært investert i.
+
+[00:14:07] Det har vi en aksje som liksom tjener penger i dag i et marked som er ferdig konsolidert.
+
+[00:14:12] Vinnmarkedet skal vokse dramatisk de neste 10 årene, både offshore og onshore.
+
+[00:14:19] Og Vestas har jo en forretningsmodell som er attraktiv med serviceinntekter som gjør at de har en veldig fin stabilitet i businessen underliggende.
+
+[00:14:29] Og så er det klart at du kan argumentere for at Vestas er dyr eller billig i periodene, men det går i hvert fall ikke av de skoene.
+
+[00:14:36] Så jeg tror liksom, det er jo litt min måte å forvalte på.
+
+[00:14:40] Det er jo liksom basert på en måte å se på og følge vinnerne, men bare de vinnerne der vi ser at det er det fundamentale støttet.
+
+[00:14:49] Og da tror jeg liksom det viktigste på lang sikt er å unngå de store tapene, de som faller med 80-90%.
+
+[00:14:57] Så da blir det liksom litt min tilnærming, og da tror jeg en hensiktsmessig tilnærming her.
+
+[00:15:04] Treffen på en måte rett med at det grønne skiftet vil inntreffe.
+
+[00:15:09] Så tror jeg det vil bli et bra resultat mer eller mindre uansett.
+
+[00:15:13] Og så kan den heller vente med de høyrisikoselskapene til en ser at kanskje potensialet blir realisert, og at det faktisk skjer.
+
+[00:15:22] Da har den kanskje gitt fra seg mange hundre prosent, men den har unngått å ta på aksjene.
+
+[00:15:28] Så du satser egentlig på de som er litt mer modne, kan du si, og har litt mer etablert businessmodell, fremfor de som er mer sånn start-up situasjon?
+
+[00:15:37] Ja.
+
+[00:15:38] Det er grunnregelen.
+
+[00:15:40] Og så har jeg tenkt at vi har rom for å ta litt teknologirisiko.
+
+[00:15:44] At de kanskje har fem prosent av porteføljen i et selskap som har en risiko på om de faktisk klarer å levere det de sier,
+
+[00:15:54] og der markedet ikke kanskje fullt ut har adoptert løsningen deres.
+
+[00:15:59] Så i den sekken de siste par årene har vi jo hatt selskap som for eksempel Quantum Fuel eller Atlantic Sapphire.
+
+[00:16:06] I dag har vi ingen av de, men vi har for eksempel et selskap som heter Spinova som da lager tekstiler basert på trefiber.
+
+[00:16:14] En produksjonsmetode som da sparer miljøet for kjemikalier og for masse, masse vannforbruk rundt bomullsproduksjon for eksempel.
+
+[00:16:26] Og det er et selskap som har et skyhøyt potensiale.
+
+[00:16:29] Og så er det jo klart at det enda ikke da er produktet i massiv skala til salgs.
+
+[00:16:35] Berghans bruker det enkelt av sine anorakker for eksempel.
+
+[00:16:39] Men vi har masse usikkerhet knyttet til potensialet i selskapet.
+
+[00:16:45] Så det er den type ting vi prøver å gjøre.
+
+[00:16:48] Hvis vi skal ta i noe med stor risiko, så må det være et stort potensiale.
+
+[00:16:52] Og helst skal vi egentlig vente på til ting blir mer mode da.
+
+[00:16:57] Men med litt grann rom for risiko, da føler jeg at vi har mandat til å ta det.
+
+[00:17:03] Hvor mye tid bruker du på å se på balansen til selskapet, fremfor omsetningspotensialet?
+
+[00:17:09] Jeg vil jo si at i den tidlige fasen, så er det jo klart at balansen vil jo sjelden være ekstremt sterk.
+
+[00:17:24] Du henter inn kapital, og den skal kanskje drive deg ett, to, tre år.
+
+[00:17:30] Eller kanskje mer enn ett år, men to, tre, fire år framover.
+
+[00:17:33] Og så må du eksekvere på den planen du har lagt.
+
+[00:17:36] Og hvis du klarer da, så får du hentet ny kapital på kanskje en høyere kurs.
+
+[00:17:40] Hvis du ikke klarer da, så er det jo problematisk med mer kapital.
+
+[00:17:45] Så igjen da, måten vi hensyn tar da, er jo å ha lite.
+
+[00:17:50] Hvis det er stor balans i risiko, så er det jo da, måten vi hensyn tar på er jo å ha mindre vekting på de posisjonene.
+
+[00:17:59] Og liksom, hvis det er en vekst aksje.
+
+[00:18:01] Hvis det er en vekst aksje, så er det jo da, måten vi hensyn tar da, er jo å ha mindre vekting på de posisjonene.
+
+[00:18:02] mest aksje, så er det den P&L-en som er mest interessant.
+
+[00:18:05] Det blir oppsida mot nedsida.
+
+[00:18:08] Hvis du virkelig skal ha en rakett, så er det oppsida du skal være opptatt av.
+
+[00:18:12] Men det er klart, i en portefølje som for vår, så må vi ha et balansert syn.
+
+[00:18:16] For de større grønne selskapene er ikke balansen noe særlig tema.
+
+[00:18:23] Det som er positivt for grønne aksjer generelt sett nå,
+
+[00:18:25] er at tilgangen på finansiering er ekstremt god,
+
+[00:18:29] både i aksjemarkedet, men også at for eksempel banker ønsker å tilby grønn finansiering.
+
+[00:18:36] Så det er ikke veldig mye fokus på balanse i de fleste selskapene,
+
+[00:18:44] men det er klart at selskap som går dårlig, eller bare helt middels,
+
+[00:18:48] og gjerne er tidlig fase, der har du den risikoen etter hvert.
+
+[00:18:52] Og der skal en jo være veldig klar over.
+
+[00:18:55] Og jeg nevnte Atlantic Sapphire, der ser en jo hva markedet spekulerer i,
+
+[00:18:59] dersom det ikke er så mye.
+
+[00:18:59] Hva er det som ikke lykkes med teknologi-rollouten sin?
+
+[00:19:03] Og det er jo selvfølgelig at det skal komme en emisjon som kommer på lave kurser.
+
+[00:19:07] Så etter hvert jeg dominerer alt for mye med spørsmål,
+
+[00:19:10] da er det bare ett til til deg.
+
+[00:19:11] Du nevnte det at en av de viktigste tingene når du ser på avkastning over tid,
+
+[00:19:16] er nettopp det å unngå de store fallene.
+
+[00:19:19] Hvis du da er så uheldig at du kommer i et eller annet som ikke fungerer,
+
+[00:19:23] hvordan er det du tar den beslutningen av
+
+[00:19:25] nå har det gått for langt, nå skal jeg hive det ut?
+
+[00:19:27] Har du noen slags stopp-loss-logikk?
+
+[00:19:29] Er det noe annet som du bruker når du skal ta den beslutningen?
+
+[00:19:34] Så investeringsfilosofien vår er jo strengt at vi skal prøve å ikke være i aksjer
+
+[00:19:39] som er over ti underperformet.
+
+[00:19:41] Så det er liksom rise bak speilet.
+
+[00:19:43] Vi kan ikke eie aksjer som er over mange kvartaler eller år
+
+[00:19:49] ikke performet i porteføljen.
+
+[00:19:50] Da skal vi heller eie noe som går bedre.
+
+[00:19:53] Så det er klart at hvis du havner i en situasjon der en aksje faller ganske brutalt,
+
+[00:20:00] og en forsåvidt kanskje har fortsatt å ha tro på selskapet,
+
+[00:20:04] så må du gjøre en trade-off.
+
+[00:20:07] Sånn som Skategg for oss er kanskje et eksempel på en sånn aksje som har falt mye gjennom året.
+
+[00:20:14] Der er det en blanding av hvortid du føler at aksjen reflekterer det fundamentale,
+
+[00:20:20] og hvortid du føler at det finnes fundamentale ting som ikke er reflektert i kursen,
+
+[00:20:26] positivt og negativt.
+
+[00:20:28] Så det blir litt svaret på.
+
+[00:20:30] Det er aldri noe fasit egentlig.
+
+[00:20:32] Men smertefullt å selge av tapere, det er det jo for oss alle.
+
+[00:20:36] Så derfor har du kanskje ønsket å bruke ekstra mye tid på å være god på det.
+
+[00:20:40] Og jeg tenker at som oftest, hvis du har en sånn kreftsvulst i porteføljen som har vokst litt stor,
+
+[00:20:47] så tar den ikke bare plass i porteføljen med underperformance, men den tar også mye plass her oppe.
+
+[00:20:52] Og som forvalter er det egentlig viktig å kjøpe seg litt frihet og rom for å tenke på nye ideer.
+
+[00:20:59] Og da velger jeg egentlig heller å selge de aksjene enn å for eksempel kjøpe mer eller ikke gjøre noe.
+
+[00:21:07] Og du kan jo alltid kjøpe det tilbake igjen hvis det begynner å funke.
+
+[00:21:10] Ja, det er vel da alle sier til seg selv når en selger det de tar på.
+
+[00:21:16] Du var innom Vestas og så på porteføljen og fondet.
+
+[00:21:22] Du hadde en større andel i Bonnør og Ørsted enn i Vestas, så du til.
+
+[00:21:27] Ja.
+
+[00:21:28] Hvilke vurderinger gjør det?
+
+[00:21:30] En ting er å satse på en sektor, vind eller sol eller bølgekraft,
+
+[00:21:36] men hvor man plasserer seg i verdikjeden innenfor de forskjellige områdene.
+
+[00:21:42] Ja, det er jo veldig interessant og det kan jo variere i veldig stor grad hvor det er attraktivt å være i en verdikjede
+
+[00:21:50] og hvor det er mindre attraktivt.
+
+[00:21:52] Vestas er jo litt forskjellig fra hvis vi tenker de tre selskapene,
+
+[00:21:56] så er jo Bonnør og Bonnør er jo egentlig et konglomerat,
+
+[00:22:00] men i prinsippet så er de vel også liksom en eier og utvikler av vindparker
+
+[00:22:04] i tillegg til at de har en installasjonsbusiness for å få vind offshore.
+
+[00:22:09] Mens Ørsted er jo en eier og utvikler av vindparker,
+
+[00:22:13] så de bygger vindparkene, eier de og får inntekter når vindparkene produserer strøm.
+
+[00:22:20] Mens Vestas da, de leverer jo da selve vindturbinerne
+
+[00:22:24] og leverer service på de vindturbinerne som står og produserer.
+
+[00:22:29] Så litt forskjellig dynamikk der.
+
+[00:22:32] Du kan si at de som produserer er kanskje mer stabile og har en mer obligasjonslignende inntekt,
+
+[00:22:41] hvis det lover seg da, det er jo ofte i kraftsektoren.
+
+[00:22:44] Mens Vestas er jo et industriselskap som har litt større sykler iallfall, stort sett da.
+
+[00:22:52] Og der inntekten sin jo er mer syklisk.
+
+[00:22:56] For Vestas en del så har vi jo vært store fans lenge.
+
+[00:23:00] Men det er klart, det er begynnelsen av året så gjorde jo aksjene, de grønne aksjene da, veldig dårlig.
+
+[00:23:06] Vi tok ned Vestas fordi vi trodde at vi kom til å se et press på råvarer.
+
+[00:23:11] Stålprisen spesielt er viktig for Vestas.
+
+[00:23:14] Og vi så utfordringer til logistikk, knyttet til logistikk som vi følte ikke var reflektert i aksjekursene.
+
+[00:23:22] Og utfordringen for Vestas er at det er et veldig høyt etterspørsel etter vind, vindturbiner i øyeblikket.
+
+[00:23:31] Samtidig som man da har vanskelig for å få fram komponenter.
+
+[00:23:36] Og klarer ikke Vestas å levere prosjektet i tide, så kan det jo da få en bot fra kunden da.
+
+[00:23:42] Og den risikoen følte vi kanskje var ekstra høy og ikke reflektert i kursen tidligere i år.
+
+[00:23:47] Også ser vi vel egentlig at det her er i større grad reflektert i øyeblikket.
+
+[00:23:51] Så nå er vel da mer noe som plager hele markedet.
+
+[00:23:55] Det her med logistikk og råvarer.
+
+[00:23:57] Og for så vidt godt kjent i Vestas kursen, så jeg føler den er litt mer, litt nærmere et kjøp igjen fra vår side da.
+
+[00:24:05] Men har de jo fortsatt Bonnør og Ørsted, eller Ørsted vel som er den største posten?
+
+[00:24:12] Ja, så Bonnør er litt mindre enn Ørsted.
+
+[00:24:16] De to selskapene er jo litt forskjellige.
+
+[00:24:18] Ørsted er et av de største selskapene.
+
+[00:24:20] De grønne selskapene i Norden.
+
+[00:24:23] Og det kommer for alltid til å være en mastodont, tror jeg, som egentlig er grei å eie.
+
+[00:24:28] De er gode på offshore vind.
+
+[00:24:30] De er globalen markedsleder på da.
+
+[00:24:32] De var de første egentlig som satte opp store vindparker.
+
+[00:24:34] Og har vel satt opp ca. en tredjedel av all offshore vind faktisk som er installert da.
+
+[00:24:39] I tillegg så har de jo naturlig, så tenker jeg at de kan ta en posisjon innenfor hydrogen.
+
+[00:24:45] De er allerede store på sol og onshore vind.
+
+[00:24:49] Så de har mange vekstvertikaler.
+
+[00:24:51] Og dermed så føler jeg at det er en aksje som du egentlig kan eie på lang sikt da.
+
+[00:24:57] Markedet er litt bekymret for konkurransesituasjonen der.
+
+[00:25:00] Vi har jo sett mange oljeselskap gå inn i den sektoren.
+
+[00:25:05] Og jeg tror jo markedet er redd for at oljesektoren skal bruke den cashen de pumper opp fra bakken i dag.
+
+[00:25:12] Og investere inn i vindkraft og bli store konkurrenter der.
+
+[00:25:17] Dermed tror jeg vel at markedet er stort nok for alle.
+
+[00:25:21] Og at det da kommer til å være en veldig fin plass å være for både Ørsted og andre da på langen da.
+
+[00:25:29] Apropos Ørsted da, hva tror du mest på? Vind, sol eller noe annet? Hydrogen?
+
+[00:25:33] Jeg tenker vel at det er vel konsensus at sol skal bli større enn vind.
+
+[00:25:37] Det tror jeg. Sol har jo naturlig gitt det fordeler som er, potensialet som er gigantisk stort.
+
+[00:25:44] Og så tror jeg det vel også er konsensus at vind og sol kan bli større enn vind.
+
+[00:25:47] Og det er tydelig for meg at de to eksisterer sammen.
+
+[00:25:50] Fordi det blåser litt mer om vinteren og litt mer sol om sommeren.
+
+[00:25:54] Og sol er oppe på dagen og det blåser litt mer om natten.
+
+[00:25:58] Så i et system så tror jeg begge deler fungerer veldig fint.
+
+[00:26:02] Hva er det som er reflektert i prisen?
+
+[00:26:04] Jeg vil jo si at det er jo flere modne vindselskap i dag enn det er innenfor sol.
+
+[00:26:13] Og på sol så er det kanskje vanskelig å se de attraktive forretningene.
+
+[00:26:16] attraktive forretningsmodellene som du
+
+[00:26:18] har innenfor Vinn. Jeg vil si at
+
+[00:26:20] inngangsbarrierene kanskje er
+
+[00:26:22] en god del høyere på Vinn da, enn de er
+
+[00:26:24] på Sol. Så i øyeblikk
+
+[00:26:27] i hvert fall, så ville jeg jo sagt at
+
+[00:26:28] hvis du skulle velge, så ville jeg heller
+
+[00:26:30] vært i Vinn
+
+[00:26:32] over Sol. Og så betyr
+
+[00:26:34] ikke det nødvendigvis at
+
+[00:26:36] alle Vinn-aksjer er bra, eller at det ikke
+
+[00:26:38] rekker bra, eller skater
+
+[00:26:40] ikke bra, men det er i hvert fall
+
+[00:26:42] de store faktorene
+
+[00:26:44] som påvirker.
+
+[00:26:46] Og så vil jeg jo si at Hydrogen
+
+[00:26:48] refter seg i stad, at det
+
+[00:26:50] er en tidlig fase.
+
+[00:26:53] Det er eksplosivt
+
+[00:26:55] for å si det
+
+[00:26:56] bokstavlig.
+
+[00:26:58] Og det skal nok
+
+[00:27:00] liksom ta seg god tid med å
+
+[00:27:02] plukke av vinnere i den fasen der.
+
+[00:27:05] Men det er jo klart at
+
+[00:27:06] sånn som Nell har jo
+
+[00:27:07] falt med med mer enn 50% i år,
+
+[00:27:11] og jeg tror at ordringgangen der
+
+[00:27:13] kommer til å ta seg opp på et eller annet
+
+[00:27:14] tidspunkt, og da skal den jo kanskje
+
+[00:27:16] vurdere å ta i det igjen, men
+
+[00:27:18] det er klart at det der er fasen, eller
+
+[00:27:20] den perioden der en bygger
+
+[00:27:22] selskapet, er farefull, og det
+
+[00:27:24] kan jo være at det kommer en serie
+
+[00:27:26] med skuffelser der da, i forhold
+
+[00:27:28] til den tidslinjen som markedet har
+
+[00:27:30] priset inn, og da skal man jo være litt
+
+[00:27:32] redd for kanskje da.
+
+[00:27:35] Og litt tilbakeholden, og så
+
+[00:27:36] kommer det en eller annen
+
+[00:27:38] ordreflom på et eller annet tidspunkt?
+
+[00:27:41] Det har jo vært ganske stille
+
+[00:27:42] på ordresiden,
+
+[00:27:44] så det er vel liksom noe som
+
+[00:27:46] bekymrer markedet, jeg er ikke
+
+[00:27:48] bekymret for at Nell ikke kan levere,
+
+[00:27:50] eller at teknologien ikke er god nok,
+
+[00:27:52] men jeg er litt bekymret for at
+
+[00:27:54] teknologien innenfor elektrolysøret
+
+[00:27:57] bare konvergerer, og at alle tilbyr
+
+[00:28:00] etter hvert standardløsninger, og at du
+
+[00:28:01] får et kraftig prispress da.
+
+[00:28:05] Det er jeg bekymret for, og det er jo
+
+[00:28:07] markedet også veldig bekymret for,
+
+[00:28:09] så det er ikke da, men igjen,
+
+[00:28:12] usikkerheten er stor, og når aksjekursen
+
+[00:28:14] peker nedover, så spekulerer den jo gjerne
+
+[00:28:16] i negative utfall, og vise versa,
+
+[00:28:18] så det er i hvert fall sånn jeg tenker på det da.
+
+[00:28:24] Skal jeg bare si, til hvilken del tror du
+
+[00:28:25] det er mest regulatorisk risiko?
+
+[00:28:27] Ja, det er jo et bra spørsmål.
+
+[00:28:31] Jeg vil jo si at en er jo ganske
+
+[00:28:35] supportive egentlig i mange verdikjeder
+
+[00:28:40] i øyeblikket, og jeg tror liksom på
+
+[00:28:42] marginen, så får en jo ekstra støtte.
+
+[00:28:44] Vi har jo sett at det,
+
+[00:28:46] innenfor drivstoff, så finnes det jo
+
+[00:28:51] enkelte som påpeker at da å produsere
+
+[00:28:55] biodrivstoff for eksempel, basert på matvarer,
+
+[00:28:58] eller førstegenasjons biodrivstoff,
+
+[00:29:01] er jo ikke noe som er holdbart i lengden,
+
+[00:29:05] mens en andre generasjons biodrivstoff
+
+[00:29:08] er jo ofte basert på avfall
+
+[00:29:11] fra andre råvareproduksjoner.
+
+[00:29:14] Men selv det,
+
+[00:29:16] så ser vi at for eksempel taksonomien
+
+[00:29:18] har blitt mer positiv
+
+[00:29:20] til hva som er tillatt og ikke
+
+[00:29:22] i de utkastene vi har sett i alle fall.
+
+[00:29:25] Og det virker som myndighetene egentlig
+
+[00:29:27] er veldig pragmatiske
+
+[00:29:29] og tenker at her må faktisk
+
+[00:29:31] alle måneder dra for at
+
+[00:29:33] vi skal komme i mål.
+
+[00:29:35] Det som er veldig,
+
+[00:29:38] eller den delen som jeg kanskje
+
+[00:29:40] er litt skeptisk til,
+
+[00:29:42] er jo karbonfangst,
+
+[00:29:44] som jo vil kreve enorme operasjoner
+
+[00:29:47] for å gjøre praktisk.
+
+[00:29:49] Og det gjenstår vel å se
+
+[00:29:51] om det faktisk lar seg gjøre.
+
+[00:29:53] Visse applikasjoner helt sikkert,
+
+[00:29:55] andre kanskje mer krevende.
+
+[00:29:57] The jury is still out.
+
+[00:29:59] Som sagt,
+
+[00:30:01] jeg tror myndighetene ikke nødvendigvis
+
+[00:30:03] har noe imot det,
+
+[00:30:05] men det er litt sånn unproven
+
+[00:30:07] på min side.
+
+[00:30:09] Spørs jo da om selskapene liksom
+
+[00:30:11] helt kommer til å omfavne dette her,
+
+[00:30:13] eller om de heller velger å gå for for eksempel
+
+[00:30:15] grønnhydrogen i større grad da,
+
+[00:30:17] som er en løsning som har
+
+[00:30:19] mindre nedsider kanskje,
+
+[00:30:21] hvis den ikke lykkes med den
+
+[00:30:23] karbonfangsten på en god måte da.
+
+[00:30:25] Det kommer inn en del spørsmål her.
+
+[00:30:27] Vi kan ta noen spørsmål
+
+[00:30:29] samlet her faktisk.
+
+[00:30:31] Det er selskapsrelatert.
+
+[00:30:33] Det er spørsmål om
+
+[00:30:35] reksilikon, om otovo
+
+[00:30:37] og skatekk.
+
+[00:30:39] Hvordan posisjonerer du de i forhold til hverandre?
+
+[00:30:41] Og hva,
+
+[00:30:43] hvor bør man helst
+
+[00:30:45] kanskje unngå, eller hva bør man helst se på?
+
+[00:30:49] Jeg skal ikke si peste eller cola,
+
+[00:30:51] men
+
+[00:30:53] det er klart,
+
+[00:30:55] Erekke er jo et selskap som har vært
+
+[00:30:57] litt uheldige med det som har skjedd med
+
+[00:30:59] relasjonen mellom Kina og USA.
+
+[00:31:01] For de har jo egentlig en
+
+[00:31:03] ganske gunstig posisjon
+
+[00:31:05] som silikonprodusent
+
+[00:31:07] i USA.
+
+[00:31:09] Men det har jo relasjonen
+
+[00:31:11] USA-Kina blokka da forholdet.
+
+[00:31:13] Det er vel fortsatt et selskap
+
+[00:31:15] der vi ser at de har en
+
+[00:31:17] spennende teknologi.
+
+[00:31:19] Og det kan jo være at dette får løse seg
+
+[00:31:21] ganske snart.
+
+[00:31:23] Men enn så lenge føler jeg fortsatt
+
+[00:31:25] at vi trenger
+
+[00:31:27] å se en batterideal på bordet.
+
+[00:31:29] Der har jo bordet en av triggerene
+
+[00:31:31] i aksjen. Eller vi trenger å se
+
+[00:31:33] en plan
+
+[00:31:35] for hvordan de skal utvikle sine aktiver
+
+[00:31:37] på en god måte.
+
+[00:31:39] Og ikke minst hvordan de skal
+
+[00:31:41] finansiere dette.
+
+[00:31:43] Så det er jo et selskap som
+
+[00:31:45] jeg tror kan ha en
+
+[00:31:47] framtid definitivt. Og teknologien
+
+[00:31:49] er jo bra.
+
+[00:31:51] Så jeg vil si det er masse verdi i selskapet.
+
+[00:31:53] Men timingen er usikker da.
+
+[00:31:55] Det er jo ikke noe problem
+
+[00:31:57] å si at REC kan bli
+
+[00:31:59] verdt 50 kr
+
+[00:32:01] i aksjen i et bull case.
+
+[00:32:03] Så det er jo i hvert fall veldig positivt.
+
+[00:32:05] Mens
+
+[00:32:07] da kan du jo si at det kan jo være
+
+[00:32:09] det blir en emisjon på 10 kr.
+
+[00:32:11] Eller lavere.
+
+[00:32:13] Det vet vi ikke.
+
+[00:32:15] Men jeg føler liksom
+
+[00:32:17] jeg vil heller gå inn når jeg ser at
+
+[00:32:19] vi ser neste fase for
+
+[00:32:21] selskapet på bordet.
+
+[00:32:23] Og så er det jo klart da at vi har fått inn REC
+
+[00:32:25] som styrer for mann. Det er jo
+
+[00:32:27] interessant. Han er jo en mann som gir gode
+
+[00:32:29] dealer.
+
+[00:32:31] Og da gir vel selskapet kanskje
+
+[00:32:33] en ekstra kule i kamera da. Sånn som jeg ser det da.
+
+[00:32:35] For at de skal få til noe.
+
+[00:32:37] Så jeg vil si at den er liksom litt på hyllet.
+
+[00:32:39] Vent og se. Vi overvåker
+
+[00:32:41] da som skjer i den
+
+[00:32:43] aksjen i øyeblikket da.
+
+[00:32:45] Og Tovo og utrullingen
+
+[00:32:47] som de driver med.
+
+[00:32:49] Ja det tenker jeg jo er jo
+
+[00:32:51] et spennende selskap.
+
+[00:32:53] Igjen da så er det jo
+
+[00:32:55] relativt lave barrierer
+
+[00:32:57] til å gå inn i det markedet.
+
+[00:32:59] Så spørsmålet er, kan de rulle ut
+
+[00:33:01] raskt nok og få en sånn
+
+[00:33:03] land grab på en måte.
+
+[00:33:05] I ulike land der de
+
+[00:33:07] tar en posisjon som gjør at de
+
+[00:33:09] er i stand til å forsvare en markedsstand.
+
+[00:33:11] På sikt da.
+
+[00:33:13] Det er nok utfordringen der.
+
+[00:33:15] Og så er det klart liksom
+
+[00:33:17] nøyaktig hvordan prisingen og sånt er i den
+
+[00:33:19] aksjen. Det har jeg ikke helt klart for meg. Den er jo liksom
+
+[00:33:21] svevet litt under radaren for
+
+[00:33:23] de fleste meglerhusene.
+
+[00:33:25] Men utfordringen som sagt tror jeg liksom
+
+[00:33:27] det er. Det er en installasjonsbusiness.
+
+[00:33:29] Først og fremst.
+
+[00:33:31] Med en lave inngangsbarriere. Og så er det klart
+
+[00:33:33] at potensialet er veldig stort.
+
+[00:33:35] Men er det realistisk at den skal
+
+[00:33:37] ta en stor posisjon i hele Europa?
+
+[00:33:39] Jeg føler the jury is still out
+
+[00:33:41] på den da.
+
+[00:33:43] Skatek er jo et selskap som
+
+[00:33:45] har jo en bra portefølje
+
+[00:33:47] allerede. Som har
+
+[00:33:49] en historikk der
+
+[00:33:51] en har klart å
+
+[00:33:53] liksom levere jævnlig vekst
+
+[00:33:55] på en god måte.
+
+[00:33:57] I veldig vanskelig miljø
+
+[00:33:59] mange ganger. Der føler jeg inngangsbarrierene
+
+[00:34:01] tross alt er relativt
+
+[00:34:03] høye. Det er liksom finansiering
+
+[00:34:05] og prosjektstyring i
+
+[00:34:07] området som er
+
+[00:34:09] krevende å operere i.
+
+[00:34:11] Utfordringen der er at det er krevende
+
+[00:34:13] å operere i det landet.
+
+[00:34:15] Så vi vet jo at
+
+[00:34:17] Ukraina for eksempel
+
+[00:34:19] så er det myndighetene endrer
+
+[00:34:21] regulering etc.
+
+[00:34:23] Og det er en
+
+[00:34:25] nature of the business føler jeg egentlig
+
+[00:34:27] for Skatek. At du får liksom to steg
+
+[00:34:29] fram, ett steg tilbake.
+
+[00:34:31] Jeg tror at på sikt
+
+[00:34:33] så kommer selskapet til å bli kjempe
+
+[00:34:35] kjempefint og bra.
+
+[00:34:37] Så det er klart i år så føler jeg
+
+[00:34:39] kanskje at de har
+
+[00:34:41] skutt seg selv litt i foten.
+
+[00:34:43] De hadde velt det
+
+[00:34:45] å ha et veldig aggressivt
+
+[00:34:47] vekstmål på 4,5 gigawatt
+
+[00:34:49] som de skulle ha installert.
+
+[00:34:51] Da nådde de ikke.
+
+[00:34:53] Det var ikke deres feil, men
+
+[00:34:55] markedet bryr seg ikke alltid så mye om det.
+
+[00:34:57] De kommuniserte litt dårlig
+
+[00:34:59] rundt Ukraina.
+
+[00:35:01] De hadde en blødme
+
+[00:35:03] egentlig på nettogjelm
+
+[00:35:05] som de
+
+[00:35:07] som ikke var bra.
+
+[00:35:09] Som de da ikke rapporterte
+
+[00:35:11] umiddelbart til markedet. De gjorde en feil
+
+[00:35:13] på rapporteringen av hvor mye gjeld de hadde.
+
+[00:35:15] Jeg tror de har
+
+[00:35:17] mistet litt tillit i markedet.
+
+[00:35:19] Samtidig så har de hatt litt motvind
+
+[00:35:21] fra råvarer.
+
+[00:35:23] Polisilikonprisen er jo kjempehøy
+
+[00:35:25] i øyeblikket.
+
+[00:35:27] Det er nok også en utfordring på kort sikt.
+
+[00:35:29] På lang sikt
+
+[00:35:31] så mener jeg at selskapet definitivt har en
+
+[00:35:33] framtid.
+
+[00:35:35] Jeg tror de må finne litt
+
+[00:35:37] lastgrunn for meg.
+
+[00:35:39] Jeg føler kanskje neste datapunkt
+
+[00:35:41] er negativt.
+
+[00:35:43] Hvis det skulle være kortsiktig
+
+[00:35:45] så tror jeg på lang sikt
+
+[00:35:47] så mener jeg det er kjempebra
+
+[00:35:49] potensialet i aksjen.
+
+[00:35:51] Så jeg liker nok den
+
+[00:35:53] den best. Hvis de skulle
+
+[00:35:55] putte noe i skuffen i fem år
+
+[00:35:57] så hadde de nok valgt den aksjen tror jeg.
+
+[00:35:59] Spørsmålet er også
+
+[00:36:01] Equinor har kjøpt seg opp i Skatek
+
+[00:36:03] Solar. Hva tror du er hensikten
+
+[00:36:05] med den typen investering?
+
+[00:36:07] Ja, det dreier seg veldig
+
+[00:36:09] litt sånn underliggende spørsmål her.
+
+[00:36:11] Når går et selskap fra
+
+[00:36:13] kanskje ikke Equinor men andre selskaper
+
+[00:36:15] når konverterer det fra å være en tradisjonell
+
+[00:36:17] industri eller et eller annet til å bli
+
+[00:36:19] at det kommer inn i et grønt
+
+[00:36:21] univers?
+
+[00:36:23] Ja, for vår del så er jo da
+
+[00:36:25] vi har jo ganske klare
+
+[00:36:27] krav til hva som vi kaller for grønt
+
+[00:36:29] og ikke.
+
+[00:36:31] Det er en forskjell på om du er
+
+[00:36:33] i en fossilbasert industri i dag
+
+[00:36:35] og skal bli grønn
+
+[00:36:37] og du er i en tradisjonell business i dag
+
+[00:36:39] og skal bli grønn da. Som jeg har jo sagt at
+
+[00:36:41] for vanlige selskap så
+
+[00:36:43] ønsker vi at det skal være minimum
+
+[00:36:45] 10% grønne inntekter for at et
+
+[00:36:47] selskap skal bli grønt, bli kalt grønt.
+
+[00:36:49] I mange tilfeller så er det jo mye mye
+
+[00:36:51] mer enn da. Mens for et
+
+[00:36:53] fossilbasert selskap, det tar vi ikke i.
+
+[00:36:55] Sånn at for eksempel Equinor
+
+[00:36:57] er utenfor mandatet til selskapet
+
+[00:36:59] selv om man har en offshore vind
+
+[00:37:01] på tilfellet, selv om man eier en stake
+
+[00:37:03] i Skatek da.
+
+[00:37:05] Men det er jo ingen tvil om at den reisen som
+
+[00:37:07] Equinor er på er jo å
+
+[00:37:09] bli grønnere.
+
+[00:37:11] De skal jo sikkert gjøre veldig mye på
+
+[00:37:13] karbonfangst fremover og vil nok kalle det da
+
+[00:37:15] for en grønn industri.
+
+[00:37:17] De skal gjøre mye mer på offshore vind.
+
+[00:37:19] Og kanskje skal de gjøre mer på
+
+[00:37:21] sol. Jeg tenker at
+
+[00:37:23] det da er en one way
+
+[00:37:25] ride for deg. Og så er det klart det er ganske
+
+[00:37:27] mye kapital
+
+[00:37:29] de skal investere for at det
+
+[00:37:31] grønne skal bli
+
+[00:37:33] særlig synlig i forhold til den cashflow
+
+[00:37:35] de har fra andre deler
+
+[00:37:37] av businessen. Det er nok litt utfordringen
+
+[00:37:39] til selskapet da.
+
+[00:37:41] Så akkurat hva
+
+[00:37:43] Equinor tenker
+
+[00:37:45] i Skatek, det er ikke helt godt
+
+[00:37:47] å si, men
+
+[00:37:49] jeg vil jo si at de har en
+
+[00:37:51] attraktiv mulighet i dag da
+
+[00:37:53] hvis de tenker på å ta en større
+
+[00:37:55] stake for eksempel.
+
+[00:37:57] Ørsted er jo
+
+[00:37:59] et selskap som egentlig er et godt eksempel
+
+[00:38:01] på noe som har gått fra å være
+
+[00:38:03] fossilbasert. Det het jo tidligere
+
+[00:38:05] DONG, Danish Oil and Gas
+
+[00:38:07] og var jo det danske nasjonale
+
+[00:38:09] olje- og gasselskapet.
+
+[00:38:11] Men de gjorde da investeringer
+
+[00:38:13] tidlig på 2000-tallet i offshore
+
+[00:38:15] vind, valgte å
+
+[00:38:18] omfavne da og skifte tidlig
+
+[00:38:20] solgte unna
+
+[00:38:22] olje og gass
+
+[00:38:24] sånn at den i dag da egentlig
+
+[00:38:26] er helt grønn og da en global
+
+[00:38:28] leder innenfor
+
+[00:38:30] offshore vind som jeg nevnte.
+
+[00:38:32] Så det er definitivt mulig å
+
+[00:38:34] gjøre den reisen.
+
+[00:38:36] Og aksjekursen til Ørsted
+
+[00:38:38] reflekterer jo at det har vært
+
+[00:38:40] massivt innvandrende for
+
+[00:38:42] aksjonærerne å gjøre det.
+
+[00:38:44] Så jeg tror det er
+
+[00:38:46] the playbook
+
+[00:38:48] for Equinor og for veldig
+
+[00:38:50] mange andre som ser på det her
+
+[00:38:52] som en mulighet.
+
+[00:38:54] Det sier jo noe om kanskje hvor
+
+[00:38:56] bærekraftigheten ser på den
+
+[00:38:58] fossilbaserte delen av forretningen sin
+
+[00:39:00] tenker jeg da.
+
+[00:39:02] Over til Vinn igjen.
+
+[00:39:04] Hva er din mening omkring Aker satsing
+
+[00:39:06] på offshore vind?
+
+[00:39:08] Det er vel egentlig to satsinger.
+
+[00:39:10] De har vel en i
+
+[00:39:12] Aker og Rysons og så har de
+
+[00:39:14] Aker offshore vind som to forskjellige
+
+[00:39:16] enheter. Hva slags oppfatninger
+
+[00:39:18] har dere om det?
+
+[00:39:20] Mye av det er knyttet til flytende vind
+
+[00:39:22] som er et marked som
+
+[00:39:24] kommer kanskje fra
+
+[00:39:26] 2030 og utover.
+
+[00:39:28] Det jeg nok forventer da jeg har
+
+[00:39:30] lest er vel at liksom flytende
+
+[00:39:32] vind vil bli større.
+
+[00:39:34] Men det er jo et marked som ikke
+
+[00:39:36] er helt modent og som
+
+[00:39:38] kanskje ikke helt
+
+[00:39:40] vet ennå hvordan
+
+[00:39:42] det vil spille seg ut. Så jeg føler liksom risikoen
+
+[00:39:44] der er litt større enn
+
+[00:39:46] hvis du ser på et selskap som
+
+[00:39:48] Bornør da. Som iallfall innledningsvis
+
+[00:39:50] har
+
+[00:39:52] mye mer eksponering mot bunnfast
+
+[00:39:54] offshore vind da. Altså at
+
+[00:39:56] vindturbinerne står så nære land
+
+[00:39:58] at de er forankret
+
+[00:40:00] i bunnen da.
+
+[00:40:02] Så Bornør for eksempel har jo et
+
+[00:40:04] stort prosjekt nære
+
+[00:40:06] Irland som heter Codling Bank
+
+[00:40:08] som kan faktisk få
+
+[00:40:10] godkjenning i 2022.
+
+[00:40:12] Det er det største prosjektet som
+
+[00:40:14] vil bli bytt inn i den irske
+
+[00:40:16] konsentrasjonsrommet i 2022.
+
+[00:40:18] Det er på 1500 megawatt
+
+[00:40:20] totalt sett.
+
+[00:40:22] Bornør eier 750 sammen med
+
+[00:40:24] partneren sin som er EDF.
+
+[00:40:26] Og det mener vi faktisk ikke er
+
+[00:40:28] i prisen i Bornør i det hele tatt.
+
+[00:40:30] Og samtidig
+
+[00:40:32] så har de da oppsjonalitetet
+
+[00:40:34] litt likt Aker da
+
+[00:40:36] på delt av den norske
+
+[00:40:38] konsentrasjonsrunden.
+
+[00:40:40] Men også i Skottland.
+
+[00:40:42] Så jeg tenker at
+
+[00:40:44] skulle Bornør få Codling Bank
+
+[00:40:46] og det tror jeg er veldig sannsynlig
+
+[00:40:48] jeg tror det er 75% sannsynlighet for det
+
+[00:40:50] i 2022.
+
+[00:40:52] Så vil det virkelig skape
+
+[00:40:54] et stort og bærekraftig
+
+[00:40:56] offshore vindselskap i seg selv.
+
+[00:40:58] Som en da kan bygge videre på
+
+[00:41:00] og som vil ha en stor lønnsomhet.
+
+[00:41:02] Kanskje vil den kunne farme
+
+[00:41:04] ned, altså selge seg delvis ned
+
+[00:41:06] i prosjektet for å drive ytterligere vekst.
+
+[00:41:08] Da vil den ha både på en måte
+
+[00:41:10] cashflow og kapital.
+
+[00:41:12] Og på en måte ha alle muligheter
+
+[00:41:14] å åpne for videre vekst.
+
+[00:41:16] Jeg ser ikke helt at Aker er så modne.
+
+[00:41:18] De har ikke den muligheten til å liksom
+
+[00:41:20] lande et prosjekt enda.
+
+[00:41:22] Og derfor så
+
+[00:41:24] foretrekker jeg egentlig Bornør
+
+[00:41:26] i øyeblikket da.
+
+[00:41:28] Av de to. Så det er sånn
+
+[00:41:30] jeg ser på det.
+
+[00:41:32] Ok, kanskje
+
+[00:41:34] litt på siden i og med at
+
+[00:41:36] jeg vet ikke, du kan kanskje
+
+[00:41:38] opplyse, men
+
+[00:41:40] bølgekraft, er det noe tema?
+
+[00:41:42] Er det noe selskap
+
+[00:41:45] som får noe eksponering der?
+
+[00:41:47] Det er nok en selskap i Sverige.
+
+[00:41:49] Jeg var en gang
+
+[00:41:51] på en prestasjon i Sverige.
+
+[00:41:53] Det var en kunde der som
+
+[00:41:55] pitchet et selskap på meg, men
+
+[00:41:57] når jeg ble kjent så er det ingen større selskap
+
+[00:41:59] i Norden som
+
+[00:42:01] driver med da. Så
+
+[00:42:03] det er eventuelt et potensial
+
+[00:42:05] i fremtiden, vil jeg si. Det er ikke noe som
+
+[00:42:07] er mye snakket om, eller
+
+[00:42:09] veldig aktuelt for
+
+[00:42:11] aksjemarkedet i øyeblikket. Det betyr ikke at
+
+[00:42:13] løsningen er bra, men det er iallfall ikke noe som
+
+[00:42:15] jeg ser på. Det blir nok mer
+
+[00:42:17] i venturefasen før
+
+[00:42:19] aksjemarkedet trer inn,
+
+[00:42:21] vil jeg si, i øyeblikket.
+
+[00:42:23] Jeg har fått en spørsmål om et
+
+[00:42:25] vinnselskap til Eolus Vinn i Sverige.
+
+[00:42:27] Kjenner du til det?
+
+[00:42:29] Hva er mulighetene der?
+
+[00:42:31] Hvordan ligger de an?
+
+[00:42:33] Eolus er jo et selskap
+
+[00:42:35] som er en utvikler av
+
+[00:42:37] vinnprosjekt. Det vil si at de
+
+[00:42:39] planlegger prosjektene
+
+[00:42:41] og
+
+[00:42:43] selger prosjektene
+
+[00:42:45] ofte før de er ferdige.
+
+[00:42:47] For en
+
+[00:42:49] da fin profitt.
+
+[00:42:51] Det som er fint med Eolus sin forretningsmodell er jo at
+
+[00:42:53] de binder veldig lite kapital.
+
+[00:42:55] Så ofte er den planleggingsfasen
+
+[00:42:57] det er jo ofte kanskje bare
+
+[00:42:59] fem eller ti ingeniører
+
+[00:43:01] som sitter og planlegger et prosjekt.
+
+[00:43:03] Så kan de ofte
+
+[00:43:05] realisere en givinst
+
+[00:43:07] før de har investert
+
+[00:43:09] så veldig mye fysisk kapital
+
+[00:43:11] bak prosjektet.
+
+[00:43:13] Det er en veldig fin plass å være.
+
+[00:43:15] Problemet er selvfølgelig at
+
+[00:43:17] du må ha nye prosjekt
+
+[00:43:19] hele tiden for å etterfølge den
+
+[00:43:21] pipeline din.
+
+[00:43:23] Samtidig så må du
+
+[00:43:25] gjøre mer og mer hvis du skal
+
+[00:43:27] ha vekst. Så det er klart at de har vokst
+
+[00:43:29] med markedet, og de har vært veldig flinke.
+
+[00:43:31] Men vi ser at Eolus
+
+[00:43:33] er relativt friskt priset
+
+[00:43:35] i dagmarkedet.
+
+[00:43:37] Vi eier et selskap som heter AriseWin.
+
+[00:43:39] Det er basert i Sør-Sverige.
+
+[00:43:41] Det er et lite selskap.
+
+[00:43:43] Det som er veldig interessant i Arise nå
+
+[00:43:45] er at de har en utviklerdel
+
+[00:43:47] på samme måte som
+
+[00:43:49] EolusWin.
+
+[00:43:51] Samtidig som de da eier
+
+[00:43:53] faktisk en del vindparker
+
+[00:43:55] som ble satt opp for ca.
+
+[00:43:57] 10-12 år siden.
+
+[00:43:59] Det er superprofit i dagens strømmarked.
+
+[00:44:01] Så de skal selge de vindparkene
+
+[00:44:03] nå. Jeg tror de får
+
+[00:44:05] en god pris for det.
+
+[00:44:07] Det finnes kjøpere som tenker at
+
+[00:44:09] strukturelt sett så er det interessant å eie
+
+[00:44:11] kraftaktiver i Sør-Sverige
+
+[00:44:13] de neste par årene.
+
+[00:44:15] Men Sverige har jo en del av de samme utfordringene som
+
+[00:44:17] Norge. De skal jo skru av
+
+[00:44:19] atomkraften sin
+
+[00:44:21] planlagt i midten av 10-året her.
+
+[00:44:23] Så det er interessant.
+
+[00:44:25] Og hvis du da tar salget
+
+[00:44:27] med i betraktningen, så handler det jo da
+
+[00:44:29] om den resterende utvikler-businessen
+
+[00:44:31] i Arise på en rabatt
+
+[00:44:33] i Eolus som er kanskje 60-70%
+
+[00:44:35] og derfor
+
+[00:44:37] eier vi heller Arise
+
+[00:44:39] i øyeblikket nå.
+
+[00:44:41] Men det er en litt mindre selskap enn Eolus.
+
+[00:44:43] Jeg synes vel liksom Eolus
+
+[00:44:45] er helt greit
+
+[00:44:47] for så vidt. Nok så fer priser
+
+[00:44:49] i dagens klima.
+
+[00:44:51] Men det er ikke noe som jeg liksom
+
+[00:44:53] hopper i tak i nå.
+
+[00:44:55] Ok, jeg tror vi har noen flere spørsmål
+
+[00:44:57] fra deg. Jeg tenker vi bare tar
+
+[00:44:59] veldig kort da hvis du skulle plukke ut et enkelt
+
+[00:45:01] case som du har mest tro på.
+
+[00:45:03] Er det noe du vil
+
+[00:45:05] foreslå da?
+
+[00:45:07] Hvis jeg hadde lov å kjøpe enkeltaksjer
+
+[00:45:09] så må jeg jo bare si at jeg vil igjen liksom
+
+[00:45:11] løfte fram Spinova som er
+
+[00:45:13] kanskje noe av det aller mest
+
+[00:45:15] spennende jeg har sett innenfor
+
+[00:45:17] grønn teknologi.
+
+[00:45:19] Og som nevnt også har de da en måte
+
+[00:45:21] å produsere
+
+[00:45:23] stoff på til klær som er
+
+[00:45:25] liggende på bomullekvaliteten.
+
+[00:45:27] Kvaliteten blir bare bedre og bedre
+
+[00:45:29] så er det ikke sikkert å stoppe der.
+
+[00:45:31] Men da de gjør det, altså de tar cellulose
+
+[00:45:33] fra treet, som vi har
+
+[00:45:35] i veldig stor grad da har
+
+[00:45:37] et tre består av. Og så
+
+[00:45:39] spinner de da på en spesiell måte
+
+[00:45:41] sånn at du kan lage klær av det.
+
+[00:45:43] Så de har da sett på hvordan
+
+[00:45:45] en edderkopp spinner nettet sitt
+
+[00:45:47] og så spinner de tekstilet på den måten.
+
+[00:45:49] Og det er jo
+
+[00:45:51] noe som alle
+
+[00:45:53] klesleverandører i hele verden er egentlig
+
+[00:45:55] interessert i å
+
+[00:45:57] lære mer om.
+
+[00:45:59] Øker bærekraften sin.
+
+[00:46:01] De har Adidas inne på eiersiden.
+
+[00:46:03] De har H&M
+
+[00:46:05] inne som
+
+[00:46:07] kunde. De har Bergan
+
+[00:46:09] sine, North Face osv.
+
+[00:46:11] Så den kundelisten tror jeg blir
+
+[00:46:13] veldig lang. Og jeg tror at
+
+[00:46:15] faktisk risikoen på ramping
+
+[00:46:17] er faktisk ganske lav. Det virker som
+
+[00:46:19] de har en veldig
+
+[00:46:21] fin produksjon allerede i dag
+
+[00:46:23] på lavt nivå, men det handler da bare mer om å sette opp
+
+[00:46:25] ti like maskiner
+
+[00:46:28] av det de har i dag, heller enn å skalere
+
+[00:46:30] alt opp på en vanskelig
+
+[00:46:32] måte.
+
+[00:46:34] Så jeg tror at potensialet
+
+[00:46:36] der er skyhøyt
+
+[00:46:38] hvis en kan gjøre det på
+
+[00:46:40] den rette måten.
+
+[00:46:42] Så det er noe jeg
+
+[00:46:44] synes er veldig spennende.
+
+[00:46:46] Siste, kanskje litt grunnleggende
+
+[00:46:48] spørsmål her.
+
+[00:46:50] Hvis vi da
+
+[00:46:52] sammenligner utviklingen
+
+[00:46:54] i de grønne aksjene med
+
+[00:46:56] Nasdaq, så kan det se ut som
+
+[00:46:58] at man godt kan vente
+
+[00:47:00] en del år før man
+
+[00:47:02] kaster seg over grønne aksjene igjen.
+
+[00:47:04] Har du noen kommentarer
+
+[00:47:06] rundt det?
+
+[00:47:08] Jeg tror jo at
+
+[00:47:10] det er jo en bra kommentar, ikke sant?
+
+[00:47:12] Det er jo egentlig det jeg har lyst å vise her.
+
+[00:47:14] Det er jo en utfordring for meg som liksom
+
+[00:47:16] jeg snakker om grønne aksjer, jeg tror det er
+
+[00:47:18] høy vekst, men samtidig
+
+[00:47:20] det er jo mange trusler her, det er mange utfordringer.
+
+[00:47:22] Mange av disse markedene
+
+[00:47:24] eksisterer jo ikke i dag.
+
+[00:47:26] Så det er klart at gjennomsnittet
+
+[00:47:28] trenger jo ikke å være fantastisk.
+
+[00:47:30] Som jeg pekte på, hvis vi ser på
+
+[00:47:32] teknologifondet vårt, hvordan de plukker
+
+[00:47:34] aksjer i etterkant av
+
+[00:47:36] tech-bobler for eksempel,
+
+[00:47:38] hvordan det har vært å være i et
+
+[00:47:40] marked med sånn strukturell underliggende vekst,
+
+[00:47:42] så tror jeg det er fullt mulig å skape verdier.
+
+[00:47:44] Så hvis du ser på
+
+[00:47:46] historikken på tech-aksjer,
+
+[00:47:48] det er klart iPod kom i
+
+[00:47:50] 2001, Google ble listet i
+
+[00:47:52] 2004, liksom.
+
+[00:47:54] Så hadde du plukket vinnerne,
+
+[00:47:56] så var det fullt mulig å skape
+
+[00:47:58] veldig mye verdi i den perioden.
+
+[00:48:00] Det sier ikke at
+
+[00:48:02] vi kommer til å klare å plukke Google på IPO-en,
+
+[00:48:04] men det er klart at
+
+[00:48:06] vår strategi er å følge vinnerne
+
+[00:48:08] i dette markedet, de selskapene
+
+[00:48:10] som vokser seg større og sterkere.
+
+[00:48:12] Og med den medvinden en har
+
+[00:48:14] da, så tror jeg det vil være
+
+[00:48:16] veldig
+
+[00:48:18] attraktivt fremover.
+
+[00:48:20] Og så tror jeg egentlig at det er helt fint at
+
+[00:48:22] forventningene kommer litt ned.
+
+[00:48:24] Det er ikke nødvendigvis høye forventninger
+
+[00:48:26] som er det beste for en aksje,
+
+[00:48:28] det er litt lavere forventninger.
+
+[00:48:30] Så tenker vi herfra ut, så tror jeg at
+
+[00:48:32] en mer fruktbart miljø
+
+[00:48:34] nå, uten at det liksom spår at
+
+[00:48:36] grønne aksjer skal opp i morgen
+
+[00:48:38] eller om tre måneder, det vet
+
+[00:48:40] ikke jeg, men jeg tror liksom bakteppet
+
+[00:48:42] er ekstremt konstruktivt da.
+
+[00:48:44] Da kan vi ikke be om så veldig
+
+[00:48:46] mye mer, da må vi gjøre resten av jobben
+
+[00:48:48] som aktive forvaltere.
+
+[00:48:50] Det har gått fra å være litt ukritisk
+
+[00:48:52] marked til å bli mer selektivt.
+
+[00:48:54] Absolutt, og ikke sant,
+
+[00:48:56] vi husker jo tech-bobler,
+
+[00:48:58] altså framtidsfabrikken hadde liksom
+
+[00:49:00] vært priset på 11 kroner
+
+[00:49:02] per ansatt, 11 millioner kroner
+
+[00:49:04] per ansatt, etc.
+
+[00:49:06] Det var mye som ikke stemte den gangen,
+
+[00:49:08] og dermed så ble det vanskelig
+
+[00:49:10] å levere på da også,
+
+[00:49:12] og kanskje skal en del tapere
+
+[00:49:14] prises ut i det grønne skiftet.
+
+[00:49:16] Ok, med det så tror jeg vi
+
+[00:49:19] takker for gjennomgangen.
+
+[00:49:21] Takk til begge to, og så
+
+[00:49:23] takker vi for spørsmålene som har kommet inn.
+
+[00:49:25] Vi kommer tilbake med mer svar på det etterhvert.
+
+[00:49:27] Og så
+
+[00:49:29] ønsker vi velkommen tilbake til
+
+[00:49:31] nye sendinger senere.
+
+[00:49:33] Denne podcasten og dettes innhold

@@ -1,0 +1,1703 @@
+Episode 317: Aksjer vs. renter, shippingfest og bottom-up
+Publisert: Sat, 26 No
+Vert: Marius Brun Haugen
+Varighet: 36 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/aksjer-vs-renter-shippingfest-og-bottom-up
+
+--- Transkripsjon ---
+
+[00:00:00] Shipping-selskapene er nesten ferdig med rapporteringssesongen, og flere av segmentene går så det suser om dagen.
+
+[00:00:06] I dag skal vi se nærmere på om det fortsatt er oppside i gass- og shipping-aksjer.
+
+[00:00:12] Vi skal også få en oppdatering på rentemarkedet, og hvorvidt investeringsmulighetene i renter er mer fristende enn aksjer.
+
+[00:00:19] Nei, det kan det vel ikke være, eller?
+
+[00:00:20] Renter er også stikkordet når vi skal diskutere om 2023.
+
+[00:00:25] Vi blir mer preget av en bottom-up-investeringstilnærming kontra top-down, som vi har vært vittne til i 2022.
+
+[00:00:32] Henger du ikke med på alle faguttrykkene her, fortvil ikke. Vi skal passe på å forklare de også.
+
+[00:00:45] Velkommen til Utbytte, DB-podcasten der vi forklarer hva som skjer innen global økonomien og finansmarkedene.
+
+[00:00:52] Jeg er Marius Brunnhaugen, og med meg har jeg aksjestrateg Paul Harper og shipping-analytiker Jørgen Lian. Velkommen begge to.
+
+[00:01:01] Takk skal du ha.
+
+[00:01:03] Senere i sendingen får vi også besøk av investeringsdirektør Tore André Lysebo fra Veldt Management Investment Office her i DNB.
+
+[00:01:11] Da skal vi blant annet snakke mer om hvorvidt man bør investere i renter eller aksjer nå,
+
+[00:01:16] eller om det er en slags Ole Brom-tilnærming her som gjelder ja-tak begge deler.
+
+[00:01:20] Vi kjører på med en klassisk.
+
+[00:01:22] 60-40 portefølje, men det blir senere i sendingen som sagt.
+
+[00:01:26] Først skal vi til uken som har gått, Paul. Det er fredag 25. november.
+
+[00:01:30] Klokken har passert 12 når vi sitter her og spiller inn i studio.
+
+[00:01:35] Det var stengt på USA-børsen i går på grunn av Thanksgiving, og det er halv handledag i dag,
+
+[00:01:40] så sannsynligvis får vi ikke så mye mer viktige impulser derifra.
+
+[00:01:45] Oslo-børs legger an til en oppgang for uken, men kverner på indexnivå nå,
+
+[00:01:50] og sånn rett i overkant av 1.200, og er forsiktig opp for året, noe som vi må si er greit,
+
+[00:01:58] særlig hvis vi ser til hvordan det har gått i de andre markedene rundt oss.
+
+[00:02:03] Generelt vil jeg si at det har vært en litt rolig uke, men på den positive siden i markedet.
+
+[00:02:08] Det er riktig nok fortsatt noe turbulens, for eksempel for alle som trader i flyr.
+
+[00:02:13] Det er også noen klare lyspunkter i shipping som vi straks skal snakke mer om,
+
+[00:02:17] men hva er det viktigste du tar med deg fra uken, Paul?
+
+[00:02:20] Ja, det skal vi prøve å finne på tre forskjellige ting å trekke frem her,
+
+[00:02:24] så vi må i hvert fall innom med Fed-referatet fra det forrige Fed-møtet,
+
+[00:02:28] så det er noe som er verdt å nevne.
+
+[00:02:31] Alderprisen har jo også hatt ganske store svingninger denne uken,
+
+[00:02:34] 9 prosent mellom topp- og bunnetering,
+
+[00:02:36] selv om totalt sett så er det ikke så voldsom endring siden starten av uken.
+
+[00:02:41] Også synes jeg yield-kurven er noe som er kanskje greit å bare stikke innom
+
+[00:02:45] med siden den 10-3 måneders delen av rentekurven.
+
+[00:02:50] Rett på som den delen som gir best signal for når det eventuelt skal komme resesjon,
+
+[00:02:56] og den er nå invertert, så det egentlig sier at vi skal være forberedt på en resesjon
+
+[00:03:00] på et eller annet tidspunkt.
+
+[00:03:01] Det varierer mye fra gang til gang hvor mye den leder,
+
+[00:03:04] det kan være alt fra noen måneder til nesten to år,
+
+[00:03:07] men nå er den kurven på det mest inverterte siden januar 2001,
+
+[00:03:11] så det er egentlig en litt signifikant greie det også som er verdt å bare være klar over.
+
+[00:03:18] Ja da, og det er jo interessant og verdt å ta med,
+
+[00:03:20] jeg sa vi har jo snakket om dette med inviteringene av yield-kurven før,
+
+[00:03:23] men det kommer jo stadig flere nå som går ut og sier at de ikke tror USA vil havne i resesjon neste år.
+
+[00:03:33] Ja, og vi er jo egentlig ganske sånn åpen på at det er langt fra sikkert at det blir resesjon her,
+
+[00:03:39] eller i hvert fall langt fra sikkert at det blir noe i løpet av de neste tolv månedene.
+
+[00:03:44] Jeg er mindre sikker på at vi klarer å unngå en resesjon hvis du ser mer sånn to,
+
+[00:03:50] alt tre år frem i tid,
+
+[00:03:51] men akkurat på kort sikt så kan det gå til henne at ting går relativt greit,
+
+[00:03:56] for det er lett å glemme det at det er ikke de samme ubalansen i økonomien nå som det gjerne har vært i forkant av andre resesjoner,
+
+[00:04:04] og husholdningen har fortsatt en god del tørt krutt,
+
+[00:04:07] både det i form av penger i banken,
+
+[00:04:09] men også at vi begynner å se reallønnsvekst nå komme nå,
+
+[00:04:12] at det er sterk lønnsvekst samtidig som inflasjonen kommer ned,
+
+[00:04:16] så det er ikke sikkert at det går helt galt med en gang.
+
+[00:04:19] Neida.
+
+[00:04:20] Du nevnte med både rentereferat og ikke minst oljepris-svingninger,
+
+[00:04:25] det skal vi komme tilbake til etter hvert.
+
+[00:04:28] Tenkte jeg også bare ta en sjekk da,
+
+[00:04:29] i en episode for et par uker siden så oppfordret du oss jo til å holde et ekstra øye på kredittspredder
+
+[00:04:34] og utviklingen for bankaksjene, eller sektoren da.
+
+[00:04:38] Hva sa du så her?
+
+[00:04:39] Har det kommet noen nye signaler,
+
+[00:04:40] eller har det fortsatt i den samme trenden som forrige gang?
+
+[00:04:43] Ja, så det har egentlig vært en positiv utvikling her,
+
+[00:04:45] kanskje mer positivt for banken enn kredittspredder,
+
+[00:04:48] men kredittspreddene har også kommet,
+
+[00:04:50] litt inn og etter hvert,
+
+[00:04:52] men en av de tingene som gjør at det er litt sånn,
+
+[00:04:55] jeg klarer ikke helt å bestemme meg hvor signifikant dette er,
+
+[00:04:58] er at det ser ut som aksjer leder kreditt nå,
+
+[00:05:00] heller enn motsatt.
+
+[00:05:02] Vanligvis så er det egentlig kreditt som pleier å lede når det har bunne formasjoner,
+
+[00:05:07] så jeg er litt sånn usikker på helt om man kan stole på dette her,
+
+[00:05:10] men når vi ser på kredittspreddene nå i forhold til nivået de er på,
+
+[00:05:14] så priser ikke det inn noen recessjon,
+
+[00:05:16] det er en sånn soft landing som jeg tror er det som er priset inn i markedet,
+
+[00:05:20] så du har egentlig litt sånn dilemma her,
+
+[00:05:22] er det på den ene siden så kan jeg si at visdommen av markedet sier at det ikke blir noe recessjon her,
+
+[00:05:28] eller eventuelt at det er det som er investeringsmuligheten,
+
+[00:05:30] at risikoen for recessjon er feilpriset fremdeles.
+
+[00:05:34] Så litt sånn usikker på helt hva som er riktig måte å posisjonere seg her,
+
+[00:05:39] men så lenge kredittspreddene blir strammere,
+
+[00:05:41] så tror jeg man kan se for seg at en tradisjonell julerally er absolutt mulig å forvente,
+
+[00:05:48] men begynner de kredittspreddene,
+
+[00:05:50] og blir litt større igjen,
+
+[00:05:51] så tror jeg man skal være relativt rast på ballen med å ta gevinst.
+
+[00:05:56] Men Paul, nå må vi slippe til Jørgen her.
+
+[00:05:58] Vi må snakke litt shipping også.
+
+[00:06:00] Forrige uke så snakket vi jo mye om bilfrakt blant annet,
+
+[00:06:04] og da roste vi deg Jørgen,
+
+[00:06:06] som har hatt kjøp på bilfrakt shipping-sektoren i hele år.
+
+[00:06:10] Nå er det jo sånn at både Valenius, Høgaut og Gram
+
+[00:06:14] har kommet ned fra toppene de satt i starten av måneden,
+
+[00:06:18] og fortsatt å svekke seg denne uken,
+
+[00:06:20] så er moroen over nå?
+
+[00:06:21] Eller er det bare på en måte gevinnssikring,
+
+[00:06:24] eller er det noe annet mer fundamentalt som forklarer at
+
+[00:06:26] aksjene har begynt å reagere litt ned fra toppen?
+
+[00:06:33] Belfraktsegmentet har gått utrolig bra,
+
+[00:06:35] aksjene har gjort det utrolig bra,
+
+[00:06:36] og bare man ser på hvordan utviklingen har vært,
+
+[00:06:39] så er det kanskje sånn at man rast tenker
+
+[00:06:42] kan moroen være over,
+
+[00:06:43] men vi har snakket en del om det her en stund,
+
+[00:06:47] og så suppliesiden i forhold til hvor mange skip som kommer,
+
+[00:06:49] den er veldig begrenset,
+
+[00:06:50] og det er fortsatt tilfelle neste år.
+
+[00:06:52] Og da blir det mer et spørsmål om etterspørsel,
+
+[00:06:54] og her har du et segment som nyter veldig godt akkurat nå.
+
+[00:06:58] Det har vært mye snakk om resesjon,
+
+[00:06:59] at hvordan skal det påvirke bilsalg,
+
+[00:07:02] og etterspørselen etter bil,
+
+[00:07:03] og dermed frakt av bil,
+
+[00:07:04] men du kan si heldigvis i etterkant av pandemien,
+
+[00:07:07] på grunn av produksjonsflaskahalser og problemer,
+
+[00:07:09] så er vi egentlig i et resesjonsscenario allerede,
+
+[00:07:12] i forhold til hvor mange biler som produseres globalt.
+
+[00:07:15] Så hvis du skal tilbake til der du var før pandemien,
+
+[00:07:16] så er det 10-15 prosent oppside i antall biler produsert,
+
+[00:07:19] og hvis du skal opp til trendlinjen,
+
+[00:07:21] så er det 20 prosent.
+
+[00:07:22] Så på marginen, hvor skal vi?
+
+[00:07:24] Mest sannsynlig opp, tenker vi,
+
+[00:07:25] og det betyr at vi kan være positive.
+
+[00:07:27] Og så er det det andre som begynner å bli mer og mer synlig,
+
+[00:07:30] og det er viktigheten av kinesisk bileksport.
+
+[00:07:33] Og de siste tallene vi har sett på nå,
+
+[00:07:35] så har Kina gått forbi Japan i forhold til antall biler eksportert,
+
+[00:07:39] som er helt fantastisk,
+
+[00:07:40] og det er tre land i verden som transporterer med en snittestanse
+
+[00:07:43] på omtrent 8000 nautiske mil,
+
+[00:07:45] mens resten av verden handler,
+
+[00:07:46] biler på 2,7000 nautiske mil.
+
+[00:07:49] Så det betyr at koreansk, japansk og kinesisk bileksport
+
+[00:07:52] er utrolig viktig for etterspørselen.
+
+[00:07:53] Holder vi alt annet like å se på den boosten
+
+[00:07:55] som har kommet ut av de tre sammenlignet med hvor du var i 2019,
+
+[00:07:59] så er du alt annet like hvis du baserer på september-tallene
+
+[00:08:01] opp 15 prosent på etterspørsel etter shipping.
+
+[00:08:03] Og det er en periode hvor flåten har vært fullstendig flat.
+
+[00:08:05] Så hvis du vil ha en forklaring for hvorfor markedet har blitt så stramt som det er,
+
+[00:08:08] så er det derfor.
+
+[00:08:09] Og når du spør hvor vi skal,
+
+[00:08:10] så husk igjen at i industrien,
+
+[00:08:13] altså de som produserer disse bilene,
+
+[00:08:14] og visibilitet på behovet for frakt,
+
+[00:08:17] så er det folk som går ut og hyrer på skip
+
+[00:08:18] på en kostnad på 65 000 dollar dagen.
+
+[00:08:21] Og hvis du skal overføre det til inntjeningen
+
+[00:08:22] i Valenius-Villemsen eksempelvis,
+
+[00:08:24] som ble verdt fantastisk i tallet i Q3,
+
+[00:08:26] så var det 50 000 dollar dagen de hadde inntjening til sammenligning.
+
+[00:08:30] Så bare hvis du skal justere opp,
+
+[00:08:32] og da lå de på en run rate-EBTA på 1,7 milliarder dollar.
+
+[00:08:36] Hvis du skal justere det opp til 65 000 dollar dagen,
+
+[00:08:39] så snakker vi 2,2 milliarder dollar.
+
+[00:08:41] Det er helt fantastisk.
+
+[00:08:42] Så kursen har gått langt,
+
+[00:08:43] men når shipping først blir bra,
+
+[00:08:44] så blir det bare så utrolig bra.
+
+[00:08:46] Og det er litt der vi er på vei før vi gir bilshipping.
+
+[00:08:48] Og du har jo ikke dekning på Gram,
+
+[00:08:51] men det har du på Høygaard og Valenius,
+
+[00:08:54] så der har du fortsatt kjøp.
+
+[00:08:55] Stemmer.
+
+[00:08:56] Yes.
+
+[00:08:57] Men nå skal vi la bilfraktshipping ligge.
+
+[00:09:00] Det er tank og gassfrakt som det skal dreie seg om i dag.
+
+[00:09:06] Og vi får starte med oljeprissvingningene,
+
+[00:09:09] som du nevnte innledningsvis, Paul,
+
+[00:09:11] for uken startet jo ganske brutalt
+
+[00:09:13] med et sånt kort stup for oljeprisen,
+
+[00:09:16] ned til 82 dollar var det vel.
+
+[00:09:18] Husker jeg satt, hva skjer nå,
+
+[00:09:20] tenkte jeg når jeg så det på skjermen,
+
+[00:09:22] og så leste jeg at Wall Street Journal hadde skrevet
+
+[00:09:24] at OPEC Plus diskuterte å øke produksjonen
+
+[00:09:27] med en halv million fat per dag
+
+[00:09:30] ved neste møte i starten av desember.
+
+[00:09:32] Da skjønte jeg egentlig enda mindre,
+
+[00:09:34] fordi det er jo produksjonsskutt som de har drevet med.
+
+[00:09:37] Og så tok det jo ikke lang tid,
+
+[00:09:38] før Seidør Abia gikk ut og benektet dette her.
+
+[00:09:43] Så ja,
+
+[00:09:43] det er vel ikke så mye annet å lese ut av dette
+
+[00:09:45] enn rykter, Paul, eller hva?
+
+[00:09:48] Ja, så jeg tror dette kanskje var et forsøk fra OPEC
+
+[00:09:50] til å prøve å teste hvor sterk markedet er,
+
+[00:09:52] såkalt trial balloon kaller det på engelsk,
+
+[00:09:54] der hvor du lufter noe litt sånn anonymt i media
+
+[00:09:57] for å lodde stemning for hvordan markedet
+
+[00:10:00] ville eventuelt takle noe sånt.
+
+[00:10:03] Så jeg tror det er jo en del usikkerhet nå
+
+[00:10:05] rundt hvor mye eksportvolumen kommer ut av Russland
+
+[00:10:08] nå etterhvert,
+
+[00:10:09] og USA må slutte å slippe volymer ut av strategiske lagere,
+
+[00:10:13] så det er ikke sånn helt koko å påstå
+
+[00:10:15] at det kanskje er behov for mer volymer fra OPEC,
+
+[00:10:18] så jeg tror de som ville prøve å finne litt ut
+
+[00:10:20] av hvordan markedet eventuelt ville tolke noe sånt,
+
+[00:10:23] og da når den reaksjonen kom som det gjorde,
+
+[00:10:25] at oljeprisen falt vel sånn 6% på relativt kort tid,
+
+[00:10:29] så tror jeg da fikk de det svaret de lurte på,
+
+[00:10:32] at markedet ikke var i stand til å tåle
+
+[00:10:34] en sånn produksjonsøkning,
+
+[00:10:35] og da kom de da med en kontramelding
+
+[00:10:37] at nei, dette var bare rykter og ikke noe å legge vekt på.
+
+[00:10:39] Ja, ja, og så har du jo en stor og dominerende
+
+[00:10:42] aktør som USA da,
+
+[00:10:44] som har drevet å tømpe de strategiske oljelagrene sine,
+
+[00:10:47] og ja, en produksjonsøkning fra OPEC+,
+
+[00:10:50] det er vel president Biden sin store drøm,
+
+[00:10:52] det er det ikke det?
+
+[00:10:52] Ja, absolutt, han vil jo ha disse oljeprisene ned,
+
+[00:10:55] du kan jo si at det er ikke hans skyld
+
+[00:10:57] at oljeprisen har økt så mye,
+
+[00:11:00] men han blir jo beskyldt for det her likevel,
+
+[00:11:02] så han vil gjerne ha oljeprisene ned
+
+[00:11:04] hvis det er i det hele tatt mulig å få til.
+
+[00:11:06] Men alt annet like da, Jørgen,
+
+[00:11:08] mer oljeproduksjon, i hvert fall i teorien da,
+
+[00:11:11] det vil være bullish for tankskipping,
+
+[00:11:12] vet ikke det?
+
+[00:11:13] Jo da, mer olje til eksport er det vi vil ha,
+
+[00:11:15] så det første du må ha da er produksjon,
+
+[00:11:18] så nå snakket vi om litt økning til OPEC,
+
+[00:11:20] det er jo potensielt en million falt per dag
+
+[00:11:22] som kan falle bort ut av de SPR-ene i USA,
+
+[00:11:24] så ja, mer volym, bull.
+
+[00:11:27] Ja, men disse ryktene om produksjonsøkningen,
+
+[00:11:31] det kommer også tett på dette varslede pristaket
+
+[00:11:35] til EU på russisk olje,
+
+[00:11:37] men her synes i hvert fall ikke jeg
+
+[00:11:39] det er så lett å bli klok,
+
+[00:11:40] jeg leste tidligere denne uken at
+
+[00:11:42] Vitol-sjefen hadde uttalt at
+
+[00:11:44] denne priskappen, eller pristaket da,
+
+[00:11:46] sannsynligvis blir rundt 60 dollar,
+
+[00:11:49] men så hører man det ene den ene dagen
+
+[00:11:51] og det andre den andre dagen,
+
+[00:11:52] og det eneste vi kan slå fast er at
+
+[00:11:54] det er veldig mye politikk i både olje og gass nå,
+
+[00:11:59] Jørgen, som oljeanalytikeren vår,
+
+[00:12:01] Helge Martinsen, skrev i en oppdatering i dag,
+
+[00:12:05] Energy politics and interventions in energy markets
+
+[00:12:09] are no plain sailing.
+
+[00:12:11] Så det,
+
+[00:12:12] det gjør ting ganske mye mer komplisert,
+
+[00:12:16] men spørsmålet er hvordan påvirker
+
+[00:12:18] dette her med pristaket til EU tankaksjene,
+
+[00:12:20] for det er vel viktig for tank?
+
+[00:12:22] Ja, altså det som jeg tror man må huske,
+
+[00:12:25] det er to ulike kalde reguleringer eller ting som skjer,
+
+[00:12:30] det første er jo at EU forbyr import av russisk olje
+
+[00:12:34] og oljeprodukter etter hvert,
+
+[00:12:36] og det de ønsker å gjøre er å unngå
+
+[00:12:38] en enda verre energikrise enn den vi er i i dag,
+
+[00:12:41] og måten å gjøre det,
+
+[00:12:42] er å legalisere og legitimere at andre nasjoner
+
+[00:12:47] og andre destinasjoner kan ta imot oljen som kommer ut av Russland,
+
+[00:12:51] ellers hadde vi hatt et stort problem.
+
+[00:12:52] Så det det pristaket gjør er jo egentlig for å legge til rette,
+
+[00:12:57] for at også land som i den vestlige verden
+
+[00:13:01] kan være med på å finansiere og forsikre,
+
+[00:13:03] og sørge for at flyten av olje ut av Russland fortsetter,
+
+[00:13:07] også etter en bargånd fra 5. desember som begynner på råolje.
+
+[00:13:10] Men også sånn sett så kan du si,
+
+[00:13:12] at hele poenget med denne reguleringen er å sørge for
+
+[00:13:14] at du får en vareflyt omdirigert fra en handelsrute som den er i dag,
+
+[00:13:18] til en annen, og som vi har sagt gjentatte ganger,
+
+[00:13:22] så mener vi det er en veldig positiv effekt.
+
+[00:13:24] Så det eneste trusselen her er at pristaket
+
+[00:13:26] eller reguleringene rundt det her blir gjort på en sånn måte
+
+[00:13:29] at russiske volym til syvende og siste faller bort,
+
+[00:13:32] for det er det man absolutt vil unngå,
+
+[00:13:34] for det gjør at du får en av mindre olje å frakte,
+
+[00:13:38] og det er selvfølgelig ikke positivt for tankaksjene da.
+
+[00:13:41] Bruker du mye tid på,
+
+[00:13:42] og disse tingene nå på?
+
+[00:13:44] Ja, det går jo litt tid til å bare prøve å forstå
+
+[00:13:46] hva som egentlig skjer,
+
+[00:13:47] og det har jo vært mye, som du sier,
+
+[00:13:49] litt forvirring her helt,
+
+[00:13:51] både hva de prøver å få til,
+
+[00:13:53] og om det i det hele tatt er mulig
+
+[00:13:55] å oppnå de resultatene som de prøver å gjennomføre her,
+
+[00:13:58] så det er ikke like lett å få med seg alt som skjer her.
+
+[00:14:01] Neida, vi får holde fokuset på tankskipping.
+
+[00:14:05] Det har jo vært dårlig i flere år,
+
+[00:14:07] men nå har det virkelig skjedd ting, Jørgen.
+
+[00:14:10] Vi har hatt stortankrater over 100 000 dollar
+
+[00:14:12] dagen denne uken,
+
+[00:14:13] og så har det vel kommet litt ned nå,
+
+[00:14:15] mot slutten av uken,
+
+[00:14:18] ned mot 80 000 tallet.
+
+[00:14:21] Hvor lenge kan morra være?
+
+[00:14:23] Ned og ned, det svinger litt i shipping.
+
+[00:14:25] Ja, vi er vant til det.
+
+[00:14:28] Jeg tror, Paul og jeg snakket om det i går,
+
+[00:14:30] og hvis du skal se på når tankaksjer topper ut,
+
+[00:14:32] så er det jo i desember.
+
+[00:14:34] Og det er sesongmønstre som er drevet,
+
+[00:14:36] da når et spørsmål finnes sted, etc.
+
+[00:14:37] Det er det alle vet og venter litt på,
+
+[00:14:41] men så er det disse effektene,
+
+[00:14:42] av særlig oljeembargon,
+
+[00:14:45] både på rålig i første omgang,
+
+[00:14:46] 5. desember, inn i Europa,
+
+[00:14:47] som bør støtte dette markedet enda mer.
+
+[00:14:49] Men vi, etter det,
+
+[00:14:51] så har du også noe du venter på 5. februar,
+
+[00:14:53] som er tilsvarende for oljeprodukter.
+
+[00:14:55] Så må du huske at produkttank og rålig tank,
+
+[00:14:58] de henger veldig tett sammen.
+
+[00:14:59] Så hvis du får et strammere marked i et av de,
+
+[00:15:01] så vil det også hjelpe det andre.
+
+[00:15:03] Så svaret er vel at sesongmessig
+
+[00:15:06] nærmer vi oss der hvor ting pleier å toppe ut.
+
+[00:15:09] Men det er en god del ting som ligger til rette
+
+[00:15:11] for at denne her,
+
+[00:15:12] oppturen og styrken i markedet,
+
+[00:15:14] også skal vedvare de nærmeste månedene,
+
+[00:15:16] mener vi.
+
+[00:15:17] Og så er det også sånn på lengre sikt,
+
+[00:15:18] at det fundamentale ser veldig bra ut.
+
+[00:15:21] Du er jo ikke den eneste analytikeren i byen,
+
+[00:15:25] som har vært ute med oppdateringer denne uken,
+
+[00:15:28] og mitt inntrykk er at det er mange som er ute
+
+[00:15:30] med ganske positive spådommer.
+
+[00:15:32] Men Paul, og Jørgen også for så vidt,
+
+[00:15:35] er det ikke litt sånn fristen å ta gevinst her,
+
+[00:15:37] nå som oppturen på en måte,
+
+[00:15:40] den har jo vært der på en måte.
+
+[00:15:42] Det er jo alltid litt sånn,
+
+[00:15:43] når alle er klare over at toppen pleier å være
+
+[00:15:45] i en eller annen gang i midten av desember,
+
+[00:15:48] så vil man ikke kanskje vente til midten av desember
+
+[00:15:50] før man tar gevinst,
+
+[00:15:51] så tenker jeg, jeg tar det en uke før,
+
+[00:15:53] og så er det noen andre som tenker,
+
+[00:15:54] ja, hvis alle andre skal ta det en uke før,
+
+[00:15:55] da må jeg ta det to uker før,
+
+[00:15:56] og så plutselig er vi i slutten av november,
+
+[00:15:59] og folk driver å prøve å ta gevinst.
+
+[00:16:01] Så om dette her er den vanlige volatiliteten
+
+[00:16:05] som vi må forvente,
+
+[00:16:06] eller om det eventuelt er bare at toppen
+
+[00:16:08] kommer litt tidligere denne gangen,
+
+[00:16:10] det er jo vanskelig å si,
+
+[00:16:11] men som Jørgen var inne på,
+
+[00:16:12] det at det er en del sånne strukturelle faktorer
+
+[00:16:14] som er litt annerledes denne gangen,
+
+[00:16:16] så tror jeg kanskje gi litt benefit av det der,
+
+[00:16:19] og til hvert fall se hvordan det ser ut
+
+[00:16:22] inni den første uken i desember,
+
+[00:16:24] hvis det fortsatt,
+
+[00:16:25] når ratene kommer ned,
+
+[00:16:26] eller ikke får en ny rebound opp,
+
+[00:16:28] så er det kanskje riktig tidspunkt
+
+[00:16:31] å ta litt gevinst,
+
+[00:16:31] og så heller prøve å komme inn igjen
+
+[00:16:33] når det er lavsesong inn i Q1.
+
+[00:16:35] Jeg er helt enig i det,
+
+[00:16:37] jeg mener det er veldig mye bevegelser
+
+[00:16:38] i disse aksjene for tiden
+
+[00:16:39] som kan tyde på at folk sitter og teller
+
+[00:16:41] litt på knappene,
+
+[00:16:41] når det er på tide å komme ut,
+
+[00:16:43] folk som har ventet på denne oppturen her
+
+[00:16:44] kanskje ganske lenge,
+
+[00:16:45] og den har vært veldig god den,
+
+[00:16:47] så det er forståelig.
+
+[00:16:48] Men i forhold til disse positive analysene
+
+[00:16:51] på sektoren,
+
+[00:16:52] så tror jeg det er forskjell på
+
+[00:16:53] hva som skjer fra dag til dag,
+
+[00:16:55] altså da svinger det,
+
+[00:16:55] og det går mye opp og ned,
+
+[00:16:56] og man kan snakke sesong innad i år,
+
+[00:16:57] et cetera,
+
+[00:16:58] men litt av poenget i tank akkurat nå
+
+[00:17:00] er at du har,
+
+[00:17:01] hvis du ser på det fundamentale bildet
+
+[00:17:02] og litt lengre sikt,
+
+[00:17:03] så har du en ekstremt lav orderbok
+
+[00:17:05] i forhold til flåten,
+
+[00:17:06] og du har en gammel og aldrende flåte
+
+[00:17:08] som på et eller annet tidspunkt
+
+[00:17:09] vil måtte utrangeres,
+
+[00:17:11] og det er det som legger grunnlaget,
+
+[00:17:13] tror jeg,
+
+[00:17:14] for at folk kan være så optimistiske her.
+
+[00:17:16] Du har et,
+
+[00:17:16] altså det er orderbok til flåte på fem prosent,
+
+[00:17:18] som er jo fattelig lavt,
+
+[00:17:20] og det er leveranser som fordeler seg
+
+[00:17:21] over de neste årene,
+
+[00:17:22] det er ikke bare ett år,
+
+[00:17:23] og du kan jo argumentere for at ett år
+
+[00:17:25] så er jo kanskje fem prosent flåte leveranser
+
+[00:17:27] det du bør ha,
+
+[00:17:28] bare for å fornye flåten vi har i dag.
+
+[00:17:30] Så det er lett å bli optimist
+
+[00:17:32] når du vet at markedet er utrolig stramt i dag,
+
+[00:17:34] du har flere positive katalysatorer foran deg,
+
+[00:17:36] og det langsiktige bildet er såpass betryggende.
+
+[00:17:40] Du har jo dekning på blant annet både Frontline,
+
+[00:17:42] D&T og Euronav,
+
+[00:17:44] har vel kjøpsombefalinger på alle.
+
+[00:17:46] De er priset over en ganger NAV,
+
+[00:17:48] altså da aksjekurs delt på løpende estimerte chipsverdier,
+
+[00:17:51] eller verdijustert enkapital,
+
+[00:17:54] som det heter på fagspråket.
+
+[00:17:56] Er ikke dette et tegn på at det begynner å bli dyrt?
+
+[00:17:59] Jo, du kan si det,
+
+[00:18:00] så det kommer litt an på hvor ligger verdiene i dag,
+
+[00:18:02] som du baserer denne NAV-en på.
+
+[00:18:03] I dag er du vel noenlunde på paritet med hvor nybygdsprisene er,
+
+[00:18:08] og det som da er litt interessant å merke,
+
+[00:18:10] er at hvis du er veldig positiv til markedet de neste par årene,
+
+[00:18:13] og hvis du bestiller et nybygg i dag
+
+[00:18:15] til den prisen som er reflektert i et chip på vannet,
+
+[00:18:17] så sier du i praksis at du ikke skal generere
+
+[00:18:19] noe overskyttende verdi i mellomtiden.
+
+[00:18:22] Men det samsvarer relativt dårlig med det bildet folk har
+
+[00:18:25] på hvordan markedet skal være de nærmeste par årene.
+
+[00:18:27] Så det du kan si er at per i dag
+
+[00:18:29] så er du på mer eller mindre nybygdsparitet
+
+[00:18:31] på et chip du kan få,
+
+[00:18:33] og i dag og i mellomtiden kan du tjene
+
+[00:18:35] uhorvelig mengder cash hvis spådommene slår an.
+
+[00:18:39] Så det er en ting, så du kan si det kan ligge innbakte
+
+[00:18:42] det her at verdiene skal opp,
+
+[00:18:43] som kan reflekterer at du priser ting over NAV,
+
+[00:18:45] fordi som alle vet, chipsverdier er veldig volatile,
+
+[00:18:48] samme som ratebildet.
+
+[00:18:50] Det andre er det at hvis du er i en situasjon
+
+[00:18:53] hvor markedsutsiktene er så bra,
+
+[00:18:54] nettopp fordi ordreboken til flåten er så lav som den er,
+
+[00:18:57] så si 5% i dag.
+
+[00:18:58] Sist gang markedet var bra,
+
+[00:19:00] så hadde du 20% ordreboka flåten til sammenligning.
+
+[00:19:03] Og det setter deg i en helt annen posisjon,
+
+[00:19:06] så du kan argumentere for det at
+
+[00:19:07] verdiene av de chipene som er på vann
+
+[00:19:09] og genererer penger i denne perioden,
+
+[00:19:10] de skal være verdt mye mer.
+
+[00:19:12] Og det kan forsvare at du priser deg over NAV.
+
+[00:19:15] Ok, vi skal snakke litt gasskipping også.
+
+[00:19:19] Du er positiv, du har kjøpt på Cool Company
+
+[00:19:23] og Golar LNG, mens Flex LNG, der har du hold.
+
+[00:19:28] Hvor viktig er energisituasjonen i Europa
+
+[00:19:30] når det kommer til gasskipping?
+
+[00:19:32] Det har vært det som har diktert hele det markedet,
+
+[00:19:35] mener jeg, de siste månedene,
+
+[00:19:37] det siste halvåret, kanskje mer.
+
+[00:19:40] Du har fått et skifte i hvor etterspørselspunktet,
+
+[00:19:43] hvor hovedetterspørselen for den marginale lasten
+
+[00:19:46] av gasskipping er.
+
+[00:19:48] Og det har flyttet seg fra Asia til Europa.
+
+[00:19:50] Og det gjør at du må konkurrere på pris
+
+[00:19:53] for å få de volymene inn til Europa.
+
+[00:19:55] Og det er det du har gjort i Europa,
+
+[00:19:56] gjør at spreaden til amerikansk gass
+
+[00:19:58] eksempelvis blir veldig, veldig vid.
+
+[00:19:59] Og når spreaden er utrolig vid,
+
+[00:20:02] så er det en betalingsvillighet for frakt også.
+
+[00:20:04] Og det er det som holder markedet opp i dag,
+
+[00:20:06] på tross av at du kan argumentere for at noen
+
+[00:20:08] av de fundamentale tonnmil-etspørselsindikatorene
+
+[00:20:11] ikke er så gode som markedet kanskje burde indikere.
+
+[00:20:14] Ja, fordi du peker på at du ser kortere seilingsdistanse,
+
+[00:20:19] flåtevekst på i snitt 10% de neste årene,
+
+[00:20:21] men samtidig så er det disse arbitrasjemulighetene
+
+[00:20:23] som er det som driver fraktmarkedet nå.
+
+[00:20:26] Ja, det er helt riktig.
+
+[00:20:27] Så det du kan gjøre er at så lenge det er en prisforskjell
+
+[00:20:30] mellom to regioner, så kan du regne på
+
+[00:20:32] hvor mye du er villig til å betale i frakt
+
+[00:20:34] for å ta ut hele den differansen.
+
+[00:20:36] Og noen av de nivåene du har sett på den arbitrasjen
+
+[00:20:39] og potensiale forater gjennom vinteren
+
+[00:20:41] har vært ekstremt høye.
+
+[00:20:42] Det har vært snakk om 3 millioner dollar per dag,
+
+[00:20:44] og så betaler du 150 000 dollar for å slutte et skip
+
+[00:20:47] på et år, ikke sant?
+
+[00:20:49] Så shipping tar en utrolig liten del av arbitrasjen,
+
+[00:20:52] som er en indikasjon på at shippingmarkedet ikke er tight,
+
+[00:20:54] men så er arbitrasjen så utrolig stor
+
+[00:20:56] at det likevel drypper mer enn nok på klokkeren.
+
+[00:21:00] Ja, og det kommer også et sånt gass,
+
+[00:21:02] pristak som EU holder på med,
+
+[00:21:04] men her er det også stor uenighet tydeligvis,
+
+[00:21:08] og noen kaller det en ikke-sak,
+
+[00:21:10] og jeg tror egentlig ikke vi skal gå så veldig inn på det
+
+[00:21:12] jeg er i i dag, rett og slett.
+
+[00:21:14] Men hvordan vil en kald vinter
+
+[00:21:16] i forhold til en mild vinter
+
+[00:21:19] påvirke gassfjaktmarkedet?
+
+[00:21:20] Og da tenker jeg altså i Europa, da.
+
+[00:21:22] Ja, her nå har du hatt en periode
+
+[00:21:24] hvor lagernivåen i Europa har vært veldig høye,
+
+[00:21:27] fordi etterspørselen har vært lav,
+
+[00:21:28] og de har klart å bygge opp lagerne i forkant av
+
+[00:21:30] at man trekker det gjennom vinteren som regel,
+
+[00:21:32] når det er større behov for energi.
+
+[00:21:34] Jeg tror med en gang du ser at det er litt rom igjen
+
+[00:21:38] i lagerne, så kommer man til å løpe løpskettet
+
+[00:21:41] og få tak i så mye energi og gass som mulig
+
+[00:21:43] for å prøve å fylle tomrom som alle forventer kommer
+
+[00:21:46] når vinteren ruller over.
+
+[00:21:47] Så ja, det blir en switch, kan du si,
+
+[00:21:53] at plutselig så blir det et spørsel i Europa igjen,
+
+[00:21:54] og prisbildet kan gå ut,
+
+[00:21:55] og arben kan utvide seg, et cetera.
+
+[00:21:57] Ja, vi kan jo ikke spå været,
+
+[00:21:59] så det får vi jo rett og slett bare se hvordan det blir.
+
+[00:22:02] Vi får ta med at vi hadde Cool Company i studio her hos oss
+
+[00:22:06] tidligere i dag,
+
+[00:22:07] og de som har lyst til å gå mer inn i detaljene
+
+[00:22:10] på hva de gjør og hvordan de tenker,
+
+[00:22:12] de kan se presentasjonen på video
+
+[00:22:14] inne i aksjensløsningen til DNB.
+
+[00:22:17] Frontline får vi bare avslutte med da.
+
+[00:22:20] Tankshipping-aksjen over alle tankshipping-aksjer
+
+[00:22:23] handler på rundt 136 kroner nå,
+
+[00:22:26] kommet ned fra toppen på 147 i starten av uken.
+
+[00:22:29] De kommer med tall neste uke, onsdag 30. november.
+
+[00:22:32] Ja, kan denne dippen i aksjekursene gjøre det lettere
+
+[00:22:35] for selskapet å innfri investorenes forventninger?
+
+[00:22:38] Jeg tror de kommer til å levere veldig bra tall,
+
+[00:22:40] og ikke minst tallene for kvartalet er noe en ting,
+
+[00:22:43] men guidingen for hva som har skjedd så langt i neste kvartal.
+
+[00:22:45] Utbytte her kan kanskje bli en joki.
+
+[00:22:47] Ja, det er greit å nevne.
+
+[00:22:50] Tradisjonelt har vi ligget med en høy utbyttegrad
+
+[00:22:52] basert på apps i vår modellering på aksjen,
+
+[00:22:55] men nå er det jo faktisk en spesiell situasjon i Frontline
+
+[00:22:58] i forbindelse med sammenslåingen som de driver med
+
+[00:23:01] opp mot Euronav, som gjør at man har en begrensning
+
+[00:23:03] i utbytte på 15 cent frem til den tenderofferen
+
+[00:23:06] som skal bli annonsert er ferdig.
+
+[00:23:08] De 15 centene betalte de egentlig ut i Q2,
+
+[00:23:11] så i prinsippet kan det gjøre det vanskelig
+
+[00:23:14] at det kommer noe ...
+
+[00:23:15] Man skal ikke ha noen høye dividendeforventninger
+
+[00:23:17] i hvert fall for Q3,
+
+[00:23:19] på tross av at kanskje resultatene vil være utrolig gode
+
+[00:23:22] og reflektere det sterke markedet vi har nå.
+
+[00:23:25] Det blir spennende neste uke, onsdag også.
+
+[00:23:28] Vi skal videre og få inn en ny gjest,
+
+[00:23:31] så tusen takk for at du var med, Jørgen.
+
+[00:23:32] Bare glede deg.
+
+[00:23:39] Da skal vi avslutte med å snakke både renter og aksjer.
+
+[00:23:43] Med oss i studio har vi nå Thor-Andre Lysebo
+
+[00:23:46] fra Veldt Management Investment Office,
+
+[00:23:49] som det så fint heter.
+
+[00:23:50] Velkommen, Thor-Andre.
+
+[00:23:51] Takk skal du ha.
+
+[00:23:52] Du har jo vært med i podcasten flere ganger før du.
+
+[00:23:56] Sist var vel i september.
+
+[00:23:59] Nå er vi jo sånn at vi er fortsatt i en oppgangsperiode
+
+[00:24:01] for aksjer hvis vi måler fra ...
+
+[00:24:03] Forrige bunnen for S&P i midten av oktober.
+
+[00:24:08] I forhold til forrige gang du var med på podcasten
+
+[00:24:11] som da var i september,
+
+[00:24:12] er du mer optimistisk for aksjer nå enn du var da?
+
+[00:24:15] Eller vil du si det er status quo?
+
+[00:24:17] Jeg tror ikke det er ganske status quo.
+
+[00:24:19] Det vi snakket om da var jo at vi var i en usikker situasjon,
+
+[00:24:23] i hvert fall på kort sikt.
+
+[00:24:24] Men de som har litt lengre briller
+
+[00:24:26] burde definitivt begynne å kjøpe litt
+
+[00:24:29] og investere opp over en periode.
+
+[00:24:31] Så må vi jo også innse at det har faktisk gått 10%
+
+[00:24:35] siden vi snakket om det sist.
+
+[00:24:36] Vi kan vel si det er status quo, tenker jeg.
+
+[00:24:40] Det er fremdeles det samme som gjelder.
+
+[00:24:41] Ja, Poul, energikrisen er ikke løst.
+
+[00:24:43] Selskapenes marginer vil antageligvis krympe fremover.
+
+[00:24:46] Og vinteren har vi sett glimt av at det er på vei.
+
+[00:24:50] Og man kan vel fort finne argumenter for at aksjer er
+
+[00:24:53] ikke billigpriset, hvertfall.
+
+[00:24:56] Ja, det er den utfordringen vi har at renter har trukket opp
+
+[00:24:59] en god del i år.
+
+[00:25:01] Det gir jo til at en del av de gamle regnestykkene
+
+[00:25:05] når man ser på hvordan markedet har gått de siste 20 årene
+
+[00:25:07] så har jo stort sett renter vært fallende i den perioden.
+
+[00:25:10] Så det er litt viktig å ta med seg at når rentene trekker opp
+
+[00:25:13] så gjør det at prising i hvertfall relativt til renter
+
+[00:25:16] blir ikke like attraktivt som det kanskje kan se ut
+
+[00:25:18] i første øyekast.
+
+[00:25:20] Samtidig er det jo litt mer optimisme knyttet til at
+
+[00:25:22] Fed får til en myk landing.
+
+[00:25:24] Husholdningene har tydeligvis kanskje enda mer
+
+[00:25:28] å rytte med enn det mange har trodd.
+
+[00:25:31] Og Europa har nok gass på lager til at de ser ut til
+
+[00:25:35] å kunne klare seg gjennom vinteren.
+
+[00:25:37] Så det er jo litt positive skudd der ute, Tor André.
+
+[00:25:39] Ja, definitivt.
+
+[00:25:40] Så får vi se om faktisk Fed får til denne myke landingen.
+
+[00:25:45] Det gjenstår jo fremdeles å se, men det er helt åpenbart
+
+[00:25:48] at det viktigste nok som har skjedd,
+
+[00:25:50] i hvertfall den siste måneden, spesielt i november,
+
+[00:25:52] var jo nettopp at sentralbankene begynte å snakke om
+
+[00:25:54] at vi nærmer oss toppen av denne renteoppgangen.
+
+[00:25:57] Og det gjorde nok at flere markedsdeltagere
+
+[00:25:59] begynner å puste litt lettere ut.
+
+[00:26:01] Og det er jo nettopp også, i sammenheng med det
+
+[00:26:04] Poul snakker om her, at renteoppgangen har vært litt røff.
+
+[00:26:07] Ja, Poul, altså rentereferatet til den amerikanske sentralbanken,
+
+[00:26:10] det kom onsdag denne uken.
+
+[00:26:13] Fant du noe interessant der?
+
+[00:26:14] Altså sier Fed virkelig at rentetoppenen ikke er langt unna?
+
+[00:26:19] Ja, det ble tolket litt duet til, i hvertfall.
+
+[00:26:22] Når det er sagt, når vi ser på hvordan markedet priser
+
+[00:26:24] renteutviklingen fremover i forhold til det de gjorde
+
+[00:26:27] før referatet, så har det ikke vært veldig store forskjeller
+
+[00:26:31] det har fremdeles ventet 50 punkter renteheving i desember.
+
+[00:26:35] Toppen er nå forventet å være rundt 5 blank, sånn cirka.
+
+[00:26:40] Før referatet var det 5,1, så det har kommet litt ned
+
+[00:26:44] i forhold til der det var.
+
+[00:26:45] Men jeg tror kanskje det viktigste er at nå har vi
+
+[00:26:48] egentlig hatt et år hvor renteforventningen har steget
+
+[00:26:50] gjemt egentlig måned etter måned, og det har hele tiden
+
+[00:26:54] vært sånn at man må justere opp forventning til renter.
+
+[00:26:57] Men nå har vi egentlig hatt 4-5 uker hvor det har gått
+
+[00:27:00] relativt.
+
+[00:27:01] Relativt sidelengs, det har gått litt opp den ene uken
+
+[00:27:02] litt ned den neste, men relativt sidelengs utvikling
+
+[00:27:06] og det tror jeg er egentlig ganske viktig når man har hatt
+
+[00:27:08] en såpass lang periode hvor renter har bare vært stigende
+
+[00:27:11] trend over tid.
+
+[00:27:13] Ja, så er det det som er litt konklusjonen her at ja,
+
+[00:27:16] rentene skal opp litt til, men disse forventningene
+
+[00:27:19] de skal holde seg stabilt fremover som det ser ut her i dag.
+
+[00:27:25] Ja, så det er sånn forventninger som er det som er viktig
+
+[00:27:27] for markedet heller enn nøyaktig hva renten er på et eller annet
+
+[00:27:30] tidspunkt.
+
+[00:27:31] Så det er som du sier at det er det at forventningen da har
+
+[00:27:34] egentlig vært relativt stabile i en periode og da gjør det at
+
+[00:27:38] det ikke blir den samme type effekten som vi har hatt nå i
+
+[00:27:41] litt over et år hvor det har vært stigende rente som da har
+
+[00:27:45] egentlig kjørt hele showet fra aksjemarkedet.
+
+[00:27:48] Når vi lagde podcast tidligere i høst, Tor Andres, så sa du
+
+[00:27:51] vel at den tradisjonelle 60-40 porteføljen ikke var død
+
+[00:27:56] selv om den ikke har funket i år da det har vært et spesielt
+
+[00:28:01] år. Det er vel dette år og to ganger tidligere de siste
+
+[00:28:05] mange, mange tiårene hvor det ikke har funket. Men ja, så ser
+
+[00:28:10] vi fra 80-tallet og frem til i dag så har denne mixen her gitt
+
+[00:28:14] stort sett bra avkastning på linje eller bedre med S&P 500-indeksen
+
+[00:28:19] og kanskje med litt lavere volatilitet. Det er liksom derfor
+
+[00:28:23] den har slått den, er det ikke det? Altså 60-40 er da bare
+
+[00:28:27] ta med det det henviser, som jeg tror de fleste lytterne våre
+
+[00:28:29] vet, til at porteføljen er 60-40.
+
+[00:28:31] Så det er 70% i aksjer og 40% i obligasjoner. Så spørsmålet
+
+[00:28:37] er nå, er det rentenestid fremover som gjelder, eller er det
+
+[00:28:42] aksjer man skal investere i, eller er det en sånn Ole Brom
+
+[00:28:45] tilnærming, ja takk, begge deler, altså en sånn typisk
+
+[00:28:48] 60-40 portefølje? Jeg tror det er porteføljenestid, ja,
+
+[00:28:51] så det er litt, ja takk, begge deler. Det er en veldig
+
+[00:28:54] markert bevegelse vi har hatt i år. Vi må jo nesten tilbake
+
+[00:28:57] til før finanskrisen for å se renter på samme nivå som vi har
+
+[00:29:01] nå, så får vi plutselig faktisk da renter for en gang
+
+[00:29:04] skyld, og det er lenge siden sist. Og det vi ser fremfor oss
+
+[00:29:07] nå er jo nettopp at løpende avkastning i nettopp
+
+[00:29:10] obligasjoner og renter er på et helt annet nivå, som gjør
+
+[00:29:12] at en 60-40 portefølje nå fremover ser om noe mye mer
+
+[00:29:17] attraktivt ut enn det har gjort på veldig, veldig mange
+
+[00:29:20] år. Og vi tror definitivt at dette er tidspunktet for
+
+[00:29:22] å investere litt mer diversifisert og litt bredere,
+
+[00:29:26] og nettopp se på den type porteføljesammensetninger.
+
+[00:29:28] Og jeg tror faktisk, du er kanskje inne på noe, jeg blir ikke
+
+[00:29:31] overrasket om vi får perioder som fort kan være både
+
+[00:29:34] kvartaler og endog, til og med et kalenderår fremover,
+
+[00:29:37] hvor renter faktisk kan gjøre det bedre enn aksjer
+
+[00:29:39] også i delperioder.
+
+[00:29:40] Men hvis du begynner å gå betydelig med penger ut
+
+[00:29:45] av aksjer og inn i renter, og dette spørsmålet går
+
+[00:29:49] til begge to, altså hva blir konsekvensene for aksjer da?
+
+[00:29:52] Ja, det er klart det er jo sånn at kapitalflyten som
+
+[00:29:55] gjerne styrer utviklingen i priser i hvert fall på
+
+[00:29:58] kort sikt, så klart går penger ut av aksjemarkedet
+
+[00:30:01] og inn i renter, så kommer vi til å merke det i aksjemarkedet
+
+[00:30:04] og litt sånn en relatert sak kan du si, som vi har
+
+[00:30:07] også vært innom i tidligere sendinger, dette med
+
+[00:30:09] quantitative tightening, det gjør jo også at du trekker
+
+[00:30:11] penger ut, eller trekker likviditet ut av markedet,
+
+[00:30:14] så det er en del ting som skjer på den flytsiden,
+
+[00:30:17] som kan bli ganske viktig i løpet av det neste
+
+[00:30:20] året, og sånne type effekter er veldig vanskelig
+
+[00:30:23] å regne ut hvor mye det egentlig slår.
+
+[00:30:26] Og dette er noe som jeg har gjort litt jobb med
+
+[00:30:28] og snakket med flere professorer innen
+
+[00:30:31] så ingen har egentlig kommet med noen sånn
+
+[00:30:33] veldig god forklaring på helt hvor mye du skal
+
+[00:30:36] beregne at x antall dollar inn eller ut av markedet
+
+[00:30:39] egentlig slår.
+
+[00:30:40] Ja, og det er et viktig element her, for det som
+
+[00:30:43] egentlig ligger bak oss er disse Tina-effektene
+
+[00:30:45] vi har snakket om, there is no alternative.
+
+[00:30:48] Det er jo det som har vært, når rentene var
+
+[00:30:49] lave, så ble veldig mange tvunget inn i mer
+
+[00:30:52] risikable aktiver for å skaffe seg avkastning.
+
+[00:30:55] Men jeg tror det er en liten misforståelse
+
+[00:30:58] der ute på at alle disse midlene har gått
+
+[00:31:01] rett inn i vanlige aksjer.
+
+[00:31:03] Mitt inntrykk er at det er ganske mye her som
+
+[00:31:05] har gått i en del alternative investeringer
+
+[00:31:07] også. Det er spesielt så er det veldig mange
+
+[00:31:09] store institusjonelle investorer som
+
+[00:31:11] livselskaper, pensjonskasser og lignende
+
+[00:31:14] som har flyttet midler fra rentemarkedene
+
+[00:31:16] og inn i andre aktiver. Men de hadde ikke
+
+[00:31:18] risikokapasitet til å kjøpe aksjer som
+
+[00:31:20] er dagligpriset. Så de har i veldig stor
+
+[00:31:23] grad kjøpt eiendom, PE-fond og lignende
+
+[00:31:26] fordi der er verdsettelsen litt mindre
+
+[00:31:29] eller i hvert fall ikke daglig.
+
+[00:31:31] Så de slipper å få disse store verdisvingningene.
+
+[00:31:34] Det er kanskje ikke like lett å trekke pengene
+
+[00:31:35] ut igjen fra sånne typer investeringer da?
+
+[00:31:37] Nei, og det ser vi jo nå.
+
+[00:31:38] Det er et veldig klart tegn til at det er flere
+
+[00:31:41] av disse aktørene som forsøker å trekke seg
+
+[00:31:42] litt ut og driver å selge litt aktivt.
+
+[00:31:44] De selger i prinsippet det de kan til en
+
+[00:31:47] rimelig pris i stor grad og trekker seg inn
+
+[00:31:49] mot rentemarkedet. Men det er nok,
+
+[00:31:51] i hvert fall fra den type aktører, så virker
+
+[00:31:53] det som det er mye mindre salg av aksjer
+
+[00:31:55] enn det enkelt hadde forestilt seg på forhånd.
+
+[00:31:57] I 2022 så har Macron, altså som
+
+[00:32:01] senter og inflasjon, dominert markedet.
+
+[00:32:04] Vi har jo snakket om dette her omtrent i hver
+
+[00:32:06] eneste episode av podcasten.
+
+[00:32:08] På børsen så kan vi jo se det i form av at
+
+[00:32:10] tidevannet i mange tilfeller har løftet
+
+[00:32:12] alle aksjene i en sektor, som for eksempel
+
+[00:32:15] energi, mens det motsatte har skjedd i for eksempel
+
+[00:32:18] teknologisektoren. Og dette her, det er en
+
+[00:32:20] top-down-tilnærming til aksjer.
+
+[00:32:23] Det motsatte er bottom-up. Da fokuserer man
+
+[00:32:26] mer på selskapene på mikronivå,
+
+[00:32:28] hva de tjener, hvor konkurransutsatte de er,
+
+[00:32:31] balanse, refinansieringsbehov, ledelse,
+
+[00:32:34] og så videre, og så videre. Og det betyr da
+
+[00:32:37] alt annet like at aksjer innad i en sektor
+
+[00:32:41] i større grad kan gå motsatt vei av hverandre.
+
+[00:32:45] Så forklaringen er altså top-down, da har vi
+
+[00:32:48] til dels store forskjeller mellom sektorer
+
+[00:32:51] i markedet, mens bottom-up, da har vi til dels
+
+[00:32:53] store forskjeller innad i sektorene.
+
+[00:32:56] Og Paul, hvorfor kan denne bottom-up-tilnærmingen
+
+[00:32:59] til aksjeinvesteringer bli mer aktuelt i 2023?
+
+[00:33:03] Og det har vel noe med renteforventningen å gjøre,
+
+[00:33:05] som vi har snakket om?
+
+[00:33:06] Ja, så det er nettopp det at den endringen vi har
+
+[00:33:08] hatt i renter i år, du må egentlig helt tilbake til
+
+[00:33:10] 1980 til å finne noe tilsvarende. Så når du har
+
+[00:33:13] en felles makrodrive som dominerer alt annet,
+
+[00:33:16] da blir det til at det egentlig bestemmer i stor
+
+[00:33:19] grad hva som funker og hva som ikke funker.
+
+[00:33:21] Så du kan ha plukket en middelmådig eller dårlig
+
+[00:33:25] aksje i en riktig sektor og gjort det veldig bra,
+
+[00:33:27] eller hvis du har plukket den beste aksjen i en dårlig
+
+[00:33:30] sektor, så har du likevel gjort det ganske dårlig.
+
+[00:33:33] Så det har vært veldig viktig å plukke de riktige
+
+[00:33:35] sektorene i år. Så sendte noen ut på Twitter for
+
+[00:33:39] noen dager siden at av de seks beste aksjene på
+
+[00:33:41] Oslo Børs i år, så var samtlige innenfor
+
+[00:33:43] shipping for eksempel. Så det har vært et veldig
+
+[00:33:46] sektorstyrt år nå, men hvis rentene nå begynner
+
+[00:33:50] å gå mer sidelengs, da får du ikke den samme
+
+[00:33:52] dominerende som felles driveren for alle aksjene
+
+[00:33:56] som vi har hatt i år.
+
+[00:33:57] Jeg ser liksom ikke for meg at vi skal ha to år
+
+[00:33:59] på rad med såpass store renteøkninger,
+
+[00:34:00] så da blir det mye mer sannsynlig at det er
+
+[00:34:03] mer selskapsspesifikke faktorer som styrer,
+
+[00:34:06] frem til man eventuelt har en resesjon for eksempel,
+
+[00:34:09] som da vil bli den felles driveren en gang til.
+
+[00:34:11] Men så lenge man unngår det, og at det er noe
+
+[00:34:14] som i hvert fall ligner en soft landing i noen
+
+[00:34:16] måneder, så blir det mer bottom-up drevet i en
+
+[00:34:20] periode, tror jeg.
+
+[00:34:21] Ja, og spørsmålet da da? Blir det lettere
+
+[00:34:23] eller vanskeligere for investorer å finne
+
+[00:34:26] avkastning i markedet når?
+
+[00:34:27] Er trenden snusjånn?
+
+[00:34:29] Ja, det kan jeg si. For forvaltere så er det gjerne
+
+[00:34:31] den mer bottom-up jobben som er det de har som
+
+[00:34:34] sin edge, kan du si. Så det burde egentlig gi
+
+[00:34:38] bedre muligheter for aktive forvaltere å skape
+
+[00:34:41] mer avkastning i et sånt marked, fremfor at det
+
+[00:34:44] er egentlig en eller to vurderinger om du
+
+[00:34:46] treffer riktig sektor eller ikke, som
+
+[00:34:48] nødvendigvis blir avgjørende. Så det er litt
+
+[00:34:51] sånn at i en portefølje, om du har 20 eller 40
+
+[00:34:54] selskaper, så er det 20 eller 40 bets i stedet
+
+[00:34:57] for at det blir avgjørende.
+
+[00:34:57] Så du egentlig har en eller to bets om du skal
+
+[00:35:00] ha syklisk eller defensiv eller vekst eller value.
+
+[00:35:02] Så åndsen er mye bedre for at du skal få mer
+
+[00:35:04] avkastning i et sånt marker.
+
+[00:35:06] Vi får se da, Tor-Andre, om 2023 blir året
+
+[00:35:09] de aktive forvalterne får skinne ekstra mye.
+
+[00:35:11] Ja, det er selvsagt opp til dem, som vanlig.
+
+[00:35:14] Men jeg tror Påla er inne på et vesentlig poeng her.
+
+[00:35:16] Jeg er svært enig, og jeg tror det er veldig
+
+[00:35:19] viktig at vi har nå vært i en situasjon med
+
+[00:35:21] en veldig, veldig sterk makrodriver som
+
+[00:35:24] egentlig har drevet nesten alle deler av,
+
+[00:35:26] ikke bare aksjemarked, men alle andre delmarkeder
+
+[00:35:29] i finansmarkedet også.
+
+[00:35:31] Og det tror jeg faktisk, han er rett til,
+
+[00:35:32] at det blir litt annerledes når vi ser frem.
+
+[00:35:34] Vi har allerede sett litt konturen av det nå,
+
+[00:35:36] som vi har snakket om her den siste måneden,
+
+[00:35:38] så har det vært litt mer sideveisbevegelser
+
+[00:35:40] i renter, og da er også oppfører en del
+
+[00:35:42] av disse andre markedene litt annerledes.
+
+[00:35:44] Så jeg tror nok vi kommer til å se det også
+
+[00:35:46] utover i 2023, og da er det nettopp opp til
+
+[00:35:48] disse aktive forvalterne da, å bruke muligheten
+
+[00:35:51] som ligger foran dem.
+
+[00:35:52] Men den er der, tror jeg, og den kommer til
+
+[00:35:53] å være der en stund.
+
+[00:35:54] Ja, ja. Dette blir en liten sånn der teaser
+
+[00:35:56] på de oppdateringene som gjerne kommer
+
+[00:35:58] mot slutten av desember, når man har utsikter
+
+[00:36:01] for 2023, hva skjer i 2023, og så videre.
+
+[00:36:06] Vi må vel gjøre det i år også, må vi ikke det?
+
+[00:36:08] Ja da, det kommer noe. Jeg driver og prøver
+
+[00:36:10] å stable sammen litt forskjellige
+
+[00:36:11] argumentasjonsrekker her. Jeg har ikke helt
+
+[00:36:14] konkludert helt hva vi skal mene,
+
+[00:36:16] men jobbe med saken i hvert fall.
+
+[00:36:19] Ja, men det er godt å høre.
+
+[00:36:20] Med det så tror jeg vi runder av for nå,
+
+[00:36:22] så da gjenstår det bare å si tusen takk
+
+[00:36:24] til dere begge.
+
+[00:36:24] For at dere var med. Takk til Jørgen
+
+[00:36:26] som også var med tidligere i sendingen, og sist
+
+[00:36:28] men ikke minst, tusen takk folkens
+
+[00:36:30] til alle dere som hørte på.
+
+[00:36:43] Denne podcasten og detts innhold

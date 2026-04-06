@@ -1,0 +1,58 @@
+#!/bin/sh
+# pre-checkout hook — prevents switching away from main when precious
+# gitignored data exists. This stops the #1 cause of data loss: branch switch
+# wipes gitignored files that git doesn't track.
+#
+# Install: copy to .git/hooks/pre-checkout (or use git config core.hooksPath)
+# Git calls this hook BEFORE any checkout operation.
+
+# $1 = ref of previous HEAD
+# $2 = ref of new HEAD  
+# $3 = 1 if branch checkout, 0 if file checkout
+
+flag="$3"
+
+# Only care about branch checkouts, not file checkouts
+if [ "$flag" != "1" ]; then
+    exit 0
+fi
+
+new_ref="$2"
+current_branch=$(git symbolic-ref --short HEAD 2>/dev/null || echo "detached")
+
+# If we're checking out gh-pages from main, that's the dangerous one
+new_branch=$(git name-rev --name-only "$new_ref" 2>/dev/null || echo "unknown")
+
+# Check if precious gitignored data exists
+precious_paths="backend/storage/audio backend/storage/chromadb backend/venv312 backend/storage/transcripts"
+at_risk=""
+
+for p in $precious_paths; do
+    if [ -d "$p" ] && [ "$(ls -A "$p" 2>/dev/null)" ]; then
+        at_risk="$at_risk  $p\n"
+    fi
+done
+
+if [ -f "backend/storage/manifest.json" ]; then
+    at_risk="$at_risk  backend/storage/manifest.json\n"
+fi
+
+if [ -n "$at_risk" ]; then
+    echo ""
+    echo "╔══════════════════════════════════════════════════════════════╗"
+    echo "║  BLOCKED: Branch checkout would risk gitignored data loss   ║"
+    echo "╚══════════════════════════════════════════════════════════════╝"
+    echo ""
+    echo "These precious paths exist and are NOT tracked by git:"
+    printf "$at_risk"
+    echo ""
+    echo "Switching branches will silently delete them."
+    echo ""
+    echo "USE INSTEAD:"
+    echo "  For gh-pages deploy:  powershell -File deploy-pages.ps1"
+    echo "  For worktree:         git worktree add \$TEMP/wt <branch>"
+    echo ""
+    echo "To force (YOU WILL LOSE DATA): git checkout --no-verify <branch>"
+    echo ""
+    exit 1
+fi

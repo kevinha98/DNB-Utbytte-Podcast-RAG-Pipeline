@@ -1,0 +1,971 @@
+Episode 357: Prøver aksjemarkedet å fighte Fed?
+Publisert: Fri, 16 Ju
+Vert: Marius Brun Haugen
+Varighet: 29 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/prover-aksjemarkedet-a-fighte-fed
+
+--- Transkripsjon ---
+
+[00:00:00] I finansmarkedet er det et ordtak som sier «don't fight the Fed». Det henviser til at man ikke skal vedde mot retningen i pengepolitikken.
+
+[00:00:08] For meg så virker det litt som om aksjemarkedet nå gjør det motsatte. De prøver å fight the Fed.
+
+[00:00:15] Og akkurat nå har aksjemarkedet overtak i kampen, selv om dette selvfølgelig fort kan endre seg.
+
+[00:00:21] Så spørsmålet er, er jeg inne på noe her, eller tar jeg helt feil?
+
+[00:00:25] Det skal jeg diskutere nærmere med Paul Harper i dagens episode.
+
+[00:00:31] Vi skal også innom Kongsberg-gruppen, Yara, XXL, tankmarkedet og børsnoteringen av Dof Group.
+
+[00:00:45] Velkommen til Utbytte, den B-podkasten der vi forklarer hva som skjer i den globale økonomien og finansmarkedene.
+
+[00:00:53] Jeg er Marius Bruun Haugen, og med meg har jeg Paul.
+
+[00:00:57] Hei, Marius.
+
+[00:00:59] Når vi sitter her i studio, så er det torsdag 15. juni.
+
+[00:01:03] Klokken har passert tre på ettermiddagen.
+
+[00:01:08] Både norske og amerikanske aksjer har steget på indeksnivå så langt denne uken.
+
+[00:01:14] Varsel om høyere rentetopper, det preller av som vann på gåsa, ser det ut som.
+
+[00:01:20] Dette her skal vi jo ganske straks komme tilbake til.
+
+[00:01:22] Men som vi snakket om i forrige episode, Paul, positiviteten i markedet virker å holde stand enn så lenge.
+
+[00:01:29] Ja, det gjør det så langt.
+
+[00:01:30] Men jeg tror det er litt sånn at når vi ser på reaksjonen i går, så falt markedet umiddelbart etter beskjeden fra Fed.
+
+[00:01:38] Og så kom det opp igjen, så det var vanskelig å egentlig klare å holde markedet ned.
+
+[00:01:42] Men litt sånn som vi har vært inne på i tidligere episoder her, så er det litt viktig når vi ser på markedsutviklingen.
+
+[00:01:48] Også det som ser litt under vannskorpen, for i Norden for eksempel, da de 11 store sektorene, så er syv av de ned hittil i år.
+
+[00:01:59] Så industri som egentlig drar hele lasset her, de er store sektorer, veier omtrent 60 prosent av indeksen.
+
+[00:02:06] Så sånn sett så er det noen få store selskap som egentlig trekker mesteparten her.
+
+[00:02:13] Og så er bredden mye mer sånn så som så, eller litt ned, kan du si.
+
+[00:02:19] Og igjen, mye av den årsavkastningen kom egentlig i løpet av de første to-tre ukene på året, når vi ser på nordiske aksjer.
+
+[00:02:27] Og i USA så er det litt det samme bildet, det er med at det er ganske stor forskjell hvis du ser på S&P 500-indeksen,
+
+[00:02:34] og den S&P 500 som er equal-weighted, sånn at hver enkelt aksje veier like mye.
+
+[00:02:39] Så det er egentlig syv aksjer som har gjort veldig mye, eller levert veldig mye av den totale avkastningen.
+
+[00:02:44] Så det er viktig å få med nyansene her, at det ikke er en sånn bred oppgang vi har sett,
+
+[00:02:49] det har vært heller da noen få store aksjer som har holdt seg veldig bra.
+
+[00:02:53] Ja, og det er bra du minner oss på det.
+
+[00:02:57] Det foregår med episodene, så forhåpentligvis da så har de fleste av kundene og lytterne våre fått med seg det.
+
+[00:03:06] Hvis vi ser på oljeprisen da, så er den derimot flat til litt ned, rundt 74 dollar fater når vi sitter her.
+
+[00:03:13] Den amerikanske tiårsrenten er litt opp fra 3,7 i starten av uken til, ja i hvert fall 3,8 prosent nede på skjermen for et par timer siden.
+
+[00:03:23] Du snakket jo om de store aksjene, Paul.
+
+[00:03:26] Aksj-Equinor?
+
+[00:03:27] Det er den største aksjen i markedsferdighet på Oslo Børs, har ikke latt seg affisere så veldig av at oljeprisen fortsatt er litt sommerslapp.
+
+[00:03:35] Den er opp fra 280 ved månedsskiftet til over 320 kroner nå, den har steget gjemt og trutt i over to uker den.
+
+[00:03:41] Ja, altså her er det gasspriset som egentlig er den viktige faktoren, så mens oljepriset egentlig ikke har gjort så voldsomt mye,
+
+[00:03:47] så er gasspriset nå opp ganske kraftig.
+
+[00:03:50] Så hvis vi ser på utvikling Equinor i forhold til Ake BP for eksempel, så har Equinor outperformet Ake BP da med 8 prosent,
+
+[00:03:57] på litt over en uke, sammenlignet med Equinor med vår energi, som også da har mye gasseksponering,
+
+[00:04:02] så er Equinor faktisk litt grann bak vår i den samme perioden.
+
+[00:04:06] Så dette er egentlig forskjellen på gass- og oljepris som er forklaringen bak dette.
+
+[00:04:11] Ja, ok, så til den amerikanske sentralbanken Fed da.
+
+[00:04:17] Onsdag kveld så annonserte de at de tar en pause i hevingssyklusen, skal vi kalle det det,
+
+[00:04:24] og de lot altså renten være i ro.
+
+[00:04:27] De var i tråd med konsensus, de ventet at Fed ikke ville komme til heve ved dette møtet,
+
+[00:04:32] og det som kanskje var noe mer oppsiktsvekkende, det var at dette dot-plottet som viser hvor kommittemedlemmene
+
+[00:04:38] ser for seg at renten vil være frem i tid, viste en forventning om å heve to ganger til i år.
+
+[00:04:45] Så nå ser Fed en rentetopp på 5,6 prosent.
+
+[00:04:50] Ble du tatt på sengen av den nye rentetoppen på?
+
+[00:04:52] Jeg tror de aller fleste forventet signaler om kanskje en renteøkning til,
+
+[00:04:56] og hvis vi ser hva som er priset inn i terminmarkedet, så priser faktisk ikke fullt ut en renteøkning til en gang.
+
+[00:05:02] Det er sånn rundt 80 prosent sannsynlighet for at det kommer en til.
+
+[00:05:06] Så sånn sett så tror jeg det er, hvis de faktisk gjennomfører dette her,
+
+[00:05:10] og det er jo selvfølgelig en annen sak, men det er nok hakket mer hauketøy enn jeg tror de fleste var forberedt på.
+
+[00:05:19] Så har vi som jeg sa innledningsvis da, dette ordtaket som sier don't fight the Fed,
+
+[00:05:23] men for meg så virker det som aksjemarkedet nå står,
+
+[00:05:26] står i ene hjørne av ringen, og jeg er veldig lysten på å gjøre det motsatte,
+
+[00:05:31] nemlig å gå i kamp.
+
+[00:05:35] Altså, har jeg et poeng? Er jeg inne på noe her?
+
+[00:05:38] Jeg tror du kan si at markedet egentlig satser på at Fed bløffer her,
+
+[00:05:42] så jeg nevnte det med at markedet priser ikke fullt ut en renteøkning en gang,
+
+[00:05:47] og forskjellen mellom det markedet priser inn og hva Fed har signalisert,
+
+[00:05:51] blir da enda litt større hvis du ser et år frem i tid,
+
+[00:05:54] eller går man helt til slutten av neste år da,
+
+[00:05:57] så er forskjellen da på hva Fed sier og hva markedet priser,
+
+[00:06:02] rundt 0,85 prosentpoeng, som med andre ord,
+
+[00:06:07] kan vi si tre og en halv renteendringer, sånn i rundetall.
+
+[00:06:11] Det er jo egentlig ganske mye da, hvis jeg snakker om sånn tre til fire møter,
+
+[00:06:15] hvor de da skal gjøre noe annet enn det markedet egentlig priser inn.
+
+[00:06:19] Sånn sett så tror jeg det er rimelig å si at det er en viss disconnect her mellom hva markedet priser inn,
+
+[00:06:27] og hva Fed har sagt, og historikken sier kanskje at det er oftere sånn det er det markedet som har rett enn Fed,
+
+[00:06:35] men du kan si i år så har det heller vært det motsatte da,
+
+[00:06:38] hvor markedet har måttet justere sine forventninger opp ganske kraftig nå de siste ukene og de siste par månedene,
+
+[00:06:46] så det gjenstår å se hvem som har rett, men det er absolutt en disconnect her mellom hva markedet tror og hva Fed sier.
+
+[00:06:52] Men er det noe vi har sett siden starten av 2022 når Fed begynte,
+
+[00:06:57] og hevet rentene, så er det jo at så har rentene kommet opp,
+
+[00:07:02] og så har til og med Fed selv, men makroøkonomene og markedet tenkte at nei nå har vi kommet høyt nok,
+
+[00:07:11] men nei så har det stiget litt til, ja nå har det kommet høyt nok,
+
+[00:07:15] nei men nå så stiger det litt til, og sånn har det fortsatt.
+
+[00:07:19] Så det er klart på et eller annet tidspunkt så kommer vi jo til dette vippepunktet hvor disse økningene treffer så hardt,
+
+[00:07:25] men ja, vi er jo ikke der enda da.
+
+[00:07:27] Nei, og jeg tror egentlig det med overraskelse på oppsiden når det gjelder renter er noe vi kan godt hende vi fortsatt snakker om om ti år.
+
+[00:07:35] Jeg tror egentlig at når vi tenker på hva er en slags normal rente nå,
+
+[00:07:40] så er det litt for mange folk som tenker ja hva var gjennomsnittet de siste ti årene,
+
+[00:07:45] og det tror jeg egentlig er en feil måte å tenke på det.
+
+[00:07:47] Jeg tror man må egentlig tenke at perioden fra finanskrisen frem til nå for et år siden,
+
+[00:07:53] var egentlig en sånn unntakstilstand.
+
+[00:07:55] Men renter skal ikke være så lave som det var i løpet av den perioden.
+
+[00:08:00] Så det å regne med at det er en slags baseline og du skal ha mean reversion ned til der det var før,
+
+[00:08:06] tror jeg er egentlig en ganske feil måte å tenke på det.
+
+[00:08:09] Jeg tror det er mye mer fornuftig å tenke på renter i en sånn type 50-60 eller 100 års perspektiv,
+
+[00:08:16] og da er mean reversion egentlig at renter skal opp heller enn ned.
+
+[00:08:20] Og jeg tror det er også ganske mye fundamentale faktorer som trekker i samme retning,
+
+[00:08:24] ikke minst at statsbudsjettene går med større og større underskudd.
+
+[00:08:28] Så det er rett og slett mye statshjelp som skal ut i markedet,
+
+[00:08:32] og det er mye penger som ble jaget inn i aksjemarkedet fordi at renter var lave.
+
+[00:08:36] Og da tror jeg det blir til at renter trekker opp over igjen til å oppvise investorer til å realokere penger fra aksjer inn i renter
+
+[00:08:43] til å finansiere disse statsbudsjettene.
+
+[00:08:45] Ja, og så får jeg bare presisere at i forhold til dette vi snakket om,
+
+[00:08:52] med hvorvidt markedet prøver å fighte Fed eller ikke,
+
+[00:08:57] så er vel juryen fremdeles ute, og markedet kan fort trenge noen dager på å fordøye det som kom i går.
+
+[00:09:05] Og et lite svar på det får vi jo allerede senere i dag når det amerikanske markedet åpner,
+
+[00:09:11] og så får vi se hvordan det går, så det får vi bare ta med her.
+
+[00:09:15] Det er sagt da, Apple-aksjen i går, mens Fed er ved trendetoppen,
+
+[00:09:20] så gikk den til en ny toppnotering, den er rett opp under 184 dollar.
+
+[00:09:27] Kan man ikke se det da, Paul, som et uttrykk på at investorene sier
+
+[00:09:31] her blir det ikke resesjon og høyere renter, det vil ikke stramme inn forbruket nok til å skade Apples inntjening?
+
+[00:09:39] Ja, det er i hvert fall en måte å tenke på det, i hvert fall retningen på aksjen.
+
+[00:09:43] Hvis du skal prøve å være litt sånn devil's advocate her, så kunne man eventuelt argumentere for at
+
+[00:09:48] hvis det er de største aksjene igjen, de med sterk balanse og pricing power,
+
+[00:09:55] og evnen til å stå imot en svaker økonomi, når det er de aksjene som gjør det relativt sett best,
+
+[00:10:01] så kan det også tolkes som en slags varsel at investorene prøver å posisjonere seg i litt mer sånne defensive aksjer.
+
+[00:10:09] Og det som har vært et tema, vi har vel vært litt inne på det også i tidligere sendinger,
+
+[00:10:14] at det er forskjellige måter man kan egentlig tolke denne utviklingen,
+
+[00:10:18] at det er aksjer som typisk er de som kanskje kommer til å klare seg best i et svagt marked som gjør det bra,
+
+[00:10:26] men så er det også vinklinger, kanskje ikke like mye med Apple, men en del av de andre mega-cap-aksjene,
+
+[00:10:31] at det er det sånne type kunstig intelligens-tema-spill som er bak det,
+
+[00:10:35] så helt hvilke av faktorene som veier tyngst er ikke så lett å egentlig bli helt klok på.
+
+[00:10:40] Men det er forskjellige måter man kan tolke dette her.
+
+[00:10:42] Jeg hørte jo på presskonferansen til Fed i går,
+
+[00:10:48] at med kaffekoppen og på terassene i sommervarmen og kost meg jeg,
+
+[00:10:53] sånn jeg oppfattet Fed-sjef Jerome Powell, så gikk han langt i å si i klartekst
+
+[00:10:58] at pausen nå er på en måte en del av den langsiktige planen,
+
+[00:11:05] denne, skal vi kalle det, hevingssyklen.
+
+[00:11:08] Først så hevet de jo superfort med fire ganger 0,75,
+
+[00:11:13] og så tok de det litt roligere med en halving,
+
+[00:11:16] og så har det nå vært noen kvartinger,
+
+[00:11:18] så 0,25 prosent hevinger, og så denne pausen nå.
+
+[00:11:23] Men det er ikke nok slakk i arbeidsmarkedet for å få ned inflasjonen til ønsket nivå enda.
+
+[00:11:30] Det var han jo veldig tydelig på.
+
+[00:11:32] Og en ting er at høy fart i rentehevingene ikke er like viktig nå,
+
+[00:11:37] men farten på rentehevingene er ikke det samme som hvor høyt renten skal.
+
+[00:11:45] Og dette her er en nyanse.
+
+[00:11:48] Det er greit å ha med seg.
+
+[00:11:50] Så jeg har satt det med en konklusjon etter pressekonferansen,
+
+[00:11:53] og det er at dersom ikke Fed ser tegn i dataene,
+
+[00:11:56] og da spesifikt disse jobbdataene,
+
+[00:11:58] at de ikke blir dårligere å indikere mer økonomisk brems,
+
+[00:12:02] så vil Fed fortsette å heve,
+
+[00:12:04] og da kan rentetoppen bli enda høyere.
+
+[00:12:07] Altså, er du enig eller uenig?
+
+[00:12:10] Ja, da var det ganske mange forskjellige ting du kom med der,
+
+[00:12:12] så jeg prøver å ta så mange av de som jeg husker her i farten.
+
+[00:12:18] Hvis vi begynner med kanskje det viktigste av de tingene du nevnte,
+
+[00:12:22] så er det klart at når du har hatt såpass mange renteøkninger på kort tid,
+
+[00:12:27] så er det veldig vanskelig for Fed å vite hvor stor effekt vi allerede ser nå i tallene.
+
+[00:12:33] Er det det at de har gjort dette og det har ikke hatt noe effekt,
+
+[00:12:35] eller er det bare at effekten fortsatt er foran oss?
+
+[00:12:38] Og dette er noe som er veldig vanskelig,
+
+[00:12:40] for det er ikke noen veldig god emperi på dette.
+
+[00:12:43] For å si det nærmeste man kommer i sånn type tekstbok,
+
+[00:12:48] er det at det er sånn typisk 6-18 måneder fra du begynner å sette renten opp
+
+[00:12:53] til hele effekten er å merke i økonomien.
+
+[00:12:55] Men det er ikke noe sånn veldig presist der,
+
+[00:12:58] 6-18 måneder er ganske stor slingingsrom mellom fortest og lengst mulig tid der.
+
+[00:13:06] Så det er jo som en faktor i dette bildet.
+
+[00:13:09] Hvis vi tenker, første renteøkning var bare 15 måneder siden,
+
+[00:13:13] så i den 18-måneders varianten har vi nesten ikke fått noe effekt av dette her i det hele tatt.
+
+[00:13:18] Så det er egentlig en situasjon hvor det er en stor fare for at de ender opp med
+
+[00:13:24] å sette renten opp for mye, og kanskje allerede for fort og for mye.
+
+[00:13:30] Så det er mye som egentlig tyder på at det kan være fornuftig
+
+[00:13:32] å ta en liten pause og bare se an litt.
+
+[00:13:35] Og jeg tror det var egentlig det de prøver å få til her.
+
+[00:13:38] Nå er det seks uker til neste rentemøte,
+
+[00:13:41] så det er ikke veldig lenge å vente hvis makrotallene viser seg å fortsatt være sterke.
+
+[00:13:47] Sånn sett er det nok absolutt fornuftig i det.
+
+[00:13:51] Men på den andre siden kan jeg si at hvis de skulle være så haukete i den talen,
+
+[00:13:55] og i dotterplatten og så videre,
+
+[00:13:57] hvorfor ikke bare sette renten opp en ekstra gang for å sikre et skille her?
+
+[00:14:01] Så jeg tror kanskje det kommer litt ned til her,
+
+[00:14:06] er at i hvert fall sett fra Feds side,
+
+[00:14:08] så er de når de først har undervurdert inflasjonen en gang,
+
+[00:14:12] så er de veldig redde for å gjøre samme feil en to ganger.
+
+[00:14:14] Så jeg tror hvis de først skal bomme,
+
+[00:14:16] så vil de heller bomme med å sette renten opp for mye enn for lite.
+
+[00:14:21] Og så det med å prøve å komme med en litt sånn kompromiss kanskje,
+
+[00:14:24] med å ikke sette renten opp,
+
+[00:14:25] men komme med en litt sånn haukete kvalitativ indikasjoner,
+
+[00:14:32] så kan det kanskje også tenkes litt i det formatet,
+
+[00:14:35] at det er ikke Fed-renten i seg selv som egentlig påvirker økonomien,
+
+[00:14:38] det er hvordan Fed-renten påvirker markedsrenten.
+
+[00:14:42] Så det er en slags indirekte effekt dette her,
+
+[00:14:44] og hvis markedet begynner å prise inn,
+
+[00:14:45] at nå er rentetoppen her,
+
+[00:14:47] da kan markedsrenten begynne allerede å justere seg nå,
+
+[00:14:50] så da får du en litt mindre trykk fra rente allerede på det tidspunktet,
+
+[00:14:57] hvor markedet tror de lukter toppen av rentesyklusen.
+
+[00:15:01] Og jeg tror de er nok redde for at det er for tidlig å begynne å gi noen sånne signaler,
+
+[00:15:06] så å komme med litt sånne haukete meldinger uten å sette renten opp,
+
+[00:15:09] er kanskje det nærmeste de kommer med en kompromiss.
+
+[00:15:12] Men hvis ikke arbeidsmarkedet blir mindre stramt,
+
+[00:15:15] vil ikke det gjøre det nær sagt umulig å få inflasjonen ned på ønsket nivå,
+
+[00:15:20] og dermed så har man ikke noen valg.
+
+[00:15:22] Man må sette renten videre opp.
+
+[00:15:23] Ja, det er jo det som er veldig vanskelig med denne situasjonen,
+
+[00:15:26] for jeg tror en myk landing er egentlig en utsettelse av en hard landing,
+
+[00:15:30] for det er jo sånn at vanligvis når man har en,
+
+[00:15:33] i slutten av syklusen så får man en resesjon,
+
+[00:15:35] og så øker arbeidsledigheten en god del.
+
+[00:15:38] Og da kan det begynne en ny syklus med mye ledig kapasitet,
+
+[00:15:41] da har du tilgang på arbeidskraft uten at det byr opp lønninger,
+
+[00:15:45] sånn mye, så da kan du ha god vekst uten at det blir noe særlig
+
+[00:15:49] inflasjonspresse i økonomien.
+
+[00:15:51] Men hvis du begynner en ny syklus med allerede veldig stramt arbeidsmarked,
+
+[00:15:56] da med en gang du begynner å akselerere,
+
+[00:15:58] da kommer den lønnspresse tilbake inn i økonomien,
+
+[00:16:01] og inflasjonen kommer like etter.
+
+[00:16:03] Og det var akkurat det som skjedde i slutten av 60-tallet,
+
+[00:16:06] som er egentlig det eneste tilfellet hvor du har fått til en myk landing
+
+[00:16:09] sent i syklusen.
+
+[00:16:10] Så med en gang ledigheten begynte å komme ned igjen for andre gang,
+
+[00:16:13] så begynte inflasjonen å akselerere,
+
+[00:16:16] Fed måtte begynne å sette renten opp på nytt igjen,
+
+[00:16:18] og så fikk vi en ny runde ned i aksjemarkedet,
+
+[00:16:20] hvor den bunnen viste seg å være enda litt lavere
+
+[00:16:22] enn den forrige bunnen som vi hadde før.
+
+[00:16:25] Så det er veldig vanskelig egentlig å se for seg
+
+[00:16:27] at du kan få 4-5 år med oppgangssyklus,
+
+[00:16:30] hvis ikke du først har en litt sånn opprenskende hard landing først.
+
+[00:16:36] Så er det det om renten skal ned igjen i løpet av neste år.
+
+[00:16:43] Det klarer ikke jeg helt å forstå,
+
+[00:16:46] men det er mye jeg ikke forstår.
+
+[00:16:48] Jo mindre vi da får en hard landing.
+
+[00:16:52] Ja, det er en utfordring det med at
+
+[00:16:55] når markedet allerede egentlig tror at Fed bløffer,
+
+[00:16:59] så er det sånn at du har ikke noe buffert der,
+
+[00:17:01] så går det bra, så må egentlig markedsrentene trekke oppover her.
+
+[00:17:06] Det er ikke sånn at markedet allerede er ganske haukete på renteforventning,
+
+[00:17:11] så går det bra, så må rentene opp,
+
+[00:17:13] mens inntjeningsestimatene er ikke der hvor de legger til grunn noen recessjon.
+
+[00:17:18] Så myk landing, så er det renter opp og inntjening sidelengs antageligvis.
+
+[00:17:23] Hvis det er hard landing, da skal rentene ned,
+
+[00:17:25] men da kommer antageligvis inntjeningsestimatene ganske kraftig ned også.
+
+[00:17:28] Så det er veldig vanskelig egentlig å klare å få til noen sånn balanse
+
+[00:17:32] hvor du klarer å få prisingen ned uten at aksjekursene må trekke noe ned.
+
+[00:17:40] Så alternativet er at du egentlig bare overshooter mer,
+
+[00:17:43] på oppsiden, som ja, det er jo selvfølgelig en mulighet det også,
+
+[00:17:46] men det gjør at den dagen hard landingen kommer til slutt,
+
+[00:17:49] så er fallhøyden enda større.
+
+[00:17:51] Høyere renter og i en lengre periode,
+
+[00:17:54] det gjør det ikke noe mindre tøft for eiendomsektoren for eksempel?
+
+[00:17:58] Nei, det er mange bransjer som har gjort seg litt for avhengig av lave renter,
+
+[00:18:05] egentlig kan du si, i nærmest evig tid.
+
+[00:18:08] Eiendom er kanskje den sektoren som er mest åpenbar,
+
+[00:18:13] akkurat det fenomenet,
+
+[00:18:14] men du kan jo egentlig si det samme om private equity og en del andre type ting,
+
+[00:18:18] hvor det er avhengig av å hele tiden refinansiere til en litt lavere rente
+
+[00:18:22] enn du gjorde sist gang.
+
+[00:18:24] Så det er klart, blir det restasjon, da kommer rentene ned,
+
+[00:18:26] men som vi var litt inne på tidligere,
+
+[00:18:29] så tror jeg det er midlertidig, og så kommer det til å komme opp igjen,
+
+[00:18:32] og da ikke nødvendigvis stoppe når det kommer til 2,5-3 prosent,
+
+[00:18:36] at da må vi heller være vant til at det er et sånt type 4 prosent pluss,
+
+[00:18:40] og kanskje enda litt mer.
+
+[00:18:41] Det er verdt å minne på at 150 års snittet for 10-årsrenten er rundt 4,5 prosent,
+
+[00:18:49] så min reversjon er opp, ikke ned, hvis du ser på de lange linjene her.
+
+[00:18:54] XXL, de kom med resultatvarsel denne uken, Paul.
+
+[00:18:59] Det er jo vanskelig å se at folk skal kjøpe så mye mer sportsutstyr til høyere priser
+
+[00:19:03] når renteutgiftene sannsynligvis bare blir større og større.
+
+[00:19:07] Ja, det er vel kanskje blant de aller letteste tingene å utsette
+
+[00:19:11] og kjøpe, og det ble jo kjøpt veldig mye av dette her i pandemiperioden,
+
+[00:19:17] så det er ikke akkurat første gang XXL har kommet med noe resultatvarsel,
+
+[00:19:20] og det er jo ofte litt sånn at hvis selskapet først kommer med en resultatvarsel,
+
+[00:19:25] så er det ofte at det kanskje tar to-tre runder før det egentlig blir ferdig
+
+[00:19:28] med alle utfordringene, og det virker som det er tilfelle med XXL her,
+
+[00:19:33] at helt når vi når bunnen her er det vanskelig å si.
+
+[00:19:37] Det kan jo kanskje, hvis vi skal prøve å snu dette her noe positivt,
+
+[00:19:41] den falt ganske kraftig når meldingen kom,
+
+[00:19:43] men endte dagen med å stenge nesten flatt, så jeg må si at jeg var litt overrasket
+
+[00:19:48] at det var sånn markedet tolket det der, men på den andre siden
+
+[00:19:52] så kom det noen meldinger i dag om noe ekstra skatt i Norge,
+
+[00:19:56] så aksjen er jo ned igjen i dag, så vanskelig å vite helt,
+
+[00:20:00] men det å ha en aksje som stiger på dårlige nyheter
+
+[00:20:03] er en slags klassisk bunnsignal.
+
+[00:20:06] Jeg synes det er litt skummelt å egentlig satse på at det var bunnen,
+
+[00:20:08] men you never know.
+
+[00:20:10] Kanskje det er det det er.
+
+[00:20:12] Din kollega Ole Martin Vestgård har en holdanbefaling
+
+[00:20:16] og kursmål 2,20 kroner på aksjen.
+
+[00:20:18] Den er vel rundt 2,30 kroner nå.
+
+[00:20:22] Det er jo mulige brudd med lånebetingelser
+
+[00:20:27] som også er på agendaen her,
+
+[00:20:29] så ja, det er både positive og negative veier videre
+
+[00:20:35] som det alltid er selvfølgelig.
+
+[00:20:37] Ja, de sa vel at det ikke var i brudd nå,
+
+[00:20:39] men det kan jo være.
+
+[00:20:40] Det kan jo gå til enn at,
+
+[00:20:41] har det et dårlig kvartal til,
+
+[00:20:43] så kan det gå til enn at de blir i brudd etter det,
+
+[00:20:46] så det er klart det er jo vanskelig nå
+
+[00:20:48] hvis du er innenfor diskresjonær konsumvarer,
+
+[00:20:53] at det har folk dårligere råd,
+
+[00:20:55] så er det klart det er de tingene som er lettest å kutte ut,
+
+[00:20:58] og hvis det er en resesjon vi har foran oss,
+
+[00:21:00] så er det vanskelig å se for seg at det ikke blir
+
+[00:21:04] noen tøffe kvartaler til for XXL.
+
+[00:21:06] Vi snakket vel, var det forrige uke,
+
+[00:21:08] om dette ekstra OP-kuttet,
+
+[00:21:09] som Saudi-Arabia skulle ta,
+
+[00:21:13] og så snakket vi om tankmarkedet,
+
+[00:21:14] og at det ikke var så positivt for tankmarkedet,
+
+[00:21:16] som er på vei inn i det som er lavsesong,
+
+[00:21:19] men stikk i strid med alt dette her,
+
+[00:21:20] så har det vært full fyr i tankeratene denne uken,
+
+[00:21:24] og hva er det som skjer?
+
+[00:21:25] Ja, det er egentlig et veldig godt spørsmål,
+
+[00:21:27] og jeg var absolutt overrasket over at ratene har skutt i været
+
+[00:21:30] sånn de har gjort,
+
+[00:21:32] så det har i hvert fall holdt nå et par dager
+
+[00:21:35] på ganske mye høyere nivåer
+
+[00:21:38] enn det var for en uke siden,
+
+[00:21:39] der, som du sier,
+
+[00:21:40] ikke det som pleier å skje på denne tiden av året,
+
+[00:21:43] og hvis ratene holder seg oppe på det nivået
+
+[00:21:45] det er snakket om nå,
+
+[00:21:46] sånn type 75 000 dollar dagen for velseser,
+
+[00:21:50] så det er jo egentlig ganske bra rate
+
+[00:21:52] for å være peaksesong,
+
+[00:21:53] ikke for å være, hva skal vi si,
+
+[00:21:55] sommersesong, hvor ratene er ofte,
+
+[00:21:58] pluss minus null,
+
+[00:21:59] så det viser jo da at markedet er veldig stramt
+
+[00:22:03] til tross for OP-kutt,
+
+[00:22:05] så hvis vi først da skulle begynne å få en reeksolidasjon
+
+[00:22:09] i økonomien,
+
+[00:22:11] så kan man bare tenke seg hvor de ratene eventuelt
+
+[00:22:13] kommer til å ende opp,
+
+[00:22:15] det er ikke veldig lenge siden vi så
+
+[00:22:17] sekssiffret rater,
+
+[00:22:20] og når man et eller annet sted opp på 70-tallet
+
+[00:22:22] allerede i juni,
+
+[00:22:24] så kan det fort bli flere hundre tusen dagen
+
+[00:22:26] i peaksisen til høsten,
+
+[00:22:29] så det ser egentlig veldig spennende ut
+
+[00:22:31] dette her hvis det holder.
+
+[00:22:33] Vi har jo snakket mye om det,
+
+[00:22:34] så vi skal ikke bruke så mye tid på det i dag,
+
+[00:22:35] men vi planlegger å ha en gjennomgang
+
+[00:22:39] på shipping-sektoren med shipping-analytikeren vår,
+
+[00:22:42] Jørgen Lian,
+
+[00:22:43] før sommerferien setter inn.
+
+[00:22:47] Du har gjort endringer denne uken,
+
+[00:22:49] du på porteføljen med anbefalte aksjer
+
+[00:22:52] som du styrer,
+
+[00:22:54] du tok inn to aksjer,
+
+[00:22:56] du tok ut en av for så vidt,
+
+[00:22:57] men Kongsberg-gruppen kom inn,
+
+[00:22:59] her har vi en kjøpsanbefaling
+
+[00:23:01] etter at du har gjennomtatt dekning,
+
+[00:23:03] kursmål 550 kroner,
+
+[00:23:05] aksjekursen rundt 470 nå,
+
+[00:23:07] hvorfor er dette et spennende case?
+
+[00:23:09] Jeg synes dette har vært et spennende case i lang tid,
+
+[00:23:11] men når vi ikke hadde dekning,
+
+[00:23:13] så hadde jeg ikke mulighet til å ta det inn i porteføljen.
+
+[00:23:16] Det er ikke noe sånn rocket science dette her,
+
+[00:23:19] men dette er et bedrift som tjener veldig gode penger
+
+[00:23:25] på salg av våpen og våpensystemer,
+
+[00:23:29] og munisjon og litt av hvert.
+
+[00:23:31] Dette er et område hvor akkurat nå
+
+[00:23:34] er det for lite kapasitet,
+
+[00:23:36] så de produserer alt de kan,
+
+[00:23:39] og dette er forholdsvis høymargin-business,
+
+[00:23:42] og heller ikke noe særlig syklisk,
+
+[00:23:44] når rettespørselen er ikke drevet av utviklingen
+
+[00:23:48] i økonomien ellers.
+
+[00:23:50] Så for å være et industriselskap,
+
+[00:23:52] så er det mye mindre syklisk enn de fleste.
+
+[00:23:55] Høye, stabile marginer,
+
+[00:23:57] kundene er stort sett leert for på forsvarsutstyr,
+
+[00:24:00] så er det det offentlige som har betalingsviljet.
+
+[00:24:04] Dette er et selskap som er veldig lett å like utifra
+
+[00:24:07] akkurat det baktegnet,
+
+[00:24:09] og dette er ikke noe som jeg tror endrer seg på en god stund.
+
+[00:24:13] Så vi liker selskapet, stigende estimater,
+
+[00:24:16] stigende kursmomentum,
+
+[00:24:18] og det er ikke så billig som det var tidligere,
+
+[00:24:21] så det er ikke like spennende nå som det var for 6-12 måneder siden,
+
+[00:24:26] men uansett så tror jeg det er et selskap som klarer
+
+[00:24:28] å opprettholde høye multipler,
+
+[00:24:30] heller at det kanskje er så mye
+
+[00:24:31] multiple ekspansjonpotensial igjen.
+
+[00:24:34] På estimatene til analytikeren vår her på huset,
+
+[00:24:37] så ...
+
+[00:24:39] er det en forventet direkte avkastning på området 3-4%
+
+[00:24:42] over de neste årene,
+
+[00:24:45] utbyttevel i rangen på sånn 14-17 kroner om jeg husker riktig,
+
+[00:24:50] men det er ikke derfor man går inn i dette case,
+
+[00:24:54] det er mer for veksten sin skyld.
+
+[00:24:57] Han venter jo at fortjeneste per aksje
+
+[00:25:00] skal doble seg over de neste årene.
+
+[00:25:03] Ja, så det er et stort potensial her,
+
+[00:25:05] og så må vi heller ikke glemme at de er jo store innenfor,
+
+[00:25:08] det er marineområdet også,
+
+[00:25:10] de produserer high-tech utstyr for shippingbransjene,
+
+[00:25:16] jeg tror jeg så i rapporten at det er 30 000 skip
+
+[00:25:20] som har Kongsberg-utstyr av en eller annen variant på seg,
+
+[00:25:24] så da har du også både en ganske stabil høymargin-business
+
+[00:25:28] med velikehold av service av eksisterende utstyr,
+
+[00:25:32] og så har vi nå hatt,
+
+[00:25:33] eller er i en periode hvor det ikke er bestilt så voldsomt
+
+[00:25:36] mange båter av alle disse utstyr,
+
+[00:25:38] alle mulige slag,
+
+[00:25:39] og så etter hvert som etterspørselen der tar seg opp igjen,
+
+[00:25:43] så har du da en ganske god backlog,
+
+[00:25:46] om ikke alt for lenge antageligvis,
+
+[00:25:48] med nye skip som skal produseres,
+
+[00:25:50] og mye utstyr som trengs til det.
+
+[00:25:53] Jara, en annen aksje du tok inn i porteføljen,
+
+[00:25:56] den er lett å like den på lang sikt.
+
+[00:26:01] Verden trenger mer mat,
+
+[00:26:03] og da er kunstgjødsel viktig.
+
+[00:26:06] Analyst i Main kjøpsombefaling på 525 kroner,
+
+[00:26:08] aksjekursen er 370 nå.
+
+[00:26:12] Den gikk jo ekst utbytte på tirsdag på 55 kroner,
+
+[00:26:16] og korrigerte omtrent akkurat i tråd med det,
+
+[00:26:19] men så falt den ganske betydelig i går onsdag.
+
+[00:26:24] Vi skal kanskje ikke lese alt for mye ut av det, Paul.
+
+[00:26:27] Hvis gassprisene som du nevnte tidligere strammer seg til,
+
+[00:26:31] så har jo Jara vist tidligere at det er en aksje
+
+[00:26:35] som har klart seg bra i et sånt,
+
+[00:26:37] i en sånn verden.
+
+[00:26:40] Ja, det har jo hatt en periode nå med superprofit,
+
+[00:26:43] når gassprisen har vært til høye,
+
+[00:26:45] nettopp fordi de har tilgang til billig gass i USA,
+
+[00:26:48] i motsetning til mange av de tyske konkurrentene.
+
+[00:26:52] Det var et resultatvarsel fra en av de tyske konkurrentene
+
+[00:26:55] som var grunnen til at aksjekursen falt noe her i går.
+
+[00:27:01] Jeg synes det er litt rart egentlig,
+
+[00:27:03] det burde ikke være noe særlig read-across til Jara
+
+[00:27:05] fra akkurat det,
+
+[00:27:07] til hvilken grad det var det,
+
+[00:27:09] eller om det er noe annet er litt vanskelig å si,
+
+[00:27:10] men jeg synes egentlig det var litt ufortjent,
+
+[00:27:12] det fallet som kom i går.
+
+[00:27:14] Men uansett, Jara, en aksje som vi liker å ha tro på.
+
+[00:27:21] Absolutt, for attraktiv prising,
+
+[00:27:24] jeg tror det var sånn 7-8 ganger PM-multiplen,
+
+[00:27:26] så ikke noe dyr aksje i det helt tatt,
+
+[00:27:28] og en langsiktig, sterk etterspørselsbilde,
+
+[00:27:32] så jeg synes dette er noe som virker ganske solidt.
+
+[00:27:37] Sist, men ikke minst,
+
+[00:27:39] så må vi ta med at det er en børsnotering på gang.
+
+[00:27:43] De har det ikke vært mange av i år på.
+
+[00:27:45] Nei, det har vært ganske tørt når det gjelder akkurat børsnoteringen.
+
+[00:27:50] Det har jo hatt den perioden av de siste årene
+
+[00:27:52] hvor det har vært veldig mye,
+
+[00:27:54] men det har vært vanskeligere å få til så mye aktivitet i år.
+
+[00:28:00] Det har vært litt mer nervøse markeder,
+
+[00:28:03] og da er det ikke like lett å få plassert
+
+[00:28:04] forskjellige børsnoteringer.
+
+[00:28:06] Men nå er det,
+
+[00:28:07] det er altså offshore-selskapet Doff Group
+
+[00:28:09] som skal på børs.
+
+[00:28:11] Tegningsperioden for kjøp av aksjer er i gang.
+
+[00:28:14] Den varer til tirsdag 20. juni for privatpersoner.
+
+[00:28:18] Fristen er klokken 12 den 20. juni.
+
+[00:28:21] Og D&B Markets bistår selskapet med gjennomføringen
+
+[00:28:24] av denne transaksjonen,
+
+[00:28:26] så det er begrenset hva vi kan si om dette,
+
+[00:28:30] men om du er interessert,
+
+[00:28:31] så finner du all relevant informasjon
+
+[00:28:32] om børsnoteringen på dnb.no-emisjonen.
+
+[00:28:36] Med det så er vi kommet til veis ende for i dag,
+
+[00:28:40] så da gjenstår det bare å si på alle tusen takk
+
+[00:28:42] for at du var med denne uken også,
+
+[00:28:45] og sist men ikke minst, folkens,
+
+[00:28:46] tusen takk til alle dere som hørte på.
+
+[00:28:58] Denne sendingen ble publisert i podcasten Utbytte.
+
+[00:29:01] Innholdet i sendingen er å anses som
+
+[00:29:02] markedsføringsmateriale fra D&B
+
+[00:29:04] og er ment til å være generelt sparveiledning.
+
+[00:29:06] Sendingen skal ikke ha oppfattes som et tilbud
+
+[00:29:08] om å kjøpe eller selge finansielle instrumenter,
+
+[00:29:10] eller som investeringsrådgivning
+
+[00:29:11] tilpasset en enkelt investorsituasjon.
+
+[00:29:13] En investor som har behov for råd
+
+[00:29:15] til å ha spørsmål og informasjon som gis
+
+[00:29:16] bør kontaktene finansrådgiver.
+
+[00:29:18] D&B påtar seg ikke noe ansvar,

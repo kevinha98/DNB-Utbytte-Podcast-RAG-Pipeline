@@ -1,0 +1,886 @@
+{"episode_id": 526, "segment_index": 0, "start": 0.0, "end": 5.2, "text": "I utbytepåden har vi brukt mye tid på AI fra et investeringssynspunkt i sista årene."}
+{"episode_id": 526, "segment_index": 1, "start": 5.2, "end": 12.04, "text": "En av tingene vi prøver å få det nøye med på, særlig sammen med forvalter Audun Vixar & Iversen fra den bedisruptive muligheter,"}
+{"episode_id": 526, "segment_index": 2, "start": 12.04, "end": 16.6, "text": "er i hvilken grad har teknologiene tas i bruk i ulike industrier."}
+{"episode_id": 526, "segment_index": 3, "start": 16.6, "end": 22.0, "text": "Hvor fort går det? Og i hvilken grad skaper det produktivitet og verdier?"}
+{"episode_id": 526, "segment_index": 4, "start": 22.64, "end": 30.72, "text": "Norske Consigli er et teknologiselskap som utvikler og leverer kunstig intelligens for effektivisering i byg og einhemsbransjen."}
+{"episode_id": 526, "segment_index": 5, "start": 30.72, "end": 46.25, "text": "I denne episoden skal vi høre mer fra selskap om hva de driver med, hvordan de bruker AI, hvordan de vokser og skalerer."}
+{"episode_id": 526, "segment_index": 6, "start": 46.25, "end": 49.81, "text": "Vi har velkommen alle sammen til nye episoder av utbytepåden."}
+{"episode_id": 526, "segment_index": 7, "start": 49.81, "end": 52.97, "text": "Jeg sitter der sammen med min god kollega Audun Vixar & Iversen."}
+{"episode_id": 526, "segment_index": 8, "start": 52.97, "end": 54.57, "text": "Alt det hyggelig hadde i studiet, Audun."}
+{"episode_id": 526, "segment_index": 9, "start": 54.57, "end": 55.65, "text": "Alt det hyggelig var her."}
+{"episode_id": 526, "segment_index": 10, "start": 55.65, "end": 58.45, "text": "Ja, en liten stund siden siden, så det var på tid her."}
+{"episode_id": 526, "segment_index": 11, "start": 58.45, "end": 60.77, "text": "Ja, synes det. Samma der."}
+{"episode_id": 526, "segment_index": 12, "start": 60.77, "end": 68.53, "text": "Sammen med oss er dagens gest Janne Åse Jacobsen, som har etablert og leder Consigli."}
+{"episode_id": 526, "segment_index": 13, "start": 68.53, "end": 70.53, "text": "Velkommen skal du være, Janne."}
+{"episode_id": 526, "segment_index": 14, "start": 70.53, "end": 72.29, "text": "Tusen takk for at jeg vil ha med her."}
+{"episode_id": 526, "segment_index": 15, "start": 72.29, "end": 75.57, "text": "Ja, en liten Norrigesbesøk i Juni."}
+{"episode_id": 526, "segment_index": 16, "start": 75.57, "end": 78.73, "text": "Det er ikke feil for du bygger vel Consigli fra London nå."}
+{"episode_id": 526, "segment_index": 17, "start": 78.73, "end": 81.89, "text": "Ja, jeg er hjemme 18 timer nå."}
+{"episode_id": 526, "segment_index": 18, "start": 81.89, "end": 83.73, "text": "Hjemme i Oslo, 18 timer."}
+{"episode_id": 526, "segment_index": 19, "start": 83.73, "end": 86.53, "text": "Delsen hvor hjemme det er."}
+{"episode_id": 526, "segment_index": 20, "start": 86.53, "end": 89.81, "text": "Ok. Når vi spiller inn etter her, er det onsdag 4. juni."}
+{"episode_id": 526, "segment_index": 21, "start": 89.81, "end": 93.97, "text": "Men når dere lytter når dere hører dette, så er det som synes vi har gått ut i juli."}
+{"episode_id": 526, "segment_index": 22, "start": 93.97, "end": 99.29, "text": "Så har vi præcisert det, men dette skal nok holdes godt relevant uansett."}
+{"episode_id": 526, "segment_index": 23, "start": 99.29, "end": 105.89, "text": "Kan ikke du starte, Janne, bare med å gi oss den korte beskrivelsen av hvem Consigli er og hva du gjør."}
+{"episode_id": 526, "segment_index": 24, "start": 105.89, "end": 108.05, "text": "Consigli er, som du sier, et tekstelskap."}
+{"episode_id": 526, "segment_index": 25, "start": 108.05, "end": 109.97, "text": "Vi har bygget en AI-agent."}
+{"episode_id": 526, "segment_index": 26, "start": 109.97, "end": 112.21, "text": "Hon heter den selvporsiktigere i snøren."}
+{"episode_id": 526, "segment_index": 27, "start": 112.21, "end": 113.09, "text": "Eller Consigli."}
+{"episode_id": 526, "segment_index": 28, "start": 113.13, "end": 120.37, "text": "Hon er bygget for å redusere risiko kostnad og kabonfototrykk i en av oss utviklings prosjekter."}
+{"episode_id": 526, "segment_index": 29, "start": 120.37, "end": 122.93, "text": "Det hon gjør, det er at hon er alle ingenørene."}
+{"episode_id": 526, "segment_index": 30, "start": 122.93, "end": 128.45, "text": "Det gjør selve prosjekteringen og trener risiko som oppstår mellom dokumenter."}
+{"episode_id": 526, "segment_index": 31, "start": 128.45, "end": 131.09, "text": "Og hon genererer alle mulige rapporter."}
+{"episode_id": 526, "segment_index": 32, "start": 131.09, "end": 134.53, "text": "Hvis du tenker hva Kovi og Multi-konsult og Nordkonsult holder på med,"}
+{"episode_id": 526, "segment_index": 33, "start": 134.53, "end": 139.85, "text": "det gjør hon som er både ingenøren, men også programvaren til ingenøren."}
+{"episode_id": 526, "segment_index": 34, "start": 139.93, "end": 142.29, "text": "Det er en utodesk produkt."}
+{"episode_id": 526, "segment_index": 35, "start": 142.29, "end": 144.29, "text": "De er også..."}
+{"episode_id": 526, "segment_index": 36, "start": 144.29, "end": 153.09, "text": "Det var en kjent man som satt rundt jule-tider at AI-agentet kom nå til å spise software-as-a-service, as we know it."}
+{"episode_id": 526, "segment_index": 37, "start": 153.09, "end": 156.81, "text": "Da ringte jeg til min siå og sa, det er helt utrolig."}
+{"episode_id": 526, "segment_index": 38, "start": 156.81, "end": 159.01, "text": "Vi har spist opp utodeskrevet."}
+{"episode_id": 526, "segment_index": 39, "start": 159.01, "end": 162.53, "text": "Det er ikke bare det at vi har startet ingenørene-as-arbeid."}
+{"episode_id": 526, "segment_index": 40, "start": 162.53, "end": 166.05, "text": "Du har gått rett i strupen på endams konsulentene."}
+{"episode_id": 526, "segment_index": 41, "start": 166.05, "end": 167.21, "text": "Rådgiven ingenører."}
+{"episode_id": 526, "segment_index": 42, "start": 167.25, "end": 171.53, "text": "Jeg kan sikkert si rett i strupen på dem, men jeg har egentlig bare bygget noe som er mulig å bygge,"}
+{"episode_id": 526, "segment_index": 43, "start": 171.53, "end": 176.17, "text": "og som kan ta verk den overfløde i bruken av materialer her i verden."}
+{"episode_id": 526, "segment_index": 44, "start": 176.17, "end": 182.57, "text": "Den synes ikke lang tid som brukes på å ta frem noe som er ganske dårlig, som er prosjekteringstunderlag."}
+{"episode_id": 526, "segment_index": 45, "start": 182.57, "end": 186.21, "text": "Sånn at en hos besitterne kanskje kan få legetakerne inn et år tidligere,"}
+{"episode_id": 526, "segment_index": 46, "start": 186.21, "end": 189.05, "text": "og begynne å sende husleget."}
+{"episode_id": 526, "segment_index": 47, "start": 189.05, "end": 194.01, "text": "Så rettere oppi ting som har ikke vært blitt gjort effektivt nok i dette maskine,"}
+{"episode_id": 526, "segment_index": 48, "start": 194.05, "end": 197.45, "text": "men det er mannstjøs å ligge langt bak, som ikke har fått effektivisering med digitalisering."}
+{"episode_id": 526, "segment_index": 49, "start": 197.45, "end": 199.85, "text": "Ja, for det er verdi-forslaget deres til kundene, ikke sant?"}
+{"episode_id": 526, "segment_index": 50, "start": 199.85, "end": 205.73, "text": "Redusere risiko, redusere kostnader og redusere karbonavtrykk i byggeprojektet."}
+{"episode_id": 526, "segment_index": 51, "start": 205.73, "end": 213.09, "text": "Ja, og den største komponenten på kostnadsreduksjonen ser vi jo at vi får til å få et sånne ferdig prosjektert underlag."}
+{"episode_id": 526, "segment_index": 52, "start": 213.09, "end": 217.09, "text": "Sånn det beskrivelsen av hvordan bygget skal være som entreprenøren motar,"}
+{"episode_id": 526, "segment_index": 53, "start": 217.09, "end": 220.33, "text": "og da gir en pris for å bygge."}
+{"episode_id": 526, "segment_index": 54, "start": 220.37, "end": 226.77, "text": "Redusere den tiden med kanskje et år da, sånn at vi får innlegetakere et år før."}
+{"episode_id": 526, "segment_index": 55, "start": 226.77, "end": 230.65, "text": "Og de pengene der er nok det aller største besparelsene."}
+{"episode_id": 526, "segment_index": 56, "start": 230.65, "end": 236.05, "text": "I tillegg til at når vi bruker AI til å prosjektere, så tar vi ut,"}
+{"episode_id": 526, "segment_index": 57, "start": 236.05, "end": 239.05, "text": "vi pleier å love 20 prosent redusjon av materialer."}
+{"episode_id": 526, "segment_index": 58, "start": 239.05, "end": 242.81, "text": "Og det er rett og slett for det å prosjektere bygge som ikke alle så kjente med hva jeg får nå."}
+{"episode_id": 526, "segment_index": 59, "start": 242.81, "end": 244.37, "text": "Det er ikke det arkitekten holder på med."}
+{"episode_id": 526, "segment_index": 60, "start": 244.37, "end": 248.61, "text": "Arkitekten bygger formen og utsender på bygget og begare og sånn."}
+{"episode_id": 526, "segment_index": 61, "start": 248.61, "end": 254.01, "text": "Og så sitter det da masse gode ingenører, og bestemmer hvor skal ventilasjonskanalene gå,"}
+{"episode_id": 526, "segment_index": 62, "start": 254.01, "end": 257.13, "text": "hvor skal kabelbunne gå, hvor skal vi plassere sprinklerne,"}
+{"episode_id": 526, "segment_index": 63, "start": 257.13, "end": 260.89, "text": "hva hører den til sprinkler, og alle disse tekniske tingene som er bygget."}
+{"episode_id": 526, "segment_index": 64, "start": 260.89, "end": 265.77, "text": "Og det er super komplekst, fordi at verdere om har sitt krav til hva som borde han deskaperisere."}
+{"episode_id": 526, "segment_index": 65, "start": 265.77, "end": 269.25, "text": "Men det som gikk opp for meg da jeg oppdagedt AI,"}
+{"episode_id": 526, "segment_index": 66, "start": 269.25, "end": 275.09, "text": "det er at vi har fått en teknologi som er veldig fint til å løse en høy kompleksitet."}
+{"episode_id": 526, "segment_index": 67, "start": 275.13, "end": 279.53, "text": "Og spesielt når vi vet alt det kjent, at vi vet i fysiske lovene,"}
+{"episode_id": 526, "segment_index": 68, "start": 279.53, "end": 282.45, "text": "vi vet hva leverneene kan leverere, vi vet hva er kravene,"}
+{"episode_id": 526, "segment_index": 69, "start": 282.45, "end": 285.49, "text": "vi vet hva mye vetene som krav og legetakene som krav."}
+{"episode_id": 526, "segment_index": 70, "start": 285.49, "end": 288.29, "text": "Så vi har en situasjon hvor det er kjempe komplisert,"}
+{"episode_id": 526, "segment_index": 71, "start": 288.29, "end": 291.17, "text": "så vi putter på masse mennesker for å prøve å løse det."}
+{"episode_id": 526, "segment_index": 72, "start": 291.17, "end": 296.67, "text": "Samtidig så er det veldig komplisert med hvor alle tall og ting er kjent."}
+{"episode_id": 526, "segment_index": 73, "start": 296.67, "end": 303.99, "text": "Så når AI, da jeg kom ut som teknologi som veldig hurtig kan i svar på komplekser problemstillinger,"}
+{"episode_id": 526, "segment_index": 74, "start": 303.99, "end": 306.07, "text": "så er det jo som skapt for vår baggjø."}
+{"episode_id": 526, "segment_index": 75, "start": 306.07, "end": 308.39, "text": "Og det er en delaget for at jeg startet konsigli."}
+{"episode_id": 526, "segment_index": 76, "start": 308.39, "end": 311.47, "text": "Og du startet konsigli i 2020, var det ikke det?"}
+{"episode_id": 526, "segment_index": 77, "start": 311.47, "end": 313.07, "text": "Ja, jeg startet 2020."}
+{"episode_id": 526, "segment_index": 78, "start": 313.07, "end": 318.62, "text": "Når var det du fikk ideen til at, ja, men her kan jeg jo bruke AI,"}
+{"episode_id": 526, "segment_index": 79, "start": 318.62, "end": 322.34, "text": "her må jeg starte et selskap så kan gjøre dette."}
+{"episode_id": 526, "segment_index": 80, "start": 322.34, "end": 325.66, "text": "Det var veldig par år tidligere, det var jeg bort i Sillingen veldig som alle."}
+{"episode_id": 526, "segment_index": 81, "start": 325.66, "end": 330.02, "text": "Da satte jeg oss i ledelsen i NIRAS, tredje største råd i Veidlandmark."}
+{"episode_id": 526, "segment_index": 82, "start": 330.02, "end": 332.42, "text": "Så har jeg bygget opp det norske selskapet."}
+{"episode_id": 526, "segment_index": 83, "start": 332.46, "end": 335.54, "text": "Og var ansvarlig for digitalisering i baggje."}
+{"episode_id": 526, "segment_index": 84, "start": 335.54, "end": 336.74, "text": "Så dette er jo min hjemmebann."}
+{"episode_id": 526, "segment_index": 85, "start": 336.74, "end": 339.74, "text": "Jeg har jobbet med digitaliseringen og byggende har ingen i over 20 år."}
+{"episode_id": 526, "segment_index": 86, "start": 339.74, "end": 341.86, "text": "Og jeg er civilisjene på konsusjon."}
+{"episode_id": 526, "segment_index": 87, "start": 341.86, "end": 344.26, "text": "Men jeg har bygget nest selskapet."}
+{"episode_id": 526, "segment_index": 88, "start": 344.26, "end": 347.34, "text": "Så var jeg sildkamellig og fikk møte alle de store tekstelskapene."}
+{"episode_id": 526, "segment_index": 89, "start": 347.34, "end": 352.74, "text": "Og de fortalt om hva som skjer nå inn for medisin og media og hvordan de brukte AI."}
+{"episode_id": 526, "segment_index": 90, "start": 352.74, "end": 354.82, "text": "Så jeg sa, hvorfor skjer ikke det inn for vår baggjø?"}
+{"episode_id": 526, "segment_index": 91, "start": 354.82, "end": 357.06, "text": "Hørte jeg den, vi kom til Rullin i baggje etter baggje,"}
+{"episode_id": 526, "segment_index": 92, "start": 357.06, "end": 359.94, "text": "og det er en høy kompleksitet det ligger bak på,"}
+{"episode_id": 526, "segment_index": 93, "start": 359.94, "end": 362.62, "text": "men det er store penger i omløpet og så videre."}
+{"episode_id": 526, "segment_index": 94, "start": 362.62, "end": 365.74, "text": "Jeg hører fortsatt ikke at dere snakker om vår baggje,"}
+{"episode_id": 526, "segment_index": 95, "start": 365.74, "end": 368.26, "text": "som er jo en kjempesværg, global baggje."}
+{"episode_id": 526, "segment_index": 96, "start": 368.26, "end": 369.86, "text": "Det jobber slikt globalt."}
+{"episode_id": 526, "segment_index": 97, "start": 369.86, "end": 373.82, "text": "Og så då etter bakje til konsendelsen i Råd i Veidlandmark norske selskap."}
+{"episode_id": 526, "segment_index": 98, "start": 373.82, "end": 377.94, "text": "Og prøvde å se, vi må bygge AI i stedet for å bruke mennesker."}
+{"episode_id": 526, "segment_index": 99, "start": 377.94, "end": 383.22, "text": "Og så var de nye andre menn i konsendelsen ikke så giret som meg på det."}
+{"episode_id": 526, "segment_index": 100, "start": 383.26, "end": 387.54, "text": "Så inn i kom til januar 2020, så tenkte jeg, jeg må bare bygge dette selskapet."}
+{"episode_id": 526, "segment_index": 101, "start": 387.54, "end": 389.94, "text": "Det er tydelig at ingen andre ser det. Jeg ser det."}
+{"episode_id": 526, "segment_index": 102, "start": 389.94, "end": 391.86, "text": "Jeg får bare komme i gang."}
+{"episode_id": 526, "segment_index": 103, "start": 391.86, "end": 393.82, "text": "Og så gikk det jo seks måneder før jeg kunne begynne å gjøre noe,"}
+{"episode_id": 526, "segment_index": 104, "start": 393.82, "end": 395.3, "text": "siden jeg var siden jeg var siden."}
+{"episode_id": 526, "segment_index": 105, "start": 395.3, "end": 401.46, "text": "Så i august så dro jeg i gang, og fikk mer bansjen her i Norge ganske fort."}
+{"episode_id": 526, "segment_index": 106, "start": 401.46, "end": 404.18, "text": "Folk stilte med data og med å teste ut,"}
+{"episode_id": 526, "segment_index": 107, "start": 404.18, "end": 407.98, "text": "noen kjøptes til og med licenser for å bruke teknologien etter."}
+{"episode_id": 526, "segment_index": 108, "start": 407.98, "end": 410.74, "text": "Vi hadde laget den sammen, og så var det veldig god dra i el,"}
+{"episode_id": 526, "segment_index": 109, "start": 410.78, "end": 412.5, "text": "og jeg var her i starten, og alle satte på hjemmekontoret,"}
+{"episode_id": 526, "segment_index": 110, "start": 412.5, "end": 414.94, "text": "og nå var vi da videre i gangen av."}
+{"episode_id": 526, "segment_index": 111, "start": 414.94, "end": 415.94, "text": "Så det var veldig gøy."}
+{"episode_id": 526, "segment_index": 112, "start": 415.94, "end": 420.38, "text": "Så du fikk medvinn av den situasjonen i den gangen,"}
+{"episode_id": 526, "segment_index": 113, "start": 420.38, "end": 423.74, "text": "og skjønte at jeg trofette en nervø, eller?"}
+{"episode_id": 526, "segment_index": 114, "start": 423.74, "end": 428.02, "text": "Jeg var jo oppvist som at dette er en måte vi skal prosikteres på i fremtiden."}
+{"episode_id": 526, "segment_index": 115, "start": 428.02, "end": 429.18, "text": "Og så er det noe med timing da."}
+{"episode_id": 526, "segment_index": 116, "start": 429.18, "end": 432.7, "text": "Sånn, var jeg for tidlig, var jeg for segn, hvordan lå jeg annen."}
+{"episode_id": 526, "segment_index": 117, "start": 432.7, "end": 435.78, "text": "Og så må du si, jeg sa opp jobben i international konsern,"}
+{"episode_id": 526, "segment_index": 118, "start": 435.78, "end": 438.46, "text": "eller siden 2020, slutt denne januar."}
+{"episode_id": 526, "segment_index": 119, "start": 438.46, "end": 441.1, "text": "Så visste jeg ikke at det skulle gå tre uker, så kom det global pandemi,"}
+{"episode_id": 526, "segment_index": 120, "start": 441.1, "end": 442.62, "text": "og verden skulle gå under."}
+{"episode_id": 526, "segment_index": 121, "start": 442.62, "end": 444.62, "text": "Så akkurat da synes jeg ikke at jeg hadde medvinn."}
+{"episode_id": 526, "segment_index": 122, "start": 444.62, "end": 449.14, "text": "Men inn i august, så kjente jeg litt på at folk satte hjemme,"}
+{"episode_id": 526, "segment_index": 123, "start": 449.14, "end": 453.58, "text": "og det var litt kjedelig, og folk hadde lyst til noe litt digitalt."}
+{"episode_id": 526, "segment_index": 124, "start": 453.58, "end": 458.74, "text": "I tillegg så var det mulig å forleide din data scientist ganske rimelig."}
+{"episode_id": 526, "segment_index": 125, "start": 458.74, "end": 460.14, "text": "For alle konsolensselskaperne var det sånn,"}
+{"episode_id": 526, "segment_index": 126, "start": 460.14, "end": 464.82, "text": "hva skal vi selle til kostpris pluss til henne i stedet for å permittere."}
+{"episode_id": 526, "segment_index": 127, "start": 464.9, "end": 468.98, "text": "Så akkurat der så tror jeg at det var enten opp med å bli en god tid,"}
+{"episode_id": 526, "segment_index": 128, "start": 468.98, "end": 474.54, "text": "og komme i gang, og få testet ut hvilke kjennester som kunne ha potensiale."}
+{"episode_id": 526, "segment_index": 129, "start": 474.54, "end": 478.26, "text": "Gjøre alle disse første testene før vi tok mye kost med rapport."}
+{"episode_id": 526, "segment_index": 130, "start": 478.26, "end": 484.18, "text": "Sånn i retrospektiv så var det nok en god tid å starte på ja,"}
+{"episode_id": 526, "segment_index": 131, "start": 484.18, "end": 488.02, "text": "selv om det virket veldig veldig skumelt der i februar og mars."}
+{"episode_id": 526, "segment_index": 132, "start": 488.02, "end": 492.66, "text": "Så du kjente bransjen, du visste på en måte hva som var problemen du skulle løse,"}
+{"episode_id": 526, "segment_index": 133, "start": 492.7, "end": 498.5, "text": "men hvordan angrepte du det og bygge A i tjenesten?"}
+{"episode_id": 526, "segment_index": 134, "start": 498.5, "end": 500.5, "text": "Hvordan startet man med det?"}
+{"episode_id": 526, "segment_index": 135, "start": 500.5, "end": 506.82, "text": "For langt tilbake så var jeg en av de som tok B på Berge Katte Dralskole på 80-tallet."}
+{"episode_id": 526, "segment_index": 136, "start": 506.82, "end": 508.26, "text": "Det var ikke mange."}
+{"episode_id": 526, "segment_index": 137, "start": 508.26, "end": 510.26, "text": "Så jeg har alltid kodet litt,"}
+{"episode_id": 526, "segment_index": 138, "start": 510.26, "end": 513.22, "text": "og så når jeg da fremt ut av A, så satte jeg meg ned og trente noen i bra eller nett,"}
+{"episode_id": 526, "segment_index": 139, "start": 513.22, "end": 514.7, "text": "bare å få finne ut kaften i det."}
+{"episode_id": 526, "segment_index": 140, "start": 514.7, "end": 519.7, "text": "Og så har jeg visst at det ikke der jeg er god var en grunn til å slute til kode."}
+{"episode_id": 526, "segment_index": 141, "start": 519.74, "end": 523.5, "text": "Men det finnes masse folk som er flinke på kode."}
+{"episode_id": 526, "segment_index": 142, "start": 523.5, "end": 524.98, "text": "Men ikke noe endvis i Norge."}
+{"episode_id": 526, "segment_index": 143, "start": 524.98, "end": 526.02, "text": "Så vi..."}
+{"episode_id": 526, "segment_index": 144, "start": 526.02, "end": 529.7, "text": "Det dro i gang, så tenkte jeg, OK, her med bare å ta kodet de beste i hele verden,"}
+{"episode_id": 526, "segment_index": 145, "start": 529.7, "end": 531.1, "text": "for å hjelpe til med det."}
+{"episode_id": 526, "segment_index": 146, "start": 531.1, "end": 534.78, "text": "Også er det jo veldig poppig som gjemmer kontor og sånt,"}
+{"episode_id": 526, "segment_index": 147, "start": 534.78, "end": 538.1, "text": "men du skal ha de skarpeste hoden i verden og skapes noe som ikke vært skapt før,"}
+{"episode_id": 526, "segment_index": 148, "start": 538.1, "end": 539.98, "text": "så har jeg tro på at folk må bygge til litt,"}
+{"episode_id": 526, "segment_index": 149, "start": 539.98, "end": 543.34, "text": "og til litt bygge det når folk spiser lunsj sammen og holder sammen."}
+{"episode_id": 526, "segment_index": 150, "start": 543.34, "end": 546.18, "text": "Så helt fra start så har vi rekryteret globalt."}
+{"episode_id": 526, "segment_index": 151, "start": 546.26, "end": 549.86, "text": "Fått folk fra alle verdensgjørener med AI-doktor grader,"}
+{"episode_id": 526, "segment_index": 152, "start": 549.86, "end": 552.74, "text": "på alle disse smale feltene innfra AI."}
+{"episode_id": 526, "segment_index": 153, "start": 552.74, "end": 555.58, "text": "Så ikke bare disse NLP som det heter,"}
+{"episode_id": 526, "segment_index": 154, "start": 555.58, "end": 557.74, "text": "som blir til Storespråkmodeller og Genitive AI,"}
+{"episode_id": 526, "segment_index": 155, "start": 557.74, "end": 561.38, "text": "men også disse andre type AI-feltene."}
+{"episode_id": 526, "segment_index": 156, "start": 561.38, "end": 566.62, "text": "Så vi var vel etter to år, så er det vi heisen forskjellige nasjonalitetesittene her i Oslo."}
+{"episode_id": 526, "segment_index": 157, "start": 566.62, "end": 568.38, "text": "Goppa og norsk immigration."}
+{"episode_id": 526, "segment_index": 158, "start": 568.38, "end": 570.34, "text": "Vi har måttet slutte å gjøre det med exit-skatner,"}
+{"episode_id": 526, "segment_index": 159, "start": 570.34, "end": 572.78, "text": "så nå rekryterer vi alle de til England."}
+{"episode_id": 526, "segment_index": 160, "start": 572.82, "end": 574.42, "text": "Rektiverer vi også de norske inni i England da,"}
+{"episode_id": 526, "segment_index": 161, "start": 574.42, "end": 576.22, "text": "fordi vi lønner litt med opasjoner og sånn."}
+{"episode_id": 526, "segment_index": 162, "start": 576.22, "end": 578.34, "text": "Så det kan man ikke gjøre i Norge lenge."}
+{"episode_id": 526, "segment_index": 163, "start": 578.34, "end": 582.58, "text": "Så de aller beste på AI som jeg kunne få tak i uten å ha merkvarer,"}
+{"episode_id": 526, "segment_index": 164, "start": 582.58, "end": 584.7, "text": "fra absolutt hele verdenen,"}
+{"episode_id": 526, "segment_index": 165, "start": 584.7, "end": 587.62, "text": "de fikk til å begynne å lage de kjenesne,"}
+{"episode_id": 526, "segment_index": 166, "start": 587.62, "end": 590.78, "text": "som vi spekket utifra og..."}
+{"episode_id": 526, "segment_index": 167, "start": 590.78, "end": 592.66, "text": "Jeg vet jo hva vi skal løse."}
+{"episode_id": 526, "segment_index": 168, "start": 592.66, "end": 596.58, "text": "Jeg hadde jo tusen mye så ingenører som satt og gjorde den i jobben fra før."}
+{"episode_id": 526, "segment_index": 169, "start": 596.58, "end": 600.14, "text": "Så jeg har ikke funnet på et problem som det kan å bruke AI på å løse."}
+{"episode_id": 526, "segment_index": 170, "start": 600.18, "end": 603.7, "text": "Det er et kjempe problem derute som er super stort."}
+{"episode_id": 526, "segment_index": 171, "start": 603.7, "end": 607.74, "text": "Norske råd i å være omsettet ved for 35 miljarder i året,"}
+{"episode_id": 526, "segment_index": 172, "start": 607.74, "end": 609.02, "text": "bare i Bittel eller Norge."}
+{"episode_id": 526, "segment_index": 173, "start": 609.02, "end": 611.1, "text": "Og så jobbes det helt likt globalt."}
+{"episode_id": 526, "segment_index": 174, "start": 611.1, "end": 613.66, "text": "Man kan tenke hvor stort dette marker det."}
+{"episode_id": 526, "segment_index": 175, "start": 613.66, "end": 617.54, "text": "Så derfor tenkte jeg, det her er det vrt å komme igang og lage ting som funker."}
+{"episode_id": 526, "segment_index": 176, "start": 617.54, "end": 619.38, "text": "Og så tok vi de første kjenesene ut ganske fort,"}
+{"episode_id": 526, "segment_index": 177, "start": 619.38, "end": 621.02, "text": "og fikk de ut å være nyttige,"}
+{"episode_id": 526, "segment_index": 178, "start": 621.02, "end": 623.06, "text": "og litt enklare kjeneste."}
+{"episode_id": 526, "segment_index": 179, "start": 623.06, "end": 625.02, "text": "Og så mens vi byggte deep-teken,"}
+{"episode_id": 526, "segment_index": 180, "start": 625.02, "end": 626.98, "text": "så fikk vi on-bordet kunden der."}
+{"episode_id": 526, "segment_index": 181, "start": 626.98, "end": 628.46, "text": "Fikk testet ut ting."}
+{"episode_id": 526, "segment_index": 182, "start": 628.46, "end": 631.26, "text": "Vi fikk tak i data vi har i første kunde på."}
+{"episode_id": 526, "segment_index": 183, "start": 631.26, "end": 633.46, "text": "Og så har vi skalert."}
+{"episode_id": 526, "segment_index": 184, "start": 633.46, "end": 634.58, "text": "Skalert derfra?"}
+{"episode_id": 526, "segment_index": 185, "start": 634.58, "end": 638.34, "text": "Ja, og det skal vi høre mer om veksene, hvor fort det går,"}
+{"episode_id": 526, "segment_index": 186, "start": 638.34, "end": 641.1, "text": "og hvilke ambasjoner du har."}
+{"episode_id": 526, "segment_index": 187, "start": 641.1, "end": 644.34, "text": "Men veldig interessant start."}
+{"episode_id": 526, "segment_index": 188, "start": 644.34, "end": 646.62, "text": "Det var bare sånn som var en referanse."}
+{"episode_id": 526, "segment_index": 189, "start": 646.62, "end": 648.78, "text": "Hva slags kunder her i hjemmet,"}
+{"episode_id": 526, "segment_index": 190, "start": 648.78, "end": 650.02, "text": "adid du kan på en måte nevne,"}
+{"episode_id": 526, "segment_index": 191, "start": 650.02, "end": 654.94, "text": "var det som først kaste seg på og sa, ja, dette blir vi med på?"}
+{"episode_id": 526, "segment_index": 192, "start": 654.94, "end": 656.5, "text": "Hva er eksempel på det?"}
+{"episode_id": 526, "segment_index": 193, "start": 656.54, "end": 658.74, "text": "Entra har vært viktig for oss."}
+{"episode_id": 526, "segment_index": 194, "start": 658.74, "end": 660.86, "text": "Hvis du skal ha øve med én aktør i Norge"}
+{"episode_id": 526, "segment_index": 195, "start": 660.86, "end": 662.34, "text": "som kan gjøre det klar for internasjonale,"}
+{"episode_id": 526, "segment_index": 196, "start": 662.34, "end": 663.46, "text": "så tenker jeg entra."}
+{"episode_id": 526, "segment_index": 197, "start": 663.46, "end": 664.54, "text": "Det er veldig fin."}
+{"episode_id": 526, "segment_index": 198, "start": 664.54, "end": 666.26, "text": "Så de har vært tidlig på."}
+{"episode_id": 526, "segment_index": 199, "start": 666.26, "end": 668.94, "text": "De brukte oss til mye, oppe mye prosjekter,"}
+{"episode_id": 526, "segment_index": 200, "start": 668.94, "end": 672.62, "text": "og virkelig vært viktig for oss."}
+{"episode_id": 526, "segment_index": 201, "start": 672.62, "end": 673.3, "text": "Anders Bukart,"}
+{"episode_id": 526, "segment_index": 202, "start": 673.3, "end": 675.5, "text": "var tidlig på å komme inn her."}
+{"episode_id": 526, "segment_index": 203, "start": 675.5, "end": 678.14, "text": "Mølle Eindholm har vært veldig på."}
+{"episode_id": 526, "segment_index": 204, "start": 678.14, "end": 679.94, "text": "Og så begynte vi at tilvært å få entreprenørene med,"}
+{"episode_id": 526, "segment_index": 205, "start": 679.94, "end": 682.66, "text": "så Betongmast, for eksempel."}
+{"episode_id": 526, "segment_index": 206, "start": 682.66, "end": 684.54, "text": "De har også skalert veldig mye å bruke,"}
+{"episode_id": 526, "segment_index": 207, "start": 684.58, "end": 686.62, "text": "og så har det blitt i matthiet at de bruker,"}
+{"episode_id": 526, "segment_index": 208, "start": 686.62, "end": 688.06, "text": "så har det endret konkurransebillighet."}
+{"episode_id": 526, "segment_index": 209, "start": 688.06, "end": 689.42, "text": "Så nå er vi også ganske på."}
+{"episode_id": 526, "segment_index": 210, "start": 689.42, "end": 693.26, "text": "Så det er noe med at prosentreprenørene er veldig kompetitivt."}
+{"episode_id": 526, "segment_index": 211, "start": 693.26, "end": 695.7, "text": "Så det har vært fint å komme inn i det market."}
+{"episode_id": 526, "segment_index": 212, "start": 695.7, "end": 699.9, "text": "Men på bygg heresiden har vi mange av de store."}
+{"episode_id": 526, "segment_index": 213, "start": 699.9, "end": 704.42, "text": "Eindholm Spar har vært viktig for kjørt prosjekter med de heimdalbole."}
+{"episode_id": 526, "segment_index": 214, "start": 704.42, "end": 707.18, "text": "Er noen av disse som måske er med på eiersiden i dag, eller?"}
+{"episode_id": 526, "segment_index": 215, "start": 707.18, "end": 707.98, "text": "Ja, noen."}
+{"episode_id": 526, "segment_index": 216, "start": 707.98, "end": 711.62, "text": "Anders, han var jo en som tydelig ute,"}
+{"episode_id": 526, "segment_index": 217, "start": 711.62, "end": 713.58, "text": "og så hadde dette her vil jeg investere i."}
+{"episode_id": 526, "segment_index": 218, "start": 713.62, "end": 716.58, "text": "Så får jeg kanskje fin reise på selve investeringen,"}
+{"episode_id": 526, "segment_index": 219, "start": 716.58, "end": 718.62, "text": "men dette er jo teknologi jeg vil ha inn for kjernet,"}
+{"episode_id": 526, "segment_index": 220, "start": 718.62, "end": 720.46, "text": "veksomeheten min."}
+{"episode_id": 526, "segment_index": 221, "start": 720.46, "end": 722.66, "text": "Så han har jo endt opp med,"}
+{"episode_id": 526, "segment_index": 222, "start": 722.66, "end": 724.9, "text": "han er vel fortsatt en større sterksterne i han,"}
+{"episode_id": 526, "segment_index": 223, "start": 724.9, "end": 727.38, "text": "hvordan han har fylt på i de rundene vi har hatt."}
+{"episode_id": 526, "segment_index": 224, "start": 727.38, "end": 728.34, "text": "Mølleien om å investere,"}
+{"episode_id": 526, "segment_index": 225, "start": 728.34, "end": 732.78, "text": "den god del er en av de folk på investerings- og investorsiden."}
+{"episode_id": 526, "segment_index": 226, "start": 732.78, "end": 736.26, "text": "Jeg og Ingebyg har jo stort sett alt fortsatt."}
+{"episode_id": 526, "segment_index": 227, "start": 736.26, "end": 738.22, "text": "Så har vi mer folk som er investert,"}
+{"episode_id": 526, "segment_index": 228, "start": 738.22, "end": 741.62, "text": "og er superviktig for oss på å spare,"}
+{"episode_id": 526, "segment_index": 229, "start": 741.66, "end": 744.14, "text": "og egentlig litt til marketing næsten også."}
+{"episode_id": 526, "segment_index": 230, "start": 744.14, "end": 747.14, "text": "Vi er skikkelig bra folk i investerbasen."}
+{"episode_id": 526, "segment_index": 231, "start": 747.14, "end": 748.3, "text": "Vi er ingen vesifrån eller noe sånt,"}
+{"episode_id": 526, "segment_index": 232, "start": 748.3, "end": 749.78, "text": "vi er bare skikkelig bra folk."}
+{"episode_id": 526, "segment_index": 233, "start": 749.78, "end": 751.5, "text": "Gøy, spennende å høre på."}
+{"episode_id": 526, "segment_index": 234, "start": 751.5, "end": 754.62, "text": "Vi skal høre mer om hva du tenker i hvordan dere bygger, som sagt."}
+{"episode_id": 526, "segment_index": 235, "start": 754.62, "end": 756.54, "text": "Men Audun, det er ikke ofte at du"}
+{"episode_id": 526, "segment_index": 236, "start": 756.54, "end": 761.18, "text": "sitter helt musisk stille de første 20 minutterne, eller hva?"}
+{"episode_id": 526, "segment_index": 237, "start": 761.18, "end": 763.14, "text": "Nei, jeg er veldig imponeret,"}
+{"episode_id": 526, "segment_index": 238, "start": 763.14, "end": 764.18, "text": "og jeg har jo uksaglet litt,"}
+{"episode_id": 526, "segment_index": 239, "start": 764.18, "end": 767.26, "text": "for vi har jo pratet litt sammen for et død- og død-torsiden."}
+{"episode_id": 526, "segment_index": 240, "start": 767.26, "end": 769.5, "text": "Og vi, Maris,"}
+{"episode_id": 526, "segment_index": 241, "start": 769.58, "end": 771.5, "text": "vi har jo pratet mye om AIA-agenter,"}
+{"episode_id": 526, "segment_index": 242, "start": 771.5, "end": 774.7, "text": "hva det er for noe av vi har kaldt det digitala vaktmester og så videre."}
+{"episode_id": 526, "segment_index": 243, "start": 774.7, "end": 775.94, "text": "Og det jeg har gjort en liten stund,"}
+{"episode_id": 526, "segment_index": 244, "start": 775.94, "end": 779.9, "text": "og det vi ser nå, det er jo generelt at disse AIA-agentene"}
+{"episode_id": 526, "segment_index": 245, "start": 779.9, "end": 782.58, "text": "de dykker opp i veldig mange forskjellige vertikaller"}
+{"episode_id": 526, "segment_index": 246, "start": 782.58, "end": 784.46, "text": "som vi kaller det, eller industrier."}
+{"episode_id": 526, "segment_index": 247, "start": 784.46, "end": 786.94, "text": "Og så ser jeg litt overrasket over at"}
+{"episode_id": 526, "segment_index": 248, "start": 786.94, "end": 789.02, "text": "vi er så flinke på det i Eindom,"}
+{"episode_id": 526, "segment_index": 249, "start": 789.02, "end": 791.1, "text": "fra Oslo og London,"}
+{"episode_id": 526, "segment_index": 250, "start": 791.1, "end": 793.82, "text": "men så ser jeg at det er jo en global industri."}
+{"episode_id": 526, "segment_index": 251, "start": 793.82, "end": 796.3, "text": "Og disse AIA-agentene,"}
+{"episode_id": 526, "segment_index": 252, "start": 796.3, "end": 798.62, "text": "det de ofte gjør, eller det de gjør, er jo at"}
+{"episode_id": 526, "segment_index": 253, "start": 798.62, "end": 802.26, "text": "det er en sånn virtuelle roboter som beveger seg"}
+{"episode_id": 526, "segment_index": 254, "start": 802.26, "end": 806.94, "text": "og gjør mange oppgaver for oss mennesker i en digital økonomin."}
+{"episode_id": 526, "segment_index": 255, "start": 806.94, "end": 809.86, "text": "Og vi kommer til å vise om forbrukere,"}
+{"episode_id": 526, "segment_index": 256, "start": 809.86, "end": 811.78, "text": "tror jeg, liksom i løpet av den neste par årne,"}
+{"episode_id": 526, "segment_index": 257, "start": 811.78, "end": 814.18, "text": "alle vi kommer til å ha vår personlige AIA-agent,"}
+{"episode_id": 526, "segment_index": 258, "start": 814.18, "end": 816.46, "text": "og så representerer vi å gjerne denne"}
+{"episode_id": 526, "segment_index": 259, "start": 816.46, "end": 819.38, "text": "proskinaliseringen av AIA-agenter"}
+{"episode_id": 526, "segment_index": 260, "start": 819.38, "end": 821.26, "text": "inn i de ulike industrierne."}
+{"episode_id": 526, "segment_index": 261, "start": 821.26, "end": 823.78, "text": "Og dette har en distruktiv kraft,"}
+{"episode_id": 526, "segment_index": 262, "start": 823.78, "end": 827.06, "text": "i den forstande at disse endringene som oppstår i kjølvannet,"}
+{"episode_id": 526, "segment_index": 263, "start": 827.1, "end": 829.14, "text": "av denne Armeien av AIA-agenter,"}
+{"episode_id": 526, "segment_index": 264, "start": 829.14, "end": 832.58, "text": "som kommer i mange ulike former og farger,"}
+{"episode_id": 526, "segment_index": 265, "start": 832.58, "end": 836.34, "text": "kommer til å endre veldig mange arbeidsoppgaver."}
+{"episode_id": 526, "segment_index": 266, "start": 836.34, "end": 838.14, "text": "De blir mer effektive,"}
+{"episode_id": 526, "segment_index": 267, "start": 838.14, "end": 839.3, "text": "de blir billere,"}
+{"episode_id": 526, "segment_index": 268, "start": 839.3, "end": 840.9, "text": "og det kommer til å komme raskere."}
+{"episode_id": 526, "segment_index": 269, "start": 840.9, "end": 844.5, "text": "Så det passer veldig fint inn i veldig mange av de tingene"}
+{"episode_id": 526, "segment_index": 270, "start": 844.5, "end": 846.18, "text": "som vi har diskutert til dere,"}
+{"episode_id": 526, "segment_index": 271, "start": 846.18, "end": 848.58, "text": "også med å vise seglevis å legge på en sånn"}
+{"episode_id": 526, "segment_index": 272, "start": 848.58, "end": 851.14, "text": "at disse AIA-agentene egentlig på måter"}
+{"episode_id": 526, "segment_index": 273, "start": 851.14, "end": 852.78, "text": "sånn i virtuelle roboter,"}
+{"episode_id": 526, "segment_index": 274, "start": 852.78, "end": 856.78, "text": "som surger rundt og gjør alle disse søkene"}
+{"episode_id": 526, "segment_index": 275, "start": 856.78, "end": 859.5, "text": "og regne på alle disse tingene helt automatisk,"}
+{"episode_id": 526, "segment_index": 276, "start": 859.5, "end": 861.34, "text": "så er det ikke så veldig langt unna"}
+{"episode_id": 526, "segment_index": 277, "start": 861.34, "end": 863.06, "text": "at vi kan se på"}
+{"episode_id": 526, "segment_index": 278, "start": 863.06, "end": 865.58, "text": "når bilene begynner å bli selvkjørende,"}
+{"episode_id": 526, "segment_index": 279, "start": 865.58, "end": 868.42, "text": "eller humanoidsene, når de begynner å bevege seg rundt oss."}
+{"episode_id": 526, "segment_index": 280, "start": 868.42, "end": 871.14, "text": "Så de er en del av hele det samme kalle"}
+{"episode_id": 526, "segment_index": 281, "start": 871.14, "end": 873.82, "text": "tekstekke eller måten å tenke"}
+{"episode_id": 526, "segment_index": 282, "start": 873.82, "end": 875.46, "text": "ændring og teknologi på."}
+{"episode_id": 526, "segment_index": 283, "start": 875.46, "end": 878.18, "text": "Og akkurat på samme måte som AIA-agenter,"}
+{"episode_id": 526, "segment_index": 284, "start": 878.18, "end": 880.46, "text": "er det også i den virkelig verden med roboter."}
+{"episode_id": 526, "segment_index": 285, "start": 880.46, "end": 881.82, "text": "Nå går det kjempefort,"}
+{"episode_id": 526, "segment_index": 286, "start": 881.82, "end": 883.78, "text": "og de løper den neste fem årne,"}
+{"episode_id": 526, "segment_index": 287, "start": 883.78, "end": 885.54, "text": "så kommer vi til å se oss i bakspeiler,"}
+{"episode_id": 526, "segment_index": 288, "start": 885.54, "end": 886.38, "text": "og så er det liksom,"}
+{"episode_id": 526, "segment_index": 289, "start": 886.38, "end": 887.42, "text": "Øy, tenkte jeg,"}
+{"episode_id": 526, "segment_index": 290, "start": 887.42, "end": 889.34, "text": "hva som har skjedd sin i 2025."}
+{"episode_id": 526, "segment_index": 291, "start": 889.34, "end": 891.14, "text": "Og det er du en del av,"}
+{"episode_id": 526, "segment_index": 292, "start": 891.14, "end": 895.34, "text": "ja, dafor er det kjempegøy å sitte og høre på din fortelling,"}
+{"episode_id": 526, "segment_index": 293, "start": 895.34, "end": 897.34, "text": "fordi du tok noe modig valg,"}
+{"episode_id": 526, "segment_index": 294, "start": 897.34, "end": 899.06, "text": "og du har stått i de valgene,"}
+{"episode_id": 526, "segment_index": 295, "start": 899.06, "end": 902.46, "text": "og så virker jeg som at du også har klart å"}
+{"episode_id": 526, "segment_index": 296, "start": 902.46, "end": 905.82, "text": "være handlingsdykte med å klare å få gjennfor det."}
+{"episode_id": 526, "segment_index": 297, "start": 905.82, "end": 907.18, "text": "For det er ikke lett."}
+{"episode_id": 526, "segment_index": 298, "start": 907.18, "end": 910.46, "text": "Det er en flere ting som kunne ha gått galt,"}
+{"episode_id": 526, "segment_index": 299, "start": 910.46, "end": 913.66, "text": "men med en tydelig god forretningsplan"}
+{"episode_id": 526, "segment_index": 300, "start": 913.66, "end": 918.14, "text": "og kombinasjon da med gode, flinke, stabile emester,"}
+{"episode_id": 526, "segment_index": 301, "start": 918.14, "end": 919.26, "text": "og så kapital."}
+{"episode_id": 526, "segment_index": 302, "start": 919.26, "end": 920.98, "text": "Og eventet tilstøksel til talent,"}
+{"episode_id": 526, "segment_index": 303, "start": 920.98, "end": 922.54, "text": "så kommer han veldig langt,"}
+{"episode_id": 526, "segment_index": 304, "start": 922.54, "end": 925.54, "text": "så med å være en liten bedrift i et stort marked."}
+{"episode_id": 526, "segment_index": 305, "start": 925.54, "end": 927.18, "text": "Jeg tror du egentlig kommer lenger i dag"}
+{"episode_id": 526, "segment_index": 306, "start": 927.18, "end": 929.02, "text": "med å være en liten bedrift eller en stor bedrift."}
+{"episode_id": 526, "segment_index": 307, "start": 929.02, "end": 930.3, "text": "Og det får jeg ofte spørsmål til,"}
+{"episode_id": 526, "segment_index": 308, "start": 930.3, "end": 931.98, "text": "fordi jeg har på mange eraer nå og igjen."}
+{"episode_id": 526, "segment_index": 309, "start": 931.98, "end": 933.58, "text": "Du ser det så feil å måle på det."}
+{"episode_id": 526, "segment_index": 310, "start": 933.58, "end": 936.06, "text": "Typisk norske måle på hvor mange ansatte du har."}
+{"episode_id": 526, "segment_index": 311, "start": 936.06, "end": 937.58, "text": "Jeg når jeg hører folk av mange ansatte,"}
+{"episode_id": 526, "segment_index": 312, "start": 937.58, "end": 937.86, "text": "så tenker jeg,"}
+{"episode_id": 526, "segment_index": 313, "start": 937.86, "end": 940.58, "text": "å fy søen de kommer til å ta på de i alt for treget."}
+{"episode_id": 526, "segment_index": 314, "start": 940.58, "end": 941.5, "text": "Det er sånn deep sick,"}
+{"episode_id": 526, "segment_index": 315, "start": 941.5, "end": 942.82, "text": "hva var det 200 stykker?"}
+{"episode_id": 526, "segment_index": 316, "start": 942.82, "end": 944.7, "text": "Hos oss da,"}
+{"episode_id": 526, "segment_index": 317, "start": 944.7, "end": 946.46, "text": "så pleier jeg å si at vi har måtte hvert fall hatt,"}
+{"episode_id": 526, "segment_index": 318, "start": 946.46, "end": 948.14, "text": "hvert fire ganger så mange,"}
+{"episode_id": 526, "segment_index": 319, "start": 948.14, "end": 949.9, "text": "så kanskje 200 mennesker da,"}
+{"episode_id": 526, "segment_index": 320, "start": 949.9, "end": 953.34, "text": "hvis vi skulle producere det samme vi har nå for tre år siden."}
+{"episode_id": 526, "segment_index": 321, "start": 953.34, "end": 954.38, "text": "Men vi har ansatt,"}
+{"episode_id": 526, "segment_index": 322, "start": 954.38, "end": 955.3, "text": "vi lager jo en AI-agent,"}
+{"episode_id": 526, "segment_index": 323, "start": 955.3, "end": 957.66, "text": "men vi har også ansatt mange AI-agenter."}
+{"episode_id": 526, "segment_index": 324, "start": 957.66, "end": 959.82, "text": "Vi har sagt opp alle selgerne våre,"}
+{"episode_id": 526, "segment_index": 325, "start": 959.82, "end": 961.94, "text": "og så har jeg ansatt AI-agenter,"}
+{"episode_id": 526, "segment_index": 326, "start": 961.94, "end": 965.06, "text": "som gjør veldig mye av det som en selger vanligvis gjør."}
+{"episode_id": 526, "segment_index": 327, "start": 965.06, "end": 969.62, "text": "Og så har jeg ansatt noe som jeg er kaldt for prosjektledere for AI-agenter,"}
+{"episode_id": 526, "segment_index": 328, "start": 969.62, "end": 971.22, "text": "helt sildeligeste når jeg får i uka,"}
+{"episode_id": 526, "segment_index": 329, "start": 971.22, "end": 974.38, "text": "det heter AI-agent bosses."}
+{"episode_id": 526, "segment_index": 330, "start": 976.3, "end": 980.38, "text": "Så nå har vi bare i det siste uken ansatt fire stykker som jeg har..."}
+{"episode_id": 526, "segment_index": 331, "start": 980.38, "end": 982.58, "text": "Det er så bort, det er sånn et trailblazers."}
+{"episode_id": 526, "segment_index": 332, "start": 982.58, "end": 984.58, "text": "Vi prøver med en masse av noen som har vært på LinkedIn og alt mye."}
+{"episode_id": 526, "segment_index": 333, "start": 984.58, "end": 988.14, "text": "Sånn, og så skrev jeg en sånn frustrasjongreie på LinkedIn,"}
+{"episode_id": 526, "segment_index": 334, "start": 988.14, "end": 989.98, "text": "og tydelig at de spinner ganske bra nå om dagen,"}
+{"episode_id": 526, "segment_index": 335, "start": 989.98, "end": 990.94, "text": "det er de liker da."}
+{"episode_id": 526, "segment_index": 336, "start": 990.94, "end": 993.78, "text": "Så da hadde det en sånn frustrasjon over"}
+{"episode_id": 526, "segment_index": 337, "start": 993.78, "end": 994.78, "text": "at alle er forint på jobbet,"}
+{"episode_id": 526, "segment_index": 338, "start": 994.78, "end": 996.22, "text": "inte å gjøre unge mennesker."}
+{"episode_id": 526, "segment_index": 339, "start": 996.22, "end": 999.54, "text": "De har bare vært som de drømmer om å jobbe som mamma og pappa,"}
+{"episode_id": 526, "segment_index": 340, "start": 999.58, "end": 1001.5, "text": "alt har jobbet som de voksne gjør."}
+{"episode_id": 526, "segment_index": 341, "start": 1001.5, "end": 1005.86, "text": "Men da vi kom ut i arbeidslivet da til cent-90-tallet,"}
+{"episode_id": 526, "segment_index": 342, "start": 1005.86, "end": 1007.54, "text": "så kom vi jo med World Wide Web,"}
+{"episode_id": 526, "segment_index": 343, "start": 1007.54, "end": 1009.06, "text": "og vi kom i mobil og alt mulig,"}
+{"episode_id": 526, "segment_index": 344, "start": 1009.06, "end": 1010.94, "text": "og vi hadde bare vært en treigeste chefer,"}
+{"episode_id": 526, "segment_index": 345, "start": 1010.94, "end": 1011.86, "text": "og vi bare så hoppet,"}
+{"episode_id": 526, "segment_index": 346, "start": 1011.86, "end": 1013.14, "text": "og bare forstjønner det ingenting,"}
+{"episode_id": 526, "segment_index": 347, "start": 1013.14, "end": 1016.34, "text": "her kan vi gjøre det så mye bedre, så mye enklere."}
+{"episode_id": 526, "segment_index": 348, "start": 1016.34, "end": 1018.66, "text": "Og de unge som står og hopper den på måten der,"}
+{"episode_id": 526, "segment_index": 349, "start": 1018.66, "end": 1020.26, "text": "når de ser hvordan jeg jobber,"}
+{"episode_id": 526, "segment_index": 350, "start": 1020.26, "end": 1022.1, "text": "de er de jeg vil ansette."}
+{"episode_id": 526, "segment_index": 351, "start": 1022.1, "end": 1024.74, "text": "Men så dere verferlig ikke oppe i intervjuer sånn."}
+{"episode_id": 526, "segment_index": 352, "start": 1024.74, "end": 1025.82, "text": "Og jeg fant ikke disse her,"}
+{"episode_id": 526, "segment_index": 353, "start": 1025.82, "end": 1027.78, "text": "så da skrev jeg en sånn frustrasjon,"}
+{"episode_id": 526, "segment_index": 354, "start": 1027.82, "end": 1029.5, "text": "og da kom de fra alle verdensgjøren,"}
+{"episode_id": 526, "segment_index": 355, "start": 1029.5, "end": 1032.74, "text": "og så poppet opp trailblazers som de kaldte seg selv."}
+{"episode_id": 526, "segment_index": 356, "start": 1032.74, "end": 1034.62, "text": "Og så har vi ansatt en god del av de,"}
+{"episode_id": 526, "segment_index": 357, "start": 1034.62, "end": 1035.82, "text": "og de drømmer ut fra der og meg."}
+{"episode_id": 526, "segment_index": 358, "start": 1035.82, "end": 1039.62, "text": "Det er sånn at jeg har gått opp i løpet av to måneder fra å følge meg skikkelig sant."}
+{"episode_id": 526, "segment_index": 359, "start": 1039.62, "end": 1041.5, "text": "Jeg har koll på hvor vi skal bygge her,"}
+{"episode_id": 526, "segment_index": 360, "start": 1041.5, "end": 1044.54, "text": "til at det har fikk en del som kommer med noe som jeg ikke anter,"}
+{"episode_id": 526, "segment_index": 361, "start": 1044.54, "end": 1045.58, "text": "og det er gøy."}
+{"episode_id": 526, "segment_index": 362, "start": 1045.58, "end": 1049.42, "text": "Men det må jo koste litt å få disse AI-agentene til"}
+{"episode_id": 526, "segment_index": 363, "start": 1049.42, "end": 1051.22, "text": "å gjøre det du vil at de skal gjøre."}
+{"episode_id": 526, "segment_index": 364, "start": 1051.22, "end": 1054.9, "text": "Det går så veldig mye mindre enn å prøve for et menneske til å gjøre det jeg vil gjøre hvertfall."}
+{"episode_id": 526, "segment_index": 365, "start": 1054.9, "end": 1055.46, "text": "OK."}
+{"episode_id": 526, "segment_index": 366, "start": 1055.46, "end": 1057.1, "text": "Hva er nøkking for å få til det?"}
+{"episode_id": 526, "segment_index": 367, "start": 1057.1, "end": 1058.18, "text": "Nå har vi jo..."}
+{"episode_id": 526, "segment_index": 368, "start": 1058.18, "end": 1061.3, "text": "Vi har lysensiet en god del av AI-agentene som er trendt oppe av andre,"}
+{"episode_id": 526, "segment_index": 369, "start": 1061.3, "end": 1064.14, "text": "også coacher vi de på plass."}
+{"episode_id": 526, "segment_index": 370, "start": 1064.14, "end": 1066.58, "text": "Men nå har vi også begynt å bygge vår egne AI-agent."}
+{"episode_id": 526, "segment_index": 371, "start": 1066.58, "end": 1069.66, "text": "Det finnes jo også en masse no-code-verktei som du kan få laget akkort en AI-agent"}
+{"episode_id": 526, "segment_index": 372, "start": 1069.66, "end": 1071.26, "text": "som du trenger til det du vil."}
+{"episode_id": 526, "segment_index": 373, "start": 1071.26, "end": 1073.62, "text": "Og så blir jeg litt sånn, at jeg vil ligge tydelig ut der,"}
+{"episode_id": 526, "segment_index": 374, "start": 1073.62, "end": 1075.22, "text": "og så bygger vi vår egne AI-agent der også,"}
+{"episode_id": 526, "segment_index": 375, "start": 1075.22, "end": 1076.9, "text": "og så er ansatt folk som kan gjøre det,"}
+{"episode_id": 526, "segment_index": 376, "start": 1076.9, "end": 1078.5, "text": "for det er jeg vi i PEN."}
+{"episode_id": 526, "segment_index": 377, "start": 1078.5, "end": 1082.1, "text": "Også kan vi eventuelt privaterere de som produkter ut også,"}
+{"episode_id": 526, "segment_index": 378, "start": 1082.1, "end": 1083.98, "text": "i og med at vi ligger i folkkant der."}
+{"episode_id": 526, "segment_index": 379, "start": 1085.5, "end": 1086.66, "text": "Det gikk vi i det feien i kampanjen,"}
+{"episode_id": 526, "segment_index": 380, "start": 1086.66, "end": 1089.26, "text": "og det kommer til vår egen AI-agent som prosjekterer bygg."}
+{"episode_id": 526, "segment_index": 381, "start": 1089.26, "end": 1091.38, "text": "Men jeg tror også at vi ligger langt frem i en måte"}
+{"episode_id": 526, "segment_index": 382, "start": 1091.38, "end": 1096.46, "text": "vi vågar å bygge organisation på rett på det nye som går an."}
+{"episode_id": 526, "segment_index": 383, "start": 1096.46, "end": 1099.18, "text": "Jeg tror litt at vi kan våg å gjøre det,"}
+{"episode_id": 526, "segment_index": 384, "start": 1099.18, "end": 1102.1, "text": "fordi både jeg og Beate som en CTO,"}
+{"episode_id": 526, "segment_index": 385, "start": 1102.1, "end": 1104.38, "text": "vi har bygget masse selskaper før vi har gjort dette."}
+{"episode_id": 526, "segment_index": 386, "start": 1104.38, "end": 1107.62, "text": "Vi klarer å bære ganske mye med risiko på ting,"}
+{"episode_id": 526, "segment_index": 387, "start": 1107.62, "end": 1109.86, "text": "så vi vet at jeg er det vanlig å gjøre på den måten,"}
+{"episode_id": 526, "segment_index": 388, "start": 1109.86, "end": 1111.02, "text": "mellom å spøve den måten."}
+{"episode_id": 526, "segment_index": 389, "start": 1111.02, "end": 1113.18, "text": "Og vi sikker så skal vi alltid bare gjøre på den måten."}
+{"episode_id": 526, "segment_index": 390, "start": 1113.22, "end": 1117.26, "text": "Så den erfaringen vi har med oss fra blitt godt voksne,"}
+{"episode_id": 526, "segment_index": 391, "start": 1117.26, "end": 1120.42, "text": "den tror jeg er super nytt i oss,"}
+{"episode_id": 526, "segment_index": 392, "start": 1120.42, "end": 1122.46, "text": "når vi skal bygge alt dette nye."}
+{"episode_id": 526, "segment_index": 393, "start": 1122.46, "end": 1127.42, "text": "Men det er det å utfordre seg selv da på hvordan vi la oss slippe en agentløse"}
+{"episode_id": 526, "segment_index": 394, "start": 1127.42, "end": 1128.42, "text": "og se hvordan det går."}
+{"episode_id": 526, "segment_index": 395, "start": 1128.42, "end": 1134.02, "text": "De unge får komme inn og bare gjøre det så de tenker at det bør det være gjort."}
+{"episode_id": 526, "segment_index": 396, "start": 1134.02, "end": 1137.3, "text": "Og hvis vi tar å gjøre det, så var det verdens gøyeste jobb."}
+{"episode_id": 526, "segment_index": 397, "start": 1140.17, "end": 1143.01, "text": "Hva er et godt og relativt fersk eksempel"}
+{"episode_id": 526, "segment_index": 398, "start": 1143.01, "end": 1145.65, "text": "på hva dere har tenkt sånn, yes,"}
+{"episode_id": 526, "segment_index": 399, "start": 1145.65, "end": 1148.09, "text": "nå har jeg fått en avgjøen til å gjøre dette her."}
+{"episode_id": 526, "segment_index": 400, "start": 1148.09, "end": 1151.65, "text": "Neste uke skal jeg på en stor enomskap for hans hjemstjenar."}
+{"episode_id": 526, "segment_index": 401, "start": 1151.65, "end": 1152.97, "text": "Det er veldig to uker til."}
+{"episode_id": 526, "segment_index": 402, "start": 1152.97, "end": 1154.85, "text": "Vi går helt til på disse enomskap for hans hjemstjenar"}
+{"episode_id": 526, "segment_index": 403, "start": 1154.85, "end": 1156.45, "text": "og du kommer dit og får deltake listet"}
+{"episode_id": 526, "segment_index": 404, "start": 1156.45, "end": 1159.49, "text": "og så hvordan navigerer vi i hvem skal du snakke med."}
+{"episode_id": 526, "segment_index": 405, "start": 1159.49, "end": 1162.13, "text": "Jeg ender alltid opp med at det er rådgivningsnører som vi snakker med meg."}
+{"episode_id": 526, "segment_index": 406, "start": 1162.13, "end": 1163.45, "text": "Og vi selger ikke det rådgivningsnører,"}
+{"episode_id": 526, "segment_index": 407, "start": 1163.45, "end": 1166.25, "text": "vi selger bare til bygghæret på totalt hans månører."}
+{"episode_id": 526, "segment_index": 408, "start": 1166.25, "end": 1168.81, "text": "Jørgen, som sier formiddelsen, ofte med utenfor,"}
+{"episode_id": 526, "segment_index": 409, "start": 1168.85, "end": 1171.25, "text": "men jeg har alltid oppnå snakket med arkitekter."}
+{"episode_id": 526, "segment_index": 410, "start": 1171.25, "end": 1174.93, "text": "Så det vi har gjort nå, når vi spekter til nøygen som tar"}
+{"episode_id": 526, "segment_index": 411, "start": 1174.93, "end": 1177.13, "text": "hele listen til alle som skal delta på konferansen,"}
+{"episode_id": 526, "segment_index": 412, "start": 1177.13, "end": 1180.33, "text": "finner du hvem på konferansen der er de vi ønsker å snakke med."}
+{"episode_id": 526, "segment_index": 413, "start": 1180.33, "end": 1183.17, "text": "Hvem av de har prosjekter nå på gang?"}
+{"episode_id": 526, "segment_index": 414, "start": 1183.17, "end": 1184.77, "text": "Hvem er ny jobbene, hva er de jobbet før,"}
+{"episode_id": 526, "segment_index": 415, "start": 1184.77, "end": 1187.81, "text": "sånn at vi vet mest mulig om de som personer i forkant?"}
+{"episode_id": 526, "segment_index": 416, "start": 1187.81, "end": 1191.69, "text": "Og så spesialt tilpasser vi en outreach til de"}
+{"episode_id": 526, "segment_index": 417, "start": 1191.69, "end": 1194.29, "text": "i håp om å få en prat med de når vi skal på konferansen."}
+{"episode_id": 526, "segment_index": 418, "start": 1194.29, "end": 1196.25, "text": "Og hvis de ikke skal på konferansen,"}
+{"episode_id": 526, "segment_index": 419, "start": 1196.25, "end": 1198.37, "text": "så kan vi si å, vi møter deg ikke på konferansen,"}
+{"episode_id": 526, "segment_index": 420, "start": 1198.41, "end": 1200.25, "text": "men kan vi få en follow up anyway."}
+{"episode_id": 526, "segment_index": 421, "start": 1200.25, "end": 1203.73, "text": "Også, nå er det på engelsk, det er lov til egentlig at vi ikke skal gjøre."}
+{"episode_id": 526, "segment_index": 422, "start": 1203.73, "end": 1205.97, "text": "Også, det er noe med at jeg vet nye akti,"}
+{"episode_id": 526, "segment_index": 423, "start": 1205.97, "end": 1208.77, "text": "hvordan jeg skulle ønske at vi fikk det til å gjøre det,"}
+{"episode_id": 526, "segment_index": 424, "start": 1208.77, "end": 1209.89, "text": "nå kan jeg bare beskrive det,"}
+{"episode_id": 526, "segment_index": 425, "start": 1209.89, "end": 1211.21, "text": "og så kan vi sette en a-agent igang,"}
+{"episode_id": 526, "segment_index": 426, "start": 1211.21, "end": 1212.81, "text": "og så gjør jeg den det."}
+{"episode_id": 526, "segment_index": 427, "start": 1212.81, "end": 1213.89, "text": "Og den gjør alt."}
+{"episode_id": 526, "segment_index": 428, "start": 1213.89, "end": 1216.45, "text": "Jeg holder fortsatt igjen på at når det møter bokket,"}
+{"episode_id": 526, "segment_index": 429, "start": 1216.45, "end": 1219.81, "text": "så vil jeg holde det, møte selv, eller med noen folk hos oss."}
+{"episode_id": 526, "segment_index": 430, "start": 1219.81, "end": 1222.37, "text": "Men da har vi jo med en a-agent som tar no-taking,"}
+{"episode_id": 526, "segment_index": 431, "start": 1222.37, "end": 1225.45, "text": "som både vi driver trene opp en a-agent selv nå,"}
+{"episode_id": 526, "segment_index": 432, "start": 1225.49, "end": 1227.53, "text": "som i alle bygge møter har,"}
+{"episode_id": 526, "segment_index": 433, "start": 1227.53, "end": 1231.65, "text": "som tar transke begare, som det finnes mange der ute."}
+{"episode_id": 526, "segment_index": 434, "start": 1231.65, "end": 1236.53, "text": "Også gir det en oppsummering, gir en action-list og sånt,"}
+{"episode_id": 526, "segment_index": 435, "start": 1236.53, "end": 1239.73, "text": "og her er vi i konflikten med hva som står i kontrakten."}
+{"episode_id": 526, "segment_index": 436, "start": 1239.73, "end": 1242.45, "text": "Her er det noe som prøver å spørre om kamp."}
+{"episode_id": 526, "segment_index": 437, "start": 1242.45, "end": 1246.77, "text": "Alt det som vi vet er superviktig i et ennomsutviklingsprojekt,"}
+{"episode_id": 526, "segment_index": 438, "start": 1246.77, "end": 1248.89, "text": "fordi vi har drevet prosjektledelser av deg så mange år,"}
+{"episode_id": 526, "segment_index": 439, "start": 1248.89, "end": 1251.33, "text": "vi vet akkurat hvordan det går galt,"}
+{"episode_id": 526, "segment_index": 440, "start": 1251.33, "end": 1252.77, "text": "så har vi trent den opp på domene,"}
+{"episode_id": 526, "segment_index": 441, "start": 1252.77, "end": 1254.33, "text": "så du ser vi går inn i vertikal,"}
+{"episode_id": 526, "segment_index": 442, "start": 1254.37, "end": 1256.97, "text": "og så er det som går galt på domene,"}
+{"episode_id": 526, "segment_index": 443, "start": 1256.97, "end": 1258.65, "text": "og så trener vi opp de ekstra,"}
+{"episode_id": 526, "segment_index": 444, "start": 1258.65, "end": 1261.17, "text": "som det topplaget på det som er egentlig"}
+{"episode_id": 526, "segment_index": 445, "start": 1261.17, "end": 1263.85, "text": "den standard generativ a-ag pakkena,"}
+{"episode_id": 526, "segment_index": 446, "start": 1263.85, "end": 1268.05, "text": "som vi bruker åpner a-ag en video sin, og de standard pakkena."}
+{"episode_id": 526, "segment_index": 447, "start": 1268.05, "end": 1270.57, "text": "Det er jo immer morsomt å høre på,"}
+{"episode_id": 526, "segment_index": 448, "start": 1270.57, "end": 1272.89, "text": "fordi dette er jo en..."}
+{"episode_id": 526, "segment_index": 449, "start": 1272.89, "end": 1274.61, "text": "Vi har jo også vært vel opptatt av skalering,"}
+{"episode_id": 526, "segment_index": 450, "start": 1274.61, "end": 1276.17, "text": "det er sånt ord som vi har vært inne om,"}
+{"episode_id": 526, "segment_index": 451, "start": 1276.17, "end": 1278.69, "text": "veldig mange ganger sammen med verne produktivitet."}
+{"episode_id": 526, "segment_index": 452, "start": 1278.69, "end": 1282.05, "text": "Og sånn som jeg har opplørt at dere gjør,"}
+{"episode_id": 526, "segment_index": 453, "start": 1282.05, "end": 1285.89, "text": "så har dere en sånn enorm skalerbarhet"}
+{"episode_id": 526, "segment_index": 454, "start": 1285.89, "end": 1290.05, "text": "innfor noe som dere gjør enkelt,"}
+{"episode_id": 526, "segment_index": 455, "start": 1290.05, "end": 1291.37, "text": "mens det er vanskelig,"}
+{"episode_id": 526, "segment_index": 456, "start": 1291.37, "end": 1293.53, "text": "så dere skalere en sånn enkelhet,"}
+{"episode_id": 526, "segment_index": 457, "start": 1293.53, "end": 1295.81, "text": "og det må bare være veldig produktivt."}
+{"episode_id": 526, "segment_index": 458, "start": 1295.81, "end": 1299.57, "text": "Og da er vi litt tilbake til disse kjernovegreppene,"}
+{"episode_id": 526, "segment_index": 459, "start": 1299.57, "end": 1302.61, "text": "som vi vet, softwaren, kjernekommendagens software,"}
+{"episode_id": 526, "segment_index": 460, "start": 1302.61, "end": 1306.93, "text": "er alt at den kan være i stand til å skalere så innmari fort."}
+{"episode_id": 526, "segment_index": 461, "start": 1306.93, "end": 1309.13, "text": "Og det er ikke noen sånn,"}
+{"episode_id": 526, "segment_index": 462, "start": 1309.17, "end": 1312.29, "text": "det finnes ikke noen lager for disse softwaren,"}
+{"episode_id": 526, "segment_index": 463, "start": 1312.29, "end": 1314.29, "text": "for det er at du bare producerer det,"}
+{"episode_id": 526, "segment_index": 464, "start": 1314.29, "end": 1317.13, "text": "og du har det som en veldig høy magin på det,"}
+{"episode_id": 526, "segment_index": 465, "start": 1317.13, "end": 1320.33, "text": "og den kan være produktiv i løpet av et sekund."}
+{"episode_id": 526, "segment_index": 466, "start": 1320.33, "end": 1322.49, "text": "Og det er så veldig annorlig,"}
+{"episode_id": 526, "segment_index": 467, "start": 1322.49, "end": 1327.45, "text": "den vanlige vareverden som har helt andre begjensninger."}
+{"episode_id": 526, "segment_index": 468, "start": 1327.45, "end": 1332.09, "text": "Og jo med én gang du klarer å løfte disse arbeidsopkehavene,"}
+{"episode_id": 526, "segment_index": 469, "start": 1332.09, "end": 1334.65, "text": "vekk fra en menneskehon, eller menneskehodet,"}
+{"episode_id": 526, "segment_index": 470, "start": 1334.65, "end": 1339.09, "text": "og fra en PC som avhenger at mennesket driver å trykke,"}
+{"episode_id": 526, "segment_index": 471, "start": 1339.09, "end": 1345.05, "text": "så har du skapt et sånt universe av skallerbarhet og produktivitet."}
+{"episode_id": 526, "segment_index": 472, "start": 1345.05, "end": 1347.05, "text": "Og det er klart at når du sier,"}
+{"episode_id": 526, "segment_index": 473, "start": 1347.05, "end": 1351.05, "text": "hvis vi skulle gjort akkurat dette samme som vi gjør nå i dag,"}
+{"episode_id": 526, "segment_index": 474, "start": 1351.05, "end": 1353.05, "text": "så måtte du kanskje være fire ganger flere,"}
+{"episode_id": 526, "segment_index": 475, "start": 1353.05, "end": 1354.05, "text": "hvis jeg forstår det riktig."}
+{"episode_id": 526, "segment_index": 476, "start": 1354.05, "end": 1358.05, "text": "Og det er klart at hvis du overfører det i sånn pengespråk,"}
+{"episode_id": 526, "segment_index": 477, "start": 1358.05, "end": 1363.05, "text": "så er det klart at du har en kostnadsbasis som er 5-10%"}
+{"episode_id": 526, "segment_index": 478, "start": 1363.05, "end": 1366.05, "text": "av det som er en konkurranse."}
+{"episode_id": 526, "segment_index": 479, "start": 1366.45, "end": 1368.45, "text": "Og det har vi lært for distributionen."}
+{"episode_id": 526, "segment_index": 480, "start": 1368.45, "end": 1372.05, "text": "Alt hvis du kan levere en tennest som er populær,"}
+{"episode_id": 526, "segment_index": 481, "start": 1372.05, "end": 1377.85, "text": "og den tennester er 90-80% billigere enn den som er der,"}
+{"episode_id": 526, "segment_index": 482, "start": 1377.85, "end": 1380.85, "text": "så får du alltid en disruption i etterkant."}
+{"episode_id": 526, "segment_index": 483, "start": 1380.85, "end": 1384.05, "text": "Så den her bulgen av AIA-agentet du tar med der,"}
+{"episode_id": 526, "segment_index": 484, "start": 1384.05, "end": 1386.61, "text": "nå inn i heindansbransjen,"}
+{"episode_id": 526, "segment_index": 485, "start": 1386.61, "end": 1392.25, "text": "de kan gjøre veldig mye ugang, for de etablert ettsekturne,"}
+{"episode_id": 526, "segment_index": 486, "start": 1392.25, "end": 1394.69, "text": "og da igjen dette berømte bakspillet i 2030,"}
+{"episode_id": 526, "segment_index": 487, "start": 1394.69, "end": 1399.53, "text": "så ville man kanskje konkludere med at det var i 2023"}
+{"episode_id": 526, "segment_index": 488, "start": 1399.53, "end": 1403.57, "text": "eller 2026 hvor man kunne se starten på denne store omvaltningen"}
+{"episode_id": 526, "segment_index": 489, "start": 1403.57, "end": 1405.57, "text": "innfor del av disse vertikalen."}
+{"episode_id": 526, "segment_index": 490, "start": 1405.57, "end": 1409.89, "text": "Dette her bare kan skaleres rett opp i himmeren,"}
+{"episode_id": 526, "segment_index": 491, "start": 1409.89, "end": 1412.29, "text": "høres jo litt sånn for godt ut til å være sant,"}
+{"episode_id": 526, "segment_index": 492, "start": 1412.29, "end": 1414.29, "text": "hvis vi må ha utfordret litt der."}
+{"episode_id": 526, "segment_index": 493, "start": 1414.29, "end": 1418.61, "text": "Når dere driver og bygger og prøver å vokse internasjene"}
+{"episode_id": 526, "segment_index": 494, "start": 1418.61, "end": 1420.61, "text": "alt der i USA, i London,"}
+{"episode_id": 526, "segment_index": 495, "start": 1420.61, "end": 1422.61, "text": "sikkert store dele i Europa kan komme tilbake til det,"}
+{"episode_id": 526, "segment_index": 496, "start": 1422.65, "end": 1426.05, "text": "men hva er på natt de største utfordringene som du møter på?"}
+{"episode_id": 526, "segment_index": 497, "start": 1426.05, "end": 1428.05, "text": "Det er rett og det er tregetten i banksen,"}
+{"episode_id": 526, "segment_index": 498, "start": 1428.05, "end": 1432.05, "text": "så venter vi litt på sånn Airbnb eller UB moment i heindom."}
+{"episode_id": 526, "segment_index": 499, "start": 1432.05, "end": 1435.33, "text": "Det kommer noe nye å bare gjøre egenhåndsbygning på en helt annen måte,"}
+{"episode_id": 526, "segment_index": 500, "start": 1435.33, "end": 1437.33, "text": "for det er mulig nå."}
+{"episode_id": 526, "segment_index": 501, "start": 1437.33, "end": 1440.13, "text": "Så det er moden helt i marker egentlig,"}
+{"episode_id": 526, "segment_index": 502, "start": 1440.13, "end": 1443.33, "text": "og det er sånn som det er for vi gikk i ordene til England"}
+{"episode_id": 526, "segment_index": 503, "start": 1443.33, "end": 1445.33, "text": "i stedet for å se her,"}
+{"episode_id": 526, "segment_index": 504, "start": 1445.33, "end": 1447.33, "text": "fordi i England så er det foretningstrevet."}
+{"episode_id": 526, "segment_index": 505, "start": 1447.33, "end": 1449.33, "text": "Der er det finansfolk som er chef for egenom."}
+{"episode_id": 526, "segment_index": 506, "start": 1449.33, "end": 1451.33, "text": "Finansfolk tar hjernen i beslutning,"}
+{"episode_id": 526, "segment_index": 507, "start": 1451.33, "end": 1453.33, "text": "når de klarer å regne det,"}
+{"episode_id": 526, "segment_index": 508, "start": 1453.33, "end": 1455.33, "text": "når vi reduserer på 80-90 prosent kostnaden,"}
+{"episode_id": 526, "segment_index": 509, "start": 1455.33, "end": 1457.33, "text": "selvfølgelig gjør vi dette her."}
+{"episode_id": 526, "segment_index": 510, "start": 1457.33, "end": 1459.33, "text": "Vi har ikke gått inn i Tyskland,"}
+{"episode_id": 526, "segment_index": 511, "start": 1459.33, "end": 1461.33, "text": "for selv om du kommer å redusere 80-90 prosent av kostnaden,"}
+{"episode_id": 526, "segment_index": 512, "start": 1461.33, "end": 1463.33, "text": "så sitter det ingenør der og tenker at,"}
+{"episode_id": 526, "segment_index": 513, "start": 1463.33, "end": 1465.33, "text": "Ær dette blir ikke bra."}
+{"episode_id": 526, "segment_index": 514, "start": 1465.33, "end": 1467.33, "text": "Så det er det finansstrevet."}
+{"episode_id": 526, "segment_index": 515, "start": 1467.33, "end": 1469.33, "text": "Støttet opp om stereotypen,"}
+{"episode_id": 526, "segment_index": 516, "start": 1469.33, "end": 1471.33, "text": "ganske greit der i forhold til Tyskland."}
+{"episode_id": 526, "segment_index": 517, "start": 1471.33, "end": 1473.33, "text": "Og hva er så lange erfaringer,"}
+{"episode_id": 526, "segment_index": 518, "start": 1473.33, "end": 1475.33, "text": "det kan stå fint i dem."}
+{"episode_id": 526, "segment_index": 519, "start": 1475.33, "end": 1477.33, "text": "Så England har vært i trolig fint for oss å skalere i."}
+{"episode_id": 526, "segment_index": 520, "start": 1477.33, "end": 1479.33, "text": "Det er all over the place,"}
+{"episode_id": 526, "segment_index": 521, "start": 1479.33, "end": 1481.33, "text": "rett og slett."}
+{"episode_id": 526, "segment_index": 522, "start": 1481.33, "end": 1483.33, "text": "Det er noen som er veldig finansielle,"}
+{"episode_id": 526, "segment_index": 523, "start": 1483.33, "end": 1485.33, "text": "og noen som er veldig trøste og alt mulig."}
+{"episode_id": 526, "segment_index": 524, "start": 1485.33, "end": 1487.33, "text": "Vi har ikke klart å finne et ordentlig"}
+{"episode_id": 526, "segment_index": 525, "start": 1487.33, "end": 1489.33, "text": "beslutningsunderlag til hvordan vi skal gjøre det."}
+{"episode_id": 526, "segment_index": 526, "start": 1489.33, "end": 1491.33, "text": "Vi har med mye kunder,"}
+{"episode_id": 526, "segment_index": 527, "start": 1491.33, "end": 1493.33, "text": "Singapore,"}
+{"episode_id": 526, "segment_index": 528, "start": 1493.33, "end": 1495.33, "text": "veldig fretningsstrevet,"}
+{"episode_id": 526, "segment_index": 529, "start": 1495.33, "end": 1497.33, "text": "veldig lett å komme inn i,"}
+{"episode_id": 526, "segment_index": 530, "start": 1497.33, "end": 1499.33, "text": "sånn hongkong det samme."}
+{"episode_id": 526, "segment_index": 531, "start": 1499.33, "end": 1501.33, "text": "Så vi navigerer egentlig der hvor det er mest"}
+{"episode_id": 526, "segment_index": 532, "start": 1501.33, "end": 1503.33, "text": "forretningsstrevet, hvor de ser"}
+{"episode_id": 526, "segment_index": 533, "start": 1503.33, "end": 1505.33, "text": "besparelsen, og så tar beslutninger om å gjøre det."}
+{"episode_id": 526, "segment_index": 534, "start": 1505.33, "end": 1507.33, "text": "Det kommer en sikkerhet i at ein er med ein dom,"}
+{"episode_id": 526, "segment_index": 535, "start": 1507.33, "end": 1509.33, "text": "men det er veldig store regionale"}
+{"episode_id": 526, "segment_index": 536, "start": 1509.33, "end": 1511.33, "text": "forskjeller på regler,"}
+{"episode_id": 526, "segment_index": 537, "start": 1511.33, "end": 1513.33, "text": "og hva som..."}
+{"episode_id": 526, "segment_index": 538, "start": 1513.33, "end": 1515.33, "text": "Eller er det..."}
+{"episode_id": 526, "segment_index": 539, "start": 1515.33, "end": 1517.33, "text": "Det som er litt..."}
+{"episode_id": 526, "segment_index": 540, "start": 1517.33, "end": 1519.33, "text": "Det er at det er regler."}
+{"episode_id": 526, "segment_index": 541, "start": 1519.33, "end": 1521.33, "text": "Du har regler for hvor mye et sprinkler ho,"}
+{"episode_id": 526, "segment_index": 542, "start": 1521.33, "end": 1523.33, "text": "det kan være godkjent for å dekke for slokket barn."}
+{"episode_id": 526, "segment_index": 543, "start": 1523.33, "end": 1525.33, "text": "Det er regler for hvor mange kubik med luft du skal ha"}
+{"episode_id": 526, "segment_index": 544, "start": 1525.33, "end": 1527.33, "text": "per time i dette rommet."}
+{"episode_id": 526, "segment_index": 545, "start": 1527.33, "end": 1529.33, "text": "Men at du skal ha"}
+{"episode_id": 526, "segment_index": 546, "start": 1529.33, "end": 1531.33, "text": "kubik med luft per time i rommet, det likt."}
+{"episode_id": 526, "segment_index": 547, "start": 1531.33, "end": 1533.33, "text": "At du skal ha"}
+{"episode_id": 526, "segment_index": 548, "start": 1533.33, "end": 1535.33, "text": "regler for tre nedkendninger, går det literalt"}
+{"episode_id": 526, "segment_index": 549, "start": 1535.33, "end": 1537.33, "text": "en kabelbruk. Det er likt."}
+{"episode_id": 526, "segment_index": 550, "start": 1537.33, "end": 1539.33, "text": "Så strukturelt, alt likt."}
+{"episode_id": 526, "segment_index": 551, "start": 1539.33, "end": 1541.33, "text": "Vi har europeiske standarder, det er Sime"}
+{"episode_id": 526, "segment_index": 552, "start": 1541.33, "end": 1543.33, "text": "som snarer å slivera globalt."}
+{"episode_id": 526, "segment_index": 553, "start": 1543.33, "end": 1545.33, "text": "Så samtidig..."}
+{"episode_id": 526, "segment_index": 554, "start": 1545.33, "end": 1547.33, "text": "Det er bestemt og verforstarted."}
+{"episode_id": 526, "segment_index": 555, "start": 1547.33, "end": 1549.33, "text": "Så den viktigste parter av det,"}
+{"episode_id": 526, "segment_index": 556, "start": 1549.33, "end": 1551.33, "text": "at det er et felt hvor ting"}
+{"episode_id": 526, "segment_index": 557, "start": 1551.33, "end": 1553.33, "text": "gjøres likt globalt."}
+{"episode_id": 526, "segment_index": 558, "start": 1553.33, "end": 1555.33, "text": "Så kan du lage de noen av,"}
+{"episode_id": 526, "segment_index": 559, "start": 1555.33, "end": 1557.33, "text": "og så skal dere ut."}
+{"episode_id": 526, "segment_index": 560, "start": 1557.33, "end": 1559.33, "text": "Så tippar den 95%, som er helt like,"}
+{"episode_id": 526, "segment_index": 561, "start": 1559.33, "end": 1561.33, "text": "og den er 5%, som er ulik."}
+{"episode_id": 526, "segment_index": 562, "start": 1561.33, "end": 1565.25, "text": "kulturelt betinget. Også er den 5% også blitt litt mindre"}
+{"episode_id": 526, "segment_index": 563, "start": 1565.33, "end": 1567.01, "text": "når vi kan bruke de store språkomodeller"}
+{"episode_id": 526, "segment_index": 564, "start": 1567.09, "end": 1570.01, "text": "til å rett og navigere i de 5%-en også."}
+{"episode_id": 526, "segment_index": 565, "start": 1570.09, "end": 1572.73, "text": "Vi bruker disse følge litt og navigerer i regelverket"}
+{"episode_id": 526, "segment_index": 566, "start": 1572.81, "end": 1575.53, "text": "og i lokale standarda. Men det er egentlig nesten"}
+{"episode_id": 526, "segment_index": 567, "start": 1575.61, "end": 1579.01, "text": "like stor forskjell mellom å slå hønefoss som det er"}
+{"episode_id": 526, "segment_index": 568, "start": 1579.09, "end": 1582.61, "text": "mellom å slå Stockholm på den typen ting."}
+{"episode_id": 526, "segment_index": 569, "start": 1582.69, "end": 1587.09, "text": "Det er lokalt overalt. Det er ulikket av at akkurat"}
+{"episode_id": 526, "segment_index": 570, "start": 1587.17, "end": 1589.33, "text": "de tekniske fagen i bygdne ikke vil ha at de"}
+{"episode_id": 526, "segment_index": 571, "start": 1589.33, "end": 1591.97, "text": "Det er kreativt, og det er det som er optimalt."}
+{"episode_id": 526, "segment_index": 572, "start": 1592.05, "end": 1595.65, "text": "Akketekt vil du kanskje ha kreativitet og litt mer touchy."}
+{"episode_id": 526, "segment_index": 573, "start": 1595.73, "end": 1599.37, "text": "Og det er likt globalt. Det er derfor jeg turter å gjøre investeringen."}
+{"episode_id": 526, "segment_index": 574, "start": 1599.45, "end": 1602.45, "text": "Vi kan bygge noe, og vi kan skale globalt."}
+{"episode_id": 526, "segment_index": 575, "start": 1602.53, "end": 1605.13, "text": "Det er nesten uten grense."}
+{"episode_id": 526, "segment_index": 576, "start": 1605.21, "end": 1610.17, "text": "Hvem er de viktigste samarbeidspartnerne dine?"}
+{"episode_id": 526, "segment_index": 577, "start": 1610.25, "end": 1615.45, "text": "Når vi bygger på Ashur i Bonn, har vi noen potensielle kunder."}
+{"episode_id": 526, "segment_index": 578, "start": 1615.45, "end": 1620.65, "text": "Vi kommer nok til å gjøre oss plattformen vi har vengt i ganske fort."}
+{"episode_id": 526, "segment_index": 579, "start": 1620.73, "end": 1624.45, "text": "Vi har NVIDIA og OpenAI. NVIDIA er en veldig god partnere."}
+{"episode_id": 526, "segment_index": 580, "start": 1624.53, "end": 1629.09, "text": "I og med at vi reducerer hvertfra 20 % materialer i en branche"}
+{"episode_id": 526, "segment_index": 581, "start": 1629.17, "end": 1631.45, "text": "som bruker 40 % materialer i verden."}
+{"episode_id": 526, "segment_index": 582, "start": 1631.53, "end": 1633.57, "text": "Så første gang vi møtte de, så var det sånn,"}
+{"episode_id": 526, "segment_index": 583, "start": 1633.65, "end": 1638.17, "text": "Æ, jeg tror kanskje vi har funnet Æ som vi kan klame med Susteneborg."}
+{"episode_id": 526, "segment_index": 584, "start": 1638.25, "end": 1641.85, "text": "Det er bære kraftig Æ, jeg er ikke overallt her i verden."}
+{"episode_id": 526, "segment_index": 585, "start": 1641.85, "end": 1643.85, "text": "De har vi godt samarbeid med."}
+{"episode_id": 526, "segment_index": 586, "start": 1643.93, "end": 1647.17, "text": "Alt som nytt tar ut, får det innså oss, lærer det opp."}
+{"episode_id": 526, "segment_index": 587, "start": 1647.25, "end": 1650.77, "text": "De får det innså oss. De markedsfører oss veldig bra."}
+{"episode_id": 526, "segment_index": 588, "start": 1650.85, "end": 1653.05, "text": "Vi har gått samarbeid med OpenAI."}
+{"episode_id": 526, "segment_index": 589, "start": 1653.13, "end": 1654.25, "text": "Vi kan ligge litt i folkene."}
+{"episode_id": 526, "segment_index": 590, "start": 1654.33, "end": 1657.73, "text": "For vi ligger ikke med bare noe vi har bygget på toppen av språkmodellerne"}
+{"episode_id": 526, "segment_index": 591, "start": 1657.81, "end": 1659.93, "text": "som sikkert OpenAI kommer til å lage en stukke."}
+{"episode_id": 526, "segment_index": 592, "start": 1660.01, "end": 1662.89, "text": "Likvel, vi har den deep tech-biten som prosjekterer"}
+{"episode_id": 526, "segment_index": 593, "start": 1662.97, "end": 1664.77, "text": "en deep tech-art i kombinasjonen."}
+{"episode_id": 526, "segment_index": 594, "start": 1664.85, "end": 1668.37, "text": "Så vi har gått dypt i vertikal."}
+{"episode_id": 526, "segment_index": 595, "start": 1668.45, "end": 1671.25, "text": "Det tror jeg ikke de kommer til å gjøre."}
+{"episode_id": 526, "segment_index": 596, "start": 1671.25, "end": 1673.25, "text": "Det skal aldri si aldri."}
+{"episode_id": 526, "segment_index": 597, "start": 1673.33, "end": 1675.49, "text": "Vi bruker alt som er generisk."}
+{"episode_id": 526, "segment_index": 598, "start": 1675.57, "end": 1678.21, "text": "Vi går i det etterikal."}
+{"episode_id": 526, "segment_index": 599, "start": 1678.29, "end": 1680.13, "text": "Ha gentene som gjør jobben."}
+{"episode_id": 526, "segment_index": 600, "start": 1680.21, "end": 1683.45, "text": "Det blir et fint partnerskap med de store tekstesskapene."}
+{"episode_id": 526, "segment_index": 601, "start": 1683.53, "end": 1687.49, "text": "Det er at dere bruker mye amerikansk teknologi"}
+{"episode_id": 526, "segment_index": 602, "start": 1687.57, "end": 1691.89, "text": "som det høres ut som utilokker det, for eksempel asiatiske marikket."}
+{"episode_id": 526, "segment_index": 603, "start": 1691.97, "end": 1695.81, "text": "På grunn av verden er det som nær eller ikke det er noe problemstilling."}
+{"episode_id": 526, "segment_index": 604, "start": 1695.89, "end": 1699.05, "text": "Det er jo derfor vi prøver å gjøre oss plattform uavhengig."}
+{"episode_id": 526, "segment_index": 605, "start": 1699.05, "end": 1701.93, "text": "Selve AI-laget er vårt."}
+{"episode_id": 526, "segment_index": 606, "start": 1702.01, "end": 1703.85, "text": "Den IPN er konsiglig."}
+{"episode_id": 526, "segment_index": 607, "start": 1703.93, "end": 1706.77, "text": "Vi må ha en datalagring som har datasikkerhet."}
+{"episode_id": 526, "segment_index": 608, "start": 1706.85, "end": 1708.61, "text": "Det er et lagring også."}
+{"episode_id": 526, "segment_index": 609, "start": 1708.69, "end": 1711.49, "text": "Vi har ikke dritt å bygge til en stor datalagringsplattform."}
+{"episode_id": 526, "segment_index": 610, "start": 1711.57, "end": 1713.01, "text": "Vi må ha en database."}
+{"episode_id": 526, "segment_index": 611, "start": 1713.09, "end": 1715.13, "text": "En database som gir oss en sikkerhet"}
+{"episode_id": 526, "segment_index": 612, "start": 1715.21, "end": 1718.57, "text": "så vi har kunnet vores dataetrygge."}
+{"episode_id": 526, "segment_index": 613, "start": 1718.65, "end": 1721.85, "text": "Vi har prosedyret som er gode nok."}
+{"episode_id": 526, "segment_index": 614, "start": 1721.93, "end": 1724.77, "text": "Som vi leverer til Crown of England."}
+{"episode_id": 526, "segment_index": 615, "start": 1724.77, "end": 1729.09, "text": "Det å lene seg på de store som har infrastrukturen"}
+{"episode_id": 526, "segment_index": 616, "start": 1729.17, "end": 1730.85, "text": "må vi gjøre."}
+{"episode_id": 526, "segment_index": 617, "start": 1730.93, "end": 1736.33, "text": "Men vi prøver å gjøre oss mer og mer uavhengig av hvilken det er."}
+{"episode_id": 526, "segment_index": 618, "start": 1736.41, "end": 1739.21, "text": "Det er en del av det som skjer globalt her nå."}
+{"episode_id": 526, "segment_index": 619, "start": 1739.29, "end": 1742.77, "text": "Nå har vi de store posisjoner som går til å kunne levere lokalt"}
+{"episode_id": 526, "segment_index": 620, "start": 1742.85, "end": 1745.61, "text": "i alle deler av verden som den nå er."}
+{"episode_id": 526, "segment_index": 621, "start": 1745.69, "end": 1748.73, "text": "Har du noe tal du kan dele med oss?"}
+{"episode_id": 526, "segment_index": 622, "start": 1748.81, "end": 1751.33, "text": "Eller som gir på en måte et bild av"}
+{"episode_id": 526, "segment_index": 623, "start": 1751.37, "end": 1754.37, "text": "hvordan vi vekstner og reiserner det på"}
+{"episode_id": 526, "segment_index": 624, "start": 1754.45, "end": 1756.73, "text": "hvordan vi utvikler omsittningen seg,"}
+{"episode_id": 526, "segment_index": 625, "start": 1756.81, "end": 1759.65, "text": "hva slags marginer er det vi snakker om?"}
+{"episode_id": 526, "segment_index": 626, "start": 1759.73, "end": 1762.01, "text": "Vi er jo forst og i småthall."}
+{"episode_id": 526, "segment_index": 627, "start": 1762.09, "end": 1763.97, "text": "Det som jeg sier, det er det vi gjør nå."}
+{"episode_id": 526, "segment_index": 628, "start": 1764.05, "end": 1766.17, "text": "Vi gjør de kategoriledene i verden."}
+{"episode_id": 526, "segment_index": 629, "start": 1766.25, "end": 1767.33, "text": "Det er to ting som gjelder."}
+{"episode_id": 526, "segment_index": 630, "start": 1767.41, "end": 1769.25, "text": "Det er å ta globale markedsandeler."}
+{"episode_id": 526, "segment_index": 631, "start": 1769.33, "end": 1771.01, "text": "Da blir det kundeforholdet."}
+{"episode_id": 526, "segment_index": 632, "start": 1771.09, "end": 1772.85, "text": "Ikke enda vendevis at det er kundeforholdet så stort."}
+{"episode_id": 526, "segment_index": 633, "start": 1772.93, "end": 1774.93, "text": "Og selvfølgelig er det å passe på at teknologien"}
+{"episode_id": 526, "segment_index": 634, "start": 1775.01, "end": 1776.89, "text": "må ikke bli legis i."}
+{"episode_id": 526, "segment_index": 635, "start": 1776.97, "end": 1777.93, "text": "Jeg går så fort."}
+{"episode_id": 526, "segment_index": 636, "start": 1778.01, "end": 1779.05, "text": "Sen koden vi hadde for 6 måneder."}
+{"episode_id": 526, "segment_index": 637, "start": 1779.13, "end": 1781.09, "text": "Jeg har aldri redd fornyet."}
+{"episode_id": 526, "segment_index": 638, "start": 1781.13, "end": 1782.89, "text": "Og da har vi å ta globale markedsandeler."}
+{"episode_id": 526, "segment_index": 639, "start": 1782.97, "end": 1785.37, "text": "Da har vi valgt å ta en tilnemming"}
+{"episode_id": 526, "segment_index": 640, "start": 1785.45, "end": 1789.69, "text": "som gjør at vi bare lander flere som er i store kantene der ute."}
+{"episode_id": 526, "segment_index": 641, "start": 1789.77, "end": 1792.77, "text": "Og så kommer vi inn på et nivå hvor vi klarer å komme inn."}
+{"episode_id": 526, "segment_index": 642, "start": 1792.85, "end": 1795.81, "text": "Det er typisk 10.000 dollar i mån."}
+{"episode_id": 526, "segment_index": 643, "start": 1795.89, "end": 1797.61, "text": "Og så recurring da."}
+{"episode_id": 526, "segment_index": 644, "start": 1797.69, "end": 1799.97, "text": "Det blir jo ikke sånn veldig store volymer."}
+{"episode_id": 526, "segment_index": 645, "start": 1800.05, "end": 1802.69, "text": "Men det er at vi klarer å få en recurring revenue"}
+{"episode_id": 526, "segment_index": 646, "start": 1802.77, "end": 1804.41, "text": "på prosjektering av bygg."}
+{"episode_id": 526, "segment_index": 647, "start": 1804.49, "end": 1805.73, "text": "Som alltid har vært prosjektbasert."}
+{"episode_id": 526, "segment_index": 648, "start": 1805.81, "end": 1809.93, "text": "Det har vært en transformasjon som vi gjorde sent i fjord."}
+{"episode_id": 526, "segment_index": 649, "start": 1809.97, "end": 1812.05, "text": "Så vi gikk inn i dette år med noe,"}
+{"episode_id": 526, "segment_index": 650, "start": 1812.13, "end": 1815.09, "text": "hver fall sekke 10 millioner norske som recurring."}
+{"episode_id": 526, "segment_index": 651, "start": 1815.17, "end": 1818.25, "text": "Som vi skal ute åre med med forhåpet på 40."}
+{"episode_id": 526, "segment_index": 652, "start": 1818.33, "end": 1820.13, "text": "Så du får denne typiske dippen."}
+{"episode_id": 526, "segment_index": 653, "start": 1820.21, "end": 1822.81, "text": "For 2023 lå vi på 20 millioner i omsetning."}
+{"episode_id": 526, "segment_index": 654, "start": 1824.89, "end": 1826.01, "text": "Og da var vi break even."}
+{"episode_id": 526, "segment_index": 655, "start": 1826.09, "end": 1827.61, "text": "Vi har jo ikke noe med stor kosmosparse."}
+{"episode_id": 526, "segment_index": 656, "start": 1827.69, "end": 1829.69, "text": "Og så i fjord så lå vi på noen under sammen"}
+{"episode_id": 526, "segment_index": 657, "start": 1829.77, "end": 1832.69, "text": "når du ser Norge og Globalt under et."}
+{"episode_id": 526, "segment_index": 658, "start": 1833.09, "end": 1835.77, "text": "Og så skal vi i hvert fall doble i år."}
+{"episode_id": 526, "segment_index": 659, "start": 1835.85, "end": 1837.53, "text": "Og så har vi begynt på den kurven"}
+{"episode_id": 526, "segment_index": 660, "start": 1837.53, "end": 1840.17, "text": "som vi lov et investere når vi har hentet kapital"}
+{"episode_id": 526, "segment_index": 661, "start": 1840.25, "end": 1842.69, "text": "helt på tamten av fjorden."}
+{"episode_id": 526, "segment_index": 662, "start": 1843.09, "end": 1845.93, "text": "Så stor Britannien er det viktigste market."}
+{"episode_id": 526, "segment_index": 663, "start": 1846.01, "end": 1850.29, "text": "Eller er det Norge fordi du var her der det startet?"}
+{"episode_id": 526, "segment_index": 664, "start": 1850.37, "end": 1853.17, "text": "Hvor er det dere kommer til å vokse mest, tror du?"}
+{"episode_id": 526, "segment_index": 665, "start": 1853.25, "end": 1855.41, "text": "Akkordent også vokser vi faktisk mest i Norge."}
+{"episode_id": 526, "segment_index": 666, "start": 1855.49, "end": 1856.93, "text": "Jeg tror det er fordi vi har holdt på en stund."}
+{"episode_id": 526, "segment_index": 667, "start": 1857.01, "end": 1859.21, "text": "Så det er mye innband fra det sånn,"}
+{"episode_id": 526, "segment_index": 668, "start": 1859.29, "end": 1861.37, "text": "de og de har snakket om det. Kan vi ta et møte?"}
+{"episode_id": 526, "segment_index": 669, "start": 1861.77, "end": 1863.93, "text": "Så utviklingen i omsetning i Norge"}
+{"episode_id": 526, "segment_index": 670, "start": 1864.01, "end": 1866.89, "text": "har gått veldig, veldig fint i siste månne hern og se."}
+{"episode_id": 526, "segment_index": 671, "start": 1867.29, "end": 1869.01, "text": "Og så har vi vekst i England nå."}
+{"episode_id": 526, "segment_index": 672, "start": 1869.09, "end": 1871.21, "text": "Og så er jo lokale market i England"}
+{"episode_id": 526, "segment_index": 673, "start": 1871.49, "end": 1873.33, "text": "selvfølgelig viktig og stort."}
+{"episode_id": 526, "segment_index": 674, "start": 1873.41, "end": 1877.09, "text": "Men grunn til at vi har etablet oss i London er jo for det første måte"}
+{"episode_id": 526, "segment_index": 675, "start": 1877.17, "end": 1880.81, "text": "vi er ute på grunn av hvordan Norge ønsker å være"}
+{"episode_id": 526, "segment_index": 676, "start": 1880.89, "end": 1882.73, "text": "som ikke ønsker å ha oss her."}
+{"episode_id": 526, "segment_index": 677, "start": 1883.13, "end": 1885.65, "text": "Også når vi først måtte ut, så er jo London"}
+{"episode_id": 526, "segment_index": 678, "start": 1885.73, "end": 1889.05, "text": "finanshovedstad i Eindland."}
+{"episode_id": 526, "segment_index": 679, "start": 1889.49, "end": 1891.57, "text": "Så det er vi har vært i London,"}
+{"episode_id": 526, "segment_index": 680, "start": 1891.65, "end": 1894.13, "text": "så er vi der hvor de kommer og tar ofte styremøtende"}
+{"episode_id": 526, "segment_index": 681, "start": 1894.21, "end": 1895.61, "text": "sine egenomseskaper fra hele verden."}
+{"episode_id": 526, "segment_index": 682, "start": 1896.09, "end": 1899.13, "text": "Så vi sitter i riktig plassert til at vi slipper å reise så mye."}
+{"episode_id": 526, "segment_index": 683, "start": 1899.21, "end": 1900.93, "text": "For alle er innom London, hvis du driver meg enda."}
+{"episode_id": 526, "segment_index": 684, "start": 1901.01, "end": 1905.25, "text": "Litt av hva skal vi si kransekaken med det produkte"}
+{"episode_id": 526, "segment_index": 685, "start": 1905.33, "end": 1908.29, "text": "som dere tilbør til kundene deres,"}
+{"episode_id": 526, "segment_index": 686, "start": 1908.37, "end": 1914.09, "text": "er det at dere på en måte har en teknologi som dekker"}
+{"episode_id": 526, "segment_index": 687, "start": 1914.17, "end": 1918.37, "text": "i mangelighet bedre ord hele verdikjeden på en eller annen måte,"}
+{"episode_id": 526, "segment_index": 688, "start": 1918.45, "end": 1920.89, "text": "mens konkurrentene deres som prøver på det samme"}
+{"episode_id": 526, "segment_index": 689, "start": 1920.97, "end": 1925.45, "text": "bare er enkelte deler av verdikjeden."}
+{"episode_id": 526, "segment_index": 690, "start": 1925.61, "end": 1928.41, "text": "Ja, det finnes jo konkurrentene som lager disse her påbygningene"}
+{"episode_id": 526, "segment_index": 691, "start": 1928.49, "end": 1929.53, "text": "på de store språkmodellerne,"}
+{"episode_id": 526, "segment_index": 692, "start": 1929.61, "end": 1933.65, "text": "mange av de små app-type av i selskapet."}
+{"episode_id": 526, "segment_index": 693, "start": 1934.25, "end": 1936.33, "text": "Også finnes det noen som går mer sånn"}
+{"episode_id": 526, "segment_index": 694, "start": 1936.41, "end": 1938.45, "text": "at vi skal gjøre dem enda mer detaljeret, enda bedre"}
+{"episode_id": 526, "segment_index": 695, "start": 1938.53, "end": 1941.41, "text": "enn det vi klarer å gjøre med reviter med ingenører."}
+{"episode_id": 526, "segment_index": 696, "start": 1941.93, "end": 1943.77, "text": "Men for å gjøre det må du ha en forsikring."}
+{"episode_id": 526, "segment_index": 697, "start": 1943.85, "end": 1946.17, "text": "Du kan ikke drive å prosjektere bygget i et halvfase"}
+{"episode_id": 526, "segment_index": 698, "start": 1946.25, "end": 1947.13, "text": "uten en forsikring."}
+{"episode_id": 526, "segment_index": 699, "start": 1947.21, "end": 1949.25, "text": "Da går du konkurset første gang, det er en byggefæg."}
+{"episode_id": 526, "segment_index": 700, "start": 1949.77, "end": 1952.69, "text": "Så der tror jeg at det slet ikke har forstått"}
+{"episode_id": 526, "segment_index": 701, "start": 1952.77, "end": 1954.85, "text": "forretningsmodell ute i banksen."}
+{"episode_id": 526, "segment_index": 702, "start": 1955.09, "end": 1957.97, "text": "Og det ser vi også, de får jo ikke kundene, men de har bygget teknologi."}
+{"episode_id": 526, "segment_index": 703, "start": 1958.61, "end": 1962.93, "text": "Så konkurrentene våre i dag er jo ikke andre tekstelskapet."}
+{"episode_id": 526, "segment_index": 704, "start": 1963.01, "end": 1965.89, "text": "Men det er rådige vinnige ingenører"}
+{"episode_id": 526, "segment_index": 705, "start": 1965.97, "end": 1968.85, "text": "så de som driver på den gamle forretningsmodell."}
+{"episode_id": 526, "segment_index": 706, "start": 1969.37, "end": 1971.69, "text": "Og det er selvfølgelig en kjempe sterk konkurrent."}
+{"episode_id": 526, "segment_index": 707, "start": 1971.77, "end": 1973.53, "text": "De eier kundeforholdet, sånn de har vært det."}
+{"episode_id": 526, "segment_index": 708, "start": 1973.61, "end": 1976.13, "text": "De eier metodikken som er godkjent."}
+{"episode_id": 526, "segment_index": 709, "start": 1976.53, "end": 1978.01, "text": "Godkjent og myndighetene til og med."}
+{"episode_id": 526, "segment_index": 710, "start": 1978.37, "end": 1980.17, "text": "Så det er en rå sterk konkurrent,"}
+{"episode_id": 526, "segment_index": 711, "start": 1980.77, "end": 1982.65, "text": "men de er ikke et tekstelskap."}
+{"episode_id": 526, "segment_index": 712, "start": 1982.81, "end": 1984.25, "text": "Også noen av de som ser vi bruker A i,"}
+{"episode_id": 526, "segment_index": 713, "start": 1984.25, "end": 1987.49, "text": "men da sitter ingenøren å bruke noe A i"}
+{"episode_id": 526, "segment_index": 714, "start": 1987.57, "end": 1989.45, "text": "inn i den prosessen som de vandet vis bygger,"}
+{"episode_id": 526, "segment_index": 715, "start": 1989.53, "end": 1992.93, "text": "og så kan de gjerne tenke at det er å bruke A jo."}
+{"episode_id": 526, "segment_index": 716, "start": 1993.01, "end": 1997.17, "text": "De første, de som drømmer selskip når motorskipene kom,"}
+{"episode_id": 526, "segment_index": 717, "start": 1997.25, "end": 1999.29, "text": "putte de også motorer inn i selskipene sine."}
+{"episode_id": 526, "segment_index": 718, "start": 1999.69, "end": 2001.53, "text": "Men det er så etter at noen år så var det ikke mange"}
+{"episode_id": 526, "segment_index": 719, "start": 2001.69, "end": 2004.69, "text": "selskip med motor igjen, sånn som de som vant."}
+{"episode_id": 526, "segment_index": 720, "start": 2005.65, "end": 2008.29, "text": "Så det som du sier er jo denne kommende transfomasjon her,"}
+{"episode_id": 526, "segment_index": 721, "start": 2008.37, "end": 2011.65, "text": "for det har de kalt forskjellige måter"}
+{"episode_id": 526, "segment_index": 722, "start": 2011.65, "end": 2013.93, "text": "som tenker på å bygge forretning på,"}
+{"episode_id": 526, "segment_index": 723, "start": 2015.21, "end": 2017.21, "text": "selvom A i et teknologisjifte."}
+{"episode_id": 526, "segment_index": 724, "start": 2017.37, "end": 2021.49, "text": "Så i vår branche da, så kommer nok forrettningsmodelkifte"}
+{"episode_id": 526, "segment_index": 725, "start": 2021.57, "end": 2024.09, "text": "og forrettningsskifte til å være mye mye større"}
+{"episode_id": 526, "segment_index": 726, "start": 2024.17, "end": 2025.93, "text": "enn selv teknologisjifte i seg selv."}
+{"episode_id": 526, "segment_index": 727, "start": 2026.41, "end": 2028.73, "text": "Også tror jeg du er inne på at veldig sånn"}
+{"episode_id": 526, "segment_index": 728, "start": 2029.61, "end": 2031.29, "text": "viktig peing jeg får når det gjelder å se på"}
+{"episode_id": 526, "segment_index": 729, "start": 2031.37, "end": 2032.37, "text": "sånn disselsjoner etter tid,"}
+{"episode_id": 526, "segment_index": 730, "start": 2032.45, "end": 2033.81, "text": "så er det noen sånn de kjenneteine,"}
+{"episode_id": 526, "segment_index": 731, "start": 2033.89, "end": 2036.45, "text": "og veldig ofte så er det at denne disselsjonen"}
+{"episode_id": 526, "segment_index": 732, "start": 2036.53, "end": 2039.61, "text": "kommer urende fra, den kommer ikke fra internt fra industrien."}
+{"episode_id": 526, "segment_index": 733, "start": 2040.29, "end": 2042.69, "text": "Så det, og da er det ofte"}
+{"episode_id": 526, "segment_index": 734, "start": 2042.77, "end": 2045.61, "text": "menneske med teknologisk kunnskap og ambusjoner"}
+{"episode_id": 526, "segment_index": 735, "start": 2045.69, "end": 2047.69, "text": "som går juleløs på en ny branche."}
+{"episode_id": 526, "segment_index": 736, "start": 2048.17, "end": 2050.05, "text": "Og du har nødt til å ha det i stedet"}
+{"episode_id": 526, "segment_index": 737, "start": 2050.13, "end": 2052.49, "text": "at det er inn og mer enn banen,"}
+{"episode_id": 526, "segment_index": 738, "start": 2052.57, "end": 2054.05, "text": "en branche som man kan karistere"}
+{"episode_id": 526, "segment_index": 739, "start": 2054.13, "end": 2057.13, "text": "litt i grann som treger og konservativ og så videre."}
+{"episode_id": 526, "segment_index": 740, "start": 2057.53, "end": 2061.05, "text": "Jeg leter veldig mye etter sånnne type selskaper"}
+{"episode_id": 526, "segment_index": 741, "start": 2061.13, "end": 2063.57, "text": "som dere representerer og sånnne forrettningsmodel i,"}
+{"episode_id": 526, "segment_index": 742, "start": 2063.93, "end": 2066.25, "text": "som har begynt å angrepe de andre store"}
+{"episode_id": 526, "segment_index": 743, "start": 2066.33, "end": 2068.37, "text": "trege selskaper i branchenen,"}
+{"episode_id": 526, "segment_index": 744, "start": 2068.37, "end": 2073.01, "text": "sånn som helse og forsikring, forsvar,"}
+{"episode_id": 526, "segment_index": 745, "start": 2073.73, "end": 2074.85, "text": "bank og finans,"}
+{"episode_id": 526, "segment_index": 746, "start": 2074.93, "end": 2076.89, "text": "ikke sant, hvor..."}
+{"episode_id": 526, "segment_index": 747, "start": 2077.29, "end": 2079.69, "text": "Også vi forventer at de selskapene"}
+{"episode_id": 526, "segment_index": 748, "start": 2079.77, "end": 2082.53, "text": "kommer å leverere denne disselsjonen,"}
+{"episode_id": 526, "segment_index": 749, "start": 2082.61, "end": 2084.21, "text": "det vi er selskapene som er etableret"}
+{"episode_id": 526, "segment_index": 750, "start": 2084.29, "end": 2085.25, "text": "utenfor industrien."}
+{"episode_id": 526, "segment_index": 751, "start": 2085.97, "end": 2087.97, "text": "Gjerne med, du må kjenne industrien,"}
+{"episode_id": 526, "segment_index": 752, "start": 2088.05, "end": 2089.09, "text": "akkurat sånn som du gjør,"}
+{"episode_id": 526, "segment_index": 753, "start": 2089.17, "end": 2092.21, "text": "men du kommer inn med helt andre"}
+{"episode_id": 526, "segment_index": 754, "start": 2092.57, "end": 2095.01, "text": "egenskaper og helt andre forrettningsmodel i."}
+{"episode_id": 526, "segment_index": 755, "start": 2095.53, "end": 2097.61, "text": "Og det er ikke alltid at man lykkes,"}
+{"episode_id": 526, "segment_index": 756, "start": 2097.61, "end": 2101.81, "text": "men veldig ofte kommer det flere"}
+{"episode_id": 526, "segment_index": 757, "start": 2101.89, "end": 2105.01, "text": "sånnne type selskaper som dere representerer"}
+{"episode_id": 526, "segment_index": 758, "start": 2106.01, "end": 2109.93, "text": "og dermed er denne industrien i kraftig endring."}
+{"episode_id": 526, "segment_index": 759, "start": 2110.21, "end": 2113.05, "text": "Ikke sant, fordi at det dere leverer"}
+{"episode_id": 526, "segment_index": 760, "start": 2113.37, "end": 2115.41, "text": "er bedre, det er mer effektivt,"}
+{"episode_id": 526, "segment_index": 761, "start": 2115.49, "end": 2117.89, "text": "det er billere, det går raskere og så videre."}
+{"episode_id": 526, "segment_index": 762, "start": 2119.41, "end": 2124.05, "text": "Så igjen, jeg tror vi kommer til å se så mange av disse endringene"}
+{"episode_id": 526, "segment_index": 763, "start": 2124.13, "end": 2127.49, "text": "som om vi kaller det A-agenter eller robotter eller selskjønner"}
+{"episode_id": 526, "segment_index": 764, "start": 2127.49, "end": 2131.01, "text": "og så videre, som vil endre riv og slit"}
+{"episode_id": 526, "segment_index": 765, "start": 2131.09, "end": 2132.85, "text": "i disse store tungindustriene"}
+{"episode_id": 526, "segment_index": 766, "start": 2132.93, "end": 2134.37, "text": "og det er neste fem måneder"}
+{"episode_id": 526, "segment_index": 767, "start": 2134.45, "end": 2136.77, "text": "kommer til å være utrolig spennende å følge meg."}
+{"episode_id": 526, "segment_index": 768, "start": 2137.57, "end": 2140.37, "text": "Sånn du ser A-agenter inn i,"}
+{"episode_id": 526, "segment_index": 769, "start": 2140.45, "end": 2143.21, "text": "nå er det å bygge å enda om industrien"}
+{"episode_id": 526, "segment_index": 770, "start": 2143.29, "end": 2145.01, "text": "som du følger tettis på,"}
+{"episode_id": 526, "segment_index": 771, "start": 2145.09, "end": 2146.73, "text": "men sånn du ser dette her,"}
+{"episode_id": 526, "segment_index": 772, "start": 2146.81, "end": 2149.41, "text": "går det så fort som audien sier,"}
+{"episode_id": 526, "segment_index": 773, "start": 2151.41, "end": 2154.37, "text": "kommer vi til å se allerede neste år eller om to år,"}
+{"episode_id": 526, "segment_index": 774, "start": 2154.45, "end": 2157.33, "text": "at det er mye, mye mer."}
+{"episode_id": 526, "segment_index": 775, "start": 2157.49, "end": 2159.49, "text": "Hva som skjer i forhold til dette?"}
+{"episode_id": 526, "segment_index": 776, "start": 2159.57, "end": 2162.13, "text": "A-ag blir tatt i bruk i ulike industrier?"}
+{"episode_id": 526, "segment_index": 777, "start": 2162.21, "end": 2163.33, "text": "Ja, det går kjempefort."}
+{"episode_id": 526, "segment_index": 778, "start": 2163.41, "end": 2165.81, "text": "Det er bare det at vi gjør det her nå,"}
+{"episode_id": 526, "segment_index": 779, "start": 2165.89, "end": 2166.93, "text": "så det er andre som ser på oss,"}
+{"episode_id": 526, "segment_index": 780, "start": 2167.01, "end": 2168.85, "text": "og så bare, oi, kanskje vi skal gjøre det samme."}
+{"episode_id": 526, "segment_index": 781, "start": 2168.93, "end": 2172.25, "text": "Så de som tenker at vi kan ventle litt for å gå med i gang,"}
+{"episode_id": 526, "segment_index": 782, "start": 2172.33, "end": 2175.77, "text": "de bør rev det, tror jeg."}
+{"episode_id": 526, "segment_index": 783, "start": 2175.85, "end": 2179.81, "text": "Det går kjempefort, og så er det at det er mye"}
+{"episode_id": 526, "segment_index": 784, "start": 2179.89, "end": 2182.45, "text": "at vi sliter med ting som går sakte."}
+{"episode_id": 526, "segment_index": 785, "start": 2182.53, "end": 2184.49, "text": "Vi kommer inn til nye selskaper og så gjør,"}
+{"episode_id": 526, "segment_index": 786, "start": 2184.49, "end": 2187.29, "text": "nå kan jeg gjøre så mye mer."}
+{"episode_id": 526, "segment_index": 787, "start": 2187.37, "end": 2190.21, "text": "Det slipper forholde meg til de som er på syke,"}
+{"episode_id": 526, "segment_index": 788, "start": 2190.29, "end": 2192.21, "text": "eller har den syk katt eller ikke kunde,"}
+{"episode_id": 526, "segment_index": 789, "start": 2192.29, "end": 2193.77, "text": "eller har et annet prosjekt eller noe,"}
+{"episode_id": 526, "segment_index": 790, "start": 2193.85, "end": 2195.89, "text": "og sånn, a-agentene kan alltid den."}
+{"episode_id": 526, "segment_index": 791, "start": 2195.97, "end": 2196.81, "text": "Så det er et folk som ser at,"}
+{"episode_id": 526, "segment_index": 792, "start": 2196.89, "end": 2197.97, "text": "oi, jeg har fått som du sier,"}
+{"episode_id": 526, "segment_index": 793, "start": 2198.05, "end": 2200.49, "text": "min egen lille private robot på jobb,"}
+{"episode_id": 526, "segment_index": 794, "start": 2200.57, "end": 2204.61, "text": "så bare gjør at jeg kan levere helt simsikt mye bedre"}
+{"episode_id": 526, "segment_index": 795, "start": 2204.69, "end": 2206.81, "text": "og ha kontroll på det."}
+{"episode_id": 526, "segment_index": 796, "start": 2206.89, "end": 2211.13, "text": "Så jeg tror at det er en mulig gjøre for flinke folk"}
+{"episode_id": 526, "segment_index": 797, "start": 2211.21, "end": 2212.89, "text": "som har lyst til å skabe,"}
+{"episode_id": 526, "segment_index": 798, "start": 2212.93, "end": 2214.65, "text": "til å gjøre veldig mye mer."}
+{"episode_id": 526, "segment_index": 799, "start": 2214.73, "end": 2216.57, "text": "Og det er jo gjerne de flinke folk som lyst til å skabe"}
+{"episode_id": 526, "segment_index": 800, "start": 2216.65, "end": 2218.73, "text": "som drar, og da går det fort."}
+{"episode_id": 526, "segment_index": 801, "start": 2218.81, "end": 2221.53, "text": "Vi må spørre igjen om vi kan forlåne den møteagenten"}
+{"episode_id": 526, "segment_index": 802, "start": 2221.61, "end": 2223.61, "text": "neste gang vi skal på konferens her din."}
+{"episode_id": 526, "segment_index": 803, "start": 2223.69, "end": 2224.89, "text": "Hei? Det kan være nytt til deg."}
+{"episode_id": 526, "segment_index": 804, "start": 2224.97, "end": 2226.17, "text": "Det har vært bra, det har vært bra."}
+{"episode_id": 526, "segment_index": 805, "start": 2226.25, "end": 2228.01, "text": "Kanskje vi skal prøve å lage en seg lenge?"}
+{"episode_id": 526, "segment_index": 806, "start": 2228.09, "end": 2228.77, "text": "Kanskje det."}
+{"episode_id": 526, "segment_index": 807, "start": 2228.85, "end": 2229.41, "text": "Kanskje du kan kjøpe?"}
+{"episode_id": 526, "segment_index": 808, "start": 2229.49, "end": 2231.69, "text": "Jeg tenkte at vi skulle pakke inn min om privateeret."}
+{"episode_id": 526, "segment_index": 809, "start": 2232.93, "end": 2234.53, "text": "Nei, men det er også sånn,"}
+{"episode_id": 526, "segment_index": 810, "start": 2234.61, "end": 2237.49, "text": "da jeg har en kompis som jobber en,"}
+{"episode_id": 526, "segment_index": 811, "start": 2237.57, "end": 2241.85, "text": "og han er veldig teknologi interessert."}
+{"episode_id": 526, "segment_index": 812, "start": 2241.85, "end": 2243.65, "text": "Og så sier jeg, hvordan går det med digitalisering"}
+{"episode_id": 526, "segment_index": 813, "start": 2243.73, "end": 2244.89, "text": "i ennemsbransjen, så sann jeg,"}
+{"episode_id": 526, "segment_index": 814, "start": 2244.97, "end": 2247.33, "text": "det er en sånn sei i bransjen,"}
+{"episode_id": 526, "segment_index": 815, "start": 2247.41, "end": 2248.69, "text": "ennemsbransjen her i Norge,"}
+{"episode_id": 526, "segment_index": 816, "start": 2248.77, "end": 2251.89, "text": "så sier han det at digitalisering,"}
+{"episode_id": 526, "segment_index": 817, "start": 2251.97, "end": 2254.73, "text": "hvis du skjenne visittkortet,"}
+{"episode_id": 526, "segment_index": 818, "start": 2254.81, "end": 2256.41, "text": "og så lager de i PDF-format,"}
+{"episode_id": 526, "segment_index": 819, "start": 2256.49, "end": 2258.17, "text": "da har vi digitalisert bedriften."}
+{"episode_id": 526, "segment_index": 820, "start": 2258.25, "end": 2258.77, "text": "Ja."}
+{"episode_id": 526, "segment_index": 821, "start": 2258.85, "end": 2260.61, "text": "Exakt, og det er sånn der jeg på,"}
+{"episode_id": 526, "segment_index": 822, "start": 2260.69, "end": 2262.57, "text": "jeg satt og tenkte på den flotte,"}
+{"episode_id": 526, "segment_index": 823, "start": 2262.65, "end": 2263.85, "text": "den sier veldig mye."}
+{"episode_id": 526, "segment_index": 824, "start": 2263.93, "end": 2266.93, "text": "Exakt, altså sånn der jeg på om en industri,"}
+{"episode_id": 526, "segment_index": 825, "start": 2267.01, "end": 2268.25, "text": "om en bransje,"}
+{"episode_id": 526, "segment_index": 826, "start": 2268.25, "end": 2271.81, "text": "at man kan jo bombe så utrolig mye"}
+{"episode_id": 526, "segment_index": 827, "start": 2271.89, "end": 2273.41, "text": "i forhold til bare digitalisering,"}
+{"episode_id": 526, "segment_index": 828, "start": 2273.49, "end": 2275.57, "text": "fordi det du representerer,"}
+{"episode_id": 526, "segment_index": 829, "start": 2275.65, "end": 2278.69, "text": "det er en helt ny forretningsmodell,"}
+{"episode_id": 526, "segment_index": 830, "start": 2278.77, "end": 2282.05, "text": "som er basert på produktivitet og skalærbarhet."}
+{"episode_id": 526, "segment_index": 831, "start": 2282.13, "end": 2284.81, "text": "Da er vi tilbake på disse ordene"}
+{"episode_id": 526, "segment_index": 832, "start": 2284.89, "end": 2287.13, "text": "som vi har pratet om i ganske mange år,"}
+{"episode_id": 526, "segment_index": 833, "start": 2287.21, "end": 2288.21, "text": "Marius,"}
+{"episode_id": 526, "segment_index": 834, "start": 2288.29, "end": 2290.29, "text": "og pludselig så har vi et skikkelig usecase"}
+{"episode_id": 526, "segment_index": 835, "start": 2290.37, "end": 2291.49, "text": "med AIA-agenter."}
+{"episode_id": 526, "segment_index": 836, "start": 2291.57, "end": 2293.73, "text": "Dette er jo for en dag."}
+{"episode_id": 526, "segment_index": 837, "start": 2293.81, "end": 2296.85, "text": "Ja, men det har vært utrolig gøy å høre om,"}
+{"episode_id": 526, "segment_index": 838, "start": 2296.85, "end": 2301.13, "text": "jeg har fått en super inføring"}
+{"episode_id": 526, "segment_index": 839, "start": 2301.21, "end": 2302.25, "text": "i hva dere drev med henne,"}
+{"episode_id": 526, "segment_index": 840, "start": 2302.33, "end": 2304.41, "text": "jeg er kjempespennende å høre om."}
+{"episode_id": 526, "segment_index": 841, "start": 2304.49, "end": 2305.33, "text": "Jeg skulle gjerne pratet mer,"}
+{"episode_id": 526, "segment_index": 842, "start": 2305.41, "end": 2306.65, "text": "men du skal ikke fly til London,"}
+{"episode_id": 526, "segment_index": 843, "start": 2306.73, "end": 2308.93, "text": "så vi vet ikke at det skal komme for sent i det,"}
+{"episode_id": 526, "segment_index": 844, "start": 2309.01, "end": 2311.97, "text": "så vi får rundt av for nå."}
+{"episode_id": 526, "segment_index": 845, "start": 2312.05, "end": 2314.69, "text": "Men lykterne kan du ta med seg da,"}
+{"episode_id": 526, "segment_index": 846, "start": 2314.77, "end": 2317.09, "text": "at du er ikke varenda at du har din egen podcast også,"}
+{"episode_id": 526, "segment_index": 847, "start": 2317.17, "end": 2318.69, "text": "så det er mulig å høre mer fra deg."}
+{"episode_id": 526, "segment_index": 848, "start": 2318.77, "end": 2320.45, "text": "Ja, veldig mye mindre professionellere"}
+{"episode_id": 526, "segment_index": 849, "start": 2320.53, "end": 2321.61, "text": "denne podcasten dere har."}
+{"episode_id": 526, "segment_index": 850, "start": 2321.69, "end": 2322.69, "text": "Ja, ja, ja."}
+{"episode_id": 526, "segment_index": 851, "start": 2324.01, "end": 2325.69, "text": "Som heter Real Estate Whispers,"}
+{"episode_id": 526, "segment_index": 852, "start": 2325.73, "end": 2330.33, "text": "hvor vi snakker med disse melledere i Einomseskapet Globalt."}
+{"episode_id": 526, "segment_index": 853, "start": 2330.41, "end": 2332.13, "text": "Og da gjør jeg liksom,"}
+{"episode_id": 526, "segment_index": 854, "start": 2332.21, "end": 2333.77, "text": "jeg utfordrer de på,"}
+{"episode_id": 526, "segment_index": 855, "start": 2333.85, "end": 2337.77, "text": "kommer det til en bymoment eller et ybermoment i Eindom,"}
+{"episode_id": 526, "segment_index": 856, "start": 2337.85, "end": 2341.17, "text": "for kan vi fortsette å ske denne bisneskorten"}
+{"episode_id": 526, "segment_index": 857, "start": 2341.25, "end": 2343.01, "text": "og tro at det er digitalisering."}
+{"episode_id": 526, "segment_index": 858, "start": 2343.09, "end": 2343.85, "text": "Og det er det svære,"}
+{"episode_id": 526, "segment_index": 859, "start": 2343.93, "end": 2346.69, "text": "det som er nivået i veldig stor del av bransjen."}
+{"episode_id": 526, "segment_index": 860, "start": 2346.77, "end": 2348.57, "text": "Så forlytter jeg som tenker,"}
+{"episode_id": 526, "segment_index": 861, "start": 2348.65, "end": 2350.09, "text": "jeg har lyst til å starte nå,"}
+{"episode_id": 526, "segment_index": 862, "start": 2350.17, "end": 2351.89, "text": "jeg har lyst til å gjøre noe svært og sånt,"}
+{"episode_id": 526, "segment_index": 863, "start": 2351.97, "end": 2353.97, "text": "det ligger en svær bransje der,"}
+{"episode_id": 526, "segment_index": 864, "start": 2353.97, "end": 2357.33, "text": "som er superklart for å bli rett og slett."}
+{"episode_id": 526, "segment_index": 865, "start": 2357.41, "end": 2358.77, "text": "Jeg har startet med noe annet."}
+{"episode_id": 526, "segment_index": 866, "start": 2358.85, "end": 2359.97, "text": "Rigg meg hvis dere skal i gang,"}
+{"episode_id": 526, "segment_index": 867, "start": 2360.05, "end": 2362.29, "text": "for da har jeg en a-agent som kan hjelpe dere."}
+{"episode_id": 526, "segment_index": 868, "start": 2362.37, "end": 2364.97, "text": "Men jeg tror noen andre skal ta og gjøre det,"}
+{"episode_id": 526, "segment_index": 869, "start": 2365.05, "end": 2366.97, "text": "selv om det blir veldig populært å gå fullstek."}
+{"episode_id": 526, "segment_index": 870, "start": 2367.78, "end": 2368.3, "text": "Bra."}
+{"episode_id": 526, "segment_index": 871, "start": 2368.38, "end": 2370.42, "text": "Veldig ygglig å prate med deg, Janne."}
+{"episode_id": 526, "segment_index": 872, "start": 2370.5, "end": 2372.78, "text": "Dere også er du, som alltid,"}
+{"episode_id": 526, "segment_index": 873, "start": 2372.86, "end": 2375.74, "text": "med det så setter vi strekk for denne pistonen,"}
+{"episode_id": 526, "segment_index": 874, "start": 2375.82, "end": 2377.94, "text": "så da gjennstår det bare å si,"}
+{"episode_id": 526, "segment_index": 875, "start": 2378.02, "end": 2381.5, "text": "tusen takk, folkens, til alle dere som hørte på."}
+{"episode_id": 526, "segment_index": 876, "start": 2392.95, "end": 2395.75, "text": "Denne sendingen ble publicert i podcasten Utbyta."}
+{"episode_id": 526, "segment_index": 877, "start": 2395.83, "end": 2398.27, "text": "Innollig sendingen er anses om markedsføringsmateriale"}
+{"episode_id": 526, "segment_index": 878, "start": 2398.35, "end": 2401.15, "text": "fra DnB og er ment å være generelt sparvalet."}
+{"episode_id": 526, "segment_index": 879, "start": 2401.23, "end": 2403.31, "text": "Sendingen skal ikke oppfattes som et tilbud om å kjøpe"}
+{"episode_id": 526, "segment_index": 880, "start": 2403.39, "end": 2404.75, "text": "eller sølge finansielle instrumenter,"}
+{"episode_id": 526, "segment_index": 881, "start": 2404.83, "end": 2406.19, "text": "eller som med investeringsrådgivning,"}
+{"episode_id": 526, "segment_index": 882, "start": 2406.27, "end": 2408.27, "text": "tilpasset en enkelt investersituasjon."}
+{"episode_id": 526, "segment_index": 883, "start": 2408.35, "end": 2409.95, "text": "En investers som har hvorfor råder å spørge for"}
+{"episode_id": 526, "segment_index": 884, "start": 2410.03, "end": 2412.75, "text": "om informasjon som gi spør kontakt med finansrådgiver."}
+{"episode_id": 526, "segment_index": 885, "start": 2412.83, "end": 2414.03, "text": "DnB påtager ikke noe ansvar,"}

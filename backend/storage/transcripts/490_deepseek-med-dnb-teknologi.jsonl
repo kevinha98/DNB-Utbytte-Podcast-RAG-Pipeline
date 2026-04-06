@@ -1,0 +1,456 @@
+{"episode_id": 490, "segment_index": 0, "start": 0.85, "end": 5.49, "text": "I denne episoden har jeg med meg forvalterende Erling Thune og Marius Wendersden"}
+{"episode_id": 490, "segment_index": 1, "start": 5.49, "end": 10.85, "text": "fra Teknologifonet til DMB for å gi oss en oppstatering på hva som skjer inn kunstig intelligens."}
+{"episode_id": 490, "segment_index": 2, "start": 10.85, "end": 15.25, "text": "Som jeg tror de fleste har fått med seg har den kinesiske språkmodellen DeepSync"}
+{"episode_id": 490, "segment_index": 3, "start": 15.25, "end": 18.85, "text": "rystet deler av vaksmarket i starten av denne uken."}
+{"episode_id": 490, "segment_index": 4, "start": 18.85, "end": 24.17, "text": "Så er DeepSync virkelig en game changer og hva kan i så fall bli konsekvensne"}
+{"episode_id": 490, "segment_index": 5, "start": 24.17, "end": 26.85, "text": "for de ulike delene av e-industrien?"}
+{"episode_id": 490, "segment_index": 6, "start": 26.85, "end": 29.85, "text": "Dette her skal vi ta for oss i dagens episode."}
+{"episode_id": 490, "segment_index": 7, "start": 37.55, "end": 42.15, "text": "Hei alle sammen, og velkommen til ny runde av utbyttepodden med meg i studio."}
+{"episode_id": 490, "segment_index": 8, "start": 42.15, "end": 46.55, "text": "Jeg er Alsa Erling og Marius. Det er veldig, veldig hyggelig å ha dere, Karry."}
+{"episode_id": 490, "segment_index": 9, "start": 46.55, "end": 48.15, "text": "Det er hyggelig å være her."}
+{"episode_id": 490, "segment_index": 10, "start": 48.15, "end": 53.63, "text": "Ja, bra. Nå A i å store språkmodeller blir tema, så er jo dere blant de mest fornuftige hører på"}
+{"episode_id": 490, "segment_index": 11, "start": 53.63, "end": 56.63, "text": "i min bok hvert fall, så jeg tror det der blir bra."}
+{"episode_id": 490, "segment_index": 12, "start": 56.63, "end": 57.63, "text": "Vi får håpe på det."}
+{"episode_id": 490, "segment_index": 13, "start": 57.63, "end": 61.63, "text": "Det er onsdag 29. januar. Når vi spiller en dette her, bare ta med det."}
+{"episode_id": 490, "segment_index": 14, "start": 62.47, "end": 65.63, "text": "Jeg tenkte sånn, før vi blir forraalvorlig,"}
+{"episode_id": 490, "segment_index": 15, "start": 65.63, "end": 74.63, "text": "bare for å slå fast hvor det er helt åpenbart at kineserne har lykkes alle best og langt bedre av amerikanerne."}
+{"episode_id": 490, "segment_index": 16, "start": 74.63, "end": 77.63, "text": "Vi har gitt språkmodernes indiklar kulteste navne. Har dere det?"}
+{"episode_id": 490, "segment_index": 17, "start": 77.63, "end": 82.63, "text": "Ja, så jeg tror ikke åpenligere vil kalt chat-gypete for chat-gypete i dag."}
+{"episode_id": 490, "segment_index": 18, "start": 82.63, "end": 87.63, "text": "Det var et forskjellig prosjekt, så vi er enige i det."}
+{"episode_id": 490, "segment_index": 19, "start": 87.63, "end": 90.63, "text": "DeepSync, det er liksom mye rassere bare."}
+{"episode_id": 490, "segment_index": 20, "start": 91.63, "end": 99.63, "text": "Men fra spøk til alvor, manda, så romløte i det amerikanske aksjemarkedene når en vide har falt 17%,"}
+{"episode_id": 490, "segment_index": 21, "start": 99.63, "end": 104.63, "text": "flere av de andre store tekselskapene har falt også litt tilbake, men langt denne her alle."}
+{"episode_id": 490, "segment_index": 22, "start": 104.63, "end": 109.63, "text": "I tillegg var det jo et slags salgskred, blant kjernikraft og aksjer,"}
+{"episode_id": 490, "segment_index": 23, "start": 109.63, "end": 117.63, "text": "andre typer byggrelaterte aksjer som har skod seg på den grine investeringsbomen i datacentre."}
+{"episode_id": 490, "segment_index": 24, "start": 117.63, "end": 122.63, "text": "Disse tingene kommer vi sikkert tilbake til etter hvert, men det er liksom tenkt å ta helt først."}
+{"episode_id": 490, "segment_index": 25, "start": 122.63, "end": 126.63, "text": "Det er, altså, er DeepSync, Erling? Er en game changer?"}
+{"episode_id": 490, "segment_index": 26, "start": 126.63, "end": 135.63, "text": "Det så litt sånn ut faktisk til å begynne med, så er det en del ting som er uavklart med hvor stor er egentlig den modelen,"}
+{"episode_id": 490, "segment_index": 27, "start": 135.63, "end": 139.63, "text": "hva er liksom foundation-modellen bak DeepSync."}
+{"episode_id": 490, "segment_index": 28, "start": 139.63, "end": 146.63, "text": "Så noen hevde jo at det har brukt 50.000 såk. hopper-gypure fra en video."}
+{"episode_id": 490, "segment_index": 29, "start": 146.63, "end": 151.63, "text": "Hvis det er tilfelle, så er det ikke egentlig noe game changer."}
+{"episode_id": 490, "segment_index": 30, "start": 151.63, "end": 159.63, "text": "Det folk tror i dag er at du kan trenes i modelen så mye billere enn det som er historisk sett,"}
+{"episode_id": 490, "segment_index": 31, "start": 159.63, "end": 164.63, "text": "og at de investeringene som man har gjort og det som man har tenkt fremover,"}
+{"episode_id": 490, "segment_index": 32, "start": 164.63, "end": 167.63, "text": "at de ikke kommer til å bli realiseret."}
+{"episode_id": 490, "segment_index": 33, "start": 167.63, "end": 171.63, "text": "Så jeg vil si at duren er litt ute fortsatt,"}
+{"episode_id": 490, "segment_index": 34, "start": 171.63, "end": 177.63, "text": "men at DeepSync har fått inn på modell siden som har vært litt eyeopner,"}
+{"episode_id": 490, "segment_index": 35, "start": 177.63, "end": 179.63, "text": "det tror jeg vi er ganske sikre på."}
+{"episode_id": 490, "segment_index": 36, "start": 179.63, "end": 182.63, "text": "Bare for å skyte noe så det er ikke lenge siden."}
+{"episode_id": 490, "segment_index": 37, "start": 182.63, "end": 188.63, "text": "Stargate ble annonsert hvor OpenAI og andre har tenkt å investere 500 milliarder dollar"}
+{"episode_id": 490, "segment_index": 38, "start": 188.63, "end": 193.63, "text": "i å bygge slike datacentret for å bygge disse frontiermodellerne,"}
+{"episode_id": 490, "segment_index": 39, "start": 193.63, "end": 199.63, "text": "og så ukenetter kommer DeepSync ut og sier at de har trenet en model som er konkurransedyktig"}
+{"episode_id": 490, "segment_index": 40, "start": 199.63, "end": 202.63, "text": "med frontiermodellerne for 5 millioner dollar,"}
+{"episode_id": 490, "segment_index": 41, "start": 202.63, "end": 206.63, "text": "og så er det det etall er ekstremt missvisende,"}
+{"episode_id": 490, "segment_index": 42, "start": 206.63, "end": 212.63, "text": "men at de har klart å skabe mange effektivitetsforbedringer i måten de har gjort det på,"}
+{"episode_id": 490, "segment_index": 43, "start": 212.63, "end": 215.63, "text": "det er det ikke noe tvil om, men det er 5 millioner dollar tallet."}
+{"episode_id": 490, "segment_index": 44, "start": 215.63, "end": 219.63, "text": "Det er et oppekstall og ikke et capex-tall og ignorerer også alle investeringene"}
+{"episode_id": 490, "segment_index": 45, "start": 219.63, "end": 222.63, "text": "som har blitt gjort før denne modellgenerasjonen,"}
+{"episode_id": 490, "segment_index": 46, "start": 222.63, "end": 228.63, "text": "og så er det jo det erligg meg inn på også at det er spekulasjoner om DeepSync"}
+{"episode_id": 490, "segment_index": 47, "start": 228.63, "end": 233.63, "text": "og Kina har unngått eksportrestriksjonene til USA,"}
+{"episode_id": 490, "segment_index": 48, "start": 233.63, "end": 240.63, "text": "hvor USA har jo forbudt og eksporten av de mest avanserte enn video-artipene til Kina."}
+{"episode_id": 490, "segment_index": 49, "start": 240.63, "end": 246.63, "text": "I Lån Nøsk, blant annet, tror at det er 50.000 hoppere på et eller andet bakrom i Kina"}
+{"episode_id": 490, "segment_index": 50, "start": 246.63, "end": 253.63, "text": "å bygge en sånn kløster, det har vært i pris rundt 5 milliarder dollar,"}
+{"episode_id": 490, "segment_index": 51, "start": 253.63, "end": 258.63, "text": "og ikke 5 millioner, så at det er litt for mye,"}
+{"episode_id": 490, "segment_index": 52, "start": 258.63, "end": 263.63, "text": "eller litt bold det de sier med 5 millioner dollar, det er det ikke noe tvil om."}
+{"episode_id": 490, "segment_index": 53, "start": 263.63, "end": 270.63, "text": "Men det å effektivisere en sånn stor språkmodell er det en game changer."}
+{"episode_id": 490, "segment_index": 54, "start": 270.63, "end": 275.63, "text": "Jeg vil jo tenke at det er vel egentlig, kanskje ikke det,"}
+{"episode_id": 490, "segment_index": 55, "start": 275.63, "end": 279.63, "text": "men hva er det det står å henge på her, hva er det store spørsmål?"}
+{"episode_id": 490, "segment_index": 56, "start": 279.63, "end": 284.63, "text": "Det har vært tilfellet av det man tror, altså 5 millioner for å træne sånn model."}
+{"episode_id": 490, "segment_index": 57, "start": 284.63, "end": 292.63, "text": "Vi tror ikke nå på det, men man snakket jo i fjord høst om at scalinger og sikker fungering,"}
+{"episode_id": 490, "segment_index": 58, "start": 292.63, "end": 297.63, "text": "at man putter 10 ganger mer computer inn for å træne sånn modelen,"}
+{"episode_id": 490, "segment_index": 59, "start": 297.63, "end": 300.63, "text": "også blir ikke modelene veldig mye smartere."}
+{"episode_id": 490, "segment_index": 60, "start": 300.63, "end": 307.63, "text": "Så det var en stor, som vi så i fjord høst, så begynte folk å tvile på"}
+{"episode_id": 490, "segment_index": 61, "start": 307.63, "end": 311.63, "text": "og faktisk få noe returns på disse gigante investeringene."}
+{"episode_id": 490, "segment_index": 62, "start": 311.63, "end": 315.63, "text": "Så hvis dette her er tilfellet, det som kineserne har vist,"}
+{"episode_id": 490, "segment_index": 63, "start": 315.63, "end": 319.63, "text": "at du kan forbedre modelene så er du helt fantastisk for hele A-storet,"}
+{"episode_id": 490, "segment_index": 64, "start": 319.63, "end": 323.63, "text": "at du får så mye mer intelligens for penger,"}
+{"episode_id": 490, "segment_index": 65, "start": 323.63, "end": 328.63, "text": "så hvis man ser stort på det så er dette helt fantastisk"}
+{"episode_id": 490, "segment_index": 66, "start": 328.63, "end": 332.63, "text": "og du tar hølen for å bruke modeler, for det er ganske dyrt,"}
+{"episode_id": 490, "segment_index": 67, "start": 332.63, "end": 335.63, "text": "de smarteste modelene er dyr å bruke."}
+{"episode_id": 490, "segment_index": 68, "start": 335.63, "end": 340.63, "text": "Og vi har ikke sett folk tar i bruk A-e inn og særlig stort grader,"}
+{"episode_id": 490, "segment_index": 69, "start": 340.63, "end": 346.63, "text": "så jeg vil si at i det store bilde så underbygger dette her"}
+{"episode_id": 490, "segment_index": 70, "start": 346.63, "end": 349.63, "text": "den buljersnessen rundt A-e."}
+{"episode_id": 490, "segment_index": 71, "start": 349.63, "end": 356.63, "text": "Ja, for det vi var min første tanke, det var at entisynelaten er mer effektiv språkmodell,"}
+{"episode_id": 490, "segment_index": 72, "start": 356.63, "end": 360.63, "text": "selv om det sånn negativt ut for noen aktører,"}
+{"episode_id": 490, "segment_index": 73, "start": 360.63, "end": 364.63, "text": "er egentlig bare positivt for å dra hele A-storet videre."}
+{"episode_id": 490, "segment_index": 74, "start": 364.63, "end": 370.63, "text": "Absolutt, så vi vet jo at det er usekkerhet på traning, effektiviteten de dipsikker,"}
+{"episode_id": 490, "segment_index": 75, "start": 370.63, "end": 373.63, "text": "så vet vi at den er mye mer effektiv i bruken,"}
+{"episode_id": 490, "segment_index": 76, "start": 373.63, "end": 378.63, "text": "så den er 20-40 ganger billigere enn sammeninbar modeller fra OpenAI."}
+{"episode_id": 490, "segment_index": 77, "start": 378.63, "end": 382.63, "text": "Det gjør jo at marginalen i den versus marginalkostnaden"}
+{"episode_id": 490, "segment_index": 78, "start": 382.63, "end": 385.63, "text": "å bruke disse modelene, det endrer seg totalt,"}
+{"episode_id": 490, "segment_index": 79, "start": 385.63, "end": 391.63, "text": "og det blir vi vet at kostnaden av den teknologien har vært et hinder for bruken,"}
+{"episode_id": 490, "segment_index": 80, "start": 391.63, "end": 395.63, "text": "og når du klarer å løse opp i det, hvertfall så mye som de har klart,"}
+{"episode_id": 490, "segment_index": 81, "start": 395.63, "end": 399.63, "text": "så er det utrokket positivt for alle som har egentlig brukt teknologien."}
+{"episode_id": 490, "segment_index": 82, "start": 399.63, "end": 406.63, "text": "Du kan jo dra opp Jevins paradox, du tror alle kjenner låter Jevins paradox,"}
+{"episode_id": 490, "segment_index": 83, "start": 406.63, "end": 409.63, "text": "men Marius dro opp det før jeg aldri hørte om det."}
+{"episode_id": 490, "segment_index": 84, "start": 409.63, "end": 414.63, "text": "Jevins paradox er at det man kan tenke er at når noe blir mye mer effektivt,"}
+{"episode_id": 490, "segment_index": 85, "start": 414.63, "end": 419.63, "text": "det dipsikker klart å gjøre er å gjøre den infrensingen mye mer effektivt."}
+{"episode_id": 490, "segment_index": 86, "start": 419.63, "end": 422.63, "text": "De har noen teknologiske innovasjoner som de har kommet med,"}
+{"episode_id": 490, "segment_index": 87, "start": 422.63, "end": 425.63, "text": "og da kan man tenke at behovet for computer går ned,"}
+{"episode_id": 490, "segment_index": 88, "start": 425.63, "end": 433.63, "text": "men historisk har vi sett det motsatt at selv om vi nå får mer AI per computer,"}
+{"episode_id": 490, "segment_index": 89, "start": 433.63, "end": 440.63, "text": "så selv om vi nå får mer AI per processeringskraft dollar,"}
+{"episode_id": 490, "segment_index": 90, "start": 440.63, "end": 444.63, "text": "så betyr det ikke at vi kan bruke mindre penger på processeringskraft."}
+{"episode_id": 490, "segment_index": 91, "start": 444.63, "end": 446.63, "text": "Det vi har sett historisk, for eksemp, Jevins paradox,"}
+{"episode_id": 490, "segment_index": 92, "start": 446.63, "end": 452.63, "text": "kommer fra kuldrevne dampmaskiner, da disse ble mye mer effektivt i bruk,"}
+{"episode_id": 490, "segment_index": 93, "start": 452.63, "end": 456.63, "text": "så bare fortsatte forbruket kul å øke, for det ble bare flere og flere steder"}
+{"episode_id": 490, "segment_index": 94, "start": 456.63, "end": 461.63, "text": "vi hadde lyst til å bruke dette, og det er vi har sett det samme med drivstoff og biler,"}
+{"episode_id": 490, "segment_index": 95, "start": 461.63, "end": 463.63, "text": "vi har sett med vann og vannirrigasjon."}
+{"episode_id": 490, "segment_index": 96, "start": 463.63, "end": 465.63, "text": "Vi ser det også med mennesker og teknologi."}
+{"episode_id": 490, "segment_index": 97, "start": 465.63, "end": 470.63, "text": "En grunn til at man ikke trenger å være så redd for at AI tar jobbenet våre,"}
+{"episode_id": 490, "segment_index": 98, "start": 470.63, "end": 473.63, "text": "er at AI gjør faktisk mennesker mer produktive."}
+{"episode_id": 490, "segment_index": 99, "start": 473.63, "end": 477.63, "text": "Når mennesker blir mer produktive, så er det mer attraktivt å ansette mennesker."}
+{"episode_id": 490, "segment_index": 100, "start": 477.63, "end": 482.63, "text": "Når disse modelene blir mer effektive, så blir det mer attraktivt å bruke dem."}
+{"episode_id": 490, "segment_index": 101, "start": 482.63, "end": 486.63, "text": "Så det Jevins paradox sier er at når effektivitet går opp,"}
+{"episode_id": 490, "segment_index": 102, "start": 486.63, "end": 489.63, "text": "så går det nett og etterspørsjel også opp."}
+{"episode_id": 490, "segment_index": 103, "start": 489.63, "end": 491.73, "text": "Intressant."}
+{"episode_id": 490, "segment_index": 104, "start": 491.73, "end": 500.73, "text": "Gålt skritt tilbake bare. DeepSync er en versjon ble langsert 20. januar."}
+{"episode_id": 490, "segment_index": 105, "start": 500.73, "end": 504.73, "text": "Samme dag som Trump inntok det hvite hus."}
+{"episode_id": 490, "segment_index": 106, "start": 504.73, "end": 508.73, "text": "Hvorfor tok de en uke før Aksumarket?"}
+{"episode_id": 490, "segment_index": 107, "start": 508.73, "end": 512.73, "text": "Det er et godt spørsmål."}
+{"episode_id": 490, "segment_index": 108, "start": 512.73, "end": 517.73, "text": "Vi satte og lekte med denne DeepSync modelene en par uker i forkantet etter."}
+{"episode_id": 490, "segment_index": 109, "start": 517.73, "end": 521.73, "text": "Det var blåna wave av modelen."}
+{"episode_id": 490, "segment_index": 110, "start": 521.73, "end": 526.73, "text": "Denne kallet foundation modelen, v3, ble langsert til december."}
+{"episode_id": 490, "segment_index": 111, "start": 526.73, "end": 530.73, "text": "De har en vetoversjon som kom i januar i 2024."}
+{"episode_id": 490, "segment_index": 112, "start": 530.73, "end": 533.73, "text": "Dette har vært ute."}
+{"episode_id": 490, "segment_index": 113, "start": 533.73, "end": 535.73, "text": "Hvorfor det plutselig eksploderte?"}
+{"episode_id": 490, "segment_index": 114, "start": 535.73, "end": 538.73, "text": "Det tror jeg sammenheng med."}
+{"episode_id": 490, "segment_index": 115, "start": 538.73, "end": 543.73, "text": "Det fikk Sien Bezir kjørte en 40 minutsjerepportage rundt Mark Andreessen."}
+{"episode_id": 490, "segment_index": 116, "start": 543.73, "end": 547.73, "text": "Det var en tvitet at dette var det sputtningmoment."}
+{"episode_id": 490, "segment_index": 117, "start": 547.73, "end": 552.73, "text": "Når Kineserne overtatt Ae i rese, så bygde det seg opp."}
+{"episode_id": 490, "segment_index": 118, "start": 552.73, "end": 557.73, "text": "En panikk som vi ikke så kom med at det skulle bli så panis."}
+{"episode_id": 490, "segment_index": 119, "start": 557.73, "end": 562.73, "text": "Nå fikk man en rekyl i går på en del av disseaksjene."}
+{"episode_id": 490, "segment_index": 120, "start": 562.73, "end": 565.73, "text": "For kraftig fall for en video."}
+{"episode_id": 490, "segment_index": 121, "start": 565.73, "end": 569.73, "text": "Nåne i disseaksjene er nømte på mandag, kom litt tilbake igår."}
+{"episode_id": 490, "segment_index": 122, "start": 569.73, "end": 573.73, "text": "Det bølger litt tilbake som det ofte gjør i inledende faser."}
+{"episode_id": 490, "segment_index": 123, "start": 573.73, "end": 576.73, "text": "Lad oss bare ta det med en gang."}
+{"episode_id": 490, "segment_index": 124, "start": 576.73, "end": 578.73, "text": "Teknologifone deres."}
+{"episode_id": 490, "segment_index": 125, "start": 578.73, "end": 581.73, "text": "Det har vært undervektet en vidde av halv greia."}
+{"episode_id": 490, "segment_index": 126, "start": 581.73, "end": 585.73, "text": "Det er jo ikke noe vi er sånn spesielt stolte over det."}
+{"episode_id": 490, "segment_index": 127, "start": 585.73, "end": 589.73, "text": "Men vi har handlet den ganske ok opp igjenom."}
+{"episode_id": 490, "segment_index": 128, "start": 589.73, "end": 596.73, "text": "På mandag var dere kanskje ikke like stresset som andre forvalter."}
+{"episode_id": 490, "segment_index": 129, "start": 596.73, "end": 600.73, "text": "Da var vi litt fornøyd."}
+{"episode_id": 490, "segment_index": 130, "start": 600.73, "end": 605.73, "text": "Vi kjøpte jo litt en videoaksjel i den 17 prosenten etur."}
+{"episode_id": 490, "segment_index": 131, "start": 605.73, "end": 611.73, "text": "Vi følte også at vi lå ganske godt posisjonert med portefølen."}
+{"episode_id": 490, "segment_index": 132, "start": 611.73, "end": 615.73, "text": "Det som skjedde var at alle selskaper som driver med training,"}
+{"episode_id": 490, "segment_index": 133, "start": 615.73, "end": 617.73, "text": "de falt mye."}
+{"episode_id": 490, "segment_index": 134, "start": 617.73, "end": 622.73, "text": "Men vi var posisjonert i den delen av Ae som driver med influence."}
+{"episode_id": 490, "segment_index": 135, "start": 622.73, "end": 625.73, "text": "Vi har to forskjellige deler av Ae-historer."}
+{"episode_id": 490, "segment_index": 136, "start": 625.73, "end": 631.73, "text": "Det er lagintligensen, training, og det er brukintligensen, influence."}
+{"episode_id": 490, "segment_index": 137, "start": 631.73, "end": 636.73, "text": "Vi er investert i de så kalt hyper scalers."}
+{"episode_id": 490, "segment_index": 138, "start": 636.73, "end": 642.73, "text": "MarkerSoft og Amazon, de som står for mye influence."}
+{"episode_id": 490, "segment_index": 139, "start": 642.73, "end": 646.73, "text": "De aktiene fungererer ganske bra i den eturen."}
+{"episode_id": 490, "segment_index": 140, "start": 646.73, "end": 651.73, "text": "På relativet hadde vi en fantastisk dag på mandag."}
+{"episode_id": 490, "segment_index": 141, "start": 651.73, "end": 664.73, "text": "Det er et uttrykk for at Ae-effektiviseringen er positiv for selskap som meta."}
+{"episode_id": 490, "segment_index": 142, "start": 664.73, "end": 670.73, "text": "Mange tolker dette her, at meta har valgt den rette veien med sin lavemodell."}
+{"episode_id": 490, "segment_index": 143, "start": 670.73, "end": 675.73, "text": "Den open source man kan diskutere hvor open den er."}
+{"episode_id": 490, "segment_index": 144, "start": 676.73, "end": 681.73, "text": "Den approachen er den vinnene veien å gå."}
+{"episode_id": 490, "segment_index": 145, "start": 681.73, "end": 688.73, "text": "Det er en av grunnene, men de guideer opp capexen deres."}
+{"episode_id": 490, "segment_index": 146, "start": 688.73, "end": 694.73, "text": "Det er mellom 60-60 miljarder dollar for innhverdagen."}
+{"episode_id": 490, "segment_index": 147, "start": 694.73, "end": 700.73, "text": "MarkerSoft spiser en så økning i kapitalintensiteten for selskapet."}
+{"episode_id": 490, "segment_index": 148, "start": 700.73, "end": 706.73, "text": "Det sier om bullish rundt meta, hva de tror på."}
+{"episode_id": 490, "segment_index": 149, "start": 706.73, "end": 709.73, "text": "Søkerbør kan få til med disse modeller."}
+{"episode_id": 490, "segment_index": 150, "start": 709.73, "end": 716.73, "text": "Når vi sitter her, onsdag, så er det ikke så veldig lenge til."}
+{"episode_id": 490, "segment_index": 151, "start": 716.73, "end": 722.73, "text": "Metta, Microsoft og Tesla skal i elne etter at børsen stenger i USA i kveld."}
+{"episode_id": 490, "segment_index": 152, "start": 722.73, "end": 728.73, "text": "Der kommer det vel også noen nye datapunkter som dere og alle andre kommer til å sluke med interesse."}
+{"episode_id": 490, "segment_index": 153, "start": 728.73, "end": 733.73, "text": "Vi har hatt en podcast i morgen, for i kveld er det en stor kveld for oss."}
+{"episode_id": 490, "segment_index": 154, "start": 733.73, "end": 740.73, "text": "Vi følger med oss, spesielt på Worlingen. Hva ønsker du signalisere rundt capex?"}
+{"episode_id": 490, "segment_index": 155, "start": 740.73, "end": 749.73, "text": "Microsoft har sagt 80 miljarder, Metta har sagt 60-65, Tesla, Tesla, i hvert fall."}
+{"episode_id": 490, "segment_index": 156, "start": 749.73, "end": 755.73, "text": "Vi tror vel at hvis vi skal legge hovedet litt på blokken for hva vi forventer de kommer til å kommunisere."}
+{"episode_id": 490, "segment_index": 157, "start": 755.73, "end": 758.73, "text": "Vi tror at de kommer til å si bonngas."}
+{"episode_id": 490, "segment_index": 158, "start": 758.73, "end": 762.73, "text": "Vi tror ikke de kommer til å si at nå er det paradigme-skifte her på AI,"}
+{"episode_id": 490, "segment_index": 159, "start": 762.73, "end": 769.73, "text": "nå ser vi at vi kan gjøre disse modellerne bedre med mindre capex."}
+{"episode_id": 490, "segment_index": 160, "start": 769.73, "end": 772.73, "text": "Vi tror de kommer til å signalisere bonngas."}
+{"episode_id": 490, "segment_index": 161, "start": 772.73, "end": 779.73, "text": "Jeg mener, så går en artikel om at Microsoft pauset i hvert fall mindre tid,"}
+{"episode_id": 490, "segment_index": 162, "start": 779.73, "end": 787.73, "text": "bygging av et datacenter for i ovkant av 3 miljarder dollar knyttet i OpenAI i Mount Pleasant."}
+{"episode_id": 490, "segment_index": 163, "start": 787.73, "end": 791.73, "text": "Det er kanskje en liten brøk del oppi det hele."}
+{"episode_id": 490, "segment_index": 164, "start": 791.73, "end": 796.73, "text": "Det som er åpenbart, og det som alle vet, er at Microsoft å åpenere det samarbeidet,"}
+{"episode_id": 490, "segment_index": 165, "start": 796.73, "end": 798.73, "text": "det har egentlig gått surt."}
+{"episode_id": 490, "segment_index": 166, "start": 798.73, "end": 803.73, "text": "Vi ser ut med tanke på de ambasjonene til OpenAI, og må lage superintligens."}
+{"episode_id": 490, "segment_index": 167, "start": 803.73, "end": 806.73, "text": "Det er helt crazy prosjektet Stargate som Marius nevnte."}
+{"episode_id": 490, "segment_index": 168, "start": 806.73, "end": 809.73, "text": "500 miljarder dollar for å skabe superintligens."}
+{"episode_id": 490, "segment_index": 169, "start": 809.73, "end": 814.73, "text": "Et høyriske prosjekt som er på treende en ny model."}
+{"episode_id": 490, "segment_index": 170, "start": 814.73, "end": 820.73, "text": "Dette ønsker ikke Microsoft å ta risken på basiclet."}
+{"episode_id": 490, "segment_index": 171, "start": 820.73, "end": 825.73, "text": "Det ligger mye i samarbeid med Microsoft OpenAI, som gjør at det går surt."}
+{"episode_id": 490, "segment_index": 172, "start": 825.73, "end": 833.73, "text": "Men Microsoft har egentlig tatt beslutningen og blitt et innskjøsselskap,"}
+{"episode_id": 490, "segment_index": 173, "start": 833.73, "end": 838.73, "text": "da ikke være med å trene nye modeller."}
+{"episode_id": 490, "segment_index": 174, "start": 838.73, "end": 842.73, "text": "Det tror vi er en ganske klok retning å ta."}
+{"episode_id": 490, "segment_index": 175, "start": 842.73, "end": 847.73, "text": "Microsoft har kommet til å dra nytte av forbedringene i OpenAI-modellerne,"}
+{"episode_id": 490, "segment_index": 176, "start": 847.73, "end": 849.73, "text": "som eventuelt kommer av Stargate."}
+{"episode_id": 490, "segment_index": 177, "start": 849.73, "end": 851.73, "text": "Nå bare slipper de selv å putte opp kapitalen."}
+{"episode_id": 490, "segment_index": 178, "start": 851.73, "end": 858.73, "text": "Så vi er egentlig positiv til Microsoft og satt beslutningen rundt hvordan og hvor de investerer."}
+{"episode_id": 490, "segment_index": 179, "start": 858.73, "end": 864.73, "text": "Du er litt tilbake til DeepSync, der jeg har testet den."}
+{"episode_id": 490, "segment_index": 180, "start": 864.73, "end": 867.34, "text": "Hva synes dere?"}
+{"episode_id": 490, "segment_index": 181, "start": 867.34, "end": 871.34, "text": "For den viser hele Chano Thought."}
+{"episode_id": 490, "segment_index": 182, "start": 871.34, "end": 875.34, "text": "Du ser hvordan den jobber, hvordan den tenker."}
+{"episode_id": 490, "segment_index": 183, "start": 875.34, "end": 880.34, "text": "Det er ganske morsomt å se, for den er jo en byner."}
+{"episode_id": 490, "segment_index": 184, "start": 880.34, "end": 882.34, "text": "Den ser veldig dummet til å begynne med."}
+{"episode_id": 490, "segment_index": 185, "start": 882.34, "end": 884.34, "text": "Det styrer seg selv mange spørsmål."}
+{"episode_id": 490, "segment_index": 186, "start": 884.34, "end": 889.34, "text": "Kommer den etter mye tenking til et riktig resultat?"}
+{"episode_id": 490, "segment_index": 187, "start": 889.34, "end": 894.34, "text": "Det er den første refleksjonen, at du kan se hele måten den tenker på."}
+{"episode_id": 490, "segment_index": 188, "start": 894.34, "end": 903.34, "text": "Den er smart, men det er ikke like bra som OpenAI i sin reasoningmodell, den O1."}
+{"episode_id": 490, "segment_index": 189, "start": 903.34, "end": 907.34, "text": "Og hvertfall ikke like bra som O3, som er kjempedyra å bruke."}
+{"episode_id": 490, "segment_index": 190, "start": 907.34, "end": 914.34, "text": "Det er utrolig fascinerende å se hvordan den tenker, men den er ikke bedre enn de andre modelene her ute."}
+{"episode_id": 490, "segment_index": 191, "start": 914.34, "end": 922.34, "text": "Nå som ikke har fått noe fokus, Google har en nyligransert enn en tilsevårende reasoningmodell."}
+{"episode_id": 490, "segment_index": 192, "start": 922.34, "end": 925.34, "text": "Det er helt amazing."}
+{"episode_id": 490, "segment_index": 193, "start": 925.34, "end": 934.34, "text": "Google får litt lite oppmerksomhet for å se hva de driver med om dagen på AI-siden."}
+{"episode_id": 490, "segment_index": 194, "start": 934.34, "end": 938.34, "text": "Og så for å bygge på det, som Erling sier, er DeepSync."}
+{"episode_id": 490, "segment_index": 195, "start": 938.34, "end": 943.34, "text": "Du merker at den er litt dummere enn det O1-n der."}
+{"episode_id": 490, "segment_index": 196, "start": 943.34, "end": 946.34, "text": "Og du var også inne på at meta gjør det her."}
+{"episode_id": 490, "segment_index": 197, "start": 946.34, "end": 950.34, "text": "Open Source, og et spørsmål blir å kaj, DeepSync og Open Source."}
+{"episode_id": 490, "segment_index": 198, "start": 950.34, "end": 952.34, "text": "Hvilke implikasjoner har det?"}
+{"episode_id": 490, "segment_index": 199, "start": 952.34, "end": 960.34, "text": "Og litt for å svare på begge spørsmålene, så er det flere innovasjoner som DeepSync har gjort teknisk."}
+{"episode_id": 490, "segment_index": 200, "start": 960.34, "end": 969.34, "text": "Det generativt avgjør er basert på matrisen, multiplikasjon og vektor som symboliserer ting i den virkelige verden."}
+{"episode_id": 490, "segment_index": 201, "start": 969.34, "end": 976.34, "text": "En av tingene DeepSync har gjort er at de drattende præcisjonen i disse vektoren og disse talene,"}
+{"episode_id": 490, "segment_index": 202, "start": 976.34, "end": 981.34, "text": "så de bruker 8-bits i stand for 16, det gjør den mer effektivt."}
+{"episode_id": 490, "segment_index": 203, "start": 981.34, "end": 985.34, "text": "Det blir billere, du trenger mindre memory, influencing, overtraining blir billere,"}
+{"episode_id": 490, "segment_index": 204, "start": 985.34, "end": 989.34, "text": "men gjør det litt dummere, for du har litt mindre enn jense."}
+{"episode_id": 490, "segment_index": 205, "start": 989.34, "end": 994.34, "text": "En annen ting den gjør er at du har multi-token prediction, så det Open AI bruker,"}
+{"episode_id": 490, "segment_index": 206, "start": 994.34, "end": 1000.34, "text": "en next-word prediction, så det modellen getter på er bare én token av gangen."}
+{"episode_id": 490, "segment_index": 207, "start": 1000.34, "end": 1005.34, "text": "Det DeepSync gjør er at det er mange ångangen, det gjør også at den blir mer unniaktig,"}
+{"episode_id": 490, "segment_index": 208, "start": 1005.34, "end": 1007.34, "text": "men igjen mye mer effektivt."}
+{"episode_id": 490, "segment_index": 209, "start": 1007.34, "end": 1017.34, "text": "Det siste er det som startet hele generativ AI-bølgen og bygging av modeller på transformer-modeller,"}
+{"episode_id": 490, "segment_index": 210, "start": 1017.34, "end": 1022.34, "text": "hvor Paper, Google kom i 2017 som er Attention Is All You Need."}
+{"episode_id": 490, "segment_index": 211, "start": 1022.34, "end": 1028.34, "text": "Det handler om at når Church of Prieta på denne store månen skjønner konteksten i settingen,"}
+{"episode_id": 490, "segment_index": 212, "start": 1028.34, "end": 1033.34, "text": "konteksten i alt som har skjedd alt jeg har Church of Prieta snakket om før osv."}
+{"episode_id": 490, "segment_index": 213, "start": 1033.34, "end": 1041.34, "text": "Det DeepSync har kommet opp med er noe som heter MLA som handler om at attentionen også blir mer effektiv."}
+{"episode_id": 490, "segment_index": 214, "start": 1041.34, "end": 1046.34, "text": "Du fokuserer ikke på alt som Church of Prieta gjør, ikke alt vi har snakket om,"}
+{"episode_id": 490, "segment_index": 215, "start": 1046.34, "end": 1049.34, "text": "ikke hele settingen, ikke hele paragrafen, men bare de viktige tingene."}
+{"episode_id": 490, "segment_index": 216, "start": 1049.34, "end": 1053.34, "text": "Så det er tre hovedpunkter hvor DeepSync, alle tre gjør den,"}
+{"episode_id": 490, "segment_index": 217, "start": 1053.34, "end": 1057.34, "text": "litt dummere, litt mindre enn den ser, men mye, mye mer effektivt."}
+{"episode_id": 490, "segment_index": 218, "start": 1057.34, "end": 1061.34, "text": "Hvis jeg skal oversette det der, det var veldig præcist,"}
+{"episode_id": 490, "segment_index": 219, "start": 1061.34, "end": 1067.34, "text": "men jeg kan jo si sånn at vi har Einar Johansen, der kanskje det smarteste fyr jeg kjenner,"}
+{"episode_id": 490, "segment_index": 220, "start": 1067.34, "end": 1073.34, "text": "han jobber i Norge-teamet. Hvis jeg skal prøve å få samme opptryk som Einar,"}
+{"episode_id": 490, "segment_index": 221, "start": 1073.34, "end": 1079.34, "text": "så må jeg bruke Helya, så den er litt dummere,"}
+{"episode_id": 490, "segment_index": 222, "start": 1079.34, "end": 1084.34, "text": "men den bruker lenger tid på å tenke for å kompaksere at den er litt dummere."}
+{"episode_id": 490, "segment_index": 223, "start": 1085.34, "end": 1090.34, "text": "Men dette her med at det er open source eller open kildekole,"}
+{"episode_id": 490, "segment_index": 224, "start": 1090.34, "end": 1099.34, "text": "gjør det at model til DeepSync lettere kan videreutvittles,"}
+{"episode_id": 490, "segment_index": 225, "start": 1099.34, "end": 1106.34, "text": "tilpasses til ulike spesial prosjekter, implementerer flere kommersielle løsninger, den type ting."}
+{"episode_id": 490, "segment_index": 226, "start": 1106.34, "end": 1110.34, "text": "Altså det er flere av disse tingene som DeepSync nå har publisert,"}
+{"episode_id": 490, "segment_index": 227, "start": 1110.34, "end": 1114.34, "text": "de teknologiske innovationer som jeg var inne på,"}
+{"episode_id": 490, "segment_index": 228, "start": 1114.34, "end": 1118.34, "text": "som Opener jeg også har funnet ut, men som de ikke har publisert til noen,"}
+{"episode_id": 490, "segment_index": 229, "start": 1118.34, "end": 1126.34, "text": "så det her er mer åpent, gjør jo at nå kan neste uke så kan meta og anthropik,"}
+{"episode_id": 490, "segment_index": 230, "start": 1126.34, "end": 1130.34, "text": "og alle sammen kan sette i gang å bruke disse teknikene."}
+{"episode_id": 490, "segment_index": 231, "start": 1130.34, "end": 1137.34, "text": "Så det øker såklart prolifereringen av den teknologien."}
+{"episode_id": 490, "segment_index": 232, "start": 1137.34, "end": 1141.34, "text": "Det er mange som har tatt i bruk DeepSync over alle forskningsmiljøer,"}
+{"episode_id": 490, "segment_index": 233, "start": 1141.34, "end": 1144.34, "text": "altså den her er så billig, så den er tatt i bruk,"}
+{"episode_id": 490, "segment_index": 234, "start": 1144.34, "end": 1148.34, "text": "men det er ikke så lett å, det er ikke nødvendig skikkelig å katte ut av sekken her,"}
+{"episode_id": 490, "segment_index": 235, "start": 1148.34, "end": 1152.34, "text": "sånn at det er ølige for alle andre modeller,"}
+{"episode_id": 490, "segment_index": 236, "start": 1152.34, "end": 1157.34, "text": "og det er ikke så lett å trene på DeepSync igjen å bruke denne for å ha på nye modeller,"}
+{"episode_id": 490, "segment_index": 237, "start": 1157.34, "end": 1160.34, "text": "for den er jo som sagt litt dumm da,"}
+{"episode_id": 490, "segment_index": 238, "start": 1160.34, "end": 1164.34, "text": "og det er klart det er et større tema her på DeepSync,"}
+{"episode_id": 490, "segment_index": 239, "start": 1164.34, "end": 1168.34, "text": "den er jo veldig kinesisk med altputten,"}
+{"episode_id": 490, "segment_index": 240, "start": 1168.34, "end": 1174.34, "text": "hvis jeg spør om Ole Brom og Tiz og Forluk,"}
+{"episode_id": 490, "segment_index": 241, "start": 1174.34, "end": 1177.34, "text": "nå svarer det her, så den er jo litt som propagandamaskin."}
+{"episode_id": 490, "segment_index": 242, "start": 1177.34, "end": 1183.34, "text": "Man tenker at TikTok er forbutt i USA,"}
+{"episode_id": 490, "segment_index": 243, "start": 1183.34, "end": 1189.34, "text": "hva med denne modellerne, som spyr ut litt sånn kina-propaganda,"}
+{"episode_id": 490, "segment_index": 244, "start": 1189.34, "end": 1193.34, "text": "så det er mange sånn elementer her også, sånn litt sånn stort."}
+{"episode_id": 490, "segment_index": 245, "start": 1193.34, "end": 1197.34, "text": "Men fordi som hevder at DeepSync på en måte marker i startskudde"}
+{"episode_id": 490, "segment_index": 246, "start": 1197.34, "end": 1202.34, "text": "for demokratisering av AI, så er det et poeng, da."}
+{"episode_id": 490, "segment_index": 247, "start": 1202.34, "end": 1206.59, "text": "Ja, så det går tilbake til at når du blir billere,"}
+{"episode_id": 490, "segment_index": 248, "start": 1206.59, "end": 1209.59, "text": "så er det flere givisk cases der en nytte å gjøre."}
+{"episode_id": 490, "segment_index": 249, "start": 1209.59, "end": 1211.59, "text": "Hvis man tar det veldig enkle eksempel,"}
+{"episode_id": 490, "segment_index": 250, "start": 1211.59, "end": 1214.59, "text": "du har en veldig bra, men ekstremt dyrmodell,"}
+{"episode_id": 490, "segment_index": 251, "start": 1214.59, "end": 1217.59, "text": "så bruker vi den kanskje bare til å løse kreftgåten,"}
+{"episode_id": 490, "segment_index": 252, "start": 1217.59, "end": 1220.59, "text": "men hvis den er mye billere så kan den også optimalisere kalenderen min."}
+{"episode_id": 490, "segment_index": 253, "start": 1220.59, "end": 1224.59, "text": "Du åpner, demokratisering er et ganske godt ord,"}
+{"episode_id": 490, "segment_index": 254, "start": 1224.59, "end": 1226.59, "text": "og så blir spørsmålet enn et ganske interessant spørsmålet."}
+{"episode_id": 490, "segment_index": 255, "start": 1226.59, "end": 1230.59, "text": "Hvor lenge det her varer om det også kommer til å være tilfellet når OpenAI"}
+{"episode_id": 490, "segment_index": 256, "start": 1230.59, "end": 1234.59, "text": "kommer med sine nye modeller, fordi det som OpenAI er ute og sier,"}
+{"episode_id": 490, "segment_index": 257, "start": 1234.59, "end": 1238.59, "text": "og som har mye spekulasjon i, er at DeepSync har brukt,"}
+{"episode_id": 490, "segment_index": 258, "start": 1238.59, "end": 1241.59, "text": "mest ansynlig, OpenAI til å trene sin egen model."}
+{"episode_id": 490, "segment_index": 259, "start": 1241.59, "end": 1245.59, "text": "Den har destillert fra OpenAI, så du stiller DeepSync,"}
+{"episode_id": 490, "segment_index": 260, "start": 1245.59, "end": 1248.59, "text": "stiller OpenAI et spørsmål, lær meg å svare på dette spørsmålet"}
+{"episode_id": 490, "segment_index": 261, "start": 1248.59, "end": 1253.59, "text": "og så trener du DeepSync på hvordan OpenAI løser spørsmål."}
+{"episode_id": 490, "segment_index": 262, "start": 1253.59, "end": 1258.59, "text": "Det går imot retningslinjerne til OpenAI, og da jeg prøvde å gjøre det samme i stedet,"}
+{"episode_id": 490, "segment_index": 263, "start": 1258.59, "end": 1261.59, "text": "så ser man at de allerede har endret på dette,"}
+{"episode_id": 490, "segment_index": 264, "start": 1261.59, "end": 1264.59, "text": "så det her kommer ikke til å fungere med de senere modellerne til OpenAI."}
+{"episode_id": 490, "segment_index": 265, "start": 1264.59, "end": 1269.59, "text": "De kommer til å stoppe at OpenAI viser deg denne chain of thought"}
+{"episode_id": 490, "segment_index": 266, "start": 1269.59, "end": 1272.59, "text": "og hvordan den tenker. Det kommer ikke til å fungere senere."}
+{"episode_id": 490, "segment_index": 267, "start": 1272.59, "end": 1277.59, "text": "Så hvor lenge Frontier-modeller kommer til å være demokratiseret,"}
+{"episode_id": 490, "segment_index": 268, "start": 1277.59, "end": 1280.59, "text": "avhenger av dette punktet også."}
+{"episode_id": 490, "segment_index": 269, "start": 1280.59, "end": 1286.59, "text": "Det er ikke noe å lure på. I tillegg til at de antagelser har brukt mye mer hopper,"}
+{"episode_id": 490, "segment_index": 270, "start": 1286.59, "end": 1292.59, "text": "GPHur, end det de ønsker å si, at de i tillegg stopper skuldrene av giganter her"}
+{"episode_id": 490, "segment_index": 271, "start": 1292.59, "end": 1301.59, "text": "som meta sin lama og åpner AI sin GPT-modeller."}
+{"episode_id": 490, "segment_index": 272, "start": 1301.59, "end": 1306.59, "text": "Så det er ikke så mellig som blir seg av deres terms."}
+{"episode_id": 490, "segment_index": 273, "start": 1306.59, "end": 1311.59, "text": "Vi tror det kommer til å dukke opp en del kattesadip-sikne,"}
+{"episode_id": 490, "segment_index": 274, "start": 1311.59, "end": 1315.59, "text": "men jeg tror det er en døren som snart de nye Frontier-modellerne blir smartere,"}
+{"episode_id": 490, "segment_index": 275, "start": 1315.59, "end": 1322.59, "text": "så kommer det til å lukkes den måten å bruke disse moderne til å trene nye moderne."}
+{"episode_id": 490, "segment_index": 276, "start": 1322.59, "end": 1327.59, "text": "Det som er litt spennende som det kineserne har gjort, det er en måten."}
+{"episode_id": 490, "segment_index": 277, "start": 1327.59, "end": 1333.59, "text": "De har på en måte ikke brukt mennesker for å trene moderne."}
+{"episode_id": 490, "segment_index": 278, "start": 1333.59, "end": 1339.59, "text": "De har kjørt en så kalt reinforcement learning, altså uten bruk av mennesker."}
+{"episode_id": 490, "segment_index": 279, "start": 1339.59, "end": 1345.59, "text": "Alle andre må bruke mennesker for å lære moderne og fungere,"}
+{"episode_id": 490, "segment_index": 280, "start": 1345.59, "end": 1349.59, "text": "mens de har kjørt en mye mer pure reinforcement learning"}
+{"episode_id": 490, "segment_index": 281, "start": 1349.59, "end": 1353.59, "text": "som er litt holdig rail i læringen,"}
+{"episode_id": 490, "segment_index": 282, "start": 1353.59, "end": 1359.59, "text": "men de kunne ikke ha gjort det uten at meta-åpner har gjort den jobben i forkant."}
+{"episode_id": 490, "segment_index": 283, "start": 1359.59, "end": 1364.59, "text": "Men det er en spennende utvikling for at de nå begynner å komme på"}
+{"episode_id": 490, "segment_index": 284, "start": 1364.59, "end": 1368.59, "text": "at mennesker ikke trenger å være så involveret i learningen."}
+{"episode_id": 490, "segment_index": 285, "start": 1368.59, "end": 1373.59, "text": "Det tror jeg kan gjøre at de nye Frontier-modellerne blir veldig bra."}
+{"episode_id": 490, "segment_index": 286, "start": 1373.59, "end": 1377.59, "text": "Du tørte det oppå deg med at den jansen er kanskje..."}
+{"episode_id": 490, "segment_index": 287, "start": 1377.59, "end": 1380.59, "text": "Det har funket veldig bra for DeepSikk, for de moderne er svare litt dummer"}
+{"episode_id": 490, "segment_index": 288, "start": 1380.59, "end": 1383.59, "text": "enn de andre moderne som var tilgjengelig,"}
+{"episode_id": 490, "segment_index": 289, "start": 1383.59, "end": 1387.59, "text": "så du kunne bruke DeepSikk i sammen med OpenAI."}
+{"episode_id": 490, "segment_index": 290, "start": 1387.59, "end": 1392.59, "text": "Du kunne bruke OpenAI i sine API-er for å være menneske i den lupen."}
+{"episode_id": 490, "segment_index": 291, "start": 1392.59, "end": 1397.59, "text": "Oppen AI blir en lærer-modell for student- eller elevmodellen DeepSikk."}
+{"episode_id": 490, "segment_index": 292, "start": 1397.59, "end": 1399.59, "text": "Så funker det veldig bra."}
+{"episode_id": 490, "segment_index": 293, "start": 1399.59, "end": 1402.59, "text": "Og så blir spørsmålet mer om den self-playen og reinforcement learningen"}
+{"episode_id": 490, "segment_index": 294, "start": 1402.59, "end": 1404.59, "text": "funker like bra med seg selv."}
+{"episode_id": 490, "segment_index": 295, "start": 1404.59, "end": 1410.59, "text": "Det blir antageligvis litt vanskeligere å lære når du selv er on the Frontier."}
+{"episode_id": 490, "segment_index": 296, "start": 1410.59, "end": 1412.59, "text": "Hei, giftene folk med her, eller Marius?"}
+{"episode_id": 490, "segment_index": 297, "start": 1412.59, "end": 1416.59, "text": "Jeg tenkte som slår meg som jeg bare lurt på."}
+{"episode_id": 490, "segment_index": 298, "start": 1416.59, "end": 1418.59, "text": "Disse store språkmodellerne."}
+{"episode_id": 490, "segment_index": 299, "start": 1418.59, "end": 1420.59, "text": "Jeg vet ikke om jeg er inne på om det er riktig her eller ikke,"}
+{"episode_id": 490, "segment_index": 300, "start": 1420.59, "end": 1425.59, "text": "men er de på en måte ferdig med å bli råvare, melk og brø?"}
+{"episode_id": 490, "segment_index": 301, "start": 1425.59, "end": 1430.59, "text": "Og at derinvasjonen kommer er mer på toppen av disse språkmodellerne"}
+{"episode_id": 490, "segment_index": 302, "start": 1430.59, "end": 1434.59, "text": "eller på siden av språkmodellerne?"}
+{"episode_id": 490, "segment_index": 303, "start": 1434.59, "end": 1436.59, "text": "Det er veldig godt spørsmål."}
+{"episode_id": 490, "segment_index": 304, "start": 1436.59, "end": 1441.59, "text": "OpenAI, Sam Altman, Softbank og så videre tror jeg på ingen måte det."}
+{"episode_id": 490, "segment_index": 305, "start": 1441.59, "end": 1445.59, "text": "Da hadde det ikke de prøvet å bygge Stargate for 100 miljarder i første runde"}
+{"episode_id": 490, "segment_index": 306, "start": 1445.59, "end": 1449.59, "text": "og 500 miljarder totalt, men så er jo egentlig du var inne på melk og brø,"}
+{"episode_id": 490, "segment_index": 307, "start": 1449.59, "end": 1452.59, "text": "og spørsmålet er deep seek av stillt seg selv."}
+{"episode_id": 490, "segment_index": 308, "start": 1452.59, "end": 1455.59, "text": "Det er jo, hvorfor skal vi kjøpe kuene når vi er uansett for melken?"}
+{"episode_id": 490, "segment_index": 309, "start": 1455.59, "end": 1460.59, "text": "Hvorfor skal vi bygge en Frontier-modell fra Scratch på samme måte som OpenAI"}
+{"episode_id": 490, "segment_index": 310, "start": 1460.59, "end": 1463.59, "text": "når vi er uansett kan bære frukten av det?"}
+{"episode_id": 490, "segment_index": 311, "start": 1463.59, "end": 1467.59, "text": "Og så var det det vi var inne på, at det er ikke sikkert at det kommer til å fungere fremover."}
+{"episode_id": 490, "segment_index": 312, "start": 1467.59, "end": 1472.59, "text": "Så spørsmålet blir jo egentlig hvor mye bedre er GPT5 og GPT6 enn GPT4."}
+{"episode_id": 490, "segment_index": 313, "start": 1472.59, "end": 1478.59, "text": "Hvis du har en situasjon hvor pretraining begynner å treffe en vegg at det ikke fungerer like bra,"}
+{"episode_id": 490, "segment_index": 314, "start": 1478.59, "end": 1483.59, "text": "så kan man nok tro at dette blir commoditast, det blir veldig mye billere,"}
+{"episode_id": 490, "segment_index": 315, "start": 1483.59, "end": 1486.59, "text": "og det er ikke så attraktivt å være en Frontier-modell."}
+{"episode_id": 490, "segment_index": 316, "start": 1486.59, "end": 1491.59, "text": "Men hvis GPT5 og GPT6 er utrolig mye bedre enn GPT4,"}
+{"episode_id": 490, "segment_index": 317, "start": 1491.59, "end": 1496.59, "text": "og denne destilleringen av deres modeller av andre spiller ikke fungerer like bra,"}
+{"episode_id": 490, "segment_index": 318, "start": 1496.59, "end": 1502.59, "text": "så kan man se for seg en situasjon hvor disse modellen også har veldig sterke konkurranseposisjoner,"}
+{"episode_id": 490, "segment_index": 319, "start": 1502.59, "end": 1504.59, "text": "og blir dyre og ha gode marginer."}
+{"episode_id": 490, "segment_index": 320, "start": 1504.59, "end": 1511.59, "text": "Men Barsjad, i enklere termer så vi får banke av det, hvor god og effektiv er DeepSync sammenlegnet"}
+{"episode_id": 490, "segment_index": 321, "start": 1511.59, "end": 1515.59, "text": "med JetGPT basert på den informasjonen dere har?"}
+{"episode_id": 490, "segment_index": 322, "start": 1515.59, "end": 1520.59, "text": "Ja, så det er jo først fremst denne Reasning-modellen som kom forrige mandag av DeepSync,"}
+{"episode_id": 490, "segment_index": 323, "start": 1520.59, "end": 1523.59, "text": "som er liksom det som tok verden av storm og på en gang i Benchmark,"}
+{"episode_id": 490, "segment_index": 324, "start": 1523.59, "end": 1528.59, "text": "så ser jeg at den gjør det bedre enn den O1-reasning-modellen til OpenAI,"}
+{"episode_id": 490, "segment_index": 325, "start": 1528.59, "end": 1533.59, "text": "som alle kan prøve ut og som er til enn gli på www.churchip.com."}
+{"episode_id": 490, "segment_index": 326, "start": 1533.59, "end": 1538.59, "text": "OpenAI har en annen Reasning-modell også, O3."}
+{"episode_id": 490, "segment_index": 327, "start": 1538.59, "end": 1545.59, "text": "Vår erfaring er at O DeepSync R1, deres Reasning-modell, er litt dårligere,"}
+{"episode_id": 490, "segment_index": 328, "start": 1545.59, "end": 1547.59, "text": "er litt dummere enn O1, er litt treigere,"}
+{"episode_id": 490, "segment_index": 329, "start": 1547.59, "end": 1552.59, "text": "og oppgaver den ikke klarer, men som OpenAI klarer i tillegg til det."}
+{"episode_id": 490, "segment_index": 330, "start": 1552.59, "end": 1561.59, "text": "Så er O1 ganske mye dårligere enn O3, så DeepSync er ikke helt på nivå med OpenAI,"}
+{"episode_id": 490, "segment_index": 331, "start": 1561.59, "end": 1565.59, "text": "og DeepSync har heller ikke den multimodaliteten som Churchipet.com har,"}
+{"episode_id": 490, "segment_index": 332, "start": 1565.59, "end": 1570.59, "text": "så jeg kan ikke ta bilder av dette studioet og få DeepSync til å forklare meg hva som foregår."}
+{"episode_id": 490, "segment_index": 333, "start": 1570.59, "end": 1574.59, "text": "Det kan jeg høre i Churchipet. Jeg kan heller ikke snakke med DeepSync med muntled."}
+{"episode_id": 490, "segment_index": 334, "start": 1574.59, "end": 1579.59, "text": "Jeg kan jo gjøre det med OpenAI, så jeg kan utvile om at det er ikke helt på nivå."}
+{"episode_id": 490, "segment_index": 335, "start": 1579.59, "end": 1587.59, "text": "Vi har testet disse modellerne mot hverandre, med masse logisk oppgaver,"}
+{"episode_id": 490, "segment_index": 336, "start": 1587.59, "end": 1593.59, "text": "og DeepSync tar jo masse av meg før den kommer til å svare, og mye tregre."}
+{"episode_id": 490, "segment_index": 337, "start": 1593.59, "end": 1597.59, "text": "Og igjen, så glemmer folk Google."}
+{"episode_id": 490, "segment_index": 338, "start": 1597.59, "end": 1603.59, "text": "I andre fall folk går inn i Google AI-studiet og ser hva Google holder på meg."}
+{"episode_id": 490, "segment_index": 339, "start": 1603.59, "end": 1608.59, "text": "De kaller alt experimental, men de er helt på den."}
+{"episode_id": 490, "segment_index": 340, "start": 1608.59, "end": 1610.59, "text": "De henger med."}
+{"episode_id": 490, "segment_index": 341, "start": 1610.59, "end": 1614.59, "text": "De testene som jeg har kjørt på disse forskjellige modellerne,"}
+{"episode_id": 490, "segment_index": 342, "start": 1614.59, "end": 1619.59, "text": "så etter min oppfattning er Google faktisk best på mye av denne risningen."}
+{"episode_id": 490, "segment_index": 343, "start": 1619.59, "end": 1624.59, "text": "Samtidig er OpenAI fantastisk multimodalitet,"}
+{"episode_id": 490, "segment_index": 344, "start": 1624.59, "end": 1630.59, "text": "og det er min daily driver egentlig, i Churchipet i fortsatt."}
+{"episode_id": 490, "segment_index": 345, "start": 1631.59, "end": 1639.59, "text": "I forhold til kina og hva slags informasjon man får når man spør DeepSync om noe, og så videre."}
+{"episode_id": 490, "segment_index": 346, "start": 1639.59, "end": 1642.59, "text": "Barsan, hva tenker dere da når du registrerte dere?"}
+{"episode_id": 490, "segment_index": 347, "start": 1642.59, "end": 1645.59, "text": "Han må gi fra dere dataene deres til kina."}
+{"episode_id": 490, "segment_index": 348, "start": 1645.59, "end": 1650.59, "text": "Jeg kjører en kinesisk bilpulsar, og de kan styre meg inn i en fjellveg."}
+{"episode_id": 490, "segment_index": 349, "start": 1650.59, "end": 1652.59, "text": "Jeg har gitt opp en grei litt sånn..."}
+{"episode_id": 490, "segment_index": 350, "start": 1652.59, "end": 1657.59, "text": "Man skal selvfølgelig ikke legge noe sensitiv data i disse modellerne."}
+{"episode_id": 490, "segment_index": 351, "start": 1657.59, "end": 1663.59, "text": "Jeg er ikke så veldig redd for propaganda, og jeg er ikke så veldig redd for at kineserne følger med på øre."}
+{"episode_id": 490, "segment_index": 352, "start": 1663.59, "end": 1667.59, "text": "Men det er jo et spørsmål om man må stille seg."}
+{"episode_id": 490, "segment_index": 353, "start": 1667.59, "end": 1673.59, "text": "Vi må lære dette, vi må skjønne dette, så vi er lastet ned både på telefonen og har logget inn."}
+{"episode_id": 490, "segment_index": 354, "start": 1673.59, "end": 1681.59, "text": "Jeg har konto, men jeg tror kineserne har et operat som..."}
+{"episode_id": 490, "segment_index": 355, "start": 1682.59, "end": 1687.59, "text": "Jeg har ikke vært en politiker og lastet ned deepsik på telefonen."}
+{"episode_id": 490, "segment_index": 356, "start": 1687.59, "end": 1690.59, "text": "Det er enig også. Jeg er veldig stort sett enig."}
+{"episode_id": 490, "segment_index": 357, "start": 1690.59, "end": 1697.59, "text": "Da jeg har logget meg en lastet ned chat-gipiti, så brukte jeg en del andre steder også."}
+{"episode_id": 490, "segment_index": 358, "start": 1697.59, "end": 1701.59, "text": "Da jeg lastet ned deepsik, så ble det en variant av Hello China i steden."}
+{"episode_id": 490, "segment_index": 359, "start": 1701.59, "end": 1708.59, "text": "Så det er jo klart om man er klar over at de kanskje har litt andre syn på persjonen og så videre."}
+{"episode_id": 490, "segment_index": 360, "start": 1708.59, "end": 1716.59, "text": "Tror dere vi kommer til å komme forbi det punktet hvor myndighetene, enten kinesiske eller europeiske eller amerikanske,"}
+{"episode_id": 490, "segment_index": 361, "start": 1716.59, "end": 1725.59, "text": "begrenser på en måte informasjonstillgangen eller hvertfall en finge med å spille på hva vi som bruker,"}
+{"episode_id": 490, "segment_index": 362, "start": 1725.59, "end": 1729.59, "text": "som slutter brukere, får ut av de språkmodellerne?"}
+{"episode_id": 490, "segment_index": 363, "start": 1729.59, "end": 1737.59, "text": "Jeg håper at den vestelige verden i hvertfall holder seg under noen form for sensurering og kontroll av de store tekstselskapene."}
+{"episode_id": 490, "segment_index": 364, "start": 1737.59, "end": 1746.59, "text": "Det vil være katastrofalt hvis USA skulle begynne å blande seg inn i hvordan outputten til åpende eisene-modeller."}
+{"episode_id": 490, "segment_index": 365, "start": 1746.59, "end": 1752.59, "text": "Men så var jeg jo eiling inn på at det virker som Kina hadde en finge med i spille i deepsik,"}
+{"episode_id": 490, "segment_index": 366, "start": 1752.59, "end": 1756.59, "text": "hvor det er vanskelig å få svar på Ole Bromsbørsmål på en måte."}
+{"episode_id": 490, "segment_index": 367, "start": 1756.59, "end": 1762.59, "text": "Men at vesten skulle holde på den måten, hadde vi vel vist til å starte kritisk film."}
+{"episode_id": 490, "segment_index": 368, "start": 1762.59, "end": 1766.59, "text": "Jeg har jo kanskje gjort noe riktig. Det må være litt å ta opptatt å regulere dette her."}
+{"episode_id": 490, "segment_index": 369, "start": 1766.59, "end": 1772.59, "text": "Da trenger jeg ikke å koble en gjernegang. Da har ryggemarxreflexen min nei,"}
+{"episode_id": 490, "segment_index": 370, "start": 1772.59, "end": 1780.59, "text": "fordi vi ser det EU gjør på regulering siden. Det er nesten lite store ord, men katastrofalt."}
+{"episode_id": 490, "segment_index": 371, "start": 1780.59, "end": 1788.59, "text": "Vi ser nå langseres nye AI-tjenester globalt i Zimbabwe og Uganda, Afghanistan."}
+{"episode_id": 490, "segment_index": 372, "start": 1788.59, "end": 1797.59, "text": "Men det langseres ikke i Europa. Mange av meta-synne tjenester som kanskje aldri kommer til å langsere i Europa"}
+{"episode_id": 490, "segment_index": 373, "start": 1797.59, "end": 1803.59, "text": "på grunn av reguleringen, den nye AI-akt fra EU, pluss personmaren regler,"}
+{"episode_id": 490, "segment_index": 374, "start": 1803.59, "end": 1807.59, "text": "som gjør at de velger bare ikke langsere tjenesterne."}
+{"episode_id": 490, "segment_index": 375, "start": 1807.59, "end": 1810.59, "text": "Det er ganske frustrere denne for oss som prøver å følge med den,"}
+{"episode_id": 490, "segment_index": 376, "start": 1810.59, "end": 1817.59, "text": "vi får ikke brukt disse produktene. Så jeg vil si at EU er på totalt i feilspore,"}
+{"episode_id": 490, "segment_index": 377, "start": 1817.59, "end": 1823.59, "text": "i måten de regulerer. De skjønner ikke hva de driver."}
+{"episode_id": 490, "segment_index": 378, "start": 1823.59, "end": 1828.59, "text": "Rett og satt de lager en AI-akt baseret på informasjonen for tre år tilbake."}
+{"episode_id": 490, "segment_index": 379, "start": 1828.59, "end": 1834.59, "text": "Det ble et dømt og mislykkes. Så det er en ekstrem frustrasjon som vi har"}
+{"episode_id": 490, "segment_index": 380, "start": 1834.59, "end": 1838.59, "text": "og som egentlig er problem for EU. Vi er jo et..."}
+{"episode_id": 490, "segment_index": 381, "start": 1838.59, "end": 1846.59, "text": "Europa er ferdig med å bli et veldig fint museum, men vi henger ikke med i det som skjer nå."}
+{"episode_id": 490, "segment_index": 382, "start": 1846.59, "end": 1852.59, "text": "Det er ingen av oss som har overrasket over at dette ikke kom ut fra Europa for å si det på den måten."}
+{"episode_id": 490, "segment_index": 383, "start": 1852.59, "end": 1859.59, "text": "USA ligger on the very forefront, og Kina selv med disse eksportrestriksjoner og så videre,"}
+{"episode_id": 490, "segment_index": 384, "start": 1859.59, "end": 1861.59, "text": "klarer å catch-up, men det gjør ikke vi."}
+{"episode_id": 490, "segment_index": 385, "start": 1861.59, "end": 1865.59, "text": "Det er et poeng hvorfor er DeepSig så mye mer effektiv enn disse amerikanske modellerne."}
+{"episode_id": 490, "segment_index": 386, "start": 1865.59, "end": 1874.59, "text": "En grunn er at USA har uendelig tilgang på kapital, men i Kina så har de ikke hatt tilgang på alle de hotte-større"}
+{"episode_id": 490, "segment_index": 387, "start": 1874.59, "end": 1878.59, "text": "chipene og så videre, og Nød lærer naken kvinne å spinne."}
+{"episode_id": 490, "segment_index": 388, "start": 1878.59, "end": 1884.59, "text": "Kina trengte disse effektivisering forbedringene, fordi de kanskje har kjørt på litt dårligere hardware."}
+{"episode_id": 490, "segment_index": 389, "start": 1884.59, "end": 1890.59, "text": "Men Europa er litt i ingenvansland egentlig."}
+{"episode_id": 490, "segment_index": 390, "start": 1890.59, "end": 1899.59, "text": "Nå ser jo Kinesa den at dette kan vi drive videre med oss selv i stor grad,"}
+{"episode_id": 490, "segment_index": 391, "start": 1899.59, "end": 1903.59, "text": "sett at jeg har fått til mye mer, mindre."}
+{"episode_id": 490, "segment_index": 392, "start": 1903.59, "end": 1908.59, "text": "Hva gjør det hele denne teknologikkampen ved USA og Kina?"}
+{"episode_id": 490, "segment_index": 393, "start": 1908.59, "end": 1913.59, "text": "Det er også en viktig anser at vi kan ikke være helt sikre på å si at jeg har fått til mer,"}
+{"episode_id": 490, "segment_index": 394, "start": 1913.59, "end": 1920.59, "text": "men mindre. Jeg tror 20% av datacenterintektenet i media kommer fra Singapore for eksempel."}
+{"episode_id": 490, "segment_index": 395, "start": 1920.59, "end": 1930.59, "text": "Er det helt umulig at Kina har trent modellerne sine i Singapore og så sendt den PDF-filmen med modellvektene tilbake inn på Mainland?"}
+{"episode_id": 490, "segment_index": 396, "start": 1930.59, "end": 1937.59, "text": "Det er ikke helt umulig. Du kan jo se på hva som skjedde med tysklandsexport til Kyrkistan,"}
+{"episode_id": 490, "segment_index": 397, "start": 1937.59, "end": 1945.59, "text": "da sanktionen mot Rusland begynte. Det går an å komme seg forbi sånne eksportrestriksjoner."}
+{"episode_id": 490, "segment_index": 398, "start": 1945.59, "end": 1950.59, "text": "Det er et litt åpen spørsmål om de har fått til mer med mindre eller ikke."}
+{"episode_id": 490, "segment_index": 399, "start": 1950.59, "end": 1953.59, "text": "Du kan jo trene modellerne i andre land også."}
+{"episode_id": 490, "segment_index": 400, "start": 1953.59, "end": 1957.59, "text": "Du trenger fysisk for disse GPU-nøyende kina selv."}
+{"episode_id": 490, "segment_index": 401, "start": 1957.59, "end": 1961.59, "text": "Jeg tror det er stor stil også. Klar til å få til det."}
+{"episode_id": 490, "segment_index": 402, "start": 1961.59, "end": 1970.59, "text": "Uansett kineserne er flinke. De legger mye ressurser inn i det, og du kan aldri avskrive de i denne AI-kampen."}
+{"episode_id": 490, "segment_index": 403, "start": 1970.59, "end": 1975.59, "text": "Nå er det selv også disse resursjoner. Det er vanskelig å..."}
+{"episode_id": 490, "segment_index": 404, "start": 1975.59, "end": 1980.59, "text": "Kineserne vil alltid være der og være en veldig tøff konkurrent i alt som skjer."}
+{"episode_id": 490, "segment_index": 405, "start": 1980.59, "end": 1986.59, "text": "Er det USA eller er det Kina som har en størst tilgang på AI-kompetanse i arbeidstokken?"}
+{"episode_id": 490, "segment_index": 406, "start": 1986.59, "end": 1995.59, "text": "Det ble sagt hvordan man konkurrerer med Kina og 1,4 miljarder innbyggere."}
+{"episode_id": 490, "segment_index": 407, "start": 1995.59, "end": 2000.59, "text": "Et svar på det er at USA er et nedsleksfelt på hvor mange mennesker der er i verden."}
+{"episode_id": 490, "segment_index": 408, "start": 2000.59, "end": 2005.59, "text": "8 miljarder. 8 miljarder med mennesker som egentlig lyst å jobbe i USA."}
+{"episode_id": 490, "segment_index": 409, "start": 2005.59, "end": 2011.59, "text": "Så du må bare ikke... De smarteste folkene ønsker seg til USA."}
+{"episode_id": 490, "segment_index": 410, "start": 2011.59, "end": 2019.59, "text": "Det er viktig at Trumpsjoner og nørskejoner er avvinge av den succesfarmene,"}
+{"episode_id": 490, "segment_index": 411, "start": 2019.59, "end": 2023.59, "text": "at de kan hente de flinkeste folkene inn til USA."}
+{"episode_id": 490, "segment_index": 412, "start": 2023.59, "end": 2030.59, "text": "Så jeg tror USA lenger ikke de tuller det til, så vil de alltid ha tilgang til de flinkeste og beste folkene."}
+{"episode_id": 490, "segment_index": 413, "start": 2030.59, "end": 2035.59, "text": "De har tilgang til billigste kapitalen og det er et ventsemiljø som ingen kan slå."}
+{"episode_id": 490, "segment_index": 414, "start": 2035.59, "end": 2040.59, "text": "Så USA tror jeg vil være innen det lyd så lenge jeg er her."}
+{"episode_id": 490, "segment_index": 415, "start": 2040.59, "end": 2049.59, "text": "Det vi ser i dag, de psiker fortsatt ikke på nivå med Anthropic, Metta, Google, OpenAI,"}
+{"episode_id": 490, "segment_index": 416, "start": 2049.59, "end": 2056.59, "text": "og så videre så vi ser jo egentlig at tilgangen på kapital gründer spiriten"}
+{"episode_id": 490, "segment_index": 417, "start": 2056.59, "end": 2063.59, "text": "og tilgangen på alle hjernen i hele verdena egentlig har gitt USA dette forskjellange."}
+{"episode_id": 490, "segment_index": 418, "start": 2063.59, "end": 2068.59, "text": "Og at vi er positive på deres konkurransevn på sikket også."}
+{"episode_id": 490, "segment_index": 419, "start": 2068.59, "end": 2075.59, "text": "Lange her er selvfølgelig mange ting som ikke er mulig å svare på ennene."}
+{"episode_id": 490, "segment_index": 420, "start": 2075.59, "end": 2084.59, "text": "Men vi snakker til om dette med rundt behovet for datacenter, utbygging, framover, investeringsviljen,"}
+{"episode_id": 490, "segment_index": 421, "start": 2084.59, "end": 2090.78, "text": "og de store amerikanske selskapene basert på der vi er nå."}
+{"episode_id": 490, "segment_index": 422, "start": 2090.78, "end": 2093.78, "text": "Hva er rimelig å forvente?"}
+{"episode_id": 490, "segment_index": 423, "start": 2093.78, "end": 2098.78, "text": "Ikvel blir det veldig spennende å høre hva de store selskapene sier."}
+{"episode_id": 490, "segment_index": 424, "start": 2098.78, "end": 2103.78, "text": "Vi tror fortsatt det er det som drar det næte i vår portafølge av hvordan vi tenker."}
+{"episode_id": 490, "segment_index": 425, "start": 2103.78, "end": 2107.78, "text": "Vi er da også veldig usikker på å være eksponert."}
+{"episode_id": 490, "segment_index": 426, "start": 2107.78, "end": 2111.78, "text": "Altså eksponert om at de selskapene driver med trening."}
+{"episode_id": 490, "segment_index": 427, "start": 2111.78, "end": 2119.78, "text": "Hvordan Nvidia sin intekte ser ut i 20.07, det er der det ingen som er pædeling på egentlig."}
+{"episode_id": 490, "segment_index": 428, "start": 2119.78, "end": 2126.78, "text": "For det kommer an på så mye ting på hvordan, hvor smart de moderne blir."}
+{"episode_id": 490, "segment_index": 429, "start": 2126.78, "end": 2132.78, "text": "Så vi er litt usikker på å ta debattet inn for å kalle det trening i AI,"}
+{"episode_id": 490, "segment_index": 430, "start": 2132.78, "end": 2137.78, "text": "men vi føler oss veldig komfortabel med å ligge med de så kvalit hyper skader."}
+{"episode_id": 490, "segment_index": 431, "start": 2137.78, "end": 2142.78, "text": "Fordi vi tror at folk har ikke skjønt power over EHI 1,"}
+{"episode_id": 490, "segment_index": 432, "start": 2142.78, "end": 2146.78, "text": "og hvor enkelt eller produktiv man kan være."}
+{"episode_id": 490, "segment_index": 433, "start": 2146.78, "end": 2150.78, "text": "Vi har taget bruk alle disse verktøyende."}
+{"episode_id": 490, "segment_index": 434, "start": 2150.78, "end": 2152.78, "text": "Jeg synes det er nesten magisk."}
+{"episode_id": 490, "segment_index": 435, "start": 2152.78, "end": 2160.78, "text": "Så hele den infres-delen av AI-storen, den tror vi er veldig på."}
+{"episode_id": 490, "segment_index": 436, "start": 2160.78, "end": 2168.78, "text": "Da hyper skaderne, Amazon, Microsoft og Google, de er ekstremt godt posicionert for det som kommer."}
+{"episode_id": 490, "segment_index": 437, "start": 2168.78, "end": 2173.78, "text": "Absolutt, og vi var inne på dette med Jevins Paradex og behovet for computer og så videre."}
+{"episode_id": 490, "segment_index": 438, "start": 2173.78, "end": 2182.78, "text": "Den 17% kursreaksjonen på en video var ikke det som var det, den inklementelle takeawayen av DeepSync."}
+{"episode_id": 490, "segment_index": 439, "start": 2182.78, "end": 2190.78, "text": "Men det er denne usikkerheten på hvordan ser toppelinjen og marginene til en video ut i Outyears i 26-27."}
+{"episode_id": 490, "segment_index": 440, "start": 2190.78, "end": 2194.78, "text": "Hvor du ikke har noen form for nedsidenbeskyttelse."}
+{"episode_id": 490, "segment_index": 441, "start": 2194.78, "end": 2199.78, "text": "Men disse hyper skaderne, folk har vært redde for investeringen, de investerer veldig mye penger i det her."}
+{"episode_id": 490, "segment_index": 442, "start": 2199.78, "end": 2205.78, "text": "Men som man husker på, disse kjærende skybisnesene til hyper skaderne, det vokser dobbel digits for alle sammen."}
+{"episode_id": 490, "segment_index": 443, "start": 2205.78, "end": 2210.78, "text": "Selv om du bygger litt kanskje, litt for mange datacentrene nå, så kommer du til å vokse inn i det og absorbere deg."}
+{"episode_id": 490, "segment_index": 444, "start": 2210.78, "end": 2218.78, "text": "Så den nedsidenbeskyttelsen i det scenario hvor man trenger mindre computer eller generativ AI blir mindre fantastisk enn alle tror."}
+{"episode_id": 490, "segment_index": 445, "start": 2218.78, "end": 2227.78, "text": "Den er helt annenledes i disse hyper skaderne enn i en video, så en risk-reward-messig er vi veldig positivt til å spille det på den måten."}
+{"episode_id": 490, "segment_index": 446, "start": 2228.78, "end": 2236.78, "text": "Bottomline det jeg sitter igjen med her, etter alt det vi har snakket om, er at en mer effektiv språkmodell,"}
+{"episode_id": 490, "segment_index": 447, "start": 2236.78, "end": 2244.78, "text": "som DeepSync til synelatene representerer i Zoom når man ser stort på det, er positivt."}
+{"episode_id": 490, "segment_index": 448, "start": 2244.78, "end": 2248.78, "text": "Og det er bare en del av det man trenger for å dra hele AI-storen videre."}
+{"episode_id": 490, "segment_index": 449, "start": 2248.78, "end": 2255.78, "text": "Absolutt. Det var Mark and Jason som var ute og sa at this is a profound gift to humanity."}
+{"episode_id": 490, "segment_index": 450, "start": 2255.78, "end": 2262.78, "text": "Det er ingen annen måte å se det på en av dette positivt for verden og for AI og alle brukerne av AI."}
+{"episode_id": 490, "segment_index": 451, "start": 2262.78, "end": 2268.78, "text": "Det får bli siste ord for i dag igjen. Tusen takk, Karir, for at dere tok dere tid."}
+{"episode_id": 490, "segment_index": 452, "start": 2268.78, "end": 2273.78, "text": "Og sist men ikke mens. Tusen takk, folkens, til alle dere som hørte på."}
+{"episode_id": 490, "segment_index": 453, "start": 2276.32, "end": 2291.7, "text": "Denne sendingen ble publicert i podcasten Utbyte."}
+{"episode_id": 490, "segment_index": 454, "start": 2291.7, "end": 2296.7, "text": "Innoll i sendingen er ansesomarketsføringsmateriale fra DMB og er ment å være generell sparverledning."}
+{"episode_id": 490, "segment_index": 455, "start": 2297.7, "end": 2300.7, "text": "Sendingen skal ikke ha oppfattet som et tilbud om å kjøpe eller selle gefinansielle instrumenter,"}

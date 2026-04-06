@@ -1,0 +1,620 @@
+{"episode_id": 536, "segment_index": 0, "start": 0.91, "end": 6.67, "text": "Nær sagt, alle snakker om AI, men under overflaten skjer noe minst like viktig."}
+{"episode_id": 536, "segment_index": 1, "start": 6.67, "end": 11.59, "text": "Et kapløp om å bygge infrastrukturen som gjør AI mulig."}
+{"episode_id": 536, "segment_index": 2, "start": 11.59, "end": 17.51, "text": "Teng på ting som lagring, drikker, nettverk, programvare og maskinvare."}
+{"episode_id": 536, "segment_index": 3, "start": 17.51, "end": 20.87, "text": "Dette her er mye mer enn bare tekniske detaljer."}
+{"episode_id": 536, "segment_index": 4, "start": 20.87, "end": 26.07, "text": "Hvis vi setter det litt på spissen, så kan det være i ferd med å bli en del av grunnmuren i en ny økonomi."}
+{"episode_id": 536, "segment_index": 5, "start": 26.23, "end": 32.51, "text": "Nån helt centrale spørsmål er hvor i infrastruktur verdieskjedden ligger verdiene,"}
+{"episode_id": 536, "segment_index": 6, "start": 32.51, "end": 34.55, "text": "og hvem kommer til å ta dem."}
+{"episode_id": 536, "segment_index": 7, "start": 34.55, "end": 38.91, "text": "Og hvor mye av veksten framover vil komme fra bedriftsmarkedet."}
+{"episode_id": 536, "segment_index": 8, "start": 38.91, "end": 44.91, "text": "Det breger næringsliv av banker, helseselskaper, industribedrifter og offentlig aktører"}
+{"episode_id": 536, "segment_index": 9, "start": 44.91, "end": 51.11, "text": "som nå tar i bruk AI i sin drift i stadig større graltet."}
+{"episode_id": 536, "segment_index": 10, "start": 51.11, "end": 55.03, "text": "I denne episoden skal Aydun Viksdra Niversen og jeg se nærmere på dette."}
+{"episode_id": 536, "segment_index": 11, "start": 55.03, "end": 60.19, "text": "Den uken har vi vært i San Francisco og møtt en rekke av de ledende selskapene"}
+{"episode_id": 536, "segment_index": 12, "start": 60.19, "end": 71.01, "text": "og utfordrerne som bygger nettopp denne infrastruktur."}
+{"episode_id": 536, "segment_index": 13, "start": 71.01, "end": 75.85, "text": "Hei alle sammen, velkommen til ny runde med utbyttet podden Aydun og jeg"}
+{"episode_id": 536, "segment_index": 14, "start": 75.85, "end": 80.17, "text": "har som de fleste av dere vet vært i San Francisco."}
+{"episode_id": 536, "segment_index": 15, "start": 80.17, "end": 87.45, "text": "Nå har vi reist videre til Texas og Austin Aydun, men mer om det i en senere episode."}
+{"episode_id": 536, "segment_index": 16, "start": 87.53, "end": 92.09, "text": "Vi har fortsatt litt å fortelle om fra dagene våre i San Francisco"}
+{"episode_id": 536, "segment_index": 17, "start": 92.09, "end": 94.89, "text": "som jo var utrolig interessant."}
+{"episode_id": 536, "segment_index": 18, "start": 94.89, "end": 99.69, "text": "Vi har valgt å fokusere det rundt AI-infrastruktur."}
+{"episode_id": 536, "segment_index": 19, "start": 99.69, "end": 104.17, "text": "Først og fremst, jeg galt deg en utfordring i oss."}
+{"episode_id": 536, "segment_index": 20, "start": 104.17, "end": 109.77, "text": "Jeg har korte teaser i starten. Hvorfor er dette interessant for deg som invester?"}
+{"episode_id": 536, "segment_index": 21, "start": 109.77, "end": 113.37, "text": "Det er alt som skaper en av form for økonomisk vekst."}
+{"episode_id": 536, "segment_index": 22, "start": 113.37, "end": 116.17, "text": "Det er interessant for alle investorer."}
+{"episode_id": 536, "segment_index": 23, "start": 116.17, "end": 119.69, "text": "Dette er ikke bare en veldig kraftøkonomisk vekst."}
+{"episode_id": 536, "segment_index": 24, "start": 119.69, "end": 124.17, "text": "Dette kommer også til å ødelegge veldig mange veletablerte fredlingsmeddelere."}
+{"episode_id": 536, "segment_index": 25, "start": 124.17, "end": 131.05, "text": "Og derfor er det veldig mange flere investorer som i dag ikke er interessert i det som bør være opptatt av det."}
+{"episode_id": 536, "segment_index": 26, "start": 131.05, "end": 136.25, "text": "I en sånne aktiesamling kan vi si at veldig mye av beta er ferdepriset."}
+{"episode_id": 536, "segment_index": 27, "start": 136.25, "end": 140.17, "text": "Flere beta er baseret på historiske data."}
+{"episode_id": 536, "segment_index": 28, "start": 140.17, "end": 144.33, "text": "Når vi får kraftende endringer i fremtiden, sånn som for eksempel Aydun i infrastruktur er,"}
+{"episode_id": 536, "segment_index": 29, "start": 144.41, "end": 148.17, "text": "så er den verdien av historiske beta mye mindre."}
+{"episode_id": 536, "segment_index": 30, "start": 148.17, "end": 153.37, "text": "Så det sitter veldig mange og tror de har i lav risikoaksjøy."}
+{"episode_id": 536, "segment_index": 31, "start": 153.37, "end": 158.41, "text": "Parallelt med at vi drar hit og ser på hva som skjer."}
+{"episode_id": 536, "segment_index": 32, "start": 158.41, "end": 168.41, "text": "Vi ender opp med å bli ganske frem og volentet på denne infrastrukturdelen."}
+{"episode_id": 536, "segment_index": 33, "start": 168.49, "end": 174.01, "text": "Vi har snakket om AI-infrastruktur før, og folk flest tenker på det."}
+{"episode_id": 536, "segment_index": 34, "start": 174.01, "end": 176.81, "text": "Det er det hyper scalerne man tenker på."}
+{"episode_id": 536, "segment_index": 35, "start": 176.81, "end": 180.89, "text": "Man tenker på Microsoft, Amazon, Google."}
+{"episode_id": 536, "segment_index": 36, "start": 180.89, "end": 186.49, "text": "Men i forhold til dette med bedriftsmarkedet, som jeg synes er spennende,"}
+{"episode_id": 536, "segment_index": 37, "start": 186.49, "end": 192.65, "text": "er spørsmålet omveksten for AI-infrastruktur kommer til å øke i bedriftsmarkedet?"}
+{"episode_id": 536, "segment_index": 38, "start": 192.65, "end": 195.21, "text": "Eller er det når og hvor fort?"}
+{"episode_id": 536, "segment_index": 39, "start": 195.29, "end": 197.21, "text": "Ja, og nå er vi inne."}
+{"episode_id": 536, "segment_index": 40, "start": 197.21, "end": 202.33, "text": "Vi kan bare tenke seg fire lega klasser på AI-infrastruktur."}
+{"episode_id": 536, "segment_index": 41, "start": 202.33, "end": 207.37, "text": "Den ene vi har brukt veldig mye tid på de siste to årene, er hardware siden."}
+{"episode_id": 536, "segment_index": 42, "start": 207.37, "end": 212.97, "text": "Algip, UN og alle serarie ordene som vi forbinder med en video."}
+{"episode_id": 536, "segment_index": 43, "start": 212.97, "end": 214.09, "text": "Ikke sant?"}
+{"episode_id": 536, "segment_index": 44, "start": 214.09, "end": 217.53, "text": "Men for at du skal få hardware i seg selv, har jo ikke så stor verdis,"}
+{"episode_id": 536, "segment_index": 45, "start": 217.53, "end": 219.13, "text": "så den trenger noe sovstvær."}
+{"episode_id": 536, "segment_index": 46, "start": 219.13, "end": 223.93, "text": "Og det vi ser, nå er det begynne fokuset å bevege seg litt om software."}
+{"episode_id": 536, "segment_index": 47, "start": 223.93, "end": 226.97, "text": "Men i tillegg, etter hver som man producerer veldig mye data,"}
+{"episode_id": 536, "segment_index": 48, "start": 226.97, "end": 229.85, "text": "er det en annen byggeklass som vi kaller data av lagring."}
+{"episode_id": 536, "segment_index": 49, "start": 229.85, "end": 233.85, "text": "At man henter mye data, hvis du hører på når man prater om AI-infrastruktur,"}
+{"episode_id": 536, "segment_index": 50, "start": 233.85, "end": 238.17, "text": "så dreier seg veldig mye om å hente riktig data, relevant data."}
+{"episode_id": 536, "segment_index": 51, "start": 238.17, "end": 241.69, "text": "Og så dreier seg om til å skytte seg om det som må jeg holde den dataen lagres."}
+{"episode_id": 536, "segment_index": 52, "start": 241.69, "end": 246.89, "text": "Så det er to siden ved AI-infrastruktur som er helt centrale,"}
+{"episode_id": 536, "segment_index": 53, "start": 246.89, "end": 249.37, "text": "og som vi ikke har pratt ut så mye om."}
+{"episode_id": 536, "segment_index": 54, "start": 249.45, "end": 253.21, "text": "Og så har du dette som binder dette sammen ut av sjovstvenn,"}
+{"episode_id": 536, "segment_index": 55, "start": 253.21, "end": 258.89, "text": "fordi at det veldig ofte er sånn at da hvor alle denne datan er lagret og står,"}
+{"episode_id": 536, "segment_index": 56, "start": 258.89, "end": 263.29, "text": "det er ikke den de steder som blir samlet inn, så du trenger måte å transportere denne datan på."}
+{"episode_id": 536, "segment_index": 57, "start": 263.29, "end": 266.25, "text": "Og det er da kyn eller clouden."}
+{"episode_id": 536, "segment_index": 58, "start": 266.25, "end": 268.01, "text": "Et eller annen form for nettverk."}
+{"episode_id": 536, "segment_index": 59, "start": 268.01, "end": 270.09, "text": "Så de fire byggelassene,"}
+{"episode_id": 536, "segment_index": 60, "start": 270.09, "end": 272.25, "text": "og det kommer vi til å se i løpet av de neste fem årne,"}
+{"episode_id": 536, "segment_index": 61, "start": 272.25, "end": 276.73, "text": "de kommer til å bytte littig gann på hva som er hotest i marikket og så videre."}
+{"episode_id": 536, "segment_index": 62, "start": 276.73, "end": 282.01, "text": "Og et av de kiftene som vi har sett, som for såvitt, er det er en vei,"}
+{"episode_id": 536, "segment_index": 63, "start": 282.01, "end": 285.37, "text": "vekk fra barfokusere på dette trening,"}
+{"episode_id": 536, "segment_index": 64, "start": 285.37, "end": 289.05, "text": "og så bygge store modeller som skal trene ordmodeller og bli kjempeflink,"}
+{"episode_id": 536, "segment_index": 65, "start": 289.05, "end": 293.77, "text": "og trene den selvkjørende piloten til Tesla og så videre."}
+{"episode_id": 536, "segment_index": 66, "start": 293.77, "end": 296.06, "text": "Det er at etter hvert som,"}
+{"episode_id": 536, "segment_index": 67, "start": 296.06, "end": 298.3, "text": "akkurat hva som har denne hangkne egetverk de i seg selv,"}
+{"episode_id": 536, "segment_index": 68, "start": 298.3, "end": 299.58, "text": "så de må bruke stid nå,"}
+{"episode_id": 536, "segment_index": 69, "start": 299.58, "end": 304.22, "text": "og parallellene er sånn at når du trener på alle disse store serviceparkene,"}
+{"episode_id": 536, "segment_index": 70, "start": 304.3, "end": 307.9, "text": "så er mål dit å lage en mindre model,"}
+{"episode_id": 536, "segment_index": 71, "start": 307.9, "end": 311.02, "text": "som skal ut til det vi da kaller grænselsittet."}
+{"episode_id": 536, "segment_index": 72, "start": 311.02, "end": 316.06, "text": "Det kan være en mobiltelefon, det kan være en PS, det kan være en bil, det kan være en humanoids,"}
+{"episode_id": 536, "segment_index": 73, "start": 316.06, "end": 317.86, "text": "det kan være en drone,"}
+{"episode_id": 536, "segment_index": 74, "start": 317.86, "end": 322.86, "text": "fordi når du kommer ut til den enheten, så har den mye mye mindre kapasitet"}
+{"episode_id": 536, "segment_index": 75, "start": 322.86, "end": 324.46, "text": "enn det du har på den store serveren."}
+{"episode_id": 536, "segment_index": 76, "start": 324.46, "end": 328.3, "text": "Og da er det helt andre ting, andre selskaper som blir mer spennende,"}
+{"episode_id": 536, "segment_index": 77, "start": 328.3, "end": 331.1, "text": "fordi da begynner det å prøve å prøve å plattere en prosessorkraft."}
+{"episode_id": 536, "segment_index": 78, "start": 331.1, "end": 332.66, "text": "Da er det slatt til med i god gamle intel,"}
+{"episode_id": 536, "segment_index": 79, "start": 332.7, "end": 333.98, "text": "det hadde vært et god eksempel her,"}
+{"episode_id": 536, "segment_index": 80, "start": 333.98, "end": 335.78, "text": "men nå er det kanskje mer AMD."}
+{"episode_id": 536, "segment_index": 81, "start": 335.78, "end": 337.34, "text": "Du har Qualcomm, du har ARM,"}
+{"episode_id": 536, "segment_index": 82, "start": 337.34, "end": 341.74, "text": "og du har disse mer sånn tradisjonelle sånnne prosessorspilleren,"}
+{"episode_id": 536, "segment_index": 83, "start": 341.74, "end": 342.82, "text": "så kan det bli viktig."}
+{"episode_id": 536, "segment_index": 84, "start": 342.82, "end": 345.66, "text": "Men derfor er dette her,"}
+{"episode_id": 536, "segment_index": 85, "start": 345.66, "end": 350.1, "text": "det er interessant nå, fordi vi er liksom der at ting er i ferd til å se,"}
+{"episode_id": 536, "segment_index": 86, "start": 350.1, "end": 352.22, "text": "der er flere selskap som posisjonerer seg for det,"}
+{"episode_id": 536, "segment_index": 87, "start": 352.22, "end": 354.26, "text": "hvis jeg har kommet tilbake med noe eksempel."}
+{"episode_id": 536, "segment_index": 88, "start": 354.26, "end": 358.22, "text": "Men i forhold til de selskapene vi har møtt,"}
+{"episode_id": 536, "segment_index": 89, "start": 358.22, "end": 360.1, "text": "menneskerne vi har snakket med,"}
+{"episode_id": 536, "segment_index": 90, "start": 360.1, "end": 367.18, "text": "har du fått noen bekreftelser eller A-applevelser på turen knyttet til dette her med A-infrastruktur?"}
+{"episode_id": 536, "segment_index": 91, "start": 367.18, "end": 369.94, "text": "Ja, jeg var jo veldig spent på når vi dro over,"}
+{"episode_id": 536, "segment_index": 92, "start": 369.94, "end": 373.1, "text": "så gjorde vi jo en del hjemmelekser i forkant før vi dro,"}
+{"episode_id": 536, "segment_index": 93, "start": 373.1, "end": 376.74, "text": "for å få liksom å skjerpe inn håbnet på å stille direktes spørsmål"}
+{"episode_id": 536, "segment_index": 94, "start": 376.74, "end": 378.82, "text": "og lese opp på selskapene og så videre."}
+{"episode_id": 536, "segment_index": 95, "start": 378.82, "end": 380.82, "text": "Nå er det sånn som vi var litt spent på,"}
+{"episode_id": 536, "segment_index": 96, "start": 380.82, "end": 382.66, "text": "er hvor er vi i denne her fasen,"}
+{"episode_id": 536, "segment_index": 97, "start": 382.66, "end": 386.22, "text": "hvis vi da bruker denne store parpleiebegreppe med A-infrastruktur,"}
+{"episode_id": 536, "segment_index": 98, "start": 386.22, "end": 388.02, "text": "med disse fire bygge og noen under,"}
+{"episode_id": 536, "segment_index": 99, "start": 388.02, "end": 389.46, "text": "så er det hvor er vi i fasen,"}
+{"episode_id": 536, "segment_index": 100, "start": 389.46, "end": 391.9, "text": "og vi bruker veldig ofte S-kurver,"}
+{"episode_id": 536, "segment_index": 101, "start": 391.9, "end": 393.9, "text": "og i en sånn S-kurver da,"}
+{"episode_id": 536, "segment_index": 102, "start": 393.9, "end": 397.78, "text": "så er vi i en sånn fase hvor vi er i den dekstfasen,"}
+{"episode_id": 536, "segment_index": 103, "start": 397.78, "end": 400.54, "text": "og den tror vi kommer til å være frem til år 2030."}
+{"episode_id": 536, "segment_index": 104, "start": 400.54, "end": 402.62, "text": "Det føler jeg at vi har fått bekreftet,"}
+{"episode_id": 536, "segment_index": 105, "start": 402.62, "end": 405.18, "text": "og så må vi jobbe med den bekreftenen som fortløpende,"}
+{"episode_id": 536, "segment_index": 106, "start": 405.18, "end": 410.3, "text": "men da alle ting ble huket med alle disse selskapene vi har samtalt med."}
+{"episode_id": 536, "segment_index": 107, "start": 410.3, "end": 412.46, "text": "Vanvis, når vi huker de disse bevegelsene,"}
+{"episode_id": 536, "segment_index": 108, "start": 412.46, "end": 413.78, "text": "de er rundt på talstallen,"}
+{"episode_id": 536, "segment_index": 109, "start": 413.78, "end": 416.1, "text": "men alle selskapene opptatter seg på guiding og så videre."}
+{"episode_id": 536, "segment_index": 110, "start": 416.1, "end": 419.18, "text": "Men det var veldig fint å få en liten sånn hukkende av,"}
+{"episode_id": 536, "segment_index": 111, "start": 419.22, "end": 421.5, "text": "fordi at nå går vi også inn i den delen av market,"}
+{"episode_id": 536, "segment_index": 112, "start": 421.5, "end": 424.74, "text": "hvor det ofte er litt mer sånn fart og spennende enn kveldig måtte jul."}
+{"episode_id": 536, "segment_index": 113, "start": 424.74, "end": 426.9, "text": "Så det var en veldig viktig sånn bekreftelse"}
+{"episode_id": 536, "segment_index": 114, "start": 426.9, "end": 428.82, "text": "på at man kan sove litt dyroler om natta,"}
+{"episode_id": 536, "segment_index": 115, "start": 428.82, "end": 431.66, "text": "fordi det gjør etter den turen på det område."}
+{"episode_id": 536, "segment_index": 116, "start": 431.66, "end": 434.54, "text": "Og så synes jeg akkurat det vi prater om er sånn med forholdet mellom"}
+{"episode_id": 536, "segment_index": 117, "start": 434.54, "end": 436.06, "text": "trening i inferens."}
+{"episode_id": 536, "segment_index": 118, "start": 436.06, "end": 439.42, "text": "Vi har også fått veldig mange sånn indtrykk av"}
+{"episode_id": 536, "segment_index": 119, "start": 439.42, "end": 444.34, "text": "at det ligger ikke noe sånn naturlige begrensninger på skalering,"}
+{"episode_id": 536, "segment_index": 120, "start": 444.34, "end": 446.78, "text": "verken på hardware siden eller på software siden."}
+{"episode_id": 536, "segment_index": 121, "start": 446.78, "end": 450.86, "text": "Og grunn til at det er viktig er at visst, da er så stor rettespørsjøl"}
+{"episode_id": 536, "segment_index": 122, "start": 450.86, "end": 454.76, "text": "som selskapene indikerer,"}
+{"episode_id": 536, "segment_index": 123, "start": 454.76, "end": 458.36, "text": "så er det ikke noen begrensninger på hvor mye man kan produsere."}
+{"episode_id": 536, "segment_index": 124, "start": 458.36, "end": 460.04, "text": "Det kan ta litt tid."}
+{"episode_id": 536, "segment_index": 125, "start": 460.04, "end": 464.24, "text": "Og så både hardwareen, maskinvaren, er skalærbar,"}
+{"episode_id": 536, "segment_index": 126, "start": 464.24, "end": 465.84, "text": "men det er også software."}
+{"episode_id": 536, "segment_index": 127, "start": 465.84, "end": 467.88, "text": "For den er laget på en arkitektur"}
+{"episode_id": 536, "segment_index": 128, "start": 467.88, "end": 471.48, "text": "som gjør at den skalerer sammen med hardwareen."}
+{"episode_id": 536, "segment_index": 129, "start": 471.48, "end": 473.28, "text": "Så her er det egentlig sånn,"}
+{"episode_id": 536, "segment_index": 130, "start": 473.28, "end": 475.44, "text": "det som er begrensning er sånn, det er en tidsfaktor,"}
+{"episode_id": 536, "segment_index": 131, "start": 475.48, "end": 477.36, "text": "og så er det selvfølgelig kapital."}
+{"episode_id": 536, "segment_index": 132, "start": 477.36, "end": 479.72, "text": "Akkurat nå så er det de store hardware-scaleer"}
+{"episode_id": 536, "segment_index": 133, "start": 479.72, "end": 482.56, "text": "som bruker veldig mye av sin kontanstrøm"}
+{"episode_id": 536, "segment_index": 134, "start": 482.56, "end": 483.92, "text": "til å investere,"}
+{"episode_id": 536, "segment_index": 135, "start": 483.92, "end": 487.6, "text": "og ikke til å betale å utbytte eller øke kassassi."}
+{"episode_id": 536, "segment_index": 136, "start": 487.6, "end": 492.96, "text": "Så det er sånn veldig viktig å ha i bakkode"}
+{"episode_id": 536, "segment_index": 137, "start": 492.96, "end": 497.12, "text": "i forhold til hvor langt dette kan gå."}
+{"episode_id": 536, "segment_index": 138, "start": 497.12, "end": 501.76, "text": "For i mitt indtrykk er det at dette kan ture og gå ganske lenge."}
+{"episode_id": 536, "segment_index": 139, "start": 501.76, "end": 503.16, "text": "Ja, et lite side-stegg da,"}
+{"episode_id": 536, "segment_index": 140, "start": 503.2, "end": 508.32, "text": "for vi går videre på det mer tekniske aspekt rundt dette her."}
+{"episode_id": 536, "segment_index": 141, "start": 508.32, "end": 512.6, "text": "Kombineret med de tingene vi har snakket om i de tidligere episodeen"}
+{"episode_id": 536, "segment_index": 142, "start": 512.6, "end": 514.64, "text": "vi har laget herfra,"}
+{"episode_id": 536, "segment_index": 143, "start": 514.64, "end": 520.76, "text": "så opplever jeg at du er ganske positiv til markedere generelt,"}
+{"episode_id": 536, "segment_index": 144, "start": 520.76, "end": 521.96, "text": "og det som skjer med A1 nå,"}
+{"episode_id": 536, "segment_index": 145, "start": 521.96, "end": 525.36, "text": "at det er legus om du ser grunnert å være optimistisk."}
+{"episode_id": 536, "segment_index": 146, "start": 525.36, "end": 526.92, "text": "Ja, og jeg falter som liten,"}
+{"episode_id": 536, "segment_index": 147, "start": 526.92, "end": 529.6, "text": "så falter jeg opp i en sånn da rullgryte,"}
+{"episode_id": 536, "segment_index": 148, "start": 529.6, "end": 531.64, "text": "så jeg er som regel positiv."}
+{"episode_id": 536, "segment_index": 149, "start": 531.72, "end": 535.8, "text": "Det er det jeg valgte å si, så jeg valgte å gå gjennom livet."}
+{"episode_id": 536, "segment_index": 150, "start": 535.8, "end": 540.28, "text": "Men når vi gjør det som vi sålter mye på,"}
+{"episode_id": 536, "segment_index": 151, "start": 540.28, "end": 546.0, "text": "så synes jeg alle de varablerne og retningene vi putter inn i reinaarketen overre,"}
+{"episode_id": 536, "segment_index": 152, "start": 546.0, "end": 548.0, "text": "de blir bare sterkere."}
+{"episode_id": 536, "segment_index": 153, "start": 548.0, "end": 553.76, "text": "Og så skal vi huske på at det så store capex-programmer eller investeringer,"}
+{"episode_id": 536, "segment_index": 154, "start": 553.76, "end": 556.08, "text": "de blir billere når rettet faller,"}
+{"episode_id": 536, "segment_index": 155, "start": 556.08, "end": 560.24, "text": "og nå er det veldig sannsynlig at vi på onsdag får en rettekutt,"}
+{"episode_id": 536, "segment_index": 156, "start": 560.28, "end": 562.04, "text": "den første av flere,"}
+{"episode_id": 536, "segment_index": 157, "start": 562.04, "end": 565.04, "text": "og pludselig da så opererer vi i en fallende rentepande."}
+{"episode_id": 536, "segment_index": 158, "start": 565.04, "end": 567.36, "text": "Og det gjør vi samtidig som vi er på en all-time high,"}
+{"episode_id": 536, "segment_index": 159, "start": 567.36, "end": 568.88, "text": "så økonomien er bra."}
+{"episode_id": 536, "segment_index": 160, "start": 568.88, "end": 571.08, "text": "Rissusjonsfrugtene har man pratet opp i mange av dere allerede,"}
+{"episode_id": 536, "segment_index": 161, "start": 571.08, "end": 575.16, "text": "men den kommer ikke annonser heller ut som at på grunn av at man gønner på med"}
+{"episode_id": 536, "segment_index": 162, "start": 575.16, "end": 578.12, "text": "offentlige finanser og gi skatteleitet,"}
+{"episode_id": 536, "segment_index": 163, "start": 578.12, "end": 579.48, "text": "og for rentekutt,"}
+{"episode_id": 536, "segment_index": 164, "start": 579.48, "end": 582.2, "text": "så er det en modellmesse."}
+{"episode_id": 536, "segment_index": 165, "start": 582.2, "end": 586.44, "text": "I en økonom sode er det vanskelig å bli veldig bær."}
+{"episode_id": 536, "segment_index": 166, "start": 586.44, "end": 589.32, "text": "Fli at..."}
+{"episode_id": 536, "segment_index": 167, "start": 589.36, "end": 592.28, "text": "Og da kommer en av de største capex-drevernene kommer til å være,"}
+{"episode_id": 536, "segment_index": 168, "start": 592.28, "end": 595.16, "text": "da kommer det til å være disse AI-infrastrukturene,"}
+{"episode_id": 536, "segment_index": 169, "start": 595.16, "end": 599.52, "text": "fordi viss disse styredomene som fortsatt er drevet av frukt,"}
+{"episode_id": 536, "segment_index": 170, "start": 599.52, "end": 601.92, "text": "begynner å se at noen av konkurrentene deres,"}
+{"episode_id": 536, "segment_index": 171, "start": 601.92, "end": 604.2, "text": "om det er i helse eller om det er i finans,"}
+{"episode_id": 536, "segment_index": 172, "start": 604.2, "end": 607.4, "text": "begynner å investere i infrastruktur og software."}
+{"episode_id": 536, "segment_index": 173, "start": 607.4, "end": 611.64, "text": "Det er ikke bare i kjøre sånne store gruppe-opdateringer"}
+{"episode_id": 536, "segment_index": 174, "start": 611.64, "end": 614.28, "text": "på dette og hvordan funker et ordmodell,"}
+{"episode_id": 536, "segment_index": 175, "start": 614.28, "end": 617.08, "text": "men man begynner å ta det inn i virksomheten seg inn."}
+{"episode_id": 536, "segment_index": 176, "start": 617.12, "end": 620.4, "text": "Så vet disse styrene som sitter da i ganske like industrier,"}
+{"episode_id": 536, "segment_index": 177, "start": 620.4, "end": 624.16, "text": "at det her er veldig viktig å ikke miste tid,"}
+{"episode_id": 536, "segment_index": 178, "start": 624.16, "end": 627.42, "text": "og ja, for det er ikke lett til å anbefriere et bedvarende fortrind."}
+{"episode_id": 536, "segment_index": 179, "start": 627.42, "end": 630.3, "text": "Så du kan fortfål i løpet av 2026,"}
+{"episode_id": 536, "segment_index": 180, "start": 630.3, "end": 634.34, "text": "så kan fort være sånn at vi ser at veldig mange av investeringene"}
+{"episode_id": 536, "segment_index": 181, "start": 634.34, "end": 638.42, "text": "nå følges opp av flere industrier."}
+{"episode_id": 536, "segment_index": 182, "start": 643.59, "end": 650.55, "text": "OK, las ta det tilbake til dette med AI-infrastruktur og det universe."}
+{"episode_id": 536, "segment_index": 183, "start": 650.59, "end": 652.63, "text": "Vi vil bare si før vi går videre."}
+{"episode_id": 536, "segment_index": 184, "start": 652.63, "end": 657.79, "text": "Jeg vet at det er en god del av investermiljøet hjemme"}
+{"episode_id": 536, "segment_index": 185, "start": 657.79, "end": 663.19, "text": "som har blitt veldig gode på dette her, i hvert fall deler av space."}
+{"episode_id": 536, "segment_index": 186, "start": 663.19, "end": 666.23, "text": "Også lyst til å trekke fram analytiker i DNB Carnegie,"}
+{"episode_id": 536, "segment_index": 187, "start": 666.23, "end": 671.11, "text": "Kristoffer Bjørnsen, som har kjempegod innsikt på dette området,"}
+{"episode_id": 536, "segment_index": 188, "start": 671.11, "end": 673.63, "text": "hva som skjer med teknologien."}
+{"episode_id": 536, "segment_index": 189, "start": 673.63, "end": 676.95, "text": "Det er mange som er gode på dette allerede,"}
+{"episode_id": 536, "segment_index": 190, "start": 676.95, "end": 678.31, "text": "men som vi har snakket om,"}
+{"episode_id": 536, "segment_index": 191, "start": 678.35, "end": 681.27, "text": "det er noe man definitivt bare har en forståelse for,"}
+{"episode_id": 536, "segment_index": 192, "start": 681.27, "end": 683.43, "text": "som en generalist-investor,"}
+{"episode_id": 536, "segment_index": 193, "start": 683.43, "end": 687.95, "text": "men også som leder i et selskap-auden."}
+{"episode_id": 536, "segment_index": 194, "start": 687.95, "end": 690.19, "text": "Også tenker jeg for dere som hører på dette her"}
+{"episode_id": 536, "segment_index": 195, "start": 690.19, "end": 695.31, "text": "og jobber med teknologien selv og kan dette her mye bedre enn oss,"}
+{"episode_id": 536, "segment_index": 196, "start": 695.31, "end": 697.71, "text": "så tenker jeg det kan også være nyttig for dere"}
+{"episode_id": 536, "segment_index": 197, "start": 697.71, "end": 701.55, "text": "å forstå hvordan investorer tenker rundt."}
+{"episode_id": 536, "segment_index": 198, "start": 701.55, "end": 705.95, "text": "Det er en god grunn da til å litt videre, det var egentlig hva det er i refernten til."}
+{"episode_id": 536, "segment_index": 199, "start": 705.95, "end": 707.95, "text": "Men du snakket jo om det,"}
+{"episode_id": 536, "segment_index": 200, "start": 707.95, "end": 712.43, "text": "jeg tenker du kan prøve å legge litt mer rundt her."}
+{"episode_id": 536, "segment_index": 201, "start": 712.43, "end": 716.07, "text": "Det er noen viktig definisjoner i form av maskinvare,"}
+{"episode_id": 536, "segment_index": 202, "start": 716.07, "end": 719.51, "text": "det er data, det er lagring, programvare og nettverk,"}
+{"episode_id": 536, "segment_index": 203, "start": 719.51, "end": 722.31, "text": "så setter du litt mer inn i kontekst,"}
+{"episode_id": 536, "segment_index": 204, "start": 722.31, "end": 724.39, "text": "gi oss noen flere eksempler."}
+{"episode_id": 536, "segment_index": 205, "start": 724.39, "end": 725.95, "text": "Ja, og det er jo,"}
+{"episode_id": 536, "segment_index": 206, "start": 725.95, "end": 728.87, "text": "hvis du tar noen av de selskapene som vi møtte da,"}
+{"episode_id": 536, "segment_index": 207, "start": 728.87, "end": 730.95, "text": "så er det jo sånn som Microsoft,"}
+{"episode_id": 536, "segment_index": 208, "start": 730.95, "end": 733.11, "text": "den faller veldig fint inn for denne bygdklassen"}
+{"episode_id": 536, "segment_index": 209, "start": 733.11, "end": 735.75, "text": "som da med Clouding og Netto gjør det."}
+{"episode_id": 536, "segment_index": 210, "start": 735.75, "end": 739.55, "text": "Og Microsoft har en veldig stor investering her nå."}
+{"episode_id": 536, "segment_index": 211, "start": 739.55, "end": 741.87, "text": "Broadcom som er sånn selskap som vi møtte,"}
+{"episode_id": 536, "segment_index": 212, "start": 741.87, "end": 744.07, "text": "de producerer sånn halvledere,"}
+{"episode_id": 536, "segment_index": 213, "start": 744.07, "end": 748.99, "text": "og er veldig gode på å lage sånn en spesial lagdesign-skipper,"}
+{"episode_id": 536, "segment_index": 214, "start": 748.99, "end": 751.87, "text": "så de passer veldig godt inn i maskinvare i biten."}
+{"episode_id": 536, "segment_index": 215, "start": 751.87, "end": 756.19, "text": "Og et veldig spennende selskap som kanskje kan gått kjent"}
+{"episode_id": 536, "segment_index": 216, "start": 756.19, "end": 757.51, "text": "mens man har tidsigate,"}
+{"episode_id": 536, "segment_index": 217, "start": 757.51, "end": 759.67, "text": "de håper med data og lagring."}
+{"episode_id": 536, "segment_index": 218, "start": 759.67, "end": 762.95, "text": "Våre veldig gode kollegaer og flinke kollegaer i Mb-tekneologi,"}
+{"episode_id": 536, "segment_index": 219, "start": 762.99, "end": 766.03, "text": "for eksempel de har mye fokus på lagring,"}
+{"episode_id": 536, "segment_index": 220, "start": 766.03, "end": 769.95, "text": "og det tror jeg både har vært bra og bliv bra."}
+{"episode_id": 536, "segment_index": 221, "start": 769.95, "end": 775.51, "text": "For det er jo AI-trening har trengt massivt med data-lagring,"}
+{"episode_id": 536, "segment_index": 222, "start": 775.51, "end": 776.39, "text": "sånn jeg forståtte,"}
+{"episode_id": 536, "segment_index": 223, "start": 776.39, "end": 779.59, "text": "men de signaliserer til oss at"}
+{"episode_id": 536, "segment_index": 224, "start": 779.59, "end": 781.51, "text": "de oppmuntriter av det som skjer inn"}
+{"episode_id": 536, "segment_index": 225, "start": 781.51, "end": 785.35, "text": "vekkstihom typet AI-generert videoer, ikke sant?"}
+{"episode_id": 536, "segment_index": 226, "start": 785.35, "end": 786.47, "text": "Ja, ikke sant?"}
+{"episode_id": 536, "segment_index": 227, "start": 786.47, "end": 790.31, "text": "Og det er så viss for alle de som håper med lagring,"}
+{"episode_id": 536, "segment_index": 228, "start": 790.31, "end": 793.19, "text": "så er det jo klart at jo mer du kan få på video,"}
+{"episode_id": 536, "segment_index": 229, "start": 793.19, "end": 794.63, "text": "jo, bedre er det."}
+{"episode_id": 536, "segment_index": 230, "start": 794.63, "end": 798.35, "text": "Men jeg synes det var morsomt bare for SIG-gate,"}
+{"episode_id": 536, "segment_index": 231, "start": 798.35, "end": 800.75, "text": "jeg er ikke sikker at så mange har et forhold til det,"}
+{"episode_id": 536, "segment_index": 232, "start": 800.75, "end": 802.71, "text": "jeg hadde ikke det før jeg kom ned dit,"}
+{"episode_id": 536, "segment_index": 233, "start": 802.71, "end": 805.55, "text": "men jeg synes de sa det veldig bra når vi møtte de,"}
+{"episode_id": 536, "segment_index": 234, "start": 805.55, "end": 806.63, "text": "de sa,"}
+{"episode_id": 536, "segment_index": 235, "start": 806.63, "end": 810.07, "text": "vi er arbeidstesten i datacenterne."}
+{"episode_id": 536, "segment_index": 236, "start": 810.07, "end": 810.59, "text": "Satt?"}
+{"episode_id": 536, "segment_index": 237, "start": 810.59, "end": 813.19, "text": "Ja, og det er noe flere som kan si det,"}
+{"episode_id": 536, "segment_index": 238, "start": 813.19, "end": 815.87, "text": "men det som er morsomt med SIG-gate er at"}
+{"episode_id": 536, "segment_index": 239, "start": 815.87, "end": 818.39, "text": "og den biten av industrien er at"}
+{"episode_id": 536, "segment_index": 240, "start": 818.43, "end": 820.11, "text": "den er litt overshett."}
+{"episode_id": 536, "segment_index": 241, "start": 820.11, "end": 823.71, "text": "Og da er det litt tilbake enn på hvordan vi pratte med innensvis,"}
+{"episode_id": 536, "segment_index": 242, "start": 823.71, "end": 825.95, "text": "at vi kommer til å se det neste fem måneder,"}
+{"episode_id": 536, "segment_index": 243, "start": 825.95, "end": 828.91, "text": "at fokuset kommer til å bevege seg litt mellom"}
+{"episode_id": 536, "segment_index": 244, "start": 828.91, "end": 830.03, "text": "disse ulike byggklassen,"}
+{"episode_id": 536, "segment_index": 245, "start": 830.03, "end": 832.75, "text": "som får en premium-prising og som er litt ut og så videre,"}
+{"episode_id": 536, "segment_index": 246, "start": 832.75, "end": 834.87, "text": "merket er litt rart på den måten her,"}
+{"episode_id": 536, "segment_index": 247, "start": 834.87, "end": 837.99, "text": "at det er noe sånn trender og sånt typig ting."}
+{"episode_id": 536, "segment_index": 248, "start": 837.99, "end": 840.23, "text": "Så at lagring kan bli,"}
+{"episode_id": 536, "segment_index": 249, "start": 840.23, "end": 842.47, "text": "nå har jeg lagring hatt en veldig hyggelig høst,"}
+{"episode_id": 536, "segment_index": 250, "start": 842.47, "end": 846.5, "text": "men det er ikke noe grunn at det skal stoppe opp noe enda viss,"}
+{"episode_id": 536, "segment_index": 251, "start": 846.54, "end": 849.14, "text": "fordi at fundamentale er så sterk."}
+{"episode_id": 536, "segment_index": 252, "start": 849.94, "end": 852.78, "text": "Så så var det sånn, når vi møtte Fidger,"}
+{"episode_id": 536, "segment_index": 253, "start": 853.3, "end": 856.66, "text": "så er det typisk noen som lever ute i denne,"}
+{"episode_id": 536, "segment_index": 254, "start": 856.66, "end": 858.34, "text": "det vi da så finner kallet Edgson,"}
+{"episode_id": 536, "segment_index": 255, "start": 858.34, "end": 860.98, "text": "som noe som er i motsenter, at det er du er på en servo,"}
+{"episode_id": 536, "segment_index": 256, "start": 860.98, "end": 863.78, "text": "men det er det som det er ute i en virkelig verden"}
+{"episode_id": 536, "segment_index": 257, "start": 863.78, "end": 864.98, "text": "og utenfor et servo."}
+{"episode_id": 536, "segment_index": 258, "start": 864.98, "end": 868.02, "text": "Fidger er det selskapet som lager humanoids,"}
+{"episode_id": 536, "segment_index": 259, "start": 868.02, "end": 871.46, "text": "altså menske roboter som skal ut og jobbe på fabrikker"}
+{"episode_id": 536, "segment_index": 260, "start": 871.46, "end": 872.82, "text": "og hjemme etter hvert."}
+{"episode_id": 536, "segment_index": 261, "start": 872.82, "end": 874.22, "text": "Ja, og vi så jo,"}
+{"episode_id": 536, "segment_index": 262, "start": 874.26, "end": 876.86, "text": "vi fikk jo låt å se litt inn i seg også"}
+{"episode_id": 536, "segment_index": 263, "start": 876.86, "end": 880.14, "text": "og se at det er utrolig mye sånn der ledninger"}
+{"episode_id": 536, "segment_index": 264, "start": 880.14, "end": 882.38, "text": "og grønne kretskart."}
+{"episode_id": 536, "segment_index": 265, "start": 883.18, "end": 885.1, "text": "Også litt tilbake til lagring,"}
+{"episode_id": 536, "segment_index": 266, "start": 885.1, "end": 888.22, "text": "lagringer som lagerer kanskje litt mer som microen,"}
+{"episode_id": 536, "segment_index": 267, "start": 888.22, "end": 892.3, "text": "men de som lagerer minnebrikkende"}
+{"episode_id": 536, "segment_index": 268, "start": 892.3, "end": 893.74, "text": "som skal inn i humanoidsen,"}
+{"episode_id": 536, "segment_index": 269, "start": 893.74, "end": 896.14, "text": "kommer også til å ha sånn fantastisk volemarked"}
+{"episode_id": 536, "segment_index": 270, "start": 896.14, "end": 897.62, "text": "om når vi setter lykkhus."}
+{"episode_id": 536, "segment_index": 271, "start": 898.18, "end": 899.66, "text": "Og igjen, disse humanoidsene,"}
+{"episode_id": 536, "segment_index": 272, "start": 899.66, "end": 901.66, "text": "de blir jo trendt i den delen av infrastruktur"}
+{"episode_id": 536, "segment_index": 273, "start": 901.66, "end": 903.5, "text": "som vi prøvde om tidligere i samarbeid"}
+{"episode_id": 536, "segment_index": 274, "start": 903.5, "end": 906.3, "text": "mellom hardware- og software."}
+{"episode_id": 536, "segment_index": 275, "start": 906.86, "end": 909.42, "text": "Og de lagerer kanskje på sige ting"}
+{"episode_id": 536, "segment_index": 276, "start": 909.42, "end": 911.86, "text": "og så blir dataen transportert"}
+{"episode_id": 536, "segment_index": 277, "start": 911.86, "end": 915.3, "text": "gjennom sikkert en sånn skylløsning til Microsoft."}
+{"episode_id": 536, "segment_index": 278, "start": 915.78, "end": 917.22, "text": "Så disse tingene henger sammen,"}
+{"episode_id": 536, "segment_index": 279, "start": 917.22, "end": 919.94, "text": "men derfor kommer disse fire juleene"}
+{"episode_id": 536, "segment_index": 280, "start": 919.94, "end": 922.86, "text": "de kommer til å drive og trekke og dra."}
+{"episode_id": 536, "segment_index": 281, "start": 922.86, "end": 924.14, "text": "Når den ena er litt sliten,"}
+{"episode_id": 536, "segment_index": 282, "start": 924.14, "end": 926.5, "text": "så blir den nesten sånn når vi"}
+{"episode_id": 536, "segment_index": 283, "start": 926.5, "end": 927.38, "text": "cykler av gamle nager,"}
+{"episode_id": 536, "segment_index": 284, "start": 927.38, "end": 929.02, "text": "at det var noen som var foran av drolet."}
+{"episode_id": 536, "segment_index": 285, "start": 929.5, "end": 931.66, "text": "Så hvis du tenker på disse fire byggelåsen"}
+{"episode_id": 536, "segment_index": 286, "start": 931.66, "end": 932.46, "text": "som fire rytter,"}
+{"episode_id": 536, "segment_index": 287, "start": 932.46, "end": 934.02, "text": "så har du den der"}
+{"episode_id": 536, "segment_index": 288, "start": 934.02, "end": 937.06, "text": "at de kan dra opp og nå er de mest fokus på oss"}
+{"episode_id": 536, "segment_index": 289, "start": 937.06, "end": 938.86, "text": "og nå drar vi lastet litt videre"}
+{"episode_id": 536, "segment_index": 290, "start": 938.86, "end": 940.7, "text": "på å ta redd på fællesskapet."}
+{"episode_id": 536, "segment_index": 291, "start": 941.26, "end": 943.78, "text": "Så det er veldig viktig å prøve å danne seg"}
+{"episode_id": 536, "segment_index": 292, "start": 943.78, "end": 945.14, "text": "et bilde av"}
+{"episode_id": 536, "segment_index": 293, "start": 946.34, "end": 949.38, "text": "hvordan disse sammenhengene er mellom det."}
+{"episode_id": 536, "segment_index": 294, "start": 949.86, "end": 952.02, "text": "Og i SUM blir det sånn at alle fleste"}
+{"episode_id": 536, "segment_index": 295, "start": 952.02, "end": 953.58, "text": "bruker hverandre på en eller annen måte."}
+{"episode_id": 536, "segment_index": 296, "start": 954.86, "end": 956.46, "text": "Man tenker veldig ofte på disse selskapene"}
+{"episode_id": 536, "segment_index": 297, "start": 956.46, "end": 957.3, "text": "som store konkurrenter,"}
+{"episode_id": 536, "segment_index": 298, "start": 957.34, "end": 959.54, "text": "og det er jo klart det samarbeider enormt mye også."}
+{"episode_id": 536, "segment_index": 299, "start": 959.94, "end": 961.58, "text": "De gjør det da på sånn typen nivå"}
+{"episode_id": 536, "segment_index": 300, "start": 961.58, "end": 963.26, "text": "som vi vel tidligere har vært inne på"}
+{"episode_id": 536, "segment_index": 301, "start": 963.26, "end": 964.94, "text": "dette med administrationen i USA"}
+{"episode_id": 536, "segment_index": 302, "start": 964.94, "end": 966.1, "text": "som jeg veldig lydde hør."}
+{"episode_id": 536, "segment_index": 303, "start": 967.1, "end": 969.98, "text": "En video har jo vært på sånn stegningsferie i Europa"}
+{"episode_id": 536, "segment_index": 304, "start": 971.3, "end": 973.3, "text": "og blitt plukket ut av Møsk"}
+{"episode_id": 536, "segment_index": 305, "start": 973.7, "end": 976.62, "text": "til og representerer USA i flere sammenhenger."}
+{"episode_id": 536, "segment_index": 306, "start": 976.62, "end": 978.46, "text": "Du var så vite inne på disse, det er du,"}
+{"episode_id": 536, "segment_index": 307, "start": 978.46, "end": 981.14, "text": "men to viktige ord"}
+{"episode_id": 536, "segment_index": 308, "start": 981.14, "end": 984.62, "text": "som har gitt meg en haplævelse på tur"}
+{"episode_id": 536, "segment_index": 309, "start": 984.62, "end": 987.14, "text": "etter som jeg ikke kunne veldig mye om dette før jeg dro,"}
+{"episode_id": 536, "segment_index": 310, "start": 987.14, "end": 990.86, "text": "det er trening og inferens."}
+{"episode_id": 536, "segment_index": 311, "start": 990.86, "end": 993.98, "text": "Så hanke, du kort er du den forklare oss"}
+{"episode_id": 536, "segment_index": 312, "start": 993.98, "end": 996.78, "text": "hva som ligger i disse to ordene"}
+{"episode_id": 536, "segment_index": 313, "start": 996.78, "end": 999.18, "text": "når vi tenker på AI-infrastruktur"}
+{"episode_id": 536, "segment_index": 314, "start": 999.18, "end": 1001.98, "text": "og hovutforseln mellom trening og inferens."}
+{"episode_id": 536, "segment_index": 315, "start": 1001.98, "end": 1004.18, "text": "Ja, jeg kan i hvert fall gi det et sånt reelt forsak."}
+{"episode_id": 536, "segment_index": 316, "start": 1004.18, "end": 1005.78, "text": "Når vi prater om trening,"}
+{"episode_id": 536, "segment_index": 317, "start": 1005.78, "end": 1009.14, "text": "så er det den fasen der hvor en AI-modell"}
+{"episode_id": 536, "segment_index": 318, "start": 1009.14, "end": 1010.98, "text": "den læres opp fra grunn av"}
+{"episode_id": 536, "segment_index": 319, "start": 1010.98, "end": 1013.06, "text": "og så blir den justert"}
+{"episode_id": 536, "segment_index": 320, "start": 1013.06, "end": 1015.06, "text": "for å prosesere veldig store menger i data."}
+{"episode_id": 536, "segment_index": 321, "start": 1015.22, "end": 1016.26, "text": "Så du har en model"}
+{"episode_id": 536, "segment_index": 322, "start": 1016.26, "end": 1021.82, "text": "og den blir styrt av det vi kaller parameter eller vekter"}
+{"episode_id": 536, "segment_index": 323, "start": 1021.82, "end": 1023.78, "text": "gjennom algoritmer."}
+{"episode_id": 536, "segment_index": 324, "start": 1023.78, "end": 1027.46, "text": "Så dette er det masse tall"}
+{"episode_id": 536, "segment_index": 325, "start": 1027.46, "end": 1031.37, "text": "som kjører samme med etter hvert veldig mye tekst."}
+{"episode_id": 536, "segment_index": 326, "start": 1031.37, "end": 1034.93, "text": "Og grunnen til at man pludselig ble sånn at"}
+{"episode_id": 536, "segment_index": 327, "start": 1034.93, "end": 1035.93, "text": "en video var den store,"}
+{"episode_id": 536, "segment_index": 328, "start": 1035.93, "end": 1040.01, "text": "var at en video har vært veldig gode på GPU-er"}
+{"episode_id": 536, "segment_index": 329, "start": 1040.01, "end": 1044.13, "text": "og det er egentlig en sånn chip som er lagt for grafik."}
+{"episode_id": 536, "segment_index": 330, "start": 1044.29, "end": 1049.69, "text": "Men de er den som har så stor beregningskraft"}
+{"episode_id": 536, "segment_index": 331, "start": 1049.69, "end": 1053.45, "text": "at den klarer å kjøre igjen om disse prosessene."}
+{"episode_id": 536, "segment_index": 332, "start": 1053.45, "end": 1057.89, "text": "Så hvis du trener en språkmodell som GPT"}
+{"episode_id": 536, "segment_index": 333, "start": 1057.89, "end": 1062.85, "text": "så er det på miljarder av tekster for å forstå det språket."}
+{"episode_id": 536, "segment_index": 334, "start": 1062.85, "end": 1064.57, "text": "Og alt dette proseseres,"}
+{"episode_id": 536, "segment_index": 335, "start": 1064.57, "end": 1066.45, "text": "det styrer så det vektes."}
+{"episode_id": 536, "segment_index": 336, "start": 1066.45, "end": 1069.21, "text": "Så den treningen, det er så for at noen kommer til å pågå."}
+{"episode_id": 536, "segment_index": 337, "start": 1069.21, "end": 1071.69, "text": "Helt sikkert i mange år framover."}
+{"episode_id": 536, "segment_index": 338, "start": 1071.69, "end": 1073.73, "text": "Men det vi grader ser etter hvert som disse modelene"}
+{"episode_id": 536, "segment_index": 339, "start": 1073.77, "end": 1076.4, "text": "blir så store og bra,"}
+{"episode_id": 536, "segment_index": 340, "start": 1076.4, "end": 1079.32, "text": "så skader du ut i dag og i mei."}
+{"episode_id": 536, "segment_index": 341, "start": 1079.32, "end": 1082.32, "text": "Og da prater vi heller om inference."}
+{"episode_id": 536, "segment_index": 342, "start": 1082.32, "end": 1085.84, "text": "Fordi den falsen der hvor de ferdige trendte modelene"}
+{"episode_id": 536, "segment_index": 343, "start": 1085.84, "end": 1090.0, "text": "brukes i praksis til å gjøre de tingene"}
+{"episode_id": 536, "segment_index": 344, "start": 1090.0, "end": 1094.8, "text": "som enten du bør nå må gjøre i Numerloids"}
+{"episode_id": 536, "segment_index": 345, "start": 1094.8, "end": 1098.0, "text": "eller i forhold til en tekst eller en videofil."}
+{"episode_id": 536, "segment_index": 346, "start": 1098.0, "end": 1101.0, "text": "Men disse er da mye raske."}
+{"episode_id": 536, "segment_index": 347, "start": 1101.0, "end": 1103.2, "text": "Her er det mye viktere at den er rask"}
+{"episode_id": 536, "segment_index": 348, "start": 1103.2, "end": 1104.44, "text": "når du gjør den."}
+{"episode_id": 536, "segment_index": 349, "start": 1104.44, "end": 1106.64, "text": "Og den er mye mindre surskrevende"}
+{"episode_id": 536, "segment_index": 350, "start": 1106.64, "end": 1109.88, "text": "fordi det er blitt en liten mikromodell av den store treningsmodellen."}
+{"episode_id": 536, "segment_index": 351, "start": 1109.88, "end": 1112.36, "text": "Så den er også mer skallerbar."}
+{"episode_id": 536, "segment_index": 352, "start": 1112.36, "end": 1116.0, "text": "Ja, i det her forstående at du typisk"}
+{"episode_id": 536, "segment_index": 353, "start": 1116.0, "end": 1118.0, "text": "når du trener en sånn model"}
+{"episode_id": 536, "segment_index": 354, "start": 1118.0, "end": 1120.6, "text": "når du blir overført til hardwaren"}
+{"episode_id": 536, "segment_index": 355, "start": 1120.6, "end": 1123.0, "text": "på den dupperdingsen som du bruker på"}
+{"episode_id": 536, "segment_index": 356, "start": 1123.0, "end": 1126.0, "text": "så er det veldig ofte at da kommer den som en sånn ryd, dondelig fil"}
+{"episode_id": 536, "segment_index": 357, "start": 1126.0, "end": 1129.12, "text": "som gjør at du kan pakke den ordentlig godt."}
+{"episode_id": 536, "segment_index": 358, "start": 1129.12, "end": 1132.72, "text": "Det varierer litt, men det er nok mye av det som ofte skjer."}
+{"episode_id": 536, "segment_index": 359, "start": 1132.76, "end": 1136.16, "text": "Men trening bygger kunnskap, inference anvender kunnskap."}
+{"episode_id": 536, "segment_index": 360, "start": 1136.16, "end": 1139.56, "text": "Ja, jeg synes det var egentlig så fint kunne jeg sagt det."}
+{"episode_id": 536, "segment_index": 361, "start": 1139.56, "end": 1143.68, "text": "Ja, jeg tror jeg har letet noe tat du har skrevet."}
+{"episode_id": 536, "segment_index": 362, "start": 1143.68, "end": 1147.08, "text": "Men så blir det egentlig viktere spørsmålet her da."}
+{"episode_id": 536, "segment_index": 363, "start": 1147.08, "end": 1150.35, "text": "Det er hva skjer fremover?"}
+{"episode_id": 536, "segment_index": 364, "start": 1150.35, "end": 1155.39, "text": "Og her er vel du i den kampene du som tror at inference"}
+{"episode_id": 536, "segment_index": 365, "start": 1155.39, "end": 1158.19, "text": "blir viktere fremover."}
+{"episode_id": 536, "segment_index": 366, "start": 1158.19, "end": 1161.87, "text": "Så hva tilsier det hvorfor?"}
+{"episode_id": 536, "segment_index": 367, "start": 1161.91, "end": 1166.79, "text": "Det er mer det at når vi ser på en del av de andre"}
+{"episode_id": 536, "segment_index": 368, "start": 1166.79, "end": 1169.55, "text": "kaldde investerskategorierne som vi ser på"}
+{"episode_id": 536, "segment_index": 369, "start": 1169.55, "end": 1172.87, "text": "som er droner og selvkjørende biler"}
+{"episode_id": 536, "segment_index": 370, "start": 1172.87, "end": 1176.07, "text": "det trøkker osv. en del de tingene som"}
+{"episode_id": 536, "segment_index": 371, "start": 1176.07, "end": 1178.91, "text": "også kommer til å bli selvkjørende"}
+{"episode_id": 536, "segment_index": 372, "start": 1178.91, "end": 1183.91, "text": "og også kommer til å ha ganske avanguserte digitala agenter inn i seg."}
+{"episode_id": 536, "segment_index": 373, "start": 1183.91, "end": 1190.19, "text": "Veldig mange av de har fått veldig god hjelp av utviklingen på AE"}
+{"episode_id": 536, "segment_index": 374, "start": 1190.23, "end": 1195.03, "text": "fordi de har også fått utviklet sine prosjekter enda raskerere"}
+{"episode_id": 536, "segment_index": 375, "start": 1195.03, "end": 1198.71, "text": "fordi de har fått tilgang på mer datakraft."}
+{"episode_id": 536, "segment_index": 376, "start": 1198.71, "end": 1201.83, "text": "Veldig mange av de er nå sånn der hvor de beveger seg ut"}
+{"episode_id": 536, "segment_index": 377, "start": 1201.83, "end": 1205.47, "text": "fra en sånn laborator eller pilotproduksjon"}
+{"episode_id": 536, "segment_index": 378, "start": 1205.47, "end": 1207.71, "text": "og over i tidlig skalering."}
+{"episode_id": 536, "segment_index": 379, "start": 1207.71, "end": 1209.23, "text": "Så det vil si at det"}
+{"episode_id": 536, "segment_index": 380, "start": 1209.23, "end": 1211.71, "text": "veldig mange av de selskapene kommer til"}
+{"episode_id": 536, "segment_index": 381, "start": 1211.71, "end": 1215.31, "text": "nå å være veldig opptatt av inference."}
+{"episode_id": 536, "segment_index": 382, "start": 1215.31, "end": 1219.63, "text": "De kommer til å investere og eventuelt legge en større og større ordre"}
+{"episode_id": 536, "segment_index": 383, "start": 1219.67, "end": 1224.11, "text": "på de producentene som har mikroprocesjon,"}
+{"episode_id": 536, "segment_index": 384, "start": 1224.11, "end": 1226.07, "text": "med bra processjonkraft."}
+{"episode_id": 536, "segment_index": 385, "start": 1226.07, "end": 1232.83, "text": "Det er en ganske annen del av denne litt bred valisjeden"}
+{"episode_id": 536, "segment_index": 386, "start": 1232.83, "end": 1235.15, "text": "enn det er hvis du skal lage"}
+{"episode_id": 536, "segment_index": 387, "start": 1235.15, "end": 1238.27, "text": "vånt kraftigere og mange datacentret"}
+{"episode_id": 536, "segment_index": 388, "start": 1238.27, "end": 1242.27, "text": "så er det mye mer inn i en sånn verden"}
+{"episode_id": 536, "segment_index": 389, "start": 1242.27, "end": 1245.95, "text": "som en videoer i AMD bor i."}
+{"episode_id": 536, "segment_index": 390, "start": 1245.95, "end": 1249.07, "text": "De som er litt i beggekampen er sånn som blodekomm"}
+{"episode_id": 536, "segment_index": 391, "start": 1249.07, "end": 1250.59, "text": "og tar med en semiconductor"}
+{"episode_id": 536, "segment_index": 392, "start": 1250.59, "end": 1253.59, "text": "som leverer til både inference-kippe"}
+{"episode_id": 536, "segment_index": 393, "start": 1253.59, "end": 1256.51, "text": "men også til andre aktører."}
+{"episode_id": 536, "segment_index": 394, "start": 1256.51, "end": 1259.03, "text": "Så er den inference"}
+{"episode_id": 536, "segment_index": 395, "start": 1259.03, "end": 1262.19, "text": "det er det mulig å se forstalt bli rikkant mer kritisk"}
+{"episode_id": 536, "segment_index": 396, "start": 1262.19, "end": 1264.03, "text": "for kommersielle verdier"}
+{"episode_id": 536, "segment_index": 397, "start": 1264.03, "end": 1266.71, "text": "mens treningen blir mer effektiv"}
+{"episode_id": 536, "segment_index": 398, "start": 1266.71, "end": 1268.39, "text": "men kanskje også mindre dominerende."}
+{"episode_id": 536, "segment_index": 399, "start": 1268.39, "end": 1271.07, "text": "Men poenget er at dette er inferencemarkedet"}
+{"episode_id": 536, "segment_index": 400, "start": 1271.07, "end": 1274.39, "text": "det har man ganske realistiske forvintninger"}
+{"episode_id": 536, "segment_index": 401, "start": 1274.39, "end": 1278.95, "text": "om man skal vokse ganske betydelig frem mot 20-30."}
+{"episode_id": 536, "segment_index": 402, "start": 1278.95, "end": 1283.03, "text": "I San Francisco møtte vi to selskaper"}
+{"episode_id": 536, "segment_index": 403, "start": 1283.03, "end": 1285.63, "text": "D Matrix og NAPA Tech"}
+{"episode_id": 536, "segment_index": 404, "start": 1285.63, "end": 1287.47, "text": "siste nemte vet nok mange av lytterne"}
+{"episode_id": 536, "segment_index": 405, "start": 1287.47, "end": 1289.79, "text": "at det er notert på Oslo Børs"}
+{"episode_id": 536, "segment_index": 406, "start": 1289.79, "end": 1292.87, "text": "og dette er jo eksempler på selskaper som"}
+{"episode_id": 536, "segment_index": 407, "start": 1292.87, "end": 1297.19, "text": "utfordrer AI-infrastruktur selskapene med nye løsninger"}
+{"episode_id": 536, "segment_index": 408, "start": 1297.19, "end": 1299.83, "text": "og som posisjonerer seg for å ta"}
+{"episode_id": 536, "segment_index": 409, "start": 1299.83, "end": 1302.79, "text": "sin del av dette markedet."}
+{"episode_id": 536, "segment_index": 410, "start": 1302.79, "end": 1306.83, "text": "Så forklarer vi utgangspunkt i D Matrix"}
+{"episode_id": 536, "segment_index": 411, "start": 1306.87, "end": 1309.47, "text": "men også NAPA Tech"}
+{"episode_id": 536, "segment_index": 412, "start": 1309.47, "end": 1312.27, "text": "Hvordan kommer de inn i dette billede"}
+{"episode_id": 536, "segment_index": 413, "start": 1312.27, "end": 1314.03, "text": "for det blir en reelt eksempel?"}
+{"episode_id": 536, "segment_index": 414, "start": 1314.03, "end": 1316.71, "text": "Ja, og D Matrix er et amerikansk selskap"}
+{"episode_id": 536, "segment_index": 415, "start": 1316.71, "end": 1319.51, "text": "som blir siftet tilbake inn i 2019"}
+{"episode_id": 536, "segment_index": 416, "start": 1319.51, "end": 1321.27, "text": "de er de lager"}
+{"episode_id": 536, "segment_index": 417, "start": 1321.27, "end": 1323.39, "text": "og som forsovet ikke er helt kommersiellt"}
+{"episode_id": 536, "segment_index": 418, "start": 1323.39, "end": 1325.71, "text": "enda de har en del delanseringer"}
+{"episode_id": 536, "segment_index": 419, "start": 1325.71, "end": 1326.47, "text": "den høsten her"}
+{"episode_id": 536, "segment_index": 420, "start": 1326.47, "end": 1328.99, "text": "og så tror jeg det kommersielle sluttprodukte"}
+{"episode_id": 536, "segment_index": 421, "start": 1328.99, "end": 1331.39, "text": "det er ferdig i ferskortall"}
+{"episode_id": 536, "segment_index": 422, "start": 1331.39, "end": 1334.07, "text": "men de har jobbet i veldig mange år med dette produktet"}
+{"episode_id": 536, "segment_index": 423, "start": 1334.11, "end": 1337.95, "text": "og det de sier er at dette er en veldig effektiv datanplattform"}
+{"episode_id": 536, "segment_index": 424, "start": 1337.95, "end": 1340.35, "text": "med spesielt info-inferience"}
+{"episode_id": 536, "segment_index": 425, "start": 1340.35, "end": 1343.07, "text": "og det knyttet til hovedprodukte deres"}
+{"episode_id": 536, "segment_index": 426, "start": 1343.07, "end": 1346.63, "text": "hver en chipsplatte som vi sa"}
+{"episode_id": 536, "segment_index": 427, "start": 1346.63, "end": 1349.07, "text": "heter Kursair"}
+{"episode_id": 536, "segment_index": 428, "start": 1349.07, "end": 1351.91, "text": "og den integrerer minne"}
+{"episode_id": 536, "segment_index": 429, "start": 1351.91, "end": 1356.55, "text": "og prosesskippen i én brikke"}
+{"episode_id": 536, "segment_index": 430, "start": 1356.55, "end": 1360.11, "text": "og de har de da gjort på en så effektiv måte"}
+{"episode_id": 536, "segment_index": 431, "start": 1360.11, "end": 1363.55, "text": "som gjør at de hevder at dette er veldig få andre som kan gjøre"}
+{"episode_id": 536, "segment_index": 432, "start": 1363.59, "end": 1365.87, "text": "det de da tar med seg i mappassiden"}
+{"episode_id": 536, "segment_index": 433, "start": 1365.87, "end": 1368.47, "text": "er utenfor å selge dette til sånn type"}
+{"episode_id": 536, "segment_index": 434, "start": 1368.47, "end": 1371.55, "text": "Microsoft som er de er i 20% av selskapet"}
+{"episode_id": 536, "segment_index": 435, "start": 1371.55, "end": 1374.23, "text": "så de har noe kjikke til ganske godt rekorden"}
+{"episode_id": 536, "segment_index": 436, "start": 1374.23, "end": 1376.23, "text": "og sikkert rullet på til Unoveis"}
+{"episode_id": 536, "segment_index": 437, "start": 1376.23, "end": 1377.71, "text": "men grunn til at Microsoft"}
+{"episode_id": 536, "segment_index": 438, "start": 1377.71, "end": 1380.19, "text": "på en sånn stand-alone investeringsproskjutning"}
+{"episode_id": 536, "segment_index": 439, "start": 1380.19, "end": 1381.99, "text": "skulle velge å kjøpe fra de"}
+{"episode_id": 536, "segment_index": 440, "start": 1381.99, "end": 1386.34, "text": "så vil det være fordi at dette da er ganske energieffektivt"}
+{"episode_id": 536, "segment_index": 441, "start": 1386.34, "end": 1387.78, "text": "og dette blir billigere"}
+{"episode_id": 536, "segment_index": 442, "start": 1387.78, "end": 1390.3, "text": "de bruker billigere komponenter"}
+{"episode_id": 536, "segment_index": 443, "start": 1390.3, "end": 1392.14, "text": "og de hevder at de blir rask"}
+{"episode_id": 536, "segment_index": 444, "start": 1392.22, "end": 1398.66, "text": "og NapaTec har et samarbeid med De Matrix"}
+{"episode_id": 536, "segment_index": 445, "start": 1398.66, "end": 1400.54, "text": "og så gjennstår du å se om dette her"}
+{"episode_id": 536, "segment_index": 446, "start": 1400.54, "end": 1403.58, "text": "materialiserer seg og i hvilken grad"}
+{"episode_id": 536, "segment_index": 447, "start": 1403.58, "end": 1407.58, "text": "men bare kort igjen hvordan spiller de inn her da?"}
+{"episode_id": 536, "segment_index": 448, "start": 1407.58, "end": 1410.58, "text": "Ja, NapaTec er jo et egentlig dansselskap"}
+{"episode_id": 536, "segment_index": 449, "start": 1410.58, "end": 1413.38, "text": "så jeg har vært ned på hovkondarissen i Københaven"}
+{"episode_id": 536, "segment_index": 450, "start": 1413.38, "end": 1415.3, "text": "og de er først og fremst til softwaresjelskap"}
+{"episode_id": 536, "segment_index": 451, "start": 1415.3, "end": 1417.18, "text": "alle de som jobber der, jobber med software"}
+{"episode_id": 536, "segment_index": 452, "start": 1417.18, "end": 1418.82, "text": "men produktiseller"}
+{"episode_id": 536, "segment_index": 453, "start": 1418.82, "end": 1423.46, "text": "det bor på et maskinvarekomponentkort"}
+{"episode_id": 536, "segment_index": 454, "start": 1423.46, "end": 1424.86, "text": "grøntkort"}
+{"episode_id": 536, "segment_index": 455, "start": 1424.86, "end": 1427.14, "text": "og det er et såkalt netvekskort"}
+{"episode_id": 536, "segment_index": 456, "start": 1427.14, "end": 1430.66, "text": "så det putter inn i et bakig servern"}
+{"episode_id": 536, "segment_index": 457, "start": 1430.66, "end": 1432.53, "text": "det dette kortet gjør"}
+{"episode_id": 536, "segment_index": 458, "start": 1432.53, "end": 1434.77, "text": "det er også et såkalt smartkort"}
+{"episode_id": 536, "segment_index": 459, "start": 1434.77, "end": 1438.53, "text": "det er at den avlaster servern"}
+{"episode_id": 536, "segment_index": 460, "start": 1438.53, "end": 1441.17, "text": "sine GPUer som er veldig dyra"}
+{"episode_id": 536, "segment_index": 461, "start": 1441.17, "end": 1444.29, "text": "det er de som Nvidia har sin tid sålt det mye av"}
+{"episode_id": 536, "segment_index": 462, "start": 1444.93, "end": 1448.81, "text": "det avlaster den med masse beregninger"}
+{"episode_id": 536, "segment_index": 463, "start": 1448.81, "end": 1450.61, "text": "så du kan tenke på at"}
+{"episode_id": 536, "segment_index": 464, "start": 1450.61, "end": 1453.61, "text": "i steden for at denne dyra GPUen"}
+{"episode_id": 536, "segment_index": 465, "start": 1453.61, "end": 1458.13, "text": "skal stå og regne på lille gangetabellen"}
+{"episode_id": 536, "segment_index": 466, "start": 1458.13, "end": 1460.77, "text": "så kan dette smarte netvekskortet"}
+{"episode_id": 536, "segment_index": 467, "start": 1460.77, "end": 1462.29, "text": "ta den lille gangetabellen"}
+{"episode_id": 536, "segment_index": 468, "start": 1462.29, "end": 1463.93, "text": "og så kan GPUen koncentrere seg"}
+{"episode_id": 536, "segment_index": 469, "start": 1463.93, "end": 1465.33, "text": "på den store gangetabellen"}
+{"episode_id": 536, "segment_index": 470, "start": 1465.33, "end": 1468.61, "text": "så i SIEM så gjør det at dette kortet"}
+{"episode_id": 536, "segment_index": 471, "start": 1468.61, "end": 1471.53, "text": "at du får mer effekt ut av servernet en"}
+{"episode_id": 536, "segment_index": 472, "start": 1471.53, "end": 1472.73, "text": "og den blikkes så varm"}
+{"episode_id": 536, "segment_index": 473, "start": 1472.77, "end": 1474.77, "text": "så mås er veldig viktig disse serverparkene"}
+{"episode_id": 536, "segment_index": 474, "start": 1474.77, "end": 1476.29, "text": "for det varmer jo mer"}
+{"episode_id": 536, "segment_index": 475, "start": 1476.29, "end": 1478.89, "text": "den blir utnyttet på topnivet hele tiden"}
+{"episode_id": 536, "segment_index": 476, "start": 1478.89, "end": 1481.06, "text": "så du sparer også litt strøm"}
+{"episode_id": 536, "segment_index": 477, "start": 1481.06, "end": 1482.74, "text": "og dette er sånt netvekskort"}
+{"episode_id": 536, "segment_index": 478, "start": 1482.74, "end": 1485.02, "text": "som Nvidia hadde veldig mye glede av"}
+{"episode_id": 536, "segment_index": 479, "start": 1485.02, "end": 1488.78, "text": "et oppkjøpt mellanox for 4-5 år siden"}
+{"episode_id": 536, "segment_index": 480, "start": 1488.78, "end": 1493.62, "text": "så mange tilskriver noe av suksesien til Nvidia"}
+{"episode_id": 536, "segment_index": 481, "start": 1493.62, "end": 1498.02, "text": "og har knyttet at det hadde akkurat disse netvekskortløsningene"}
+{"episode_id": 536, "segment_index": 482, "start": 1498.02, "end": 1500.18, "text": "så Napa, for å være sånn"}
+{"episode_id": 536, "segment_index": 483, "start": 1500.22, "end": 1501.74, "text": "med sånn cyber security"}
+{"episode_id": 536, "segment_index": 484, "start": 1501.74, "end": 1503.74, "text": "hvor de egentlig er veldig flinke på"}
+{"episode_id": 536, "segment_index": 485, "start": 1503.74, "end": 1505.7, "text": "å være gatevein inntil servern"}
+{"episode_id": 536, "segment_index": 486, "start": 1505.7, "end": 1506.94, "text": "passe på at den riktig datten"}
+{"episode_id": 536, "segment_index": 487, "start": 1506.94, "end": 1507.94, "text": "kommer både inn og ut"}
+{"episode_id": 536, "segment_index": 488, "start": 1508.94, "end": 1511.26, "text": "så har de nå flyttet seg"}
+{"episode_id": 536, "segment_index": 489, "start": 1511.26, "end": 1512.86, "text": "litt igjen oppe over innverdigeheten"}
+{"episode_id": 536, "segment_index": 490, "start": 1512.86, "end": 1513.98, "text": "for å se hvordan det går"}
+{"episode_id": 536, "segment_index": 491, "start": 1513.98, "end": 1515.02, "text": "for hvis de lykkes med det"}
+{"episode_id": 536, "segment_index": 492, "start": 1515.02, "end": 1517.98, "text": "så ligger nok en ganske stor duole marked"}
+{"episode_id": 536, "segment_index": 493, "start": 1517.98, "end": 1519.7, "text": "for en sånn selskap som Napa tak"}
+{"episode_id": 536, "segment_index": 494, "start": 1519.7, "end": 1521.7, "text": "for det man håper på"}
+{"episode_id": 536, "segment_index": 495, "start": 1521.7, "end": 1525.14, "text": "fra sånn investorside"}
+{"episode_id": 536, "segment_index": 496, "start": 1525.14, "end": 1526.54, "text": "og del som er investert der"}
+{"episode_id": 536, "segment_index": 497, "start": 1526.54, "end": 1528.98, "text": "i og i relaterert i dette eksempel"}
+{"episode_id": 536, "segment_index": 498, "start": 1528.98, "end": 1532.58, "text": "det er jo da at Napa-tex i en netvekskort"}
+{"episode_id": 536, "segment_index": 499, "start": 1532.58, "end": 1536.3, "text": "skal brukes inn i systemet til De Matrix"}
+{"episode_id": 536, "segment_index": 500, "start": 1536.3, "end": 1540.06, "text": "og at det egentlig skal tas i bruk av store selskapene"}
+{"episode_id": 536, "segment_index": 501, "start": 1540.06, "end": 1541.42, "text": "Ja, og så vet vi jo"}
+{"episode_id": 536, "segment_index": 502, "start": 1541.42, "end": 1543.26, "text": "det har selskapet også sagt at du jobber med"}
+{"episode_id": 536, "segment_index": 503, "start": 1543.26, "end": 1545.54, "text": "en av disse andre store amerikanske selskapene"}
+{"episode_id": 536, "segment_index": 504, "start": 1545.54, "end": 1547.42, "text": "som man kan spekke på hvem er"}
+{"episode_id": 536, "segment_index": 505, "start": 1547.42, "end": 1550.82, "text": "men der også kommer ganske langt disse verificasjingsprosessene"}
+{"episode_id": 536, "segment_index": 506, "start": 1550.82, "end": 1553.14, "text": "så i løpet av den neste 60-tal månene"}
+{"episode_id": 536, "segment_index": 507, "start": 1553.14, "end": 1555.78, "text": "så får man nok noe sånn feedback på hvordan dette har gått"}
+{"episode_id": 536, "segment_index": 508, "start": 1555.82, "end": 1561.02, "text": "men de lager en sånn 4-6 000 netvekskort i året"}
+{"episode_id": 536, "segment_index": 509, "start": 1561.02, "end": 1562.46, "text": "hvis ikke jeg husker før"}
+{"episode_id": 536, "segment_index": 510, "start": 1562.46, "end": 1566.62, "text": "men jeg husker hørte Lars Bølsen som er chefen sa"}
+{"episode_id": 536, "segment_index": 511, "start": 1566.62, "end": 1569.94, "text": "men et viktig poeng er som vel du"}
+{"episode_id": 536, "segment_index": 512, "start": 1569.94, "end": 1570.86, "text": "ja vi tror du liker"}
+{"episode_id": 536, "segment_index": 513, "start": 1570.86, "end": 1573.1, "text": "det er at dette ikke er så kapitaltomt"}
+{"episode_id": 536, "segment_index": 514, "start": 1573.1, "end": 1574.02, "text": "ja, eksempel"}
+{"episode_id": 536, "segment_index": 515, "start": 1574.02, "end": 1576.02, "text": "så de producerer ikke disse fysiske kortene"}
+{"episode_id": 536, "segment_index": 516, "start": 1576.02, "end": 1577.78, "text": "producerer ikke det selve de ble investert her i USA"}
+{"episode_id": 536, "segment_index": 517, "start": 1577.78, "end": 1579.38, "text": "og det er jo en fordel"}
+{"episode_id": 536, "segment_index": 518, "start": 1579.38, "end": 1582.86, "text": "og det er ikke sånn kapasitet begrænsninger"}
+{"episode_id": 536, "segment_index": 519, "start": 1582.86, "end": 1588.1, "text": "du nevnte 4-6 000 er dårligere og 6-7 000 er godtår"}
+{"episode_id": 536, "segment_index": 520, "start": 1588.1, "end": 1589.3, "text": "sånn historisk fornapet deg"}
+{"episode_id": 536, "segment_index": 521, "start": 1589.3, "end": 1591.3, "text": "disse kontraktene prøvde de da"}
+{"episode_id": 536, "segment_index": 522, "start": 1591.3, "end": 1593.3, "text": "da prøvde de å renne om 10 000 ur"}
+{"episode_id": 536, "segment_index": 523, "start": 1593.3, "end": 1595.3, "text": "og det er meg ikke sens"}
+{"episode_id": 536, "segment_index": 524, "start": 1595.3, "end": 1598.98, "text": "hvis det forslukkes så blir det store årudre"}
+{"episode_id": 536, "segment_index": 525, "start": 1598.98, "end": 1600.98, "text": "og så kan man diskutere hvilken pris"}
+{"episode_id": 536, "segment_index": 526, "start": 1600.98, "end": 1601.98, "text": "så bruter man en gin og så videre"}
+{"episode_id": 536, "segment_index": 527, "start": 1601.98, "end": 1603.98, "text": "men da vil de få volemårudre"}
+{"episode_id": 536, "segment_index": 528, "start": 1603.98, "end": 1606.98, "text": "og en annen ting som vi har pratt om i lagringen i dag"}
+{"episode_id": 536, "segment_index": 529, "start": 1606.98, "end": 1610.98, "text": "noe som er kjernekunnskap som napatek har"}
+{"episode_id": 536, "segment_index": 530, "start": 1610.98, "end": 1614.98, "text": "som de selv har fått mener at det der er de verdensklasse på"}
+{"episode_id": 536, "segment_index": 531, "start": 1614.98, "end": 1618.98, "text": "og det er at når man sender seg data pakkene"}
+{"episode_id": 536, "segment_index": 532, "start": 1618.98, "end": 1620.98, "text": "så samles det jo opp og senst det"}
+{"episode_id": 536, "segment_index": 533, "start": 1620.98, "end": 1622.98, "text": "og så er det noen som sitter og pakker i sammen"}
+{"episode_id": 536, "segment_index": 534, "start": 1622.98, "end": 1625.98, "text": "når du lager litt en sånn lange kjede inn i denne lagringsenheten"}
+{"episode_id": 536, "segment_index": 535, "start": 1625.98, "end": 1628.98, "text": "når du transporterer så splitter sikkert pakken opp"}
+{"episode_id": 536, "segment_index": 536, "start": 1628.98, "end": 1632.75, "text": "utrolig viktig at de pakkene kommer riktig rekfølge"}
+{"episode_id": 536, "segment_index": 537, "start": 1632.75, "end": 1636.75, "text": "og det gjør det jo 99,999 % av gangene"}
+{"episode_id": 536, "segment_index": 538, "start": 1636.75, "end": 1640.75, "text": "men napatek har klart å vise"}
+{"episode_id": 536, "segment_index": 539, "start": 1640.75, "end": 1643.75, "text": "at de er den som kanskje gjør det aller best"}
+{"episode_id": 536, "segment_index": 540, "start": 1643.75, "end": 1647.75, "text": "og dette er super relevant for lagringsbiten"}
+{"episode_id": 536, "segment_index": 541, "start": 1647.75, "end": 1649.75, "text": "så jeg kan tenke meg en av"}
+{"episode_id": 536, "segment_index": 542, "start": 1649.75, "end": 1653.75, "text": "innfor et av de områder når de kanskje i tillegg kan komme seg inn på"}
+{"episode_id": 536, "segment_index": 543, "start": 1653.75, "end": 1656.75, "text": "er nettopp i denne store investeringsbunnen"}
+{"episode_id": 536, "segment_index": 544, "start": 1656.75, "end": 1659.75, "text": "som som sønligvis kommer på lagring"}
+{"episode_id": 536, "segment_index": 545, "start": 1659.75, "end": 1665.75, "text": "de også kan være en spiller innfor kommunikasjon fra en device"}
+{"episode_id": 536, "segment_index": 546, "start": 1665.75, "end": 1668.75, "text": "til en lagringsenhet netop for de at det er så gode"}
+{"episode_id": 536, "segment_index": 547, "start": 1668.75, "end": 1672.75, "text": "på både dansansikret og få alle pakkene i riktig form av farge"}
+{"episode_id": 536, "segment_index": 548, "start": 1672.75, "end": 1676.75, "text": "så dette synes du jeg er spennende her, du, og napatek er en del av"}
+{"episode_id": 536, "segment_index": 549, "start": 1676.75, "end": 1678.75, "text": "distriptiv formen, er det ikke det?"}
+{"episode_id": 536, "segment_index": 550, "start": 1678.75, "end": 1679.75, "text": "absolutt"}
+{"episode_id": 536, "segment_index": 551, "start": 1679.75, "end": 1682.75, "text": "men utfordringen fra investerperspektivet en"}
+{"episode_id": 536, "segment_index": 552, "start": 1682.75, "end": 1684.75, "text": "det er sånn jeg forståttet"}
+{"episode_id": 536, "segment_index": 553, "start": 1684.75, "end": 1687.75, "text": "og har tolvmodighet på at markedematerialisere"}
+{"episode_id": 536, "segment_index": 554, "start": 1687.75, "end": 1690.75, "text": "ser seg i mellomtiden så"}
+{"episode_id": 536, "segment_index": 555, "start": 1690.75, "end": 1695.75, "text": "vil du ha potensielle kontanstrøm-inplikasjoner"}
+{"episode_id": 536, "segment_index": 556, "start": 1695.75, "end": 1697.75, "text": "eller andre typer ting sannsinnligvis"}
+{"episode_id": 536, "segment_index": 557, "start": 1697.75, "end": 1701.75, "text": "ja, dette er jo lite selskap som skal inn i stort marked"}
+{"episode_id": 536, "segment_index": 558, "start": 1701.75, "end": 1703.75, "text": "så det er veldig ressurskrevende"}
+{"episode_id": 536, "segment_index": 559, "start": 1703.75, "end": 1706.75, "text": "belønningen og gullerotten er sånn både for selskap for oss som invester"}
+{"episode_id": 536, "segment_index": 560, "start": 1706.75, "end": 1710.75, "text": "det er et visst i lykkes så kommer lettet til å bli en veldig hyggelig historie"}
+{"episode_id": 536, "segment_index": 561, "start": 1710.75, "end": 1713.75, "text": "men mellomtiden er det alltid frustrert med selskapet"}
+{"episode_id": 536, "segment_index": 562, "start": 1713.75, "end": 1715.75, "text": "fordi det tar lengre tid enn det man tror"}
+{"episode_id": 536, "segment_index": 563, "start": 1715.75, "end": 1717.75, "text": "og det selskapet tror og så videre"}
+{"episode_id": 536, "segment_index": 564, "start": 1717.75, "end": 1720.75, "text": "fordi hvis man først slipper inn data-centrene"}
+{"episode_id": 536, "segment_index": 565, "start": 1720.75, "end": 1724.75, "text": "så har det blitt testet ganske omfattende over en lang periode"}
+{"episode_id": 536, "segment_index": 566, "start": 1724.75, "end": 1728.75, "text": "og jeg tror på en del av disse større ting som da på holdet på med"}
+{"episode_id": 536, "segment_index": 567, "start": 1728.75, "end": 1731.75, "text": "så har man kommet godt i gang med testingen"}
+{"episode_id": 536, "segment_index": 568, "start": 1731.75, "end": 1734.75, "text": "og så når det er ferdig så skal det være så"}
+{"episode_id": 536, "segment_index": 569, "start": 1734.75, "end": 1736.75, "text": "så skal de jo veles komme til oss og videre ikke sann"}
+{"episode_id": 536, "segment_index": 570, "start": 1736.75, "end": 1738.75, "text": "så vi har det, det er så rart"}
+{"episode_id": 536, "segment_index": 571, "start": 1738.75, "end": 1740.75, "text": "fordi veldig mange av disse store amerikanske selskapet"}
+{"episode_id": 536, "segment_index": 572, "start": 1740.75, "end": 1742.75, "text": "er også veldig beroekratiske"}
+{"episode_id": 536, "segment_index": 573, "start": 1742.75, "end": 1747.75, "text": "så det kommer helt sikkert å ta litt lengre tid enn det vi tror"}
+{"episode_id": 536, "segment_index": 574, "start": 1747.75, "end": 1750.75, "text": "men samtidig er det sånn lykkes det så blir det hyggelig"}
+{"episode_id": 536, "segment_index": 575, "start": 1750.75, "end": 1760.62, "text": "bra, da har du gitt oss et godt innsklek i"}
+{"episode_id": 536, "segment_index": 576, "start": 1760.62, "end": 1764.62, "text": "også, hva skal vi si, denne delen av A i Audun"}
+{"episode_id": 536, "segment_index": 577, "start": 1764.62, "end": 1770.62, "text": "med både eksempler og definert noen veldig viktige begrep"}
+{"episode_id": 536, "segment_index": 578, "start": 1770.62, "end": 1774.62, "text": "så hvis vi rundt av med en slags konklusjon i den grad"}
+{"episode_id": 536, "segment_index": 579, "start": 1774.62, "end": 1776.62, "text": "det er mulig å konkludere dette her"}
+{"episode_id": 536, "segment_index": 580, "start": 1776.62, "end": 1779.62, "text": "sånn ting ser ut nå basert på det vi har lært her"}
+{"episode_id": 536, "segment_index": 581, "start": 1779.62, "end": 1783.62, "text": "og sånn marked her, og der vår teknologi her i dag"}
+{"episode_id": 536, "segment_index": 582, "start": 1783.62, "end": 1787.62, "text": "hvor i verdige kjeden ligger det største verdiene, hvem tar det?"}
+{"episode_id": 536, "segment_index": 583, "start": 1787.62, "end": 1790.62, "text": "ja, det er sånn når vi er ferdig her nå Marius"}
+{"episode_id": 536, "segment_index": 584, "start": 1790.62, "end": 1793.62, "text": "og det er søndag kveld så jeg skal legge inn overdre på"}
+{"episode_id": 536, "segment_index": 585, "start": 1793.62, "end": 1795.62, "text": "sånn som skal handles i Oslo i morgen"}
+{"episode_id": 536, "segment_index": 586, "start": 1795.62, "end": 1797.62, "text": "det er jeg i kommert å øre nå"}
+{"episode_id": 536, "segment_index": 587, "start": 1797.62, "end": 1799.62, "text": "nå har jeg bruker ganske mye tid på det helgjent å gå gjennom"}
+{"episode_id": 536, "segment_index": 588, "start": 1799.62, "end": 1800.62, "text": "og så videre"}
+{"episode_id": 536, "segment_index": 589, "start": 1800.62, "end": 1802.62, "text": "det er at jeg skal selge litt av det jeg kaller defansivaksjør"}
+{"episode_id": 536, "segment_index": 590, "start": 1802.62, "end": 1804.62, "text": "jeg kommer til å selge litt, det er en midde også"}
+{"episode_id": 536, "segment_index": 591, "start": 1804.62, "end": 1806.62, "text": "ikke fordi jeg tror en midde kunne gå ned"}
+{"episode_id": 536, "segment_index": 592, "start": 1806.62, "end": 1808.62, "text": "men jeg tror at det er så mange andre av de mindre selskapene"}
+{"episode_id": 536, "segment_index": 593, "start": 1808.62, "end": 1810.62, "text": "så kommer det gjør så mye bedre"}
+{"episode_id": 536, "segment_index": 594, "start": 1810.62, "end": 1813.62, "text": "og vi har nevnt flere av de gjennom disse selskjennningene"}
+{"episode_id": 536, "segment_index": 595, "start": 1813.62, "end": 1817.62, "text": "så vi tar litt av disse veldig etablerer selskapene"}
+{"episode_id": 536, "segment_index": 596, "start": 1817.62, "end": 1819.62, "text": "og så kjører vi litt med risikoen"}
+{"episode_id": 536, "segment_index": 597, "start": 1819.62, "end": 1822.62, "text": "for nå har vi tok den risikoen ganske mye i juli"}
+{"episode_id": 536, "segment_index": 598, "start": 1822.62, "end": 1824.62, "text": "og så har vi legget litt for å se hos den der"}
+{"episode_id": 536, "segment_index": 599, "start": 1824.62, "end": 1826.62, "text": "å gå med disse makere og tallene"}
+{"episode_id": 536, "segment_index": 600, "start": 1826.62, "end": 1828.62, "text": "og disse makere og tallene er for de i min bok"}
+{"episode_id": 536, "segment_index": 601, "start": 1828.62, "end": 1829.62, "text": "vi ser veldig hyggelig også"}
+{"episode_id": 536, "segment_index": 602, "start": 1829.62, "end": 1832.62, "text": "jeg tror liksom vi kommer til å få nestet sånn måte"}
+{"episode_id": 536, "segment_index": 603, "start": 1832.62, "end": 1833.62, "text": "jeg tror jeg blir hyggelig i søm"}
+{"episode_id": 536, "segment_index": 604, "start": 1833.62, "end": 1837.62, "text": "og da skal vi ha litt mer av de mindre selskapene"}
+{"episode_id": 536, "segment_index": 605, "start": 1837.62, "end": 1839.62, "text": "som spruter litt i grann og mer"}
+{"episode_id": 536, "segment_index": 606, "start": 1839.62, "end": 1842.62, "text": "en oracle og paradiskefarmasina"}
+{"episode_id": 536, "segment_index": 607, "start": 1842.62, "end": 1843.62, "text": "vi har og en video"}
+{"episode_id": 536, "segment_index": 608, "start": 1843.62, "end": 1845.62, "text": "kommer sikkert å selle litt Amazon også"}
+{"episode_id": 536, "segment_index": 609, "start": 1845.62, "end": 1849.62, "text": "men jeg er en ikke fordi jeg ikke tror de kommer til å høre om to måter"}
+{"episode_id": 536, "segment_index": 610, "start": 1849.62, "end": 1851.62, "text": "men fordi jeg tror jeg er det"}
+{"episode_id": 536, "segment_index": 611, "start": 1851.62, "end": 1853.62, "text": "vi får le enn og hyggelig i det andre selskapene"}
+{"episode_id": 536, "segment_index": 612, "start": 1853.62, "end": 1856.62, "text": "og flere av de selskapene som vi har skreutert nå"}
+{"episode_id": 536, "segment_index": 613, "start": 1856.62, "end": 1858.62, "text": "er jo selskapene som vi eier"}
+{"episode_id": 536, "segment_index": 614, "start": 1858.62, "end": 1862.62, "text": "men de kommer til å øke på i de som er litt mindre"}
+{"episode_id": 536, "segment_index": 615, "start": 1862.62, "end": 1866.62, "text": "bra, den, med det så setter vi strek for i dag"}
+{"episode_id": 536, "segment_index": 616, "start": 1866.62, "end": 1869.62, "text": "jeg jener det bare å si tusen takk til deg"}
+{"episode_id": 536, "segment_index": 617, "start": 1869.62, "end": 1871.62, "text": "og sist men ikke minst folket"}
+{"episode_id": 536, "segment_index": 618, "start": 1871.62, "end": 1874.62, "text": "tusen takk til alle dere som hørte på"}
+{"episode_id": 536, "segment_index": 619, "start": 1874.62, "end": 1886.58, "text": "denne sendingen ble publisert i podcasten Utbyta"}

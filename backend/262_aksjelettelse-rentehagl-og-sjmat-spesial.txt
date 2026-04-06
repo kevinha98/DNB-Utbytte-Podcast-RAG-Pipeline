@@ -1,0 +1,1297 @@
+Episode 262: Aksjelettelse, rentehagl og sjømat-spesial
+Publisert: Sat, 19 Ma
+Vert: Marius Brun Haugen
+Varighet: 30 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/aksjelettelse-rentehagl-og-sjmat-spesial
+
+--- Transkripsjon ---
+
+[00:00:03] Er det forsiktige tegn til lettelse blant investorene i aksjemarkedet, eller er det verste fortsatt foran oss?
+
+[00:00:13] Og hvor forberedt er markedet på rentehaglet som den amerikanske sentralbanken så vidt har satt i gang?
+
+[00:00:19] Dette skal vi snakke mer om i dagens episode, hvor vi også skal gå nærmere inn på hvorfor analysetimet til DNB Markets er positive til sjømatsektoren.
+
+[00:00:30] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer i den globale økonomien og finansmarkedene.
+
+[00:00:45] Jeg er Marius Brunhaugen fra DNB Markets, og med meg har jeg aksjesateg Paul Harper.
+
+[00:00:52] Hei, Paul.
+
+[00:00:52] Hei, Marius.
+
+[00:00:54] Det har vært en ny begivenhetsrik uke for aksjer, og som vi vel har sagt før, det er jo en spesiell tid vi er i nå på mange måter.
+
+[00:01:03] Hverken du eller jeg kan vel huske tilbake til noe lignende.
+
+[00:01:06] Da tenker jeg ikke bare på denne uken, men hele situasjonen vi er i med både krig og inflasjon og usikkerhet.
+
+[00:01:15] Det er spesielle tider.
+
+[00:01:17] Ja, det er nærmere denne gangen enn andre gulfkrigen for noen år tilbake.
+
+[00:01:24] Det var jo da en viss sammenheng, kan du si, med at vi fortsatt var i sluttfasen av tech-boblen da,
+
+[00:01:31] så det var liksom bakteppet litt annerledes enn denne gangen.
+
+[00:01:34] Og så tar man tilbake til 1998, det var når Russland ikke klarte å betjene gjelden sin sist gang.
+
+[00:01:42] Da var det også ganske volatilt i en periode, men denne gangen så klarte Fed noglunde å koble sammen en redningspakke
+
+[00:01:50] som gjorde at det ikke ble det helt store ut av det her likevel.
+
+[00:01:54] Så Oslobørs falt nesten 50 prosent i løpet av sommeren og tidlig i høsten i 1998.
+
+[00:01:59] Men så fikk man en veldig sterk avslutning på året, og 1999 var jo absolutt.
+
+[00:02:04] Ja, og krigen mellom Russland og Ukraina og konsekvensene det har for verdensøkonomien,
+
+[00:02:11] det er fortsatt det som er altoverskyggende for aksjer generelt.
+
+[00:02:18] Som jeg har sagt mange ganger, Paul, vi er ikke noe bedre til å forutsi retningen konflikten tar enn andre,
+
+[00:02:25] og kan jo på en måte bare konstatere at utfallsrommet det fortsatt er stort,
+
+[00:02:30] men om noe så kan vi vel si at...
+
+[00:02:34] Aksjemarkedet denne uken har valgt å se litt lettere på det.
+
+[00:02:39] Ja, jeg synes det er egentlig kanskje litt overraskende hvor positivt markedet har utviklet seg denne uken.
+
+[00:02:46] Det har jo vært nyheter om at Ukraina og Russland har hatt diskusjoner og så videre,
+
+[00:02:51] og markedet har jo gått på de nyhetene.
+
+[00:02:53] Men ser vi på status nå, så kan jeg ikke påstå at det egentlig er noe mer overbevist
+
+[00:02:58] at vi er nærmere slutten enn vi var for en uke siden.
+
+[00:03:01] Så jeg synes akkurat det er kanskje litt rart her,
+
+[00:03:04] det virker som markedet er ivrig til å gå opp,
+
+[00:03:07] selv om fakta kanskje egentlig ikke er så veldig annerledes som tidlig.
+
+[00:03:11] Så vi kan liksom ikke helt utelukke at optimismen kanskje har blitt litt overdrevet,
+
+[00:03:16] så der må vi være litt på vakt en stund til, tror jeg.
+
+[00:03:21] Men man må jo bare konstatere det som er fakta på skjermen,
+
+[00:03:26] at Oslo Børs er nå egentlig bare rundt en prosent unna all-time high,
+
+[00:03:32] eller intradag all-time high,
+
+[00:03:34] etter invasjonen.
+
+[00:03:35] Og ser vi på closing all-time high, så er det rundt en halv prosent unna.
+
+[00:03:39] Sånn sett er det ikke så veldig lett å få med seg at det har skjedd noe som helst,
+
+[00:03:43] hvis man bare ser på indeksen.
+
+[00:03:45] Så får vi bare ta med at når vi sitter her og spiller en dette,
+
+[00:03:47] så er det fredag 18. mars, klokken den nærmer seg tre,
+
+[00:03:52] og det ligger altså an til en positiv uke for aksjer.
+
+[00:03:56] Så får vi se hvordan det går i USA utover kvelden,
+
+[00:04:01] åpnet forsiktig ned der.
+
+[00:04:04] Er det noen spesielle selskap eller sektorspesifikke bevegelser,
+
+[00:04:08] Paul, som er verdt å trekke fram denne uken?
+
+[00:04:12] Vi har jo oljeprisen og oljeaksjene som er ganske jo i omdagen.
+
+[00:04:16] Ja, altså olje svinger jo mye.
+
+[00:04:18] Jeg tror de type størrelsesorden vi har sett i oljeprisendring fra dag til dag,
+
+[00:04:23] er noe helt ekstremt.
+
+[00:04:25] Så det gjør situasjonen veldig vanskelig for det å prøve å ta i med sånne type ting,
+
+[00:04:30] er jo så å si umulig.
+
+[00:04:32] Jeg synes det er lettere egentlig,
+
+[00:04:34] å være positiv til energi enn negativ,
+
+[00:04:37] men utfordringen er da om man klarer å etablere en slags base et eller annet sted.
+
+[00:04:42] Nå har vi sett oljeprisen komme ned til litt under 100 dollar,
+
+[00:04:45] og så har det kommet opp igjen ganske kraftig nå siste døgnet.
+
+[00:04:49] Så det jeg egentlig ser litt etter nå,
+
+[00:04:51] er at man kan klare å bekrefte at 100 dollar eventuelt er et slags teknisk støttenivå,
+
+[00:04:58] som gjør at det da deretter heller kan begynne å etablere en positiv trend igjen.
+
+[00:05:04] Risikoen er at kommer det under 100 igjen, at det blir motstand,
+
+[00:05:07] og så er det egentlig fortsatt noe nedside.
+
+[00:05:09] Som du sier, det er ikke så vanskelig å være positiv til energi på sikt nå,
+
+[00:05:15] men spørsmålet er jo om det kan komme bedre kjøpsanledninger selvfølgelig.
+
+[00:05:18] Det er nettopp det at jeg tror det er mye lettere å egentlig se for seg at oljeprisen
+
+[00:05:22] skal klare å holde seg rundt 100 dollar eller høyere nå de neste månedene,
+
+[00:05:28] for uansett så skal man prøve å bli kvitt bruk av russisk olje og gass,
+
+[00:05:32] og det eneste måten du kan gjøre det på er å sørge for at du da må prøve å bruke
+
+[00:05:40] den tilgjengelige olje og gassen så godt som mulig,
+
+[00:05:43] og det er veldig vanskelig å egentlig helt klare å rasjonere det bort
+
+[00:05:46] uten at prisen blir presset høyere.
+
+[00:05:50] Så jeg ser for meg at det er mye større sannsynlighet at det heller holder seg høyt
+
+[00:05:54] enn at det klapper sammen, men det er nettopp som du sier at i de periodene
+
+[00:05:59] når oljeprisen faller, så er det jo ikke så veldig vanlig
+
+[00:06:02] at oljeaksje stiger, så spørsmålet er om det er for tidlig å begynne å vekte seg
+
+[00:06:07] opp i energi allerede, om man skal satse på at oljeprisen kommer litt mer ned
+
+[00:06:11] først, eller om vi nå egentlig har sett den bunnen når det ikke klarte å falle
+
+[00:06:15] noe særlig under 100, og at det allerede nå skal begynne å posisjonere deg
+
+[00:06:19] for et nytt opptur.
+
+[00:06:20] Vi skal ikke bruke mye tid på den episoden i dag, men vi kan jo bare nevne at
+
+[00:06:25] fra Kina denne uken så er det også kommet nyheter, det har vært covid-utbrudd
+
+[00:06:30] og nedstengninger.
+
+[00:06:32] Som jo kan få konsekvenser for global handel, men det er også kommet nye tiltak
+
+[00:06:37] og støtteordninger fra myndighetene.
+
+[00:06:41] Kan dette her slå positivt ut for noen av sektorene på Oslo Børs, for eksempel bulk?
+
+[00:06:45] Ja, jeg tror bulk shipping er absolutt en sektor som har glede av at kinesiske myndighetene
+
+[00:06:52] prøver å støtte opp under økonomien.
+
+[00:06:55] Så som du sier, den nedstengningen, hele denne zero-covid-strategien deres
+
+[00:06:59] er noe risikabelt i og med at det egentlig er
+
+[00:07:02] at de sier at de må drive å stenge ned hver gang det er et nytt smitteutbrudd
+
+[00:07:06] og det må man egentlig anta kommer til å skje med jevne mellomrom fremover.
+
+[00:07:11] Så det er en litt vanskelig situasjon for myndighetene der å klare å nå
+
+[00:07:15] de vekstmålene som de har, og nå tror jeg de innser at da må de i hvert fall
+
+[00:07:20] hjelpe til litt. Så jeg synes bulk egentlig ser ganske spennende ut fremdeles
+
+[00:07:26] og det tror jeg er noe som fortsatt har litt å gå på der,
+
+[00:07:30] men det er en vanskelig balansegang.
+
+[00:07:32] Det går å holde veksten oppe, men så har de også de problemene
+
+[00:07:36] innenfor eiendomssektoren som vi snakket om i starten av året,
+
+[00:07:41] så det er mer enn nok andre ting som også kan eventuelt stikke noe kjeppere hjulene der.
+
+[00:07:46] Men sånn overordnet så er det jo fortsatt at støtteordninger og tiltak
+
+[00:07:50] fra kinesiske myndigheter, det er positivt for aksjer, alt annet like.
+
+[00:07:55] Ja, alt annet like så er det absolutt en positiv,
+
+[00:07:58] og for Oslo Børs sin del så er det bulk shipping kanskje
+
+[00:08:02] der hvor du får den største direkte sammenhengen,
+
+[00:08:04] men holder du bra vekst i kinesisk økonomi,
+
+[00:08:07] så sørger det også for at du får sterk etterspørsel etter råvarer generelt,
+
+[00:08:12] og olje spesielt blant annet.
+
+[00:08:15] Så alt annet like så er det positivt for Oslo Børs.
+
+[00:08:18] Ser vi til de amerikanske markedet, Nasdaq og S&P 500-indeksen
+
+[00:08:23] er litt opp fra årets laveste bunner som har blitt satt denne av de foregående ukene.
+
+[00:08:31] Hvor bekymret er det grunn til å bli hvis disse indeksene igjen
+
+[00:08:34] dropper til nye lave nivåer i ukene fremover på alt, sånn rent teknisk?
+
+[00:08:39] Det utfordringen de har i USA relativt til Oslo er at de har så mye mindre
+
+[00:08:44] energi- og råvareksponering, så de har hatt en mye svakere utvikling
+
+[00:08:48] enn Oslo Børs.
+
+[00:08:51] Teknisk er det noe av den positive trenden man har hatt nå ganske lenge
+
+[00:08:56] har egentlig nå snudd til å begynne å se litt mer negativ ut,
+
+[00:08:59] og det er klart for hver ny bunn du får, jo mer etablert blir den trenden.
+
+[00:09:05] Selv om det er mange som mener at teknisk analyse er ren humbugs,
+
+[00:09:08] så synes jeg det er dumt å ignorere dette her, for det er signaler man kan plukke opp
+
+[00:09:14] fra dette, og vi må alltid huske det at kursene leder alltid
+
+[00:09:18] de fundamentale faktorene.
+
+[00:09:19] Så hvis man skal vente til å få bekreftelse fra det fundamentale
+
+[00:09:23] at ting eventuelt går dårligere, så er man allerede sent ute
+
+[00:09:28] hvis man ikke allerede begynner å i hvert fall forberede seg
+
+[00:09:32] når man ser at det tekniske bildet kanskje er under endring.
+
+[00:09:36] Så det kommer an på investeringsstilen hvor mye vekt du legger på dette her,
+
+[00:09:40] men jeg synes det er rart å ignorere den informasjonen når den er der foran oss.
+
+[00:09:45] En ting vi også kan ta med oss før vi går løs på inflasjonen
+
+[00:09:50] som vi må snakke litt om i dag, og rentehevingene fra den amerikanske
+
+[00:09:54] sentralbanken, det er at det har vært...
+
+[00:09:58] Det er revetting og indeksendringer som trer i kraft på Oslo Børs.
+
+[00:10:02] Er det noe viktig å ta med seg fra det, Paul?
+
+[00:10:05] Ja, det er jo klart det blir jo mye mer volym enn vanlig akkurat nå på fredag
+
+[00:10:10] på grunn av den indeksrevettingen, og det påvirker jo også kursene
+
+[00:10:14] til en viss grad, at de aksjene som kommer inn i indeks,
+
+[00:10:17] så blir det da kjøpsinteresse fra passivfond som må prøve
+
+[00:10:21] å gjenspeile indeksen mest mulig, så de er på kjøperen i dag,
+
+[00:10:28] byr jo også til at investorer prøver å forutse dette her,
+
+[00:10:30] så de kjøper gjerne i forkant, så de da eventuelt kan prøve
+
+[00:10:34] å tjene på den effekten. Så det som ofte skjer i hvert fall,
+
+[00:10:39] da de aksjene som går inn, gjør det relativt bra inn mot
+
+[00:10:41] revettingsdatoen, de som skal ut gjør det noe dårligere,
+
+[00:10:45] og så reverserer det til en viss grad uken etter,
+
+[00:10:48] så da blir den flow-effekten nøytralisert etterhvert.
+
+[00:10:53] Så det kan nok hende at en del av de aksjene som har vært
+
+[00:10:55] tunge nå inn mot revettingen, kanskje får...
+
+[00:10:58] Kommer litt opp igjen neste uke.
+
+[00:11:05] Haggelbygger, Paul, det er ikke spesielt behagelig,
+
+[00:11:09] det tror jeg du og de fleste kan være enige med meg i,
+
+[00:11:12] men fremover så må investorene belage seg på å bli peppret
+
+[00:11:17] med rentehaggel. Den amerikanske sentralbanken
+
+[00:11:21] hevet renten onsdag denne uken med 0,25 prosent,
+
+[00:11:25] en kvarting altså, til range-en som er 0,25 prosent
+
+[00:11:30] til en halv prosent, og varsler tilsammen
+
+[00:11:33] syv rentehevinger i 2022, og flere skal det bli i 2023.
+
+[00:11:39] Markedet i USA reagerte jo middelbart negativt
+
+[00:11:44] onsdag denne uken, men så snudde det brått og steg
+
+[00:11:48] kraftig ut kvelden med Nasdaq opp 3 prosent.
+
+[00:11:52] Dette her er jo ikke helt intuitivt for meg i hvert fall.
+
+[00:11:57] Hva er det som til synelatene beroliget investorene her, Paul?
+
+[00:12:02] Ja.
+
+[00:12:03] Jeg tror kanskje den mest logiske måten å prøve å tolke dette på
+
+[00:12:07] er at det har jo vært mye bekymring for at Fed har vært på etterskudd her,
+
+[00:12:11] og at de ikke har reagert fort nok på at inflasjonen har begynt
+
+[00:12:14] å trekke opp.
+
+[00:12:16] Men det er det jo fortsatt. Det er det tydelig at de er,
+
+[00:12:18] er det ikke det?
+
+[00:12:18] Ja, sånn jeg vil egentlig si at markedet ser ut til å reagere nå,
+
+[00:12:22] at nå virker det som de er mer komfortabel med at Fed skal sette
+
+[00:12:26] rentene opp nok til at de får kontroll på dette her.
+
+[00:12:29] Så når de satte rentene opp, hvis du da ser på hvordan
+
+[00:12:33] futurene reagerte på nettopp Fed funds-renten,
+
+[00:12:37] så ser vi at de kom bittelitt ned egentlig i etterkant.
+
+[00:12:40] Så markedet har jo egentlig nå gradvis prist inn flere og flere renteøkninger.
+
+[00:12:46] Når de da først har annonsert en ny rentebane som indikerer mye flere
+
+[00:12:50] renteøkninger enn tidligere, så virker det som at de er litt mer komfortabel nå
+
+[00:12:54] på at de klarer å få til en myk landing her, at de setter rentene opp nok nå
+
+[00:12:59] til at det ikke blir behov for enda flere renteøkninger senere.
+
+[00:13:03] Så jeg må si at jeg er enig i det du sier, at det var ikke helt åpenbart
+
+[00:13:07] at markedet skulle reagere på den måten.
+
+[00:13:09] Hvis jeg hadde visst hva Fed skulle sagt på mandag, så tror jeg det
+
+[00:13:14] ville vært lett å tolke det som egentlig litt negativt,
+
+[00:13:17] og det var jo den umiddelbare markedsreaksjonen.
+
+[00:13:20] Men det virker som man er kanskje litt mer komfortabel nå med at
+
+[00:13:23] det er mulig å få til en myk landing.
+
+[00:13:26] Men det selvfølgelig gjenstår å se om det er realistisk.
+
+[00:13:28] Hørte du på pressekonferansen til den amerikanske sentralbaksjefen?
+
+[00:13:33] Jeg fikk bare med meg deler av det, for det er ikke jeg som styrer TV-en hjemme,
+
+[00:13:38] og da var det noen andre som hadde lyst til å se på noe annet.
+
+[00:13:40] Jeg fulgte den fra telefonen, men jeg bet meg i hvert fall merke det at
+
+[00:13:45] Powell var jo helt klar på blant annet to ting.
+
+[00:13:50] Det ene er at det ikke blir resesjon i USA i 2022,
+
+[00:13:54] og det andre er at han var ganske positiv, veldig bullig som det vil,
+
+[00:14:00] altså på den amerikanske økonomiske veksten.
+
+[00:14:04] Kan det ha bidratt til å berolige det, investorene?
+
+[00:14:08] Eller var det mer en selvfølgelig at han kom til å være det?
+
+[00:14:11] Ja, jeg vil ikke legge alt for mye vekt på det,
+
+[00:14:14] for sentralbanken har ikke noe bedre track record enn noen andre
+
+[00:14:17] til å prøve oss på resesjoner og så videre.
+
+[00:14:20] Når det er sagt, så synes jeg det egentlig er noglunde enig i at
+
+[00:14:25] jeg tror ikke det er så stor risiko for resesjon i USA i år.
+
+[00:14:29] Det er selvfølgelig mer risiko enn det kanskje så ut
+
+[00:14:33] for en liten stund tilbake,
+
+[00:14:35] men i hvert fall når det gjelder den utvikling i Russland, Ukraina og så videre,
+
+[00:14:41] så er det veldig lite handel mellom USA og Russland,
+
+[00:14:45] så kutter du alt ut der, så slår det nesten ingenting på BNP-veksten.
+
+[00:14:51] Så skal det bli resesjon, så må et eller annet annet skje i tillegg, tror jeg.
+
+[00:14:55] Selv om i Europa er det rundt 0,7 prosent av BNP,
+
+[00:14:59] eller eksport fra Europa til Russland,
+
+[00:15:01] så om det blir også kuttet helt til null,
+
+[00:15:04] så slår ikke det så mye det heller.
+
+[00:15:06] Så med mindre du får en større utfordring rundt det med gass og olje til Europa,
+
+[00:15:12] at du kutter det ut,
+
+[00:15:14] så er det fremdeles plausibelt at økonomien i Europa
+
+[00:15:18] klarer seg egentlig relativt greit,
+
+[00:15:20] og tilsvarende det at USA også går OK.
+
+[00:15:23] En annen ting som Paul også var veldig tydelig på,
+
+[00:15:25] det er jo at, som vi vet, priserne stiger,
+
+[00:15:29] må håndteres for å sikre prisstabilitet,
+
+[00:15:33] og man får jo heller ingen drahjelp nå
+
+[00:15:35] fra det som skjer på grunn av situasjonen i Ukraina,
+
+[00:15:39] på grunn av nedstengninger i Kina, et cetera.
+
+[00:15:42] Ja, det er jo sånn at det meste trekker opp på priser,
+
+[00:15:46] og spesielt viktig er det at det er sånne type ting
+
+[00:15:50] som drivstoff og matvarer som man må ha.
+
+[00:15:53] Så det er ikke sånn at det er så veldig enkelt
+
+[00:15:56] for de fleste å komme unna.
+
+[00:15:59] Så prisveksten er der, og det er veldig synlig.
+
+[00:16:02] Og det gjør det også til et politisk problem.
+
+[00:16:05] Så når vi husker tilbake til Trump-regjeringen,
+
+[00:16:08] så var han veldig opptatt av at aksjekursen
+
+[00:16:11] eller aksjemarkedet skulle stige hele tiden.
+
+[00:16:14] Mens her tror jeg Biden er mye mer opptatt av
+
+[00:16:16] å få inflasjon under kontroll,
+
+[00:16:18] for det er det som egentlig plager velgerne mest akkurat nå.
+
+[00:16:21] Og det har jo mellomvalg til høsten,
+
+[00:16:24] så det gjør at det er et litt mer politisk insentiv
+
+[00:16:28] til å få kontroll på dette.
+
+[00:16:29] Jeg klarer ikke helt å kvitte meg med den tanken på drisskonen
+
+[00:16:32] for at inflasjonen skal stabilisere seg på et høyt nivå
+
+[00:16:36] og ligger på oppsiden.
+
+[00:16:39] Det er jo sikkert i USA som det er her i Norge.
+
+[00:16:43] Folk og bedrifter har spart opp litt ekstra,
+
+[00:16:47] har masse å rutte med.
+
+[00:16:49] Så man kommer til å tåle dette her i starten.
+
+[00:16:52] Men hvis det da fester seg,
+
+[00:16:54] da kan det bli hengende mer mye lenger
+
+[00:16:56] enn det man klarer å se for seg i dag.
+
+[00:16:58] Ja, det er det.
+
+[00:16:59] Som er den store risikoen nå,
+
+[00:17:01] at for egentlig første gang på flere ti år,
+
+[00:17:03] så er det en utfordring med at du kan få feste
+
+[00:17:07] en pris-lønnsspiral virkelig aktuell.
+
+[00:17:10] For det er som du sier,
+
+[00:17:11] at nå er arbeidsmarkedet såpass stramt
+
+[00:17:14] at får du ikke en lønnsøkning,
+
+[00:17:17] så kan du si opp jobben og vite med ganske god sannsynlighet
+
+[00:17:20] at du klarer å finne noe annet å gjøre.
+
+[00:17:23] Så jeg tror det er noe som blir veldig vanskelig
+
+[00:17:26] å klare å få kontroll på lønnsveksten.
+
+[00:17:28] Folk er jo veldig opptatt av nettopp det
+
+[00:17:30] å få mer kjøpekraft,
+
+[00:17:32] så det er en utfordring hvis man først fester en forventning
+
+[00:17:36] at inflasjon skal holde seg høyt,
+
+[00:17:38] så blir det jo til at man også står på kravet
+
+[00:17:41] for å få høyere lønn mye mer aktivt enn tidligere.
+
+[00:17:45] Så det er absolutt en risiko at vi må kanskje
+
+[00:17:47] gjennom noe av den lærdomen fra 70-tallet en gang til.
+
+[00:17:51] Ok, men la oss dra dette her ned til Oslo Børs igjen.
+
+[00:17:55] Et evig spørsmål, Paul, det er jo hvilke aksjer
+
+[00:17:57] man skal eie.
+
+[00:17:59] Det sitter jo du og pønsker på hver uke
+
+[00:18:02] når du oppdaterer porteføljen med anbefalt aksjer.
+
+[00:18:05] En sektor som jeg synes det gir litt ekstra mening
+
+[00:18:09] å se på, gitt det bakteppet vi har i dag,
+
+[00:18:13] det er sjømat for mat.
+
+[00:18:16] Det trenger vi uansett om det er både krig
+
+[00:18:19] og inflasjon og forsyningsusikkerhet.
+
+[00:18:22] Det er også en sektor som lever litt,
+
+[00:18:24] ikke helt kanskje, men i hvert fall litt
+
+[00:18:26] på siden av utviklingen.
+
+[00:18:27] Utviklingen i den globale økonomien.
+
+[00:18:30] Er du enig, Paul, at det gir mening?
+
+[00:18:33] Ja, absolutt.
+
+[00:18:33] Det er jo som en av de sektorene som skal
+
+[00:18:36] ha egentlig ganske stabil etterspørsel over tid.
+
+[00:18:39] Og vi vet jo også da nogelunde
+
+[00:18:42] hva tilbudssiden skal være,
+
+[00:18:43] og det er jo heller ikke noe voldsom vekst.
+
+[00:18:46] Så jeg synes det ser interessant ut.
+
+[00:18:49] Ja, men så bra.
+
+[00:18:50] Skal vi hente sjømat-spesialisten vår da?
+
+[00:18:53] Alexander Aukner og få han inn i studio?
+
+[00:18:55] Ja, det er jo greit at det er noen som vet
+
+[00:18:57] hva de snakker om, så det tror jeg er en god idé.
+
+[00:18:59] Vi gjør det.
+
+[00:19:05] Velkommen, Alexander.
+
+[00:19:07] Du sendte nylig ut en oppdatering på sjømatsektoren
+
+[00:19:11] og gjentar det positive sektorssynet
+
+[00:19:13] og har kjøpt på alle aksjene som du dekker.
+
+[00:19:16] Kan ikke du starte med å si hva som er
+
+[00:19:18] de viktigste grunnene til det?
+
+[00:19:20] Jo, takk for å invitere meg til å holde deg på å si,
+
+[00:19:23] men den nye sektorrapporten er jo
+
+[00:19:25] kort fortalt en makrokål,
+
+[00:19:27] hvor det vi ser er et lavere tilbud
+
+[00:19:30] både i 2022, men
+
+[00:19:32] også på lengre sikt.
+
+[00:19:34] Hvor veldig mange av de tradisjonelle landene
+
+[00:19:37] de sliter med volymvekst
+
+[00:19:38] og ny teknologi som for eksempel
+
+[00:19:41] landbasert og offshore
+
+[00:19:43] har vist seg å ta lengre tid
+
+[00:19:45] enn det vi så for oss for to-tre år siden.
+
+[00:19:47] Sånn sett er tilbudssiden mer begrenset
+
+[00:19:49] og det er normalt sett den aller viktigste faktoren
+
+[00:19:52] for lakseprisen og lakseaksjene.
+
+[00:19:54] Og i tillegg så har vi sett
+
+[00:19:55] veldig sterk etterspørsel.
+
+[00:19:57] Etter at hotell- og restaurantmarkedet
+
+[00:19:59] åpnet opp igjen sommeren 2021,
+
+[00:20:02] gjennom høsten og starten av 2022,
+
+[00:20:05] så har vi sett vesentlig økning
+
+[00:20:07] i eksportverdiene fra Norge.
+
+[00:20:09] I andre halvåret 2021
+
+[00:20:11] så var det 10-20% høyere
+
+[00:20:13] enn tidligere all-time high.
+
+[00:20:15] Og etter en liten pause rundt juletidet
+
+[00:20:17] på grunn av omikron, så startet vi
+
+[00:20:19] 2022 med 40% høyere
+
+[00:20:21] eksportverdi enn hva vi har sett
+
+[00:20:23] noen gang tidligere.
+
+[00:20:25] Så kombinasjonen av
+
+[00:20:26] fortsatt lav tilbudsvekst,
+
+[00:20:29] lavere enn vi hadde trodd,
+
+[00:20:30] og sterkere etterspørsel,
+
+[00:20:32] gjør at vi tar opp lakseprisestimatet vårt
+
+[00:20:35] og således også
+
+[00:20:36] inntjeningsestimatene for selskapene.
+
+[00:20:39] Så utsiktene for
+
+[00:20:40] tilbudet etterspørselbalansen
+
+[00:20:42] ser fordelaktig i.
+
+[00:20:45] Altså, hvor bra kan dette bli?
+
+[00:20:47] Altså, 2022 snakker vi
+
+[00:20:48] tidenes år, eller?
+
+[00:20:50] Prøv å sette litt i perspektiv.
+
+[00:20:52] Ja, jeg tror absolutt vi kommer til å ha
+
+[00:20:54] tidenes år, i alle fall prismessig.
+
+[00:20:56] Vi ligger nå inne med 71 kroner kilo,
+
+[00:20:58] og det er høyere enn noensinne før.
+
+[00:21:00] Det er litt interessant med laksepris,
+
+[00:21:02] hvis vi ser historisk på
+
+[00:21:03] prisoppnåelsen, så har det gått litt
+
+[00:21:05] stegvis, hvor
+
+[00:21:07] tidlig på 2000-tallet
+
+[00:21:10] lå man på 20-25 kroner kilo,
+
+[00:21:13] og så fikk vi et steg opp
+
+[00:21:14] til ca. 40 kroner kilo.
+
+[00:21:16] Og så i 2016 fikk vi et nytt
+
+[00:21:18] steg opp til ca. 60 kroner kilo.
+
+[00:21:20] Og nå ser det ut som vi skal ta ytterligere
+
+[00:21:22] et steg opp til å ha 70 eller over
+
+[00:21:24] 70 kroner kilo, i hvert fall i
+
+[00:21:26] 2022. Og så forventer vi
+
+[00:21:28] litt tilbakefall i
+
+[00:21:30] 2023-2024, men
+
+[00:21:31] priserne så langt er utrolig
+
+[00:21:34] sterke, og bare som et
+
+[00:21:36] referansepunkt, så nå er vi på en måte
+
+[00:21:38] midt i kallet krigen med
+
+[00:21:39] Ukraina og Russland, som gjør at
+
+[00:21:42] en del volymer må finne nye markeder.
+
+[00:21:44] En del av flyrutene til Asien er jo
+
+[00:21:46] delvis stengt, eller i hvert fall
+
+[00:21:48] på et voldsomt økt kost.
+
+[00:21:50] Og man skulle jo tro at det skulle hatt en ganske stor
+
+[00:21:51] negativ impact. Og det vi nå
+
+[00:21:54] siste vi hører før jeg kom inn her i studio, var jo
+
+[00:21:56] laksepriset på rundt 85 kroner kilo.
+
+[00:21:58] Det er jo helt
+
+[00:21:59] ekstreme priser.
+
+[00:22:01] Hvor vesentlig er det for
+
+[00:22:02] tilbudssiden at, du nevnte jo dette
+
+[00:22:05] innledningsvis, at de kalle det
+
+[00:22:07] nye måten å lage laks på, ikke
+
+[00:22:08] har kommet så langt som
+
+[00:22:11] man kanskje forventet at de skulle
+
+[00:22:13] ha kommet for et par år siden,
+
+[00:22:15] tenker på langbasert og
+
+[00:22:16] overskjøret blant annet.
+
+[00:22:18] Nei, man kan jo si at normalt sett når du har industrier
+
+[00:22:20] som har hatt så god avkastning på kapitalen,
+
+[00:22:23] så vil det jo komme på en måte nytt tilbud inn.
+
+[00:22:26] Og så er jo levetiden
+
+[00:22:26] i laks ganske lange. Altså både
+
+[00:22:28] produksjonstiden er lang, men også hvis du skal
+
+[00:22:31] lage en ny teknologi som offshore
+
+[00:22:33] eller langbasert, så er det jo et år med
+
+[00:22:35] planlegging, et år eller to med bygging,
+
+[00:22:37] og så skal du faktisk vokse fiskene
+
+[00:22:39] i tillegg. Så
+
+[00:22:40] hva skal vi si? Den største utfordringen
+
+[00:22:43] der har jo vært at det har tatt lengre
+
+[00:22:45] tid. Veldig mye av denne
+
+[00:22:47] teknologien må finansieres nesten
+
+[00:22:49] utelukkende med egenkapital i første runde.
+
+[00:22:51] Det er ganske dyre investeringer. Så det har jo
+
+[00:22:53] stoppet litt opp på grunn av, la oss kalle det
+
+[00:22:55] oppstartsproblemer for enkelt av
+
+[00:22:57] de ledende selskapene. Også
+
+[00:22:59] generelt en dragning bort
+
+[00:23:01] hva jeg kaller vekstaksjer, som kanskje mer
+
+[00:23:03] mot verdiaksjer som vi har sett
+
+[00:23:04] i det siste. Og på offshore-siden
+
+[00:23:07] så venter man jo egentlig på avklaringer
+
+[00:23:09] fra myndighetenes side på
+
+[00:23:11] hvordan lisensstrukturen
+
+[00:23:13] egentlig skal se ut.
+
+[00:23:15] Ja, Paul, som Alexander
+
+[00:23:17] tegner et bilde av her, det ser
+
+[00:23:19] bra ut for sektoren
+
+[00:23:21] i porteføljen med anbefalte
+
+[00:23:22] aksjer, så har du en sjømat
+
+[00:23:25] aksje nå. Jeg antar
+
+[00:23:27] du vurderer å ta inn
+
+[00:23:29] flere løpende
+
+[00:23:31] priser. Prisene her
+
+[00:23:33] er jo kanskje det som er mest
+
+[00:23:35] å si, helt i det korte
+
+[00:23:37] bildet, og de vet vi, de kan
+
+[00:23:39] svinge, så det er vel på en måte en ting du
+
+[00:23:41] følger med på. Ja, vi har
+
+[00:23:43] en sjømat aksje i porteføljen
+
+[00:23:45] akkurat nå, og det tilsvarer
+
+[00:23:47] noen trend til nøytral vekt
+
+[00:23:49] når vi har en
+
+[00:23:51] equal weight i porteføljen.
+
+[00:23:53] Og som du sier, så er det noe som vi
+
+[00:23:55] vurderer om vi skal justere opp.
+
+[00:23:57] Vi hadde to sjømat aksjer
+
+[00:23:59] tidligere på året, når sektoren gjorde for oss
+
+[00:24:01] bra, og så tok vi det litt
+
+[00:24:03] ned rundt rapporteringssesongen,
+
+[00:24:05] fordi det har vært en bransje hvor det har
+
+[00:24:07] vært noe blandet på rapporteringssiden
+
+[00:24:09] tidligere, så vi ville egentlig prøve å
+
+[00:24:11] unngå den rapporteringsrisikoen.
+
+[00:24:13] Så er det riktig
+
+[00:24:15] tid å vekte opp nå, eller
+
+[00:24:17] ikke? Og
+
+[00:24:18] det som jeg synes er mest vanskelig
+
+[00:24:21] å vurdere akkurat nå, at når priserne allerede
+
+[00:24:23] er veldig høye, er risikoen
+
+[00:24:25] nå at det blir ikke noe bedre,
+
+[00:24:27] og det er da man egentlig skal ta i vinst, eller
+
+[00:24:29] er det sånn at disse priserne holder seg
+
+[00:24:31] såpass høyt nå, at analytikeren
+
+[00:24:33] nå kommer til å være på etterskudd
+
+[00:24:35] hele tiden, hver gang de går tilbake til
+
+[00:24:37] regnearkene, så må de justere opp
+
+[00:24:39] prisanslaget litt mer, og så
+
+[00:24:41] blir det til at du da får en
+
+[00:24:42] stabil oppjustering i estimatene
+
+[00:24:45] på samme tidspunkt, hvor veldig mange
+
+[00:24:47] andre aksjer antageligvis får nedjustering
+
+[00:24:49] i estimatene med unntak av energi
+
+[00:24:51] og råvarer. Så er det det som
+
+[00:24:53] lurer litt på, da er det sånn at
+
+[00:24:55] det er man for sent ute,
+
+[00:24:57] hvis prisen allerede er så høyt som det
+
+[00:24:59] eventuelt skal bli, eller er det sånn at det er
+
+[00:25:01] mer å hente der?
+
+[00:25:03] Noen tanker, Alex?
+
+[00:25:04] Jeg er jo enig at det er en utfordring
+
+[00:25:08] i det spille som er markedet,
+
+[00:25:10] og jeg tror i hvert fall konsensusestimatene
+
+[00:25:13] de skal opp over,
+
+[00:25:14] det føler jeg meg ganske komfortabel på.
+
+[00:25:16] Vi ligger som sagt med 71 kroner kilo
+
+[00:25:17] for lakseprisestimat i år, og jeg tror
+
+[00:25:20] det siste konsensuset jeg så var på 64,
+
+[00:25:22] så det er jo langt, langt bak,
+
+[00:25:24] og vi har også sett forpriser som nå er på
+
+[00:25:26] over 70 kroner kilo for hele året.
+
+[00:25:28] Så de estimatene skal opp,
+
+[00:25:30] og så er det litt som Bård sier, at
+
+[00:25:31] nå er vi på 80-90 kroner kilo,
+
+[00:25:35] nå er det klart at
+
+[00:25:35] deltaen derfra vil jo med all sannsynlighet
+
+[00:25:38] være nedover,
+
+[00:25:40] men jeg tror nok
+
+[00:25:41] positive earnings revisions kommer til
+
+[00:25:44] å tromfe den kortsiktige fallet
+
+[00:25:46] i spotpriser.
+
+[00:25:47] På det har vi snakket om både
+
+[00:25:50] inflasjon og rentehevinger globalt
+
+[00:25:52] her tidligere før du kom inn i
+
+[00:25:54] studio, og dette treffer vel også
+
+[00:25:56] oppdrettsnæringen også,
+
+[00:25:58] særlig i form av høyere
+
+[00:25:59] forkostnader,
+
+[00:26:01] for eksempel.
+
+[00:26:01] Ja, absolutt.
+
+[00:26:03] Alt er ikke rosenløtt her,
+
+[00:26:06] og vi startet jo på å skrive
+
+[00:26:08] på denne sektorrapporten for litt over
+
+[00:26:09] tre uker siden, og da var vi enda
+
+[00:26:11] mer positive, mens har selvfølgelig denne
+
+[00:26:13] krigen gjort at vi har sett ytterligere
+
+[00:26:16] inflasjon på veldig mange
+
+[00:26:17] råvare som går inn i
+
+[00:26:19] produksjonskosten. Og det gjør jo at
+
+[00:26:22] selv om vi tok opp vårt
+
+[00:26:23] produksjonskostestimat med 3 kroner
+
+[00:26:25] kiloen i desember
+
+[00:26:27] i fjor, så har vi tatt opp ytterligere
+
+[00:26:29] 2 kroner kilo nå. Så vi har
+
+[00:26:31] økt kostnadssystematene
+
+[00:26:33] med 5 kroner kiloen, bare på
+
+[00:26:35] tre måneder. Og fortsatt
+
+[00:26:37] så må vi være ydmyke for at det er
+
+[00:26:39] veldig stor volatilitet, og det kan være
+
+[00:26:41] ytterligere oppside på at kost
+
+[00:26:43] blir høyere enn det vi har lagt til grunn
+
+[00:26:45] også. Men vi føler i hvert fall at vi har
+
+[00:26:48] hensyntatt det,
+
+[00:26:50] i hvert fall basert på den informasjonen vi har
+
+[00:26:51] tilgjengelig i dag. Og så får vi se hvor
+
+[00:26:53] mye bedre eller verre det blir
+
+[00:26:55] fremover. Men er det store
+
+[00:26:57] forskjeller her som investorene
+
+[00:26:59] bør være opptatt på?
+
+[00:27:01] Være klare over, altså blant selskapene
+
+[00:27:03] i sektoren? Og da tenker jeg på i hvilken
+
+[00:27:06] grad selskapene
+
+[00:27:07] evner og klarer å
+
+[00:27:09] sende kostnadene
+
+[00:27:12] for prisøkningen videre
+
+[00:27:13] til neste mann i verdikjeden?
+
+[00:27:16] Ja, det er jo store
+
+[00:27:17] kostnadsforskjeller fra
+
+[00:27:19] de enkelte produsentene, også fra
+
+[00:27:21] de forskjellige regionene de produserer i.
+
+[00:27:24] Så det er ganske stort sprik
+
+[00:27:25] der. Men nå er det noe sånn at
+
+[00:27:27] vi tror at prisen kommer til å øke mer
+
+[00:27:29] enn kost, og således.
+
+[00:27:31] Så et selskap med en
+
+[00:27:33] lav margin vil jo prosentvis få
+
+[00:27:35] en større økning, sånn som vi ser det nå.
+
+[00:27:38] Så våre topics nå
+
+[00:27:39] er jo Lerøy
+
+[00:27:42] og Griggs Seafood, som har hatt
+
+[00:27:43] noen lavere marginer historisk enn for eksempel
+
+[00:27:46] Salmar.
+
+[00:27:47] Og det går litt på at vi tror at økningsektimatene
+
+[00:27:49] kommer til å komme opp mer for de selskapene,
+
+[00:27:51] i tillegg til at de handler på lavere
+
+[00:27:53] multipler enn for eksempel Salmar.
+
+[00:27:56] Men den største x-faktoren
+
+[00:27:58] fremover, hva blir det?
+
+[00:28:01] Nei, altså det er jo flere
+
+[00:28:02] vi tar opp flere x-faktorer
+
+[00:28:03] i rapporten vår. En faktor som
+
+[00:28:06] jeg synes er ganske spennende er jo den nye
+
+[00:28:07] kylenske presidenten, som er relativt
+
+[00:28:10] opptrettsfintlig, som ønsker
+
+[00:28:12] en mye mer bærekraftig vekst
+
+[00:28:14] fra Chile, og det kan jo bety at
+
+[00:28:16] verdens nest største produsent kommer til å vokse
+
+[00:28:18] sakte i årene fremover. Det vil jo være
+
+[00:28:20] negativt for tilbudet,
+
+[00:28:22] men bra for prisen, og for de
+
+[00:28:24] i hvert fall de norske aktørene.
+
+[00:28:25] Og så er det som vi nettopp snakket om,
+
+[00:28:27] råvare, altså kostinflation, det vil jo
+
+[00:28:30] være en x-faktor. Og så
+
+[00:28:32] kanskje på litt lenger sikt, så vil jeg si at en av de
+
+[00:28:34] få store, negative
+
+[00:28:36] x-faktorene her da, vil jo være
+
+[00:28:37] grunnrenteskatten på nytt.
+
+[00:28:40] Hvis våre anslag slår til, så kommer jo
+
+[00:28:42] disse selskapene til å skuffe inn penger nok en gang,
+
+[00:28:44] og da er det helt naturlig at den diskusjonen
+
+[00:28:46] om økt skatt kan komme til
+
+[00:28:48] å dukke opp igjen.
+
+[00:28:50] Nei, Paul, hvis vi skal prøve å oppsummere
+
+[00:28:52] sjømat,
+
+[00:28:53] interessant å følge med på
+
+[00:28:56] fremover, uansett
+
+[00:28:58] om man sitter i markedet med
+
+[00:28:59] lange eller
+
+[00:29:01] korte
+
+[00:29:02] briller.
+
+[00:29:02] Ja, og jeg tror, som du nevnte, at det som
+
+[00:29:05] kanskje blir viktigst
+
+[00:29:07] her er til hvilken grad, eller hvor
+
+[00:29:09] fort man klarer å dytte
+
+[00:29:10] kostnådene videre gjennom kjeden,
+
+[00:29:12] for jeg tror det er noe som blir en utfordring
+
+[00:29:15] for veldig mange,
+
+[00:29:16] nå tenker jeg egentlig på mange forskjellige
+
+[00:29:18] sektorer, for at nå har vi
+
+[00:29:20] egentlig etter korona da hatt en periode
+
+[00:29:22] hvor det har stort sett vært margin-
+
+[00:29:24] ekspansjon. De aller fleste da
+
+[00:29:26] fikk mulighet til å kutte kostnåder,
+
+[00:29:29] eller et sånt type kostnådskutt som de hadde
+
+[00:29:30] tenkt å gjøre.
+
+[00:29:32] Rundt den tiden
+
+[00:29:33] fikk de da en god unnskyldning til å gjøre mye
+
+[00:29:35] fortere enn antatt tidligere.
+
+[00:29:38] Så der er det
+
+[00:29:39] veldig mange selskap nå som er på
+
+[00:29:41] historisk høyt
+
+[00:29:43] lønnsomhetsnivå, men vi
+
+[00:29:45] så etter Q1-rapporteringssesongen
+
+[00:29:48] at nå har det blitt
+
+[00:29:49] mer og mer tydelig at det er
+
+[00:29:51] marginpress i veldig mange bransjer.
+
+[00:29:53] Så det var bare en tredjedel av
+
+[00:29:55] selskapene som klarte å overraske positivt
+
+[00:29:57] på marginer, men det synes da
+
+[00:29:59] blir veldig spennende med sjømat, at
+
+[00:30:00] man får da justert opp
+
+[00:30:02] prisen mer enn
+
+[00:30:05] man justerer opp kostnådene, så klarer
+
+[00:30:07] man å etablere
+
+[00:30:08] en videre marginforbedring
+
+[00:30:11] her, så er det noe som
+
+[00:30:12] stikker ut litt i forhold til veldig mange andre
+
+[00:30:14] sektorer nå. Veldig bra det,
+
+[00:30:17] det betyr at vi har kommet til
+
+[00:30:18] veis ende for
+
+[00:30:20] i dag, så da gjenstår det bare å si
+
+[00:30:22] tusen takk til dere begge to
+
+[00:30:25] for at dere var med, og
+
+[00:30:27] sist, men ikke minst
+
+[00:30:29] tusen takk, folkens, til alle
+
+[00:30:30] dere som hørte på.
+
+[00:30:50] Denne podcasten og detts innhold

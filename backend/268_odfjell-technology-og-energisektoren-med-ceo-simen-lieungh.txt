@@ -1,0 +1,977 @@
+Episode 268: Odfjell Technology og energisektoren med CEO Simen Lieungh
+Publisert: Fri, 15 Ap
+Vert: Marius Brun Haugen
+Varighet: 30 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/odfjell-technology-og-energisektoren-med-ceo-simen-lieungh
+
+--- Transkripsjon ---
+
+[00:00:00] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer i den globale økonomien og finansmarken.
+
+[00:00:08] Jeg er Marius Brunhaugen fra DNB Markets, og i denne episoden skal det handle om Oddfjell Technology.
+
+[00:00:16] De er nylig skilt ut fra Oddfjell Drilling med bistand fra oss i DNB Markets, og er nå et eget selskap på Oslo Børs.
+
+[00:00:25] Aksjen handler under tikkerne OTL.
+
+[00:00:27] Jeg hadde nylig besøk av selskapets sjef, Simen Leong i studio, og det ble en veldig interessant samtale som gir god forståelse for hva Oddfjell Technology gjør, og hvordan de planlegger å vokse.
+
+[00:00:41] I tillegg er Simen verdt å lytte på, fordi han har lang fartsid fra bransjen og kan mye om oljeservicenæringen generelt, og han forklarer blant annet hvorfor han mener utsiktene er bedre enn på lenge.
+
+[00:00:56] Denne seansen her var opprinnelig en video for DNB-kunder, og ble tatt opp tirsdag 5. april. God fornøyelse, og takk for at du hører på Utbytte.
+
+[00:01:12] Velkommen i studio, Simen.
+
+[00:01:14] Takk.
+
+[00:01:15] For unnskyld, så får vi også ta med at vi i DNB Markets bistod dere i forbindelse med prosessen av å skille ut selskapet, og jeg tenkte vi kunne starte med at du kan si litt, hva er rasjonalet bak å skille ut Oddfjell Technology som et eget selskap?
+
+[00:01:30] Det er at vi børsonderte Oddfjell Drilling i 2013, og da diskuterte vi om vi skulle gå samlet, integrert såkalt, eller være delt den gangen.
+
+[00:01:42] Vi valgte å være sammen.
+
+[00:01:45] Integrert, av grunner som rådgiver ga oss, og så videre, og det var riktig, det viste seg å være riktig.
+
+[00:01:52] Så fikk vi jo en kjempekrise i 2015, det var kanskje tidenes verste oljekrise noen gang, altså i sektoren, i Norge så mistet 50 000 mennesker jobben.
+
+[00:02:02] Vi så ikke, liksom det var vanvittig tøft, og da var det fortsatt greit å være integrert, for da kunne vi rydde opp internt, og gjorde det, vi sa opp masse mennesker, nå har vi ansatt mange igjen.
+
+[00:02:14] Vi kuttet kostnader, restrukturert alt sammen, og så har vi tenkt etterpå at etter hvert som markedet har endret seg, så er det med å ha rigger som er veldig sånn asset-tungt, mye capex, mer risiko, i forhold til den andre delen som nå er technology, som er mer asset-light, investorer, noen liker det bedre enn å være borte i tungt capex og mye assets.
+
+[00:02:37] Slik at svaret er jo kort at etter hvert som markedet har utviklet seg, vi har sett et rasjonal i å dele.
+
+[00:02:44] Vi har tiltrykk hos andre type aksjonære, investorer, annen type kapital, så har dette på en måte sklitt litt fra hverandre, så har vi vært litt hindret i å gjøre det tidligere på grunn av mer krise og pandemi.
+
+[00:02:56] Vi jobbet tungt på det i 2019, og så kom pandemien, og så stoppet det igjen, så nå har vi gjennomført.
+
+[00:03:01] Er det blitt vanlig å gjøre denne type separering mellom asset-heavy og asset-light, som du sier, i bransjen generelt, eller navigerer dere litt i ukjent farvann nå?
+
+[00:03:11] Jeg tror vi er like veldig mange.
+
+[00:03:14] Det er veldig ulike typer interesser blant investorer og aksjonærer.
+
+[00:03:20] Det er ikke uvanlig å skille asset-heavy og asset-light.
+
+[00:03:23] Det er ikke uvanlig.
+
+[00:03:25] Vi var samlet fordi vi så også veldig bra synergier med å integrere tjenester og gjøre ting på smartere måter.
+
+[00:03:34] Når du har det innenfor samme huset, så kan du kombinere tjenester på en smart måte, og det gjorde vi gjennom krisen.
+
+[00:03:40] Så vi har greid oss gjennom disse to krisene bra, uten å ha gått skikkelig.
+
+[00:03:44] Vi har slitet på kapitalen, vi har hatt backlog, vi har hatt alt i arbeid.
+
+[00:03:48] Så vi har på en måte utviklet dette, og vi har sett selv at det å tilby tjenester som er litt annet satt sammen mot oljeselskapene i dag, det er ok.
+
+[00:03:59] Så det er et rent industriellt rasjonale bak det, sammen med et endret marked.
+
+[00:04:04] Så nå vil jeg jo anta at i teknologiselskapet så har du mange aksjonærer som kanskje i utgangspunktet er i dags for å få det,
+
+[00:04:14] den rene riggeksponeringen. Kan du ikke si litt mer om hva slags eksponering man får i Oddfjell Technology?
+
+[00:04:20] Jo, du har helt rett. Nå blir jo en aksje i Oddfjell Drilling gamle, det blir en i hver, og så samles 61 i Technology.
+
+[00:04:29] Og du kan si, det er jo for så vidt, for det første så er det en form for dividend i seg selv.
+
+[00:04:35] Det som aksjonærer, de fleste tror jeg er inne i aksjene på grunn av riggene.
+
+[00:04:41] Vi har hatt mange råd til å åpne i morgen.
+
+[00:04:44] Vi har snakket med mange typer investorer, og det er inne på rigg.
+
+[00:04:47] Det er veldig lett å analysere. Det er good and bad, men det er lett å analysere et riggselskap.
+
+[00:04:53] Det er verre å verdisette technology, for det er mye mer sammensatt av veldig mange forskjellige tjenester.
+
+[00:05:00] Så det å sette en algoritme på den, det tror jeg ikke mange som får til.
+
+[00:05:06] Så vi vil nok forvente hos oss at mange av de som sitter hos oss i dag, eller oss som er det gamle,
+
+[00:05:12] det er folk som tenker i rigg.
+
+[00:05:15] Og jeg er ikke overrasket hvis mange selger de aksjene etterpå for å reetablere seg igjen.
+
+[00:05:22] De som går inn i denne aksjen her, de får et veldig spennende servicemarked.
+
+[00:05:27] Nå har det vært mye vanskelig i år, men vi er jo inne i en sykel nå,
+
+[00:05:31] som flere større oljeselskap snakker om en ny super-cycle.
+
+[00:05:35] Selv mener jeg det også, at det kommer noen år fremover som vil være veldig interessante.
+
+[00:05:40] Og de som går inn til oss i dag, vil få en aksje som skal utvikle seg,
+
+[00:05:46] både innenfor det vi gjør i dag, og innenfor fornybart.
+
+[00:05:49] Da kommer vi litt tilbake til utsiktene for næringen etter hvert.
+
+[00:05:53] Men for å gi oss en idé om omfanget av forretningen til Oddfeld Technology,
+
+[00:06:00] hva er de viktigste nøkkeltalene som gir oss det?
+
+[00:06:03] Hva skal vi si i riktig perspektiv?
+
+[00:06:04] Jo altså, Oddfeld Technology er jo en virksomhet som i dag er satt inn i et nytt selskap,
+
+[00:06:10] men virksomheten har holdt på i 50 år egentlig.
+
+[00:06:13] Vi etablerte Oddfeld Drilling i 73, og denne typen virksomhet vi snakker om nå,
+
+[00:06:19] sammen med RIGS som er skilt av, det er holdt på i 40 år pluss.
+
+[00:06:26] Vi har i dag en order backlog på 1,3 milliarder dollar, som selskapet ruller og går hver dag.
+
+[00:06:32] Vi tjener penger og vi vinner jobber, og vi tjener penger hver dag allerede.
+
+[00:06:35] Det er ikke noe vi må etablere på nytt. Vi henter ikke noe egenkapital.
+
+[00:06:40] For det trenger vi ikke.
+
+[00:06:42] Vi har en gearing som er gjeld på EBITDA.
+
+[00:06:45] Det er på en litt under 2,5, kommer til å falle ganske kraftig fremover.
+
+[00:06:51] Vi har god inntekt. Vi har en cash-posisjon på rundt 50 millioner dollar.
+
+[00:06:57] Vi tok opp en obligasjon sammen med flere av dere blant annet,
+
+[00:07:01] og den på cirka 125 millioner dollar, og det gikk fort. Det gikk veldig greit.
+
+[00:07:08] Vi fikk god respons på den.
+
+[00:07:10] Da har vi 25 millioner dollar i en revolverfasilitet i Bonn, som er foran obligasjonen.
+
+[00:07:16] Så vi har ca. 150 millioner dollar reell.
+
+[00:07:20] Vi har en backlog på 1,3 milliarder, og i den backlogen ligger betydelig inntjening.
+
+[00:07:26] Den bygges hele tiden. Den har vært sånn omtrent gjennom hele løpet.
+
+[00:07:30] Så etter at vi har betalt renter og det vi ser på av investeringer,
+
+[00:07:35] så har vi ca. 30 millioner dollar i fri cash.
+
+[00:07:37] Hvem er de største kundene?
+
+[00:07:39] De største kundene er desidert de store åldersselskapene, som er de største.
+
+[00:07:44] Equinor, AKBP, Shell, Lundin, Conoco Phillips og Total har vi hatt mye med å gjøre.
+
+[00:07:54] Så er det også andre store kunder, spesielt innenfor brøntjenesten,
+
+[00:07:57] som er slumberger Halliburton Baker, som vi også jobber tett sammen med.
+
+[00:08:02] Så vi sier at 80-85% av inntektene våre er gjennom de 30 millioner dollar,
+
+[00:08:06] og resten av inntektene våre er gjennom de topp 10 kundene.
+
+[00:08:09] Hvordan er forholdet til Oddfjell Drilling?
+
+[00:08:12] Hvis de blir kjøpt opp, eller hvis Oddfjell Drilling skulle selge en eller flere rigger,
+
+[00:08:18] eller kjøpe flere rigger, vil det få konsekvenser for teknologi?
+
+[00:08:22] Nå blir det jo slik at når vi skiller, så etablerer vi avtaler på armlengdes avstand.
+
+[00:08:28] Vi etablerer på konkurransemessige betingelser.
+
+[00:08:32] Så alle de tjenestene vi selger tilbake til Oddfjell Drilling,
+
+[00:08:35] værer seg oppgraderinger, klassinger, type ting som er på modifikasjoner teknisk.
+
+[00:08:41] Vi har gjort veldig mye rundt dette grønne skiftet, installert teknologi for å få noe utslipp.
+
+[00:08:46] Den type tjenester er jo naturlig at Oddfjell Technology leverer, for det har de gjort i alle år.
+
+[00:08:52] Oddfjell Drilling har jo ikke den kompetansen i volym selv.
+
+[00:08:57] Men etter hvert som Oddfjell Drilling utvikler seg,
+
+[00:09:01] så må jo vi konkurrere med å få de tjenestene vi skal ha.
+
+[00:09:05] Og det betyr at vi må være markedsrettet.
+
+[00:09:08] Vi må være konkurransedyktige i forhold til økonomi og tjenester.
+
+[00:09:15] Nå er det sånn at Oddfjell Technology har jo historisk gjort mesteparten av designet på disse riggene.
+
+[00:09:21] Så de kan jo riggene gjort klassingene i mange, mange år allerede.
+
+[00:09:24] Så det er jo naturlig at man går dit.
+
+[00:09:26] Vi ser jo det, og en klassing er jo en ekstrem øvelse for å få det raskest og riktigst og rett tilbake på kontrakt.
+
+[00:09:33] Vi vet at vi har kompetanse som er helt unik,
+
+[00:09:37] og vi hjelper også andre konkurrenter med et type klassinger og modifikasjoner.
+
+[00:09:41] Slik at jeg håper jo at Oddfjell Drilling utvikler seg skikkelig fremover.
+
+[00:09:45] Så det er bare en fordel.
+
+[00:09:47] Dere har tre hovedsegmenter, det er brøntjenester, bordoperasjoner og ingeniørarbeid.
+
+[00:09:52] Kan ikke du kort beskrive de for oss, sånn at vi forstår det, og gjerne også hvordan de er integrert?
+
+[00:09:57] Ja, altså det er, for å begynne med det enkleste, det er bordoperasjoner.
+
+[00:10:02] Da borer vi på anlegg som vi selv ikke eier, altså det er faste installasjoner.
+
+[00:10:09] På plattformer ute i havet så er det ofte bordanlegg, men det knyttes til produksjon av olje og gass.
+
+[00:10:15] Det er ikke noe man flytter rundt selvfølgelig, men det er lange kontrakter, veldig stabile kontrakter, for det knytter seg til produksjonen.
+
+[00:10:23] For et oljeselskap så er jo boring for å vedlikeholde produksjon.
+
+[00:10:27] Vi leverer bordetjenestene med mer folk og kruer,
+
+[00:10:32] og gjør modifikasjoner når det er nødvendig, det gjør vi da med ingeniørlige versjoner.
+
+[00:10:37] Så det er på en måte kontakter som kan være mellom fem og ti år, en del fast, og så masse opsjoner.
+
+[00:10:45] Så det er en betydelig backlog som vi vedlikeholder, og hvis vi leverer godt sikkerhet innenfor effektivitet,
+
+[00:10:54] så får vi stort sett bare beholdt kontraktene.
+
+[00:10:57] Så dette er på mange måter langsiktig business?
+
+[00:10:59] Det er langsiktig business, veldig.
+
+[00:11:01] Hvis en plattform produserer, så må de bore.
+
+[00:11:04] Og da er det sånn at det kan være 8-10 års kontrakter.
+
+[00:11:08] Men det er klart, oljeselskapene tillader seg selvfølgelig å kvalifisere til hvert som tester markedet.
+
+[00:11:15] Du får ikke noe gratis lunsj her, det gjør du ikke.
+
+[00:11:17] Men du må vise at du er på hugg og leverer, ikke sant?
+
+[00:11:20] Og er du der, så er det liksom over to lose, sier vi.
+
+[00:11:23] Og typisk så er det 85% av tilfellene så blir opsjonene erklært av og til at de går ut på ulike årsaker.
+
+[00:11:30] Så det er den enkleste delen.
+
+[00:11:33] Så har du det som er mest komplekst, det er well-services, brøntjenester.
+
+[00:11:37] Det er veldig mye utstyr, det er ikke boring, men det er alt det som går opp i borehullet.
+
+[00:11:43] Og det er masse forskjellige dyppetider for å bruke det ordet, masse forskjellige navn på dem.
+
+[00:11:49] Vi har et lager i dag som har kostnadsført 400 millioner dollar.
+
+[00:11:56] Så det er tusenvis av ting vi sjøffler rundt.
+
+[00:11:59] Vi sjøffler rundt i markedet, leier ut stort sett.
+
+[00:12:02] 75% av virksomheten er utleie og utstyr.
+
+[00:12:05] Betydelig gode marginer.
+
+[00:12:07] Og vi opererer i 20 land, og her er det viktig at du har logistikk på plass.
+
+[00:12:13] Det er å være til stede der kunden skal ha det.
+
+[00:12:16] Vi opererer jo ut fra Aberdeen og Dubai, ut fra Afrika og Midtøsten og Asia.
+
+[00:12:24] Sørøst-Asia og sentral-Asia.
+
+[00:12:28] Og så er vi i Bergen og Stavanger på nordlige områdene.
+
+[00:12:32] Vi opererer på landrigger, vann, grunnt vann, dypt vann, middvåter, dypt, harsh environment.
+
+[00:12:39] Så alt det samme utstyr som går.
+
+[00:12:42] Og det er en virksomhet som vi ser nå kommer veldig.
+
+[00:12:46] Altså det har vært noen år nå med tungt.
+
+[00:12:49] Der kommer et marked som blir veldig sterkt, og spesielt med den energikrisa.
+
+[00:12:53] Så ser vi at det rampes kraftig opp i Midtøsten og Asia.
+
+[00:12:57] Sørøst-Asia.
+
+[00:12:59] Så det er en veldig vanskelig virksomhet å forstå egentlig.
+
+[00:13:02] Det er veldig vanskelig å regne på, for det er veldig mye kontrakter som er 2-3 år.
+
+[00:13:06] Mye rammeavtaler.
+
+[00:13:08] Så du kaller deg mot bordeprogrammene.
+
+[00:13:10] Det er liksom ikke noe fast å ta i.
+
+[00:13:12] Men backloggen her er over 300 millioner dollar nå.
+
+[00:13:14] Og vi forventer den kommer til å krype.
+
+[00:13:16] Og det er konservativt anslag.
+
+[00:13:18] Så alle de tallene vi snakker om, på grunn av brøntid, er så vanskelig å modellere.
+
+[00:13:24] Så legger vi oss konservativt.
+
+[00:13:25] Vi vil ikke lage noen forhold.
+
+[00:13:26] Vi vil ikke lage noen forhåpninger og mye forventninger som kanskje ikke kommer.
+
+[00:13:30] Så vi legger oss forsiktig.
+
+[00:13:31] Det er ikke noe hockeystikk vi kommer til å presentere.
+
+[00:13:34] Men det er en utrolig spennende virksomhet.
+
+[00:13:36] Flere rigger og mer aktivitet, jo mer får vi.
+
+[00:13:39] Og det er veldig bra magi i det der.
+
+[00:13:41] Så har vi en ingeniørdiversjon, som er en ekstremt viktig del.
+
+[00:13:46] Som vi kanskje ser nå til å utvikle mye mer.
+
+[00:13:49] Og der har du synergier mot både rigger, plattformborring, well-services og så videre.
+
+[00:13:56] Og well-services betjener jo flytere og faste, alt egene og andres rigger.
+
+[00:14:01] Slik at det er mye mix her.
+
+[00:14:03] Og så ser vi for oss å kombinere for eksempel well-services mer med boreoperasjoner.
+
+[00:14:08] For der kan du gjøre dette med slott recovery, plug-and-bent aktiviteter.
+
+[00:14:12] Du må pakke tjenester på en litt annen måte.
+
+[00:14:14] Og det er litt av årsaken til at vi gjør dette også.
+
+[00:14:16] At vi kan tilfredsstille det kunden faktisk ber om.
+
+[00:14:19] Så vi greier å møte kundens krav i forhold til å kunne modellere løsninger for han som er verdiskapende for han.
+
+[00:14:25] Og som på en måte vi andre ikke kan etterhåpe.
+
+[00:14:28] Og så er det sånn at dere som alle andre må jo også posisjonere dere i forhold til det grønne skiftet.
+
+[00:14:34] Som på en måte dundrer videre uavhengig av hva som skjer ellers i verden nær sagt.
+
+[00:14:40] Og det er vel også en viktig grunn til at, eller i hvert fall en av årsakene til at dere har gjort denne utskillelsen.
+
+[00:14:47] Hvordan posisjonerer dere forretningen til Oddfield Technology mot det grønne skiftet?
+
+[00:14:52] Ja, det er jo et sånt nøkkelse.
+
+[00:14:54] Et sånt nøkkelspørsmål.
+
+[00:14:56] Nå har vi de siste to årene så har vi etablert Oddfield Oceanwind.
+
+[00:15:00] Som det har vært mye skriverier om nylig.
+
+[00:15:03] Vi har valgt å gå litt forsiktig fram.
+
+[00:15:06] Ikke kaste på den børsnoteringsbølgen uten å ha noe innhold.
+
+[00:15:09] Vi har alltid vært veldig, hva skal jeg si, konservativ i forhold til.
+
+[00:15:14] Når vi gjør noe i markedet, så er ikke vi store nok til å drive og spekulere på forventninger.
+
+[00:15:20] Vi er ikke interessert i det heller.
+
+[00:15:21] Jeg liker å si at når vi har cashflow.
+
+[00:15:23] Da er det ordentlig vare.
+
+[00:15:25] Når man snakker om noe man har lyst til å gjøre, så er det ikke fullt vare.
+
+[00:15:28] I hvert fall hos oss, så er det ikke sånn.
+
+[00:15:30] Og jeg tenker sånn at vi eier i dag, Oddfield Technology eier 21% av Oddfield Oceanwind.
+
+[00:15:37] Der har vi nå etablert et ganske tungt regime på å bygge opp Oddfield Oceanwind.
+
+[00:15:44] Vi har kontakt med alle kundene våre.
+
+[00:15:47] Vi har eget konsept.
+
+[00:15:48] Vi har samarbeidet med Siemens Energy og Siemens Gamesa.
+
+[00:15:51] Så vi har tilgang på turbiner.
+
+[00:15:52] Vi håper å få de første kontaktene i år.
+
+[00:15:55] Vi er i tett dialog med ministre og politikere og fagforeninger og LO'er og alt.
+
+[00:16:01] For å snakke det frem at vi ikke trenger å vente til 2030.
+
+[00:16:05] Hvis vi får en kontakt i år, så er vi i vannet i 2024.
+
+[00:16:09] Og leverer kraft til plattformen og elektrifiserer sokkelen.
+
+[00:16:13] Dette som vi har sett lenge er dette med kabler fra land.
+
+[00:16:16] Det er et blindspår for mildt sagt.
+
+[00:16:19] Og det er litt småfrustrerende.
+
+[00:16:22] Å møte politikere som ikke tror det er mulig å gjøre noe annet.
+
+[00:16:26] Nå hørte vi til og med nylig at man må utsette klimamålene.
+
+[00:16:29] Det er vi helt uenige i.
+
+[00:16:30] Så Oddfield Technology er nøkkelen i hele Oceanwind.
+
+[00:16:35] Vi har 50 stykker som jobber der i dag fra ingeniøring.
+
+[00:16:39] Og vi bygger opp noe.
+
+[00:16:41] Får vi kontrakt og får vi napp, så vil vi kanskje tenke etter hvert børsnotering.
+
+[00:16:46] Det har vi fått med oss på eiersiden, Arne Blystad og kompaniet.
+
+[00:16:50] Og vi har med oss Trønder Energi.
+
+[00:16:51] Og så har vi gründere som blir med.
+
+[00:16:53] Og så Oddfield-gruppen.
+
+[00:16:55] Totalt sett kontrollerer ca. 55% av Oceanwind.
+
+[00:16:59] Så dette satser dere på.
+
+[00:17:01] Men hvor viktig det vil bli i fremtiden, det er litt for tidlig å si ennå.
+
+[00:17:05] Det er litt for tidlig å si.
+
+[00:17:07] Du kan si, hva skal du satse på?
+
+[00:17:11] Jeg mener vår maritime kompetanse, den er sterk.
+
+[00:17:15] Vår teknologi når det gjelder å utvikle løsninger er veldig sterk.
+
+[00:17:19] Så hva vi satser på at the end of the day, det får tiden vise.
+
+[00:17:23] Havvind er den store satsingen.
+
+[00:17:25] Den har et enormt potensiale.
+
+[00:17:27] Og det blir ordentlig trykkere fremover.
+
+[00:17:29] Og vi kommer til å være tett på det.
+
+[00:17:31] Det kan komme andre ting.
+
+[00:17:33] Vi har sett på geothermal, som er en borring og finner jordvarme.
+
+[00:17:37] Der er det også interessant.
+
+[00:17:39] Vi har sett på hydrogensatsing.
+
+[00:17:41] Det kan lett kombineres med havvind, diesel og elektrolyse.
+
+[00:17:45] Så etter hvert som teknologiene kommer fram,
+
+[00:17:47] så har vi tenkt å plukke vår del av det.
+
+[00:17:49] Og det er det vi posisjonerer teknologi for.
+
+[00:17:51] Vi forventer ikke noen store inntekter av dette her på de første årene.
+
+[00:17:55] Vi forventer, for da skal vi tjene pengene på det vi har vært gode på i olje og gass.
+
+[00:17:59] Men så forventer vi at det tar av mer i den retningen.
+
+[00:18:01] Og det vil tida vise hvor god vi blir.
+
+[00:18:05] Så hvis du deler opp i forretningsområdene som det er nå,
+
+[00:18:07] så høres det ut som det grønne er litt i en egen boks.
+
+[00:18:11] Men over tid, forhåpentligvis, vil det kanskje bli mer en integrert del.
+
+[00:18:15] Som på en måte gjennomsyrer teknologi.
+
+[00:18:17] Det kan bli det.
+
+[00:18:19] Jeg tror egentlig at,
+
+[00:18:21] jeg forventer jo at olje og gass virksomheten kommer til å vare lenge.
+
+[00:18:25] Vi må holde trykket på den, og gjøre det miljøvennlig.
+
+[00:18:27] Det er det vi jobber med.
+
+[00:18:29] Vi har jo null og stipp filosofi hos oss.
+
+[00:18:31] Men olje og gass vil nok pike,
+
+[00:18:35] mange synes kanskje det er synd,
+
+[00:18:37] men jeg ser ikke noen peak på det før 35-40,
+
+[00:18:39] så begynner det kanskje å dabbe av.
+
+[00:18:41] Så det er veldig mange år med dette først.
+
+[00:18:43] Så jeg ser for meg at vi jobber med det grønne skiftet.
+
+[00:18:45] Hva slags eierskap,
+
+[00:18:47] og hva vi setter i gang av virksomheten,
+
+[00:18:49] det vil jo være fra case to case.
+
+[00:18:51] Så jeg vil ikke si om det er integrert eller separert,
+
+[00:18:53] det er for tiden vise.
+
+[00:18:55] Men vi har i hvert fall en sterk katalysator i dag,
+
+[00:18:57] for å få ocean wind til å fly først.
+
+[00:18:59] Det er teknologi en bærebjelke for.
+
+[00:19:01] Du har lang erfaring fra bransjen, Simen.
+
+[00:19:09] Det tror jeg de fleste av seerne og lytterne våre vet.
+
+[00:19:13] Men det er jo interessant å høre selvfølgelig,
+
+[00:19:16] hvordan du vurderer utsiktene for oljeservicebransjen generelt.
+
+[00:19:20] Nå avslørte du litt av det,
+
+[00:19:22] og innledningsvis at det ser vel mer positivt ut enn på lenge,
+
+[00:19:26] og det er det mange som er enige med deg i.
+
+[00:19:28] Hva er det som gjør på en måte at det skal bli bedre nå?
+
+[00:19:32] Det har vært i mange år siden 15-krisen kom,
+
+[00:19:37] så har det vært investert svært lite.
+
+[00:19:40] Og det har vært dårlig oljepris selvfølgelig,
+
+[00:19:43] og det har vært kriser,
+
+[00:19:44] og det har vært trykk for å få fram det grønne skiftet.
+
+[00:19:47] Og så har det nok vært,
+
+[00:19:50] dessverre for mange,
+
+[00:19:51] ikke sett at den tsunamien kommer til å komme.
+
+[00:19:55] Fordi at realismen er jo at verden trenger energi,
+
+[00:19:59] og det er ikke nok fornybart på mange år enda
+
+[00:20:02] i forhold til å erstatte olje og gass,
+
+[00:20:04] og helst bli kvitt kullet.
+
+[00:20:07] Så vi da som har holdt på med dette i mange år,
+
+[00:20:10] har vel kanskje sett i de siste 3-4 årene at
+
+[00:20:13] det er bare snakk om når den ketchup-effekten kommer.
+
+[00:20:18] Og det så vi jo nå gjennom energipriser.
+
+[00:20:22] Oljeselskapene har jo ikke investert nesten ingenting
+
+[00:20:26] i å erstatte produksjonen.
+
+[00:20:28] Det er jo sånn at forbruket i verden er på dag ca.
+
+[00:20:32] 100-105 millioner fatt olje per dag.
+
+[00:20:35] Vi forventer jo ikke at det skal bli 150,
+
+[00:20:37] men det må mye til for å vedlike olje det.
+
+[00:20:39] Og det er det som på en måte,
+
+[00:20:41] nå kommer de der voldsomme akselererte feltbyggene,
+
+[00:20:45] fordi at gassprisen er gått helt himmelhøyt,
+
+[00:20:47] oljeprisen er nå 110,
+
+[00:20:49] og det er ikke bærekraftig på den måten.
+
+[00:20:50] Det er ikke bærekraftig på den måten.
+
+[00:20:51] Det er ikke bærekraftig på sikt.
+
+[00:20:53] Man må få disse til å bli mer stabile.
+
+[00:20:56] For hvis det blir sånn at det er så høye priser,
+
+[00:20:59] så vil etter hvert land ikke greie å betjene
+
+[00:21:01] energibehovet sitt på penger,
+
+[00:21:03] og de går bøst også.
+
+[00:21:05] Så det vil skade alle.
+
+[00:21:07] Så nå kommer det en runde med mye investeringer
+
+[00:21:10] for å vedlikeholde,
+
+[00:21:12] og det går over hele fjerdag.
+
+[00:21:14] Så jeg tenker sånn at vi vil se over hele verden,
+
+[00:21:18] så vil du se at oljevirksomheten kommer til å ta opp,
+
+[00:21:21] men så må vi trykke på fornybart,
+
+[00:21:23] slik at vi det forstatter så fort som mulig.
+
+[00:21:25] Det blir på en måte kunsten.
+
+[00:21:27] Det er jo vanskelig å være uenig med deg i det,
+
+[00:21:29] men opplever du også at de store oljeselskapene
+
+[00:21:33] får signaler at det er mer politisk vilje også,
+
+[00:21:38] til at man kan trykke litt hardere
+
+[00:21:41] på investeringsplanene sine?
+
+[00:21:45] Jeg føler det.
+
+[00:21:47] Men jeg tror ikke de slipper unna med å si at
+
+[00:21:49] vi glemmer at vi er også kommittet på et fornybart.
+
+[00:21:52] Så man må gjøre begge deler.
+
+[00:21:54] Åpenbart.
+
+[00:21:56] Men det er nok en realism i å si at
+
+[00:21:59] verden har behov for energi.
+
+[00:22:02] Du kan ikke bare kutte ut dette her,
+
+[00:22:05] for det blir dramatisk for husstanden.
+
+[00:22:08] Du ser at folk plutselig ikke kan fyre opp i husene sine,
+
+[00:22:10] så da blir denne fornybar diskusjonen glemt
+
+[00:22:13] når du fryser i heimen.
+
+[00:22:15] Du ikke har mat i kjøleskapet,
+
+[00:22:17] så blir det krevende.
+
+[00:22:19] Du må gjøre begge deler.
+
+[00:22:21] Det tror jeg de fleste av leverandørene
+
+[00:22:23] må ta innover seg.
+
+[00:22:25] Vi må også være ekstremt på hugget
+
+[00:22:27] med å levere på ESG-kopiene.
+
+[00:22:30] Det er viktig. Veldig viktig.
+
+[00:22:32] For det betyr at oljeselskapene,
+
+[00:22:34] når man kvalifiserer seg,
+
+[00:22:36] så må man også vise at man gjør det
+
+[00:22:38] de også har behov for.
+
+[00:22:40] Du må matche deres ambisjoner.
+
+[00:22:44] Hvis du ikke gjør det,
+
+[00:22:46] så vil du etter hvert falle av.
+
+[00:22:48] Hva tenker dere fremover?
+
+[00:22:50] Er det UK og Norge som blir de viktigste markedene,
+
+[00:22:54] eller er det større vekstmuligheter andre steder?
+
+[00:22:57] Jeg er veldig glad for at vi er tunge i Norge og UK.
+
+[00:23:01] Det er stabilt.
+
+[00:23:03] Det er gode politiske rambetingelser.
+
+[00:23:05] Det er gode betalingsevner blant operatørene.
+
+[00:23:08] Så det er et veldig godt og ryddig marked å være i,
+
+[00:23:11] og veldig forutsigbart.
+
+[00:23:12] Og det er i vekst det også.
+
+[00:23:14] Men der vi kanskje ser den mest spennende veksten,
+
+[00:23:16] det er Midtøsten og deler av Sør-Østasia.
+
+[00:23:20] Der tror jeg det kommer til å komme mye mer aktivitet.
+
+[00:23:23] Vi hadde for mange år siden mye i de områdene,
+
+[00:23:27] og så har det vært stille i 5-7 år.
+
+[00:23:29] Nå ser du at antall aktiviteter øker kraftig igjen.
+
+[00:23:34] Jeg forventer at der kommer det større vekst.
+
+[00:23:37] I hvilken grad vil dere kunne øke inntjeningen
+
+[00:23:40] i takt med at investeringslisten til oljeselskapene
+
+[00:23:44] formidligvis øker litt?
+
+[00:23:47] Akkurat nå har vi gode investeringsplaner.
+
+[00:23:52] Her er det på en måte opp til oss å finne ut hvordan vi gjør det.
+
+[00:23:57] Det å stå alene som teknologi nå gjør at vi kan gjøre
+
+[00:24:01] mye mer spennende tenking rundt samarbeid med andre.
+
+[00:24:05] Eventuelt gjøre små M&A-aktiviteter.
+
+[00:24:08] Etablere oss andre steder gjennom andre.
+
+[00:24:11] Aksjen er plutselig noe man kan bruke som et likvidt middel.
+
+[00:24:13] Apropos det du spurte om først.
+
+[00:24:16] Det har vært et problem.
+
+[00:24:18] Vi har hatt en del interessante muligheter på M&A.
+
+[00:24:21] Men å gjøre cash-oppgjør i dag er litt attraktivt alene.
+
+[00:24:26] Men å bruke aksjen er litt mer attraktivt.
+
+[00:24:28] Vi er villige til å gjøre ting på struktursiden vår
+
+[00:24:31] som er helt i henhold til verdiskaping.
+
+[00:24:33] Men når man har den blandingen asset-tungt og asset-hevig lett,
+
+[00:24:36] så er det ofte at de som vil bli med på dette som jeg snakker om nå,
+
+[00:24:41] vil ikke ha med seg den asset-tunge siden.
+
+[00:24:44] Nå er den separert ut, så nå er det mye mer fleksibelt å bruke den aksjen
+
+[00:24:49] til å være et middel.
+
+[00:24:51] Så det er lettere å snu seg rundt?
+
+[00:24:53] Mye lettere. Helt annen verden merker det allerede.
+
+[00:24:56] God respons på det.
+
+[00:24:58] I disse inflasjonstider, vi kommer ikke utenom det,
+
+[00:25:01] hvordan skal dere håndtere kostnadssøkninger fremover?
+
+[00:25:05] Vi har jo sett tidligere i historien at arbeidskraften har blitt,
+
+[00:25:10] til tider, veldig dyr.
+
+[00:25:12] Men tenker egentlig på alt, både innsatsfaktorer og mennesker, underleverandører?
+
+[00:25:18] I alle våre kontrakter, borte fra noen typer, så har vi eskaleringer.
+
+[00:25:23] Hvert år har du en indeksregulering på type lønn,
+
+[00:25:28] altså OPEX i operasjonskost.
+
+[00:25:30] 85% er ofte folk.
+
+[00:25:33] Det eskalerer, så du regulerer den hvert eneste år opp.
+
+[00:25:37] Det som ...
+
+[00:25:39] I for eksempel Vail Services, så legger vi inn, når vi byr en treåring,
+
+[00:25:44] så legger vi inn forventet kostnadssøkning på utstyr og folk i den perioden.
+
+[00:25:52] Så legger vi inn i biddet.
+
+[00:25:55] Og så er det sånn at hvis det blir ekstreme ting her og der,
+
+[00:26:00] vanskelig med utstyr, så er det et problem.
+
+[00:26:02] Og det har jeg ikke noe svar på i dag.
+
+[00:26:04] Men foreløpig så har vi ca. 75% utilization på alt vi har.
+
+[00:26:08] Vi har ca. 25% røffelig kapasitet til å øke utilization.
+
+[00:26:16] Ca. 25%.
+
+[00:26:18] Hvis det blir veldig vanskelig å få til ikke utstyr, og materialet blir dyre,
+
+[00:26:21] folk blir ekstremt dyre, så vil det få en konsekvens.
+
+[00:26:24] Det betyr at vi må forhandle priser som er i henhold til det.
+
+[00:26:28] Det har alltid vært et problem.
+
+[00:26:30] Men foreløpig så har vi gjennom mye erfaring sagt hvor er det vi må sikre oss,
+
+[00:26:36] i forhold til kostnadsøkning.
+
+[00:26:38] Og da blir det kanskje å kompensere med smartere løsninger, teknologiløsninger, robotiseringer,
+
+[00:26:44] hvor du tar ut folk og fe, og du faktisk kombinerer da innsatsfaktor på en annen måte.
+
+[00:26:50] Så det er en sånn evig kamp det der.
+
+[00:26:53] Men stort sett så har vi mekanisme for å ivareta dette her.
+
+[00:26:56] For å få tak i de riktige menneskene da?
+
+[00:26:58] Det er akkurat like krevende som alle, og jeg tror det er kanskje den som er min største bekymring
+
+[00:27:04] hvis man spør meg om det.
+
+[00:27:05] Altså hva er det mest bekymrende for akkurat nå?
+
+[00:27:08] Det er å si, får vi nok kompetent folk?
+
+[00:27:12] Og det tror jeg nå boomer de ideene, det er opp.
+
+[00:27:17] Og det å ha tiltrekket seg riktig kompetanse, det er super kritisk.
+
+[00:27:21] Og samtidig holde liksom kosten på et bærekraftig nivå da, for å bruke et ...
+
+[00:27:26] Det er helt riktig, det er et ord som blir brukt mye,
+
+[00:27:29] men det jeg ser er jo at hvis vi greier å kombinere det som er rolle og gassiden,
+
+[00:27:33] teknologi og fornybart, så blir unge mennesker interessert.
+
+[00:27:37] Og vi har fått ganske mange treff nå. Vi har cirka 65 lærlinger hos oss,
+
+[00:27:42] og vi har en medarbeider som er akademisk utdannet, som vi tar inn og bygger opp og blir hos oss.
+
+[00:27:48] Men det er klart, det er måten å jobbe på, men jeg er litt bekymret over det,
+
+[00:27:52] men jeg er ærlig innrømmet, jeg har ikke noe godt svar på å si hva vi gjør som andre ikke gjør.
+
+[00:27:57] Men sist men ikke minst, Simon, dere er jo ikke alene i dette spacet,
+
+[00:28:01] dere har konkurrenter også, litt avhengig av segment,
+
+[00:28:04] så kan man vel trekke fram Archie, som sikkert er kjent for de fleste.
+
+[00:28:09] Kanskje Schlumberger også til en viss grad, selv om de er veldig store.
+
+[00:28:13] Veddeford er en annen, du har også Acus Solutions og iBuild,
+
+[00:28:16] det er kanskje litt mer sånn overlappende forretninger,
+
+[00:28:19] men bare for å på en måte tegne et bilde av aktørene som er her,
+
+[00:28:23] også er det bare noen av de.
+
+[00:28:25] Men hva skal dere gjøre for å være bedre enn konkurrentene fremover?
+
+[00:28:29] Ja, altså det vi skal gjøre, det er å være ekstremt på hugget med å levere skikkelig kvalitet.
+
+[00:28:37] Vi har vært gjennom en krise nå, to, hvor vi har vist at selskapet har kommet godt igjennom.
+
+[00:28:44] Og det har vi konkurrenter som ikke har greit seg så godt.
+
+[00:28:49] Og mange har gått gjennom restruktureringer, andre har slitt mye med gjeld.
+
+[00:28:55] Vi har vår egen oppskrift, og det er å være veldig,
+
+[00:28:59] hva skal jeg si, løsningsorientert.
+
+[00:29:01] Du leverer god kvalitet.
+
+[00:29:03] Det høres jo banalt ut, men det er det det er.
+
+[00:29:05] Det er ikke verre enn det, at du alltid er der hvor kunden ønsker deg,
+
+[00:29:08] og du leverer det han ønsker seg.
+
+[00:29:10] Det som er kjennetegnet i virksomheten som vi er i,
+
+[00:29:12] det er mye gjentaging.
+
+[00:29:14] Har du god referanse? Har du god ESG-profil?
+
+[00:29:17] Har du en god HMS-profil?
+
+[00:29:19] Så er det veldig ofte at kunden sier, det tar vi.
+
+[00:29:21] Når du nevner Schlumberger og Halliburton og de store,
+
+[00:29:26] så jobber vi tett med dem.
+
+[00:29:27] De er både konkurrent på det,
+
+[00:29:29] de er bittelittiggrann, og så er det mest kunde.
+
+[00:29:31] Men ved det får du archer som er inne på tøffe konkurrenter.
+
+[00:29:35] Og der er det bare å være, som jeg sier, enkelt.
+
+[00:29:39] Vær et kvarter foran hele tiden.
+
+[00:29:41] Du må ikke være i lang form, men litt foran, så vinner du.
+
+[00:29:44] Og tenk i volym, tenk i margin, og tenk i riktig virksomhet,
+
+[00:29:49] og ikke gå for å bare få volymet.
+
+[00:29:51] Disiplin er et nøkkelord.
+
+[00:29:54] Og jeg synes jo at organisasjonen har levert solidt
+
+[00:29:57] i disse årene på dette her.
+
+[00:29:59] Beintøft i forhold til å restrukturere og spare penger,
+
+[00:30:03] med kombinasjon av å hele tiden fornye seg,
+
+[00:30:05] har vi lykkes med.
+
+[00:30:07] Og det er jo nøkkelen om å greie fortsatt med det,
+
+[00:30:09] det vil jo tidligere vise.
+
+[00:30:10] Men jeg er optimistisk på det.
+
+[00:30:11] Bra.
+
+[00:30:12] Det er alltid gøy med nye selskap på Børsen Simen.
+
+[00:30:15] Nå har vi fått en god innføring,
+
+[00:30:17] og så blir det spennende å følge dere videre.
+
+[00:30:19] Da gjenstår det egentlig bare å si tusen takk
+
+[00:30:21] for at du stakk innom.
+
+[00:30:23] Og sist men ikke minst, folkens,
+
+[00:30:25] tusen takk til alle dere som fulgte med.
+
+[00:30:27] Denne podcasten og dettes innhold skal anses

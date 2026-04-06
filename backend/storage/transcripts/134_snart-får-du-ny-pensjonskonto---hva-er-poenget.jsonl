@@ -1,0 +1,505 @@
+{"episode_id": 134, "segment_index": 0, "start": 0.5, "end": 6.5, "text": "Snart går startskuddet for at alle får sin pensjonskonto hos én leverandør."}
+{"episode_id": 134, "segment_index": 1, "start": 6.5, "end": 12.56, "text": "I dag kan det være at de som har vært ansatt i flere private bedrifter har samlet seg opp"}
+{"episode_id": 134, "segment_index": 2, "start": 12.56, "end": 16.56, "text": "mange pensjonsavtaler som ligger sprett hos ulike leverandører."}
+{"episode_id": 134, "segment_index": 3, "start": 16.56, "end": 21.56, "text": "Denne sendingen skal handle om en ny pensjonskonto som ventes i 2021,"}
+{"episode_id": 134, "segment_index": 4, "start": 21.56, "end": 26.56, "text": "hva er dette for en pensjonskonto og hvordan vil dette påvirke deg og meg?"}
+{"episode_id": 134, "segment_index": 5, "start": 26.56, "end": 31.23, "text": "Hvordan behöver vi egentlig tenke på pensjonsbarring?"}
+{"episode_id": 134, "segment_index": 6, "start": 37.06, "end": 44.06, "text": "Velkommen til Utbyttet, den B-podkasten der forklare hva som skjer i den globale økonomien og finansmarkedene."}
+{"episode_id": 134, "segment_index": 7, "start": 44.06, "end": 50.16, "text": "Jeg er Marius Brunhaugen fra DNB Markets og i dag har jeg med meg Tom Stovhi,"}
+{"episode_id": 134, "segment_index": 8, "start": 50.16, "end": 53.16, "text": "informasjonstriktør i Finans Norge. Hei hei Tom."}
+{"episode_id": 134, "segment_index": 9, "start": 53.16, "end": 54.16, "text": "Hei."}
+{"episode_id": 134, "segment_index": 10, "start": 54.16, "end": 57.16, "text": "Veldig yggelig å ha det her. Du har jo lang fartstid."}
+{"episode_id": 134, "segment_index": 11, "start": 57.16, "end": 61.16, "text": "Tom er sikker på at du er godt kjent for flere av lytterne våre."}
+{"episode_id": 134, "segment_index": 12, "start": 61.16, "end": 66.16, "text": "Du har blant annet vertschefredaktør for dine penger og kommentator i vege."}
+{"episode_id": 134, "segment_index": 13, "start": 66.16, "end": 72.16, "text": "Du er heller ikke usjent med podcast for Finans Norge har sender en podcast."}
+{"episode_id": 134, "segment_index": 14, "start": 72.16, "end": 75.16, "text": "Finanslunch med Fåne og Stovhi."}
+{"episode_id": 134, "segment_index": 15, "start": 75.16, "end": 78.16, "text": "Ja, jeg er veldig glad for at du sier."}
+{"episode_id": 134, "segment_index": 16, "start": 78.16, "end": 85.16, "text": "Så vi kan bare si med en gang at fordi av lytterne våre som ikke har fått noe av Tom etter at vi er ferde med praten i dag,"}
+{"episode_id": 134, "segment_index": 17, "start": 85.16, "end": 89.16, "text": "så er det mange timer mer å gå inn og lytte på."}
+{"episode_id": 134, "segment_index": 18, "start": 89.16, "end": 96.16, "text": "Men pensjon, det er det det skal dreie seg med i dag, Tom. Er det ekstra mye fokus på pensjonen i Finans Norge om dagen?"}
+{"episode_id": 134, "segment_index": 19, "start": 96.16, "end": 101.16, "text": "Det er klart det er det. Det har jo vært fokus på dette i flere år egentlig."}
+{"episode_id": 134, "segment_index": 20, "start": 101.16, "end": 109.16, "text": "Vi har arbeidet ganske intens med å være med på utviklet regelverket for egen pensjonskonto som kommer."}
+{"episode_id": 134, "segment_index": 21, "start": 109.16, "end": 113.16, "text": "Men det skjer veldig mye i pensjonsområder generelt."}
+{"episode_id": 134, "segment_index": 22, "start": 113.16, "end": 116.16, "text": "Det er jo et pågående arbeid knyttet til fri poliser."}
+{"episode_id": 134, "segment_index": 23, "start": 116.16, "end": 124.16, "text": "Resten av gamle ytelsesordninger ser ut til at det blir nå en vurdering av pensjonen."}
+{"episode_id": 134, "segment_index": 24, "start": 124.16, "end": 130.16, "text": "Reformen av folketryggen var en succes, og der er det jo kommet et utfolk som skal se på den."}
+{"episode_id": 134, "segment_index": 25, "start": 130.16, "end": 134.16, "text": "Så pensjonen er et tema som er superviktig for oss."}
+{"episode_id": 134, "segment_index": 26, "start": 134.16, "end": 140.16, "text": "Vi har også med oss en gäst til, og det er ingen ringere enn Håkon Hansen,"}
+{"episode_id": 134, "segment_index": 27, "start": 140.16, "end": 145.16, "text": "som er chefen forveldt management her i DMB her i Håkon."}
+{"episode_id": 134, "segment_index": 28, "start": 146.16, "end": 156.16, "text": "Du har ansvaret for alt som er inn for DMB-kapitalforvaltning, DMB-liv og pensjon og private banking."}
+{"episode_id": 134, "segment_index": 29, "start": 156.16, "end": 158.16, "text": "Hva tenker du mye i pensjonen om dagen?"}
+{"episode_id": 134, "segment_index": 30, "start": 158.16, "end": 163.16, "text": "Ja, jeg gjør det. Både fordi det er ansvarsområdet mitt på jobben,"}
+{"episode_id": 134, "segment_index": 31, "start": 163.16, "end": 166.16, "text": "men også fordi jeg synes det er super spennende denne perioden vi er i nå,"}
+{"episode_id": 134, "segment_index": 32, "start": 166.16, "end": 173.16, "text": "som Tom Mackratzade skjer store endringer hvor egen pensjonskonto kanskje er den største av dem alle."}
+{"episode_id": 134, "segment_index": 33, "start": 173.16, "end": 178.16, "text": "Vi får starten å ta litt om bakgrunden. Tom, de fleste som jobber i privat sektor"}
+{"episode_id": 134, "segment_index": 34, "start": 178.16, "end": 182.16, "text": "har allerede en eller flere pensjonskonto i dag."}
+{"episode_id": 134, "segment_index": 35, "start": 182.16, "end": 188.16, "text": "Hva er det som er så spesielt med denne pensjonskonto, som kommer nå av å skifte?"}
+{"episode_id": 134, "segment_index": 36, "start": 188.16, "end": 196.16, "text": "Det som forhistorien er jo at vi i 2006 fikk lov om innskudspansjon,"}
+{"episode_id": 134, "segment_index": 37, "start": 196.16, "end": 201.16, "text": "slik at alle norske arbeidstagere som hadde en arbeidssiv skulle få en pensjonsparing."}
+{"episode_id": 134, "segment_index": 38, "start": 201.16, "end": 206.16, "text": "Det hadde vi jo ikke før det tidspunktet, og det kom som en følge av pensjonsreformen."}
+{"episode_id": 134, "segment_index": 39, "start": 206.16, "end": 212.16, "text": "Og så har det jo vært sånn at når du slutter i jobben, så har du liksom spart opp noe penger på en konto"}
+{"episode_id": 134, "segment_index": 40, "start": 212.16, "end": 217.16, "text": "mens du har jobbet der, og da blir det til det vi har kaldt et pensjonskapitalbevis,"}
+{"episode_id": 134, "segment_index": 41, "start": 217.16, "end": 221.16, "text": "en slags pot med penger som blir ligget i en etter den gamle arbeidssivene inn,"}
+{"episode_id": 134, "segment_index": 42, "start": 221.16, "end": 225.16, "text": "og så gikk du til en ny arbeidssiv, og så ble du opprettet til en ny konto."}
+{"episode_id": 134, "segment_index": 43, "start": 225.16, "end": 228.16, "text": "Og så har man jo da byttet jobbmånganger,"}
+{"episode_id": 134, "segment_index": 44, "start": 228.16, "end": 234.16, "text": "og da kan det være at det ligger veldig mange av disse små potene med penger som en hale etter deg i arbeidslivet"}
+{"episode_id": 134, "segment_index": 45, "start": 234.16, "end": 240.16, "text": "sammen med denne aktive sparkontoen gjennom nåvarn arbeidssiv."}
+{"episode_id": 134, "segment_index": 46, "start": 240.16, "end": 246.16, "text": "Så egen pensjonskonto er i princip det at vi skal samle alle disse gamle små potene med penger"}
+{"episode_id": 134, "segment_index": 47, "start": 246.16, "end": 252.16, "text": "i en pot og slå den sammen med den aktive sparre ordningen og få dette innunder ett system"}
+{"episode_id": 134, "segment_index": 48, "start": 252.16, "end": 255.16, "text": "så at alle har oversikt et sted."}
+{"episode_id": 134, "segment_index": 49, "start": 255.16, "end": 260.16, "text": "Hvordan tror du kunden kommer til å ta innhold til denne nye pensjonskonto?"}
+{"episode_id": 134, "segment_index": 50, "start": 260.16, "end": 264.16, "text": "Jeg tror veldig sterk på at dette blir godt motat,"}
+{"episode_id": 134, "segment_index": 51, "start": 264.16, "end": 271.16, "text": "fordi jeg tror at for første gang så vil pensjon virkelig bli enkelt for folk flest."}
+{"episode_id": 134, "segment_index": 52, "start": 271.16, "end": 276.16, "text": "Når du får som tom sier du får en konto, og den kontoen kommer til å følge gjennomlivet,"}
+{"episode_id": 134, "segment_index": 53, "start": 276.16, "end": 279.16, "text": "den kontoen kan du sjekke saldo på hver dag."}
+{"episode_id": 134, "segment_index": 54, "start": 279.16, "end": 283.16, "text": "Du kan sjekke hvor mye aktier og hvor mye renter du har hver dag."}
+{"episode_id": 134, "segment_index": 55, "start": 283.16, "end": 286.16, "text": "Det får et helt annet forhold til pengene,"}
+{"episode_id": 134, "segment_index": 56, "start": 286.16, "end": 289.16, "text": "enn hva vi kanskje har hatt frem til egen pensjonskonto."}
+{"episode_id": 134, "segment_index": 57, "start": 289.16, "end": 291.16, "text": "Men det blir enkelt sier du hvordan får kundene beskjed?"}
+{"episode_id": 134, "segment_index": 58, "start": 291.16, "end": 293.16, "text": "Kommer du til å trengere å gjøre noe?"}
+{"episode_id": 134, "segment_index": 59, "start": 293.16, "end": 296.16, "text": "Kunde kommer til for masse beskjed nå framover, det kan jeg råve deg,"}
+{"episode_id": 134, "segment_index": 60, "start": 296.16, "end": 299.16, "text": "fra alle oss pensjonslevene dører."}
+{"episode_id": 134, "segment_index": 61, "start": 299.16, "end": 302.16, "text": "Det kunde trenger ikke å gjøre noe."}
+{"episode_id": 134, "segment_index": 62, "start": 302.16, "end": 308.16, "text": "Som dette blir satt opp nå, så vil kunden havne der hvor nåvar en arbeidssiver"}
+{"episode_id": 134, "segment_index": 63, "start": 308.16, "end": 311.16, "text": "ha sin innskudspansjonsordning."}
+{"episode_id": 134, "segment_index": 64, "start": 311.16, "end": 316.16, "text": "Det er hvor kundens arbeidssiver i dag har sin innskudspansjonsordning,"}
+{"episode_id": 134, "segment_index": 65, "start": 316.16, "end": 318.16, "text": "der havner også pensjonskontoene."}
+{"episode_id": 134, "segment_index": 66, "start": 318.16, "end": 322.16, "text": "Så vi kunder for masse valg muligheter, som også er veldig bra nå da,"}
+{"episode_id": 134, "segment_index": 67, "start": 322.16, "end": 326.16, "text": "i forhold til hvor han ønsker at pengene skal forvaltes framover."}
+{"episode_id": 134, "segment_index": 68, "start": 326.16, "end": 331.16, "text": "Du kan gå på så kalt selvvalg som vi kommer litt inn på etterpå i dag."}
+{"episode_id": 134, "segment_index": 69, "start": 331.16, "end": 336.16, "text": "Men de folten er at den havner det hvor arbeidssiverne har sin nåvarende ordning."}
+{"episode_id": 134, "segment_index": 70, "start": 336.16, "end": 339.16, "text": "Tom, fra ditt perspektiv,"}
+{"episode_id": 134, "segment_index": 71, "start": 339.16, "end": 342.16, "text": "hvordan tror du at folk vil ta imot dette her?"}
+{"episode_id": 134, "segment_index": 72, "start": 342.16, "end": 350.16, "text": "Nei, man kan jo ikke ta imot dette på noe annet måte enn å bli litt lykkelig,"}
+{"episode_id": 134, "segment_index": 73, "start": 350.16, "end": 357.16, "text": "over at noen faktisk har bidrat til å rydde opp i noe som er veldig viktig for folk."}
+{"episode_id": 134, "segment_index": 74, "start": 357.16, "end": 361.16, "text": "Det har vært fremtil i dag at du har hatt muligheten"}
+{"episode_id": 134, "segment_index": 75, "start": 361.16, "end": 364.16, "text": "å ta alle disse gamle pottene med penger fra tillerarbeidssiver"}
+{"episode_id": 134, "segment_index": 76, "start": 364.16, "end": 370.16, "text": "og slå det sammen til én, og flytte de inn hos din aktive arbeidssiverne."}
+{"episode_id": 134, "segment_index": 77, "start": 370.16, "end": 372.16, "text": "Vår arbeidssiverne har en spareordning."}
+{"episode_id": 134, "segment_index": 78, "start": 372.16, "end": 376.16, "text": "Problemet er at det er bare noen få gjerninger som har gjort det."}
+{"episode_id": 134, "segment_index": 79, "start": 376.16, "end": 381.16, "text": "Det er veldig, veldig få som på en måte har det fokuset."}
+{"episode_id": 134, "segment_index": 80, "start": 381.16, "end": 386.16, "text": "Nå kommer, som Håkon sier, det kommer til å bli et massivt infasjonstrekk."}
+{"episode_id": 134, "segment_index": 81, "start": 386.16, "end": 392.16, "text": "Jeg tror ikke i første kvartal i Norge du kan bo i Norge uten på en måte flere ganger"}
+{"episode_id": 134, "segment_index": 82, "start": 392.16, "end": 395.16, "text": "og bli oppmerksom på at det har skjedd noe med pensjon,"}
+{"episode_id": 134, "segment_index": 83, "start": 395.16, "end": 398.16, "text": "og du kommer til å lese all den informasjonen på et eller annen sted."}
+{"episode_id": 134, "segment_index": 84, "start": 398.16, "end": 403.16, "text": "Enten i annonsekampanjer eller i informasjon fra ulike tilbuddere."}
+{"episode_id": 134, "segment_index": 85, "start": 403.16, "end": 409.16, "text": "Sånn at det fokuset kommer nok til å gjøre at flere får trekkere pensjon litt høyre opp i jernbarken"}
+{"episode_id": 134, "segment_index": 86, "start": 409.16, "end": 412.16, "text": "og gjøre noe med det og gå inn og studere det."}
+{"episode_id": 134, "segment_index": 87, "start": 412.16, "end": 416.16, "text": "Og det er jo mange ting her som egentlig er veldig bra."}
+{"episode_id": 134, "segment_index": 88, "start": 416.16, "end": 421.16, "text": "Innskudspansjon er egentlig et helt fantastisk produkt."}
+{"episode_id": 134, "segment_index": 89, "start": 422.16, "end": 427.16, "text": "Alle som sparer på egenom, ikke sant i aksjemarket eller i aksjefond for eksempel,"}
+{"episode_id": 134, "segment_index": 90, "start": 427.16, "end": 434.16, "text": "de må jo betale for å selge og bytte og skyffle rundt hos de ulike leverandørene."}
+{"episode_id": 134, "segment_index": 91, "start": 434.16, "end": 440.16, "text": "Det som er genialt med pensjonskonto er at du kan gå ut og inn av market det. Grattis!"}
+{"episode_id": 134, "segment_index": 92, "start": 440.16, "end": 446.16, "text": "Og det er jo en mulighet som jeg tror kanskje flere borde tenke gjennom om de skal gjøre."}
+{"episode_id": 134, "segment_index": 93, "start": 446.16, "end": 451.16, "text": "Pansjonskonto eller altså innskudspansjon gir det noe om muligheten til å gå ut av aksjemarket det,"}
+{"episode_id": 134, "segment_index": 94, "start": 451.16, "end": 457.16, "text": "uten at du trenger å betale for det, putte pengene i rentemarket og ligge litt på været hvis du er bekymret,"}
+{"episode_id": 134, "segment_index": 95, "start": 457.16, "end": 459.16, "text": "og sommer husker på å gå inn igjen."}
+{"episode_id": 134, "segment_index": 96, "start": 459.16, "end": 464.16, "text": "Altså om man skal time market og hvordan, det blir jo selvfølgelig en helt egen diskusjon,"}
+{"episode_id": 134, "segment_index": 97, "start": 464.16, "end": 467.16, "text": "men som du påpeker at man faktisk har muligheten til noe sånt."}
+{"episode_id": 134, "segment_index": 98, "start": 467.16, "end": 470.16, "text": "Det er jo selvfølgelig en bra ting."}
+{"episode_id": 134, "segment_index": 99, "start": 470.16, "end": 475.16, "text": "Håk om du var litt inne på det det gjennomføres noe som kalles for et passivt samtykke,"}
+{"episode_id": 134, "segment_index": 100, "start": 475.16, "end": 480.16, "text": "det vil si at der som kunden ikke gjør noe, så vil alle pensjonskontoene bli slott sammen."}
+{"episode_id": 134, "segment_index": 101, "start": 480.16, "end": 483.16, "text": "Hva er det pensjonskundene bør passe på da?"}
+{"episode_id": 134, "segment_index": 102, "start": 483.16, "end": 486.16, "text": "Nei, jeg tenker det er flere ting da."}
+{"episode_id": 134, "segment_index": 103, "start": 486.16, "end": 489.16, "text": "I utkanspunktet så er det som jeg sa kunden må jo ikke gjøre noe."}
+{"episode_id": 134, "segment_index": 104, "start": 489.16, "end": 493.16, "text": "Pengene har blivet tatt vare på hos den nåvarne pensjonslivendøren."}
+{"episode_id": 134, "segment_index": 105, "start": 493.16, "end": 499.16, "text": "Men det kundene bør, uavhengig av hvilken aksjon de har i dag, er å vite hva de har."}
+{"episode_id": 134, "segment_index": 106, "start": 499.16, "end": 505.16, "text": "Kundene bør bruke de minuttene gå inn på nettbanken sin, eller gå inn på spareappen sin,"}
+{"episode_id": 134, "segment_index": 107, "start": 505.16, "end": 511.16, "text": "og se hvilken aksjon de har og hvilken rentan del har jeg, og hva er jeg komfortabel med."}
+{"episode_id": 134, "segment_index": 108, "start": 511.16, "end": 517.16, "text": "Det er all forfå av dagens innskudspansjonskund, som faktisk vet hvilken aksjon de har."}
+{"episode_id": 134, "segment_index": 109, "start": 517.16, "end": 523.16, "text": "Vi har jo erfaring fra DMB, og vi ser at i dag så er det cirka 6%."}
+{"episode_id": 134, "segment_index": 110, "start": 523.16, "end": 528.16, "text": "6% av kundene som går inn og tar et aktivt valg, og det er all for lite."}
+{"episode_id": 134, "segment_index": 111, "start": 528.16, "end": 539.16, "text": "Vi ser også i våre tall at det er frygtelig mange unge kunder som ligger med veldig lav aksjon del."}
+{"episode_id": 134, "segment_index": 112, "start": 539.16, "end": 545.16, "text": "Vi har funnet 26 åringer som har innskudspansjonsordning og 10% aksjon del."}
+{"episode_id": 134, "segment_index": 113, "start": 545.16, "end": 549.16, "text": "Det er veldig heldig, fordi der går det å glippe av mer avkastning som aksjon dere gir over tid."}
+{"episode_id": 134, "segment_index": 114, "start": 549.16, "end": 556.16, "text": "Så mitt råd er ta et bevisst valg hvor du ønsker å ha den kontonin hos hvem,"}
+{"episode_id": 134, "segment_index": 115, "start": 556.16, "end": 562.16, "text": "og ikke minst ta et veldig bevisst valg på hvilken aksje og renta en del er jeg komfortabel med."}
+{"episode_id": 134, "segment_index": 116, "start": 562.16, "end": 567.35, "text": "Ton, hva er det som er fordelene for å slå sammen passjonssparingen hos en leverandør?"}
+{"episode_id": 134, "segment_index": 117, "start": 567.35, "end": 578.35, "text": "Den aller viktigste fordelene er at disse små pottene, som ligger litt til fellet plassert hos ulike leverandører rundt omkring et systemet,"}
+{"episode_id": 134, "segment_index": 118, "start": 578.35, "end": 583.35, "text": "der betaler du et administrasjonskebyr for å være pott med penger som ligger hos en leverandør."}
+{"episode_id": 134, "segment_index": 119, "start": 583.35, "end": 589.35, "text": "Når du nå får slåts sammen all disse pengene, så blir de administrasjonskebyrne faktisk bort."}
+{"episode_id": 134, "segment_index": 120, "start": 589.35, "end": 596.35, "text": "Det betyr jo veldig mye for avkastningen over tid for særlig små pottepenger."}
+{"episode_id": 134, "segment_index": 121, "start": 596.35, "end": 603.35, "text": "Så det er nå du i alle fall kan putte i loenboken, du får rett og slett mer pansjon for pengene."}
+{"episode_id": 134, "segment_index": 122, "start": 603.35, "end": 610.35, "text": "Den andre fordelen er at det er muligheten til faktisk å gå inn et sted,"}
+{"episode_id": 134, "segment_index": 123, "start": 610.35, "end": 618.35, "text": "og få den totale overskikten over hvordan pansjonssparingen din i innskudspansjonen er fordelt på aktiemarkedet,"}
+{"episode_id": 134, "segment_index": 124, "start": 618.35, "end": 624.35, "text": "på rentemarkedet, hvordan tilbydaren din planlegger å trappe ned dette mot pansjonsstid og så videre."}
+{"episode_id": 134, "segment_index": 125, "start": 625.35, "end": 635.35, "text": "Og så tror vi jo at det vi vet om egen pansjonskonto er jo at det kommer nå veldig mange nye tilbydere inn i dette markedet."}
+{"episode_id": 134, "segment_index": 126, "start": 635.35, "end": 642.35, "text": "Så det er all grunn til å forvente at det blir større konkurranse om å forlove til å forvalte de gamle pengene."}
+{"episode_id": 134, "segment_index": 127, "start": 642.35, "end": 647.35, "text": "Det som er rart, det er at det ikke til nå har vært noe konkurranse om å forvalte disse pansjonskapitalbevisene."}
+{"episode_id": 134, "segment_index": 128, "start": 647.35, "end": 649.35, "text": "Det har jeg alltid syntes jeg har vært litt undelig."}
+{"episode_id": 134, "segment_index": 129, "start": 649.35, "end": 654.35, "text": "Men når vi nå får egen pansjonskonto så har det kommet en rekke nye leverandører inn"}
+{"episode_id": 134, "segment_index": 130, "start": 654.35, "end": 657.35, "text": "som gjerne vil være med å forvalte hele dette pansjonsreskime."}
+{"episode_id": 134, "segment_index": 131, "start": 657.35, "end": 659.35, "text": "Konkurranse er jo bra for forbrukerne."}
+{"episode_id": 134, "segment_index": 132, "start": 659.35, "end": 661.35, "text": "Helt ombart."}
+{"episode_id": 134, "segment_index": 133, "start": 661.35, "end": 668.35, "text": "Jeg lyst til å legge til det. Tom sier da at det er helt riktig det er mer pansjon for pengene som driver den for hele reformen her nå."}
+{"episode_id": 134, "segment_index": 134, "start": 668.35, "end": 673.35, "text": "Og de 400 kroner som man nevner når du sumerer opp det så vil faktisk dette her bli"}
+{"episode_id": 134, "segment_index": 135, "start": 673.35, "end": 680.35, "text": "med dagens ingensynlig hos pansjonsstørrelse ca. 1 miljard kroner i mer pansjon til våre kunder."}
+{"episode_id": 134, "segment_index": 136, "start": 680.35, "end": 682.35, "text": "Det betyr noe."}
+{"episode_id": 134, "segment_index": 137, "start": 682.35, "end": 683.35, "text": "Så mye penger her."}
+{"episode_id": 134, "segment_index": 138, "start": 683.35, "end": 690.35, "text": "Nå kan det åpnes for at kunder kan flytte midlene til en selvvalt leverandører."}
+{"episode_id": 134, "segment_index": 139, "start": 690.35, "end": 694.9, "text": "Hvilke kunder tror du kommer til å benyttes av denne muligheten?"}
+{"episode_id": 134, "segment_index": 140, "start": 694.9, "end": 699.9, "text": "Jeg tror først og fremst vi er de som er litt mer interessert."}
+{"episode_id": 134, "segment_index": 141, "start": 699.9, "end": 704.9, "text": "De som synes det er litt gøy å forvalte pengene, de kommer nok til å være de første som beveger seg her."}
+{"episode_id": 134, "segment_index": 142, "start": 704.9, "end": 711.9, "text": "Men jeg tror også at egen pansjonskonto i seg selv kommer til å være en driver for å øke interessen."}
+{"episode_id": 134, "segment_index": 143, "start": 711.9, "end": 716.9, "text": "Du skal til gjennomsnittspeløpet som det norske folk nå får er 250.000 kroner sikker."}
+{"episode_id": 134, "segment_index": 144, "start": 716.9, "end": 719.9, "text": "Det kommer en konto med 250.000 kroner på."}
+{"episode_id": 134, "segment_index": 145, "start": 719.9, "end": 721.9, "text": "For veldig mange i Norge så er det en lot å bre med."}
+{"episode_id": 134, "segment_index": 146, "start": 721.9, "end": 723.9, "text": "Det bør du ha et forhold til."}
+{"episode_id": 134, "segment_index": 147, "start": 723.9, "end": 727.9, "text": "Det er ikke sikkert du skal gjøre noe endringer på den forvaltningen som ligger deg i dag."}
+{"episode_id": 134, "segment_index": 148, "start": 727.9, "end": 729.9, "text": "Du bør hvertfall vite hva du har."}
+{"episode_id": 134, "segment_index": 149, "start": 729.9, "end": 734.9, "text": "Men jeg tror som vi ser det veldig ofte eller så at de som kommer til å bevege seg først er de som er mest interessert."}
+{"episode_id": 134, "segment_index": 150, "start": 734.9, "end": 740.9, "text": "Men så tror jeg den viktigste faktoren her er at pansjon kommer til å bli mye mer forståelig,"}
+{"episode_id": 134, "segment_index": 151, "start": 740.9, "end": 744.9, "text": "og det er langt flere som kommer til å ha et bevisst forhold til pansjonens inn."}
+{"episode_id": 134, "segment_index": 152, "start": 744.9, "end": 747.9, "text": "Det er typisk mistenkte her."}
+{"episode_id": 134, "segment_index": 153, "start": 747.9, "end": 753.9, "text": "Det vil vel være de som til en viss grad holder på og mener en form for aktie- og fondsparing til vanlig."}
+{"episode_id": 134, "segment_index": 154, "start": 753.9, "end": 759.9, "text": "Er det lov å tro at det vil også beredde seg ut videre herfra etter hvert over tid?"}
+{"episode_id": 134, "segment_index": 155, "start": 759.9, "end": 764.9, "text": "Ja, det er litt usikker på hvordan dette markedet kommer til å endre seg."}
+{"episode_id": 134, "segment_index": 156, "start": 764.9, "end": 769.9, "text": "Jeg er helt sikker på at forbrukerne kommer til å få et mer bevisst forhold til disse pengene."}
+{"episode_id": 134, "segment_index": 157, "start": 769.9, "end": 774.9, "text": "De kommer ikke til å få et mindre bevisst forhold til disse pengene."}
+{"episode_id": 134, "segment_index": 158, "start": 774.9, "end": 776.9, "text": "Dette kan bare gå oppover."}
+{"episode_id": 134, "segment_index": 159, "start": 776.9, "end": 779.9, "text": "Jeg tror det er riktig som dere sier at det er jo en del."}
+{"episode_id": 134, "segment_index": 160, "start": 779.9, "end": 786.9, "text": "Selv om min arbeidsgiver for eksempel har kjøpt innskudspansjon hos en leverandør, så kan det gå til å være at jeg sparer hos noen andre."}
+{"episode_id": 134, "segment_index": 161, "start": 786.9, "end": 790.9, "text": "Så det kan gå til å være at jeg har et veldig nært forhold til spareruniversje i DNB."}
+{"episode_id": 134, "segment_index": 162, "start": 790.9, "end": 794.9, "text": "Selv om pansjonskontoet min står et annet sted."}
+{"episode_id": 134, "segment_index": 163, "start": 794.9, "end": 801.9, "text": "Det tror jeg er en driver for at det er målet likerlig for at jeg kanskje flytter den aktive og hele sparingen over til DNB."}
+{"episode_id": 134, "segment_index": 164, "start": 801.9, "end": 805.9, "text": "Hvis jeg har det forhold til DNB eller en ann leverandør i markedet."}
+{"episode_id": 134, "segment_index": 165, "start": 805.9, "end": 813.9, "text": "Så blir det veldig spennende å se hvordan konkurrancen i dette markedet kommer til å utvikle seg, for det er det vi gjør nå."}
+{"episode_id": 134, "segment_index": 166, "start": 813.9, "end": 818.9, "text": "Dette er et eklatant brud med alt vi tidligere har gjort på pansjonsområdet."}
+{"episode_id": 134, "segment_index": 167, "start": 818.9, "end": 823.9, "text": "Tidligere har alle konkurrancen, altså pensjon, arbeidsgiver betalt pensjon i Norge."}
+{"episode_id": 134, "segment_index": 168, "start": 823.9, "end": 825.9, "text": "Det har vært et kollektivt produkt."}
+{"episode_id": 134, "segment_index": 169, "start": 825.9, "end": 827.9, "text": "Konkurrancen har skjedd på det kollektive nivået."}
+{"episode_id": 134, "segment_index": 170, "start": 827.9, "end": 833.9, "text": "Det er arbeidsgiverne som har hatt anbudskonkurranse for sine arbeidstagere ute i markedet."}
+{"episode_id": 134, "segment_index": 171, "start": 833.9, "end": 836.9, "text": "Det må arbeidsgiverne fortsatt forholde seg til."}
+{"episode_id": 134, "segment_index": 172, "start": 836.9, "end": 841.9, "text": "De er plikte til å tegne en av de avtale for sine arbeidstagere."}
+{"episode_id": 134, "segment_index": 173, "start": 841.9, "end": 844.9, "text": "Men så kan jo arbeidsdagene flytte de pengene et annet sted."}
+{"episode_id": 134, "segment_index": 174, "start": 844.9, "end": 850.9, "text": "Da er jo spørsmålet å komme inn og flytte konkurrancen fra det kollektive til det mer individuelle."}
+{"episode_id": 134, "segment_index": 175, "start": 850.9, "end": 860.9, "text": "Det at dette har blitt en hybrid, det er egentlig en spennende forutsetning for å se hvordan konkurrancen kommer til å utvikle seg."}
+{"episode_id": 134, "segment_index": 176, "start": 860.9, "end": 871.9, "text": "Det var jo en diskusjon når vi har laget engpansjonskonto om man skulle åpne for å flytte aktive penger ut av ordningen nettopp av denne grunn."}
+{"episode_id": 134, "segment_index": 177, "start": 871.9, "end": 878.9, "text": "Fordi da deduserte man en kollektive konkurranse, men du får igjen den konkurrancen på et mer individuellt nivå."}
+{"episode_id": 134, "segment_index": 178, "start": 878.9, "end": 884.9, "text": "Jeg tror det kommer til å bli skrevet akademiske avhandlinger om hvordan dette markedet utvikler seg framover."}
+{"episode_id": 134, "segment_index": 179, "start": 884.9, "end": 890.9, "text": "Men er det noen klare ulemper for kunden å flytte til en pensjonsleverender som din arbeidshiver ikke eller alt?"}
+{"episode_id": 134, "segment_index": 180, "start": 890.9, "end": 896.9, "text": "Nei, ulempe og ulempe, nei."}
+{"episode_id": 134, "segment_index": 181, "start": 896.9, "end": 903.9, "text": "Spørsmålet er jo om du får et bredere, bedre og billere investeringsuniversitet."}
+{"episode_id": 134, "segment_index": 182, "start": 903.9, "end": 908.9, "text": "Det må den enkelte skennemarkede å vurdere selv."}
+{"episode_id": 134, "segment_index": 183, "start": 908.9, "end": 916.9, "text": "Men jeg tror fortsatt at en god del av konkurrancen kommer til å bli igjen på det kollektive nivået."}
+{"episode_id": 134, "segment_index": 184, "start": 916.9, "end": 924.9, "text": "Jeg tror jo at arbeidshiverne nok kommer til å bruke det at de har 1500 ansatte, det at de har 300 ansatte,"}
+{"episode_id": 134, "segment_index": 185, "start": 924.9, "end": 927.9, "text": "og på veien av arbeidstakene sin, får det gode avtaler i."}
+{"episode_id": 134, "segment_index": 186, "start": 927.9, "end": 934.9, "text": "Da betyr du at det blir enda bedre konkurranse, fordi at hvis det er individuellt skal gå et annet sted, så må de avtalen være enda billere."}
+{"episode_id": 134, "segment_index": 187, "start": 934.9, "end": 938.9, "text": "Jeg lyst til å legge til. Det er helt riktig som Tom sier."}
+{"episode_id": 134, "segment_index": 188, "start": 938.9, "end": 943.9, "text": "Jeg tror også at dette kommer til å drive for at pensionen blir individualiseret da."}
+{"episode_id": 134, "segment_index": 189, "start": 943.9, "end": 949.9, "text": "Det blir på en måte mine penger. Den risikoen du spør om, Marius, den kan ligge litt på prisingen."}
+{"episode_id": 134, "segment_index": 190, "start": 949.9, "end": 956.9, "text": "Man må være oppmerksom på hvilken priser tar man på den individuelle avtalen kontra hva jeg har på den bedriftbetaltet."}
+{"episode_id": 134, "segment_index": 191, "start": 956.9, "end": 961.9, "text": "I dag er bedriftbetaltet rimlere enn de individuelle."}
+{"episode_id": 134, "segment_index": 192, "start": 961.9, "end": 965.9, "text": "Jeg vil dette sikkert smelte mer sammen, men man skal hvertfall være oppmerksom på,"}
+{"episode_id": 134, "segment_index": 193, "start": 965.9, "end": 974.9, "text": "spesielt i et lavrentreskime som er i nå, så skal man være oppmerksom på hvilken gebyr er som på å å treffe hvis du tar det individuellt."}
+{"episode_id": 134, "segment_index": 194, "start": 974.9, "end": 987.85, "text": "Hvis vi prøver å se på dette med pensjonsbaringen litt mer generelt og ta noen eksempler så langt de la seg gjøre,"}
+{"episode_id": 134, "segment_index": 195, "start": 987.85, "end": 992.85, "text": "så Håkon som vi har vært inne på, denne nye pensjonskonto, om den skal gjøre det lettere,"}
+{"episode_id": 134, "segment_index": 196, "start": 992.85, "end": 999.85, "text": "at personer får oversikt og pensjon, kanskje bidra til reducerer til kostnader og ikke minst gjøre dette enklere."}
+{"episode_id": 134, "segment_index": 197, "start": 999.85, "end": 1005.85, "text": "Hvis en person da har hatt tre jobber og har pensjonskapital bevis i tre ulike livselskaper,"}
+{"episode_id": 134, "segment_index": 198, "start": 1005.85, "end": 1008.85, "text": "hvordan mye tror du personen kan komme til å spare per år?"}
+{"episode_id": 134, "segment_index": 199, "start": 1008.85, "end": 1014.85, "text": "Det er litt aving av hvor store buløp som ligger der, la seg bli fra noen 100 lapper til noen 1000 lapper kanskje,"}
+{"episode_id": 134, "segment_index": 200, "start": 1014.85, "end": 1017.85, "text": "kanskje 1500 de mest ekstreme tilfellene er."}
+{"episode_id": 134, "segment_index": 201, "start": 1017.85, "end": 1020.85, "text": "Så det er ikke den viktigste driveren, det betyr noe, det er også klart,"}
+{"episode_id": 134, "segment_index": 202, "start": 1020.85, "end": 1025.85, "text": "men den viktigste driveren er at du nå får full oversikt."}
+{"episode_id": 134, "segment_index": 203, "start": 1025.85, "end": 1029.85, "text": "Og du er ganske trygg på at det kommer til å bli enklere?"}
+{"episode_id": 134, "segment_index": 204, "start": 1029.85, "end": 1032.85, "text": "Ja, helt trygg på at det blir enklere. Ja, helt trygg på at det blir enklere,"}
+{"episode_id": 134, "segment_index": 205, "start": 1032.85, "end": 1036.85, "text": "fordi dette blir nesten som en bankkonto eller en pensjonskonto da."}
+{"episode_id": 134, "segment_index": 206, "start": 1036.85, "end": 1041.85, "text": "Hvor du går inn i nettbanken din eller i spareappen din, så ser du hva saldon er."}
+{"episode_id": 134, "segment_index": 207, "start": 1041.85, "end": 1045.85, "text": "Er det noe som blir like vanskelig frem av det som det alltid har vært?"}
+{"episode_id": 134, "segment_index": 208, "start": 1046.85, "end": 1052.85, "text": "Nei, pensjon er ikke så vanskelig som vi har inn å si at det er da."}
+{"episode_id": 134, "segment_index": 209, "start": 1052.85, "end": 1056.85, "text": "Pansjon er mye med sexen som så. Pansjon er penger på konto."}
+{"episode_id": 134, "segment_index": 210, "start": 1056.85, "end": 1060.85, "text": "Det som for noen kanskje fremst er litt komplisert enda,"}
+{"episode_id": 134, "segment_index": 211, "start": 1060.85, "end": 1066.85, "text": "og hvis du begynner å bli godt voksen, så har du gamle ytelsesbaserte ordninger,"}
+{"episode_id": 134, "segment_index": 212, "start": 1066.85, "end": 1070.85, "text": "og det er en fri polise, og den får du forløp ikke gjort så mye med."}
+{"episode_id": 134, "segment_index": 213, "start": 1070.85, "end": 1077.85, "text": "Innskudspansjonsordningen som Tom sa, 2006, er den vi snakker om nå."}
+{"episode_id": 134, "segment_index": 214, "start": 1077.85, "end": 1081.85, "text": "Jeg tror det er viktig å huske på at hvis jeg husker dette tall riktig,"}
+{"episode_id": 134, "segment_index": 215, "start": 1081.85, "end": 1086.85, "text": "så er det omlag 40% av alle som har innskudspansjon, de har minst spare satsen."}
+{"episode_id": 134, "segment_index": 216, "start": 1086.85, "end": 1089.85, "text": "De har også 2% av lødenen hvert år."}
+{"episode_id": 134, "segment_index": 217, "start": 1089.85, "end": 1093.85, "text": "Og jeg er glad at jo mindre spare satser du har,"}
+{"episode_id": 134, "segment_index": 218, "start": 1093.85, "end": 1097.85, "text": "og det er et større andel av den oppsparte kapitalen din,"}
+{"episode_id": 134, "segment_index": 219, "start": 1097.85, "end": 1100.85, "text": "vil administrasjonsgybnerne utgjøre."}
+{"episode_id": 134, "segment_index": 220, "start": 1100.85, "end": 1107.85, "text": "Så for de som har lave pensjonssparerater, så betyr dette veldig mye relativt sett."}
+{"episode_id": 134, "segment_index": 221, "start": 1107.85, "end": 1111.85, "text": "Så for dem er dette virkelig et stort løft."}
+{"episode_id": 134, "segment_index": 222, "start": 1111.85, "end": 1119.85, "text": "Og så til dette med om innskudspansjon er fryktlig lett."}
+{"episode_id": 134, "segment_index": 223, "start": 1119.85, "end": 1123.85, "text": "Det er rett og slett bare at noen setter en prosentandel eller en annen inn på denne kanton,"}
+{"episode_id": 134, "segment_index": 224, "start": 1123.85, "end": 1127.85, "text": "så blir den forvaltet veldig bra av noen veldig kompetente mennesker"}
+{"episode_id": 134, "segment_index": 225, "start": 1127.85, "end": 1131.85, "text": "som kan dette her og som har vært her i mange år, som du kan stå på."}
+{"episode_id": 134, "segment_index": 226, "start": 1131.85, "end": 1136.85, "text": "Og så kommer de pengene utbetalt som en snittpost over de neste 10-15 årene"}
+{"episode_id": 134, "segment_index": 227, "start": 1136.85, "end": 1140.85, "text": "etter at du blir pensjonist. Det er basically det dette handler om."}
+{"episode_id": 134, "segment_index": 228, "start": 1140.85, "end": 1144.85, "text": "Men jeg tror jo en del av de problemene vi har skapt oss,"}
+{"episode_id": 134, "segment_index": 229, "start": 1144.85, "end": 1147.85, "text": "har vi skapt oss fordi at vi kommer fra en verden der"}
+{"episode_id": 134, "segment_index": 230, "start": 1147.85, "end": 1152.85, "text": "pensjon var garantert i utdelser og vi måtte ansette aktuare"}
+{"episode_id": 134, "segment_index": 231, "start": 1152.85, "end": 1155.85, "text": "som satt og regnet på dødelighet, sannsynligheter"}
+{"episode_id": 134, "segment_index": 232, "start": 1155.85, "end": 1159.85, "text": "fordi man sparer for over fryktlig lang tid."}
+{"episode_id": 134, "segment_index": 233, "start": 1159.85, "end": 1163.85, "text": "Og dette å økker du ikke å forholde deg til om en innskudspansjon,"}
+{"episode_id": 134, "segment_index": 234, "start": 1163.85, "end": 1165.85, "text": "hyper lett, det er en konto. Du sparer på en konto"}
+{"episode_id": 134, "segment_index": 235, "start": 1165.85, "end": 1168.85, "text": "og du får pengene ut når du blir pensjonist."}
+{"episode_id": 134, "segment_index": 236, "start": 1168.85, "end": 1171.85, "text": "Det skal være litt sånn forutintatt."}
+{"episode_id": 134, "segment_index": 237, "start": 1171.85, "end": 1175.85, "text": "Jeg kunne vel sagt noe sånn at pensjon er ikke noe spennende tema"}
+{"episode_id": 134, "segment_index": 238, "start": 1175.85, "end": 1178.85, "text": "før man er i hvert fall godt opp i 50-årene,"}
+{"episode_id": 134, "segment_index": 239, "start": 1178.85, "end": 1183.85, "text": "men opplever du ton at man blir stadig mer bevist"}
+{"episode_id": 134, "segment_index": 240, "start": 1183.85, "end": 1186.85, "text": "på alt dette rundt pensjonssparingen"}
+{"episode_id": 134, "segment_index": 241, "start": 1186.85, "end": 1189.85, "text": "og at det også skjer fra mye tidligere alderen før?"}
+{"episode_id": 134, "segment_index": 242, "start": 1189.85, "end": 1191.85, "text": "Ja, las begynne et skritt før det."}
+{"episode_id": 134, "segment_index": 243, "start": 1191.85, "end": 1194.85, "text": "Las tenke på pensjon som en pyramide."}
+{"episode_id": 134, "segment_index": 244, "start": 1194.85, "end": 1198.85, "text": "Helt i bunden av det du skal få utbetalt når du blir pensjonist,"}
+{"episode_id": 134, "segment_index": 245, "start": 1199.85, "end": 1203.85, "text": "det er noe antagelig den viktigste mediani-intektene i Norge."}
+{"episode_id": 134, "segment_index": 246, "start": 1203.85, "end": 1207.85, "text": "På toppen av det så kommer det tillegg som er de arbeidsgiver"}
+{"episode_id": 134, "segment_index": 247, "start": 1207.85, "end": 1210.85, "text": "betalt ordningene, og nå kommer nesten alle nordmenn"}
+{"episode_id": 134, "segment_index": 248, "start": 1210.85, "end": 1212.85, "text": "de neste 10 årene til å oppleve at det kommer"}
+{"episode_id": 134, "segment_index": 249, "start": 1212.85, "end": 1215.85, "text": "å bli innskudspansjon og egen pensjonskonto."}
+{"episode_id": 134, "segment_index": 250, "start": 1215.85, "end": 1217.85, "text": "Det er noen folk som har igjen og gamle systemer"}
+{"episode_id": 134, "segment_index": 251, "start": 1217.85, "end": 1219.85, "text": "og det offentlig har igjen yttelsesordningen"}
+{"episode_id": 134, "segment_index": 252, "start": 1219.85, "end": 1221.85, "text": "men også der snakker man om de som har endret."}
+{"episode_id": 134, "segment_index": 253, "start": 1221.85, "end": 1224.85, "text": "Men dette er da for privat sektor innskudspansjon."}
+{"episode_id": 134, "segment_index": 254, "start": 1224.85, "end": 1227.85, "text": "På toppen der så er det egen sparing."}
+{"episode_id": 134, "segment_index": 255, "start": 1228.85, "end": 1232.85, "text": "Når vi fikk denne nye spareordningen IPS"}
+{"episode_id": 134, "segment_index": 256, "start": 1232.85, "end": 1235.85, "text": "som jeg mener er helt glimrende."}
+{"episode_id": 134, "segment_index": 257, "start": 1235.85, "end": 1238.85, "text": "Den er kjempe smart."}
+{"episode_id": 134, "segment_index": 258, "start": 1238.85, "end": 1240.85, "text": "IPS det står for?"}
+{"episode_id": 134, "segment_index": 259, "start": 1240.85, "end": 1243.85, "text": "Individuelt pensjonssparing."}
+{"episode_id": 134, "segment_index": 260, "start": 1243.85, "end": 1245.85, "text": "Beklagerer jeg jobbet litt for lenge i finansneingen"}
+{"episode_id": 134, "segment_index": 261, "start": 1245.85, "end": 1248.85, "text": "og tre bokstafsforkortelser er noe vi holder oss med til stadiet."}
+{"episode_id": 134, "segment_index": 262, "start": 1248.85, "end": 1251.85, "text": "Der kan du spare, du binder pengene dine."}
+{"episode_id": 134, "segment_index": 263, "start": 1251.85, "end": 1254.85, "text": "Du får nettofradrag når du setter inn pengene"}
+{"episode_id": 134, "segment_index": 264, "start": 1254.85, "end": 1257.85, "text": "og du må betale nettåskatt når du får pengene utbetalt."}
+{"episode_id": 134, "segment_index": 265, "start": 1257.85, "end": 1259.85, "text": "Det er symmetriordning."}
+{"episode_id": 134, "segment_index": 266, "start": 1259.85, "end": 1261.85, "text": "Det er helt genialt."}
+{"episode_id": 134, "segment_index": 267, "start": 1261.85, "end": 1265.85, "text": "Den ordningen så vi gjorde at en god del flere kvinner"}
+{"episode_id": 134, "segment_index": 268, "start": 1265.85, "end": 1267.85, "text": "begynte å spare til pensjon."}
+{"episode_id": 134, "segment_index": 269, "start": 1267.85, "end": 1270.85, "text": "Omlag halvparten av de som spare i IPS er kvinning."}
+{"episode_id": 134, "segment_index": 270, "start": 1270.85, "end": 1272.85, "text": "Det tror jeg overrasker."}
+{"episode_id": 134, "segment_index": 271, "start": 1272.85, "end": 1274.85, "text": "Jeg synes ikke det er overraskende."}
+{"episode_id": 134, "segment_index": 272, "start": 1274.85, "end": 1279.85, "text": "Når man ser DNBs kampanjer for å få kvinner til spare"}
+{"episode_id": 134, "segment_index": 273, "start": 1279.85, "end": 1282.85, "text": "så kom de litt sammenfallende tid."}
+{"episode_id": 134, "segment_index": 274, "start": 1282.85, "end": 1287.85, "text": "Dette er jo egentlig veldig bra at vi får det fokus på å spare mer."}
+{"episode_id": 134, "segment_index": 275, "start": 1287.85, "end": 1290.85, "text": "Samtidig synes jeg en del skal tenke gjennom."}
+{"episode_id": 134, "segment_index": 276, "start": 1290.85, "end": 1293.85, "text": "Her er det noe man planer i hvordan livet ditt kommer til å bli."}
+{"episode_id": 134, "segment_index": 277, "start": 1293.85, "end": 1297.85, "text": "Jeg skjønner jo, jeg har jo barn selv som nå er i bilsen av 20 år."}
+{"episode_id": 134, "segment_index": 278, "start": 1297.85, "end": 1302.85, "text": "Det er ikke veldig aktuelt for å spare veldig mye til egen pension"}
+{"episode_id": 134, "segment_index": 279, "start": 1302.85, "end": 1304.85, "text": "av de midlene de har."}
+{"episode_id": 134, "segment_index": 280, "start": 1304.85, "end": 1307.85, "text": "Fordi at de skal låne penger, de skal inn i boligmarkedet."}
+{"episode_id": 134, "segment_index": 281, "start": 1307.85, "end": 1309.85, "text": "De bør få kontroll på den egen."}
+{"episode_id": 134, "segment_index": 282, "start": 1309.85, "end": 1311.85, "text": "De skal kjøpe seg opp i boligmarkedet."}
+{"episode_id": 134, "segment_index": 283, "start": 1311.85, "end": 1313.85, "text": "De skal gifte seg. De skal få barn. De skal etablere."}
+{"episode_id": 134, "segment_index": 284, "start": 1313.85, "end": 1315.85, "text": "De skal bile. De skal ha."}
+{"episode_id": 134, "segment_index": 285, "start": 1315.85, "end": 1316.85, "text": "Gud vet hva."}
+{"episode_id": 134, "segment_index": 286, "start": 1316.85, "end": 1320.85, "text": "Og da er det viktig at du måtte planlegge dette godt."}
+{"episode_id": 134, "segment_index": 287, "start": 1320.85, "end": 1321.85, "text": "Glegger en langtidsplan."}
+{"episode_id": 134, "segment_index": 288, "start": 1321.85, "end": 1323.85, "text": "Folketryggen hammerer i bunden."}
+{"episode_id": 134, "segment_index": 289, "start": 1323.85, "end": 1326.85, "text": "Arbeidssive betalt og ordninger ligger på toppen av det."}
+{"episode_id": 134, "segment_index": 290, "start": 1326.85, "end": 1327.85, "text": "De må du følge med en på."}
+{"episode_id": 134, "segment_index": 291, "start": 1327.85, "end": 1329.85, "text": "Blir egentlig når du får pensjonskonto."}
+{"episode_id": 134, "segment_index": 292, "start": 1329.85, "end": 1331.85, "text": "Også må du styre livet ditt og økonomien din"}
+{"episode_id": 134, "segment_index": 293, "start": 1331.85, "end": 1333.85, "text": "sånn at du får kontroll på gjelden av det."}
+{"episode_id": 134, "segment_index": 294, "start": 1333.85, "end": 1335.85, "text": "Når du har fått kontroll på gjelden din,"}
+{"episode_id": 134, "segment_index": 295, "start": 1335.85, "end": 1338.85, "text": "da åpner dette i spareuniverset seg."}
+{"episode_id": 134, "segment_index": 296, "start": 1338.85, "end": 1340.85, "text": "Da kan du gå i aksjonmarkedet."}
+{"episode_id": 134, "segment_index": 297, "start": 1340.85, "end": 1342.85, "text": "Hvis du ønsker å ta mer risiko,"}
+{"episode_id": 134, "segment_index": 298, "start": 1342.85, "end": 1343.85, "text": "du kan bruke IPS."}
+{"episode_id": 134, "segment_index": 299, "start": 1343.85, "end": 1349.85, "text": "Du kan finne en masse av den type muligheter som ligger der ute."}
+{"episode_id": 134, "segment_index": 300, "start": 1349.85, "end": 1352.85, "text": "Og det å lage den planen, det er egentlig ganske morsomt."}
+{"episode_id": 134, "segment_index": 301, "start": 1352.85, "end": 1355.71, "text": "For som du er inne på,"}
+{"episode_id": 134, "segment_index": 302, "start": 1355.71, "end": 1357.71, "text": "sparing til pensjon,"}
+{"episode_id": 134, "segment_index": 303, "start": 1357.71, "end": 1359.71, "text": "det er jo ikke noe du endervis bare disse"}
+{"episode_id": 134, "segment_index": 304, "start": 1359.71, "end": 1363.71, "text": "pensjonsbevisene vi snakker om her."}
+{"episode_id": 134, "segment_index": 305, "start": 1363.71, "end": 1366.71, "text": "Det kan også være for eksempel sparing i egen bolig."}
+{"episode_id": 134, "segment_index": 306, "start": 1367.71, "end": 1369.71, "text": "Kommer helt annet på hvordan man ser det"}
+{"episode_id": 134, "segment_index": 307, "start": 1369.71, "end": 1370.71, "text": "med hvor lange briller."}
+{"episode_id": 134, "segment_index": 308, "start": 1370.71, "end": 1371.71, "text": "Hva tror du du skal til"}
+{"episode_id": 134, "segment_index": 309, "start": 1371.71, "end": 1375.71, "text": "for at man skal vekke interessen her"}
+{"episode_id": 134, "segment_index": 310, "start": 1375.71, "end": 1377.71, "text": "så tidlig som mulig hos folk?"}
+{"episode_id": 134, "segment_index": 311, "start": 1377.71, "end": 1380.71, "text": "Først vil jeg si at det er 110% enig med det Tom sier."}
+{"episode_id": 134, "segment_index": 312, "start": 1380.71, "end": 1383.71, "text": "Det er ikke noe målige å begynne å spare til pensjon"}
+{"episode_id": 134, "segment_index": 313, "start": 1383.71, "end": 1385.71, "text": "når det først og fremst er opptatt"}
+{"episode_id": 134, "segment_index": 314, "start": 1385.71, "end": 1387.71, "text": "og kommet inn i aksjonmarkedet."}
+{"episode_id": 134, "segment_index": 315, "start": 1387.71, "end": 1389.71, "text": "Eller først og fremst trenger det en ny bil,"}
+{"episode_id": 134, "segment_index": 316, "start": 1389.71, "end": 1391.71, "text": "eller først skal det etablere deg."}
+{"episode_id": 134, "segment_index": 317, "start": 1391.71, "end": 1394.71, "text": "Så man må ta det i riktig steg i forhold til hvor man er i løpet."}
+{"episode_id": 134, "segment_index": 318, "start": 1394.71, "end": 1397.71, "text": "Men det som gjelder også de tyvåringene våre, Tom,"}
+{"episode_id": 134, "segment_index": 319, "start": 1397.71, "end": 1400.71, "text": "det er at de har et bevisst forhold til aksjandelen sin."}
+{"episode_id": 134, "segment_index": 320, "start": 1400.71, "end": 1404.71, "text": "Jeg har også en 25-åring som har en iskudspansjonsordning,"}
+{"episode_id": 134, "segment_index": 321, "start": 1404.71, "end": 1406.71, "text": "og så satt vi en kveld og snakket sammen,"}
+{"episode_id": 134, "segment_index": 322, "start": 1406.71, "end": 1409.71, "text": "og så spørte jeg, hvilken aksjandel har du på din?"}
+{"episode_id": 134, "segment_index": 323, "start": 1409.71, "end": 1410.71, "text": "Så sa han, jeg aner ikke, sånn."}
+{"episode_id": 134, "segment_index": 324, "start": 1410.71, "end": 1413.71, "text": "Vi kan jo gå inn på netbanken og sjekke hva de gjorde vi."}
+{"episode_id": 134, "segment_index": 325, "start": 1413.71, "end": 1415.71, "text": "Og så har han 50% aksjandel 25-åringer,"}
+{"episode_id": 134, "segment_index": 326, "start": 1415.71, "end": 1417.71, "text": "og så sier de, det er OK på parken, da."}
+{"episode_id": 134, "segment_index": 327, "start": 1417.71, "end": 1419.71, "text": "Det er sånn rimelig fornuftig."}
+{"episode_id": 134, "segment_index": 328, "start": 1419.71, "end": 1420.71, "text": "Nei, det er gal matias."}
+{"episode_id": 134, "segment_index": 329, "start": 1420.71, "end": 1422.71, "text": "Du skal ha ut i penger her, han 40-åringer."}
+{"episode_id": 134, "segment_index": 330, "start": 1422.71, "end": 1424.71, "text": "Så det skal 100% aksjer,"}
+{"episode_id": 134, "segment_index": 331, "start": 1424.71, "end": 1427.71, "text": "fordi da får du rentes rentefektene av det aksjemarket de gir, da."}
+{"episode_id": 134, "segment_index": 332, "start": 1427.71, "end": 1430.71, "text": "Så det er liksom uavhengig aldersgruppe som mener alle"}
+{"episode_id": 134, "segment_index": 333, "start": 1430.71, "end": 1434.71, "text": "har et ansvar med å ha et bevisst forhold til hvilken aksjandel."}
+{"episode_id": 134, "segment_index": 334, "start": 1434.71, "end": 1437.71, "text": "Når det gjelder sparinger som kommer i tillegg,"}
+{"episode_id": 134, "segment_index": 335, "start": 1437.71, "end": 1440.71, "text": "så er det jo enkelt det, og så når man er i posisjon,"}
+{"episode_id": 134, "segment_index": 336, "start": 1440.71, "end": 1442.71, "text": "når man har overskudslikkeritetet,"}
+{"episode_id": 134, "segment_index": 337, "start": 1442.71, "end": 1446.71, "text": "jo tidligere man starter, jo mindre bløp trenger å sette av hver måned"}
+{"episode_id": 134, "segment_index": 338, "start": 1446.71, "end": 1448.71, "text": "for å få et godt liv også som bansjonist."}
+{"episode_id": 134, "segment_index": 339, "start": 1448.71, "end": 1450.71, "text": "Men det er aldri for seint,"}
+{"episode_id": 134, "segment_index": 340, "start": 1450.71, "end": 1452.71, "text": "og det er kanskje aldri for tidlig,"}
+{"episode_id": 134, "segment_index": 341, "start": 1452.71, "end": 1454.71, "text": "hvis du har en greie økonomifrøvrig."}
+{"episode_id": 134, "segment_index": 342, "start": 1454.71, "end": 1463.77, "text": "Tom, uten å bli alt for lang, så vi skal sumere opp på en måte,"}
+{"episode_id": 134, "segment_index": 343, "start": 1463.77, "end": 1465.77, "text": "hva skal til for at man får en god posisjon?"}
+{"episode_id": 134, "segment_index": 344, "start": 1465.77, "end": 1466.77, "text": "Oi."}
+{"episode_id": 134, "segment_index": 345, "start": 1466.77, "end": 1469.77, "text": "Ja, du synes det er svart langt i sted, da."}
+{"episode_id": 134, "segment_index": 346, "start": 1469.77, "end": 1471.77, "text": "Prøv å være litt kort til nå."}
+{"episode_id": 134, "segment_index": 347, "start": 1471.77, "end": 1474.77, "text": "Nei, jeg er helt enig med sista."}
+{"episode_id": 134, "segment_index": 348, "start": 1474.77, "end": 1478.77, "text": "All sparing på lang sikt skal skje med høye aksjandeller."}
+{"episode_id": 134, "segment_index": 349, "start": 1478.77, "end": 1482.77, "text": "Det er det å ta risiko som gir en høyst forventet avkastning."}
+{"episode_id": 134, "segment_index": 350, "start": 1482.77, "end": 1489.77, "text": "Men samtidig er jeg opptatt av at vi også må si at det å nedbetale gjell,"}
+{"episode_id": 134, "segment_index": 351, "start": 1489.77, "end": 1491.77, "text": "det å ha kontroll på gjell, er viktig."}
+{"episode_id": 134, "segment_index": 352, "start": 1491.77, "end": 1493.77, "text": "Det har jo blitt en litt annen diskusjon nå,"}
+{"episode_id": 134, "segment_index": 353, "start": 1493.77, "end": 1497.77, "text": "siden rentene liksom har beveget seg ned mot null."}
+{"episode_id": 134, "segment_index": 354, "start": 1497.77, "end": 1501.77, "text": "Hadde vi snakket om det da jeg gikk på BA på 1780-tallet,"}
+{"episode_id": 134, "segment_index": 355, "start": 1501.77, "end": 1504.77, "text": "og skrevet det en oppgave, så hadde det blitt kastet ut av skolen,"}
+{"episode_id": 134, "segment_index": 356, "start": 1504.77, "end": 1509.77, "text": "antagelig lagt i en annen, ja, blitt medicinert eller noe sånt,"}
+{"episode_id": 134, "segment_index": 357, "start": 1509.77, "end": 1512.77, "text": "altså, realitet er jo nå at rentene er null."}
+{"episode_id": 134, "segment_index": 358, "start": 1512.77, "end": 1514.77, "text": "Nullerenter gjør jo alt litt mer trikke."}
+{"episode_id": 134, "segment_index": 359, "start": 1514.77, "end": 1516.77, "text": "Ja, det er veldig rart."}
+{"episode_id": 134, "segment_index": 360, "start": 1516.77, "end": 1519.77, "text": "Også er jo det en spørsmål om å komme stige, liksom."}
+{"episode_id": 134, "segment_index": 361, "start": 1519.77, "end": 1522.77, "text": "Jeg mener deg likevel at man skal liksom være litt opptatt av det gamle dydne,"}
+{"episode_id": 134, "segment_index": 362, "start": 1522.77, "end": 1526.77, "text": "da, og ha kontroll på det nedling, for at du vet ikke helt hva som skjer"}
+{"episode_id": 134, "segment_index": 363, "start": 1526.77, "end": 1528.77, "text": "på et eller annen tidspunkt i livet ditt."}
+{"episode_id": 134, "segment_index": 364, "start": 1528.77, "end": 1531.77, "text": "Men sparing, vil sida, høye aksjandeller når du er ung,"}
+{"episode_id": 134, "segment_index": 365, "start": 1531.77, "end": 1536.77, "text": "og spar gjerne liksom en ting besparing,"}
+{"episode_id": 134, "segment_index": 366, "start": 1536.77, "end": 1538.77, "text": "nå er jeg lang igjen, unskyld."}
+{"episode_id": 134, "segment_index": 367, "start": 1538.77, "end": 1540.77, "text": "Men jeg synes det er ganske interessant,"}
+{"episode_id": 134, "segment_index": 368, "start": 1540.77, "end": 1543.77, "text": "liksom at hvis du går igjen om kontoen din på slutten av månen,"}
+{"episode_id": 134, "segment_index": 369, "start": 1543.77, "end": 1547.77, "text": "så vil du sannsynligvis finne ut at du har sørlebort mye penger."}
+{"episode_id": 134, "segment_index": 370, "start": 1547.77, "end": 1554.77, "text": "Og hvis noen bare tar 500 eller 400 eller 800-600 kroner ut av den kontoen,"}
+{"episode_id": 134, "segment_index": 371, "start": 1554.77, "end": 1557.77, "text": "med en gang landen kommer inn og setter det i aksjemarket,"}
+{"episode_id": 134, "segment_index": 372, "start": 1557.77, "end": 1560.77, "text": "så er det penger du antagelig blitt, så har du sørlebort uansett."}
+{"episode_id": 134, "segment_index": 373, "start": 1560.77, "end": 1563.77, "text": "Så sånt sett kan man liksom jonglere litt,"}
+{"episode_id": 134, "segment_index": 374, "start": 1563.77, "end": 1566.77, "text": "og faktisk spare små potter penger hver eneste måned,"}
+{"episode_id": 134, "segment_index": 375, "start": 1566.77, "end": 1570.77, "text": "fra du er veldig ung, så vil det gå deg godt igjen om livet."}
+{"episode_id": 134, "segment_index": 376, "start": 1570.77, "end": 1575.77, "text": "Så er det noen leverandører som starter nedtrappingen av aksjandelen ganske tidlig,"}
+{"episode_id": 134, "segment_index": 377, "start": 1575.77, "end": 1578.77, "text": "så kan du selvfølgelig velge å gjøre noe med deg,"}
+{"episode_id": 134, "segment_index": 378, "start": 1578.77, "end": 1581.77, "text": "så hvor lenge mener du man bør holde aksjandelen oppe?"}
+{"episode_id": 134, "segment_index": 379, "start": 1581.77, "end": 1584.77, "text": "I den graden er det litt i et generelt svaret."}
+{"episode_id": 134, "segment_index": 380, "start": 1584.77, "end": 1588.77, "text": "Det tror jeg må overlatte til wealth management og ekspertisen."}
+{"episode_id": 134, "segment_index": 381, "start": 1588.77, "end": 1591.77, "text": "Jeg tenker jo at nå har man vel..."}
+{"episode_id": 134, "segment_index": 382, "start": 1591.77, "end": 1593.77, "text": "Det som er litt gledelig, da."}
+{"episode_id": 134, "segment_index": 383, "start": 1593.77, "end": 1597.77, "text": "Jeg har oppdagt deg den uken, man hadde fast flyttet alders trinne"}
+{"episode_id": 134, "segment_index": 384, "start": 1597.77, "end": 1601.77, "text": "fra litt senere i løpet, så plutselig var de som hadde bikk av 50,"}
+{"episode_id": 134, "segment_index": 385, "start": 1601.77, "end": 1604.77, "text": "det var ikke gamle lenge, så det var det som vi må vente å tippe,"}
+{"episode_id": 134, "segment_index": 386, "start": 1604.77, "end": 1608.77, "text": "vi ble 50 før vi ble gamle. Det synes jeg var veldig veldig å oppleve."}
+{"episode_id": 134, "segment_index": 387, "start": 1608.77, "end": 1611.77, "text": "Men jeg synes ikke det."}
+{"episode_id": 134, "segment_index": 388, "start": 1611.77, "end": 1614.77, "text": "Disse pengene skal utbetales over 10-15 år også,"}
+{"episode_id": 134, "segment_index": 389, "start": 1614.77, "end": 1617.77, "text": "når du blir 67-70."}
+{"episode_id": 134, "segment_index": 390, "start": 1617.77, "end": 1621.77, "text": "Så det å begynne en sånn dramatisk nedtrapping når du er 55,"}
+{"episode_id": 134, "segment_index": 391, "start": 1621.77, "end": 1623.83, "text": "tror jeg ikke noe endvendigvis passer all."}
+{"episode_id": 134, "segment_index": 392, "start": 1623.83, "end": 1626.83, "text": "Du kan gå tilventelig, for du har god tid,"}
+{"episode_id": 134, "segment_index": 393, "start": 1626.83, "end": 1632.83, "text": "fra du er kanskje 60-60 til midten av nedbetalingstiden,"}
+{"episode_id": 134, "segment_index": 394, "start": 1632.83, "end": 1636.83, "text": "som er rundt 76-77."}
+{"episode_id": 134, "segment_index": 395, "start": 1636.83, "end": 1640.83, "text": "Så du trenger ikke da å være bekymret for å supe krakke på en måte."}
+{"episode_id": 134, "segment_index": 396, "start": 1640.83, "end": 1645.83, "text": "Ja, veldig enig at det må man ha et bevisst forhold til."}
+{"episode_id": 134, "segment_index": 397, "start": 1645.83, "end": 1649.83, "text": "Og veldig ofte så begynner de automatiske nedtrappingene for tidligd."}
+{"episode_id": 134, "segment_index": 398, "start": 1649.83, "end": 1651.83, "text": "Veldig ofte så begynner de når jeg er 47 år,"}
+{"episode_id": 134, "segment_index": 399, "start": 1651.83, "end": 1656.83, "text": "og så trappes den ned med 5 prosent hvert år i de neste 10 år."}
+{"episode_id": 134, "segment_index": 400, "start": 1656.83, "end": 1660.83, "text": "Det man ofte glemmer når man tenker på innskudspunktionsordningen sin,"}
+{"episode_id": 134, "segment_index": 401, "start": 1660.83, "end": 1662.83, "text": "er den trekanten som Tom snakker om i stra."}
+{"episode_id": 134, "segment_index": 402, "start": 1662.83, "end": 1664.83, "text": "I bunnen ligger folketrygden,"}
+{"episode_id": 134, "segment_index": 403, "start": 1664.83, "end": 1667.83, "text": "og folketrygden er en garantert ordning."}
+{"episode_id": 134, "segment_index": 404, "start": 1667.83, "end": 1669.83, "text": "Den kan du se som en renteplassering."}
+{"episode_id": 134, "segment_index": 405, "start": 1669.83, "end": 1670.83, "text": "Ikke sant?"}
+{"episode_id": 134, "segment_index": 406, "start": 1670.83, "end": 1673.83, "text": "Så den aksjeandelen du har på den totale"}
+{"episode_id": 134, "segment_index": 407, "start": 1673.83, "end": 1676.83, "text": "innskudspunktionsformuren din,"}
+{"episode_id": 134, "segment_index": 408, "start": 1676.83, "end": 1679.83, "text": "er jo hvis du da legger hundre prosent aksjer,"}
+{"episode_id": 134, "segment_index": 409, "start": 1679.83, "end": 1683.83, "text": "gjennomsnitsnurbanen ligger da som synligvis på 50 prosent aksjer"}
+{"episode_id": 134, "segment_index": 410, "start": 1683.83, "end": 1686.83, "text": "av total inkludert folketrygden."}
+{"episode_id": 134, "segment_index": 411, "start": 1686.83, "end": 1692.83, "text": "Så vår erfaring er at det er allfor mange som ligger med allforlav aksjandel,"}
+{"episode_id": 134, "segment_index": 412, "start": 1692.83, "end": 1695.83, "text": "og at det er for mange som begynner nedtrappingen for tidlig."}
+{"episode_id": 134, "segment_index": 413, "start": 1695.83, "end": 1699.83, "text": "Afslutningsvis så får jeg høre hva dere faktisk har gjort,"}
+{"episode_id": 134, "segment_index": 414, "start": 1699.83, "end": 1700.83, "text": "eller hvordan dere gjør det,"}
+{"episode_id": 134, "segment_index": 415, "start": 1700.83, "end": 1704.83, "text": "og hva grep har du tatt for når du kommer til pensjonsparing?"}
+{"episode_id": 134, "segment_index": 416, "start": 1704.83, "end": 1707.83, "text": "Jeg har jo innskudspunktjoner hos min arbeidsgiver,"}
+{"episode_id": 134, "segment_index": 417, "start": 1707.83, "end": 1709.83, "text": "jeg er veldig glad for, av folketrygden."}
+{"episode_id": 134, "segment_index": 418, "start": 1709.83, "end": 1712.83, "text": "Og så pleier jeg å se hele familien en rett,"}
+{"episode_id": 134, "segment_index": 419, "start": 1712.83, "end": 1714.83, "text": "så som Tom var inne på i stedet,"}
+{"episode_id": 134, "segment_index": 420, "start": 1714.83, "end": 1716.83, "text": "så er jo kvinne, har jo vært en sårbare parten,"}
+{"episode_id": 134, "segment_index": 421, "start": 1716.83, "end": 1717.83, "text": "så vi har innskudspunktjoner,"}
+{"episode_id": 134, "segment_index": 422, "start": 1717.83, "end": 1720.83, "text": "eller individuell pensjonsparing på min kone."}
+{"episode_id": 134, "segment_index": 423, "start": 1720.83, "end": 1722.83, "text": "I tillegg til det så har jeg også"}
+{"episode_id": 134, "segment_index": 424, "start": 1722.83, "end": 1726.83, "text": "sparing i fri aktiva aksjer og aksjer"}
+{"episode_id": 134, "segment_index": 425, "start": 1726.83, "end": 1728.83, "text": "for noen obligasjoner og så videre."}
+{"episode_id": 134, "segment_index": 426, "start": 1728.83, "end": 1729.83, "text": "Tom, hva med deg da?"}
+{"episode_id": 134, "segment_index": 427, "start": 1729.83, "end": 1731.83, "text": "Jeg har jo også gjort en innsats for å sikre pensjonen"}
+{"episode_id": 134, "segment_index": 428, "start": 1731.83, "end": 1733.83, "text": "når den til kommer."}
+{"episode_id": 134, "segment_index": 429, "start": 1734.83, "end": 1737.83, "text": "Jeg har i min langtidsplan,"}
+{"episode_id": 134, "segment_index": 430, "start": 1737.83, "end": 1739.83, "text": "som jeg nå har snakket vant om,"}
+{"episode_id": 134, "segment_index": 431, "start": 1739.83, "end": 1741.83, "text": "så ligger det liksom det å få inn av denne"}
+{"episode_id": 134, "segment_index": 432, "start": 1741.83, "end": 1744.83, "text": "einomsparing, og så håper jeg at jeg liksom"}
+{"episode_id": 134, "segment_index": 433, "start": 1744.83, "end": 1747.83, "text": "er i stand til å gi barna mine en av den"}
+{"episode_id": 134, "segment_index": 434, "start": 1747.83, "end": 1749.83, "text": "hjelp inn i bolemarketet."}
+{"episode_id": 134, "segment_index": 435, "start": 1749.83, "end": 1751.83, "text": "Og når de virkelig er ute,"}
+{"episode_id": 134, "segment_index": 436, "start": 1751.83, "end": 1753.83, "text": "og jeg ikke har noe mer ansvar,"}
+{"episode_id": 134, "segment_index": 437, "start": 1753.83, "end": 1755.83, "text": "da skal jeg dundere alt inn i aksjermarketet"}
+{"episode_id": 134, "segment_index": 438, "start": 1755.83, "end": 1757.83, "text": "og legge på en pot på toppen her."}
+{"episode_id": 134, "segment_index": 439, "start": 1757.83, "end": 1759.83, "text": "Det er den lange planen."}
+{"episode_id": 134, "segment_index": 440, "start": 1759.83, "end": 1764.83, "text": "Men jeg tror de fleste"}
+{"episode_id": 134, "segment_index": 441, "start": 1764.83, "end": 1766.83, "text": "tenker familien,"}
+{"episode_id": 134, "segment_index": 442, "start": 1766.83, "end": 1768.83, "text": "og vi tenker at vi har et ansvar,"}
+{"episode_id": 134, "segment_index": 443, "start": 1768.83, "end": 1770.83, "text": "så er det vi som nå har barn"}
+{"episode_id": 134, "segment_index": 444, "start": 1770.83, "end": 1772.83, "text": "som er på vei inn i voksenlivet."}
+{"episode_id": 134, "segment_index": 445, "start": 1772.83, "end": 1775.83, "text": "Vi har skapt en verden for dem"}
+{"episode_id": 134, "segment_index": 446, "start": 1775.83, "end": 1778.83, "text": "som gir de et helt annet utgangspunkt"}
+{"episode_id": 134, "segment_index": 447, "start": 1778.83, "end": 1780.83, "text": "enn det vi selv hadde"}
+{"episode_id": 134, "segment_index": 448, "start": 1780.83, "end": 1783.83, "text": "da jeg bevegte meg inn i bolemarketet."}
+{"episode_id": 134, "segment_index": 449, "start": 1783.83, "end": 1786.83, "text": "Og vi har et vist ansvar for å hjelpe dem"}
+{"episode_id": 134, "segment_index": 450, "start": 1786.83, "end": 1789.83, "text": "i generasjonen som går foran dem rett og spett."}
+{"episode_id": 134, "segment_index": 451, "start": 1789.83, "end": 1790.83, "text": "Så det der blir en avvejning"}
+{"episode_id": 134, "segment_index": 452, "start": 1790.83, "end": 1792.83, "text": "med hvor mye jeg har lyst til å ha i minpansjonsstid,"}
+{"episode_id": 134, "segment_index": 453, "start": 1792.83, "end": 1796.83, "text": "og hvor mye jeg føler at jeg som en eldre generasjon"}
+{"episode_id": 134, "segment_index": 454, "start": 1796.83, "end": 1799.83, "text": "faktisk har et ansvar for å hjelpe dem."}
+{"episode_id": 134, "segment_index": 455, "start": 1799.83, "end": 1802.83, "text": "Fokke, om du rakoponner, så du får ta sist ord."}
+{"episode_id": 134, "segment_index": 456, "start": 1802.83, "end": 1805.83, "text": "Det har diskuterat nåt sista med familier,"}
+{"episode_id": 134, "segment_index": 457, "start": 1805.83, "end": 1807.83, "text": "minpansjonsordningen,"}
+{"episode_id": 134, "segment_index": 458, "start": 1807.83, "end": 1809.83, "text": "og det er at innskudspansjonsordningen"}
+{"episode_id": 134, "segment_index": 459, "start": 1809.83, "end": 1813.83, "text": "og egenpansjonskontoordningen normalt sett"}
+{"episode_id": 134, "segment_index": 460, "start": 1813.83, "end": 1815.83, "text": "er særreige."}
+{"episode_id": 134, "segment_index": 461, "start": 1815.83, "end": 1818.83, "text": "Det er veldig viktig å ta det med seg inn."}
+{"episode_id": 134, "segment_index": 462, "start": 1818.83, "end": 1820.83, "text": "Vi vet jo at det er often ene partner,"}
+{"episode_id": 134, "segment_index": 463, "start": 1820.83, "end": 1823.83, "text": "veldig ofte kvinnen, som tar de største løfta"}
+{"episode_id": 134, "segment_index": 464, "start": 1823.83, "end": 1826.83, "text": "når man etablerer seg, når man får barn og så videre."}
+{"episode_id": 134, "segment_index": 465, "start": 1826.83, "end": 1829.83, "text": "Og det bør partnerne snakke sammen om"}
+{"episode_id": 134, "segment_index": 466, "start": 1829.83, "end": 1833.83, "text": "hvordan skal du kompansjere for hennes eller hans"}
+{"episode_id": 134, "segment_index": 467, "start": 1833.83, "end": 1835.83, "text": "tappte pansjonsoppdeling i de årene."}
+{"episode_id": 134, "segment_index": 468, "start": 1835.83, "end": 1838.83, "text": "Fordi dette er særreige, hvis det går gjernt."}
+{"episode_id": 134, "segment_index": 469, "start": 1838.83, "end": 1839.83, "text": "Veldig god point."}
+{"episode_id": 134, "segment_index": 470, "start": 1839.83, "end": 1840.99, "text": "Bra."}
+{"episode_id": 134, "segment_index": 471, "start": 1840.99, "end": 1842.99, "text": "Da gjennstår det bare å si tusen takk"}
+{"episode_id": 134, "segment_index": 472, "start": 1842.99, "end": 1846.99, "text": "for at dere kom hit til oss i dag,"}
+{"episode_id": 134, "segment_index": 473, "start": 1846.99, "end": 1876.24, "text": "og ikke minst, tusen takk til alle dere som hørte på."}
+{"episode_id": 134, "segment_index": 474, "start": 1876.24, "end": 1879.24, "text": "Denne podcasten og detts innehåll skal anses"}
+{"episode_id": 134, "segment_index": 475, "start": 1879.24, "end": 1881.24, "text": "som markedsføringsmateriel fra DMB"}
+{"episode_id": 134, "segment_index": 476, "start": 1881.24, "end": 1884.24, "text": "og må ikke oppfattes som investeringsanbefaling"}
+{"episode_id": 134, "segment_index": 477, "start": 1884.24, "end": 1886.66, "text": "eller som investeringsanalyset."}
+{"episode_id": 134, "segment_index": 478, "start": 1886.66, "end": 1888.66, "text": "Innhållet skal heller ikke anses"}
+{"episode_id": 134, "segment_index": 479, "start": 1888.66, "end": 1890.66, "text": "for å være investeringsrådivning"}
+{"episode_id": 134, "segment_index": 480, "start": 1890.66, "end": 1892.66, "text": "tilpasset den enkelte kundesbehovet."}
+{"episode_id": 134, "segment_index": 481, "start": 1892.66, "end": 1894.85, "text": "Informasjonen som giser podcasten"}
+{"episode_id": 134, "segment_index": 482, "start": 1894.85, "end": 1897.85, "text": "er kun mennes som generell sparverledning"}
+{"episode_id": 134, "segment_index": 483, "start": 1897.85, "end": 1899.85, "text": "og er ikke ment å utgjøre juridisk,"}
+{"episode_id": 134, "segment_index": 484, "start": 1899.85, "end": 1901.85, "text": "finansiell, kommersiell,"}
+{"episode_id": 134, "segment_index": 485, "start": 1901.85, "end": 1905.78, "text": "skattemessig eller regnskapsmessig rådivning."}
+{"episode_id": 134, "segment_index": 486, "start": 1905.78, "end": 1907.78, "text": "Innålige sendingen er ikke gjennomgått"}
+{"episode_id": 134, "segment_index": 487, "start": 1907.78, "end": 1910.78, "text": "eller godkjent av DMB Markets avdeling for analyset."}
+{"episode_id": 134, "segment_index": 488, "start": 1910.78, "end": 1913.87, "text": "Alle uttalser reflekterer DMBs vurderinger"}
+{"episode_id": 134, "segment_index": 489, "start": 1913.87, "end": 1915.87, "text": "på tidspunktet for den aktuelle sendingen,"}
+{"episode_id": 134, "segment_index": 490, "start": 1915.87, "end": 1918.87, "text": "og kan i etterkant endres uten nærmere beskjed."}
+{"episode_id": 134, "segment_index": 491, "start": 1918.87, "end": 1923.57, "text": "DMB er ikke ansvarlig for hvordan informasjonen"}
+{"episode_id": 134, "segment_index": 492, "start": 1923.57, "end": 1925.57, "text": "i podcasten benyttes eller tolkes."}
+{"episode_id": 134, "segment_index": 493, "start": 1925.57, "end": 1928.57, "text": "Informasjonen som henviser til historisk avkastning"}
+{"episode_id": 134, "segment_index": 494, "start": 1928.57, "end": 1930.57, "text": "i finansielle instrumenter,"}
+{"episode_id": 134, "segment_index": 495, "start": 1930.57, "end": 1933.57, "text": "en finansiell indeks eller prognoser"}
+{"episode_id": 134, "segment_index": 496, "start": 1933.57, "end": 1937.11, "text": "gir ingen garanti for fremtidig avkastning."}
+{"episode_id": 134, "segment_index": 497, "start": 1937.11, "end": 1939.11, "text": "DMB gjør oppmerksom på at en hver investering"}
+{"episode_id": 134, "segment_index": 498, "start": 1939.11, "end": 1941.11, "text": "i et finansiellest instrument"}
+{"episode_id": 134, "segment_index": 499, "start": 1941.11, "end": 1944.53, "text": "er forbundet med risiko for økonomisk tap."}
+{"episode_id": 134, "segment_index": 500, "start": 1944.53, "end": 1947.53, "text": "Finansielle instrumenter kan både øke og minnske valg,"}
+{"episode_id": 134, "segment_index": 501, "start": 1947.53, "end": 1951.53, "text": "slik at avkastning kan bli negativ som følge av kursvalg."}
+{"episode_id": 134, "segment_index": 502, "start": 1951.53, "end": 1955.66, "text": "DMB er et ansvar for direkte eller indirekte tap"}
+{"episode_id": 134, "segment_index": 503, "start": 1955.66, "end": 1957.66, "text": "og kostnader som måtte oppståve bruk"}
+{"episode_id": 134, "segment_index": 504, "start": 1957.66, "end": 1960.66, "text": "av den informasjonen som gis i podcasten."}

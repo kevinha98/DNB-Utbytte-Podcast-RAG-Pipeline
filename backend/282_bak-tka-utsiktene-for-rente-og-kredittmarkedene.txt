@@ -1,0 +1,2671 @@
+Episode 282: Bak tåka: Utsiktene for rente- og kredittmarkedene
+Publisert: Fri, 17 Ju
+Vert: Marius Brun Haugen
+Varighet: 46 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/bak-taka-utsiktene-for-rente-og-kredittmarkedene
+
+--- Transkripsjon ---
+
+[00:00:00] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen global økonomien og finansmarkedene.
+
+[00:00:07] Jeg er Marius Brønnhaugen, og i denne episoden skal det handle om utsiktene for rente- og kreditmarkedene.
+
+[00:00:17] Som jeg tror de fleste av dere vet, er prisveksten rekordhøy i mange steder, og aktiviteten er fallende flere steder.
+
+[00:00:26] Så hvordan blir avveiningen mellom vekst og inflasjon i rentesettingene fremover, og hvordan påvirker dette lange renter og kreditpåslagene?
+
+[00:00:36] Dette her er helt sentrale ting for egentlig alle deler av finansmarkedene.
+
+[00:00:43] Nylig så holdt vår kreditstrateg Ole Kjennerud og rente- og valutaanalytiker Yngvild Borgen et webinar om dette temaet.
+
+[00:00:53] Og denne diskusjonen, den var så god at vi har gjort den om til podcast, så den skal dere få høre nå.
+
+[00:00:59] God fornøyelse folkens, og takk for at dere hører på Utbytte.
+
+[00:01:12] Globale kreditpåslag har gått kraftig ut nå i 2022, både i investment grade og i høyrentemarkedene.
+
+[00:01:20] Og vi ser dette stort sett på begge sider av Atlanteren.
+
+[00:01:24] Avkastningen i statsobligasjoner og andre laverisikoobligasjoner har vært veldig negativ.
+
+[00:01:32] Det er akkurat et fall på sikkert minus 15% stort sett på begge sider av Atlanteren igjen, som gjør 2022 til et av de svakeste årene i nyere historie.
+
+[00:01:43] Og hvis du ser på volatilitetsindekser for obligasjonsmarkedene, så har disse steget til høyere nivåer enn det vi hadde under koronakrisen.
+
+[00:01:52] Og i går så var det SEB som måtte holde et ad hoc-møte for å adressere markedsuroen.
+
+[00:02:00] Og vi kommer litt tilbake til akkurat dette.
+
+[00:02:02] Men altså, det er ingen tvil om at det rusker i maskineriet for de globale finansmarkedene nå i 2022.
+
+[00:02:10] Og årsaken til alt dette her, den kjenner vi jo godt til.
+
+[00:02:13] Inflasjonen har skuddt i været stort sett over hele verden.
+
+[00:02:17] Over 8% i Europa, nesten 9% i USA.
+
+[00:02:21] Og som en respons har sentralbankene gått fra å være opptatt av markedsrisiko, redde for at børsene faller,
+
+[00:02:28] til å nå bli superredde for at inflasjonen skal feste seg på disse.
+
+[00:02:32] Høye nivåene.
+
+[00:02:34] Og Fed i går responderte med å heve renten med 75 punkter.
+
+[00:02:38] Og svarte seg også at de kan komme til å gjøre akkurat det samme igjen nå i juli.
+
+[00:02:44] Så du har hatt en inflasjonsfrykt som har blitt en rentefrykt, og som etter hvert da har blitt også en restrasjonsfrykt.
+
+[00:02:52] Og alt dette har liksom gitt utslag i høyere risikopremier, både i aksjemarkedene og i kreditmarkedene.
+
+[00:02:58] Og ikke minst høyere renter generelt.
+
+[00:03:00] Og det er litt av det bildet jeg har hatt.
+
+[00:03:16] Ja, dere kan stille spørsmål.
+
+[00:03:18] Ja, og vi skal prøve å svare på det til slutt.
+
+[00:03:21] Men ja, hva vi skal snakke om,
+
+[00:03:23] renter, kreditmarkedene,
+
+[00:03:25] og selvfølgelig hva som driver det hele.
+
+[00:03:28] Men vi må begynne med, dessverre,
+
+[00:03:30] jeg vet at du har litt betenkninger rundt det,
+
+[00:03:33] men vi må begynne med en liten backtrading-sesjon.
+
+[00:03:38] Altså, si litt om hva vi har tenkt tidligere,
+
+[00:03:41] og hva som har skjedd.
+
+[00:03:41] Altså, backtrading, det er å peke på
+
+[00:03:43] hva man som analytiker har ment,
+
+[00:03:44] og så si at jeg hadde rett.
+
+[00:03:47] Det er jo egentlig den største synd.
+
+[00:03:49] Da må vi jo heller gå og legge oss.
+
+[00:03:51] Ja, altså, egentlig noe vi skal holde oss for god til.
+
+[00:03:54] Men nå må du på en måte litt med til historien, da.
+
+[00:03:56] At du har jo veldig lenge vært fokusert på
+
+[00:04:01] at det er oppsideriske mot inflasjonen,
+
+[00:04:03] at du ikke har trodd at inflasjonen skal komme ned
+
+[00:04:05] like mye, like fort som både Fed og konsensus har tenkt.
+
+[00:04:12] Det har jo nå materialisert.
+
+[00:04:14] Vi fikk en inflasjonstall fra USA senest på fredag,
+
+[00:04:18] som viste at vi hadde ikke noe peak inflation
+
+[00:04:21] som folk har gått og håpet på.
+
+[00:04:24] Disse båseffektene, de ble ikke så viktige likevel.
+
+[00:04:26] Ja, og kanskje viktigst at månedsdaktig inflasjon
+
+[00:04:29] holder seg så i det.
+
+[00:04:30] Det er jo noe du har snakket lenge om,
+
+[00:04:32] at det er en stor risiko for det.
+
+[00:04:34] Og vi i Makretime har jo,
+
+[00:04:36] selv om vi kanskje ikke har vært like skeptiske
+
+[00:04:38] til inflasjonsinstituttet som deg,
+
+[00:04:40] så har vi jo likevel hatt et syn om at
+
+[00:04:41] rentene skal mye opp.
+
+[00:04:44] Ja.
+
+[00:04:44] Det skal heve renter mye mer enn det
+
+[00:04:46] markedet priset inn tidligere i år,
+
+[00:04:48] og at det skulle gi seg utslag i et kraftig løft
+
+[00:04:51] i de lange rentene.
+
+[00:04:52] Det har vært vårt syn lenge.
+
+[00:04:54] Og når vi la frem nye renteprognoser i midten av mars,
+
+[00:04:57] så fikk vi mye tilbakemeldinger på at
+
+[00:04:59] oi, dette var friske prognoser,
+
+[00:05:01] skal rentene virkelig så høyt opp som det.
+
+[00:05:05] Og nå har det jo skjedd.
+
+[00:05:06] Tiåringen i USA, som er på en måte
+
+[00:05:08] den viktigste renta,
+
+[00:05:09] om ikke den viktigste finansielle størrelsen
+
+[00:05:11] man følger med på,
+
+[00:05:13] nå er det 3,5,
+
+[00:05:14] som var det høye anslaget som folk reagerte på
+
+[00:05:17] for bare noen måneder siden.
+
+[00:05:19] Nå er vi der.
+
+[00:05:20] Så det må jeg på en måte litt med,
+
+[00:05:22] at dette er det synet vi har hatt.
+
+[00:05:24] Og da blir det jo kanskje,
+
+[00:05:25] vi føler at rapporten vår var litt kjedelig,
+
+[00:05:28] fordi vi hadde ikke på en måte noen sånn...
+
+[00:05:30] Vi har ikke noen ny historie.
+
+[00:05:31] Vi har ikke noen banebrytende ny historie.
+
+[00:05:32] Ikke i det hele tatt.
+
+[00:05:33] Men det er fortsatt en verdi,
+
+[00:05:35] det er å snakke litt om
+
+[00:05:35] hva tror vi for det neste halvåret.
+
+[00:05:37] Er toppen nådd for renter?
+
+[00:05:39] Skal det nedover her etter?
+
+[00:05:41] Er vi på det verste med markedsuroen nå?
+
+[00:05:44] Vi snakker om kreditpåslagene som har gått ut.
+
+[00:05:47] Skal det bli bedre enn fremover?
+
+[00:05:48] Det er fortsatt relevant å snakke om det.
+
+[00:05:50] Ja, bare for å ha sagt det,
+
+[00:05:52] denne rapporten som vi har sendt til deg tidlig,
+
+[00:05:55] det er bare en repetisjon av det vi har sagt igjennom
+
+[00:06:00] hele det siste halvåret.
+
+[00:06:03] Og så er spørsmålet da,
+
+[00:06:04] for som regel når ting stiger så mye
+
+[00:06:06] som det har gjort nå,
+
+[00:06:07] altså rentene går så mye opp
+
+[00:06:08] som de har hatt de siste månedene,
+
+[00:06:10] og kreditpåslagene stiger så mye
+
+[00:06:12] som de har steget særlig den siste måneden,
+
+[00:06:15] så pleier det jo bare å komme ned igjen.
+
+[00:06:19] Og der er vi kanskje litt skeptiske.
+
+[00:06:21] Ja, helt klart.
+
+[00:06:22] Så det er vel det vi skal snakke om nå?
+
+[00:06:24] Det er det vi skal snakke om nå,
+
+[00:06:25] å begynne litt med renter.
+
+[00:06:26] Ja, og gå rett på,
+
+[00:06:28] hva tror du skal til for at rentene skal fortsette å stige?
+
+[00:06:32] Og da tenker vi lange renter og primært dollarrenter.
+
+[00:06:34] Men det smitter jo over på alt mulig annet.
+
+[00:06:36] Det smitter over,
+
+[00:06:37] dollarrenter er det som driver det,
+
+[00:06:38] og vi har jo sett at norske renter
+
+[00:06:40] følger fortsatt dollarrenter nesten en til en,
+
+[00:06:43] så det er dollarrenter vi fokuserer på.
+
+[00:06:45] Vi hadde jo et anslag på 3,5 prosent,
+
+[00:06:48] det er toppen, som sagt,
+
+[00:06:49] nå var det der.
+
+[00:06:51] Om de kan stige utover det,
+
+[00:06:52] det tror jeg så absolutt,
+
+[00:06:54] og jeg tror ikke at det skal så mye til.
+
+[00:06:58] Og det ble jo enda tydeligere etter møtet i Fed i går,
+
+[00:07:02] når den amerikanske sentralbanken da la frem
+
+[00:07:04] inflasjonsprognoser som vel var litt ganske optimistiske.
+
+[00:07:09] De venter at det at de skal...
+
+[00:07:11] De er like optimistiske som de var sist.
+
+[00:07:12] Ja, så de venter at vi skal kjøre opp rentene,
+
+[00:07:14] og inflasjonen kommer til å komme ned.
+
+[00:07:16] Vi skal kanskje ikke...
+
+[00:07:17] Jo, vi må gå litt inn i detalj,
+
+[00:07:19] fordi månedsdakten i kjerneinflasjonen
+
+[00:07:21] har ligget i hele år, i snitt, 0,6 prosent ish.
+
+[00:07:25] Nå tror Fed den skal ned til 0,4, 0,3, 0,2 uten et sted.
+
+[00:07:29] Så de venter en betydelig nedgang
+
+[00:07:32] i månedsdakten i kjerneinflasjonen.
+
+[00:07:35] Så da skal det ikke mye til da,
+
+[00:07:38] før vi får et nytt inflasjonstål,
+
+[00:07:40] som det vi fikk på fredag,
+
+[00:07:41] som gir en ny sånn...
+
+[00:07:42] Oi, dette var jo ikke det Fed hadde trodd,
+
+[00:07:44] og det er jo mye av det Powell også,
+
+[00:07:46] jeg følte han ga uttrykk for,
+
+[00:07:48] både fysisk og med ord.
+
+[00:07:52] Han var veldig ukomfortabel i går,
+
+[00:07:53] fordi han sa at vi kommer til,
+
+[00:07:57] ikke direkte, men vi kommer til
+
+[00:07:58] å ha en pengepolitikk som potensielt vil
+
+[00:08:01] skade økonomien, på kort sikt.
+
+[00:08:04] De har i anslaget at arbeidsledigheten skal stige,
+
+[00:08:07] og hvis inflasjonen ikke kommer ned som ventet,
+
+[00:08:09] så må de tråd ha retteverks.
+
+[00:08:11] De signaliserer allerede et slags
+
+[00:08:13] 50 prosent,
+
+[00:08:14] 25 punkter per møte ut året,
+
+[00:08:17] og stor sannsynlighet for 75 punkter på det neste møtet.
+
+[00:08:20] Og med,
+
+[00:08:21] men i forhold til lange renter,
+
+[00:08:23] lange renter har jo hele år
+
+[00:08:24] fulgt renteforventningene.
+
+[00:08:27] Altså renteforventninger over tid
+
+[00:08:28] er jo alltid styrende for lange renter,
+
+[00:08:30] men i år så har det vært veldig sånn at
+
+[00:08:32] bare forventninger til renta til Fed
+
+[00:08:34] de neste to årene har vært styrende på daglig basis
+
+[00:08:36] for tiårsrentene.
+
+[00:08:38] Så hvis man får en ny inflasjonsoverraskelse,
+
+[00:08:41] så tror jeg ikke det skal...
+
+[00:08:42] Så viser renteforventningene seg jo,
+
+[00:08:43] da kan det langere med å stige.
+
+[00:08:45] Så jeg tror ikke det skal mye til,
+
+[00:08:47] men at vi skal ligge
+
+[00:08:49] betydelig høyere enn 350
+
+[00:08:51] over tid, nå
+
+[00:08:53] mot utgangen av året,
+
+[00:08:56] det tror jeg ikke er sånn synlig.
+
+[00:08:59] Og igjen,
+
+[00:09:00] for nå er både
+
+[00:09:01] Fed og markedene, de er
+
+[00:09:03] innenforstått med at de må gå
+
+[00:09:05] hardere til verks enn
+
+[00:09:07] det i hvert fall Fed
+
+[00:09:09] har selv tenkt gjennom 2022.
+
+[00:09:11] Så mye er priset din.
+
+[00:09:13] Og det skal nok mer til
+
+[00:09:15] for at du skal få
+
+[00:09:17] tilsvarende endringer,
+
+[00:09:19] tilsvarende løft i forventningene
+
+[00:09:21] til korte renter, som det du
+
+[00:09:23] spesielt har fått de siste to månedene.
+
+[00:09:25] Helt klart.
+
+[00:09:28] Hva med
+
+[00:09:28] sentralbankenes balanse?
+
+[00:09:31] Fed skal redusere balansen sin
+
+[00:09:33] med 95 milliarder dollar i måneden.
+
+[00:09:36] Et ganske stort beløp.
+
+[00:09:37] Kan ikke det gi høyere renter?
+
+[00:09:40] Jo, det er jo noe som
+
+[00:09:42] i teorien,
+
+[00:09:43] skal gi høyere renter
+
+[00:09:45] når tilbudet av statsobligasjoner
+
+[00:09:47] da øker da, relativt til
+
+[00:09:49] hva det har vært,
+
+[00:09:51] og hva det ellers ville vært. Så skal det gjøre at
+
+[00:09:53] prisen kommer ned, og rentene
+
+[00:09:55] kommer opp. Det er jo på en måte
+
+[00:09:57] det motsatte av det som skjer når
+
+[00:09:59] de kjøper statsobligasjoner, og på en måte
+
+[00:10:01] hele grunnen til at de gjør det. Men
+
+[00:10:03] jeg har en kjøpestånd om at det er når det gjelder
+
+[00:10:05] risikofrie
+
+[00:10:07] papirer, så er jo det med tilbud,
+
+[00:10:10] endringer i tilbud,
+
+[00:10:11] har ikke like mye å si som når du
+
+[00:10:13] ser på kredittobligasjoner og andre
+
+[00:10:15] ting. Det er
+
+[00:10:17] forventninger til hva risikofrie
+
+[00:10:19] korte renter skal være, som er
+
+[00:10:21] det styrende forlange. Det er ikke sånne
+
+[00:10:23] typer endringer i tilbudssiden.
+
+[00:10:26] Men så er det jo også det du nevnte,
+
+[00:10:27] 95 milliarder dollar
+
+[00:10:29] ut av, skal Fed
+
+[00:10:31] trekke ut av finanssystemet
+
+[00:10:33] hver måned? Det er ganske
+
+[00:10:35] mye, og vi tror at det er
+
+[00:10:37] den likviditetseffekten
+
+[00:10:39] av det som vil være dominerende.
+
+[00:10:42] For når Fed sprøyter
+
+[00:10:43] likviditet inn i systemet, det ble
+
+[00:10:45] mye mer penger, satt på spissen,
+
+[00:10:47] det gjorde at investerer solgte unna det de
+
+[00:10:49] hadde, altså helt trygge ting, statsobligasjoner,
+
+[00:10:52] kunne bruke disse pengene til å gå
+
+[00:10:53] litt lenger ut på risikoskalaen, ta litt mer risiko.
+
+[00:10:55] Det bidro til, likviditetseffekten av QE,
+
+[00:10:58] bidro til høyere prising
+
+[00:10:59] av risikabelaktiva, og
+
+[00:11:01] høyere risikoappetitt, generelt.
+
+[00:11:04] Når du da trekker den likviditeten inn igjen,
+
+[00:11:06] så er det naturlig at det motsatte skjer.
+
+[00:11:07] Da tar man et steg tilbake igjen på
+
+[00:11:09] risikoskalaen, risikoappetitten faller,
+
+[00:11:12] generelt blir det mer volatilitet,
+
+[00:11:13] det har vi allerede sett skje
+
+[00:11:16] så langt i år, det er naturlig at det
+
+[00:11:17] vil skje i enda større grad når de begynner å trekke inn
+
+[00:11:19] enda mer likviditet fremover.
+
+[00:11:22] Risiko vil den falle igjen,
+
+[00:11:23] uro på børsene, uro i kreditmarkedene,
+
+[00:11:26] og da øker etterspørselen
+
+[00:11:27] etter trygge investeringer,
+
+[00:11:30] og da er det nettopp langamerikanske
+
+[00:11:31] statsobligasjoner. Så faktisk, vi kaller det
+
+[00:11:33] litt sånn QT-paradoxet,
+
+[00:11:36] at det er likviditetseffekten
+
+[00:11:38] som er dominerende, og den
+
+[00:11:39] tilsier faktisk at lange venter kan komme
+
+[00:11:41] igjen, ikke falle, som følge av at
+
+[00:11:43] venter reduserer balansen. Fordi alt det
+
+[00:11:45] andre rasker.
+
+[00:11:48] Det er der du virkelig kommer til å føle smerte.
+
+[00:11:49] Ja, nettopp.
+
+[00:11:51] Og så er det noen forhold som kan
+
+[00:11:53] gi lavere renter.
+
+[00:11:55] Du har både markedsuro, sånn som du sier, ikke sant?
+
+[00:11:58] Ja. Du kan ha frykt for en
+
+[00:11:59] restasjon, kan også
+
+[00:12:01] bidra til at markedene blir
+
+[00:12:03] mer skeptiske og sender lange renter
+
+[00:12:05] ned, og så har du
+
+[00:12:07] en faktisk restasjon, at du faktisk får
+
+[00:12:09] nøkkeltall som er så dårlig,
+
+[00:12:12] at det gir
+
+[00:12:13] omslag i markedene og lavere renter.
+
+[00:12:15] Og de tingene der er jo
+
+[00:12:16] faktorer som normalt
+
+[00:12:19] ville gjort at
+
+[00:12:20] jeg i hvert fall hadde tenkt, her etter skal
+
+[00:12:23] rentene ned. Fordi
+
+[00:12:25] børserån tiltar, frykten for
+
+[00:12:27] restasjonen tiltar, og den begynner
+
+[00:12:29] å prise inn at Fed skal kutte rentene
+
+[00:12:31] mer lenge frem i tid.
+
+[00:12:33] Fed sier jo selv at de skal kutte rentene
+
+[00:12:34] bare om et par år. Når renteforventningen
+
+[00:12:37] da faller, så
+
+[00:12:39] om økt etterspørsel,
+
+[00:12:41] altså fly to quality og alt det der,
+
+[00:12:43] gir et press ned på de lange rentene.
+
+[00:12:45] Og jeg vil anta at det presset bare vil
+
+[00:12:47] tilta i tiden som kommer.
+
+[00:12:50] Hvorfor vi nå likevel
+
+[00:12:52] ikke tror at de lange rentene skal begynne
+
+[00:12:53] å falle, og liksom virkelig
+
+[00:12:55] her etter trende nedover, det er
+
+[00:12:57] jo fordi Fed
+
+[00:12:59] må ha de lange
+
+[00:13:01] rentene oppe på et vis nå. Fed
+
+[00:13:03] altså pengepolitikken
+
+[00:13:06] i USA virker på økonomien
+
+[00:13:07] via de lange rentene. Det er ikke sånn som her i Norge
+
+[00:13:09] hvor alle har flyttende rente,
+
+[00:13:11] Norges bank hever rente, og det smerter husholdningen.
+
+[00:13:13] Med en gang. I USA har de
+
+[00:13:15] fast rentelån, stort sett.
+
+[00:13:18] Og hvis ikke, de må ha de lange
+
+[00:13:19] rentene opp for å i det hele tatt kunne
+
+[00:13:21] ha den dempende effekten på økonomien som de ønsker.
+
+[00:13:24] Så når Fed nå skal over et
+
+[00:13:26] godt, over et nøytralt nivå
+
+[00:13:27] på renta, nøytralt nivå, altså et
+
+[00:13:29] rentenivå som ikke er hverken innstrømmende eller stimulerende.
+
+[00:13:32] Og som ingen vet hvor er, bare for å ha sagt det.
+
+[00:13:34] Fed mener selv at det er på
+
+[00:13:35] 2,5%. Det er bare tull.
+
+[00:13:38] Men uansett, de må ha
+
+[00:13:39] rentene godt opp. Det betyr at de må ha de lange rentene
+
+[00:13:41] godt opp. Så de kan ikke sitte og
+
+[00:13:43] se på at sånne type markedskrefter
+
+[00:13:45] trekker langheden ned. Og det er jo
+
+[00:13:47] også noe jeg har sett på i ganske detalj,
+
+[00:13:49] hvor jeg mener at hverken husholdningene eller bedriftene
+
+[00:13:52] på tross av tilnærmet
+
+[00:13:53] rekord og gjeld, er veldig
+
+[00:13:55] sårbare for det Fed driver med i kortenden.
+
+[00:13:58] Det har ikke noe å si.
+
+[00:13:59] Fordi du har en så
+
+[00:14:01] ekstremt god rentesikring
+
+[00:14:03] på gjeldssiden. Så de er liksom ikke
+
+[00:14:05] sårbare for svingninger i kortventer,
+
+[00:14:07] slik vi er vant til her hjemme.
+
+[00:14:09] Kjempeviktig. Og da får du ikke den der etterspørselseffekten
+
+[00:14:12] via at Fed
+
+[00:14:13] strammer inn med Fed Funds Rate.
+
+[00:14:15] Du kan tro at høyere
+
+[00:14:17] kortventer gir lavere forbruk
+
+[00:14:19] og svakere investeringer og så videre.
+
+[00:14:21] Men sånn cashflow-messig, så
+
+[00:14:23] oppnår du ikke det altså. Du kan ha
+
+[00:14:25] sentimenteffekter, at man
+
+[00:14:27] mister litt tro på at det skal gå bra og så videre.
+
+[00:14:30] Men
+
+[00:14:30] du har ikke noe reelle effekter
+
+[00:14:33] via kortventer.
+
+[00:14:34] På evnen til å forbruke, evnen
+
+[00:14:37] til å investere. Og det er jo
+
+[00:14:39] så viktig, det er en behove da for at
+
+[00:14:41] de lange rentene må faktisk være
+
+[00:14:43] her oppe på et ganske høyt
+
+[00:14:45] nivå. Som det føles
+
+[00:14:47] litt som om ikke alle tenker på
+
+[00:14:49] hele tiden da.
+
+[00:14:51] At rentekurven
+
+[00:14:53] er viktig for Fed. Ikke bare fordi at det er
+
+[00:14:55] et resursvarsel, men det er faktisk
+
+[00:14:57] på grunn av hvordan pengepolitikken fungerer.
+
+[00:15:00] Absolutt. Så av
+
+[00:15:01] disse tre tingene du nevnte da,
+
+[00:15:03] børsero, nei det er
+
+[00:15:05] ikke nok. Det var du jo inne på
+
+[00:15:07] innledningsvis. Fed har et
+
+[00:15:09] inflasjonsproblem. Da kan de
+
+[00:15:11] da skal de stramme inn så mye at de skal stramme inn så mye.
+
+[00:15:13] For inflasjonen er uavhengig av
+
+[00:15:15] nesten da, hvor mye børsen faller.
+
+[00:15:18] Resursjonsfrykt i seg selv er
+
+[00:15:19] heller ikke nok for Fed.
+
+[00:15:21] Så i del de må ha de lange rentene opp.
+
+[00:15:23] Men selvfølgelig, hvis det kommer nøkkelkall
+
+[00:15:25] som er så dårlige. Hvis vi
+
+[00:15:27] ser at forbruket faller.
+
+[00:15:29] Og at resursjonen er en realitet.
+
+[00:15:32] Da vil
+
+[00:15:33] selvfølgelig det pipa
+
+[00:15:35] få en annen tone fra Fed sin side.
+
+[00:15:37] For da har du de psykiske kreftene
+
+[00:15:39] som gjør at inflasjonsrisikoen
+
+[00:15:41] endrer seg. Nettopp. Da oppnår de jo det de vil.
+
+[00:15:43] Da kan det jo være greit at de lange rentene faller.
+
+[00:15:45] Men tror vi det skjer
+
+[00:15:47] i løpet av det neste halvåret? Ikke nødvendigvis.
+
+[00:15:50] Det er jeg i tvil på da, i hvert fall.
+
+[00:15:52] Du hadde tenkt å si utenkelig når vi
+
+[00:15:53] snakket om dette.
+
+[00:15:54] Jeg mykner litt opp.
+
+[00:15:58] Liten sannsynlighet for det.
+
+[00:15:59] Og dermed er det liten sannsynlighet for at de lange rentene
+
+[00:16:01] kan falle egentlig betydelig.
+
+[00:16:03] Da tror vi at Fed vil ta grep da.
+
+[00:16:06] Og så er det en ting til
+
+[00:16:07] jeg må høre med deg om. Fordi
+
+[00:16:09] du har en økonomi i
+
+[00:16:11] Østen, Kina, hvor det går
+
+[00:16:13] skikkelig dårlig.
+
+[00:16:15] Jeg har fulgt Kina tett siden 2011
+
+[00:16:17] og jeg har aldri sett så dårlig nøkkeltal
+
+[00:16:19] som det du har nå.
+
+[00:16:21] Du har et boligmarked som har kollapset.
+
+[00:16:23] Og boligmarkedet er som oljesektoren var
+
+[00:16:25] i Norge før oljekrisen.
+
+[00:16:27] Så når du kollapser i bolig
+
+[00:16:29] så smerter det for hele økonomien.
+
+[00:16:32] Og så har du denne null-covid-strategien
+
+[00:16:34] som bare forsterker
+
+[00:16:35] all smerten. Og det virker som at myndighetene
+
+[00:16:37] ikke lenger driver
+
+[00:16:39] økonomien og samfunnet der de skal
+
+[00:16:41] ha en avtale om at vi leverer vekst og gode
+
+[00:16:43] økonomi, og så skal dere være happy med
+
+[00:16:45] vår ledelse. Nå er det frykt
+
+[00:16:47] som på en måte
+
+[00:16:49] er virkemidlet de bruker
+
+[00:16:51] for at de skal holde befolkningen i sjakk.
+
+[00:16:54] Trygghet er ikke lenger en del
+
+[00:16:55] av hverdagen i Kina. Og hvis det
+
+[00:16:57] virkelig kollapser der,
+
+[00:17:00] det må jo kunne gi
+
+[00:17:01] lavere renter. Selvfølgelig
+
+[00:17:04] hvis det kollapser i Kina
+
+[00:17:06] vil de det. Men dette er
+
+[00:17:08] jo en, vi har jo en diskusjon
+
+[00:17:10] ofte om Kina og
+
+[00:17:12] viktigheten av det. Og når du legger det fram på denne
+
+[00:17:14] måten her, at det går mot
+
+[00:17:15] regimebrudd og
+
+[00:17:18] kollaps, selvfølgelig. Nei, ikke regimebrudd.
+
+[00:17:20] Men kollaps. Men at det går skikkelig
+
+[00:17:22] dårlig med økonomien, fordi partiet mener
+
+[00:17:24] at det er ikke så viktig for dem å ha en velfungerende
+
+[00:17:26] økonomi for at de skal bevare makten.
+
+[00:17:28] Og du ser det på så mange områder.
+
+[00:17:31] Og den svake
+
+[00:17:32] utviklingen i veksten,
+
+[00:17:34] man tenker jo normalt at
+
+[00:17:36] det er kjempeviktig.
+
+[00:17:38] Dette er jo en av verdens største økonomier.
+
+[00:17:40] Ja, det som vi hele tiden
+
+[00:17:42] diskuterer er jo selvfølgelig
+
+[00:17:44] kollaps i Kina. Kjempeviktig.
+
+[00:17:46] Men det som jeg
+
+[00:17:48] pleier å si til deg da, er jo at
+
+[00:17:50] når man snakker om
+
+[00:17:52] finansmarkedene, ikke råvarmarkedene
+
+[00:17:54] der i Kina er veldig viktige, men finansmarkedene
+
+[00:17:56] skal dele grovt inn i kredit,
+
+[00:17:58] aksjer, rente og valuta.
+
+[00:18:00] Renter er jo underliggende
+
+[00:18:02] veldig viktig for både aksjer, kredit
+
+[00:18:04] og valuta. Så det rentemarkedet er veldig viktig
+
+[00:18:06] for finansmarkedet generelt.
+
+[00:18:08] Og jeg er jo ikke
+
+[00:18:10] makroøkonom, og
+
+[00:18:11] når jeg tenker på
+
+[00:18:14] makro, så er det, makro er viktig
+
+[00:18:16] i den grad det påvirker
+
+[00:18:17] pengpolitikken. Fordi det er det som er
+
+[00:18:20] viktig for rente og valuta
+
+[00:18:22] i markedet, og dermed også det bredere
+
+[00:18:24] markedet. Og
+
+[00:18:25] det som påvirker Fed
+
+[00:18:28] og SAB av makroøkonomiske
+
+[00:18:30] utviklinger, det er kjempe, kjempeviktig.
+
+[00:18:32] Mens i Kina
+
+[00:18:33] så har de en, PBOC,
+
+[00:18:36] den kinesiske sentralbanken, den har ikke
+
+[00:18:38] en markedspåvirkning, ikke noe
+
+[00:18:40] i nærheten av det som Fed og
+
+[00:18:42] SAB, ikke i nærheten.
+
+[00:18:43] Det er ingen som bryr seg, satt på
+
+[00:18:45] spissen. Så Kina
+
+[00:18:47] er viktig i den grad det påvirker
+
+[00:18:50] makroøkonomisk
+
+[00:18:51] utvikling, i den
+
+[00:18:53] grad det påvirker Fed og SAB.
+
+[00:18:55] Det har en indirekte påvirkning.
+
+[00:18:57] Det er det, litt satt på spissen
+
+[00:18:59] jeg synes er viktig, at
+
+[00:19:00] det har en indirekte effekt da.
+
+[00:19:03] Men når du snakker om kollaps, selvfølgelig,
+
+[00:19:05] det blir noe annet, men svakere vekst i Kina,
+
+[00:19:08] det er ikke der,
+
+[00:19:09] det er ikke det som er det avgjørende nå fremover.
+
+[00:19:11] Ja.
+
+[00:19:13] Ja, litt kredit.
+
+[00:19:16] Litt kredit. Vi snakket jo
+
+[00:19:18] innledningsvis om at det har
+
+[00:19:20] vært en litt ruske til markedet,
+
+[00:19:22] ikke bare litt, men veldig.
+
+[00:19:24] Og du spørte meg, hva skal til for at
+
+[00:19:27] rentene heretter kan komme ned?
+
+[00:19:29] Hva skal til for at dette er
+
+[00:19:30] toppen, heretter skal det bli litt bedre?
+
+[00:19:33] Så da er spørsmålet til deg, hva skal til for at
+
+[00:19:35] påslagene
+
+[00:19:36] skal komme ned?
+
+[00:19:39] Ja, si det.
+
+[00:19:40] Nei, ok, bare for å ta en
+
+[00:19:42] recap der.
+
+[00:19:44] Internasjonalt så har det jo vært en merkbar
+
+[00:19:46] repreising nå, i både USA og
+
+[00:19:48] Europa, og i både
+
+[00:19:50] IG og Høyhild.
+
+[00:19:52] Så for eksempel, høyrentepåslagene
+
+[00:19:53] i USA og Europa har steget noen sånn
+
+[00:19:56] 200 basispunkter, som er
+
+[00:19:57] en ganske betydelig bevegelse.
+
+[00:20:00] Og det begynner å lukte på
+
+[00:20:02] mye mer enn det vi hadde for eksempel
+
+[00:20:04] i 2018, da markedene var så redde for
+
+[00:20:06] at Fed bygde ned balansen.
+
+[00:20:08] Så igjen, markedene har
+
+[00:20:10] repreist seg ganske mye, og det er en ganske
+
+[00:20:12] sånn unison repreising.
+
+[00:20:14] Stort sett
+
+[00:20:15] alle sektorer, alle risikoklasser
+
+[00:20:17] og så videre, har
+
+[00:20:18] forverret seg. Og i primærmarkedet
+
+[00:20:21] også, altså selskaper som henter penger
+
+[00:20:23] i obligasjonsmarkedene, så spesielt
+
+[00:20:25] i Europa, så har det virkelig stoppet opp.
+
+[00:20:28] Fikk en telefon her fra
+
+[00:20:29] London i forrige uke, som lurte på
+
+[00:20:31] hva er det som skjer i Norden? Dere har jo
+
+[00:20:33] dealer, mens i euromarkedet
+
+[00:20:36] så skjer det omtrent ingenting.
+
+[00:20:38] Vi kan da komme litt mer tilbake til
+
+[00:20:39] den forskjellen etterpå, men
+
+[00:20:41] det du sier, at det har skjedd
+
+[00:20:43] veldig mye allerede.
+
+[00:20:44] Så er spørsmålet kanskje heller,
+
+[00:20:46] er det priset din da? Er alt
+
+[00:20:49] vondt og dumt priset din? Eller kan det bli
+
+[00:20:51] verre da? Det er jo alltid vanskelig å si,
+
+[00:20:53] men jeg tenker sånn, for det første
+
+[00:20:55] med de nivåene du har i dag, så har du
+
+[00:20:57] helt klart en bra, du har en bra
+
+[00:20:59] beskyttelse, du har en bra forsikring
+
+[00:21:01] mot at det kommer til å skje dårlige
+
+[00:21:03] ting med økonomien. For altså de
+
+[00:21:05] påslagene som du mottar
+
+[00:21:06] som investor, det er jo den
+
+[00:21:08] forsikringen du har for at ting
+
+[00:21:11] går så dårlig at det blir mislåd.
+
+[00:21:12] Så når påslagene kommer opp, sånn som
+
+[00:21:15] de nå gjør, så blir den forsikringen
+
+[00:21:17] mye bedre. Det er en mye mer
+
+[00:21:18] attraktiv investering. Og når du
+
+[00:21:21] ser på normalnivåene de siste
+
+[00:21:22] ti årene, sammenlignet med de nivåene
+
+[00:21:25] påslagene du har i dag, i en stor slags
+
+[00:21:26] over hele linja, så er dagens
+
+[00:21:28] prising ganske attraktiv. Men
+
+[00:21:30] betyr det at det skal ned
+
+[00:21:32] etter sommeren?
+
+[00:21:34] Der er jeg ikke nødvendigvis. For
+
+[00:21:36] vi mener at Europa
+
+[00:21:38] mest sannsynlig kommer
+
+[00:21:40] til å gå inn i en entor, som følger av de høye
+
+[00:21:42] priserne, som demper
+
+[00:21:44] realintektsveksten og forbruket.
+
+[00:21:46] Og du har massivt kostnadssjokk for bedriftene,
+
+[00:21:49] som gjør at deres evne til
+
+[00:21:51] å sanksjonere mye prosjekter og så videre,
+
+[00:21:53] den er også vesentlig
+
+[00:21:54] redusert. Så Europa
+
+[00:21:56] hemmes betydelig av den inflasjonen
+
+[00:21:59] du har for øyeblikket. Og i tillegg, sånn at
+
+[00:22:00] det er vanskelig å få strammere pengepolitikk,
+
+[00:22:02] kanskje SEB skal begynne å redusere balansen
+
+[00:22:04] sin. Fed kommer til å gjøre det.
+
+[00:22:07] Men hvis SEB i tillegg gjør dette her,
+
+[00:22:09] alt dette i sum
+
+[00:22:10] gjør at, jeg mener at
+
+[00:22:12] det fortsatt er en viss risiko,
+
+[00:22:14] for at du kan få en videre forverring
+
+[00:22:16] i de globale markedene.
+
+[00:22:18] Så ja, du har en god beskyttelse
+
+[00:22:20] på de nåværende nivåene. Men det kan stige mer.
+
+[00:22:23] Det kan stige mer. Og jeg tror
+
+[00:22:24] du må få veldig mye
+
+[00:22:26] avklaring på disse tingene her. Blir det
+
+[00:22:28] restriksjoner i Europa? Blir det restriksjoner i USA?
+
+[00:22:30] Hva kommer Fed til å gjøre
+
+[00:22:32] hvis nøkkeltallene svekker seg? Hva kommer SEB
+
+[00:22:34] til å gjøre hvis nøkkeltallene svekker seg enda mer?
+
+[00:22:37] Først må du få de svarene,
+
+[00:22:39] og så kan du eventuelt
+
+[00:22:41] begynne å se at
+
+[00:22:42] markedene bedrer seg. Men jeg tror
+
+[00:22:44] det kommer til å ta eventuelt ganske lang tid.
+
+[00:22:47] Vi er ikke der nødvendigvis i andre
+
+[00:22:48] halvår 2022.
+
+[00:22:50] Men når det gjelder balansreduksjon, så er det jo
+
+[00:22:52] jeg snakket om det som er en kjøpes for meg, at når du
+
+[00:22:54] snakker om risikofri papirer, så
+
+[00:22:56] har det kanskje ikke så mye å si.
+
+[00:22:58] Det er likviditetseffekt og sånne ting som er viktigere.
+
+[00:23:00] Men SEB har jo kjøpt
+
+[00:23:02] veldig mye gjeld
+
+[00:23:04] man kan definere som
+
+[00:23:05] langt ifra risikofri. Det er jo både
+
+[00:23:08] statsgjeld. Vi har jo allerede sett
+
+[00:23:10] at rentene spreder ned i
+
+[00:23:11] Italia og Spania stiger kraftig.
+
+[00:23:13] De har jo kjøpt kjempe masse
+
+[00:23:15] kredit. Selskapsorganisasjoner.
+
+[00:23:17] De kjøper IG. Og du har
+
+[00:23:20] hatt ganske mange
+
+[00:23:22] tilfeller der
+
+[00:23:23] det som egentlig er høyrrenteselskaper
+
+[00:23:25] har tilpasset kapitalstrukturen
+
+[00:23:28] sin slik at de kan få en IG-rating
+
+[00:23:30] og bli kjøpt
+
+[00:23:32] av SEB. Ja. Og også
+
+[00:23:34] svenske selskaper som har fått
+
+[00:23:36] biljarder i Finland for å komme inn i
+
+[00:23:38] det. Så du har
+
+[00:23:40] høyt, høyt, høyt
+
+[00:23:41] lån til selskaper som har
+
+[00:23:44] ustørt hybridkapital og så videre
+
+[00:23:45] som de teller som EK.
+
+[00:23:47] Og så er de plutselig
+
+[00:23:49] tilgjengelige for SEB. Og det har gitt
+
+[00:23:51] finansieringskostnader som du aldri
+
+[00:23:54] hadde vært i nærheten av
+
+[00:23:55] å kunne få, hadde det ikke vært for den
+
+[00:23:57] pengerpolitikken til SEB.
+
+[00:23:59] Ikke bare har du hatt lavere renter. Altså du kan funde deg på
+
+[00:24:01] eurobord i negativ territorie
+
+[00:24:03] og så får du en kjempe lav spred i tillegg.
+
+[00:24:06] Men det er ganske spesielle
+
+[00:24:08] effekter som følge av det SEB har drevet med.
+
+[00:24:10] Og de har kjøpt mye.
+
+[00:24:11] Veldig mye.
+
+[00:24:13] Så den risikoen der, altså hvis de
+
+[00:24:15] for det første, de skal jo ikke kjøpe noe mer
+
+[00:24:17] fremover. Men hvis de
+
+[00:24:19] i tillegg skal slutte å reinvestere,
+
+[00:24:21] og så kan man tenke seg at de er redde for statsobligasjonsmarkedet
+
+[00:24:24] at det spreder ut i Italien
+
+[00:24:26] versus i Tyskland.
+
+[00:24:28] Jeg tror ikke de er like redde for at
+
+[00:24:29] selskapsobligasjoner skal ha den samme
+
+[00:24:32] type stabilutvikling.
+
+[00:24:33] Hvis de har kjøpt high-yield-selskaper
+
+[00:24:36] uten å vite om det, så er de kanskje heller
+
+[00:24:37] du tror det, det er jo veldig spesielt.
+
+[00:24:40] Men du har et regelverk som er rigid,
+
+[00:24:41] og så tilpasser verden
+
+[00:24:44] rundt, så er det regelverket.
+
+[00:24:46] Og du må følge regelverket og hensyn
+
+[00:24:48] til forutsigbarhet.
+
+[00:24:51] Så det er jo
+
+[00:24:52] på en måte riktig, men ja.
+
+[00:24:54] Så i forhold til, det er jo
+
+[00:24:56] også når man snakker om statspapirer, så er det jo mye
+
+[00:24:58] snakk om når er det effekten kommer?
+
+[00:25:00] Er det når
+
+[00:25:01] sentralbanken annonserer det de skal gjøre?
+
+[00:25:04] Eller er det når de faktisk begynner
+
+[00:25:06] å kvitte seg med ting?
+
+[00:25:07] Og den er også veldig vanskelig, for du ser jo
+
+[00:25:09] for eksempel at noen av de selskapene
+
+[00:25:11] som jeg snakker om her,
+
+[00:25:12] uten å nevne navn,
+
+[00:25:15] de har jo blitt repriset.
+
+[00:25:17] Men det skyldes jo også
+
+[00:25:18] at rentene har steget,
+
+[00:25:21] og dette er
+
+[00:25:22] eiendomsselskaper, og når rentene stiger
+
+[00:25:24] så blir markedet litt mer negativ til hva som er
+
+[00:25:26] av verdier i disse selskapene.
+
+[00:25:28] Men jeg er igjen usikker på
+
+[00:25:29] hvor mye av den balanseffekten
+
+[00:25:32] at SEB har kjøpt,
+
+[00:25:33] og fortsatt beholder de obligasjonene med,
+
+[00:25:36] hvor mye av det som er reflektert
+
+[00:25:38] i dagens priser.
+
+[00:25:39] Så jeg tror
+
+[00:25:41] og jeg frykter
+
+[00:25:44] egentlig at her kan disse tingene
+
+[00:25:46] tyte ut i høyere påslag
+
+[00:25:48] fremover.
+
+[00:25:49] Men er det basert på at du har
+
+[00:25:52] en forventning
+
+[00:25:55] om at SEB
+
+[00:25:56] skal faktisk begynne
+
+[00:25:57] å slutte å reinistere?
+
+[00:25:58] Ja, SEB har jo sagt før gårsdagens
+
+[00:26:01] ad hoc-møte,
+
+[00:26:03] at de skal
+
+[00:26:05] redusere beholdningen sin,
+
+[00:26:07] altså hvilke ord var det de brukte,
+
+[00:26:09] etter en viss tid,
+
+[00:26:11] at de har begynt å få opp
+
+[00:26:13] styringsrenten.
+
+[00:26:15] Og de skal begynne å heve nå på neste møte.
+
+[00:26:18] Og gitt sentralbank
+
+[00:26:19] ordbruk og så videre, så tolket jeg det som at
+
+[00:26:22] mot slutten av året, så kan de begynne
+
+[00:26:23] å redusere balansen. Og du hadde også en artikkel
+
+[00:26:25] etter det siste SEB-møtet,
+
+[00:26:27] der Financial Times hadde intervjuet
+
+[00:26:30] flere av medlemmene innad
+
+[00:26:31] i styret SEB.
+
+[00:26:33] Og der kom det veldig tydelig til uttrykk for at
+
+[00:26:36] det å redusere balansen,
+
+[00:26:38] det er en helt naturlig prosess
+
+[00:26:40] når du skal gå vekk fra
+
+[00:26:41] den nullrente eller negative
+
+[00:26:44] rentepolitikken, som SEB
+
+[00:26:46] nå har ført i så lang tid. Så når du skal ha
+
+[00:26:47] styringsrenten opp på et nøytralt nivå,
+
+[00:26:50] som SEB også sikter mot,
+
+[00:26:51] de sier jo egentlig selv at de kanskje skal opp med
+
+[00:26:53] noen annen prosent, noe der omkring,
+
+[00:26:56] så gir det ikke
+
+[00:26:58] mening, mener jeg i hvert fall,
+
+[00:26:59] at du skal ha denne gigantiske
+
+[00:27:01] balansen med deg.
+
+[00:27:03] Men man får jo inntrykk av at det Fed,
+
+[00:27:05] nei, unnskyld, SEB sa forrige uke,
+
+[00:27:07] var litt sånn naivt.
+
+[00:27:09] De har dessverre
+
+[00:27:11] en helt ekstremt mye vanskeligere jobb
+
+[00:27:13] enn Fed og andre sentralbanker har,
+
+[00:27:15] når de har kjøpt opp masse statspapirer
+
+[00:27:17] og ulike papirer for ulike selskaper,
+
+[00:27:19] og så har man et økonomisk bilde
+
+[00:27:21] som er så forskjellig,
+
+[00:27:23] da er ikke den jobben så enkel som de
+
+[00:27:25] kanskje liker å tenke at den skal være.
+
+[00:27:28] Og det er jo også grunnen til at...
+
+[00:27:29] Men igjen, de har et inflasjonsproblem, og for å løse
+
+[00:27:31] det inflasjonsproblemet, så må du gjøre noe med
+
+[00:27:33] finansieringskostnadene i økonomien,
+
+[00:27:36] slik at du demper etterspørselen.
+
+[00:27:38] Og ved å fortsette
+
+[00:27:39] å funde selskaper på hinsidene,
+
+[00:27:41] der det er så lave spreder, det er ikke den
+
+[00:27:43] kanalen der du får ned inflasjonsrisikoen på,
+
+[00:27:46] mener jeg.
+
+[00:27:47] Og som du sier, så vil jeg vel ikke nødvendigvis
+
+[00:27:49] bry seg om at forslagene der
+
+[00:27:52] stiger. Kanskje ikke på samme måte.
+
+[00:27:54] Gitt det inflasjonsproblemet
+
+[00:27:55] du står om for. Hadde inflasjonen vært lav, så hadde det vært
+
+[00:27:57] noe helt annet. Men det er ikke der vi er.
+
+[00:27:59] Og det er ikke der vi kommer til å være i antallet heller.
+
+[00:28:02] Og så bare for å ha nevnt det,
+
+[00:28:04] så er det andre ting som kan gjøre
+
+[00:28:06] at forslagene kommer ned.
+
+[00:28:08] Jo, selvfølgelig, vi kan bomme på
+
+[00:28:09] at økonomikken
+
+[00:28:12] går dårligere. Det kan hende at
+
+[00:28:13] europeiske økonomier faktisk klarer å gjøre det
+
+[00:28:16] superbra, selv om inflasjonen er 8%.
+
+[00:28:18] Tvile på det.
+
+[00:28:20] Det sa du på en veldig sånn
+
+[00:28:21] måte at man skjønner at det er ikke
+
+[00:28:24] kommet til å se. Men du er jo
+
+[00:28:26] veldig negativ til
+
+[00:28:27] økonomiske utsikringer. Realistisk.
+
+[00:28:30] Og i tillegg,
+
+[00:28:32] altså USA, kommer inflasjonen ned,
+
+[00:28:34] så igjen, det betyr jo bare
+
+[00:28:36] at da går vi mer mot en sånn
+
+[00:28:37] Goldilocks-scenario, som kan
+
+[00:28:40] gjøre at Fed tilater seg
+
+[00:28:42] og ikke sette å brente av med 75 punkter
+
+[00:28:43] og 50 punkter og 50 punkter, sånn som de nå
+
+[00:28:46] egentlig planlegger litt for.
+
+[00:28:48] Og begge de to faktorene
+
+[00:28:50] kan bidra til en helt annen
+
+[00:28:52] type prising i markedet.
+
+[00:28:53] Men det er jo litt sånn, jeg vet ikke hva man skal kalle det,
+
+[00:28:55] men sånn, som vi har snakket om lenge,
+
+[00:28:57] at hvis
+
+[00:28:58] sentralmakten ikke skal
+
+[00:29:01] heve så mye mer, at det ikke blir så veldig
+
+[00:29:03] mye mer innstremming fra sentralmaktene,
+
+[00:29:06] da er det fordi
+
+[00:29:07] at inflasjonen kommer ned. Og da er
+
+[00:29:09] det fordi at det sykkelske er så dårlig.
+
+[00:29:12] Det er jo at inflasjonen kommer ned,
+
+[00:29:13] så det er på en måte uansett ikke
+
+[00:29:15] bra scenario. Eller at vi bober helt på analysen.
+
+[00:29:18] På inflasjonen.
+
+[00:29:19] Ja.
+
+[00:29:22] Det også. Det kan skje det også.
+
+[00:29:24] Ok, og når det gjelder
+
+[00:29:26] Norge, så er det sånn
+
+[00:29:27] at vi ser veldig
+
+[00:29:30] store forskjeller. Internasjonalt
+
+[00:29:32] så er det sånn synkront verre.
+
+[00:29:34] I Norge og Norden så er det ikke det.
+
+[00:29:36] Du har et investment grade-marked
+
+[00:29:38] som har egentlig beveget
+
+[00:29:40] seg i takt med det internasjonale markedet.
+
+[00:29:42] Men så har du et høyrentemarked
+
+[00:29:43] som har vært ganske stabilt.
+
+[00:29:45] Og det gikk i helt mening.
+
+[00:29:47] Men det er jo noe som man snakker om mye på kredit,
+
+[00:29:49] at når det gjelder norske finansmarkeder
+
+[00:29:51] generelt, kroner, børsen,
+
+[00:29:53] renter, følger det som skjer
+
+[00:29:56] internasjonalt. Men det er norske
+
+[00:29:57] forhold har ingenting å si.
+
+[00:29:59] Det er markedene ute som styrer.
+
+[00:30:01] Men i kredit så er det jo litt annerledes
+
+[00:30:03] det med at ting ikke nødvendigvis
+
+[00:30:05] blir like dårlig som ute.
+
+[00:30:08] Likviditeten er jo annerledes.
+
+[00:30:09] Bare likviditet, men markedstekniske forhold
+
+[00:30:11] kanskje.
+
+[00:30:12] Som gjør at det er sånn.
+
+[00:30:13] Og det gjør at likviditeten blir annerledes her.
+
+[00:30:16] Så vi ser jo at likviditeten
+
+[00:30:17] blir dårligere i det norske høyrentemarkedet
+
+[00:30:21] i usikre tider.
+
+[00:30:22] Men alle er på en måte samme vei.
+
+[00:30:24] Så da får man bare null omsetninger
+
+[00:30:26] og ingen kursbevegelser.
+
+[00:30:28] Selv om det egentlig er en
+
+[00:30:30] mer usikker verden som gjør at kursene
+
+[00:30:32] burde ha fått. Og selv om dårlig likviditet
+
+[00:30:33] egentlig skulle gjort at utslagene bare ble en av større.
+
+[00:30:36] Egentlig. Og det ser du jo absolutt
+
+[00:30:38] i det internasjonale markedet. Dårlig likviditet
+
+[00:30:40] gjør at kursene beveger seg mye mer.
+
+[00:30:42] Men du har ingen
+
+[00:30:43] shorting i det norske markedet.
+
+[00:30:47] Du har ikke noen
+
+[00:30:48] CDS'er som du handler.
+
+[00:30:49] Det er nok vanskeligere i usikre tider
+
+[00:30:52] hvor du ikke helt hvordan landskapet
+
+[00:30:54] ser ut. Å få de der
+
+[00:30:55] spontane, umiddelbare og store
+
+[00:30:57] bevegelsene som du ser internasjonalt. Det tar litt
+
+[00:31:00] lenger tid. Men på IG-siden
+
+[00:31:01] så har du helt klart sett...
+
+[00:31:03] Men unnskyld, kan jeg bare avbryte? Det man tenker jo
+
+[00:31:06] shipping for eksempel
+
+[00:31:08] og oljerelaterte
+
+[00:31:10] ting er jo sektorer som har
+
+[00:31:11] ...
+
+[00:31:12] gjort det bra.
+
+[00:31:12] Da tar vi høyrente først.
+
+[00:31:15] De to sektorene
+
+[00:31:18] har gjort det kjempebra. Og det er
+
+[00:31:19] backet av fundamentale forhold.
+
+[00:31:21] Olje, energi og shipping. Superbra
+
+[00:31:24] inntjening for selskapene.
+
+[00:31:26] Og det speiles i finansieringskostnader
+
+[00:31:28] deres. Men når jeg tenker
+
+[00:31:29] hvordan skal man være
+
+[00:31:31] investert her?
+
+[00:31:33] Så har du nå en så
+
+[00:31:35] tight prising. Spredene er
+
+[00:31:38] så lave at det er likevel vanskelig
+
+[00:31:39] å forsvare at du skal kjøpe enda
+
+[00:31:41] mer. Være enda mer eksponert
+
+[00:31:43] mot de sektorene. Og så har du
+
+[00:31:46] det som er
+
+[00:31:47] svakere. Sektorer som er svakere
+
+[00:31:49] gitt de makrotrendene vi står an for.
+
+[00:31:52] Typ DEPT Collection. Altså hvis du har
+
+[00:31:54] fall i forbruket i Europa
+
+[00:31:56] så er det en del selskaper innenfor DEPT Collection
+
+[00:31:58] som kommer til å slite med
+
+[00:31:59] sin drift. Egnomsselskaper
+
+[00:32:02] det samme som følger renteoppgangen.
+
+[00:32:03] Du får liksom ikke de samme verdi
+
+[00:32:05] økningen lenger når rentene stiger
+
+[00:32:08] på den måten som du nå har.
+
+[00:32:09] Eller det motsatte. Så det kan være
+
+[00:32:11] et spørsmål om tid før du
+
+[00:32:13] får de verdifallene i eiendom.
+
+[00:32:15] Men det jeg ser er at de sektorene
+
+[00:32:17] som på en måte gjør det bra
+
+[00:32:19] ut fra de makrotendensene vi har
+
+[00:32:21] de er veldig høytpriset.
+
+[00:32:23] Og så har du de sektorene som er litt
+
+[00:32:25] dårligere stilt. Der har man
+
+[00:32:27] kanskje ikke pristet seg nok
+
+[00:32:29] ned til at det er et attraktivt kjøp
+
+[00:32:31] enda. Så du må ha en større reprising der.
+
+[00:32:33] Og for meg så er liksom
+
+[00:32:34] dette er et generelt uttrykk for at markedet har
+
+[00:32:37] gått relativt lite
+
+[00:32:38] sammenlignet med det vi ser internasjonalt.
+
+[00:32:41] Så har det alltid vært sånne likviditetspremier i Norden
+
+[00:32:43] og Norge versus for eksempel euromarkedet.
+
+[00:32:45] Og den likviditetspremien er
+
+[00:32:47] i praksis borte. Så hvis du har
+
+[00:32:49] investorer som har mandater til
+
+[00:32:51] å kjøpe både i Norden
+
+[00:32:53] og i euromarkedet, og vi har jo en del
+
+[00:32:55] av det, så er deres
+
+[00:32:57] insentiv til å nå gå i Norden
+
+[00:32:59] det er ganske dårlig. Mye mer
+
+[00:33:01] verdi i euromarkedet ut fra bare
+
+[00:33:03] prisingen.
+
+[00:33:05] Og investment grade?
+
+[00:33:07] Ja, som sagt, der har det vært
+
+[00:33:08] store bevegelser.
+
+[00:33:11] Covered bonds,
+
+[00:33:12] Tryggestad og Trygge, som
+
+[00:33:14] ved inngang til året
+
+[00:33:16] femåringer handlet på rundt 20 punkter over
+
+[00:33:18] Nibor. Nå er du på nesten 50.
+
+[00:33:21] Så
+
+[00:33:21] veldig stor bevegelse, og du ser det akkurat
+
+[00:33:24] samme på seniorbank, du ser det på
+
+[00:33:26] kraftselskaper, industriselskaper, regnomsselskaper.
+
+[00:33:29] Bevegelsene minner mye
+
+[00:33:30] mer om det vi har i euromarkedet.
+
+[00:33:32] Og du kan til og med si, sånn som for
+
+[00:33:34] Covered, så har bevegelsene vært større
+
+[00:33:36] enn det du ser i euromarkedet.
+
+[00:33:38] Så der vil jeg absolutt si at
+
+[00:33:40] der har du, igjen, du har
+
+[00:33:41] en god beskyttelse, gitt den
+
+[00:33:44] makrousikkerheten,
+
+[00:33:46] den pengepolitiske usikkerheten
+
+[00:33:48] og likviditetsusikkerheten
+
+[00:33:50] du står om for, for andre halvår.
+
+[00:33:52] Så det er ikke sånn at
+
+[00:33:53] her skal man holde seg borte fra risiko
+
+[00:33:56] på samme måte som i høyrentemarkedet.
+
+[00:33:58] Men det, igjen, det betyr ikke at
+
+[00:34:00] påslagene nødvendigvis skal falle
+
+[00:34:02] heretter. Jeg tror nok
+
+[00:34:04] heller at den usikkerheten
+
+[00:34:05] inntil vi får flere svar, og det kan
+
+[00:34:08] ta tid, så vil den
+
+[00:34:09] usikkerheten bidra til at
+
+[00:34:11] påslagene holder seg høye.
+
+[00:34:13] Kanskje de kan stige litt til, men jeg tror ikke nødvendigvis
+
+[00:34:15] at de skal falle her fra utåret.
+
+[00:34:18] Men det høres jo, hvis vi
+
+[00:34:20] er klare for en oppsummering,
+
+[00:34:22] vi kan prøve,
+
+[00:34:22] det høres jo veldig likt ut som det jeg sier.
+
+[00:34:27] Påslagene har steget mye,
+
+[00:34:28] men de kan stige mer,
+
+[00:34:30] og sannsynligheten for at de skal
+
+[00:34:32] falle så mye med den første, den er liten.
+
+[00:34:35] Det er jo det samme med renter,
+
+[00:34:36] det har kommet veldig mye opp.
+
+[00:34:38] Har vi nådde toppen? Ja, kanskje,
+
+[00:34:39] i hvert fall for den nærmeste tiden.
+
+[00:34:42] Men her er risikobildet også mer symmetrisk
+
+[00:34:44] fremover da.
+
+[00:34:45] Vi skal lite mer balanse i prisingen,
+
+[00:34:48] og så vet vi at markedet er veldig vanskelig nå.
+
+[00:34:51] Men prisingmessig
+
+[00:34:52] så virker det litt mer balansert.
+
+[00:34:55] Var det en konklusjon?
+
+[00:34:57] Ja.
+
+[00:34:58] Vi har fått noen spørsmål.
+
+[00:35:00] Ja, dette har jo du sett mye på
+
+[00:35:02] i det siste, Ole, skal vi lese temaet.
+
+[00:35:04] Hvor stor, eller hvor høy realrente
+
+[00:35:06] tåler USA i forhold til
+
+[00:35:08] statsstilet sin? Skatteinntektene
+
+[00:35:10] dekker kun nødvendige typer nå.
+
+[00:35:12] Morsomt, i hvert fall. Jeg er veldig glad.
+
+[00:35:15] Ok, så
+
+[00:35:17] dropp tankene om realerenta.
+
+[00:35:19] Tenk nominell rente,
+
+[00:35:20] og tenk hvor mye
+
+[00:35:23] rentekostnadene er utifra
+
+[00:35:25] den inntektsbasen man har.
+
+[00:35:27] Skatteinntekter og andre utenpå offentlige inntekter.
+
+[00:35:29] Det vi vet er at offentlig sektor
+
+[00:35:31] i USA kjemper ut på lånt.
+
+[00:35:33] Du har en statsstilt på cirka
+
+[00:35:34] 110,
+
+[00:35:37] litt mer, litt avhengig av hvordan man
+
+[00:35:38] prøver å sette BNP.
+
+[00:35:41] Men så har du offentlig inntekt
+
+[00:35:42] på 17% av BNP. Så hvis vi ser på
+
+[00:35:44] gjeld i forhold til inntekter,
+
+[00:35:46] så er det på 6 ganger.
+
+[00:35:48] Så staten i USA
+
+[00:35:49] er like høyt belånt
+
+[00:35:51] som en ganske risikabel høyrentebedrift.
+
+[00:35:55] I tillegg, for når jeg har
+
+[00:35:56] sett på selskapene, så har de vært
+
+[00:35:58] superaktive med å låne masse penger de siste par årene.
+
+[00:36:01] Utnyttet lave renter
+
+[00:36:02] til å ta opp masse gjeld.
+
+[00:36:03] Men de har gått langt ut på kurven.
+
+[00:36:05] De har lånt 20 års lån. De har virkelig vært aktive
+
+[00:36:08] med å sikre rentene sine.
+
+[00:36:11] Men staten,
+
+[00:36:12] 60% av gjeldene
+
+[00:36:14] forfaller innenfor utgangene
+
+[00:36:15] 2024. Og du har masse gjeld,
+
+[00:36:18] kjempehøy gjeldsgrad,
+
+[00:36:20] og ekstremt kort gjeld.
+
+[00:36:21] Ja, men jeg vil jo si da...
+
+[00:36:23] Det betyr at når du løfter
+
+[00:36:25] renta fra en halv prosent,
+
+[00:36:28] som var gjennomsnittet
+
+[00:36:30] når de tok opp alle gjeldene i 2020-2020,
+
+[00:36:32] til 3,5-4,
+
+[00:36:34] så tyter det veldig
+
+[00:36:36] rast ut i nett- og rentekostnader.
+
+[00:36:38] Og du får ikke lov til å avbryte enda.
+
+[00:36:40] Ja, tydelig.
+
+[00:36:40] Så hvis du bare legger inn her
+
+[00:36:43] en forventning om at budsjettunderskuddene
+
+[00:36:45] de holder seg store på rundt 10%,
+
+[00:36:48] inflasjonen holder seg høy,
+
+[00:36:50] sånn at nominell BNP-vekst
+
+[00:36:51] er på rundt 10%, og i tillegg
+
+[00:36:53] skatteraten er uundret,
+
+[00:36:56] og rentekurven er svagt heldende,
+
+[00:36:58] så langrenter er bittelitt høyere
+
+[00:37:00] enn kvarterenter.
+
+[00:37:02] Og i tillegg legger til at
+
+[00:37:04] Fed hever renter til 3%,
+
+[00:37:05] så nå er det nøkternt.
+
+[00:37:07] Så vil du få et løft
+
+[00:37:08] i nett- og rentekostnader
+
+[00:37:10] i prosent av inntektene
+
+[00:37:12] fra rundt den 8%,
+
+[00:37:14] nesten opp mot den 14%.
+
+[00:37:16] Og da er du på det høyeste nivået
+
+[00:37:18] siden tidlig 1990-tallet.
+
+[00:37:20] Og hvis du skal få en styringsrente
+
+[00:37:22] eller langrenter opp mot den 5%,
+
+[00:37:24] så vil nett- og renter være
+
+[00:37:26] på et rekordhøyt nivå
+
+[00:37:28] relativt til inntektene.
+
+[00:37:31] Du kommer til å få
+
+[00:37:32] en dramatisk reduksjon
+
+[00:37:34] i handlingsfriheten
+
+[00:37:36] til offentlig sektor til å drive med
+
+[00:37:38] vedlikehold av veier,
+
+[00:37:39] til å drive med rydding av søppel,
+
+[00:37:41] til å betale politi i gatene.
+
+[00:37:43] Vanlige tjenester som må til
+
+[00:37:45] for å smøre samfunnet,
+
+[00:37:47] for å gjøre at samfunnet fungerer.
+
+[00:37:49] Den evnen med Feds pengerpolitikk
+
+[00:37:52] kommer til å bli
+
+[00:37:53] vesentlig redusert.
+
+[00:37:54] Nå skal du få litt til å avbryte.
+
+[00:37:56] Ja, nå fikk jeg ikke
+
+[00:37:57] kommet inn der jeg ville,
+
+[00:37:58] fordi det du sa med at
+
+[00:38:00] de har masse gjeld som forfaller,
+
+[00:38:02] ja, 60% av gjeldet forfaller
+
+[00:38:03] om noen få år.
+
+[00:38:05] Men veldig mye av den gjeldet
+
+[00:38:07] var jo utgangspunktet.
+
+[00:38:08] Til lang gjeld,
+
+[00:38:09] som i utgangspunktet
+
+[00:38:10] hadde en veldig høy rente.
+
+[00:38:13] Så, ok, du har tatt det med.
+
+[00:38:15] Ja, ja, ja, selvsagt.
+
+[00:38:16] Fordi det er jo litt sånn...
+
+[00:38:17] Helt i ens portefølje,
+
+[00:38:18] så har du sett,
+
+[00:38:19] du kan se på
+
+[00:38:19] den gjelden som forfaller i 2024.
+
+[00:38:22] Når ble den tatt opp,
+
+[00:38:22] og til hvilken rente,
+
+[00:38:23] så kan du bare beregne ut
+
+[00:38:24] hva du må betale
+
+[00:38:26] når de skal refinansiere den.
+
+[00:38:27] Men du,
+
+[00:38:28] det er en viktig forskjell på
+
+[00:38:29] ja, vi har hatt null renter,
+
+[00:38:31] nå skal vi opp mot 3-4%.
+
+[00:38:33] Oi, det er en kjempestor endring,
+
+[00:38:35] kjempestor smerte.
+
+[00:38:36] Vil det tåle det?
+
+[00:38:38] Og det du sier,
+
+[00:38:38] og det beregningen du har gjort,
+
+[00:38:39] er at det vil kanskje smerte,
+
+[00:38:42] men det med at
+
+[00:38:42] amerikanske staten
+
+[00:38:43] ikke skal klare å betjene gjeld
+
+[00:38:45] og si at dette her ikke går...
+
+[00:38:47] Det er et helt annet spørsmål.
+
+[00:38:48] Det er et helt annet spørsmål,
+
+[00:38:48] men det er jo det mange tenker på.
+
+[00:38:51] Og det mener jeg er helt feil.
+
+[00:38:52] Nettopp.
+
+[00:38:53] Dette handler om
+
+[00:38:54] statens evne
+
+[00:38:56] til å drive velferdstjenester.
+
+[00:38:59] Ikke evnen til å betjene gjeld.
+
+[00:39:01] Nei, for de kommer til å prioritere gjeld.
+
+[00:39:03] Hvertfall på føderaltnivå,
+
+[00:39:04] så kan noen
+
+[00:39:05] og delstater og så videre,
+
+[00:39:06] der kan det bli litt problemer.
+
+[00:39:08] Men det der er to veldig viktige forskjeller,
+
+[00:39:10] som jeg tror,
+
+[00:39:11] eller kanskje da,
+
+[00:39:12] at det er han som spilte spørsmålet.
+
+[00:39:14] Jeg tenkte kanskje på dette
+
+[00:39:15] med gjeldsbetjeningsjevne.
+
+[00:39:16] Det kan hende.
+
+[00:39:17] Da er det viktig å presisere.
+
+[00:39:18] Den er god.
+
+[00:39:19] Neste spørsmål.
+
+[00:39:21] Hva tror dere...
+
+[00:39:23] Nei.
+
+[00:39:24] Hva tror dere om utsiktene
+
+[00:39:26] for de nordiske høyrentemarkedet fremover?
+
+[00:39:28] Ja, det har vi jo egentlig tatt om.
+
+[00:39:29] Jeg tror at,
+
+[00:39:30] bare for å oppsummere,
+
+[00:39:31] markedet har blitt,
+
+[00:39:33] vært veldig stabilt.
+
+[00:39:34] Kunstig stabilt.
+
+[00:39:35] Du har ikke sett en betydelig reprising
+
+[00:39:38] relativt til hverken investment grade i Norge,
+
+[00:39:40] eller Sverige,
+
+[00:39:41] eller europeiske og amerikanske høyrentemarkeder.
+
+[00:39:44] Det har vært mye mer stabil prising.
+
+[00:39:46] Og jeg tenker at med det,
+
+[00:39:48] hvis du tror på den storyen,
+
+[00:39:50] om at inflasjonsrisikoen kommer til å være med oss,
+
+[00:39:52] også de neste par kvartalene,
+
+[00:39:54] hvis du tror på at det kommer til å gå dårlig
+
+[00:39:56] med realøkonomien i Europa,
+
+[00:39:58] så gir det mening at risikopåslagene
+
+[00:40:00] rundt oss kommer til å være kunstig høye.
+
+[00:40:03] Og vi har ikke fått den effekten
+
+[00:40:04] i høyrentemarkedet i Norden.
+
+[00:40:05] Så der tror jeg på en reprising.
+
+[00:40:07] Du tror det skal bli dårligere?
+
+[00:40:08] Ja.
+
+[00:40:09] Forslagene skal ut?
+
+[00:40:10] Yes.
+
+[00:40:10] Neste spørsmål.
+
+[00:40:11] De norske forslagene i OMF-markedet
+
+[00:40:15] fortsetter å gå ut.
+
+[00:40:17] Tror dere Norges Bank vil intervenere
+
+[00:40:19] for å redde alle uforsvarlige,
+
+[00:40:23] høytbelånte husstander?
+
+[00:40:26] Det er på en måte to forskjellige ting.
+
+[00:40:30] Det jeg tror da,
+
+[00:40:31] for det første,
+
+[00:40:32] jeg tror Norges Bank vil være
+
+[00:40:33] en vesentlig mer forsiktig,
+
+[00:40:36] i hvor raskt de får opp rentene,
+
+[00:40:39] enn det man ser internasjonalt.
+
+[00:40:40] Og igjen, når vi snakker om USA,
+
+[00:40:43] Fed har med seg til fem punkter.
+
+[00:40:44] Det er fordi kortrenter ikke har så stor innvirkning
+
+[00:40:46] på måten økonomien fungerer på.
+
+[00:40:48] Man har en påvirkning på aksjemarkedet,
+
+[00:40:50] men ikke nødvendigvis på realøkonomien.
+
+[00:40:52] Men i Norge,
+
+[00:40:54] rentesikring i bedriftene,
+
+[00:40:55] er vesentlig kortere enn det man ser internasjonalt.
+
+[00:40:58] Og rentesikring i husholdningene
+
+[00:41:01] er ikke eksisterende.
+
+[00:41:02] Så 25 punkter opp,
+
+[00:41:04] det biter mye raskere,
+
+[00:41:06] det er mye raskere,
+
+[00:41:06] det er mye mer i norsk økonomi,
+
+[00:41:08] enn det man har internasjonalt.
+
+[00:41:10] Så jeg leste
+
+[00:41:11] en overskrift i går på Fed,
+
+[00:41:15] at dette banet veier
+
+[00:41:16] for 50 punkter fra Norges Bank.
+
+[00:41:19] Det er tullet, mener jeg.
+
+[00:41:20] Ja, der er det vel makroøkonomene
+
+[00:41:22] i ryggen når du sier det.
+
+[00:41:23] Ja, der er vi enige.
+
+[00:41:25] Men greia her er uansett at
+
+[00:41:28] du har fortsatt en høy inflasjon i Norge,
+
+[00:41:31] det går bra med norsk økonomi,
+
+[00:41:33] det er knappet i arbeidsmarkedet
+
+[00:41:35] i stort sett over hele landet,
+
+[00:41:36] og i alle sektorer,
+
+[00:41:38] og du har usikre utsikter,
+
+[00:41:41] men for øyeblikket så går det såpass bra
+
+[00:41:43] at Norges Bank vil, bør og ønsker
+
+[00:41:46] å få rentene litt høyere opp,
+
+[00:41:49] men jeg tror ikke de er i nærheten
+
+[00:41:50] av planlegg for den samme type
+
+[00:41:52] panikkdrevne innstrammingen
+
+[00:41:55] som vi spesielt ser
+
+[00:41:56] i noen av de store økonomiene.
+
+[00:41:58] Har du noe mer å legge til?
+
+[00:42:00] Nei, jeg har ikke det,
+
+[00:42:00] men jeg skjønner ikke helt spørsmålet heller,
+
+[00:42:02] for det norske husholdninger,
+
+[00:42:04] de får en boliglånsrente,
+
+[00:42:05] og det er den som,
+
+[00:42:06] det er med smerter,
+
+[00:42:07] og det er der Norges Bank må ta hensyn til.
+
+[00:42:09] Den smitter jo over fra finansieringskostnadene
+
+[00:42:12] til bankene, ikke sant?
+
+[00:42:13] Ja.
+
+[00:42:14] Så når det blir dyrere å finansiere seg
+
+[00:42:17] i coverbondmarkedet,
+
+[00:42:18] og da har du da både Nibor
+
+[00:42:20] og disse påslagene,
+
+[00:42:21] som har steget mye,
+
+[00:42:23] så gjør det at bankene må sette opp
+
+[00:42:25] sine renter til husholdningene.
+
+[00:42:28] Men det Norges Bank vil gjøre,
+
+[00:42:30] er jo som du er inne på,
+
+[00:42:30] de vil heller gå forsiktig frem
+
+[00:42:32] for å unngå at...
+
+[00:42:33] De tar hensyn til disse tingene
+
+[00:42:35] når de prøver å kalibrere
+
+[00:42:36] hva er den rette renten
+
+[00:42:38] på ulike tidspunkt.
+
+[00:42:41] Er det flere spørsmål?
+
+[00:42:42] Det kommer ett til.
+
+[00:42:45] Yes, den er til deg.
+
+[00:42:46] Ja, med dollarnakremover, ja.
+
+[00:42:48] Nei, faktisk må jeg være helt ærlig
+
+[00:42:52] og si at jeg nå er litt usikker på...
+
+[00:42:55] Jeg lager jo ikke kronanslag,
+
+[00:42:56] det er det mange neste år som gjør.
+
+[00:42:58] Men det er veldig godt å høre
+
+[00:42:59] at du er usikker på å lytte,
+
+[00:43:00] for hvis du hadde sagt det motsatte, så...
+
+[00:43:03] Akkurat nå er jeg usikker.
+
+[00:43:05] Nei, men på euro-dollar da,
+
+[00:43:07] så er det jo faktisk litt enklere
+
+[00:43:10] å gjøre en fundamental analyse
+
+[00:43:11] og tenke at dette skal skje med økonomien her og der,
+
+[00:43:14] dette skal skje med pengerpolitikken,
+
+[00:43:16] dette skal skje med risikoen,
+
+[00:43:17] hva tilsier det for euro-dollar?
+
+[00:43:19] Vi har jo hatt et syn om at euro-dollar skal falle
+
+[00:43:21] på grunn av sånne...
+
+[00:43:22] Man kan gjøre en fundamental analyse da,
+
+[00:43:24] på dollaren.
+
+[00:43:25] Men det er vanskelig på norske grunner.
+
+[00:43:27] Og på dollaren nå,
+
+[00:43:28] så er det vel sånn at den har styrket seg
+
+[00:43:31] veldig, veldig mye.
+
+[00:43:33] Og jeg har jo lenge ment
+
+[00:43:35] og mener fortsatt at det er begrenset
+
+[00:43:36] hvor mye mer den kan...
+
+[00:43:37] styrke seg mot andre store forlutter
+
+[00:43:40] her under spesielt euro.
+
+[00:43:42] Euro-dollar som er styrende for dollarene egentlig.
+
+[00:43:45] Men når det gjelder dollare nok,
+
+[00:43:47] så er det jo norske kroner
+
+[00:43:49] som...
+
+[00:43:50] og hvordan den oppfører seg
+
+[00:43:52] som har egentlig veldig stor betydning.
+
+[00:43:55] Og der er det selvfølgelig mye mer usikkert fremover.
+
+[00:43:58] Så fra dollarperspektiv,
+
+[00:43:59] nei, jeg tror kanskje ikke det skal gå så mye mer.
+
+[00:44:01] Fra nok perspektiv,
+
+[00:44:03] jo, vi har det vi har snakket om,
+
+[00:44:05] det er all grunn til å tro at risikooptimeringen
+
+[00:44:07] i markene skal få bli dårlig,
+
+[00:44:09] kanskje svekke seg ytterligere i tid som kommer.
+
+[00:44:11] Det tilsier,
+
+[00:44:12] det er ikke noe lue på en gang,
+
+[00:44:13] det tilsier svakere kroner.
+
+[00:44:15] Men en skille,
+
+[00:44:17] en ting som er litt viktig å få med,
+
+[00:44:19] er at vi har en oljepris nå
+
+[00:44:21] på godt over 100 dollar for at vi har høye gasspriser.
+
+[00:44:24] Mye høyere enn vi har hatt på lang, lang, lang tid.
+
+[00:44:27] Det gir en støtte til norske kroner både,
+
+[00:44:30] altså det gir en støtte til norsk økonomi,
+
+[00:44:31] men det er jo også den tekniske at
+
+[00:44:32] olje- og gasselskapene tjener veldig mye penger,
+
+[00:44:36] og de må ha en god...
+
+[00:44:37] Og kontantstrøm, de betaler oljeskatt,
+
+[00:44:40] og det er jevn strøm.
+
+[00:44:40] De veksler om til kroner.
+
+[00:44:42] De kjøper kroner.
+
+[00:44:42] Det er store aktører som kjøper kroner på daglig basis.
+
+[00:44:45] Så du har et mye større,
+
+[00:44:46] egentlig strukturelle kjøp da?
+
+[00:44:48] Nettopp.
+
+[00:44:48] Hvis du kan si det sånn.
+
+[00:44:49] Så det gir kroner en litt sånn støtte i bunn,
+
+[00:44:52] som vi ikke har hatt de siste årene.
+
+[00:44:53] Så den med at kroner var den valutaen i verden
+
+[00:44:56] som svekket seg mest under koronakrisen,
+
+[00:44:59] der er vi kanskje forhåpentligvis ikke nå lenger.
+
+[00:45:01] Vi ser også tegn til at den asymmetrien vi har til grunnbevegelser,
+
+[00:45:04] at kroner svekker seg masse når børsen faller,
+
+[00:45:06] men kommer ikke så mye opp igjen når den stiger.
+
+[00:45:08] Der har vi fått bedre symmetri.
+
+[00:45:10] Så svaret er,
+
+[00:45:11] jeg tror nok at kroner skal svakere mot dollar,
+
+[00:45:15] men kanskje ikke så veldig mye.
+
+[00:45:16] Og det er jo også en viktig innput til obligasjonsmarkedet,
+
+[00:45:19] for vi så jo også hvor ødeleggende kroner kunne være
+
+[00:45:22] for likviditeten i obligasjonsmarkedet.
+
+[00:45:24] Når kroner svekker seg,
+
+[00:45:25] så blir det vanskelig for fond
+
+[00:45:27] som må hedse posisjonene sine.
+
+[00:45:30] Så det at vi ikke får det,
+
+[00:45:31] den dramatiske bevegelsen i kroner,
+
+[00:45:33] selv om det nå er urolig i markedene,
+
+[00:45:35] det er i seg selv noe som gjør at det for eksempel
+
+[00:45:37] ikke går like ille i markedet vårt nå,
+
+[00:45:40] obligasjonsmarkedet,
+
+[00:45:41] som det det gjorde under koronakrisen.
+
+[00:45:43] Og så er det spiraleffekter av det.
+
+[00:45:45] Trenger ikke gå inn på det nå.
+
+[00:45:48] Jeg tror det var alle spørsmålene vi hadde,
+
+[00:45:51] så da er vi ved vei senere.
+
+[00:45:56] Takk til dere som har sett på,
+
+[00:45:58] og selvsagt er det bare å ta kontakt med oss
+
+[00:46:00] hvis dere har noen spørsmål eller kommentarer
+
+[00:46:01] i ettertid.
+
+[00:46:24] Denne podkasten og dettes innhold

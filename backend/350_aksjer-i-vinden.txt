@@ -1,0 +1,1034 @@
+Episode 350: Aksjer i vinden
+Publisert: Sat, 06 Ma
+Vert: Marius Brun Haugen
+Gjest: Christian Rom
+Varighet: 35 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/aksjer-i-vinden
+
+--- Transkripsjon ---
+
+[00:00:00] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer i den globale økonomien og finansmarkedene.
+
+[00:00:08] Jeg er Marius Bruun Haugen og er nylig tilbake fra Vinn-konferansen Vinn Europe i København.
+
+[00:00:16] Dit reiste jeg sammen med Christian Rom som forvalter fondet DNB Miljøinvest for å lære og oppdatere oss på hva som skjer i den europeiske vindkraftindustrien.
+
+[00:00:27] Vi møtte ledelsen i en rekke havvinnselskaper, hørte politikere og diskuterte med bransjefolk og andre profesjonelle investorer.
+
+[00:00:37] I denne episoden skal vi dele de viktigste konklusjonene vi sitter igjen med fra konferansen og hvordan vi vurderer vekst- og investeringsmulighetene i havvinnsektoren.
+
+[00:00:58] Velkommen til studio, Christian.
+
+[00:01:00] Tusen takk, Marius.
+
+[00:01:01] Hvor effektivt og lønnsomt vindkraft vi blir i løpet av de neste ti årene og hvor stor del av energimiksen det vil utgjøre for oss europæere,
+
+[00:01:13] det har vel ingen av oss faseten på, men at dette er en industri som sannsynligvis står foran mange, mange år med solid vekst
+
+[00:01:22] og at det er ønsket veldig velkommen av myndighetene i Europa, det er det vel liten tvil om å havinn.
+
+[00:01:31] Det kommer for fullt, virker det som for meg, selv om det er dyrere å bygge til havs enn på land.
+
+[00:01:39] Er det et sånn inntrykk som har forsterket seg hos deg etter Københavnturen vår?
+
+[00:01:44] Ja, det vil jeg si. Selv om det var tydelig før vi ventet nesen mot København, så er det veldig tydelig når man kommer ned dit hvor stor denne bransjen har blitt
+
+[00:01:56] og hvor mye vekst og investeringer som...
+
+[00:02:01] som legges ned her, men som også må legges ned fremover for å gjøre dette til en veldig stor og viktig del av den energiforvandlingen
+
+[00:02:15] vi skal ha frem til en netto-null utslippsverden i 2050.
+
+[00:02:20] Og fondet ditt, Kristian, DNB Miljøinvest, det investerer jo hovedsakelig i selskaper som bidrar til å redusere energirelaterte klimautslipp.
+
+[00:02:29] Det betyr jo at du kan investere, som jeg...
+
+[00:02:31] Sikkert tror mange av lytterne våre vet da, i både sol, batterier, hydrogen og mye annet spennende knyttet til elektrifisering og avfallshåndtering, bare for å nevne noe.
+
+[00:02:44] Må høre med deg da, hvordan ligger fondet an i forhold til indeks så langt i år?
+
+[00:02:49] Nei, vi ligger vel rundt 5% foran.
+
+[00:02:52] Bra!
+
+[00:02:53] Ja da, men det har jo vært noen rugglete år nå for sektoren siden han toppet ut i begynnelsen av 2021,
+
+[00:02:58] men fondet har klart seg relativt...
+
+[00:03:02] Bra, så det er jo bra for fondshavarene som har investert.
+
+[00:03:06] Hvor stort har fondet blitt nå i forhold til penger som er under forvaltning?
+
+[00:03:11] Ja, så DNB Miljøinvest er på 7 milliarder, og så har vi et søsterfond i Europa, så totalt i strategien er det rundt en 15 milliarder norske.
+
+[00:03:21] Og har vi den eksponeringen da til fondet i dag? Hvor stort er det?
+
+[00:03:25] Ja, så det er jo, som jeg sa, en viktig del av denne energitransformasjonen.
+
+[00:03:32] Og så er det også en viktig del av fondet, så overkant av 10% av fondet er i dag investert direkte mot havet egentlig.
+
+[00:03:40] Da er det selskaper som Vestas, Cadler og Ørsted som er de største, og så har vi også en liten posisjon i Eneti som er en konkurrent av Cadler
+
+[00:03:50] på installasjon av disse offshore vindturbiner, men også fundamenter.
+
+[00:03:55] Ja da, og særlig Cadeler og Vestas, de skal vi komme tilbake til utover i episode.
+
+[00:04:02] Når vi fløy inn til København og gikk inn for landing på Kastrup, da var det første som møtte øynene våre når vi så ut av vinduet, det var vindmøller.
+
+[00:04:15] Og hva var det vi så når vi så ut fra vinduet på hotellet vårt som lå midt i København?
+
+[00:04:20] Jo, det var vindmøller. Så det slo jo meg at vindkraft har en litt annen plass og mindset rett og slett hos danskene enn oss.
+
+[00:04:32] Og så er det selvfølgelig noen gode grunner til det. Vi har vannkraft, vi har gass og olje, og så videre og så videre.
+
+[00:04:39] Men jeg klarer ikke helt å unngå å tenke at dette her, det må jo gi danskene en fordel i årene fremover hvis vindkraft virkelig tar av.
+
+[00:04:49] Altså de har jo til og med planer på tegnebrettet, det er riktig nok om å bygge en kunstig øy for vindmøller.
+
+[00:04:55] Det var det du som fortalte meg om mens vi var nede i København, så du får fortelle lytterne kort da.
+
+[00:05:00] Hva er det du fortalte meg?
+
+[00:05:02] Ja, så her er det snakk om en ny øy som skal komme på det danske kartet, som skal bygges i Nordsjøen,
+
+[00:05:10] og for da fasilitere at man kan bygge offshore vindparker enda lenger fra land, og at man kan koble disse vindparkene siden de blir store.
+
+[00:05:21] Den her er forventet å være på over 3 gigawatt til å begynne med, og det er noe sånn som 3 millioner husstander,
+
+[00:05:29] og kanskje halvparten av Danmarks energibehov, og de har tenkt å bygge en øy til, så da er det oppi hele energibehovet i Danmark,
+
+[00:05:36] så det blir jo da viktig å koble dette sammen med andre land, og også muligheten til å konvertere dette på disse øyene til for eksempel Power to X,
+
+[00:05:46] som betyr å for eksempel kunne gjøre det om til hydrogen, grønt hydrogen, og koble disse energisiloene enda tettere sammen,
+
+[00:05:56] som vil være noe vi trenger.
+
+[00:05:59] Vi skal nå disse målene på nullutslipp i 2050, og det er ikke bare Danmark som tenker på disse øyene,
+
+[00:06:05] det er også tenkt på en utenfor Belgia, som ligger enda litt lenger frem i løypen,
+
+[00:06:11] så disse tre øyene til sammen er forventet noe sånn som 10 gigawatt av offshore vind,
+
+[00:06:18] som skal komme opp i andre halvdelen av dette tiåret, og som da vil utgjøre noe sånn som 10% av det som er forventet
+
+[00:06:25] til å bygge av offshore vind i Europa, så store prosjekter,
+
+[00:06:28] men man har nok også kommet dit nå at man trenger å tenke litt større og være litt mer kreativ for virkelig å få akselerert dette,
+
+[00:06:35] siden industrien allerede begynner å bli større, så det krever jo også, men fortsatt trenger å vokse enda mer,
+
+[00:06:43] så da trenger man å være litt mer kreativ og tenke større.
+
+[00:06:47] Ja, og vi skal jo ikke gå dypere inn i akkurat det der i dag, men jeg tok det med da, for jeg synes det er et bra eksempel på,
+
+[00:06:58] ambisjonen der ute som er store, altså du kan jo vindsektoren godt fra før, Kristian,
+
+[00:07:04] men for meg så ble jo disse dagene i København et sånn innmari hektisk, men også veldig bra intensivkurs da,
+
+[00:07:11] og en annen ting som jeg sitter igjen med fra konferansen, det er jo på en måte, det er akkurat det her med størrelsen,
+
+[00:07:18] og da tenker jeg ikke bare på de 15.000 menneskene som deltok, de 500 selskapene som var representert på Vinn Europe,
+
+[00:07:28] men mer den der erkjennelsen av formen på industrien, og at dette er så mye mer enn bare vindmøllene,
+
+[00:07:37] eller vindturbinen, altså alt fra det der å ha de riktige skrutrekkerne og boltene til droner, til inspeksjonsverktøy,
+
+[00:07:46] til sikkerhet, til kraner på skipene som skal installere det, det var helt nye oppstartselskaper, det var rene vindselskaper,
+
+[00:07:55] det var forsyning, det var alle gasselskaper.
+
+[00:07:58] som har gått inn i vinden, så jeg vet ikke om på en måte bransjeglidning er det riktige ordet her,
+
+[00:08:05] men det må jo være positivt hvis man klarer å forene alle disse kreftene da, tankene og ideene på tvers av ulike typer fornybar energi og fossil energi.
+
+[00:08:15] Ja, det er åpenbart positivt, Marius, og spesielt når man putter på den norske hatten, så besitter vi jo som en offshore-olde nasjon,
+
+[00:08:25] ekstremt mye sterke kompetanse innenfor.
+
+[00:08:28] Men innen de utfordringene man får offshore, og hvordan man kan løse disse utfordringene på bærekraftige og kostnadseffektive måter,
+
+[00:08:40] så det er jo veldig positivt å se, sånn som når man går rundt på denne messen, at flere norske selskaper som kommer ut fra olje- og gassindustrien er på plass,
+
+[00:08:52] og skal være del av den veksten her, og få denne industrien til å skalere raskere.
+
+[00:08:58] Som er nettopp det vi trenger, så det er jo åpenbart positivt.
+
+[00:09:04] Vi var jo med på et opplegg der vi møtte ledelsen i masse forskjellige spennende selskaper,
+
+[00:09:12] mens et av disse møtene pågikk, så valgte jeg å heller gå ut og høre på politikerne,
+
+[00:09:21] som var og talte til de som ønsket å høre på Danmarks klimaminister,
+
+[00:09:28] Lars Ågaard, han sa vi trenger fart, sa han, og så trakk han frem et nytt vindinitiativ i Norsjøen,
+
+[00:09:36] som ble offentliggjort omtrent samtidig som konferansen der Norge, ettersom jeg forstod, er en av de flere nye partnerne,
+
+[00:09:44] og så sa han vi trenger offshore vind for å bli energi uavhengig,
+
+[00:09:50] og Ukraina og Danmark presenterte til og med intensjoner om samarbeidsplaner innen vind,
+
+[00:09:56] men dette er jo bare eksempler.
+
+[00:09:58] Ja, så kort fortalt så er jo de langsiktige vekstforventningene som vi snakket om innledningsvis for hele industrien,
+
+[00:10:05] drevet av elektrifisering, behov for å kutte CO2-utslipp, et stadig økende energibehov globalt,
+
+[00:10:14] og da ikke minst energisikkerhet som vi har fått føle på i Europa det siste året.
+
+[00:10:20] Offshore vind skal ta en god del av denne kaken, altså hvor viktig blir offshore vind,
+
+[00:10:26] og hvor mye vekst er det rimelig å anta?
+
+[00:10:28] Ja, det skal bli veldig stort, og mye vekst som kommer.
+
+[00:10:33] Dette er jo en industri som på en måte har dobbelt seg nå hvert tredje-fjerde år over de siste 15 årene,
+
+[00:10:43] og skal fortsette å gjøre dette i de ti årene som kommer nå,
+
+[00:10:46] for å bli antageligvis den største vinddelen av denne energimiksen.
+
+[00:10:53] Så sol er i dag det klart største på rundt 200,
+
+[00:10:58] og så er vind, både onshore og offshore, lillebroren med rundt 100 gigawatt,
+
+[00:11:08] og så er det jo slik at både sol og vind må jo da legge på seg kanskje tre til fem ganger
+
+[00:11:13] for å komme opp i den størrelsen de trenger å være for at vi som verden skal nå disse netto-nullutslippsmålene innen 2050.
+
+[00:11:23] Og med de plassbeskrankningene man har på onshore vind,
+
+[00:11:28] og ikke ønsker å ha dem i nærheten av befolkningen i dag,
+
+[00:11:32] så kommer offshore, som vann er kanskje 70 prosent av verdens overflate,
+
+[00:11:38] så dette er en åpenbart veldig god løsning,
+
+[00:11:42] og spesielt med tanke på at vi trenger alle mann til pumpene,
+
+[00:11:46] og at vi trenger å få dette skiftet til å skje raskere,
+
+[00:11:50] så er det viktig at vi får skalert dette.
+
+[00:11:54] Men som jeg også nevnte, vind til havs koster mer,
+
+[00:11:58] enn å produsere det på land,
+
+[00:12:01] i hvert fall i flertall av tilfellene.
+
+[00:12:04] Industrien sliter med prispress.
+
+[00:12:06] Det er også frakt, flaskehalser og teknologi som må innarbeides
+
+[00:12:12] for å kunne skape ønsket lønnsomhet.
+
+[00:12:16] Et dagens tall, sendte de ut en mail om på konferansen de tre dagene den varte,
+
+[00:12:22] og den første dagen var dagens tall 38.
+
+[00:12:26] 38 refererte til at,
+
+[00:12:28] at kostnaden for å bygge en megawatt med vindturbinkapasitet
+
+[00:12:33] har økt med 38 prosent over to år.
+
+[00:12:37] Så ta en vindkraftprodusent som Vestas,
+
+[00:12:40] hvordan skal de lykkes med å øke marginer og tjene penger
+
+[00:12:45] med et sånt ganske utfordrende bakteppe,
+
+[00:12:48] til tross for at vekstbildet er bra?
+
+[00:12:51] Ja, og det er kanskje det som kommer tydelig fram på en sånn konferanse,
+
+[00:12:56] og det er jo at det fortsatt er tidlig stadie.
+
+[00:13:01] Noen snakker om at industrien er i sine tenår,
+
+[00:13:05] og i så måte så er det jo da store investeringer denne industrien da vil trenge,
+
+[00:13:10] som betyr at skal disse selskapene være villige til å gjøre disse investeringene,
+
+[00:13:13] så må det også være noe avkastning på kapitalen der,
+
+[00:13:16] ellers så blir det tøft å gå til aksjonærene for å få tak i denne kapitalen for å vokse.
+
+[00:13:22] Og da er det jo tydelig at disse selskapene går tilbake til politikere,
+
+[00:13:26] som ønsker langsiktig og stabile rammevilkår,
+
+[00:13:30] som virkelig er noe man kan ta med til banken og få finansiert.
+
+[00:13:35] Men det er helt klart at offshore-vinn har også blitt dyrere,
+
+[00:13:38] men tar jo UK for eksempel,
+
+[00:13:40] hvor de introduserte Contract for Difference, som det heter på godt norsk,
+
+[00:13:45] så en avtale mellom de som produserer offshore-vinn med myndighetene,
+
+[00:13:51] som er da en fast avtale over 20 år,
+
+[00:13:54] og det er jo over en femårsperiode her,
+
+[00:13:56] at kostnaden på offshore-vinnkraft fra 150 ned til 50,
+
+[00:14:03] så har det vært en massiv, eller 45, massiv reduksjon i kostnadene.
+
+[00:14:07] Så selv om du tar en 38 prosent økning på det,
+
+[00:14:10] så er det jo fortsatt på lave nivåer,
+
+[00:14:14] og ser på strømpriser i Europa, hvor mye de har økt,
+
+[00:14:16] og hva de har forventet å ligge på et par-tre år frem fra nå,
+
+[00:14:21] så er det mer enn dobbelt seg.
+
+[00:14:22] Så man må jo tenke på en relativ forhold til kostnaden,
+
+[00:14:25] kostnaden for industrien,
+
+[00:14:27] og sånn sett så er jo da fortsatt etter de økningene som vi har sett nå,
+
+[00:14:31] så er jo sol og vind, offshore og onshore,
+
+[00:14:33] klart billigste nye formene for energi man kan investere i og bygge.
+
+[00:14:39] Så det gir fortsatt veldig, veldig mye mening
+
+[00:14:42] å få akselerert den offshore-vinn-industrien,
+
+[00:14:44] selv om kostnadene har økt på et absolutt nivå over de siste par årene.
+
+[00:14:49] Så når du løfter blikk og ser litt stort på det,
+
+[00:14:53] så er du fortsatt trygg?
+
+[00:14:55] På at disse selskapene skal klare å få bedret lønnsomhet?
+
+[00:15:00] Ja, eller det kan du aldri være trygg på,
+
+[00:15:02] og her må du alltid gjøre...
+
+[00:15:03] Så trygg som du går an med det man vet per i dag, da?
+
+[00:15:06] Ja, for de som har konkurransefortrinn i tillegg,
+
+[00:15:10] sånn at de faktisk bringer noe unikt til torgs,
+
+[00:15:12] så vil det med den veksten som er forventet i denne bransjen,
+
+[00:15:16] åpenbart være gode muligheter for investorene som investerer i de selskapene.
+
+[00:15:22] Men så er ikke all vekst nødvendigvis,
+
+[00:15:25] godt for aksjonærer,
+
+[00:15:27] så det er mange av disse selskapene som kanskje har lavere konkurransebarriere,
+
+[00:15:32] og hvor det blir mer et sykelig spil,
+
+[00:15:35] hvor du må passe på å være investert i riktig tid i sykehjernen.
+
+[00:15:40] Ja, prising av aksjene er jo alltid viktig
+
+[00:15:44] når man skal vurdere å investere mer eller mindre,
+
+[00:15:48] eller gå inn i et nytt selskap.
+
+[00:15:51] Jeg har også tittet på analysen til...
+
+[00:15:56] D&B Markets på Vestas,
+
+[00:15:59] og da ser man at det er en P på 38,
+
+[00:16:04] og jeg ser i 2024 en direkte avkastning på 0,7 prosent,
+
+[00:16:08] og det er jo ikke noe som virker sånn umiddelbart fristende det,
+
+[00:16:14] så hvordan skal man vurdere prisingen på en aksje som for eksempel Vestas da,
+
+[00:16:19] best mulig?
+
+[00:16:20] Hva er det du ser på? Hvilke parametre bruker du?
+
+[00:16:23] Ja, en med deg der, Marius,
+
+[00:16:24] at jeg ser konsumenter,
+
+[00:16:26] og at jeg ser at det er en av de største spørsmålene,
+
+[00:16:27] og at det er en av de største spørsmålene,
+
+[00:16:27] men så er det sånn med disse sykleske selskapene
+
+[00:16:30] og capital goods selskaper,
+
+[00:16:32] som vi har en del av i Norden og i Sverige,
+
+[00:16:35] så er det typisk da på bunnen av sykehjernen,
+
+[00:16:39] så ser disse selskapene dyre ut,
+
+[00:16:41] fordi at da du har en del faste kostnader,
+
+[00:16:44] du har da lavere salg enn du har på topp,
+
+[00:16:49] som gjør at lønnsomheten til selskapet da i de årene er lav,
+
+[00:16:54] som gir deg...
+
+[00:16:56] en høy multipl,
+
+[00:16:57] så da er du egentlig nødt til å jobbe med litt andre multipler,
+
+[00:17:01] og jobbe litt opp,
+
+[00:17:02] så hvis du ser for eksempel på EV-salg da,
+
+[00:17:05] på Vestas,
+
+[00:17:07] som gir deg litt av...
+
+[00:17:09] mer av potensialet,
+
+[00:17:11] i forhold til når man kommer tilbake fra en nedgangssykel,
+
+[00:17:17] som man har hatt nå,
+
+[00:17:19] og sammenligner det med relativt i forhold til
+
+[00:17:22] andre capital goods selskaper i Europa,
+
+[00:17:24] så ser den jo...
+
+[00:17:26] attraktivt priset ut, vil jeg si,
+
+[00:17:27] både på relativt og på absolutt.
+
+[00:17:31] Så det er vel hovedforklaringen på verdsettelsen da,
+
+[00:17:36] og hvorfor Vestas er høyt oppe i miljøneste portoføljen.
+
+[00:17:41] Får bare ta med da til analysetime til DNV Markets,
+
+[00:17:44] de har en kjøpsombefaling og kursmål på 240 danske kroner
+
+[00:17:49] på Vestas.
+
+[00:17:50] Så estimatene deres er at topplinjeveksten ventes,
+
+[00:17:55] altså å være ganske sånn flat for i år,
+
+[00:17:58] altså 23, men så øke videre da i 24 og 25.
+
+[00:18:04] Og det er først i 2024 at selskapet,
+
+[00:18:08] nå refererer jeg igjen da til denne analysen til DNV Markets,
+
+[00:18:11] skal generere overskudd og komme i utbytteposisjon.
+
+[00:18:16] Vil utbytte, vil det være en sånn ekstra positiv
+
+[00:18:19] for et selskap som Vestas?
+
+[00:18:21] Jeg tror ikke utbytte er det viktigste,
+
+[00:18:24] det er den største driveren i den aksjen,
+
+[00:18:27] ettersom vi har snakket om noe tidligere for den industrien,
+
+[00:18:29] og egentlig litt for fondet som helhet,
+
+[00:18:31] når du er i en sektor som det her,
+
+[00:18:33] som fortsatt må skalere opp,
+
+[00:18:37] og skal bli betydelig større enn den er i dag,
+
+[00:18:39] så kommer det også naturlig at det er mye investeringer
+
+[00:18:43] som skal gjøres, som også gjør at du må holde
+
+[00:18:46] litt på utbytte, siden du må investere
+
+[00:18:49] en større andel av kapitalet.
+
+[00:18:50] Men det er jo nettopp fordi at den kaken
+
+[00:18:52] eller inntjeningsmulighetene til disse selskapene,
+
+[00:18:54] blir enda større ned i veien,
+
+[00:18:57] som et resultat av de investeringene de gjør i dag
+
+[00:18:59] til kapasitet, sånn at dividendepotensialet
+
+[00:19:02] til disse selskapene blir enda større,
+
+[00:19:04] ser man litt lenger frem.
+
+[00:19:06] Så jeg tror ikke det er dividenden som driver
+
+[00:19:10] Vestas korte bilde, men åpenbart over tid
+
+[00:19:13] så er jo selskapets evne til å generere avkastning
+
+[00:19:17] og drivmelønnsom vekst, og mulighet til å betale utbytte
+
+[00:19:20] som driver en aksje.
+
+[00:19:23] Ja.
+
+[00:19:24] Da kan vi ikke bare snakke om vindkraftprodusentene,
+
+[00:19:27] men vi kan ikke slippe Vestas helt enda.
+
+[00:19:31] De er i en ganske bra posisjon rent konkurransemessig.
+
+[00:19:35] Er det ikke det?
+
+[00:19:35] Hvem er de største konkurrentene til Vestas?
+
+[00:19:38] Ja, det har jo vært spennende å følge,
+
+[00:19:42] som jeg har gjort i nærmere 15 år,
+
+[00:19:46] som jeg har følt den industrien,
+
+[00:19:47] så har det vært en veldig forskjellig utvikling
+
+[00:19:49] i vindsektoren versus solsektoren.
+
+[00:19:52] Solsektoren har jo blitt totalt,
+
+[00:19:54] tatt av kinesisk subsidiert kapital
+
+[00:19:59] og en vilje til å investere,
+
+[00:20:03] som har gjort at europeiske selskaper
+
+[00:20:05] og amerikanske selskaper ikke har kunnet konkurrere
+
+[00:20:08] og mistet helt fotvestet,
+
+[00:20:09] mens hvis man ser på vindsektoren,
+
+[00:20:12] så er det jo nå blitt så konsolidert
+
+[00:20:13] at du hovedsakelig,
+
+[00:20:15] hvertfall hvis du tenker offshore,
+
+[00:20:16] har tre selskaper,
+
+[00:20:17] hvor du har Simenskamesa,
+
+[00:20:19] du har GE og du har Vestas,
+
+[00:20:22] og hvor de har på en måte,
+
+[00:20:23] nesten hele det vestlige markedet,
+
+[00:20:27] og hvor kineserne mangler på viljen til å investere
+
+[00:20:32] i en serviceorganisasjon,
+
+[00:20:33] og siden dette er bevegelige deler,
+
+[00:20:35] vanskeligheten med å ta dette til en bank
+
+[00:20:37] og få dette finansiert,
+
+[00:20:38] så har det blitt en veldig annen utvikling
+
+[00:20:42] i vindsektoren enn i solsektoren,
+
+[00:20:46] så en slik konsolidert bransje
+
+[00:20:49] og med en stor andel av inntegningen
+
+[00:20:51] som kommer fra tjenester,
+
+[00:20:53] eller altså services,
+
+[00:20:55] som er en recurring modell,
+
+[00:20:57] hvor du får inntegning på lange kontrakter,
+
+[00:21:00] 10-20 års kontrakter,
+
+[00:21:02] så ser jo det attraktivt ut.
+
+[00:21:05] Vi må jo også snakke om leverandørnæringen her,
+
+[00:21:14] den er jo også stor og vokser seg stadig større,
+
+[00:21:20] jeg tror mange kjenner til Kadeler,
+
+[00:21:23] som er notert på Oslo Børs
+
+[00:21:25] og driver frakt og installasjon av vindturbiner, blant annet.
+
+[00:21:28] Aksjene har gått bra den siste tiden,
+
+[00:21:31] de meldte jo her for ikke så mange uker siden
+
+[00:21:33] om en hyggelig kontrakt med oppløftende marginer,
+
+[00:21:36] der jobben først starter opp om et par år,
+
+[00:21:40] og sånn sett virker det jo på mange måter
+
+[00:21:42] å være i en god posisjon nå,
+
+[00:21:44] med færre skip tilgjengelig i hele markedet
+
+[00:21:46] enn etter spørselen.
+
+[00:21:48] Altså hvordan vurderer du, Kadeler?
+
+[00:21:50] Kristian, du har vel vært med her siden Børs-introduksjonen?
+
+[00:21:53] Ja, så vi har vært med siden de kom på Børs,
+
+[00:21:57] og jeg har hjulpet dem å komme på Børs,
+
+[00:21:59] og i ettertid også vært med å bidra med kapital,
+
+[00:22:03] når de har hatt behov for å investere mer i flere båter.
+
+[00:22:09] Og det har vært en fin reise,
+
+[00:22:12] et godt ledet selskap,
+
+[00:22:14] som virkelig har evnet å bygge opp en organisasjon
+
+[00:22:19] i tillegg til å ligge i forkant her og investere i båter.
+
+[00:22:22] Og det her tror jeg det mange husket,
+
+[00:22:24] og det som gjorde det interessant,
+
+[00:22:26] på IPO'en er jo at dette er jo store båter og stål,
+
+[00:22:31] en bransje man kjenner godt i Norge,
+
+[00:22:35] og hvis man ser spesifikt på offshore vind- og installasjonsbåter,
+
+[00:22:38] så har det vært et marked hvor det har vært såpass tidlige dager,
+
+[00:22:42] at det har vært en veldig volatil bransje,
+
+[00:22:45] med lite prosjekter som har blitt bygd,
+
+[00:22:47] eller stor variasjon i prosjektene som har blitt bygd,
+
+[00:22:49] og så har møllene blitt større og større,
+
+[00:22:51] og vindbladene lenger og lenger,
+
+[00:22:53] så disse båtene har blitt ubrukelige,
+
+[00:22:55] før man på en måte har fått igjen investeringen på hva kapitalen er,
+
+[00:23:00] så det har vært underinvestert,
+
+[00:23:03] og disse båtene koster 300-400 millioner dollar,
+
+[00:23:07] i forhold til en VLCC som man kjenner på 120-130,
+
+[00:23:13] altså svære investeringer,
+
+[00:23:15] og Adler har vært villige til å ta risk her,
+
+[00:23:19] og nå som dette markedet blir større,
+
+[00:23:21] og man ser en bedre utilization på disse båtene,
+
+[00:23:24] og disse båtene kan leve lenger enn bare en 50-årsperiode,
+
+[00:23:28] så er det interessant.
+
+[00:23:30] Ja, men kan både Kadeler og de andre som leverer tilsvarende tjenester,
+
+[00:23:36] komme i en veldig bra posisjon over de neste årene,
+
+[00:23:40] eller skal man være redd for at markedet kan bli bygget ihjel med for mange skip?
+
+[00:23:48] Bankene er jo villige til å finansiere etter hva jeg forstår,
+
+[00:23:53] men vervskapasitet for eksempel,
+
+[00:23:56] det er til en viss grad en utfordring om dagen,
+
+[00:23:59] det er også levering av nødvendige utstyr som kraner og sånne ting,
+
+[00:24:03] så det er jo argumenter for og imot der da,
+
+[00:24:06] men som investor så skal man jo alltid være litt,
+
+[00:24:09] hva skal vi si, sunt bekymret for at det blir bestilt for mange skip.
+
+[00:24:14] Absolutt, det er jo climbing the wall of worry som man sier for aksjemarkedet,
+
+[00:24:20] og det gjelder jo for enkelte aksjer også,
+
+[00:24:22] men det er jo helt klart her at dette er nok på langt sikt en syklisk industri,
+
+[00:24:29] siden så mye er drevet av investeringer i stål,
+
+[00:24:34] så jeg tror man må følge med på dagrater,
+
+[00:24:37] følge med på tilbakebetalingstiden på disse båtene,
+
+[00:24:41] og hvor mye som blir bygget,
+
+[00:24:43] så er man nødt til å ha beina litt plantet på bordet,
+
+[00:24:47] men det er åpenbart en god operatør vil kunne ta ut en bedre avkastning,
+
+[00:24:52] i vår tid på en type båter versus den andre.
+
+[00:24:54] Men det blir jo et dilemma da, for eksempel Kadrer,
+
+[00:24:57] det vil jo selvfølgelig gjelde hele industrien da,
+
+[00:24:59] men skal de bestille flere skip,
+
+[00:25:02] så man holder konkurrenter ut av markedet,
+
+[00:25:04] eller skal man la noen andre gjøre det, ikke sant?
+
+[00:25:07] Det er noen litt vanskelige avveininger da.
+
+[00:25:09] Det er vanskelige avveininger,
+
+[00:25:11] og dette må man da følge ettersom industrien utvikler seg,
+
+[00:25:15] men det er helt klart at de båtene man trenger kommer til å bli bygd her,
+
+[00:25:19] av en eller annen,
+
+[00:25:20] så det må man følge med på denne dynamikken.
+
+[00:25:22] Og et tema som du touchet inn på,
+
+[00:25:24] det er jo størrelsen på vindmøllene,
+
+[00:25:27] og ikke minst bladene som skal fraktes ut da,
+
+[00:25:30] og det inntrykket jeg sitter igjen med er vel at,
+
+[00:25:35] det er ingen som helt har fasiten på hvor stort dette kommer til å bli,
+
+[00:25:42] men at vindmøllene og turbiner,
+
+[00:25:44] at det kan bli enda større enn det det er i dag,
+
+[00:25:47] selv om det i dag er gigantisk,
+
+[00:25:49] det må vi regne med.
+
+[00:25:52] Ja, jeg er enig med deg i det, Marius,
+
+[00:25:54] og alle tidligere som har spått at nå er det slutten,
+
+[00:25:58] og nå kan vi ikke bli større,
+
+[00:26:00] har blitt motbevist.
+
+[00:26:02] Menneskets evne til å innovere,
+
+[00:26:04] og ingeniøreres evne til å finne løsninger på utfordringer er enorm,
+
+[00:26:12] så de kan nok fortsatt bli større,
+
+[00:26:16] men så blir det som industrien sier,
+
+[00:26:18] du skal vokse,
+
+[00:26:20] det vi snakket om for vind og sol,
+
+[00:26:22] tre til fem ganger større enn hva de er i dag,
+
+[00:26:24] men på et eller annet tidspunkt så kommer du til et nivå da,
+
+[00:26:27] hvor man kanskje på en måte har kommet opp i den marsfarten man trenger,
+
+[00:26:33] og så kan man roe det ned.
+
+[00:26:37] Du, Cadelere, de fikk en kontrakt i en,
+
+[00:26:40] ja, det som er vel en ny nisje for dem i hvert fall,
+
+[00:26:43] som de feiret under konferansen dette her,
+
+[00:26:48] transport og installasjon av fundamenter,
+
+[00:26:52] og sånn jeg har forstått det,
+
+[00:26:53] så vil jo dette kunne gi økt inntjeningspotensiale for dem,
+
+[00:26:57] men det gir også en økt risiko som kommer med på kjøpet,
+
+[00:27:01] hvordan vurderer du Cadeleres inntreden i denne delen av vindbransjen?
+
+[00:27:08] Nei, jeg tror det er veldig naturlig,
+
+[00:27:09] ettersom selskapet blir mer og mer modent,
+
+[00:27:12] får mer og mer erfaring og har gjort flere og flere av disse installasjonene,
+
+[00:27:17] at de tar på seg mer risiko,
+
+[00:27:22] ettersom de er mer kjent med hvordan man skal prise risiko,
+
+[00:27:27] hva man er god på, hva man ikke er så god på,
+
+[00:27:30] og så er jo dette også et samarbeid med kundene deres,
+
+[00:27:33] hvor kundene ønsker å få løst flere av sine utfordringer,
+
+[00:27:37] og hvor Cadelere ønsker å være en relevant spiller,
+
+[00:27:40] og ønsker å hjelpe kunden med å løse flere problemer for dem,
+
+[00:27:43] og jeg vil jo si at det er ofte noe man ser da på selskapet,
+
+[00:27:46] på selskapet som vi investerer i,
+
+[00:27:48] og som er på en måte blant de flinkere selskapene,
+
+[00:27:52] og det er nettopp deres evne da til å ønske,
+
+[00:27:55] og om å løse flere problemer for kunden,
+
+[00:27:58] få en større andel av lommeboken dem,
+
+[00:28:02] og bli en mer relevant spiller.
+
+[00:28:04] Typisk gode spillere, eller andre gode selskaper,
+
+[00:28:07] så vil jeg si at det er en veldig naturlig utvikling da,
+
+[00:28:10] og noe man forventer å se nesten,
+
+[00:28:12] hvis du tror det skal kunne være et ledende selskap,
+
+[00:28:14] innenfor den biten av bransjen over tid.
+
+[00:28:17] Paul Harpel, han er godt kjent for lytterne av utbyttepodkasten,
+
+[00:28:22] aksjestrategen her på huset,
+
+[00:28:24] han pleier å bruke den analogien med at,
+
+[00:28:27] det var de færreste av gullgraverne under gullerasje som tjente penger,
+
+[00:28:31] de som gjorde det skarpt, det var de som solgte spadene.
+
+[00:28:34] Så neste spørsmålet mitt til deg er egentlig,
+
+[00:28:37] om man skal eie vindkraftprodusentene,
+
+[00:28:40] eller de som leverer tjenestene til vindkraft,
+
+[00:28:43] selskapene, skal man eie Vestas,
+
+[00:28:46] eller skal man eie Kadeler?
+
+[00:28:48] Veldig relevant spørsmål,
+
+[00:28:50] jeg tror ikke man skal stoppe der heller,
+
+[00:28:52] man må tenke enda lengre ut i verdikjeden,
+
+[00:28:56] og tenke, er det andre underleverandører her,
+
+[00:28:58] som faktisk har det som bare en liten del av sin forretning,
+
+[00:29:01] men som har gjort denne type forretning,
+
+[00:29:03] i kanskje hundrevis av år,
+
+[00:29:05] som virkelig bringer det helt unikt,
+
+[00:29:08] og som har en større evne da,
+
+[00:29:10] til å kunne ta ut en bedre avkastning,
+
+[00:29:12] på kapitalen over tid.
+
+[00:29:14] Så svaret på det er jo ikke gitt,
+
+[00:29:16] og det vil også variere veldig,
+
+[00:29:18] fra hvilke punkter du er i sykehjelm,
+
+[00:29:21] men ta for eksempel et annet selskap vi har i portføljen,
+
+[00:29:24] som heter Amphenol, som er verdensledende,
+
+[00:29:27] når det kommer til sensorer og connector,
+
+[00:29:30] så er de også en underleverandør inn i vindindustrien,
+
+[00:29:34] men hvor dette er en liten del av deres forretning,
+
+[00:29:37] men hvor også elbiler og andre biter,
+
+[00:29:40] innen denne elektrifiseringstrenden,
+
+[00:29:43] også er en medvind for dette selskapet,
+
+[00:29:46] som åpenbart er godt posisjonert til å få en god avkastning
+
+[00:29:49] på kapitalen der,
+
+[00:29:51] og så går det tilbake til et mer konkret spørsmål,
+
+[00:29:53] så tror jeg Vestas, der vi er nå i sykehjelm,
+
+[00:29:56] hvor vi vil få en ekstrem vekst fremover fra USA,
+
+[00:30:00] på grunn av den tidens største subsidiepakke som kommer der,
+
+[00:30:05] og i tillegg til det man prøver å jobbe med i Europa,
+
+[00:30:09] for å akselerere det grønne skiftet,
+
+[00:30:12] og spesielt drevet av på en måte den energikrisen vi har hatt der,
+
+[00:30:15] så tror jeg det er veldig riktig å være investerte på
+
+[00:30:18] både Cadler og Vestas på dette punktet,
+
+[00:30:22] men åpenbart.
+
+[00:30:23] Og Vestas og Cadler her var mer bare som eksempler,
+
+[00:30:28] for å på en måte eksemplifisere hva som er mentet,
+
+[00:30:32] og forskjellen her, men bra.
+
+[00:30:34] Avslutningsvis tenkte jeg bare tørte seg litt på sentimentet,
+
+[00:30:38] rundt fornybare aksjene,
+
+[00:30:40] fordi jeg har jo ikke vært så mye å skryte av det siste året.
+
+[00:30:44] Jeg sitter blant annet og følger med på handlemønsterne
+
+[00:30:46] til private investorerne våre når de handler aksjer.
+
+[00:30:50] Det er veldig lite aktivitet å spore i fornybare aksjene,
+
+[00:30:55] når du ser på en sånn kurv av de.
+
+[00:30:58] Det er vel litt kjennetegnende for hvordan det har vært for sektoren.
+
+[00:31:04] Hva skal trigge mer entusiasme blant investorerne fremover?
+
+[00:31:08] Når det kommer spesifikt til fornybar energi i sektoren,
+
+[00:31:12] så er det vel det at man finner en relativ bunn her,
+
+[00:31:17] i forhold til det brede aksjemarkedet,
+
+[00:31:20] som vil være drevet av at du har disse ledende spillerne innenfor industrien,
+
+[00:31:26] om du kaller det en Vestas, en Enphase inverter selskap for sol,
+
+[00:31:34] en Ørsted som er ledende offshore-vinden.
+
+[00:31:38] Som utvikler og bygger og eier og selger prosjekter.
+
+[00:31:43] Det er vel når disse finner denne relativ bunnen,
+
+[00:31:47] som et resultat av at prisingen ser mer fornuftig ut på en relativ basis,
+
+[00:31:53] og hvor faktisk denne forventede veksten,
+
+[00:31:56] som man tenker kommer i morgen i midten av en boble,
+
+[00:32:00] og man er redd for å misse ut,
+
+[00:32:02] men man er villig til eller ønsker å se mer faste bevis på dette,
+
+[00:32:07] i en tøffere del av sykehjernen som man er nå,
+
+[00:32:11] så tror jeg det på en måte vil være triggeren for å kunne begynne å se en reprising av sektoren igjen,
+
+[00:32:17] så at disse ledende selskapene faktisk på en måte leverer på denne medvidden som sektoren har,
+
+[00:32:24] som da leder til god inntenningsvekst for disse selskapene,
+
+[00:32:27] som igjen gjør at de ser relativt sett attraktivt ut på prisingen i forhold til det brede markedet,
+
+[00:32:32] og så begynner de å dra med seg sektorene opp igjen.
+
+[00:32:35] Men det er jo helt klart at det,
+
+[00:32:36] det er jo flere tapere enn vinnere i enhver sektor,
+
+[00:32:42] og etter enhver sånn boble som har vært her,
+
+[00:32:46] så jeg tror det er viktig her å gjøre en skikkelig analyse,
+
+[00:32:49] å brette opp ærmene og grave seg ned i disse selskapene,
+
+[00:32:52] og forstå konkurransefortrinnene til selskapene,
+
+[00:32:55] forstå konkurranseposisjonen,
+
+[00:32:57] og forstå markedene,
+
+[00:32:59] sånn at man prøver å minimere sannsynligheten for at man blir sittende ved en tap,
+
+[00:33:06] og at man faktisk finner de selskapene som er posisjonert for lang nær
+
+[00:33:12] til å kunne ta til en god avkastning på kapitalet.
+
+[00:33:15] Ja, og det gjør du og teamet ditt, Christian, det er jeg trygg på.
+
+[00:33:21] Så hvis jeg skal avslutte her med en liten konklusjon,
+
+[00:33:25] altså hvor attraktivt er offshore-vinn som aksjeinvestering,
+
+[00:33:30] og hvor attraktivt er det opp mot andre fornybare bransjer,
+
+[00:33:34] som sol, hydrogen, batterier og karbon, faktisk?
+
+[00:33:37] Ja, i ITA-mandatet har porteføljen en bred eksponering mot miljøtema,
+
+[00:33:46] men når vi da, som vi var inne på innledningsvis,
+
+[00:33:49] at mer enn 10% er investert mot offshore-vinn i dag,
+
+[00:33:54] så vil jeg påstå at det reflekterer at framtidsutsiktene for den sektoren er meget interessante,
+
+[00:34:03] og hvor man har hatt noen tøffe år bak seg her nå,
+
+[00:34:06] og hvor man går litt bedre tider i møtet,
+
+[00:34:11] hvor veksten virkelig tar seg opp i antall installasjoner,
+
+[00:34:15] ettersom man har kommet seg gjennom de første fasene med vekstsmerter.
+
+[00:34:21] Men tilbake igjen, at man må gjøre den selskapsanalysen
+
+[00:34:24] og forstå hva som er drivende for hver og enkelt av disse selskapene,
+
+[00:34:30] og hvilke deler man er i den.
+
+[00:34:32] Hvilke deler man er i den industrien, i verdikjeden, som man må investere deretter.
+
+[00:34:39] Bra det, Kristian.
+
+[00:34:40] Da gjenstår det bare å si tusen takk til deg,
+
+[00:34:44] og sist, men ikke minst, tusen takk folkens til alle dere som hørte på.
+
+[00:34:50] Denne sendingen ble publisert i podcasten Utbytte.

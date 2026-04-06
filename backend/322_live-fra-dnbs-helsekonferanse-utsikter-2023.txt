@@ -1,0 +1,851 @@
+Episode 322: LIVE fra DNBs helsekonferanse: Utsikter 2023
+Publisert: Tue, 20 De
+Vert: Marius Brun Haugen
+Varighet: 25 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/live-fra-dnbs-helsekonferanse-utsikter-2023
+
+--- Transkripsjon ---
+
+[00:00:00] Hvordan er utsiktene for helsesektoren fra et nordisk investor- og selskapsperspektiv?
+
+[00:00:19] Det skal vi diskutere nå, samtidig som vi lager live podcast herfra helsekonferansen til DNB.
+
+[00:00:27] Jeg heter Marius Bruun Haugen, jobber med aksjer til daglig og lager også podcasten Utbytte.
+
+[00:00:33] Og sammen med meg har jeg Elisabeth Kirking-Andersen, som leder Radiumpodcasten fra Radforsk investeringsstiftelse.
+
+[00:00:42] Og vi må jo si at endelig, Elisabeth, endelig er vi tilbake med en fysisk versjon av helsekonferansen etter en alt for lang digital pandemipause.
+
+[00:00:52] Det er helt nydelig å være her igjen.
+
+[00:00:55] Altså, DNB sin healthcare-konferanse er jo starten på julen for bransjen vår.
+
+[00:00:59] Og det er her alle møtes, alle mingler presenterer seg, man blir oppdatert på nye og gamle selskaper.
+
+[00:01:06] Så det er kjempegøy å være tilbake her igjen, Marius.
+
+[00:01:09] Ja, og så har det jo vært et spesielt år i år for finansmarkedene generelt, men definitivt også for biotech-selskapene.
+
+[00:01:19] For de har ikke sluppet unna, både globalt og nasjonalt, så har vi jo sett at de har falt voldsomt i verdi.
+
+[00:01:26] Og her kommer vi jo ikke utenom da.
+
+[00:01:28] Når vi ser på forklaringsvariablene, den kraftige renteoppgangen, det faktum at prisen på penger har blitt dyrere,
+
+[00:01:36] og at tilgangen på kapital rett og slett har blitt vanskeligere.
+
+[00:01:41] Og i Norge så har vi jo eksempler som for eksempel PCU Biotech og Nordic Nanovektor,
+
+[00:01:47] som har måttet avslutte sine studier, og det har jo satt sitt pregg på bransjen.
+
+[00:01:52] Så jeg tror at når vi nå skal se inn i 2023, som er det vi skal gjøre her i dag,
+
+[00:01:57] så tror jeg de fleste er enige med meg i at utfallsrommet, det er definitivt stort.
+
+[00:02:04] Egentlig uansett hvilken bransje du ser på, men det gjelder også å få helse.
+
+[00:02:08] Ja, det har du rett og rett i.
+
+[00:02:09] Men skal jeg velge å være litt mer optimistisk enn deg?
+
+[00:02:12] Ja, gjør det, gjør det.
+
+[00:02:14] Når markedet har gått kraftig ned, så vet vi jo alle at det skal opp igjen også.
+
+[00:02:19] Og tusen kroner spørsmålet, det er egentlig bare når skjer det?
+
+[00:02:23] I tillegg vet vi jo også at de store globale farmasiselskapene,
+
+[00:02:27] penger å rute med, for de har tjent mye penger gjennom pandemien.
+
+[00:02:31] Og det er jo penger da som de enten skal bruke til å kjøpe opp biotek,
+
+[00:02:34] eller gå i partnerskap med biotek.
+
+[00:02:36] I tillegg så vet vi også at venturekapitalfondene, de har penger.
+
+[00:02:40] De skal også bruke de, sette de i omløp, investere i selskaper,
+
+[00:02:44] men noen gang så er jo spørsmålet når.
+
+[00:02:46] Hvilke selskaper, hvilke teknologier?
+
+[00:02:49] Jeg er veldig glad for at det ikke er jeg som skal svare på det.
+
+[00:02:52] Nei, og for å svare på dette her, så har vi samlet en kommentar,
+
+[00:02:57] kompetent trio, som dere ser her på scenen.
+
+[00:03:01] Så det er på tide at vi får de i tale.
+
+[00:03:03] Det er Paul Falk i midten, fra det svenske selskapet Onkorena.
+
+[00:03:09] Han har bakgrunn fra både Pfizer og Arctic Securities.
+
+[00:03:12] Og så har vi Anessa Mulla-Beserovik, som forvalter DNBs helsefond.
+
+[00:03:18] Har erfaring fra venture, også som lege, så ikke noe å si på det.
+
+[00:03:24] Og så har vi Grand Old Man Hansel.
+
+[00:03:27] Anasse Einarsson, som er administrerende direktør i Radforsk investeringsstiftelse.
+
+[00:03:32] Klarer vi å gi deg en liten applaus, folkens?
+
+[00:03:39] Ja, det var jo som vi var inne på.
+
+[00:03:41] Altså, hva skjer nå i 2023 og fremover?
+
+[00:03:45] Altså, hvor går biotek? Hvor går helse? Hva skjer med pharma? Hva skjer med venture?
+
+[00:03:50] Altså, det er liksom krystallkula.
+
+[00:03:54] Da begynner vi med deg, Anessa.
+
+[00:03:56] Sånn som Marius har sagt, så har jo det året som har godt vært preget av makroekonomien,
+
+[00:04:01] egne renter og inflasjon, og man kan jo se for seg at det vil bli en vedvarende diskusjon
+
+[00:04:06] i begynnelsen, når vi går inn i 2023.
+
+[00:04:08] Men en annen ting som trer i kraft i 2023, er noe som heter Inflation Reduction Act.
+
+[00:04:15] Og den tror jeg nok at vil komme i større fokus utover året enn det den har vært hittil.
+
+[00:04:22] Hva er det? Det er gresk for meg. Og kanskje for noen som hører på her også.
+
+[00:04:26] Det er en reform som gikk gjennom i USA.
+
+[00:04:31] I august, som består av flere deler, men det er en del som vil påvirke helse- og bioteknologisektoren.
+
+[00:04:37] Og den innebærer flere ting.
+
+[00:04:40] Det vil tre i kraft gradvis.
+
+[00:04:43] Første delen er allerede første januar, og da vil de store pharma-selskapene ikke kunne sette opp priser på deres medisiner mer enn det influensjonen er.
+
+[00:04:53] Andre delen trer allerede i kraft i september, og da vil selskapets medisiner bli,
+
+[00:05:00] altså prisen på disse medisiner vil kunne bli forhandlet frem mellom den amerikanske staten og de individuelle pharma-selskapene.
+
+[00:05:11] Og som dere hører, så vil jo det føre til at prisene vil gå ned, og det vil jo kunne by på utfordringer på topplinjen for disse store pharma-selskapene.
+
+[00:05:22] Men det legger også opp insentiver, både for i bioteknologisektoren, men også i helsesektoren.
+
+[00:05:30] Men jeg tenker at helt sentralt det man ser inn i neste år, det er dette her med nettopp prisen på penger og tilgang på kapital.
+
+[00:05:36] Og jeg sitter litt med inntrykket nå at, ok, disse spesialistpengene, de er der, men det er klart, de sender jo sin forhandlingsposisjon her, ikke sant?
+
+[00:05:48] Generalistpengene, altså family offices og andre type investorer, de er ikke så interessert.
+
+[00:05:55] De ser at, hei, det er avkastning å hente som er mye bedre i andre sektorer.
+
+[00:06:00] Akkurat nå, om noe som jeg konsentrerer meg om, den eksisterende porteføljen, er det riktig inntrykk på?
+
+[00:06:07] Jeg tror du er absolutt inne på noe. Nå toppet jo biotekindeksene, toppet seg i september i fjor, og har nå falt veldig.
+
+[00:06:14] Og nå, det man ser da, de aktørene sier generalistmarkedet, IPOs er jo veldig tørlagt, men det er to aktører som har mye penger.
+
+[00:06:21] Og det er VC-ene, og så er det Bygg Pharma.
+
+[00:06:24] Og hvis du ser på VC-ene, så sitter de i en veldig god posisjon.
+
+[00:06:28] De har penger å investere.
+
+[00:06:30] Det har vært et ekstremt etterslett for mange firmaer å hente penger ned, for de har hatt litt sånn vent-og-se-holdning.
+
+[00:06:35] De venter å se hva som skjer i markedet, og så hoper det seg litt opp.
+
+[00:06:38] Så nå er det veldig mange som er på utkikk og henter penger.
+
+[00:06:41] Så de VC-ene har penger, men det er en konkurranse som gjør at det fortsatt er like vanskelig kanskje å hente hos dem.
+
+[00:06:47] Det er klart ideelt å sitte i et VC nå, for da har du jo, som sier, press kanskje litt på prisen.
+
+[00:06:54] Du kan kanskje gå for litt mer deriskete case, de som har kommet litt lengre.
+
+[00:06:59] Så de sitter i posisjon.
+
+[00:07:00] De er veldig gode, og du ser veldig høy konkurranse.
+
+[00:07:02] Og så må jeg nevne Big Pharma også.
+
+[00:07:04] De har jo, som alle vet, tjent veldig gode penger siste tiden.
+
+[00:07:07] Og den generelle strategien til Big Pharma er at de skal prøve å lage egen pipeline.
+
+[00:07:13] Det skal stå på 50 prosent.
+
+[00:07:14] Det andre 50 prosent deles da enten via oppkjøp eller partnerskap.
+
+[00:07:18] Og den veldig store trenden siste tiden er at det blir mer partnerskap enn oppkjøp.
+
+[00:07:23] Og grunnen til det er egentlig ganske enkel.
+
+[00:07:26] Big Pharma har gått igjennom sine egne resultater.
+
+[00:07:29] Og så har de sett.
+
+[00:07:30] De vi kjøpte opp, hvor bra gikk det med de?
+
+[00:07:32] De vi hadde partnerskap med, hvor bra gikk det?
+
+[00:07:34] Og da ser vi at partnerskap har høyere suksessrate.
+
+[00:07:37] Og det kommer litt av at denne bransjen her er så utrolig kompetansetung.
+
+[00:07:42] Det er ikke så lett å bare kjøpe en firma og ta over den driften videre.
+
+[00:07:47] Da er det viktigere å gå inn i en avtale med upfront milestones og jobbe sammen med de.
+
+[00:07:52] Det viser seg å være mye bedre for firmaene.
+
+[00:07:55] Så der er det muligheter.
+
+[00:07:56] Så vi kommer til å se mer partnerskap fremover?
+
+[00:08:00] Ja, det har også vært mer og mer.
+
+[00:08:01] Jeg sjekket litt statistikk og kom til å se med Roche.
+
+[00:08:03] Det inngikk 60 avtaler i fjor.
+
+[00:08:05] Og kun en av de 60 var et oppkjøp.
+
+[00:08:07] Og så har du kanskje andre siden.
+
+[00:08:08] Da har du Johnson & Johnson som gjør kanskje mer oppkjøp og mindre egen pipeline.
+
+[00:08:12] Så jeg tror vi vil se, og det har alltid vært mye, men vi vil også se veldig mye fremover.
+
+[00:08:16] Alice?
+
+[00:08:16] Altså når vi først er enige på dette med oppkjøp, så tror jeg den inflation reduction act som jeg nevnte.
+
+[00:08:21] Den vil også kunne stimulere til mer M&A.
+
+[00:08:25] Og kanskje ikke bare M&A, men også M.
+
+[00:08:28] Murders.
+
+[00:08:29] Ja.
+
+[00:08:30] Det er litt sånn som du nevnte tidligere med kapitalkashen som selskapene har.
+
+[00:08:35] Og gode data som er essensielt for å kunne hente ny cash.
+
+[00:08:40] Ser man på M&As som var offentlige i år, så er det 17.
+
+[00:08:45] Og det er jo opp fra i fjor, hvor det var 12.
+
+[00:08:48] Og det viser jo litt sånn at ...
+
+[00:08:50] Bekrefter litt det du sier da.
+
+[00:08:52] Og som du sier, oppkjøp kan jo også være et eksempel.
+
+[00:08:55] Altså Seneca kjøpte med Immune.
+
+[00:08:57] Men det har bare fortsatt med Immune som det er.
+
+[00:08:59] Men under paraplyen av Seneca.
+
+[00:09:01] Så du på en måte beholder kompetansen inn i firmaet også.
+
+[00:09:04] Så det er litt annet.
+
+[00:09:05] Jeg er enig, men du nevnte også sånn venture capital.
+
+[00:09:09] Hvis man ser på IPO-markedet i år, så har jo det tatt seg ned betraktelig.
+
+[00:09:14] Det har vært ni selskaper som har blitt listet.
+
+[00:09:17] Og så er man opp mot i fjor, og i fjoråret, da var det på 60- og 70-tallet.
+
+[00:09:21] Kapitalinnhentingen i år, 1,5 milliarder USD.
+
+[00:09:25] I fjor, 15.
+
+[00:09:27] Så det er store forskjeller.
+
+[00:09:29] I hvert fall på det offentlige.
+
+[00:09:32] Altså public market-sektoren.
+
+[00:09:34] Nå får vi med deg også, Erwan.
+
+[00:09:36] Som investor og har en stor portefølje innenfor onkologi.
+
+[00:09:41] Hvordan ser verden ut fra din side?
+
+[00:09:43] Nei, altså makrobilde er jo veldig godt beskrevet.
+
+[00:09:46] Og jeg er veldig, veldig enig i at både venture og Big Pharma er på jakt etter avtaler.
+
+[00:09:52] Og spesielt Big Pharma som nå har veldig mye penger på bok.
+
+[00:09:55] Og da vil deres aksjonærer si at enten må de sette de penger i arbeid,
+
+[00:09:59] eller så får de betalt det ut i utbytte.
+
+[00:10:01] Og det ønsker jo ikke de selskapene å gjøre.
+
+[00:10:03] Så at det blir mye større aktivitet, det tror jeg.
+
+[00:10:05] Og så er det, det har skjedd, det er pandemi, det er krig,
+
+[00:10:09] og det er renter og strøm og alt dette her.
+
+[00:10:11] Men vitenskapen og utviklingen av legemidler har ikke stått stille i pandemien.
+
+[00:10:16] Det skjer veldig mye. Det kommer daglig nye nyheter.
+
+[00:10:19] Det kom senest igjen for et par dager siden fra Moderna og Merck,
+
+[00:10:23] med versjonen tilpasset av kreftvaksine,
+
+[00:10:27] som også viser at det området blir hetere og hetere.
+
+[00:10:31] Og så er det også, som du sier, Poul, veldig mange selskaper som nå har gjort
+
+[00:10:35] konvertible, gjort bridging, gjort altså avventende finansiering
+
+[00:10:39] i stedet for å hente de store beløpene.
+
+[00:10:42] Og det er en utfordring fordi det er et etterslep der,
+
+[00:10:45] som vi kan plutselig få i 2023 hvis markedet snur,
+
+[00:10:48] så er det mange som skal ut og hente penger.
+
+[00:10:51] Men det er penger der ute.
+
+[00:10:53] Det er mer modne selskaper.
+
+[00:10:55] De kan levere mer kliniske data som gjør at det er det vi skal
+
+[00:11:00] i forhold til det man hadde før pandemien.
+
+[00:11:03] Jeg tror man glemmer litt den modningen av hele etterveksten vår
+
+[00:11:06] som har foregått under pandemien.
+
+[00:11:08] Så, som vanlig, en evig optimist.
+
+[00:11:10] Når man snakker om oppkjøp,
+
+[00:11:13] tror dere styrkeforholdet som dollaren mot svenske og norske kroner,
+
+[00:11:18] tror dere det har noe å si for appetitten til
+
+[00:11:21] de store amerikanske legemiddelselskapene
+
+[00:11:24] når de skal ut og vurdere å gå på kjøperen i Norden til neste år?
+
+[00:11:29] De bryr seg om data.
+
+[00:11:31] Ja, jeg tror det. Mitt inntrykk er at det er datene som teller,
+
+[00:11:35] og de er villige, de har så mye penger,
+
+[00:11:37] så de er villige til å investere mer hvis datene er bedre.
+
+[00:11:39] Jeg tror det er valutaen egentlig da, datene.
+
+[00:11:41] Men hvis vi ser på premiumen, så har den falt.
+
+[00:11:45] I år er snittet på 50%, mens i fjor var det 80-90%.
+
+[00:11:49] Så den har jo falt betraktelig.
+
+[00:11:53] Så det er jo blitt billigere, relativt.
+
+[00:11:57] Jeg er enig i det, men samtidig så er valutaen på data
+
+[00:12:02] har ikke falt i mellomtiden.
+
+[00:12:04] Det er helt avhengig av styrken av dataen du leverer.
+
+[00:12:07] Så hva som skjedde med Moderna nå når de kom med sin melding,
+
+[00:12:12] som var veldig fascinerende og spennende.
+
+[00:12:15] Og det er ikke der at Big Pharma spesielt,
+
+[00:12:18] Big Pharma Venture er kanskje litt annerledes,
+
+[00:12:20] men Big Pharma er ikke ute etter å få en billigst mulig pris for et selskap.
+
+[00:12:24] De vil ha fair value for den risken de tar og hvordan de går inn.
+
+[00:12:28] Så jeg ser for meg at vi kan få noen gode dealer.
+
+[00:12:30] Så jeg er veldig enig i det du sier,
+
+[00:12:32] med at jeg tror det blir mer av typen samarbeidsavtaler,
+
+[00:12:35] eller som du nevner at de kjøper selskapet,
+
+[00:12:38] men selskapet får bli der det er.
+
+[00:12:40] Vi har et godt eksempel på det, flere eksempler på det her i Norge,
+
+[00:12:43] med Algeta i sin tid, som gjorde at Bayer ble mer enn dobla
+
+[00:12:47] antall ansatte satse på forskningen her i Norge.
+
+[00:12:50] Hadde Onco Immunity som ble kjøpt opp av Nek Corporation,
+
+[00:12:53] kjempesvært japansk selskap.
+
+[00:12:55] De flyttet sine beste folk fra Tokyo til Oslo,
+
+[00:12:58] for å jobbe i miljøet.
+
+[00:13:00] Det er det som er litt styrken med vårt økosystem,
+
+[00:13:03] at vi forsøker å ha denne veldig tette kontakten
+
+[00:13:07] mellom forskningsmiljøet, der hvor disse ideene kommer fra,
+
+[00:13:10] og oppstartselskapene, sånn at det ikke er fristende å gjøre
+
+[00:13:14] som Big Pharma gjorde i gamle dager,
+
+[00:13:16] å løpe et selskap med 20-40-60 ansatte,
+
+[00:13:18] og flytte de til Lund i Sverige som AstraZeneca gjorde i gamle dager,
+
+[00:13:21] men bli i miljøet og utvikles videre i miljøet.
+
+[00:13:24] Så jeg har stor tro på det.
+
+[00:13:26] Spørsmålet blir vel liksom, hvor gode er dataene?
+
+[00:13:30] For du må vel ha ganske klokkerene data,
+
+[00:13:32] for at du skal klare å hente penger uten at det blir til veldig store rabatter,
+
+[00:13:36] eller at du må gi fra deg store deler av eierskapet i selskapet ditt, for eksempel.
+
+[00:13:41] Ja, det er helt riktig.
+
+[00:13:44] Styrken ligger i dataene.
+
+[00:13:47] Det stilles ganske store krav til kvaliteten på dataene for å gå videre med det.
+
+[00:13:53] Får du sånn gråsonede data, så har du en utfordring.
+
+[00:13:57] Ultima Max kommer i første halvår. Gleder deg til det?
+
+[00:14:00] I hvert fall veldig spent. Det må jeg si.
+
+[00:14:03] Skrekkbladet fri.
+
+[00:14:05] Jeg tror det er riktig det du sier, at hva slags type data er det også.
+
+[00:14:09] Fordi min erfaring fra Pfizer når jeg jobbet der i business development,
+
+[00:14:14] det er at mange firmaer kommer og pitcher for de,
+
+[00:14:16] og så har de gode data, men det er samlet med historiske data.
+
+[00:14:20] Og da blir alt litt sånn, ok, du må tenke litt mer. Hvor bra er det egentlig?
+
+[00:14:25] Og det er ikke de noe glad i.
+
+[00:14:26] Så det er litt noe med det at Pharma vil si at du tør å kjøre head to head tidlig.
+
+[00:14:31] De vil heller at du finner ut et svar.
+
+[00:14:33] Og så har du kanskje investert, men da er det søvnkost. Da er de ferdig med den.
+
+[00:14:37] Gå til neste.
+
+[00:14:38] Så de er ikke så glad i de dataene som ikke er så enkle å tolke.
+
+[00:14:42] Selv om det ser bra ut.
+
+[00:14:44] De har så mange å velge i, så da tar de hele igjen som har gjort den head to head studien.
+
+[00:14:47] Det er klare data.
+
+[00:14:48] Og det er jo veldig bra med ultimaks. De får jo det.
+
+[00:14:51] Men også studiedesign er også ganske viktig.
+
+[00:14:55] I Venture så vi det samme som dere gjorde.
+
+[00:14:59] Det var det data, musemodeller.
+
+[00:15:01] Man sammenlignet det mot benchmarker som finnes allerede der ute.
+
+[00:15:04] Man gjør det også senere når de kommer i fase 1 og fase 2.
+
+[00:15:10] For det er jo andre som har forsøkt å gjøre tilsvarende ting i lignende indikasjoner.
+
+[00:15:14] Så da sammenligner man på hvordan var overlevelsesretten.
+
+[00:15:17] Hva er det du prøver å slå?
+
+[00:15:18] Du prøver å slå noe som allerede eksisterer, ikke sant?
+
+[00:15:21] Så da ser man tendenser og bruker statistiske analyser til å kunne klare å anslå resultatene underveis på hvordan det kanskje kommer til å se ut.
+
+[00:15:31] Så man har allerede en forventning om hvordan dataene skal være.
+
+[00:15:34] Og vi har jo sett i år at når selskapet ikke har klart å levere på det, har de blitt straffet veldig hardt.
+
+[00:15:40] Og når de har klart å levere på det, så har de gjort det ganske bra.
+
+[00:15:43] Og da hadde det ikke vært et problem å hente penger.
+
+[00:15:46] Men hvis du skal tenke litt på sykdomsområder, indikasjoner, hvor er det man beveger seg her nå?
+
+[00:15:53] Hvor er liksom de hotte feltene?
+
+[00:15:55] Vi begynner med deg, Anessa.
+
+[00:15:57] På M&A så ser man jo fremdeles at immunonkologi er superhot.
+
+[00:16:01] Sjeldne sykdommer, ganske hot.
+
+[00:16:03] Og så er jo obesity, altså FEDME og det som er relatert til det, det er en snakkes.
+
+[00:16:10] Det påvirker jo så mye.
+
+[00:16:12] Nei, det er bare å følge opp etter hvor persontilpasset, targetet.
+
+[00:16:16] Og man så jo, jeg må nevne M&A Moderna, som har gjort en god head-to-head-studie.
+
+[00:16:21] 150 pasienter, viser hardt en punkt at det funker.
+
+[00:16:24] De vil jo åpne opp innenfor mRNA, også DNA.
+
+[00:16:27] Enorm, på en måte, muligheter.
+
+[00:16:29] Om det er kreft, eller om det er infeksjoner vi aldri har behandlet.
+
+[00:16:33] Men det åpner også opp for andre firmaer som jobber med teknologi rundt levering av DNA, mRNA.
+
+[00:16:39] Ja.
+
+[00:16:40] COVID-vaksinen ble jo på en måte laget på grunn av en ny formulering av nanopartikler som pakket inn,
+
+[00:16:44] så du klarte å levere det på seg.
+
+[00:16:46] Og genterapi, masse bra.
+
+[00:16:47] Ikke minst.
+
+[00:16:48] Og one-off-behandling på genterapi.
+
+[00:16:50] De må treffe riktig mål, ikke sant?
+
+[00:16:52] Alle de som slår av på gener, sånn teknologi, levering, det åpner opp veldig mye rundt.
+
+[00:16:56] Og det er allerede engosjømt i Europa.
+
+[00:16:59] Og jeg tror at, jeg er veldig enig med deg, det kommer til å prege bildet fremover.
+
+[00:17:04] Ja nei, jeg tenker at det aller hotteste er, som du sier, innen immunopologi.
+
+[00:17:09] Og det er jo å forbedre det som allerede nå er etablert som standardbehandling i de aller fleste indikasjoner.
+
+[00:17:16] Og det prøves jo ut stadig nye indikasjoner.
+
+[00:17:19] Men det er vårt sjekkvagnindikator som gjør jobben sin, men ikke godt nok.
+
+[00:17:23] Og alt som kan gjøre noe med det, på en eller annen måte, det vil være hott fremover, tror jeg.
+
+[00:17:30] Og så vil jeg også nevne radiofarmasi, med den moderne formen for å bruke det,
+
+[00:17:36] som flere av de store selskapene nå har signalisert veldig tydelig at de har lyst til å være med på det området.
+
+[00:17:42] Og så er det altså, som du sier, mRNA kom, men mRNA har en god del svakheter.
+
+[00:17:47] Så de som løser de svakhetene, med å stabilisere mRNA, med å få det lettere ut med logistikken, med alt dette her,
+
+[00:17:56] det vil være nischer for den type området, for å forbedre de gjennombrudder vi har hatt de siste 10-15 årene.
+
+[00:18:02] Hva er det som skal til for at de norske og nordiske selskapene, rett og slett,
+
+[00:18:05] skal komme på raderen til disse globale legemiddelselskapene?
+
+[00:18:10] Altså, det er jo flere ting.
+
+[00:18:12] Jeg mener jo at gode data, eksellent forskning, god presentasjon, da har du det.
+
+[00:18:19] Da blir det jo lagt merke til, og da ser de på det.
+
+[00:18:22] Og så utholdenhet. Hva tenker du på det?
+
+[00:18:26] Nei, jeg tror valutaen er jo data og kompetanse hos firma.
+
+[00:18:30] Og så må de få det ut, publisere det.
+
+[00:18:33] Gjerne fagfeltetidsskrifter, som er enda mer å store på.
+
+[00:18:37] Og så tror jeg, i hvert fall farma, ser veldig på det med tid.
+
+[00:18:41] Med tid er det både riktig timing å lansere en slik utviklingsplan,
+
+[00:18:45] og ikke minst hvor raskt klarer du å få det på markedet.
+
+[00:18:48] Den gyllene regelen er jo «first or best».
+
+[00:18:51] Hvis du har momentet, du ligger godt an, så må du ikke tape det momentet.
+
+[00:18:55] Design riktig studier, få det gjennom relatoriske prosessene, og få godkjennet kjapt.
+
+[00:19:00] For det er lett å, på en måte, ligge godt an.
+
+[00:19:02] Så kommer folk bak, og så taper de litt.
+
+[00:19:04] Så jeg tror det er viktig at firmaen også viser at de tør å satse på litt risk i studiedesign.
+
+[00:19:09] Men det vil også gi et svar som kortner ned tiden til godkjenning.
+
+[00:19:14] Jeg tror dere har helt rett.
+
+[00:19:17] Vi må være litt bolde i måten du har løst på dette på.
+
+[00:19:21] Og du har jo nevnt Ultimax, hvor jeg jo er styreleder, så er det bare det jeg har sagt.
+
+[00:19:26] Men der har vi virkelig gått head to head med gold standard.
+
+[00:19:30] Med randomiserte data.
+
+[00:19:32] Sånn at hvis de slår inn, og er positive, så er de positive.
+
+[00:19:36] Da har vi vist at dette fungerer.
+
+[00:19:38] Men vi har jo også måttet gå den lange veien med mindre studier, med historiske data, med alt det det har med seg å gjøre.
+
+[00:19:45] Hvor vi aldri kan si mer enn at det peker i en riktig retning.
+
+[00:19:49] Men det Big Pharma har sagt til oss hele tiden, og gjør, kom tilbake med skikkelig solide, randomiserte data.
+
+[00:19:56] Det er risk i business, men slår det an, så har du virkelig fått det til.
+
+[00:20:00] Og så ligger lista relativt høyt.
+
+[00:20:04] Men jeg tror det er den eneste måten vi kan gjøre det på.
+
+[00:20:06] Og jeg tror Venture gjør det samme.
+
+[00:20:09] Kom tilbake når dere har oppdaterte data.
+
+[00:20:12] Så jeg tror det er litt som går igjennom det.
+
+[00:20:14] Så i Pfizer, at det gikk jo gjerne i en enden på veldig lovende tidlig data.
+
+[00:20:18] Det er liksom det, dette er no brainer, her er det noe.
+
+[00:20:21] Men så er det veldig lite i den midtdelen her, fase 1, tidlig fase 2.
+
+[00:20:24] For der er det litt sånn, ok, funker det ikke, da venter de heller til sånn data kommer.
+
+[00:20:29] De har randomiserte data, solide data.
+
+[00:20:31] Og da er de villige til å betale mye mer.
+
+[00:20:33] Men det mellomsnittlige kan være litt sånn vanskelig å vurdere.
+
+[00:20:35] For det er liksom, de ser lovende ut, du vet ikke.
+
+[00:20:38] Du har 20 andre som også er lovende.
+
+[00:20:40] Hvordan skal du velge da, men har du solide data, er det enkelt for dem å velge.
+
+[00:20:44] Så man bør nesten tørre å ta risken da, som de har gjort.
+
+[00:20:46] Ja, det er litt det det går på.
+
+[00:20:47] Så du er jo i en litt sånn luksussituasjon du da, Nessa.
+
+[00:20:50] Fordi at du kan jo sitte og vente, ikke sant?
+
+[00:20:53] Du vet at disse selskapene kommer til å trenge penger i løpet av,
+
+[00:20:57] de og de selskapene kommer til å trenge penger i løpet av året.
+
+[00:21:01] Men du kan jo da sitte og vente på at disse dataene kommer.
+
+[00:21:05] Fordi at da vet du at da er det mye tryggere for deg å gå hjem.
+
+[00:21:09] Ja, det er en måte å si det på.
+
+[00:21:13] Men man har jo et fond, hvor man har ganske mange posisjoner.
+
+[00:21:16] Og der kanskje har man et selskap, hvor man ønsker å ta en større del,
+
+[00:21:22] men man er usikker.
+
+[00:21:23] Så man ønsker å vente til det selskapet er publisert da,
+
+[00:21:26] for å vente.
+
+[00:21:27] Og når det nærmer seg, så kan man ta en større posisjon.
+
+[00:21:31] Så da har vi den luksusen at man kan sitte og vente,
+
+[00:21:34] og så ta ned litt av den risikoen som man hadde hatt hvis man hadde gått inn på start.
+
+[00:21:39] Hvor man in for the win da.
+
+[00:21:43] Ja, men det er jo det det er i den bransjen her.
+
+[00:21:47] At hvis du går inn veldig tidlig, så får du et veldig billig lodd.
+
+[00:21:50] Men det er klart at vinnekjansen er ikke så stor.
+
+[00:21:52] Men hvis du sitter og venter til du på en måte er 99% sikker på at det er et vinnelodd,
+
+[00:21:56] så er det et dyrt lodd altså.
+
+[00:21:58] Så det er den balansegangen å vite når man skal gå inn.
+
+[00:22:01] Så hvis vi skal oppsummere litt da.
+
+[00:22:04] Hvor positivt ser du på 2023?
+
+[00:22:07] Jeg er bull på bioteknologisektoren.
+
+[00:22:09] Og helsesektoren kommer til å gjøre det bedre enn det brede markedet,
+
+[00:22:12] hvis det fortsetter sånn som det har vært fra DLS.
+
+[00:22:15] Så håper jeg og tror på at det vil kunne se bedre ut.
+
+[00:22:20] Men det vil være utfordringer.
+
+[00:22:22] Og Paula, du representerer jo selskapssiden her.
+
+[00:22:25] Ser det like lyst ut fra det holdet?
+
+[00:22:28] Det er jo klart det er tøffere når det er et selskap.
+
+[00:22:30] Men det er jo penger å hente.
+
+[00:22:33] Så det går liksom på å gjøre jobben sin så man blir attraktiv.
+
+[00:22:36] Og jeg tror for andre firmaer så må man jo,
+
+[00:22:38] jeg mener jo at man må begynne en dialog med Big Pharma tidlig.
+
+[00:22:41] Det lønner seg alltid.
+
+[00:22:42] Og Big Pharma gjør jo også andre typer samarbeid.
+
+[00:22:45] Altså de har forskerutveksling.
+
+[00:22:47] Du kan teste hypotesen din i deres labber.
+
+[00:22:49] Det er mange andre måter å gjøre enn å bare tenke her får jeg penger.
+
+[00:22:52] Du kan også starte en kompetanseutveksling mellom
+
+[00:22:55] Så jeg tror liksom tidlig dialog både ved venture på en måte.
+
+[00:22:58] De må modnes ofte.
+
+[00:22:59] Data skjønner casen godt.
+
+[00:23:00] Men også Big Pharma tar seg tid til det.
+
+[00:23:02] Møter de.
+
+[00:23:03] Det er ikke farlig på en måte.
+
+[00:23:04] Det verste som skjer er at de sier nei og det gjør de jo ofte.
+
+[00:23:06] Det er ikke noe farlig.
+
+[00:23:07] En eller annen gang sier man også ja.
+
+[00:23:09] Ikke sant?
+
+[00:23:10] Ja.
+
+[00:23:11] Jeg tror 23 fortsatt kommer til å bli et veldig utfordrende år
+
+[00:23:16] på kapitalmarkedet for våre tidlige selskaper
+
+[00:23:19] som ikke har disse dataene å slå i bordet med.
+
+[00:23:21] Før vi får venture.
+
+[00:23:23] Før vi får Big Pharma avtalen.
+
+[00:23:25] Og det er akkurat i dag så er døra låst og nøkkel kastet.
+
+[00:23:28] Så jeg håper jo at den kommer på at alle tenker at 22 var liksom
+
+[00:23:33] annuels horribelig når det gjaldt våre porteføljer.
+
+[00:23:35] Men vi starter 23 fra scratch som i hvert fall på et veldig lavt nivå
+
+[00:23:38] så forhåpentligvis går det bare en vei.
+
+[00:23:41] Så i løpet av 23 så håper jeg at det åpner opp igjen.
+
+[00:23:44] Men det er uten tvil fortsatt et utfordrende år
+
+[00:23:47] for den type finansiering.
+
+[00:23:49] Og fremdeles ganske uforutsigbart.
+
+[00:23:51] Ikke sant?
+
+[00:23:52] Det er vel det som egentlig er som kort oppsummert
+
+[00:23:54] vanskelig å si når kommer knekkpunktet her.
+
+[00:23:57] Når på en måte skyter det fart igjen.
+
+[00:23:59] Ja, også litt når jeg sa at jeg ble litt sånn
+
+[00:24:01] helsesektoren og bioteknologisektoren
+
+[00:24:04] det er en kombinasjon hvis man tar de sammen av
+
+[00:24:07] defensive value, growth.
+
+[00:24:10] Du har veldig mye i en sektor.
+
+[00:24:12] Så de to sektorene kombinert
+
+[00:24:14] det er krem.
+
+[00:24:15] Spør du meg.
+
+[00:24:17] Så, ja.
+
+[00:24:19] Ja, men det er veldig bra det.
+
+[00:24:20] Det passer fint å avslutte på den entusiastiske foten.
+
+[00:24:23] Det må vi gjøre når det tross alt er helsekonferanse.
+
+[00:24:26] Så da tror jeg rett og slett vi runder av der.
+
+[00:24:29] Tusen takk til dere alle tre for at dere var med.
+
+[00:24:33] Og så får dere bare fortsette å konstere på helsekonferansen.
+
+[00:24:36] Takk skal du ha.
+
+[00:24:37] Takk for invitasjonen.
+
+[00:24:38] Takk for oss.
+
+[00:24:52] Denne sendingen ble publisert i podkasten Utbytte.
+
+[00:24:54] Innholdet i sendingen er å anses som markedsføringsmateriale
+
+[00:24:57] fra DNB og er ment å være generell spareværledning.
+
+[00:25:00] Sendingen skal ikke ha oppfattes som et tilbud om å kjøpe
+
+[00:25:02] eller selge finansielle instrumenter

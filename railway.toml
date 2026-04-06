@@ -1,0 +1,11 @@
+# railway.toml — Railway deployment config
+# Railway deploys from Docker Hub image (built + pushed by GHE Actions)
+
+[build]
+builder = "DOCKERFILE"
+dockerfilePath = "Dockerfile.backend"
+
+[deploy]
+healthcheckPath = "/api/health"
+healthcheckTimeout = 900
+restartPolicyType = "on_failure"

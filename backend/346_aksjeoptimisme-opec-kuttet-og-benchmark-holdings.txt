@@ -1,0 +1,1654 @@
+Episode 346: Aksjeoptimisme, OPEC-kuttet, og Benchmark Holdings
+Publisert: Thu, 13 Ap
+Vert: Marius Brun Haugen
+Gjest: Paul Harper
+Varighet: 42 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/aksjeoptimisme-opec-kuttet-og-benchmark-holdings
+
+--- Transkripsjon ---
+
+[00:00:00] Aksjemarkedet har alt i alt oppført seg ganske eksemplarisk siden påsken startet.
+
+[00:00:06] Er optimismen i ferd med å feste grep igjen i forhold til hvor vi var for noen uker siden?
+
+[00:00:12] Vi har også fått ferske makrodata og fordøye, og resultatsesongen er snart i gang for alvor,
+
+[00:00:18] og alt dette skal Paul Harper og jeg snakke mer om i dagens episode.
+
+[00:00:22] Vi skal også innom oppdaterte analyser på både flyselskapet Norwegian, Nordic Semiconductor
+
+[00:00:28] og oljeselskapet OKEA.
+
+[00:00:31] I tillegg har jeg hatt besøk av Trond Williksen fra Benchmark Holdings for en oppdatering,
+
+[00:00:37] og du får høre vurderinger fra makroøkonom Kyrre Omdahl om den norske renten,
+
+[00:00:42] og oljeanalytiker Helge Martinsen om OP-kuttet og veien videre for oljeprisen.
+
+[00:00:48] Vi skal rett og slett gjennom ganske så mye spennende, så vi får bare sette i gang.
+
+[00:01:02] Velkommen til Utbytte, DNB-podkasten.
+
+[00:01:05] Der vi forklarer hva som skjer innen globale økonomien og finansmarkedet.
+
+[00:01:10] Jeg er Marius Brun Haugen, og med meg har jeg aksjesateg Paul Harper.
+
+[00:01:15] Hei, Paul.
+
+[00:01:16] Hei, Marius.
+
+[00:01:17] Det er onsdag 12. april.
+
+[00:01:19] Klokken har passert tre på ettermiddagen, og vi sitter her og spiller inn episoden.
+
+[00:01:24] Vi avsluttet jo forrige episode vi hadde sammen ved inngangen til påsken med å konkludere med at
+
+[00:01:29] markedet og investorene kunne ha gått av noen rolige påskedager, Paul.
+
+[00:01:34] Det fikk vi jo.
+
+[00:01:35] Det ser ut til å ha virket.
+
+[00:01:36] Ja, det var egentlig relativt rolig.
+
+[00:01:38] Det kommer litt an på om man inkluderer det OPEC-kuttet, om det var før eller etter det man kaller påskeperioden.
+
+[00:01:44] Men bortsett fra det, så var det relativt rolig.
+
+[00:01:47] Ja, og det slo jo positivt ut for investorene på Oslo Børs.
+
+[00:01:51] I hvert fall det vi skal komme tilbake til akkurat det senere i sendingen.
+
+[00:01:56] Men status for markedene, enten vi ser fra starten av mars før bankuroen,
+
+[00:02:02] eller fra starten av året.
+
+[00:02:05] Den amerikanske S&P 500-indeksen, for å bruke den som en referanse, er opp godt i pluss.
+
+[00:02:11] Mens den amerikanske 10-årsrenten er ned til underkant av 3,4 prosent når vi gikk inn her i studio.
+
+[00:02:19] Også Oslo Børs har jo da kommet seg på plussiden igjen etter litt drahjelp fra OPEC påsken.
+
+[00:02:25] Så er vi der nå at aksjemarkedet sier slapp av.
+
+[00:02:29] Alt ordner seg. Dette her går bra.
+
+[00:02:32] Mens rentemarkedet sier at her kommer...
+
+[00:02:35] Er det strammere kreditpraksis fra bankene?
+
+[00:02:37] Vi vet ikke helt hva som blir enda på visa, men resesjonen lurer.
+
+[00:02:41] Ja, det er jeg synes litt sånn forskjellige beskjed vi får ettersom man legger mer vekt på rentemarkedet eller aksjemarkedet.
+
+[00:02:49] For å se på 10-årsrenten for eksempel, så er jo det godt stykke under der Fed Funds-renten er.
+
+[00:02:55] Og det er jo noe som egentlig bare skjer hvis markere tror at det kommer flere kutt i renten.
+
+[00:03:00] Så vanligvis når det er såpass stor forskjell på 10-årsrenten og Fed Funds,
+
+[00:03:05] så er det et typisk resesjonstegn.
+
+[00:03:07] Det er litt det samme egentlig som yieldkurven som vi har snakket om mange ganger tidligere.
+
+[00:03:12] Så for at det skal gi mening, så sier de egentlig at det kommer flere rentekutt.
+
+[00:03:17] Men det skjer ikke med mindre det også blir en i hvert fall vesentlig svakere utvikling i økonomien.
+
+[00:03:23] Kanskje ikke nødvendigvis en resesjon, men i hvert fall noe som begynner å ligne litt på det.
+
+[00:03:27] Så det synes jeg egentlig er litt på den bearish-siden.
+
+[00:03:30] Men som du sier så har jo aksjemarkedet klart seg relativt greit nå i en periode.
+
+[00:03:35] Den får jo selvfølgelig litt hjelp av lavere renter,
+
+[00:03:37] men da har du sånn den blandingssituasjonen at det er vanskelig å egentlig helt se at renten skal ned
+
+[00:03:43] uten at det også påvirker inntjeningen negativt.
+
+[00:03:46] Så helt hvordan du skal få de tingene der til å komme i balanse er jeg litt mer usikker på.
+
+[00:03:51] Nei, og vi er vel ikke der at den underliggende usikkerheten som vi har hatt i markedet i lang tid er borte nå.
+
+[00:04:02] Så hold deg til planen.
+
+[00:04:03] Ikke ta for stor risiko.
+
+[00:04:05] Mantra, det fortsetter vel det.
+
+[00:04:07] Ja, så det kan jeg si at situasjonen nå ser jo en del bedre ut enn det gjorde for noen uker siden,
+
+[00:04:12] når det var frykt for at det var kanskje starten på en større bankkrise.
+
+[00:04:16] Nå har det roet seg en del, og det er nok kanskje noe av grunnen til at vi har fått en forholdsvis grei utvikling.
+
+[00:04:23] Hvis man tenker på status nå relativt til kort tid siden, så er det åpenbart bedre.
+
+[00:04:28] Men som du sier, det store bildet her går jo egentlig mer på om du tror det blir resesjonene eller ikke.
+
+[00:04:34] Og etter vår mening, så selv om du ikke tror på resesjon, så tror vi det fortsatt er nedsidig risiko i inntjeningsestimatene.
+
+[00:04:40] For vi har hatt en periode nå hvor selskapene har klart å øke marginene ganske voldsomt.
+
+[00:04:46] Så hvis du regner med at marginene skal tilbake til en mer slags normalt nivå, da skal også estimatene noe ned.
+
+[00:04:53] For analytikerne da, de har egentlig ekstrapolert den marginutvikling vi har sett de siste par årene,
+
+[00:04:58] heller enn å egentlig tenke på marginene sett i en sånn type 10-15 års perspektiv.
+
+[00:05:03] Og det er klart det er jo kanskje mulig at selskapene er strukturelt mer lønnsomme nå enn de har vært tidligere.
+
+[00:05:09] Men jeg synes det er litt skummelt egentlig å legge alt for mye vekt på akkurat det,
+
+[00:05:13] i og med at over tid så er marginene noglunde mindre høyting.
+
+[00:05:17] I lyset av bankuron så forventer man jo strammere kreditpraksis fra bankene som vi har snakket om.
+
+[00:05:24] Hvordan det faktisk vil påvirke den økonomiske aktiviteten og dermed inflasjonsutsiktene,
+
+[00:05:30] det vil det vel ta en tid på før vi får...
+
+[00:05:33] Håndfaste data på.
+
+[00:05:34] Ja, så det blir jo egentlig litt det samme som sentralbanker.
+
+[00:05:37] Enten at effekten tar flere kvartaler før det egentlig jobber seg gjennom systemet,
+
+[00:05:41] så den makseffekten av at bedrifter nå kanskje ikke får lån som de hadde håpet på,
+
+[00:05:47] ser man kanskje ikke i makrotallene før vi er et godt stykke ut i neste år.
+
+[00:05:52] Så det er en av de tingene som gjør jobben til sentralbankene veldig vanskelig,
+
+[00:05:55] at de faktorene som de kan påvirke nå, må prøve å analysere nå,
+
+[00:06:01] er ikke ting som man egentlig ser...
+
+[00:06:03] ordentlig i makrotallene før det har gått ganske lang tid,
+
+[00:06:07] og da er risikoen for å gjøre noe feil med å sette opp renten for mye til slutt,
+
+[00:06:10] som er egentlig sånn de fleste sykler som ender vanligvis, er absolutt til stede.
+
+[00:06:15] Så Fed har en viktig og vanskelig vurdering av hva de skal gjøre neste møte.
+
+[00:06:20] Noen nøkkeltall fra USA begynte å vise tegn til en økonomi som er på vei til å kjøle seg ned,
+
+[00:06:25] mens andre, som for eksempel arbeidsmarkedsrapporten for mars som kom på lang fredag,
+
+[00:06:32] den viser at...
+
+[00:06:33] økonomien fortsatt er veldig sterk.
+
+[00:06:36] Og i dag, rett før vi gikk inn i studiopål, så kom jo tal for prisveksten i USA,
+
+[00:06:42] som vel blir den ukens viktigste nøkkeltall, får vi tro.
+
+[00:06:48] Viste en kjerneinflasjon på 5,6 prosent, var det vel...
+
+[00:06:52] overskriftsinflasjonen var en tiddel bedre enn ventet,
+
+[00:06:56] og markedet reagerte med umiddelbar jubel, det.
+
+[00:07:00] Ja, det var litt bedre enn ventet.
+
+[00:07:03] Den første reaksjonen har begynt å reversere litt her, så det er jo litt, når det gjelder akkurat det med
+
+[00:07:09] inflasjonen, litt vanskelig å være sånn veldig bestandt i konklusjonen.
+
+[00:07:14] For det første så er det veldig mange forskjellige moving parts her, som gjør at hvilken variant av
+
+[00:07:20] inflasjonen du skal se på, om det er coreinflasjon eller supercoreinflasjon, det er veldig mange
+
+[00:07:26] forskjellige faktorer her, og måten jeg tenker på dette her er at det som egentlig er den viktigste
+
+[00:07:31] driveren på lengre sikt, er lønnssikkerhet.
+
+[00:07:33] Lønnsveksten. Sånn sett, vi må være forberedt på at det skal være en del volatilitet, og noen faktorer er
+
+[00:07:40] stikki, og andre er mindre stikki, men hvis lønnsveksten fortsatt er type 4% pluss om et år, så blir det veldig
+
+[00:07:47] vanskelig å få inflasjonen ned. Får du lønnsveksten ned under 3%, så er mye av jobben gjort, tror jeg.
+
+[00:07:54] Så jeg tror nok at gjennom alt støyet, så er det egentlig lønnsveksten som er den viktigste faktoren
+
+[00:07:58] å følge med på.
+
+[00:07:59] Du snakket jo om rentene, mener jeg jeg leste.
+
+[00:08:03] Nå er forventningene at snittet av økonomene tror at rentene skal kuttes i 2024, hvis vi ser på USA, ned mot 4%.
+
+[00:08:14] Vi er på 5% nå. Selv så klarer jeg liksom ikke å riste av meg den der følelsen at jeg tror rentene skal videre opp
+
+[00:08:22] en stund til. Men hva vet vel jeg? Hvor står du nå?
+
+[00:08:28] Jeg synes det er vanskelig egentlig å ha noe bedre.
+
+[00:08:33] Bedre vurdering enn den type samlet visdommen av de som handler i markedet.
+
+[00:08:40] Så jeg synes det er like bra som noe annet å bare se på hvordan Fed Funds Futures, hva de priser inn for eksempel.
+
+[00:08:48] Der er det jo folk som stiller ekte penger på bak disse veddemålene, så de har jo som alle insentiv til å gjøre en gundig jobb.
+
+[00:08:57] Så når vi ser på hva Fed Funds Futures priser inn, så er det ikke fullt ut priset inn i en renteøkning til,
+
+[00:09:03] for det så begynner man å prise inn kutt. Så jeg synes det er like fornuftig egentlig som noen annen type vurdering.
+
+[00:09:11] Men det er nettopp det som gjør at jeg synes det er vanskelig å egentlig bli helt overbevist at det blir en myk landing.
+
+[00:09:16] For i hvert fall de forventningene som ligger i Fed Funds Futures er at det da skal komme flere kutt etterhvert.
+
+[00:09:22] Og jeg ser ikke helt at det er grunnlag for det, men mindre vekst i økonomien bremser ganske kraftig etterhvert.
+
+[00:09:29] Nei.
+
+[00:09:30] Her hjemme så kom flyselskapet Norwegian med...
+
+[00:09:33] Trafikktall i går, tirsdag.
+
+[00:09:36] Der er det lite som tyder på at dette knekkpunktet hos konsumentene i hvert fall blir nådd i morgen eller over i morgen.
+
+[00:09:44] De leverte yield over forventning, meldte om bra trøkk i bookingen inn mot sommersesongen,
+
+[00:09:51] og analytikeren vår sier kjøp og gjentar kursmålet på 16 kroner.
+
+[00:09:58] Aksjen er i tid nå. Noen tanker om Norwegian case opphold?
+
+[00:10:03] Det er jo et veldig interessant selskap å følge med på nettopp,
+
+[00:10:06] fordi det er ikke så lett å se at konsumentene sliter med økonomien når de i hvert fall ser på hva Norwegian sier.
+
+[00:10:13] På den ene siden så hører man mye problemer som enkelte har med strømpriser og høyere renter,
+
+[00:10:21] men det er ikke like lett å se det i i hvert fall tallene til Norwegian enda.
+
+[00:10:27] Det illustrerer egentlig litt av en av de punktene som gjør jobben til sentralbanken veldig vanskelig.
+
+[00:10:33] Det er fortsatt mer penger på bok hos de fleste enn det pleier å være,
+
+[00:10:40] som fortsatt er en av de faktorene som henger igjen etter covid-perioden,
+
+[00:10:45] hvor det var egentlig en periode med tvangssparing, hvor du rett og slett hadde ikke mulighet til å bruke penger.
+
+[00:10:50] Så hvor fort det blir dratt ned, det er jo sånn at du fortsatt har en buffer å jobbe gjennom,
+
+[00:10:57] men på et eller annet tidspunkt så sier konsumenten at nå tør vi ikke å bruke mer enn vi,
+
+[00:11:03] vi har i inntekt, men helt hvor det punktet kommer er vanskelig å si.
+
+[00:11:06] Kanskje blant nordmenn så har vi vært såpass godt vant nå,
+
+[00:11:09] at det er lenge siden vi egentlig har hatt en ordentlig motgang i økonomien,
+
+[00:11:13] at det er nok kanskje en viss risiko for at enkelte da egentlig bare kjører den sparebufferen helt ned i null,
+
+[00:11:19] og regner med at opp til før eller senere så går dette bra, som det alltid gjør,
+
+[00:11:23] og at det da plutselig blir en del som kanskje strekker seg litt for langt nå med å prioritere ferier og så videre,
+
+[00:11:29] hvor de kanskje hadde hatt bedre av å beholde en buffer.
+
+[00:11:33] Vi vet ikke hvor dette knektpunktet er,
+
+[00:11:35] men det betyr jo også at hvis det tar litt lenger tid enn det mange tror,
+
+[00:11:40] så kan det være mer moro igjen for de som vil være aksjonærer i Norwegian,
+
+[00:11:45] i hvert fall i det korte bildet da.
+
+[00:11:47] Jeg tror det er et godt eksempel på en situasjon hvor det å følge med på aksjekursen er ganske spennende,
+
+[00:11:54] så litt sånn som det var innenfor for eksempel container i fjor,
+
+[00:11:59] hvor containeratene var fortsatt fantastisk,
+
+[00:12:01] men MPC Container klarte som ikke aksjekursen gjorde ikke så voldsomt mye i løpet av den perioden,
+
+[00:12:08] for det var nettopp det at markedet alltid ser fremover,
+
+[00:12:10] så hvis vi ser at Norwegian ikke egentlig leverer noe spesielt bra avkastning til tross for at du har disse gode nyhetene,
+
+[00:12:17] så kan man egentlig tolke det som at markedet begynner å lukte at ja, det går kanskje greit i sommer,
+
+[00:12:21] men så får man en hard landing til høsten eller begynnelsen av neste år.
+
+[00:12:26] Så det er det som følger med på at aksjekursen reflekterer de nyhetene,
+
+[00:12:30] hvis du ser at aksjekursen gjør noe annet enn det nyhetene kanskje indikerer,
+
+[00:12:34] så er det kanskje det at den wisdom of crowds nå ser igjennom en slags midlertidig god periode,
+
+[00:12:40] og at det er en smell etter det som er det man begynner å prise inn.
+
+[00:12:44] Vi har også fått BNP-tall og prisveksttall for norsk økonomi denne uken.
+
+[00:12:51] Kyr Omdahl fra gjengen på makroanalyse her i DNB,
+
+[00:12:56] han stakk hodet innom studio her tidligere i dag for en oppsummering,
+
+[00:13:00] for å dele sitt syn på hva dette betyr for Norges Bank og styringsrenten.
+
+[00:13:06] Norges Bank satte renten opp i mars,
+
+[00:13:10] og varslet samtidig at renten vil bli hevet videre på møte i mai.
+
+[00:13:16] Noen av de viktigste nøkkeltallene å følge for å se om Norges Bank faktisk vil heve i mai,
+
+[00:13:23] er både inflasjonstallene og utviklingen i aktiviteten.
+
+[00:13:28] Det siste målt gjerne ved BNP.
+
+[00:13:30] I dag fikk vi BNP-tall for norsk økonomi,
+
+[00:13:34] som viste en nedgang på 0,2 prosent for fastlandsøkonomien.
+
+[00:13:38] Det var helt et tråd med de anslagene Norges Bank hadde,
+
+[00:13:41] og litt under tallene ser vi at vi fikk litt opprevideringer for januar,
+
+[00:13:49] og det var litt mer tilfeldig utslag som trakk veksten ned i februar.
+
+[00:13:55] Så om noe var tallene kanskje et knepp bedre enn det Norges Bank hadde anslått,
+
+[00:14:00] på forhånd, og tyder på at aktiviteten i økonomien holder seg ganske bra oppe.
+
+[00:14:07] Inflasjonstallene for mars viste en vekst i kjerneprisene på 6,2 prosent.
+
+[00:14:16] Det var helt i tråd med det Norges Bank hadde anslått på forhånd.
+
+[00:14:21] Samlet prisvekst var noe høyere, 6,5 prosent,
+
+[00:14:25] og sterkere enn Norges Bank hadde anslått,
+
+[00:14:27] men dette må i stor grad tilskrives litt,
+
+[00:14:30] altså i tilfeldige svingninger i elektrisitetsprisene.
+
+[00:14:34] Her tror vi nok vi kommer til å få ganske betydelig fall i veksttakten
+
+[00:14:38] når vi ser fremover i år.
+
+[00:14:41] Så for disse to hovedkomponentene har utviklingen vært helt i tråd med forventningene,
+
+[00:14:46] eller kanskje litt på oppsiden,
+
+[00:14:49] og da er det ingen grunn for Norges Bank til å avlyse den renteøkningen de hadde planlagt for mai.
+
+[00:14:55] De siste dagene har det også vært ganske mye volatilitet i den norske kronen.
+
+[00:15:00] Og det var en viktig faktor for sentralbanken.
+
+[00:15:04] Det er en midlertid slik at de lar seg nok ikke påvirke av de veldig kortsiktige svingningene
+
+[00:15:10] når de skal fastsette renten.
+
+[00:15:13] Så det har nok lite betydning i forhold til renteøkningen som planlegges for mai.
+
+[00:15:21] Ja, Paul, hva er det som betyr mye for både Oslobørs og også utviklingen i norsk økonomi
+
+[00:15:29] som vi ikke...
+
+[00:15:30] ...har gjort noe annet enn å bare tørte seg innom så langt?
+
+[00:15:34] Veldig vanskelig å komme unna alle når det gjelder Oslobørs,
+
+[00:15:37] så det er nok det du sikter til, typer jeg.
+
+[00:15:39] Det er det, vet du. Den var ikke vanskelig, den der.
+
+[00:15:41] OPEC, de tok oss litt på sengen, det kan man vel si, i starten av påsken
+
+[00:15:46] med et overraskende nytt produksjonskutt på 1,15 millioner fat per dag fra mai og til årslutt.
+
+[00:15:54] I tillegg så sa Russland at de vil fortsette det annonserte kuttet på en halv million,
+
+[00:16:00] mannfat per dag, fram til årslutt.
+
+[00:16:04] Og nå skal vi få høre hvordan oljehøvdingen vår her på huset,
+
+[00:16:08] Helge-Andre Martinsen, vurderer dette og veien videre for oljeprisen.
+
+[00:16:13] Vi tenkte vi må se på noen elementer ved dette kuttet som er litt spesielt.
+
+[00:16:18] Det ene er at det er et frivillig kutt, så det holdes egentlig utenfor OPEC plussamarbeidet.
+
+[00:16:22] Det er ingen konsensusbeslutning.
+
+[00:16:25] Det betyr også at disse kuttene kan rask reverseres,
+
+[00:16:28] uten noe...
+
+[00:16:30] noe OPEC-møtene.
+
+[00:16:32] Punkt to er at vi tror disse kuttene blir veldig effektive,
+
+[00:16:35] kanskje over 80% effektive,
+
+[00:16:36] og det er fordi at disse få landene som er med på dette kuttet
+
+[00:16:39] produserer nærproduksjonskuttene,
+
+[00:16:43] så dette kuttet blir veldig reelt.
+
+[00:16:46] Og så ser vi på hvordan dette kommer til å påvirke oljemarkedsbalansen,
+
+[00:16:50] og vi ser på hvordan balansen så ut før disse kuttene,
+
+[00:16:53] så vippet markedet på åretall i undersupply fra juni,
+
+[00:16:59] og lå vi med et undersupply,
+
+[00:17:00] underskudd i andre halvår på 600 000 fat per dag.
+
+[00:17:04] Med disse kuttene, alt annet like,
+
+[00:17:06] så vipper oljemarkedet nå i undersupply fra mai,
+
+[00:17:10] og underskuddet på oljemarkedet blir i snitt av 1,5 millioner fat i andre halvår.
+
+[00:17:17] Og det betyr at vi får en betydelig tilstramming i oljemarkedet fra dagens nivå,
+
+[00:17:24] så vi får en kombinasjon av stramt marked, lagertrekk,
+
+[00:17:29] og fortsatt relativt lav lederproduksjonskapasitet globalt,
+
+[00:17:36] som gjør at vi tror oljeprisen kan snike seg over den magiske 100-dollarsgrensen i løpet av høsten.
+
+[00:17:45] Ja, Paul, hva tror du ligger bak OPEC's kutt?
+
+[00:17:48] Har du noen spennende teorier?
+
+[00:17:51] Jeg tror det enkleste forklaringen er som regel det som viser seg å være riktig,
+
+[00:17:56] og de har jo åpenbart en egen interesse av å sørge for at oljeprisen,
+
+[00:17:59] oljeprisen er helst 80 pluss, eller et eller annet sted under 80,
+
+[00:18:04] så jeg tror ikke det er så veldig mye mer komplisert enn det.
+
+[00:18:08] Men det viser jo også at Saudi er litt mindre villig nå til å være samarbeidsvillig med USA,
+
+[00:18:15] og det er jo kanskje egentlig litt sånn interessant punkt når man tenker på det store bildet her,
+
+[00:18:19] at USA og Saudi har tidligere vært gode venner,
+
+[00:18:23] i hvert fall når det gjelder samarbeid rundt olje- og oljeprisen,
+
+[00:18:27] mens den relasjonen der i hvert fall med Biden og ledelsen i Saudi har blitt en del kjøligere,
+
+[00:18:34] så det er klart det er noe som kanskje også har litt større implikasjoner utover akkurat oljeprisen,
+
+[00:18:41] så det er kanskje det som er mest interessant av dette her, synes jeg.
+
+[00:18:44] Ja, definitivt. En høyere oljepris vil jo også påvirke inflasjonen,
+
+[00:18:50] det vil også påvirke inntjeningen til oljeselskapene,
+
+[00:18:53] og selvfølgelig situasjonen til leverandørene på Oslo,
+
+[00:18:57] du var forberedt, du, Paul, med flere oljerelaterte aksjer i porteføljen,
+
+[00:19:03] som du oppdaterer hver mandag med anbefalte aksjer.
+
+[00:19:07] Det er jo en formelvis hyggelig oppside der,
+
+[00:19:12] for aksjene visse 100 dollar, som Helge-Andre snakket om,
+
+[00:19:15] blir en realitet over en lengre periode?
+
+[00:19:18] Ja, det som ligger i Bloomberg-konsensus er i hvert fall et stykke under 100 dollar,
+
+[00:19:23] så hvis det viser seg å være riktig, så skal estimatene opp,
+
+[00:19:27] og på kort sikt så er det kanskje heller litt mer nedsidig risikoestimatene,
+
+[00:19:31] når oljepris, eller i hvert fall spottpris nå, er litt under det som er i konsensus.
+
+[00:19:36] Når det gjelder rukesporteføljen, så har jeg egentlig prøvd å være relativt nøytral
+
+[00:19:40] innenfor energi, med tanke på at vi liker sektoren på lengre sikt,
+
+[00:19:45] men det er vanskelig å vite helt riktig timing,
+
+[00:19:47] så da venter jeg med å gå overvekt før jeg begynner å se de tegnene
+
+[00:19:53] til at oljeprisen begynner å trekke oppover igjen,
+
+[00:19:55] og så er det en umiddelbar reaksjon etter OPEC-kuttet.
+
+[00:19:58] Etter den første dagen har det gått mer sidelengs etter det,
+
+[00:20:03] så jeg er litt usikker om det var nok til å snu den negative trenden eller ikke.
+
+[00:20:09] Jeg lurer på om kanskje det ikke er helt nok,
+
+[00:20:11] og det er jo også en sånn type resesjonssignal,
+
+[00:20:14] eller i hvert fall noe man må følge litt med på i den sammenhengen der.
+
+[00:20:18] Men det er et sånn neutral fremtid vi begynner å se at ting begynner å gå riktig vei her, synes jeg.
+
+[00:20:23] Ok, da må vi også...
+
+[00:20:25] Nevne når vi er innom oljeaksjene for analysetime,
+
+[00:20:30] har startet dekning av OK-aksjen med en kjøpsambefaling og kursmål på 41 kroner.
+
+[00:20:39] Her er det produksjonsvekst med tilhørende inntektshopp og utbytte som frister på.
+
+[00:20:46] Ja, det er jo egentlig et interessant selskap.
+
+[00:20:48] Vi har en litt annen strategi enn det mange oljeselskap har,
+
+[00:20:52] med at i stedet for å...
+
+[00:20:55] Nye fokus på leting, så er det mer det å prøve å utvikle og utnytte eksisterende felt mest mulig.
+
+[00:21:03] Og klart det er jo en ganske sånn interessant og fornuftig strategi,
+
+[00:21:07] det å slippe den risikoen om du finner olje eller ikke når du driver og borrer,
+
+[00:21:12] at der er det egentlig lettere å regne på ting når det egentlig er snakk om
+
+[00:21:16] å prøve å vurdere hvor lenge produksjonen varer,
+
+[00:21:20] heller om du finner olje eller ikke.
+
+[00:21:23] Så interessant selskap.
+
+[00:21:25] Får du liksom en litt annen risikoprofil enn du gjør med andre selskap,
+
+[00:21:28] men det er jo også sånn at når det er mest modne felt,
+
+[00:21:32] så må de jo hele tiden egentlig utvikle selskapet,
+
+[00:21:35] sånn at produksjonen ikke da bare dabber av etterhvert.
+
+[00:21:38] For klart det er jo en viktig forskjell med at i stedet for å ha en portefølje av prosjekter
+
+[00:21:45] og bygge ut, så må de da etterhvert kjøpe seg inn i andre felt
+
+[00:21:48] hvis de skal holde produksjonsveksten i gang.
+
+[00:21:50] Ja, ikke sant? Og hvorfor skal man eie OKA i stedet for...
+
+[00:21:55] Ja, ikke BP, eller Equinor, eller vår energi,
+
+[00:21:59] og det Steffen Evjen, som er analytikeren vår på CASE,
+
+[00:22:03] som har vært her flere ganger i podkasten, sier,
+
+[00:22:06] det er jo liksom at det som skiller OKA fra de andre,
+
+[00:22:08] det er at de har en sterkere kontantstrøm i det korte bildet,
+
+[00:22:12] og at oppsiden relaterer seg til evnen til å øke reserver og produksjon
+
+[00:22:16] nettopp fra disse eksisterende feltene,
+
+[00:22:20] så det blir mer sånn kortsyklisk da,
+
+[00:22:21] og man slipper mer langsiktig prosjektrisiko,
+
+[00:22:25] men baksiden er at det stort sett er felt som er inne i siste fase av levetiden,
+
+[00:22:30] så hvis de misslykkes med dette her,
+
+[00:22:32] så er det jo raskere vei til svakere kontantstrøm og nedgang i produksjonen.
+
+[00:22:38] Ja, det er jo alltid litt sånn at du må velge den risikoprofilen du vil ha,
+
+[00:22:43] og være klar over hvilke veddemål du egentlig tar
+
+[00:22:45] når det gjelder disse energiselskapene,
+
+[00:22:49] og det å unngå exploration risiko er en positiv,
+
+[00:22:52] men sånn du sier, den langsiktige veksten,
+
+[00:22:55] det er vanskeligere egentlig å vurdere,
+
+[00:22:57] for da må de sette av penger til å gjøre ytterligere kjøp etter hvert.
+
+[00:23:02] Avslutningsvis i dag så skal vi snakke litt om Nordic Semen Conductor
+
+[00:23:07] og forventningene inn mot rapporteringssesongen,
+
+[00:23:11] men nå skal det handle om Benchmark Holdings,
+
+[00:23:15] som ble børsnotert i desember i fjor.
+
+[00:23:19] Selskapet er blant annet leverandør av laksegg og genetikk
+
+[00:23:23] til oppdrettsbransjen.
+
+[00:23:26] De er leverandør av fôr til den globale rekeindustrien,
+
+[00:23:31] og så er det egne løsninger for behandling av lakselus.
+
+[00:23:35] Tidligere i dag hadde jeg besøk her i studio av Trond Williksen,
+
+[00:23:39] som er sjefen i Benchmark Holdings,
+
+[00:23:43] for å få en kort status og løpemelding.
+
+[00:23:51] Velkommen tilbake i studio, Trond.
+
+[00:23:53] Takk for det. Hyggelig å være tilbake.
+
+[00:23:55] Du besøkte oss her i slutten av julen,
+
+[00:23:58] i januar tidligere i år.
+
+[00:24:00] Da fikk vi en innføring i hvem Benchmark Holdings er,
+
+[00:24:03] og hva dere gjør, og den oppdateringen her,
+
+[00:24:06] den er for øvrig fortsatt tilgjengelig på videosidene
+
+[00:24:09] i aksjonsløsningen og analyseportalen til DNB,
+
+[00:24:13] for de av dere lyttere som ønsker å gå inn og se den.
+
+[00:24:16] En ting som du undersøket forrige gang vi snakket sammen, Trond,
+
+[00:24:20] det var at dere gikk på børs i desember 2022
+
+[00:24:24] som et ferdig restrukturert selskap,
+
+[00:24:28] som systematisk skal bygge sten på sten
+
+[00:24:31] og levere forbedring kvartal for kvartal.
+
+[00:24:34] Så første spørsmål i dag får bli da.
+
+[00:24:37] Har dere klart å holde jevn fart som støtter opp under dette
+
+[00:24:41] siden du var her sist?
+
+[00:24:43] Tre måneder er jo ikke så mye i den store sammenhengen,
+
+[00:24:45] men det er noe litt.
+
+[00:24:46] Ja, å svare på det er ja, det har vi klart.
+
+[00:24:50] Siden sist har vi også publisert våre tall
+
+[00:24:55] for første kvartal i vårt finansår.
+
+[00:24:58] Det er avvikende finansår som starter 1. oktober.
+
+[00:25:00] Og det understreker det.
+
+[00:25:02] Der har vi en betydelig oppgang i inntekter.
+
+[00:25:06] 36 prosent.
+
+[00:25:07] Vi har økt vår EBTA med 61 prosent,
+
+[00:25:10] og vi har økt kontantstrøm fra drift
+
+[00:25:12] med gode bidrag fra alle tre forretningsområder.
+
+[00:25:16] Så har vi absolutt fortsatt det løpet
+
+[00:25:20] som vi har hatt over de siste årene
+
+[00:25:21] og de siste kvartalene.
+
+[00:25:22] Og dette er det niende kvartalet vi rapporterte da,
+
+[00:25:26] som hadde en konsistent
+
+[00:25:28] økning både i topplinje,
+
+[00:25:29] men mer viktig i innkjenning for selskapet.
+
+[00:25:34] Siden den gang så har også
+
+[00:25:36] analysetimet til Denby Market
+
+[00:25:38] startet dekning av benchmark holdings,
+
+[00:25:41] og det gjorde de med en kjøpsambefaling
+
+[00:25:43] og et kursmål på 6 kroner og 80 øre.
+
+[00:25:47] Det betyr nesten en 40 prosents oppside
+
+[00:25:51] i forhold til dagens kurs på rundt 5 kroner.
+
+[00:25:56] Hva er den viktigste feedbacken
+
+[00:25:58] du har fått den siste tiden
+
+[00:26:01] i samtale med nye investorer?
+
+[00:26:03] Først må jeg jo si at jeg synes det er bra
+
+[00:26:05] at Denby har tatt opp dekning.
+
+[00:26:06] Det er viktig for oss nå å synliggjøre selskapet.
+
+[00:26:10] Den viktigste feedbacken er jo kanskje
+
+[00:26:12] at investorerne synes at dette er
+
+[00:26:14] et interessant selskap.
+
+[00:26:16] Et selskap de har visst om litt over lang tid,
+
+[00:26:21] som har kommet ut i en ny drakt,
+
+[00:26:23] men som kanskje ikke har vært så veldig kjent i Norge
+
+[00:26:26] og så mye profilert i Norge.
+
+[00:26:28] Og rundt Oslo Børs for investorer her.
+
+[00:26:31] Så det er jo veldig viktig for oss nå
+
+[00:26:34] å synliggjøre hva dette selskapet er
+
+[00:26:37] og hvilke potensialer som er i det.
+
+[00:26:40] Det andre viktige feedbacken er jo at
+
+[00:26:43] folk legger merke til den progresjonen vi har hatt
+
+[00:26:47] siden vi gjorde restruktureringen
+
+[00:26:49] ved slutten av vårt finansår 2020
+
+[00:26:52] og ser den konsistente forbedringen vi har i drift
+
+[00:26:58] og det er også veldig viktig for oss
+
+[00:27:00] å fortsette den utviklingen i selskapet
+
+[00:27:03] og ta ut potensialet i det som ligger i benchmark.
+
+[00:27:06] Dere har jo et bredt spenn i forretningsområdene.
+
+[00:27:10] Vi skal tørte seg inn på et paradig etterpå.
+
+[00:27:13] Det gjør at det ikke er så enkelt å finne
+
+[00:27:15] direkte sammenlignbare aksjer
+
+[00:27:18] som gjør akkurat det dere gjør.
+
+[00:27:21] Er det noe du opplever at investorerne misforstår
+
+[00:27:23] når det kommer til hva som er investeringscase i benchmark?
+
+[00:27:28] Jeg vil ikke si at de misforstår det.
+
+[00:27:29] Det er jo slik at vi har tre forretningsområder
+
+[00:27:32] og det krever selvfølgelig litt tid
+
+[00:27:34] å sette seg inn i hva disse tre forretningsområdene er.
+
+[00:27:38] Jeg tror det heller reflekterer litt over
+
+[00:27:41] at investorer blir litt overrasket
+
+[00:27:45] over hvor relevant vårt fotavtrykk er
+
+[00:27:48] i akvakulturnæringen.
+
+[00:27:51] I Norge er man jo veldig vant til lakseselskapet
+
+[00:27:54] som har et veldig relevant fotavtrykk
+
+[00:27:57] innenfor lakseselskapet.
+
+[00:27:58] Laks er en veldig bedt på laksindustrien.
+
+[00:28:01] Det er også vi, men vi har jo et mye bredere fotavtrykk
+
+[00:28:07] i den store akvakulturindustrien,
+
+[00:28:11] også internasjonalt.
+
+[00:28:12] Det tror jeg overrasker noen.
+
+[00:28:15] Så tror jeg noen trenger litt tid på å forstå
+
+[00:28:19] kjernen i strategien vår.
+
+[00:28:22] Det at vi er innenfor akvakultur,
+
+[00:28:23] at vi har et relevant fotavtrykk der,
+
+[00:28:26] at vi er markedsledende,
+
+[00:28:28] på det vi gjør,
+
+[00:28:29] og vi gjør kun ting hvor vi kan være markedsledende,
+
+[00:28:32] eller er markedsledende,
+
+[00:28:34] eller kan være markedsledende.
+
+[00:28:36] Det forholdet er at vi leverer
+
+[00:28:38] høyt spesialiserte produkter og løsninger
+
+[00:28:40] som gir høye marginer.
+
+[00:28:43] Vi er ikke i commodity.
+
+[00:28:45] Og det forholdet som er en viktig del av vår strategi
+
+[00:28:48] er at vi driver kun å levere ting
+
+[00:28:50] som er mission critical.
+
+[00:28:52] Det vil si at vi ikke er så avhengige
+
+[00:28:55] av svingninger i akvakulturindustrien
+
+[00:28:57] i akvakulturindustrien,
+
+[00:28:58] som andre aktører er.
+
+[00:29:00] Forrige gang vi snakket sammen,
+
+[00:29:01] da trakk det også frem noen viktige milepeler
+
+[00:29:04] som jeg tenkte kunne være greit
+
+[00:29:05] å få en oppdatering fra deg på,
+
+[00:29:09] hvordan det går.
+
+[00:29:10] Og det ene, det var forretningsområdet helse.
+
+[00:29:14] Og analytikerne våre,
+
+[00:29:15] de venter jo blant annet at utrullingen av
+
+[00:29:18] nettopp nye løsninger mot lakselus,
+
+[00:29:20] som dette området dreier seg om,
+
+[00:29:22] vil gi en stigende omsetning og inntjening
+
+[00:29:26] for fiskehelseområdet i årene.
+
+[00:29:28] Fremover, så spørsmålet blir vel,
+
+[00:29:29] er dere på rett vei?
+
+[00:29:30] Altså, hva er det viktigste som har skjedd her
+
+[00:29:32] så langt i år?
+
+[00:29:33] Absolutt på rett vei,
+
+[00:29:34] og det viser jo tallene for vårt førstekvartal
+
+[00:29:36] i finansåret 2023.
+
+[00:29:39] Altså, hvis du sammenligner det med et år tilbake,
+
+[00:29:42] så går det nesten fra null til over 4 millioner pund
+
+[00:29:46] i EBITDA på dette forretningsområdet.
+
+[00:29:48] Så det viser jo på mange måter potensialet,
+
+[00:29:50] selv om vi er, og jeg betrakter det også,
+
+[00:29:52] å være i en veldig tidlig fase
+
+[00:29:54] når det gjelder utrullingen av den løsningen også.
+
+[00:29:58] Viktigste innenfor det området er jo
+
+[00:30:00] at vi har fått et høyt opptak av løsningen.
+
+[00:30:03] Vi ser stadig flere oppdrettere bruke den,
+
+[00:30:06] og det reflekterer jo seg i tallene.
+
+[00:30:08] Og så er det jo den kontinuerlige jobben vi gjør
+
+[00:30:11] med å forbedre vår operasjon.
+
+[00:30:13] Vi har hatt gode forbedringer i
+
+[00:30:15] å bli mer effektive i vår operasjon på området.
+
+[00:30:19] Også å bli mer capital light i løsningen.
+
+[00:30:26] Vi har blant annet inngått
+
+[00:30:27] et samarbeid med MMC,
+
+[00:30:29] som er en ledende leverandør av teknologi til brønnbåter,
+
+[00:30:33] og Salt, som er et ledende designselskap,
+
+[00:30:36] for å integrere clean-tritt-systemet
+
+[00:30:38] inn i brønnbåter.
+
+[00:30:39] Og det vil gjøre løsningen mer integrert,
+
+[00:30:41] billigere for oppdrettere,
+
+[00:30:43] og også mer capital light for oss
+
+[00:30:47] som leverandør.
+
+[00:30:49] Ja, for av produktene her
+
+[00:30:51] så trakte du vel fram forrige gang
+
+[00:30:52] Ektosan, er det ikke det det heter,
+
+[00:30:55] som er lusebehandling,
+
+[00:30:57] som du bruker sammen med
+
+[00:30:59] dette du nevnte, clean-tritt,
+
+[00:31:01] som er vannrensing.
+
+[00:31:03] Det som er positivt her,
+
+[00:31:05] er det at dere ser økt villighet
+
+[00:31:07] av kunden og næringen
+
+[00:31:09] til å bruke dette her?
+
+[00:31:11] Ja, vi ser økt villighet,
+
+[00:31:13] og vi må ta innover oss det,
+
+[00:31:15] og dette er ofte litt vanskelig å ta innover seg,
+
+[00:31:17] når du har noe som du mener er en veldig god løsning.
+
+[00:31:19] Selv om du har en veldig god løsning,
+
+[00:31:21] som er veldig effektiv for å fjerne lus,
+
+[00:31:23] og er miljømessig,
+
+[00:31:25] det renser vannet etter badevannet,
+
+[00:31:27] så tar det litt tid for opptretterne
+
+[00:31:29] å bli vant til løsninger,
+
+[00:31:31] og ta det inn i verktøykassa si,
+
+[00:31:33] for de har allerede andre verktøy
+
+[00:31:35] som de bruker.
+
+[00:31:37] Så noe av det viktigste som har skjedd,
+
+[00:31:39] er jo på mange måter at flere og flere opptrettere
+
+[00:31:41] ser hva dette er,
+
+[00:31:43] og bruker det.
+
+[00:31:45] Hva er det dere gjør da,
+
+[00:31:47] for å åbevise dem til å bruke
+
+[00:31:49] deres midler,
+
+[00:31:51] i stedet for det de har vært vant til å bruke?
+
+[00:31:53] Nei, det er jo,
+
+[00:31:55] altså, alle ser jo på det,
+
+[00:31:57] det er jo på lakselus som en av de store utfordringene
+
+[00:31:59] for næringen.
+
+[00:32:01] Det er i mange måter noe som capper næringen,
+
+[00:32:03] og som har enorme kostnader.
+
+[00:32:05] Så det beste måten å overbevise den kunden på,
+
+[00:32:07] er jo å vise dette i praksis.
+
+[00:32:09] La kunden få prøve det,
+
+[00:32:11] erfare det.
+
+[00:32:13] Og når en kunde gjør det,
+
+[00:32:15] så er næringen slik,
+
+[00:32:17] at da hører ofte de andre
+
+[00:32:19] på hva som er bra,
+
+[00:32:21] og da sprer det seg gradvis,
+
+[00:32:23] men det tar litt tid.
+
+[00:32:25] Det andre du trakk frem,
+
+[00:32:27] når du var her forrige gang,
+
+[00:32:29] det var å lykkes med ulike veksteinitiativer
+
+[00:32:31] innen genetikkområdet.
+
+[00:32:33] Så går salget her som planlagt?
+
+[00:32:35] Vel, det går
+
+[00:32:37] fremover, og det har en progresjon.
+
+[00:32:39] Et salg går aldri
+
+[00:32:41] som planlagt, et salg går aldri
+
+[00:32:43] raskt nok for noen.
+
+[00:32:45] Det er jo slik det er, men vi føler at
+
+[00:32:47] vi er på god vei.
+
+[00:32:49] Det er jo egentlig to store vekstfaktorer der.
+
+[00:32:51] Det ene er vår satsning på
+
+[00:32:53] å introdusere laksegenetikk
+
+[00:32:55] i Chile, hvor vi er vel investert,
+
+[00:32:57] og hvor vi jobber med å penetrere markedet
+
+[00:32:59] på en ansvarlig måte.
+
+[00:33:01] Det går fremover,
+
+[00:33:03] men igjen
+
+[00:33:05] så er vi tilbake til samme type
+
+[00:33:07] problemstillinger. Vi ønsker jo alltid
+
+[00:33:09] at det skal skje raskere, men det tar litt tid
+
+[00:33:11] å bygge relasjoner til kundene,
+
+[00:33:13] og bygge på en måte trygghet rundt
+
+[00:33:15] det produktet vi har, og vi er
+
+[00:33:17] på den veien når det gjelder
+
+[00:33:19] vår satsning på laksegenetikk i Chile.
+
+[00:33:21] Det andre store vektoren er jo
+
+[00:33:23] rækegenetikk, hvor vi har
+
+[00:33:25] gjort grunnarbeid.
+
+[00:33:27] Vi har en veldig god
+
+[00:33:29] avvalgskjerne som er
+
+[00:33:31] høy kvalitets,
+
+[00:33:33] og som vi brukte
+
+[00:33:35] siste år på den første
+
+[00:33:37] kommersielle runden på.
+
+[00:33:39] Vi høste nå erfaringen fra den runden,
+
+[00:33:41] og forskjellen mellom et rækemarked og et laksemarked
+
+[00:33:43] er at i et rækemarked så er det ikke
+
+[00:33:45] one size fits all. Det er store variasjoner
+
+[00:33:47] mellom de ulike
+
+[00:33:49] geografiske produksjonsområdene.
+
+[00:33:51] Vi bruker litt dette året her til
+
+[00:33:53] å kjune genetikken
+
+[00:33:55] for å tilpasse den
+
+[00:33:57] de ulike produksjonsområdene rundt om
+
+[00:33:59] i de ulike viktige
+
+[00:34:01] produksjonsregionene.
+
+[00:34:03] Så det er vårt fokus nå.
+
+[00:34:05] Også vil vi se effekten av det igjen
+
+[00:34:07] når vi kommer ut med nye runder av genetikk
+
+[00:34:09] fra slutten av dette året og utover.
+
+[00:34:11] Dere er
+
+[00:34:13] notert på Euronext
+
+[00:34:15] Growth, altså, hva skal vi kalle det?
+
+[00:34:17] Juniorbørsen, pleier jeg av og til å si i dag.
+
+[00:34:19] Men dere sikter fortsatt mot
+
+[00:34:21] hovedlisten, gjør dere ikke det, Trond?
+
+[00:34:23] Det gjør vi. Det gjør vi. Jeg mener jo at
+
+[00:34:25] dette er et selskap som
+
+[00:34:27] absolutt hører til på hovedlisten.
+
+[00:34:29] Også er det en vei dit.
+
+[00:34:31] Vi er fornøyde med at vi har kommet oss på Euronext Growth
+
+[00:34:33] nå for å begynne å bygge opp
+
+[00:34:35] en forståelse av selskapet
+
+[00:34:37] rundt Oslo Børs og rundt investorer
+
+[00:34:39] i Oslo Børs. Også er vi
+
+[00:34:41] i en dialog med våre aksjonærer rundt
+
+[00:34:43] hvordan vi tar dette videre.
+
+[00:34:45] Inkludert hvordan vi behandler våre eksisterende
+
+[00:34:47] aksjonærer som også, noen av de er
+
+[00:34:49] jo
+
+[00:34:51] handleaksjer
+
+[00:34:53] på volontering i London.
+
+[00:34:55] Bra det, Trond!
+
+[00:34:57] For å konkludere da, for meg så høres det ut som at
+
+[00:34:59] ferden mot
+
+[00:35:01] lønnsomhet fortsetter
+
+[00:35:03] som planlagt.
+
+[00:35:05] Så vidt jeg kunne se, så er neste
+
+[00:35:07] i hvert fall
+
+[00:35:09] planlagt oppdatering fra dere
+
+[00:35:11] den kommer i forbindelse
+
+[00:35:13] med Q2-rapporten
+
+[00:35:15] 23. mai.
+
+[00:35:17] Det stemmer. Så bra.
+
+[00:35:19] Da ser vi frem til å høre mer
+
+[00:35:21] fra dere da. Tusen takk
+
+[00:35:23] for at du stakk inn nå.
+
+[00:35:25] Ja, Paul. Benchmark Holdings
+
+[00:35:32] er en spennende aksje.
+
+[00:35:34] Det er litt krevende å sette seg inn i
+
+[00:35:36] da, ettersom det er flere ulike
+
+[00:35:38] produkter og
+
+[00:35:40] tjenester de holder på med.
+
+[00:35:42] Men man blir jo kjent med dette her
+
+[00:35:44] jo mer man leser seg opp og
+
+[00:35:46] følger med. Aksjen er dessverre
+
+[00:35:48] foreby ganske så lite
+
+[00:35:50] likvid da, men det
+
+[00:35:52] endrer seg jo forhåpentligvis dersom
+
+[00:35:54] de leverer som analytikerne
+
+[00:35:56] våre tror at de
+
+[00:35:58] vil gjøre. Men det
+
+[00:36:00] gjenstår å se. Nå skal vi snakke
+
+[00:36:02] om Nordic
+
+[00:36:04] semikonduktor. Tirsdag denne uken
+
+[00:36:06] så sendte analysetimen ut
+
+[00:36:08] en oppdatering på den.
+
+[00:36:10] Der de kuttet kursmålet fra 230
+
+[00:36:12] til 195 kroner.
+
+[00:36:14] Men gjentar
+
+[00:36:16] kjøpsanbefalingen nå.
+
+[00:36:18] Nordic, som vi har snakket om en del ganger før,
+
+[00:36:20] Paul, de er jo godt posisjonert
+
+[00:36:22] i chipverdenen. De tjener penger.
+
+[00:36:24] Men så har vi dette
+
+[00:36:26] med rente- og resesjonsbakteppe
+
+[00:36:28] da, pluss at det er
+
+[00:36:30] litt sånn leveranseutfordringer
+
+[00:36:32] og andre ting.
+
+[00:36:34] I sum er Nordic nå
+
+[00:36:36] en litt sånn tålmodighetsaksje?
+
+[00:36:38] Ja, jeg synes det er vanskelig.
+
+[00:36:40] Med en gang selskaper begynner å
+
+[00:36:42] få negative estimatjusteringer,
+
+[00:36:44] så synes jeg det blir veldig vanskelig
+
+[00:36:46] egentlig å vurdere som prising om det er
+
+[00:36:48] riktig eller ikke. For det er klart
+
+[00:36:50] alle prisingsmultipler da som er
+
+[00:36:52] basert på inntjening, så må du
+
+[00:36:54] liksom legge til grunn at inntjenings-
+
+[00:36:56] forventningen er noglunde riktig.
+
+[00:36:58] Men da hvis du ser at
+
+[00:37:00] de da har hatt flere kvartaler nå hvor estimatet
+
+[00:37:02] har blitt kuttet, så må du da
+
+[00:37:04] begynne å legge til en ekstra discount til
+
+[00:37:06] den P-multiplen eller hvilken
+
+[00:37:08] multiplen det er du velger å bruke.
+
+[00:37:10] Så jeg synes det er veldig vanskelig akkurat nå
+
+[00:37:12] å egentlig prøve å regne seg frem til hva
+
+[00:37:14] er egentlig fair value i denne aksjen.
+
+[00:37:16] Så for min del, før
+
+[00:37:18] jeg liksom ville vurdere å ta det inn i
+
+[00:37:20] ukesportefølgen igjen, så ville jeg egentlig se at de klarer
+
+[00:37:22] å få litt stabilitet i
+
+[00:37:24] inntjeningsforventningen da. At de helst klarer å rapporterer
+
+[00:37:26] en bra nok kvartal
+
+[00:37:28] til at analytikerne slipper å
+
+[00:37:30] kutte estimatene videre, og da kan man
+
+[00:37:32] i det minste være litt
+
+[00:37:34] mer trygg på at det som ligger
+
+[00:37:36] i forventningen er noe som de klarer å oppnå.
+
+[00:37:38] Men fra et litt sånn big picture
+
+[00:37:40] perspektiv, er Nordic
+
+[00:37:42] Semiconductor et
+
+[00:37:44] godt eksempel på en aksje man skal eie
+
+[00:37:46] hvis resesjonen blir mild og
+
+[00:37:48] rentene samtidig
+
+[00:37:50] blir kuttet?
+
+[00:37:52] Nordic er litt sånn at
+
+[00:37:54] det er to forskjellige segmenter
+
+[00:37:56] rettvis, og det er en sånn strukturell vekstcase
+
+[00:37:58] som du kan se at da er det
+
+[00:38:00] ikke så avhengig av veksten
+
+[00:38:02] i økonomien, spesielt
+
+[00:38:04] da med tanke på sånn type Internet of Things
+
+[00:38:06] og sånne type områder
+
+[00:38:08] hvor det er et enormt vekstpotensial
+
+[00:38:10] som kommer og ikke egentlig er
+
+[00:38:12] så avhengig av syklussen
+
+[00:38:14] på kort sikt.
+
+[00:38:16] Men på den andre siden så har de også da
+
+[00:38:18] en del type sånn
+
+[00:38:20] Bluetooth-produkter som ikke er
+
+[00:38:22] like avansert, og det blir nok
+
+[00:38:24] mer syklisk. Så det har en blanding
+
+[00:38:26] av en slags syklisk
+
+[00:38:28] inntjening og en mer sånn strukturell vekst
+
+[00:38:30] inntjening. Og kanskje noe
+
+[00:38:32] av problemet Nordic har
+
+[00:38:34] hatt er at de kanskje har overvurdert litt
+
+[00:38:36] hvor fort den strukturelle vekstdelen
+
+[00:38:38] kommer inn i inntjeningen
+
+[00:38:40] og kanskje da undervurdert
+
+[00:38:42] hvor stor andel av inntjeningen
+
+[00:38:44] har vært en litt mer sånn type
+
+[00:38:46] low-tech, kanskje litt
+
+[00:38:48] feil å kalle det low-tech
+
+[00:38:50] men i hvert fall liksom av den mindre avanserte
+
+[00:38:52] produktet som da blir mer
+
+[00:38:54] syklisk, og det er kanskje der en del av
+
+[00:38:56] kritikerne har bommet litt, tror jeg.
+
+[00:38:58] Avslutningsvis så tenkte jeg vi skulle se mot
+
+[00:39:00] rapporteringssesongen.
+
+[00:39:02] Den starter snart
+
+[00:39:04] for alvor. Har det kommet noen
+
+[00:39:06] resultatforskjeller av betydning?
+
+[00:39:08] Enten positive eller negative?
+
+[00:39:10] Ja, det er et par. Skippsted
+
+[00:39:12] hadde en slags, om man skal
+
+[00:39:14] si en closet profit
+
+[00:39:16] warning, at når de hadde sin
+
+[00:39:18] kapitalmarkedsdag så var det
+
+[00:39:20] bakerst i den presentasjonen
+
+[00:39:22] noen kommentarer at
+
+[00:39:24] Q1-rapporten kom til å være noe
+
+[00:39:26] svakere enn ventet. Og vi har sett at
+
+[00:39:28] estimatene har jo kommet noe ned etter det.
+
+[00:39:30] Så jeg tror vi må nesten kalle det et resultatvarsel.
+
+[00:39:32] Og så i dag så kom det
+
+[00:39:34] positiv resultatvarsel fra Volvo
+
+[00:39:36] og et negativ et fra
+
+[00:39:38] Metsabord i Finland.
+
+[00:39:40] Så litt sånn blanding så langt
+
+[00:39:42] vil jeg si. Litt for tidlig egentlig
+
+[00:39:44] til å konkludere så veldig mye
+
+[00:39:46] ut av de tre selskapene der.
+
+[00:39:48] Men en av de tingene som
+
+[00:39:50] jeg synes er viktig å huske her er at
+
+[00:39:52] jeg ser ikke for meg at det skal bli noe kollaps
+
+[00:39:54] i inntjening nå på kort sikt.
+
+[00:39:56] For når du har såpass sterke
+
+[00:39:58] prisvekst, såpass høy inflasjon
+
+[00:40:00] så skal det faktisk en del til at
+
+[00:40:02] inntjeningen begynner å gå i revers.
+
+[00:40:04] Så selv med
+
+[00:40:06] moderat BNP-vekst og
+
+[00:40:08] relativt høy inflasjon
+
+[00:40:10] så blir det nominal inntjeningsvekst
+
+[00:40:12] av dette her. Så jeg ser for meg at
+
+[00:40:14] det kanskje blir litt sånn som vi så i forrige kvartal
+
+[00:40:16] at estimatene blir justert
+
+[00:40:18] litt ned. Kanskje sånn størrelseordning
+
+[00:40:20] 1-2% i snitt.
+
+[00:40:22] Men jeg ser ikke for meg at det er noe sånn type
+
+[00:40:24] hard landing som man kommer til å merke
+
+[00:40:26] i inntjening nå med en gang. Så jeg tror egentlig
+
+[00:40:28] det motvinden, eller i hvert fall
+
+[00:40:30] mindre medvind på inntjening
+
+[00:40:32] får man etter hvert som året utvikler seg
+
+[00:40:34] og etter hvert som du får mindre inflasjon
+
+[00:40:36] så blir det da gradvis vanskeligere å holde
+
+[00:40:38] de nominelle tallene like bra
+
+[00:40:40] som i starten av året.
+
+[00:40:42] Er det noen annen tematikk
+
+[00:40:44] eller ting du forventer
+
+[00:40:46] at det vil dreie seg om
+
+[00:40:48] og bli mye fokus på
+
+[00:40:50] når de nordiske selskapene
+
+[00:40:52] letter på sløret for
+
+[00:40:54] alvor når de setter i gang med rapporter?
+
+[00:40:56] Ja, så jeg vet ikke
+
+[00:40:58] om det er sånn spesifikt til Norden
+
+[00:41:00] men i hvert fall et tema som jeg tror blir interessant
+
+[00:41:02] er å høre hva selskapene har å si
+
+[00:41:04] rundt tilgang til finansiering
+
+[00:41:06] for med tanke på den
+
+[00:41:08] nestenbankkrisen
+
+[00:41:10] vi har hatt, så har vi
+
+[00:41:12] sett at bankene har jo
+
+[00:41:14] strammet inn på lånevilkår allerede
+
+[00:41:16] og mest sannsynlig da når vi får
+
+[00:41:18] ytterligere oppdatering på dette her, så kommer det til å
+
+[00:41:20] ha blitt strammet inn enda litt mer enn det.
+
+[00:41:22] Så det å se til hvilken
+
+[00:41:24] grad er det selskapet setter
+
+[00:41:26] prosjekter på vent, det er sånn noe av
+
+[00:41:28] den veksten som kanskje ligger i estimater
+
+[00:41:30] for neste år, kanskje blir ikke noe av
+
+[00:41:32] hvis prosjekter blir utsatt
+
+[00:41:34] så det blir sånne type ting
+
+[00:41:36] som jeg kanskje tror kan være mest
+
+[00:41:38] interessant, men det blir jo mer et sånt globalt
+
+[00:41:40] tema heller enn bare et
+
+[00:41:42] nordisk tema.
+
+[00:41:44] Ok, da har vi kommet til vei
+
+[00:41:46] sende for i dag
+
+[00:41:50] Da gjenstår det egentlig bare å si
+
+[00:41:52] tusen takk, Paul, for at du var med
+
+[00:41:54] og ikke minst til
+
+[00:41:56] alle de andre som
+
+[00:41:58] bidro til episoden
+
+[00:42:00] både Trond Kyrre
+
+[00:42:02] og Helge André
+
+[00:42:04] også får jeg si at
+
+[00:42:06] liker du podcasten, så
+
+[00:42:08] vil vi gjerne at du legger igjen en
+
+[00:42:10] kommentar eller gir oss en
+
+[00:42:12] hyggelig rating, og dersom du
+
+[00:42:14] har ønsker om gjester vi skal invitere
+
+[00:42:16] temaer vi skal ta opp, eller aksjer vi skal
+
+[00:42:18] kommentere, så kan du sende oss en mail
+
+[00:42:20] på utbyttepodden
+
+[00:42:22] at dmb.no
+
+[00:42:24] Men det er så
+
+[00:42:27] rundt vi er for nå
+
+[00:42:29] Tusen takk for å følge folkens
+
+[00:42:31] og på gjenhør
+
+[00:42:43] Denne sendingen ble publisert i podcasten Utbytte
+
+[00:42:45] Innholdet i sendingen er å anses som
+
+[00:42:47] markedsføringsmateriale fra DNB og er ment
+
+[00:42:49] å være generell spareveiledning
+
+[00:42:51] Sendingen skal ikke oppfattes som et tilbud om å kjøpe
+
+[00:42:53] eller selge finansielle instrumenter

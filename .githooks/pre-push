@@ -1,0 +1,58 @@
+#!/bin/sh
+# pre-push hook - blocks pushes that include destructive changes to protected data.
+
+set -eu
+
+protected_paths="backend/storage backend/venv312"
+
+has_blocked=0
+
+check_commit() {
+    commit="$1"
+    status_lines=$(git diff-tree --no-commit-id --name-status -r -M "$commit" -- $protected_paths || true)
+
+    while IFS='	' read -r status p1 p2; do
+        [ -z "${status:-}" ] && continue
+        case "$status" in
+            D*)
+                echo "ERROR: push blocked; commit $commit deletes protected file: $p1"
+                has_blocked=1
+                ;;
+            R*)
+                echo "ERROR: push blocked; commit $commit renames protected file: $p1 -> $p2"
+                has_blocked=1
+                ;;
+        esac
+    done <<EOF
+$status_lines
+EOF
+}
+
+while read -r local_ref local_sha remote_ref remote_sha; do
+    # Deleting remote refs (local_sha all zeros) is outside this hook's scope.
+    if [ "$local_sha" = "0000000000000000000000000000000000000000" ]; then
+        continue
+    fi
+
+    if [ "$remote_sha" = "0000000000000000000000000000000000000000" ]; then
+        commit_list=$(git rev-list "$local_sha" --not --all)
+    else
+        commit_list=$(git rev-list "$remote_sha..$local_sha")
+    fi
+
+    for commit in $commit_list; do
+        check_commit "$commit"
+    done
+done
+
+if [ "$has_blocked" -ne 0 ]; then
+    echo ""
+    echo "Protected paths:"
+    echo "  - backend/storage"
+    echo "  - backend/venv312"
+    echo ""
+    echo "If this is truly intentional, request explicit override in review and use --no-verify."
+    exit 1
+fi
+
+exit 0

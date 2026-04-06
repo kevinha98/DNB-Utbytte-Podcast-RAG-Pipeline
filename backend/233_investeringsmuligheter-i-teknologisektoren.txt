@@ -1,0 +1,2081 @@
+Episode 233: Investeringsmuligheter i teknologisektoren
+Publisert: Wed, 17 No
+Vert: Marius Brun Haugen
+Varighet: 43 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/investeringsmuligheter-i-teknologisektoren
+
+--- Transkripsjon ---
+
+[00:00:00] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer i den globale økonomien og finansmarkedene.
+
+[00:00:07] Jeg er Marius Brunhaugen fra DNB Markets, og nå skal det handle om teknologiinvesteringer.
+
+[00:00:14] Metaverse, Facebook, VR, krypto, 5G, chipmangel, Kahoot og Telenor, ja det er bare noen av stikkordene som står på agendaen i dagens episode.
+
+[00:00:26] Nylig hadde jeg nemlig besøk i studio av Anders Tamberg Johansen som forvalter fondet DNB Teknologi, og min kollega-analytiker Frank Måe for å diskutere investeringsmuligheter i teknologisektoren.
+
+[00:00:42] Der mangler det definitivt ikke på spennende ting som skjer om dagen og opptaket fra seansen du skal få høre nå.
+
+[00:00:50] Det var opprinnelig et direkte sendt webinar for aksje- og fondskundene våre som ble holdt tirsdag 16. november.
+
+[00:00:58] God lytt, folkens!
+
+[00:01:01] Velkommen til oss i DNB og dagens webinar som skal handle om investeringsmuligheter i teknologisektoren.
+
+[00:01:15] Jeg heter Marius Brunhaugen og med meg i studio har jeg Anders Tamberg Johansen som forvalter fondet DNB Teknologi,
+
+[00:01:22] og Frank Måe.
+
+[00:01:25] Han er telekom-analytiker her hos oss, og blant annet dekker flere av telekomselskapene og Kahoot for å nevne noe.
+
+[00:01:33] Velkommen begge to!
+
+[00:01:36] Anders, metavers, krypto, 5G, chipmangel, det mangler ikke på spennende ting som vi skal se nærmere på i dag.
+
+[00:01:45] Jeg tenker det må jo være gøy å holde på som investor i teknologisektoren med alt det som skjer om dagen.
+
+[00:01:52] Definitivt aldri en kjedelig dag.
+
+[00:01:53] I går er det jo 50 år siden.
+
+[00:01:55] Intel fant opp microchipen, og det som har fulgt etter det har jo vært en fantastisk utvikling for hele samfunnet,
+
+[00:02:02] og ikke minst spennende.
+
+[00:02:03] Så metavers er en fortsettelse av dette her, og jeg skal komme litt mer inn på det.
+
+[00:02:06] Jeg tror dette her blir veldig bra, Frank, ikke sant?
+
+[00:02:08] Jeg må si at jeg er nesten litt overrasket over at ikke du stilte i dag med fullt VR-utstyr og gamingbriller.
+
+[00:02:14] Ja, han som sitter ved siden av meg har nettopp anskaffet den siste Oculus Quest 2,
+
+[00:02:19] så han ble helt revet med av det, men jeg har ikke prøvd den enda.
+
+[00:02:22] Jeg skal ha den med her.
+
+[00:02:23] Før vi går i gang med diskusjon og spørsmålsrunden, så skal Anders få lov å innlede litt,
+
+[00:02:30] si litt om både fondet og ikke minst trender som er verdt å se nærmere på.
+
+[00:02:35] Flott, takk for det, Marius.
+
+[00:02:37] Som jeg sa, 50 år siden Mors Law ble funnet opp.
+
+[00:02:40] Hvis man ser på alle de trendene vi prater om, det er alt fra AI Robotics,
+
+[00:02:43] Foundation, for det er Mors Law, og det har nå pågått i 50 år.
+
+[00:02:47] Her ser dere Nasdaq mot S&P, og viser at verdiutviklingen for aksjonærer har også vært fantastisk i dette området.
+
+[00:02:52] Det er derfor folk er investert i teknologi, for det er et område som løser verdens problemer.
+
+[00:02:57] Hvis vi ser på teamet vårt som manøvrerer dette farvannet, så har vi snart 100 års erfaring.
+
+[00:03:03] Både Sverre og jeg har vært her siden starten i 2001.
+
+[00:03:06] Erling Thun har vært her 13 år nå, Erling Kies i syv år,
+
+[00:03:08] så vi har vært et farlig mannskap som har sett mye i digitaliseringsverdenen,
+
+[00:03:12] og jobber hardt for å sørge for best mulig avkastning.
+
+[00:03:15] Bare litt om metodikken vår.
+
+[00:03:17] Jeg tror der vi har en litt avvikende syn om dagen, og hvor vi gjør veldig mye arbeid,
+
+[00:03:20] det er på verdsettingsbitene som er nedsatt.
+
+[00:03:22] Vi er veldig disiplinerte der, det er ikke alle trær som vokser i himmelen.
+
+[00:03:25] Og så er det på value creation-biten.
+
+[00:03:28] Tematikken er god, men det er ikke alle selskap som klarer å tjene penger over tid.
+
+[00:03:31] Dette er globale industrier, du må være nummer en eller to for å tjene gode penger.
+
+[00:03:34] Tre, fire og fem blir ofte dårlig, så det er vår jobb.
+
+[00:03:37] Finne gode selskaper med bra styre, bra ledelse,
+
+[00:03:40] så da passer den tematikken, men også har den verdsettingen som er fornuftig.
+
+[00:03:43] Det er jo ikke så lett i disse dager, det er mye forskjellig som har tatt fyr,
+
+[00:03:48] så vi prøver å være litt disiplinerte der.
+
+[00:03:49] Den siste biten, momentum, er egentlig,
+
+[00:03:51] vi ser mest på inntjeningsmomentum,
+
+[00:03:52] fordi vi har ofte rett 55% av gangene og feil 45%,
+
+[00:03:56] og da er vi veldig gode,
+
+[00:03:57] men man oppdager ofte feilene sine rundt hvor bra et selskap er,
+
+[00:04:02] i det korte bildet at man ser at tallene avviker på kort sikt.
+
+[00:04:05] Så vi følger med veldig tett på selskapene,
+
+[00:04:07] men vi prøver å være veldig disiplinerte og tenke langsiktig.
+
+[00:04:10] Porteføljen vår i dag, det er en PE på 15,
+
+[00:04:13] det er jo 7% avkastning,
+
+[00:04:15] det er jo ganske bra når du tenker på at disse selskapene vokser 14%,
+
+[00:04:17] dette er de ti største posisjonene,
+
+[00:04:20] det er litt over 50% avkastning,
+
+[00:04:21] og de vokser 14% på topplinjen i år,
+
+[00:04:24] og de er estimert til å vokse 10% i neste år,
+
+[00:04:26] så det er ganske sterk vekst, selv om verdisettelsen er lav.
+
+[00:04:29] Året i år, fondene er nesten opp 20%,
+
+[00:04:31] markedet er opp 27%, så vi har litt å ta igjen.
+
+[00:04:34] Hovedsakene er at telekompratørene har hatt en veldig flat utvikling,
+
+[00:04:37] og de er jo vi veldig glad i verdisettelsesmessig,
+
+[00:04:39] pluss at vi har hatt et par feil aksjevalg innenfor semiconductor,
+
+[00:04:42] vi står ved de posisjonene vi har,
+
+[00:04:44] men det er årsaken til at vi ligger bak index så langt i år.
+
+[00:04:47] Vi liker også å fokusere på det lenge bildet,
+
+[00:04:48] hvor vi har klart å skape veldig bra verdiutvikling,
+
+[00:04:51] på å finne de riktige selskapene,
+
+[00:04:52] så hvis man ser på det lengre bildet, så har vi truffet veldig bra,
+
+[00:04:55] akkurat i år er vi litt bak i index.
+
+[00:04:57] Se på det som, her ser dere subsektoren i tech,
+
+[00:05:01] dere ser software i midten der, der står det høye tredjetallet.
+
+[00:05:04] Hvis man gjør justeringer for aksjeopsjoner,
+
+[00:05:07] og tar ut Microsoft der, så er det de fleste software-selskaper i verden,
+
+[00:05:09] som er bra over 50 ganger i ordning, så det synes vi er for dyrt.
+
+[00:05:12] Se på telekom-siden der, hvor det er lite vekst,
+
+[00:05:14] og også negativ vekst i tider, så er det på en multipl på 10 ganger.
+
+[00:05:17] Så vi tror i snitt at telekom-selskapene verdimessig har nesten dobbelt så mye
+
+[00:05:21] som software-selskapene går på, hvis du tenker på nåverdien av kontantstrømmene.
+
+[00:05:26] År i år, semikondukter har vært den beste sektoren,
+
+[00:05:29] mye på grunn av Nvidia som er opp 140%,
+
+[00:05:32] ellers har det vært chipmangel som har preget området.
+
+[00:05:35] Ser nå at det kommer massive investeringer til venstre,
+
+[00:05:38] så ser man Taiwan Semiconductor som er verdens største produsent av chips.
+
+[00:05:42] De har sagt at de skal investere 100 milliarder dollar nå,
+
+[00:05:44] det har jo vært et etterspørselssjokk, det er jo ikke bare tilbudssiden,
+
+[00:05:46] men covid har jo medført at folk har kjøpt.
+
+[00:05:48] Mye flere PC-er, mye flere handset, og også veldig mye mer gaming-utstyr.
+
+[00:05:53] Så det har vært et etterspørselssjokk som industrien justerer seg til,
+
+[00:05:56] det må komme en enorm tilbudssvekst i de årene som kommer.
+
+[00:05:58] Så vi er ikke så glad i foundry-selskapene,
+
+[00:06:01] for vi tror tilbudssiden kommer til å bli ganske sterk
+
+[00:06:03] når etterspørselen sakte med sikkert får tatt igjen her.
+
+[00:06:07] Ved sluttmarkedet til semikondukter, det er da til venstre PC.
+
+[00:06:11] Du ser at folk har tenkt at dette skal være et flatt marked,
+
+[00:06:13] har hatt en double-digit-vekst i to år.
+
+[00:06:15] Nå får vi en korruksjon mest sannsynlig til neste år,
+
+[00:06:17] som er estimatene.
+
+[00:06:19] Handsetmarkedet har også vært et marked vi tenker på som flott.
+
+[00:06:21] Der selges det jo 1,67 milliarder en etter i året.
+
+[00:06:24] Hvis vi tenker på replacement rates og sånn,
+
+[00:06:26] så tror vi det er et modent marked,
+
+[00:06:27] så vi tror også at veksten kommer ned der.
+
+[00:06:28] Det skal vi også tenke på på semikondukter-biten,
+
+[00:06:30] at ingen tre vokser inn i himmelen,
+
+[00:06:31] og at store deler av sluttmarkedene er relativt modne.
+
+[00:06:36] Da er det den store snakkelsen, Metaverse,
+
+[00:06:37] vi kommer tilbake på det,
+
+[00:06:38] men dette her er jo et interessant område
+
+[00:06:41] hvor alle de store selskapene i verden investerer.
+
+[00:06:43] Meta, eller gamle Facebook, Microsoft og Apple.
+
+[00:06:46] Og selve timingen her ligger nok litt rundt at
+
+[00:06:49] Apple har tatt fra datareter til mange kunder,
+
+[00:06:52] og er faktisk en konkurrent av kundene sine.
+
+[00:06:54] Så jeg er litt usikker på timingen og hvor fort dette kommer,
+
+[00:06:56] men er ganske sikker på utgangspunktet er at
+
+[00:06:58] Facebook prøver å komme seg ut av plattformen til Apple,
+
+[00:07:00] og føler at det blir lagt for mange begrensninger på det.
+
+[00:07:04] Så har vi mediaspacet, der har Erling Thun hadd veldig rett.
+
+[00:07:09] Økende tilbud, store investeringer, lønnsomheten går ned.
+
+[00:07:11] Vi har hatt oss unna, vi er jo i Disney,
+
+[00:07:14] som har vært en kjempeende performance.
+
+[00:07:15] Dette har vært et bra område for oss,
+
+[00:07:17] relativt til indeks.
+
+[00:07:19] Og så har vi på en måte det området der vi føler oss sikres
+
+[00:07:22] på etterspørselen om ti år, det er Telekom.
+
+[00:07:23] Tenk på Metaverse, alt det blir bygget rundt,
+
+[00:07:25] enten mobile nettverk eller fastlinjenettverk.
+
+[00:07:28] Telekom, infraservice-selskapene, tilrettelegger for dette her.
+
+[00:07:32] Så vi er helt sikre på etterspørselen.
+
+[00:07:33] Det er veldig lite bransjekliding, det kommer ikke satellitter,
+
+[00:07:36] kan ikke konkurrere med 5G-nett i byene.
+
+[00:07:38] Så vi er ganske sikre på etterspørselen.
+
+[00:07:39] Det har vært veldig hard konkurranse i lang tid på grunn av regulering.
+
+[00:07:42] Vi har begynt å se at PE-selskapene kjøper seg inn i sektoren.
+
+[00:07:45] Vi tror dette her er veldig, veldig god avkastning de siste ti årene,
+
+[00:07:48] relativt til et marked som vi synes er ganske frisk,
+
+[00:07:50] RIF-software-selskapene på PE50.
+
+[00:07:53] Så da tenker jeg, det var en sånn kjapp innledning,
+
+[00:07:55] så kan vi ta spørsmålene litt etter litt her.
+
+[00:07:58] Frank, jeg tenkte bare å starte med det Anders sier her.
+
+[00:08:01] Gir du mening?
+
+[00:08:03] Absolutt, og det er mye som er krevende preiset der ute,
+
+[00:08:07] og det ser vi også på software-biten.
+
+[00:08:11] Jeg kjenner jo også at det er mye som er krevende,
+
+[00:08:12] altså igjen mye av det du sier Anders, fra Telekom i Norden,
+
+[00:08:17] hvor vi ser at det har vært en veldig, veldig upopulær sektor,
+
+[00:08:21] og hvor Telenor-aksjonen blir trukket veldig ned av ...
+
+[00:08:25] Når du har en sektor i Europa som er svak,
+
+[00:08:28] og når du har en utbytteavkastning på 7 prosent der,
+
+[00:08:32] med stigende utbytter og økende og økende kvalitet bak,
+
+[00:08:36] og ørningsvekst og vivendevekst,
+
+[00:08:37] så synes jeg jo det er veldig god.
+
+[00:08:39] Så jeg er enig.
+
+[00:08:42] Jeg er enig i den biten på Telekom også.
+
+[00:08:44] Det er utrolig mye spennende som skjer på metaverse-siden.
+
+[00:08:47] Og så blir det jo litt sånn hype-preget,
+
+[00:08:50] når den re-brandingen av Facebook gjør at alle plutselig jakter etter metaverse-aksjer nå.
+
+[00:08:58] Men det ser jo glattere ut for den kortsiktige media-buss og hypen,
+
+[00:09:04] så er det jo veldig mye realiteter i dette.
+
+[00:09:06] Ja, vi må snart snakke mer om metaverse,
+
+[00:09:09] men først, Anders, jeg bare tenkte ...
+
+[00:09:12] Er det lettere, eller er det vanskeligere å plukke vinnerne og unngå taperne nå enn for et år siden?
+
+[00:09:19] Altså, aksjemarkedet har jo steget over en lang periode nå,
+
+[00:09:22] og mye er høyt priset.
+
+[00:09:24] Man kan si liksom at ting er ganske brennhett, til en viss grad.
+
+[00:09:28] Aksjemarkedet er alltid vanskelig.
+
+[00:09:31] Jeg tror det som har gjort det litt mer komplisert nå,
+
+[00:09:34] er at i tillegg til at myndighetene har trykket penger,
+
+[00:09:36] så er det jo faktisk 3 trillioner i kryptopenger som er der ute.
+
+[00:09:38] Så hvis du ser på en søkeordspris på Google nå,
+
+[00:09:40] hvis du søker på aksjefond,
+
+[00:09:41] så koster det 18 kroner i Norge for å komme øverst.
+
+[00:09:43] Krypto koster 100 kroner.
+
+[00:09:45] Så det er klart at det er både i disse store fangselskapene,
+
+[00:09:48] som jeg har vært veldig glad i historisk sett,
+
+[00:09:49] men også i Nvidia for eksempel, som da selger gaming-issuer,
+
+[00:09:53] men som blir brukt til mining,
+
+[00:09:54] så er det vanskelig å regne på hva langsiktige estimater er,
+
+[00:09:56] for man er veldig usikker på reguleringen av krypto fremover.
+
+[00:09:59] Så for oss er det alltid vanskeligere når det kommer masse ukjente inn,
+
+[00:10:03] men det gir også mulighetene til å kunne tjene penger mot index,
+
+[00:10:06] at man faktisk enten er litt kald og har litt syn på ting.
+
+[00:10:08] Så jeg synes ikke det er noe vanskeligere,
+
+[00:10:10] men man må bare ikke være utålmodig i et marked,
+
+[00:10:12] fordi i et bra marked blir folk grådige,
+
+[00:10:14] de har bare lyst til å tjene 30% i uken,
+
+[00:10:16] og sånn er ikke verden, tenker vi.
+
+[00:10:18] Så jeg tror egentlig det er et bra utgangspunkt for å tjene gode penger,
+
+[00:10:21] men det er alltid vanskelig,
+
+[00:10:23] men det er klart at denne situasjonen er ganske spesiell med pengetrykking,
+
+[00:10:26] både privat og offentlig.
+
+[00:10:28] Men la oss ta mer om metaverset.
+
+[00:10:31] Her er det kanskje naturlig å starte med Facebook,
+
+[00:10:34] men si litt mer Anders, hvorfor er dette spennende?
+
+[00:10:37] Jeg tenker det er spennende,
+
+[00:10:38] men det er jo også en snakkis da.
+
+[00:10:40] Facebook bytte jo navn for å få bort oppmerksomheten
+
+[00:10:42] på en del av sine problemer,
+
+[00:10:44] unge brukere, myndighets-issues for to uker siden,
+
+[00:10:47] men det er jo noe bakomforlikende som har skjedd en stund.
+
+[00:10:50] Hvis du tenker på i Farmville så kunne man jo kjøpe en virtuell kaffekopp,
+
+[00:10:53] det skjønte aldri en av, men det var jo allerede for ti år mulig,
+
+[00:10:56] og i Fortnite så kan du gå på konserter og kjøpe klær.
+
+[00:10:58] Dette er bare en videreføring, så vi tror det går mer gradvis.
+
+[00:11:01] Vi liker disse spillguttene som Activision, Take Two,
+
+[00:11:04] de har mye elektronisk IP, vi tror det er mye verdt i metaverse.
+
+[00:11:07] Jeg tror grunnen til at det kommer nå er ikke fordi
+
+[00:11:09] man har revolusjonert AR og VR-briller,
+
+[00:11:12] det tror jeg går sin gang.
+
+[00:11:14] Fortsatt sikkert at man blir litt kalm og på grunn av framerates og sånne ting,
+
+[00:11:17] men jeg tror det er mer kommer ut av at Facebook ønsker å
+
+[00:11:20] rense skapet, starte litt på nytt og komme ovenpå,
+
+[00:11:24] og de har jo hatt sine issues med Apple,
+
+[00:11:26] med denne datareguleringen, IDFA,
+
+[00:11:28] hvor de tar fra Facebook masse data som gjør at Facebook tjener mindre penger,
+
+[00:11:31] så det er litt irritert på Apple.
+
+[00:11:33] I tillegg til alle utviklerne, sånn som Epic,
+
+[00:11:35] må betale 30% for hver dag,
+
+[00:11:37] der er det konflikter,
+
+[00:11:38] og det har vært en dom nå tidligere i høst,
+
+[00:11:40] hvor Epic vant et av punktene,
+
+[00:11:42] som gjør at kanskje denne take-raten til Apple kan komme ned,
+
+[00:11:44] så dette kom på toppen av plattformkrigen,
+
+[00:11:46] og det er grunnen til timingen,
+
+[00:11:47] så jeg tror ikke ting går noe fortere akkurat nå,
+
+[00:11:49] men jeg tror vi er i den veien mot den 3D-verdenen,
+
+[00:11:52] og virtuell verden på mange måter,
+
+[00:11:54] men at timingen er litt tilfeldig,
+
+[00:11:56] fordi Facebook ønsker å komme seg ut av problemer.
+
+[00:11:58] Det er veldig interessant, Frank,
+
+[00:12:00] og så som Anders sier her, og du var inne på,
+
+[00:12:03] metaverse er veldig mye mer enn Facebook.
+
+[00:12:07] Absolutt, det er jo det.
+
+[00:12:09] Microsoft for eksempel har jo holdt på med AR VR
+
+[00:12:13] i ganske mange år, særlig enn den HoloLens,
+
+[00:12:15] som Anders viste et bilde av i stad,
+
+[00:12:17] som blir brukt faktisk,
+
+[00:12:19] du kan kanskje ikke si det er metaverse,
+
+[00:12:22] for det er fullstendig virtuelt,
+
+[00:12:24] men det er mer en mixed reality,
+
+[00:12:26] hvor man bruker den type ting,
+
+[00:12:28] med priorisering på bilder og så videre,
+
+[00:12:31] for å se blanding av en virtuell virkelighet
+
+[00:12:34] og den ekte virkeligheten,
+
+[00:12:37] den fysiske virkeligheten oppover hverandre,
+
+[00:12:39] og hjelper for eksempel i B2B-applikasjoner,
+
+[00:12:41] for eksempel Skanska,
+
+[00:12:42] jeg har sett video fra Skanska for et par år siden allerede,
+
+[00:12:44] hvor de brukte det til sine montører,
+
+[00:12:46] sånn at de går inn i et nytt bygg,
+
+[00:12:49] så ser de hvor all kablingen er,
+
+[00:12:51] hvor rørleggerne er,
+
+[00:12:52] hvor rørkoblingene er,
+
+[00:12:53] tilsprinkelanding og så videre,
+
+[00:12:55] virtuelt da, uten å måtte åpne lukene i taket.
+
+[00:12:58] Så det finnes mange sånne applikasjoner,
+
+[00:13:01] og det er et helt økosystem,
+
+[00:13:02] som Microsoft begynte å bygge for noen år siden,
+
+[00:13:05] sånn tar lang tid å bygge på B2B-siden,
+
+[00:13:08] akkurat som de gjør det på B2C også.
+
+[00:13:10] Men dette er jo veldig spennende drivere
+
+[00:13:13] for 5G-trenden særlig,
+
+[00:13:15] hvor jeg dekker jo Ericsson og Nokia,
+
+[00:13:18] da må man se noen år inn i fremtiden,
+
+[00:13:21] og der er det en hel del drivere,
+
+[00:13:22] som jeg tror ikke er priset inn i den type aksjer,
+
+[00:13:25] og jeg vet jo Ericsson er jo en stor posisjon hos dere også.
+
+[00:13:28] Ja, definitivt.
+
+[00:13:29] Dere deler kanskje litt den oppfatningen,
+
+[00:13:31] men i hvert fall,
+
+[00:13:32] Metaverse kan være i vi forstand
+
+[00:13:34] mer enn bare spill i en virtuell verden,
+
+[00:13:37] hvor du står hjemme ditt med briller,
+
+[00:13:39] og liksom må ha en safe zone rundt deg,
+
+[00:13:41] så ikke du skal tråkke på bysja og sånn, ikke sant?
+
+[00:13:44] Det er mye mer enn det, tenker jeg.
+
+[00:13:46] I hvert fall bare for å ta et eksempel,
+
+[00:13:47] altså du sendte ut en oppdatering på Nokia
+
+[00:13:50] senest i går ettermiddag,
+
+[00:13:52] og allerede i ingressen der,
+
+[00:13:54] så hadde du jo nevnt Metaverse.
+
+[00:13:57] Helt riktig.
+
+[00:13:58] Man må jo prøve å skape litt entusiasme og interesse også,
+
+[00:14:01] når man vet at mange er ute og jakter litt på det,
+
+[00:14:03] for det er klart,
+
+[00:14:04] det er noe de aksjene trenger.
+
+[00:14:06] Det er ganske lavt priset,
+
+[00:14:07] sånn som Ericsson og Nokia,
+
+[00:14:08] store large caps,
+
+[00:14:09] men som gjør utrolig mye spennende på teknologiutvikling,
+
+[00:14:12] men kanskje ikke får helt den oppmerksomheten de fortjener,
+
+[00:14:15] fordi de kanskje ikke scorer helt på
+
+[00:14:16] den momentum-kvadranten nederst i høyre hjørne
+
+[00:14:20] av de fire kvadrantene Anders visste i sted,
+
+[00:14:22] men mer på valuation som var nederst i venstre hjørne, vel?
+
+[00:14:25] Og det er klart,
+
+[00:14:26] da er det greit å peke på at faktisk
+
+[00:14:30] det er ekstremt viktige fundamenter
+
+[00:14:33] for hele den digitale infrastrukturen
+
+[00:14:34] som skal drive disse mulighetene,
+
+[00:14:36] hvor kanskje folk opplever at 5G blant annet
+
+[00:14:41] har kanskje manglet,
+
+[00:14:43] særlig på B2C-siden,
+
+[00:14:45] altså konsumentsiden,
+
+[00:14:46] men også på bedriftssiden,
+
+[00:14:48] så har det manglet litt en sånn killer-app på en måte.
+
+[00:14:51] Men alt dette med AR og VR
+
+[00:14:53] er ting som virkelig vil drive etterspørselen,
+
+[00:14:57] tror jeg, etter dette.
+
+[00:14:58] Men så er det selv om med metavers
+
+[00:15:00] er det litt bussord der ute nå, Anders,
+
+[00:15:02] så er du jo ikke sikker til at timingen er riktig,
+
+[00:15:05] at det er nå man liksom skal gå all in i dette her
+
+[00:15:08] fra et sånt investeringssynspunkt.
+
+[00:15:10] Nei, det vi diskuterer mye da,
+
+[00:15:12] det er jo jobben vår å finne timingen også,
+
+[00:15:14] på en måte oddsene som er prisene på dette her,
+
+[00:15:16] og jeg tror vi har funnet best sånn
+
+[00:15:18] risker våre i de spillselskapene
+
+[00:15:19] som har mye elektronisk IP,
+
+[00:15:21] de har jo da,
+
+[00:15:22] vi hadde jo ingen av disse i fjor da covid var,
+
+[00:15:24] for da var jo et spørsmålseffekten abnormalt høy da,
+
+[00:15:27] og nå har det justert seg utover året,
+
+[00:15:29] som folk har kommet ut og faktisk begynte å gå på pub,
+
+[00:15:31] og ut og spille fotballkamper igjen,
+
+[00:15:32] så nå har den kommet ned,
+
+[00:15:34] og disse aksjene har underperformet nesten 50%
+
+[00:15:36] mot den indexen opp 30,
+
+[00:15:38] altså vi tenker at verdiene de er ganske store,
+
+[00:15:40] og de sitter jo på ting som,
+
+[00:15:42] hvis folk ønsker å prise metaverse opp,
+
+[00:15:44] så sitter jo de på mange figurer og spill
+
+[00:15:47] som kommer til å bli mer verdt der,
+
+[00:15:49] og utviklingskostnader på 3D-spill kommer nok
+
+[00:15:51] helt til å gå opp enn ned,
+
+[00:15:52] så vi tror de store kanskje vil vinne den kampen da.
+
+[00:15:54] Du nevnte jo Nvidia i sted,
+
+[00:15:57] hvis jeg har forstått det riktig,
+
+[00:15:58] så har vel de også en slags eksponering
+
+[00:16:00] mot,
+
+[00:16:01] metaverse,
+
+[00:16:02] men aksjen har jo gått kraftig,
+
+[00:16:03] kanskje av helt andre grunner,
+
+[00:16:05] hadde det vært tøft å stå på sidelinjen og se på det?
+
+[00:16:08] Ja, det er klart at Skjernhat med de 500%
+
+[00:16:10] Nvidia de siste to årene,
+
+[00:16:11] det er jo et selskap som er midtplassert i metaverse egentlig,
+
+[00:16:15] så når Facebook tar opp capexen sin til nesten 60%
+
+[00:16:18] så er jo Nvidia de som har størst fordel av det,
+
+[00:16:21] så alle de minnespillere vi har investert i
+
+[00:16:23] har også store fordeler av det.
+
+[00:16:24] Men Nvidia er jo også veldig store på gaming GPU'er,
+
+[00:16:26] jeg tror det er forvirringen i markedet her nå,
+
+[00:16:28] grunnen til at ikke vi eier den er at
+
+[00:16:30] hvis du så på krypto-syklen for tre år siden,
+
+[00:16:32] så kom faktisk tallene til Nvidia ganske kraftig ned
+
+[00:16:36] når syklen var over og prisene kom ned,
+
+[00:16:38] altså vi mener i forhold til markedet
+
+[00:16:40] at det er veldig mye kryptointekter i spillområdet til Nvidia.
+
+[00:16:43] Du kan jo se på Logitech og en del av de andre
+
+[00:16:45] som leverer spillmus og andre effekter til spill,
+
+[00:16:48] så har de allerede fått smake at Covid er over,
+
+[00:16:51] mens Nvidia flyr videre,
+
+[00:16:52] og vi tror dette er i sammenheng med kryptoprisene
+
+[00:16:55] til en stor grad.
+
+[00:16:56] Det er en vekst i Nvidia,
+
+[00:16:57] men vi tror det er nesten 10% lavere enn det markedet tror det er.
+
+[00:17:00] Det er på en måte grunnen til at vi holder oss utenfor aksjen.
+
+[00:17:02] Hvis du legger inn 20%,
+
+[00:17:04] altså Nvidia vokser 30%
+
+[00:17:05] og du måler for et veldig høyt punkt,
+
+[00:17:06] men hvis du legger inn 20% vekst neste ti årene,
+
+[00:17:08] så får du ikke noe oppsidig i aksjen.
+
+[00:17:10] Så vi er egentlig veldig happy med å ikke eie den,
+
+[00:17:12] og vi eier jo da Samsung og Western Digital og Micron
+
+[00:17:15] som leverer minne til datacenterne i stedet for.
+
+[00:17:19] Det du nevner her i forhold til krypto,
+
+[00:17:21] det er jo et annet interessant aspekt av hva som skjer om dagen,
+
+[00:17:24] nemlig at krypto brer mer og mer om seg
+
+[00:17:28] og påvirker.
+
+[00:17:30] Det er flere og flere selskaper,
+
+[00:17:32] så man må jo ta med dette her i investeringsbeslutningen
+
+[00:17:36] på en eller annen måte.
+
+[00:17:37] Man er nødt til å forstå hva som skjer.
+
+[00:17:39] Definitivt, man får skjønne årsakssammenhengene
+
+[00:17:41] og hvorfor ting er slik.
+
+[00:17:42] Vi bygde jo for tre år siden en krypto-rig for å mine Ethereum
+
+[00:17:45] for å finne ut av akkurat hvilke komponenter som går inn i løsningen
+
+[00:17:48] og se hvordan det tekniske fungerte med betalinger og sånne ting.
+
+[00:17:51] Så vi har gjort jobben på det.
+
+[00:17:53] Jeg tror vi synes det er mye høyere kvalitet
+
+[00:17:55] enn en del andre områder i inntjening til Nvidia
+
+[00:17:58] enn denne kryptobiten
+
+[00:17:59] som vi føler vi har veldig høy usikkerhet ved.
+
+[00:18:01] Så det er vel vårt valg, og da kan man kjøpe andre eksponeringer.
+
+[00:18:05] Vår største overvekt innenfor semiconductor er noe som heter Arrow Electronics
+
+[00:18:08] som er et veldig kjedelig selskap, men de er veldig brede
+
+[00:18:11] har alle kundeverden, alle industrigrupper, distribuerer alle produkter
+
+[00:18:14] og i et inflasjonsscenario kan vi de også kunne pass through.
+
+[00:18:17] Du har sett det.
+
+[00:18:18] Inflasjonsfrykten har drevet veldig mange av de aksjene
+
+[00:18:20] som har sterk pricing på de siste tre-fire månedene
+
+[00:18:22] og Arrow var en aksje vi trodde kunne klare seg bra i et sånt scenario.
+
+[00:18:25] Jeg får bare understreke det, Frank.
+
+[00:18:27] I denne Bemarkets mener vi ikke noe om krypto
+
+[00:18:30] men som jeg er inne på med Anders, altså
+
+[00:18:32] ettersom dette vokser og blir mer vanlig og tatt i bruk stadig flere steder
+
+[00:18:37] man må jo forholde seg til det, og det må jo du også
+
+[00:18:39] i forhold til selskapene du følger, til en viss grad.
+
+[00:18:41] Til en viss grad. Kanskje ikke fullt så mye nå
+
+[00:18:44] men det er klart, det der med krypto, ikke sant?
+
+[00:18:47] Man kan jo dele det opp i litt forskjellige ting.
+
+[00:18:50] At det er et stort fenomen, det er jeg ingen tvil om
+
+[00:18:52] men nå har du dette her med sånne non-fungible tokens
+
+[00:18:55] NFT, som det ofte er snakket om.
+
+[00:18:57] Som bruker den blockchain-teknologien
+
+[00:19:00] til å gi deg unike eierskapsrettigheter
+
+[00:19:03] for eksempel til spill eller digital kunst
+
+[00:19:06] eller et eller annet content, for eksempel.
+
+[00:19:08] Det er jo ting som ofte blir koblet til
+
+[00:19:10] ting som andre, som kanskje er i metaverset.
+
+[00:19:14] Det kan komme inn på mange områder
+
+[00:19:17] men det er ikke så mange av de nordiske selskapene
+
+[00:19:19] som har begynt å snakke om disse tingene her
+
+[00:19:21] og vise en utviklingsroadmap på det.
+
+[00:19:23] Så når vi nå får spørsmålet fra meglere
+
+[00:19:25] i utlandet og innen utlandet
+
+[00:19:27] om hva er det nordiske, er det noen i Norden
+
+[00:19:31] noen selskaper i universet deres på TMT
+
+[00:19:34] som kan tjene på en jakt på metaversmuligheter
+
+[00:19:39] og kryptomuligheter, så blir det kanskje
+
+[00:19:42] litt kortere liste da.
+
+[00:19:44] Etter hvor de selskapene ikke har begynt å snakke om det.
+
+[00:19:47] Det er nok ikke de som har det i sin R&D
+
+[00:19:49] men det er ikke noe de har dratt fram mye enda.
+
+[00:19:51] Jeg vet ikke om du har hørt i din samtale med selskaper
+
+[00:19:54] Anders, at nordiske selskaper snakker om det?
+
+[00:19:57] Jeg vil si at nord i Norge ligger veldig bra posisjonert
+
+[00:20:00] for metavers, hvis du tenker på de brillene
+
+[00:20:02] og hva som skal inn i de.
+
+[00:20:03] Absolutt, det er sant.
+
+[00:20:04] Men ellers er det tidlig stadig, men det er også internasjonalt.
+
+[00:20:08] Selve den meta-ideen er jo da, navnet er vel markedsført
+
+[00:20:11] av Facebook nå siste måneden i en sånn rebranding
+
+[00:20:14] og vi skal bort fra Apple-stunt.
+
+[00:20:19] Vi lar metaverset ligge der mye vi må innom.
+
+[00:20:22] Det er mye som er spennende og en som lurer på om
+
+[00:20:25] det er mulig å si litt om fremtidsutsiktene
+
+[00:20:28] til de store ERP-software-selskapene som for eksempel
+
+[00:20:32] Zapp og Oracle. Er det noe du ser på, Anders?
+
+[00:20:36] Ja, det er Sverre på teamet vårt som dekker det
+
+[00:20:39] og han hadde jo en preferanse for Oracle som gikk
+
+[00:20:42] det var jo et value-selskap som ble repriset her
+
+[00:20:44] i løpet av siste året, så vi har solgt oss ut der
+
+[00:20:46] og vi faktisk, SAP er jo inne i en transisjon
+
+[00:20:48] på regnskapssiden og de holder markedsandelene
+
+[00:20:52] vil jeg si.
+
+[00:20:53] Så vi liker SAP.
+
+[00:20:54] Det er en veldig moderat vekt, men ganske høy kvalitet
+
+[00:20:57] i inntegningen og fornuftig priset til å være
+
+[00:20:59] et software-selskap.
+
+[00:21:01] Det er veldig høye switching-kostnader på software
+
+[00:21:04] derfor er generelt gruppen av høyt priset,
+
+[00:21:06] så vi tror det er en ganske sikker investering.
+
+[00:21:08] Dette med chipper og chipmangel er det også
+
+[00:21:10] naturlig nok flere som sender inn spørsmål om,
+
+[00:21:13] så kan du bare gi oss en liten føler på hva er
+
+[00:21:16] status der og hvordan det påvirker.
+
+[00:21:19] Du viste også denne sliden med at det gjøres
+
+[00:21:22] store investeringer.
+
+[00:21:23] Gitt at det slår til som det skal, så vil vel ikke
+
+[00:21:27] chipmangel bli et problem om et år eller to eller tre?
+
+[00:21:31] Nei, når du sier tre år, så er jeg ganske sikker.
+
+[00:21:33] Jeg er ganske mye mer optimistisk enn de fleste nå.
+
+[00:21:35] Vi har vært inn i en krise, ikke bare i chip,
+
+[00:21:37] men også logistikk.
+
+[00:21:38] Du får ikke skippet ting rundt forbi.
+
+[00:21:40] Det har vært nedstengd fabrikker på grunn av covid,
+
+[00:21:42] så det har vært en vanskelig situasjon.
+
+[00:21:44] Jeg er ganske mye mer positiv enn snittet av markedet
+
+[00:21:46] på når dette blir løst.
+
+[00:21:48] Jeg tror hvis du ser på run rate for bilindustrien
+
+[00:21:50] som har vært hardest rammet, så begynner man å nærme seg
+
+[00:21:51] hva man tenker skal være per kvartal til neste år
+
+[00:21:53] allerede nå i Q4.
+
+[00:21:55] Og sånne generelle chipper tror jeg etter Q1,
+
+[00:21:58] som er et vanligvis svagt sesongmessig kvartal,
+
+[00:22:01] at man begynner å komme i omkapp med.
+
+[00:22:02] Så er det noen som har sånne custom made,
+
+[00:22:04] veldig spesielle chipper.
+
+[00:22:05] Der er det litt mer random, men jeg tror når vi går ut
+
+[00:22:07] av neste året, så er det ikke så mye prat om dette her.
+
+[00:22:09] Og jeg tror det eneste området vi er litt usikre er
+
+[00:22:12] på gap i uer hvor Nvidia det har vært utsolgt.
+
+[00:22:14] Du ser jo kortene deres handler på dobbelt pris
+
+[00:22:16] av det de selger dem for.
+
+[00:22:17] Så der er det en knapphet, men det henger jo litt på krypto
+
+[00:22:19] som er litt vanskelig å forutsi.
+
+[00:22:21] Men på alle de tradisjonelle markedene for chips,
+
+[00:22:23] bilindustri, så tror jeg man begynner å komme i kapp
+
+[00:22:25] ved utgangen av Q1 inn i Q2.
+
+[00:22:27] Og der er vi jo snart, i hvert fall med et sånt
+
+[00:22:29] aksjemarkedstankegang.
+
+[00:22:31] Enig Frank, til tross for at det blir økt digitalisering
+
+[00:22:35] og sånn sett rimelig antatt etterspørselen
+
+[00:22:38] etter chipper vil øke, så vil ikke dette være et problem
+
+[00:22:41] litt lenger fremme?
+
+[00:22:43] Nei, ikke litt lenger fremme egentlig.
+
+[00:22:45] Så spørsmålet blir jo litt mer når i 2022
+
+[00:22:47] egentlig ting begynner å bli bedre.
+
+[00:22:49] Jeg har jo snakket med de datapunktene jeg har sett
+
+[00:22:52] har vært mer ut mot frem mot sommer
+
+[00:22:54] er det noen som snakker om.
+
+[00:22:55] Og så er det noen som mener at det kanskje kan være
+
+[00:22:57] tight ut 2022.
+
+[00:22:59] Det kommer litt an på hva slags chipper
+
+[00:23:01] man snakker om, ikke sant?
+
+[00:23:03] For noen så har jo problemet dykket opp først nå
+
+[00:23:06] egentlig i høst.
+
+[00:23:08] Og så har de satt inn tiltak for å mitigere det
+
+[00:23:13] og få ned listen på kritiske komponenter.
+
+[00:23:17] Noe kan jo R&D designe seg rundt ganske kjapt
+
+[00:23:21] i løpet av et par kvartaler.
+
+[00:23:23] Noe som nok en del selskaper gjør
+
+[00:23:25] for å prøve å mitigere problemene.
+
+[00:23:29] Selv om de tror kanskje det blir løst før
+
+[00:23:31] så setter de litt klutter på utvekslingsavdelingen
+
+[00:23:35] for å passe på at det ikke blir et mer
+
+[00:23:38] persisten problem.
+
+[00:23:40] Det er ingen av sluttgrunnene som ønsker at
+
+[00:23:43] dette problemet skal vedvare oss.
+
+[00:23:44] Det er myndighetene nå.
+
+[00:23:45] Alle de subsidiene som kommer inn.
+
+[00:23:46] Nå ble de bygget inn og bygget en fabrikk i
+
+[00:23:47] at TSMC og Solmy er med på sponset.
+
+[00:23:50] Samme japanske myndigheter gir 3 milliarder dollar.
+
+[00:23:52] Det kommer også i Europa og USA
+
+[00:23:54] for å løse dette på lang sikt.
+
+[00:23:56] Risken for de som lever av produsert chips
+
+[00:23:58] er at du får overkapasitet som er ganske høy.
+
+[00:24:00] Fordi myndighetene har et annet insentiv
+
+[00:24:02] enn det selskapene i seg selv har.
+
+[00:24:04] Så ser vi særlig at de mindre selskapene
+
+[00:24:07] mindre teknologiselskaper
+
+[00:24:09] de kan jo også gå litt til spotmarkedet.
+
+[00:24:11] I spotmarkedet i Asia er det mye rart.
+
+[00:24:15] Da skal man vite hva man driver med.
+
+[00:24:16] Men der ser man også det at
+
+[00:24:19] det er folk som har lagt inn
+
+[00:24:23] litt dobbelt av det de trenger
+
+[00:24:24] så det blir nesten sånn bankrun
+
+[00:24:27] type tilnærming.
+
+[00:24:29] Hvor man nærmest hamstrer.
+
+[00:24:32] Det der som kommer til en peak
+
+[00:24:35] så undervinder det igjen.
+
+[00:24:37] Da kan det plutselig bli ganske mye ledig.
+
+[00:24:39] Men man samtidig ramper opp
+
+[00:24:42] på fabrikker og den type ting.
+
+[00:24:44] Ok.
+
+[00:24:49] 5G har vi nevnt flere ganger i dag.
+
+[00:24:54] Men la oss dykke litt mer ned i det.
+
+[00:24:57] En som skriver inn.
+
+[00:24:58] Hvor fort vil 5G bli implementert skikkelig i markedet?
+
+[00:25:03] Har vi nødvendig infrastruktur?
+
+[00:25:06] Og da kommer det vel litt an på
+
+[00:25:08] hvilke geografier man ser til kanskje også.
+
+[00:25:10] Absolutt.
+
+[00:25:11] Fordi noen investerer mye.
+
+[00:25:14] En av utfordringene i Europa har jo vært at
+
+[00:25:16] europeiske teleoperatører kanskje nedover i Europa.
+
+[00:25:18] Ikke har bygd ut nettene så mye.
+
+[00:25:22] Det merker man jo når man drar på ferie til
+
+[00:25:25] litt mer landlige strøk i Frankrike og så videre.
+
+[00:25:29] Da står jo fortsatt Edge i telefonen.
+
+[00:25:31] Noe vi hadde i Norge for 20 år siden.
+
+[00:25:34] Norge har jo vært veldig tidlig ute.
+
+[00:25:36] Men begynner ikke vi å henge litt etter på 5G nå?
+
+[00:25:38] Jo, det kan du si.
+
+[00:25:39] Men vi har jo et supert 4G nett da.
+
+[00:25:41] Og det er litt av utfordringen i Norge.
+
+[00:25:42] At det funker så bra.
+
+[00:25:43] At du er nødt til å ha kanskje litt sånn type metaverse-aktige
+
+[00:25:47] nye drivere på etterspørselssiden
+
+[00:25:50] for at konsumenter egentlig skal trenge det da.
+
+[00:25:53] Og vi har jo ikke så stor produksjons...
+
+[00:25:56] 5G er egentlig designet for produksjonsbedrifter.
+
+[00:25:59] Automasjon av fabrikker, campus networks
+
+[00:26:02] som har ekstremt høye krav på lav forsinkelsesrate,
+
+[00:26:06] enorm bondbredde, den type applikasjoner da.
+
+[00:26:08] Og derfor ser vi at det blir bygd ut veldig mye i Nord-Øst-Asia.
+
+[00:26:12] I Japan, som er ekstremt med robotisering og automatisering,
+
+[00:26:15] der ser du veldig mye på det.
+
+[00:26:16] I Korea ser du det.
+
+[00:26:17] Du ser det i Kina, hvor man virkelig satser på dette her
+
+[00:26:21] fra et bedriftsståsted da.
+
+[00:26:23] Mens i Norge da, når du snakker med Telenor,
+
+[00:26:25] så er det sånn ja, vi har satt opp noe på Kongsberg
+
+[00:26:27] og ser litt på en selvkjørende buss på Kongsberg
+
+[00:26:29] og så har vi noe fiskemære hvor vi kan drive med
+
+[00:26:31] all-locking av fisk, ikke sant?
+
+[00:26:33] Som du kanskje kunne lagt en fiber til da.
+
+[00:26:35] Så du har ikke kanskje de applikasjonscasene akkurat i Norge
+
+[00:26:40] som 5G er bygd for.
+
+[00:26:41] Og vi har et så bra 4G-nett da, som vi har.
+
+[00:26:43] Men jeg tror det kan komme til å forandre seg også her.
+
+[00:26:46] Utover i 2020-årene.
+
+[00:26:49] Sånn at du kommer til å se 5G bli bygd bra ut i Norge.
+
+[00:26:53] For vi har så mye spektrum, vi er så få folk,
+
+[00:26:55] vi har så mye lønnsomme teleoperatører her at vi,
+
+[00:26:59] de kommer til å, i hvert fall de to store da,
+
+[00:27:01] kommer til å bygge det ut skikkelig da.
+
+[00:27:05] Når de først gjør det.
+
+[00:27:06] Og de har sagt, Telenor for eksempel og Teletelia,
+
+[00:27:08] begge har sagt at de bygger fra 2020 til 2024.
+
+[00:27:12] Og da har de bygget ut både fiber og de har bygget ut 5G.
+
+[00:27:16] Så etter det så tror jeg investeringene,
+
+[00:27:18] de kommer til å komme ganske kraftig ned.
+
+[00:27:20] Så trenger man egentlig 5G?
+
+[00:27:22] Det er et spørsmål som kanskje noen stiller,
+
+[00:27:24] men svaret på det er ja, eller?
+
+[00:27:26] Ja, absolutt. Spørsmålet er litt, når trenger du det da?
+
+[00:27:28] Og grunnen til at Norge har vært litt tregt ute med det,
+
+[00:27:32] å bygge det ut, er jo som sagt,
+
+[00:27:34] vi trenger det kanskje ikke akkurat nå, for å være helt ærlig.
+
+[00:27:36] Vi har en veldig, veldig velfungerende nett
+
+[00:27:38] og nettdigital infrastruktur her fra før.
+
+[00:27:40] Mens andre trenger det mer særlig der hvor det er ekstremt tett befolkning
+
+[00:27:44] i urbane strøk, dårlig utbygd fast nett,
+
+[00:27:47] lite fiberforbindelse og så videre.
+
+[00:27:49] Sånn som i byer i Asia, med mye hard-rise buildings og så videre.
+
+[00:27:52] Det er det 5G er bygd for da. Høy kapasitet.
+
+[00:27:56] Jeg tror egentlig grunnen til, altså i Europa så ligger man langt bak,
+
+[00:27:59] og det er en feilslått strategi fra Vestager i EU,
+
+[00:28:01] som har fokusert på prisen per månedsabonnement
+
+[00:28:04] og ikke kvaliteten og data.
+
+[00:28:05] Vi har jo gått over et datasamfunn,
+
+[00:28:07] og jeg vil si bare EU ligger langt bak,
+
+[00:28:09] og de må på en måte stimulere til investeringer, tror jeg,
+
+[00:28:11] for å få samfunnet til å fungere.
+
+[00:28:13] Vi har jo sittet i det samfunnet,
+
+[00:28:14] innen halvandet år nå,
+
+[00:28:15] og sett hvordan du jobber,
+
+[00:28:17] og klart, som Frank sier, i Sør-Frankrike,
+
+[00:28:19] til og med på Heathrow Express inn fra London,
+
+[00:28:21] så er det dårlig dekning.
+
+[00:28:23] Det er klart at hvis du skal ha et samfunn som fungerer godt,
+
+[00:28:27] i situasjoner som har vært igjennom de siste halvandet årene,
+
+[00:28:29] så må du ha bra bomberedde,
+
+[00:28:31] enten det er fiber eller mobil og gjerne kombinasjon.
+
+[00:28:33] Så jeg tror EU må ta noen grep.
+
+[00:28:37] Du nevnte jo Eriksson og Nokia som eksempler å se på
+
+[00:28:40] i forhold til 5G og metaverse,
+
+[00:28:43] men sånn som teleoperatørene,
+
+[00:28:44] eller Telekom,
+
+[00:28:45] altså Telenor for eksempel,
+
+[00:28:47] Deutsche Telekom,
+
+[00:28:49] hvor store muligheter har de knyttet til 5G?
+
+[00:28:54] Jeg tror de har ganske store muligheter
+
+[00:28:57] til å særlig få ned kostnadene de har,
+
+[00:29:00] for husk på at mange av de selskapene her har 10 000 ansatte,
+
+[00:29:03] og 5G handler jo ikke først og fremst om
+
+[00:29:06] å nødvendigvis skape så mye nye inntekter
+
+[00:29:08] i første gang for de selskapene.
+
+[00:29:09] Det de kan gjøre nå,
+
+[00:29:10] det er faktisk å bruke 5G til å mer automatisk,
+
+[00:29:13] altså den teknologien som det er bygget på,
+
+[00:29:15] som er mye mer en skydrevet cloud-native type tankegang
+
+[00:29:19] med en helt modern IT-infrastruktur
+
+[00:29:21] i produksjonsapparatet bak,
+
+[00:29:23] slik at en Telekom-operatør nå
+
+[00:29:27] blir mye mer automatisk drevet,
+
+[00:29:29] litt sånn som Netflix driver sin virksomhet,
+
+[00:29:31] eller Facebook driver sin virksomhet
+
+[00:29:33] på bakrommet.
+
+[00:29:35] Det vil kunne bidra til å få ned kost per bit
+
+[00:29:38] ganske betydelig i teleoperatørene,
+
+[00:29:41] og det er kostnadsgjem.
+
+[00:29:42] Men på noe lengre sikt
+
+[00:29:44] så tror jeg også at det kan bidra til
+
+[00:29:46] å skape nye inntekter.
+
+[00:29:48] Der er juryen litt mer ute
+
+[00:29:50] i forhold til hvor verdiskapningen kommer,
+
+[00:29:54] og om det kommer mer på Google og Facebook
+
+[00:29:58] og de store, eller på internettaktørene,
+
+[00:30:01] eller på 5G-aktørene.
+
+[00:30:03] Men jeg tror særlig på fabrikker,
+
+[00:30:05] B2B-siden av fabrikker og den type ting,
+
+[00:30:09] sånn som type Deutsche Telekom,
+
+[00:30:10] så er jeg sikker på at Deutsche Telekom
+
+[00:30:11] vil kunne tappe ut en del inntekter fra det,
+
+[00:30:15] og det er ikke priset enn.
+
+[00:30:17] Jeg merker at man ikke ligger inne med
+
+[00:30:19] at vi skal få til noe særlig på den siden,
+
+[00:30:21] for de har ikke fått til 3G og 4G-kredset
+
+[00:30:24] på samme måte på det å skape
+
+[00:30:26] reell inntektsvekst på det, ikke sant?
+
+[00:30:28] Men som du viste,
+
+[00:30:30] Telekom-aksjene,
+
+[00:30:32] i hvert fall hvis vi ser på flere av de nordiske
+
+[00:30:34] og Telenor, som man følger tettest her hjemme,
+
+[00:30:39] så har jo aksjekursutviklingen vært slapp, Frank.
+
+[00:30:43] Hva tenker dere?
+
+[00:30:45] Hva skal trigge re-ratingen av Telekom-sektoren?
+
+[00:30:51] Egentlig så trenger det ikke skje så mye,
+
+[00:30:52] men de siste årene så har jo markedet gått i år,
+
+[00:30:54] for global aksje har jo gått 30%
+
+[00:30:56] og tech har jo gått 30% i mange år,
+
+[00:30:58] så kanskje de bare går 10% utover
+
+[00:30:59] hvor markedet er flatt.
+
+[00:31:00] Det kan jo skje det med at markedet er flatt.
+
+[00:31:02] Jeg tror vår tanke rundt Telekom,
+
+[00:31:03] da har vi holdt oss unna i,
+
+[00:31:05] jeg vil si Erling Thune hadde holdt oss klokere unna
+
+[00:31:07] fra 2010 til 2020,
+
+[00:31:08] så har vi jo hatt en grei posisjon der
+
+[00:31:11] i teamet av både Deutsche Telekom etter det,
+
+[00:31:13] og tanken er jo at dette er et marked
+
+[00:31:15] hvor du vet at på en måte etterspørselen er der,
+
+[00:31:17] du vet at det kommer ikke noe ny teknologi,
+
+[00:31:19] vi tror ikke noe på Starlink som er konkurrent
+
+[00:31:21] i Telekom-operatører,
+
+[00:31:22] og hvis du ser på skala som jeg snakket om da,
+
+[00:31:25] hvis du er nummer 4 eller 5,
+
+[00:31:26] i Norge og andre land så tjener ikke nummer 4 og 5-spillerne
+
+[00:31:28] noen penger per i dag,
+
+[00:31:30] og da blir det ikke noen investeringer
+
+[00:31:31] eller mer konkurranse da,
+
+[00:31:32] det er tanken,
+
+[00:31:33] og da er det gode sjanser for at dette holder seg.
+
+[00:31:35] Hvis du ser på tech i mange områder da,
+
+[00:31:37] så kaster det seg security software,
+
+[00:31:38] så kaster det seg jo milliarder av venturepenger inn hvert år,
+
+[00:31:41] det er da konkurranse.
+
+[00:31:42] I Telekom så kommer det ikke noen ny konkurranse,
+
+[00:31:44] det er ganske definert stabilt i en verden,
+
+[00:31:46] nå vet vi ikke hvor rentene går,
+
+[00:31:47] men liksom i en verden hvor rentene er under 2%,
+
+[00:31:49] så er dette et selskap hvor du kan få,
+
+[00:31:51] vi tror en aksjeavkastning på 15% i år,
+
+[00:31:53] i neste 15 år nå,
+
+[00:31:54] det skal man lete litt etter,
+
+[00:31:55] så vi har troen på det.
+
+[00:31:57] Ja, tålmodighet vil betale seg, Frank.
+
+[00:31:59] Er det sånn?
+
+[00:32:00] Jeg tror absolutt det.
+
+[00:32:01] Særlig i Telekom.
+
+[00:32:03] Da er markedet veldig styrt av
+
+[00:32:07] hva som er populært i hvert tid,
+
+[00:32:08] og det er der markedet setter inn ressursene.
+
+[00:32:11] Jeg merker jo det på hvem som laster de mine modeller,
+
+[00:32:13] av utlandske forvalter og den type ting,
+
+[00:32:16] og det er klart, Kahoot for eksempel,
+
+[00:32:18] tiltrokket seg veldig mye interesse en periode,
+
+[00:32:21] mens på Telekom, Ericsson, Nokia og sånn,
+
+[00:32:23] så merker jeg at der er det mye mer stille,
+
+[00:32:25] og der er det mer ETF'er som kanskje eier det,
+
+[00:32:27] det er mer indexfond,
+
+[00:32:29] og mange av de spesialistene som har vært
+
+[00:32:31] på forvaltningstiden ute i Europa,
+
+[00:32:33] det er ikke så mange igjen som dere
+
+[00:32:34] som faktisk er spesialister lenger.
+
+[00:32:35] Det er jo faktisk ganske mange, merker vi,
+
+[00:32:38] som nå har fått sin fokus opp på noe annet,
+
+[00:32:41] og kanskje dekker andre sektorer og de sånn,
+
+[00:32:43] i hvert fall i forhold til akkurat Telekom-spacet.
+
+[00:32:46] Sikkert langt flere er tech-spesialister,
+
+[00:32:48] men i hvert fall på den biten så merker vi det.
+
+[00:32:51] Det skaper sikkert litt risiko i en periode
+
+[00:32:55] hvor man havner litt i dødvannet,
+
+[00:32:57] men det skaper også veldig mye mulighet,
+
+[00:32:59] for når ting begynner å skje der,
+
+[00:33:00] så er det mye større rom for forvaltere
+
+[00:33:02] og analytikere og aksjonærer som er på hugget
+
+[00:33:05] til å smi når hjernet da blir varmt.
+
+[00:33:08] Reguleringer er en annen ting som er aktuelt
+
+[00:33:11] og man må forholde seg til.
+
+[00:33:13] Vi har snakket om dette før, Anders.
+
+[00:33:15] Det har kommet inn et spørsmål, så jeg leser det opp,
+
+[00:33:18] og så kjenner jeg ikke akkurat til dette eksempelet,
+
+[00:33:21] men det er jo kanskje du.
+
+[00:33:22] Det er en som lurer på hvordan Supreme Courts utredning
+
+[00:33:25] av de store selskapenes monopol i USA
+
+[00:33:29] kommer til å påvirke tech-selskapene.
+
+[00:33:32] Hvis utfallet av denne utredningen lander på at
+
+[00:33:35] man må begrense mulighetene til å vokse gjennom oppkjøp,
+
+[00:33:39] peker han videre på at for eksempel Apple
+
+[00:33:43] har de siste årene kjøpt veldig mange selskap,
+
+[00:33:46] og hvis dette begrenses,
+
+[00:33:48] så begrenses også vekstmulighetene,
+
+[00:33:50] særlig for de som vokser mye gjennom oppkjøp.
+
+[00:33:53] Det er et veldig bra spørsmål,
+
+[00:33:54] og mange av de selskapene har kjøpt det de ser
+
+[00:33:56] er tidlig konkurranse for å unngå at det kommer opp
+
+[00:33:58] nye selskaper.
+
+[00:33:59] Google tok jo YouTube, det har vært en enorm suksess.
+
+[00:34:02] De har også kjøpt teknologi,
+
+[00:34:03] og Apple vertikalt integrerer all teknologi
+
+[00:34:05] for å få storlekesfordel overfor alle andre.
+
+[00:34:08] Så det er et veldig bra spørsmål.
+
+[00:34:09] Jeg tror det vi har sterke syn på er sånn som
+
+[00:34:10] for eksempel saken fra amerikanske staten mot Google
+
+[00:34:13] på at de betalte for å være det folk søkte på Safari
+
+[00:34:16] som er Apples browser.
+
+[00:34:18] Når vi analyserer riskene for aksjene,
+
+[00:34:20] så tror vi at den risken egentlig ligger på Apple
+
+[00:34:22] og ikke på Google.
+
+[00:34:23] For Bing, som er Microsoft,
+
+[00:34:24] de kan nok betale 12 milliarder dollar i året som Google gjør.
+
+[00:34:27] De kan kanskje betale 4 eller 5,
+
+[00:34:28] fordi produktene deres er så dårlig.
+
+[00:34:30] Hvis det blir forandringer,
+
+[00:34:31] så tror vi Apple mister de inntektene,
+
+[00:34:32] og at folk søker på Google uansett
+
+[00:34:34] bare på en annen måte gjennom Apple.
+
+[00:34:36] Så det er et eksempel på hvordan vi,
+
+[00:34:37] det er jo veldig selskapsspesifikt,
+
+[00:34:39] men selv i den oppkjøpsspringen de har gjort,
+
+[00:34:41] så er det jo flere og flere dealer som blir stoppet,
+
+[00:34:43] og det er klart at da kommer innovasjonen,
+
+[00:34:45] nye selskaper kommer opp og gir konkurranser
+
+[00:34:48] som det har vært lenge siden det har vært.
+
+[00:34:50] Hvis du ser på gruppen totalt sett,
+
+[00:34:52] så er det vel sjeldent å ha sett en så dominerende gruppe
+
+[00:34:54] i verdenshandelen som det du ser på de store fengene nå.
+
+[00:34:57] Så det er tiden for det.
+
+[00:34:59] Så hvis du tenker på Telekom på den ene siden,
+
+[00:35:01] som har blitt i stykke regulert,
+
+[00:35:03] så tenker du på fengene på den andre siden,
+
+[00:35:04] så har du to helt forskjellige risk-reward situasjoner,
+
+[00:35:06] men dette er jo ikke noe som spiller ut neste kvartal
+
+[00:35:08] eller kvartal etter,
+
+[00:35:09] men vi er veldig på track på hvert enkelt av de selskapene
+
+[00:35:11] på de forskjellige myndighetscasene som går.
+
+[00:35:14] Og dette knyttet til reguleringer uansett i hvilken form,
+
+[00:35:18] opp mot mange av disse tech-selskapene
+
+[00:35:21] og sosiale medier-selskapene,
+
+[00:35:22] eller hva man velger å kalle dem,
+
+[00:35:24] det er jo klart det er noe man er nødt til å følge med på,
+
+[00:35:27] for det vil jo utgjøre en potensiell risiko.
+
+[00:35:29] Definitivt, men det man har sett på reguleringer,
+
+[00:35:31] og dette har vært svært stor poeng,
+
+[00:35:32] er at hver regulering som kommer har jo styrket disse selskapene.
+
+[00:35:35] Sånn som GDPR i Europa,
+
+[00:35:37] så stengte de jo ned alle tredje- og fjerdeparts-dataselskapet,
+
+[00:35:41] mens de som hadde innlogget de tjenestene
+
+[00:35:43] og visste hvor brukerne var,
+
+[00:35:44] de tjente jo mer.
+
+[00:35:45] Sånn som Facebook og Google,
+
+[00:35:46] sånn at det akselererte deres styrke.
+
+[00:35:48] Så regulatørene har ikke helt klart å finne veien,
+
+[00:35:50] og den som har funnet veien nå,
+
+[00:35:52] men det er jo for å gavne seg selv,
+
+[00:35:53] det er jo Apple,
+
+[00:35:54] som den identifies for en annons av IDFA,
+
+[00:35:58] hvor de kutter mulighetene til å ta realsidig trafikk mellom appene.
+
+[00:36:02] Det har jo ødelagt veldig for Facebook,
+
+[00:36:03] for nå vet du jo ikke hvor vi er,
+
+[00:36:04] hvis du løper rundt sånn som på Strava,
+
+[00:36:06] så fikk jo Facebook før data på at du var der.
+
+[00:36:09] Nå får de ikke de dataene, så nå har de to dagers delay,
+
+[00:36:11] så dette har ført til at det interne prismarkedet på disse appene
+
+[00:36:14] har blitt svakere,
+
+[00:36:15] og derfor Metaverse,
+
+[00:36:16] de orker ikke at Apple skal kontrollere skjebnen deres.
+
+[00:36:19] Apple har selv begynt å snike til seg noen av inntektene
+
+[00:36:21] gjennom søk i App Store og sånne ting,
+
+[00:36:22] så dette er en stor kamp,
+
+[00:36:23] så i tillegg til at myndighetene er inne og setter prinsipper,
+
+[00:36:27] så har Apple satt en del standarder for de andre selskapene
+
+[00:36:29] som de ikke liker.
+
+[00:36:31] Bra. Frank, jeg sa innledningsvis at du dekker Kahoot,
+
+[00:36:36] du kommer ikke utenom en liten oppdatering på den,
+
+[00:36:39] og jeg tror vi er vel alle enige om at vi heier på Kahoot av flere grunner.
+
+[00:36:44] Det er gøy å spille Kahoot,
+
+[00:36:46] det er gøy med et norsk selskap som vokser seg stort
+
+[00:36:49] og vil ut i verden,
+
+[00:36:51] men så er det aksjekursen da.
+
+[00:36:53] Det har etter en fantastisk oppgang i 2020
+
+[00:36:56] vært tøft i 2021,
+
+[00:36:59] så hva er status?
+
+[00:37:01] Altså noen vil jo si aksjekursen,
+
+[00:37:04] altså hvis du ser det over lang tid,
+
+[00:37:06] så var det jo en visst innslag av eufori på den type vekstselskap,
+
+[00:37:10] høy vekst og egentlig ultra høy vekst
+
+[00:37:13] for vekstselskaper, ikke sant,
+
+[00:37:15] i byll snarere,
+
+[00:37:17] før denne renteoppgangen satt inn også.
+
+[00:37:20] Og så er det jo sånn at Kahoot har jo satt inn
+
+[00:37:23] og de tok jo opp guidanceen sin helt i begynnelsen av året,
+
+[00:37:27] og de ligger jo an til å levere på inntektsdelen av det,
+
+[00:37:29] men på antall abonnenter
+
+[00:37:31] så var de litt optimistiske,
+
+[00:37:33] det har de ikke helt klart å leve opp til enda,
+
+[00:37:36] også har de gjort et,
+
+[00:37:38] til synligheten etter vår vurdering,
+
+[00:37:40] et veldig spennende og godt oppkjøp med Clever,
+
+[00:37:42] jeg tror ikke folk helt har forstått hvor bra det er,
+
+[00:37:44] faktisk.
+
+[00:37:45] Men de som er,
+
+[00:37:47] nå har det jo vært denne short-aktiviteten,
+
+[00:37:49] som på en måte er euforien fra begynnelsen av året har lagt seg,
+
+[00:37:52] plutselig har det begynt å komme litt sånn shorter av,
+
+[00:37:54] det er vel en 6% pluss av friflytten i aksjen som har kommet på short,
+
+[00:38:00] også er det jo en del institusjoner som kanskje ikke er helt komfortable med,
+
+[00:38:04] ikke sant,
+
+[00:38:06] ennå med Kahoot,
+
+[00:38:09] det er et nytt selskap, ungt,
+
+[00:38:11] som kanskje har kjøpt litt,
+
+[00:38:13] men kanskje ikke er helt på å kjøpe den videre ennå,
+
+[00:38:15] og vil gjerne avvente litt,
+
+[00:38:17] så har du shorterne som har kommet på,
+
+[00:38:19] også er det jo retail som viser stor interesse,
+
+[00:38:21] kanskje derfor du spør litt om det nå også,
+
+[00:38:23] ikke sant,
+
+[00:38:25] at det har blitt en veldig populær og bredt eget aksje i Norge.
+
+[00:38:27] Ja, definitivt,
+
+[00:38:29] og jeg trekker jo statistikken til privatkundene våre som handler via online-plattformen vår,
+
+[00:38:33] og det er jo på topplisten,
+
+[00:38:35] nesten topp tre av de mest handlede aksjene hver eneste måned,
+
+[00:38:39] så interessen er stor,
+
+[00:38:41] så man kan jo kalle Kahoot for en norsk folkeaksje nå,
+
+[00:38:43] det vil jeg si at den er inne i den ligan der.
+
+[00:38:45] Absolutt, og jeg snakket jo med selskapet tidligere,
+
+[00:38:47] og de sa at nå har vi passert 1000 aksjonærer,
+
+[00:38:49] jeg tenker oi, det er liksom sånn,
+
+[00:38:51] folk aksjen til i nord,
+
+[00:38:53] sånn som det har vært,
+
+[00:38:55] men nå siste jeg snakket med dem,
+
+[00:38:57] så var det oppi 38 000 aksjonærer da,
+
+[00:38:59] nærmer seg 40, ikke sant?
+
+[00:39:01] Ja, altså interessen er det ikke noe å si på,
+
+[00:39:03] når de skal vokse videre fremover nå da,
+
+[00:39:05] de har gjort en del oppkjøp, de vokser organisk,
+
+[00:39:07] er det den oppkjøpsveksten eller den organiske veksten som blir det viktigste,
+
+[00:39:11] eller er det en god kombo?
+
+[00:39:13] Jeg tror det at det er den organiske definitivt som blir viktigere,
+
+[00:39:17] hvis de kan gjøre god oppkjøp etter hvert,
+
+[00:39:19] så vil det være positivt,
+
+[00:39:21] de må nå levere på det de har sagt for neste år,
+
+[00:39:23] vise at Clever oppkjøpet var bra,
+
+[00:39:25] og hvis de gjør det,
+
+[00:39:27] så kan det komme til meningsfullt store oppkjøp igjen,
+
+[00:39:31] som kan være innvannende,
+
+[00:39:33] sånn som de gjorde tidligere, ikke sant?
+
+[00:39:35] Og en del av den draget de fikk i aksjen i fjoråret,
+
+[00:39:37] var jo også at de gjorde oppkjøp som var ganske innvannende og bra,
+
+[00:39:41] på aksjen, ikke sant?
+
+[00:39:43] Som ga meningsfullt mye topplinjevekst også,
+
+[00:39:49] men det er klart nå som de begynner å nærme seg,
+
+[00:39:51] 100 og skal opp i 200 millioner dollar i utfakturert inntekt neste år,
+
+[00:39:56] ifølge målene deres da,
+
+[00:39:58] så må oppkjøpene være en del større,
+
+[00:40:01] og når de gjør oppkjøp i den litt større størstidsklassen,
+
+[00:40:05] så er det vanskelig å få de så lavt priset,
+
+[00:40:07] sånn som de gjorde historisk da.
+
+[00:40:11] Så sannsynlig for at det blir sånn at,
+
+[00:40:13] litt sånn som Sinch i Sverige er en sånn aksje som,
+
+[00:40:15] hver gang de har gjort et oppkjøp,
+
+[00:40:17] så går aksjen 10-20%, ikke sant?
+
+[00:40:19] Og det går inntil et visst punkt,
+
+[00:40:21] og så skjer det noe.
+
+[00:40:23] Men det har vært en fantastisk historie for Sinch da,
+
+[00:40:28] som er sånn konkurrent til Link Mobility,
+
+[00:40:30] som sikkert mange har hørt om, bare til Sverige.
+
+[00:40:32] Det der var jo noe som Kahoot gjorde en periode også,
+
+[00:40:36] men det er klart, den utviklingen de hadde rundt oppkjøpet av Clever,
+
+[00:40:41] som jeg mener er undervurdert bra,
+
+[00:40:43] men hvor på en måte aksjen falt litt rundt,
+
+[00:40:46] fordi det var ikke helt fullfinansiert av de jorda og den type ting,
+
+[00:40:49] gjør nok det at de må levere på det,
+
+[00:40:54] før vi kan eventuelt dra i gang en sånn historie igjen da,
+
+[00:40:58] med vekst gjennom oppkjøp.
+
+[00:41:01] Kahoot, interessant for dere, Anders?
+
+[00:41:04] Ja, vi har jo sett på selskapet.
+
+[00:41:06] De har gjort det veldig bra, hvis du ser over litt tid på aksjekursen.
+
+[00:41:09] Vi har ikke investert riktig i området, altså edtech.
+
+[00:41:12] Spennende område.
+
+[00:41:13] Følger du med?
+
+[00:41:14] Vi følger med.
+
+[00:41:15] Vi er jo litt konservative på prising og hva som skjer om 50-20 år.
+
+[00:41:18] Vi har vel egentlig den troen at når ting går fortere og fortere i samfunnet,
+
+[00:41:22] at det dukker opp en eller annen konkurranse du ikke ser.
+
+[00:41:24] I dag er markedet veldig positiv fra det som skjer fra år 50-15,
+
+[00:41:26] så generelt, jeg snakket om softwarebransjen generelt i sted,
+
+[00:41:29] så har vi valgt et par litt mer sånn sikre områder hvor vi er.
+
+[00:41:32] Dette er jo et selskap som er i et område som kan være veldig høy vekst,
+
+[00:41:35] hvor du da kan faktisk ha positive overraskelser,
+
+[00:41:37] og få en veldig høy verdsetting, selv i forhold til det du har i dag.
+
+[00:41:41] Per i dag så er vi, vi er i Arrow Electronics, Telekom Aksjer,
+
+[00:41:45] vi er i Microsoft.
+
+[00:41:48] Vi er delvis i Google.
+
+[00:41:52] Bra, da har vi vært gjennom mye.
+
+[00:41:56] Litt om alt egentlig.
+
+[00:41:58] Vi har snakket om noen viktige aktuelle trender,
+
+[00:42:01] touchet inn på et par case.
+
+[00:42:03] Så jeg tenkte avslutningsvis, Anders,
+
+[00:42:06] hvis du bare vil avslutte med, hva skal vi,
+
+[00:42:08] gi oss en liten sånn, hva skal vi si, sneak-pick
+
+[00:42:11] på hvordan du ser inn i 2022.
+
+[00:42:14] Er teknologi fortsatt et bra sted å være?
+
+[00:42:16] Det tror jeg.
+
+[00:42:17] Jeg tror, hvis du så på på en måte verdsettingene,
+
+[00:42:19] av porteføljen og markedet,
+
+[00:42:21] så er det ikke noe gamp med det i forhold til renter.
+
+[00:42:23] Så det er mer at det er noen store områder i verden
+
+[00:42:26] som har veldig vanskelige priser.
+
+[00:42:27] Software er noe av det.
+
+[00:42:29] Nye start-ups innenfor financials,
+
+[00:42:31] type Square, PayPal, veldig store utfallsrom.
+
+[00:42:33] Da har vi valgt å være litt på den sikre siden,
+
+[00:42:35] og jeg tror det er, som du så på,
+
+[00:42:37] på en måte syv prosent avkastning på selskapen i dag.
+
+[00:42:39] De vokser ti prosent, altså P15,
+
+[00:42:41] vokser 14 i år, 10 neste år.
+
+[00:42:43] Jeg tror det er en bra risk-reward relativt til rentene.
+
+[00:42:45] Du vet aldri hvor rentene ender,
+
+[00:42:47] men vi pleier å tenke på 10-åringen i USA
+
+[00:42:50] som et bra utgangspunkt for hva det er summen av markedet,
+
+[00:42:52] så gitt de forutsetningene vi ser i dag,
+
+[00:42:54] tenker jeg det er veldig bra avkastning
+
+[00:42:56] i fondene i neste år.
+
+[00:42:58] Bra. Vi får komme tilbake med flere oppdateringer senere.
+
+[00:43:02] Her kommer det til å skje mye også i årene som kommer,
+
+[00:43:05] det er helt sikkert.
+
+[00:43:06] Tusen takk for at dere var med,
+
+[00:43:08] og sist men ikke minst,
+
+[00:43:09] tusen takk folkens til alle dere som fulgte med.
+
+[00:43:12] Denne podcasten og dettes innhold

@@ -1,0 +1,611 @@
+Episode 321: Investortempen, nyttårsraketter og sentralbank-julegaver
+Publisert: Sat, 17 De
+Vert: Marius Brun Haugen
+Varighet: 21 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/investortempen-nyttarsraketter-og-sentralbank-julegaver
+
+--- Transkripsjon ---
+
+[00:00:00] Skal jeg si ho ho, Paul? Det er ikke noe gøy, det.
+
+[00:00:04] Den amerikanske sentralbanken har delt ut julegavene sine for i år.
+
+[00:00:15] Paul har fylt opp sekken med aksjene som kan bli årets nyttårsraketter,
+
+[00:00:19] og jeg har tatt temperaturen på investorenes avkastningsforventninger for det kommende året.
+
+[00:00:24] Og alt dette skal vi snakke mer om i dagens episode.
+
+[00:00:39] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer med den globale økonomien og finansmarkedene.
+
+[00:00:46] Jeg er Marius Brunhaugen, og med meg har jeg aksjestrateg i DNB Markets, Paul Harper.
+
+[00:00:53] Hei, Paul.
+
+[00:00:54] Hei, Marius.
+
+[00:00:55] Nå er det bare en uke igjen til jul, så første spørsmål forblir om du er ute med juleforberedelsene?
+
+[00:01:02] Jeg skal ikke si at jeg er helt ferdig enda.
+
+[00:01:04] Jeg driver og jobber litt fortsatt med den 2023 Outlook-rapporten,
+
+[00:01:08] og det har skjedd såpass mye denne uken at jeg må faktisk skrive litt av det om her,
+
+[00:01:12] så jeg har litt mer å gjøre der.
+
+[00:01:15] Men som du sier så er nyttårsporteføljen, den er ferdig og publisert i går,
+
+[00:01:20] så det er egentlig kanskje de viktigste faktorene, bortsett fra at jeg har ikke skaffet noen gave til kona enda,
+
+[00:01:26] men hun hører ikke på podkasten, så da går det greit, tror jeg.
+
+[00:01:28] Ok, ok, det er bra, det er bra.
+
+[00:01:31] Nyttårsporteføljen, den går i kategorien risikofylt gaver, hvis vi skal bruke den terminologien der,
+
+[00:01:38] og de skal vi snakke om senere i episoden.
+
+[00:01:41] Men først som vanlig til uken som har gått,
+
+[00:01:45] ligger den til en forsiktig rød uke for S&P 500 etter at det falt markert i går, torsdag kveld.
+
+[00:01:53] Når vi sitter her så er det altså fredag 16. desember,
+
+[00:01:57] så vi vet jo enda ikke hvordan uken ender i USA.
+
+[00:02:01] Men hva er det viktigste du tar med deg fra denne uken, Paul?
+
+[00:02:05] Ja, det er jo mye forskjellige ting vi kan snakke om denne uken,
+
+[00:02:08] men jeg tror det er vanskelig å komme forbi konklusjonene fra sentralbankmøtene,
+
+[00:02:13] tror jeg er det viktigste.
+
+[00:02:14] Ja, da.
+
+[00:02:15] Ellers så vet du at Tesla og Netflix er eksempler på aksjer som har fått kjørt seg litt på ned siden denne uken.
+
+[00:02:23] Det har også vært en del svake aksjer i OCBX-indeksen,
+
+[00:02:27] blant annet med Hydro som et eksempel,
+
+[00:02:29] der Frontline og noen av laksaksjene er det positive vi kan trekke frem.
+
+[00:02:34] Men vi skal ikke bruke så mye tid på dette her i dag.
+
+[00:02:37] Det er som sagt julegavene fra sentralbanken som fortjener litt oppmerksomhet,
+
+[00:02:44] og de varer den.
+
+[00:02:44] Den har jo kanskje litt brutale sorten, må vi si,
+
+[00:02:48] men like fullt noe man burde være forberedt på som investor,
+
+[00:02:52] mener i hvert fall jeg da.
+
+[00:02:53] Norges Bank hevet renten med 0,25 prosent torsdag i denne uken til 2,75 prosent.
+
+[00:03:00] Det var som ventet.
+
+[00:03:01] Den europeiske sentralbanken hevet.
+
+[00:03:03] De også gjekket opp inflasjonsprognosen,
+
+[00:03:06] og det beskrives som at de nå er klart mer haukaktige enn det markedet også var forberedt på.
+
+[00:03:13] Men det viktigste for aksjemarkedet, det er jo som alltid hva den amerikanske sentralbanken Fed gjør,
+
+[00:03:20] og ikke minst hva de da sier om kommende rentehevinger.
+
+[00:03:23] De hevet med en halvheng, altså 0,5 prosent.
+
+[00:03:27] Det var ventet, og renten den er nå i rangen 4,25 til 4,5 prosent,
+
+[00:03:35] og de ser for seg en rentetopp på 5,1 prosent.
+
+[00:03:39] Over 5 prosent altså.
+
+[00:03:41] Og aksjemarkedet, det reagerte umiddelbart.
+
+[00:03:43] Det reagerte umiddelbart litt ned, langrenter litt opp,
+
+[00:03:47] men det var litt sånn nøling når man satt og fulgte dette sekund for sekund og minutt for minutt,
+
+[00:03:51] og så gikk det litt frem og tilbake før det til slutt endte med fall for aksjer i etterkant
+
+[00:03:57] av at rentebeslutningen kom onsdag kveld.
+
+[00:04:01] Sånn sett så ble det ikke akkurat en særlig fin gave til investorene på.
+
+[00:04:06] Nei, jeg tror selve rentebeslutningen var akkurat som ventet,
+
+[00:04:09] men det var de kommentarene som kom i pressekonferansen etterpå,
+
+[00:04:13] og estimatene de publiserte for hva de tror om økonomien fremover,
+
+[00:04:17] som ikke ble helt godt mottatt av aksjemarkedet.
+
+[00:04:20] Ja, det har gitt oss litt å tygge på det, har det ikke det?
+
+[00:04:23] Jeg synes det var også interessant at langrenter ikke steg,
+
+[00:04:26] og at aksjer samtidig reagerte litt ned, er det enig?
+
+[00:04:30] Ja, jeg synes det var litt overraskende hvor lite endring det var på 10 års rente,
+
+[00:04:33] for det var jo egentlig en renteoverraskelse, i hvert fall i banen som ble publisert,
+
+[00:04:39] så litt rart at rentene ikke reagerte noe særlig på akkurat,
+
+[00:04:43] så jeg tror det var egentlig mye større renteendringer rundt inflasjonstallene
+
+[00:04:49] som ble publisert tidligere i uken, så mesteparten av ukens endring kom egentlig da.
+
+[00:04:54] Fed, den amerikanske sentralbanken, ser BNP neste år på 0,5 prosent på mediannivå,
+
+[00:05:01] men det er vel en nedsiderisk der.
+
+[00:05:04] De ser ledighetsrate på 4,6 prosent, opp fra 4,4,
+
+[00:05:08] og kjerneinflasjon på tre tall.
+
+[00:05:11] Er ikke dette her en litt rar cocktail?
+
+[00:05:13] Ja, jeg tror man skal alltid ta disse estimatene litt med en klype salt.
+
+[00:05:17] Jeg tror ikke Fed egentlig har noe bedre historikk enn andre økonomer når det gjelder det å spå fremtiden,
+
+[00:05:22] så sånn sett så ville jeg ikke kanskje lagt alt for mye vekt på det,
+
+[00:05:25] men det var nok mange som stusset litt over at de justerte inflasjonsforventningene litt opp,
+
+[00:05:33] og det er oppsett i tross for at du har hatt to måneder på rad nå med lavere enn ventet inflasjon,
+
+[00:05:39] og de legger også til grunn høyere renter og høyere arbeidsledighet,
+
+[00:05:43] alt annet likt skal jo egentlig da trekke inflasjonen noe ned,
+
+[00:05:46] så endringen til estimatene er vanskelig å se noe positivt i,
+
+[00:05:49] men det er jo lavere vekst, høyere inflasjon, høyere arbeidsledighet og høyere renter.
+
+[00:05:53] Skal vi ta en liten jettekonkurranse til lytterne?
+
+[00:05:57] Det kan vi godt prøve.
+
+[00:05:58] Ok, hvem av oss to, Poul og meg, tror dere så på fotballkamp,
+
+[00:06:03] og hvem tror dere brukte kvelden til å se på rentebeslutningen til Fed onsdag kveld?
+
+[00:06:09] Å, trommevirvel! Svaret er Poul, hva gjorde du?
+
+[00:06:13] Fotball, merker jeg nok.
+
+[00:06:14] Ja, ikke sant?
+
+[00:06:15] Det er det kanskje ikke alle lytterne som hadde trodd da,
+
+[00:06:18] mens vi fortalte på den boken at Poul er så smart at han kan se på fotballkamp,
+
+[00:06:23] og så leser han seg opp kjapt dagen etter,
+
+[00:06:25] mens vi som har litt tyngre for det, vi er nødt til å jobbe litt på kveldstid også.
+
+[00:06:31] Det første spørsmålet på pressekonferansen, det gikk på hvordan han hensyn tok,
+
+[00:06:35] altså Poul, aksjeoppgangen og rentenedgangen i lange renter som vi har sett de siste 8 ukerne,
+
+[00:06:43] og han svarte vel da litt mellom linnene at det var litt sånn prematurt,
+
+[00:06:48] hvor fort rentehevingene kommer fremover, det var et av de andre spørsmålene,
+
+[00:06:53] og ja, den raske oppgangen har vi unnagjort, sa han ganske tydelig,
+
+[00:06:58] men hvor høyt renten skal, ja det er vi avhengig av alt,
+
+[00:07:02] og så sa han også at rentekutt ikke er aktuelt før kommittéen ser at inflasjonen med stor sikkerhet
+
+[00:07:09] er på vei til å stabilisere seg på 2%.
+
+[00:07:13] Rente var i hvert fall sånn jeg tolket det, men dette er jo også i tråd med det han har sagt før da, Poul,
+
+[00:07:17] men det er jo ikke sikkert vi får rentekutt før i 2024, hvis vi skal tro sentralbanken og markedet er jo ikke helt enige.
+
+[00:07:23] Nei, det er litt interessant dette her, og jeg tror liksom også sånn som situasjonen er akkurat nå,
+
+[00:07:29] så er det liksom den utviklingen i inflasjonen og tallene fremover som blir avgjørende her,
+
+[00:07:35] for det er et interessant gap akkurat nå mellom hva markedet forventer og hva Fed sier.
+
+[00:07:40] Men hva er det viktigste for Poul?
+
+[00:07:43] Og Poul da, når det gjelder inflasjonen fremover, er det disse kjernetjenesten og da aller helst justert for det som skjer i boligmarkedet med leiepriser og sånn?
+
+[00:07:54] Altså tjenestesektoren er der inflasjonen kan bli litt sånn stikki og skape sånn prislønnsspiral,
+
+[00:08:00] så det er klart det er jo veldig viktig.
+
+[00:08:02] Endring i råvarepriser er det lite Fed kan gjøre så veldig mye med,
+
+[00:08:05] og boligleiekomponenten i inflasjonstallene er alltid litt på etterskudd,
+
+[00:08:10] for det må ta hensyn til at de fleste inngår ikke nødvendigvis,
+
+[00:08:13] nye leieavtaler hver måned.
+
+[00:08:15] Så det kommer alltid en del etter at du ser at leiepriser endrer seg.
+
+[00:08:20] Så hvis man skal følge med på en ting, nå tror jeg det er lønnsveksten som er det aller viktigste.
+
+[00:08:25] Det er det som driver inflasjonen i tjenestesektoren,
+
+[00:08:28] og kommer lønnsveksten ned og arbeidsledigheten opp,
+
+[00:08:30] blir det kanskje da unødvendig å heve renten til over 5%.
+
+[00:08:34] Men hvis det ikke skjer, da kan det bli et nytt rentesjokk i 2023.
+
+[00:08:39] Ja, men hva blir konsekvensene for markedet,
+
+[00:08:43] det jeg prøver å se 60-12 måneder frem i tid?
+
+[00:08:45] Ja, det viktigste er akkurat dette her med at det er et tydelig gap nå
+
+[00:08:50] mellom hva markedet forventer Fed skal gjøre,
+
+[00:08:53] og hva Fed selv sier de skal gjøre.
+
+[00:08:55] Så enten må Fed justere seg ned til der markedet er,
+
+[00:08:58] eller motsatt, avviket begynner egentlig fra andre kvartalet til neste år,
+
+[00:09:03] så vi har noen måneder nå hvor markedet og Fed er egentlig enige om å være uenige.
+
+[00:09:07] Men etter det kan det da bli ganske spennende, tror jeg.
+
+[00:09:10] Men hva slags aksjer skal man eie med dette bakteppet da?
+
+[00:09:13] Ja, det er ikke helt optimalt bakteppet for aksjer,
+
+[00:09:16] for hvis markedet har rett, så er det jo det som er priset inn allerede,
+
+[00:09:21] så da blir det ikke noe positiv overraskelsesett fra prising av aksjer.
+
+[00:09:26] Men hvis det viser seg at det er Fed som har rett,
+
+[00:09:28] så må markedet prise inn høyere renter,
+
+[00:09:30] som da setter press på P-multiplene til aksjene.
+
+[00:09:34] Og hvis det viser seg da at renten blir lavere enn det markedet tror,
+
+[00:09:37] er det sannsynlig fordi veksten i økonomien bremser såpass
+
+[00:09:40] at vi må da kutte i inntjeningsestimatene,
+
+[00:09:43] som heller ikke er noe særlig positivt for aksjer.
+
+[00:09:45] Så det er ikke veldig enkelt å finne en slags scenario her,
+
+[00:09:49] hvor du klarer å treffe på alle de forskjellige punktene samtidig,
+
+[00:09:51] som både har bra nok inntjening,
+
+[00:09:53] og får inflasjonen ned, og får rentene på riktig nivå.
+
+[00:09:57] Så det er en ganske vanskelig balansegang de har her.
+
+[00:10:00] Oppsiden når det gjelder det å prøve å plukke aksjer da,
+
+[00:10:03] så tror jeg robust inntjening da blir veldig viktig.
+
+[00:10:05] Og da er det litt sånn defensivt heller enn sykliske aksjer.
+
+[00:10:09] Så iblant så er kjedelig bra.
+
+[00:10:10] Det å ønske spennende tider er ikke nødvendigvis positivt ladet,
+
+[00:10:15] i hvert fall som de sier i Kina.
+
+[00:10:17] Så vil jeg også si, kanskje holde deg unna høyvekst aksjer,
+
+[00:10:21] for at de tåler ikke noen renteoverraskelser.
+
+[00:10:24] Og dette her, det skal vi jo komme mer tilbake til i oppdateringen,
+
+[00:10:29] når vi virkelig ser inn i det nye året.
+
+[00:10:32] Den kommer i romhjul.
+
+[00:10:34] Nå til en fersk investorundersøkelse som vi har gjennomført.
+
+[00:10:39] Dette gjør vi på jævnlig basis.
+
+[00:10:42] Den viser at privatinvestorene våre ved inngangen til 2023,
+
+[00:10:47] faktisk er mer optimistiske til avkastningen i aksjemarkedet neste år,
+
+[00:10:51] enn det de har vært i hele høst.
+
+[00:10:54] Og undersøkelsen, den er signifikant den,
+
+[00:10:57] for den har mer enn tusen svar.
+
+[00:11:00] Og vi vet jo at dette er våre aktive privatinvestorer som svarer opphold.
+
+[00:11:05] Man skal ikke undervurdere hva slags utslag i en positiv endring,
+
+[00:11:09] sentimentet kan ha på markedet, i hvert fall i det korte bildet.
+
+[00:11:11] Nei, på kort sikt er det jo sånn at markedet driver seg av frykt og grådighet,
+
+[00:11:16] så skal vi ikke undervurdere effekten det kan ha, i hvert fall over korte perioder.
+
+[00:11:21] Men det er nok mer relevant sett fra øynene for en trader,
+
+[00:11:24] heller enn en investor med lengre tidshorisont.
+
+[00:11:27] Ser vi på sektorene som privatinvestorene har mest tro på,
+
+[00:11:31] er det fortsatt energi og shipping,
+
+[00:11:34] selv om andelen er litt mindre enn tidligere.
+
+[00:11:37] Det er fortsatt sektorene de har større.
+
+[00:11:39] Det er de som har størst tro på, altså.
+
+[00:11:41] Equinor og vår energi trådner øverst blant aksjene flest anbefaler,
+
+[00:11:45] når det blir spurt om det.
+
+[00:11:47] Og her kan vi jo ta med AKBP i samme åndedrag da, Poul.
+
+[00:11:52] De kom med bekreftelser på vekstplaner de har de kommende årene senest i dag.
+
+[00:11:58] Ja, det ser ut som ting er sånn någelunde on track her,
+
+[00:12:01] og det er liksom ikke noe sånn market moving dette her,
+
+[00:12:05] men det viser i hvert fall at ting tikker å gå som det skal.
+
+[00:12:09] Det er containerships.
+
+[00:12:10] Det er også blant aksjene som privatinvestorene anbefaler når de blir spurt.
+
+[00:12:15] Og MPC fikk jo litt skudd for bauen denne uken her da, Poul,
+
+[00:12:20] ifølge shipping-analytikerne hos oss,
+
+[00:12:23] i forhold til det som går på motsiderisiko.
+
+[00:12:26] Eller motpartsrisiko, heter det.
+
+[00:12:28] Ja, så de har jo to containerships som ble levert tilbake litt tidlig,
+
+[00:12:32] så de har leide ut mye av flåten på lange kontrakter.
+
+[00:12:35] Og de har leide ut til ekstremt gode rater.
+
+[00:12:38] Men nå har det jo vært da en av motpartene som har funnet ut at disse ratene er litt for dyre,
+
+[00:12:43] så da har de heller valgt å levere båtene tilbake tidlig.
+
+[00:12:46] Men så får de også kompensasjon for at de gjør dette her.
+
+[00:12:50] Men det kan jo være at noe tilsvarende skjer med andre båter de har leide ut også da,
+
+[00:12:55] i og med at de har klart å leide de ut på rater som er såpass høye.
+
+[00:13:00] Men hvis vi ser hva det egentlig betyr for MPC Container da,
+
+[00:13:05] så var salgsprisen,
+
+[00:13:06] de har jo da solgt disse båtene etterkant,
+
+[00:13:08] og salgsprisen var litt lavere enn det vi hadde ventet,
+
+[00:13:12] så det var kanskje litt skuffende.
+
+[00:13:14] Men på den andre siden så handler aksjer til et godt stykke under chipsverdiene,
+
+[00:13:19] så det er liksom innvannende i forhold til aksjekursen,
+
+[00:13:22] selv om salgsverdiene er noe utvannende i forhold til NAV-prising på aksjene,
+
+[00:13:28] hvis det gir noe mening.
+
+[00:13:30] Da har de jo størt endkapitalet altså.
+
+[00:13:33] Ok.
+
+[00:13:34] Investorene i undersøkelsen,
+
+[00:13:35] de sier også at de ser inflasjonen som en mindre trussel enn tidligere i høst,
+
+[00:13:42] altså det er fortsatt det de betegner som den største trusselen til markedet,
+
+[00:13:46] mens selskapenes inntjening,
+
+[00:13:48] den trekkes frem av flere enn før som et risikomoment,
+
+[00:13:53] og dette synes jeg er ganske tråd med markedet,
+
+[00:13:55] og det stemmer vel også ganske bra i din bok, Paul?
+
+[00:13:58] Ja, jeg er enig i at det er nedsidig risiko i inntjeningsestimatene,
+
+[00:14:02] og ser vi borti fra råvarer og shipping,
+
+[00:14:04] så er forventet inntjeningsvekst egentlig ganske optimistisk,
+
+[00:14:08] synes jeg egentlig hadde det vært et normalt år,
+
+[00:14:10] så hadde jeg fremdeles egentlig syntes at det var relativt optimistisk det som ligger i estimatene nå.
+
+[00:14:16] Det er ikke så lett å se det fra indeksnivå,
+
+[00:14:19] for spesielt i Oslo så har det da veldig mye råvareksponering,
+
+[00:14:23] hvor priserne kommer litt ned, så det trekker totalen ned,
+
+[00:14:26] og så i tillegg så har det lakseskatt som trekker inntjening ned fra sjømatselskapene,
+
+[00:14:30] men justerer du bort det, så er egentlig veldig mye av det som er igjen.
+
+[00:14:33] Forventet til å ha vekst på 10% pluss,
+
+[00:14:36] så jeg ser ikke helt at det er så lett å få til hvis det blir litt svak vekst i økonomien nå.
+
+[00:14:41] Sektoren som investorene har minst tro på når de blir spurt,
+
+[00:14:46] det er fortsatt eiendom, til tross for den rekylen vi har sett tegn til siste perioden.
+
+[00:14:53] Her hadde Simen Mortensen, som er eiendomsanalytikeren i DNB Markets,
+
+[00:14:57] en interessant oppdatering denne uken, der han viser at det norske eiendomsmarkedet,
+
+[00:15:03] som det kanskje ikke har blitt like mye fokusert på som trøbbelet som har vært i det svenske,
+
+[00:15:09] har en større prosentandel av unoterte obligasjonslån og en større del høyrrentelån
+
+[00:15:16] enn det vi ser utstedt i svenske kroner og euro,
+
+[00:15:20] og dette er antagelig da på grunn av at det er mer syndikerte eiendomsinvesteringer i Norge.
+
+[00:15:26] Men uansett, konklusjonen hans, det er at det norske markedet
+
+[00:15:31] har like stor refinansieringsrisiko som det svenske,
+
+[00:15:36] og hele 25 milliarder av utestående nær 100 milliarder kroner
+
+[00:15:41] kan ha behov for refinansiering allerede neste år,
+
+[00:15:45] så med andre ord, kommer ikke rentene ned snart,
+
+[00:15:48] så kan det bli ganske tøft for mange i eiendom-pollen.
+
+[00:15:52] Ja, jeg er litt på den foten at når det gjelder eiendom,
+
+[00:15:55] så er det nok bedre å være litt tålmodig og heller vente på at det blir litt sånne distresste muligheter her,
+
+[00:16:01] for det er klart, på mange av disse så har de blitt finansiert på veldig lave renter,
+
+[00:16:06] og nå når de må refinansiere, muligens på renter som er høyere enn det gilden er som de leier ut bygget på,
+
+[00:16:12] så er det klart det regnestykket går ikke opp,
+
+[00:16:14] så da blir det til at de som eier disse byggene må spytte inn mer egenkapital,
+
+[00:16:19] og det er ikke sikkert at alle er i stand til å gjøre det.
+
+[00:16:21] Ja, og kommer rentene ned, og i tilfelle når, er jo det som vil bli sannsynligvis helt avgjørende her da.
+
+[00:16:27] Ja, timing er jo alltid viktig her,
+
+[00:16:29] det er jo alltid noen som klarer å holde ut så vidt lenge nok, og andre som klarer det akkurat ikke,
+
+[00:16:34] men det å ha litt tørt krutt tror jeg er fornuftig hvis du vil ha en eksponering i eiendommen fremover.
+
+[00:16:39] Ja, og Simen han har også undervekt på sektoren da, om noen lurte på det.
+
+[00:16:44] Nå skal vi til nyttårsporteføljen, da begrepet januar-effekten eller nyttårseffekten,
+
+[00:16:51] det refererer til observasjonen om at aksjemarkedet ofte utvikler seg positivt i perioden rundt nyttår,
+
+[00:16:58] nærmere bestemt da med inngang rundt 15. desember og utgang den femte handelsdagen i januar,
+
+[00:17:06] mener vi, eller du Pål, at det er optimalt.
+
+[00:17:10] I teorien så skulle jo denne effekten ha blitt vannet ut over tid, men det har ikke vært tilfelle i det norske aksjemarkedet,
+
+[00:17:17] og metoden du bruker, Pål, for å finne frem til aksjene som vi tror vi gjør det aller best i denne perioden rundt nyttår,
+
+[00:17:24] er enkelt og greit å velge ut de ti aksjene som har falt mest hittil i år.
+
+[00:17:27] Så det er med andre ord en ren kvantitativ analyse der fundamentale forhold ikke er hensyntatt.
+
+[00:17:35] Hva er fellesnevnerne for nyttårsraketten i år, Pål?
+
+[00:17:39] Renteoppgangen vi har sett har gjort at vekstaksjer har hatt det veldig tøft i år,
+
+[00:17:43] så det meste av det vi har i porteføljen denne gangen er nettopp vekstaksjer.
+
+[00:17:48] Og hvilke aksjer er med i porteføljen?
+
+[00:17:51] Hvis vi ramser det opp alfabetisk, så har vi Ake Horizons, Autostore, Bergen Bio,
+
+[00:17:57] Carasent, Elmera, Entra, Kahoot, Nycode, Satz og Shipstead.
+
+[00:18:03] Et par overliggere fra i fjor der også.
+
+[00:18:05] Ja, det er et par aksjer som synes det var såpass moro at de skulle prøve seg en gang til her,
+
+[00:18:11] så både Kahoot og Elmera er innenfor andre ord i parad.
+
+[00:18:14] Hva skal man huske på da, hvis man velger å handle disse aksjene i denne perioden?
+
+[00:18:20] Vi får jo bare si med en gang, det er stor risiko forbundet med dette her, det må vi bare presisere.
+
+[00:18:25] Ja, så siden disse aksjene har en felles faktor, at de ikke liker høye renter,
+
+[00:18:30] så er det klart at vi vil jo helst da se at rentene trekker nedover,
+
+[00:18:35] eller i verste fall sidelengs i løpet av de neste ukene.
+
+[00:18:38] Så går rentene opp, da blir det nok antakeligvis tungt for denne porteføljen,
+
+[00:18:42] og dette er jo egentlig et godt eksempel at til tross for at du har en del diversifisering mellom sektorer,
+
+[00:18:47] så hvis du har en felles faktor i porteføljen, så kan du likevel da ende opp med at porteføljen blir et slags,
+
+[00:18:54] i dette tilfellet rentebett, eller at det er et bett på et eller annet makrofaktor.
+
+[00:18:59] Så det er alltid viktig å tenke hva slags faktoreksponering har du i porteføljen, ikke bare sektoreksponering.
+
+[00:19:04] I tillegg så er dette aksjer hvor jeg tror det er trygt å si at risikoprofilen er et stykke over det gjennomsnittet,
+
+[00:19:11] og det er ikke noe nytt med at denne porteføljen er relativt høyrisiko aksjer,
+
+[00:19:17] så man må være forberedt på at til tross for at det har falt mye allerede i år, så er det alltid nedsidig risiko aksjer.
+
+[00:19:23] Det er det å bare huske at det er 50 prosent nedgang hvis en aksje faller fra 80 til 90 prosent,
+
+[00:19:28] så det å bare huske matematikken er nyttig her.
+
+[00:19:32] Bra! Når det gjelder utsiktene for aksjemarkedet det kommende året som vi snakket om innledningsvis,
+
+[00:19:40] det er jo en annen fast og tradisjonell oppdatering som vi pleier å ha, så kommer det til å komme,
+
+[00:19:48] også her i podcasten. Jeg har spilt inn en kortversjon på video allerede,
+
+[00:19:52] så den kommer nok i e-posten til mange av dere som lytter i løpet av noen få dager,
+
+[00:19:56] men du og jeg, Paul, vi skal altså vise en helt egen episode her i Utbytte,
+
+[00:20:01] der vi forsøker å menne litt om 2023. Du er klar for det?
+
+[00:20:05] Ikke helt enda, men jeg kommer til å bli det i god tid før sending.
+
+[00:20:08] Ja, og den episoden den kommer vi til å publisere ut tidlig i romhjulen.
+
+[00:20:14] Neste uke så setter vi fokus på helsesektoren. Vi har nemlig hatt helsekonferanse her i Bjørvika denne uken,
+
+[00:20:21] og der har jeg laget podcast med noen veldig flinke investorer og selskaper,
+
+[00:20:27] sammen med investeringsstiftelsen Radforsk og deres podcast som heter Radium,
+
+[00:20:33] så tune inn på tirsdag for mer om det som skjer i helse og hva som kan prege 2023 der.
+
+[00:20:39] Nå er det snart helg og juleforberedelser, helt sikkert for mange av oss,
+
+[00:20:45] så da gjenstår det egentlig bare å si takk for at du var med, Paul, og takk til alle dere som
+
+[00:20:51] hørte på. Dersom dere likte oppdateringen, så setter både Paul og jeg stor pris på
+
+[00:20:55] om dere legger igjen en hyggelig kommentar og reiter podcasten.
+
+[00:20:59] Ha en riktig god helg, folkens, og så høres vi i neste uke.
+
+[00:21:04] Denne sendingen ble publisert i podcasten Utbytte.

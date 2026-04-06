@@ -1,0 +1,897 @@
+Episode 273: Spektakulære aksjemarkeder og internasjonale vibber
+Publisert: Sat, 07 Ma
+Vert: Marius Brun Haugen
+Varighet: 28 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/spektakulaere-aksjemarkeder-og-internasjonale-vibber
+
+--- Transkripsjon ---
+
+[00:00:06] Denne uken har vært spekket med spektakulære svingninger i aksjemarkedet, langt utenom det vanlige.
+
+[00:00:13] Hvorfor er det sånn, og hva leser vi ut av det?
+
+[00:00:16] Vi har også hatt renteving i USA, en drøsse med kvartalsrapporteringer, og jeg har vært i London og fått noen interessante oppdateringer som jeg tenkte å dele med dere.
+
+[00:00:36] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer i den globale økonomien og finansmarkedene.
+
+[00:00:43] Jeg er Marius Brunnhaugen fra DNB Markets, og med meg har jeg min gode kollega, aksjestrateg, Poul Harper.
+
+[00:00:51] Hei, Poul.
+
+[00:00:52] Hei, Marius.
+
+[00:00:53] Ja, da er det fredag 6. mai. Klokken begynner å bli rundt ett, så det har ikke åpnet i USA enda, men for vår del blir det på tide å oppsummere nå.
+
+[00:01:04] Og for en uke det har vært, det er vel innafor å kalle denne første handeluken i mai for spektakulær, eller hva?
+
+[00:01:11] Ja, det har jo vært veldig spennende.
+
+[00:01:13] Det har vært veldig store svingninger, og når man ser tilbake gjennom historikken, så er det noen av de svingningene vi har sett de siste dagene,
+
+[00:01:19] blant de som dukker opp på denne topplisten.
+
+[00:01:22] Ja, altså mandag så var det jo intradagssvingninger i de nordiske markedene, før vi hadde rukket å få ned den første kaffekoppen på sånn 50-89 prosent.
+
+[00:01:33] Onsdag fikk vi jo som ventet en Big Mac fra Fed, som hevet av renten med 0,5 prosent.
+
+[00:01:38] Og Nasdaq avsluttet den dagen med å snu ut i oppgang på 3 prosent.
+
+[00:01:43] Og fallet mer enn 5 prosent litt ut i handelen på torsdagen.
+
+[00:01:49] Sånn i sum da, denne uken her, så er jeg tilbake på det der som jeg føler jeg har sagt i foregående uken og måneden,
+
+[00:01:57] at jeg synes det er vanskelig å trekke noe veldig positivt ut av denne volatiliteten her, altså svingningene.
+
+[00:02:05] Markedet er shaky, ferdig snakket, eller hva?
+
+[00:02:07] Ja, det er absolutt en ustabil periode.
+
+[00:02:11] Og talmann, på de litt lange brillene her,
+
+[00:02:13] så er det litt kanskje tydeligere hva som egentlig er i ferd med å skje her.
+
+[00:02:19] For vi har jo hatt egentlig 40 år med fallende renter og fallende inflasjon.
+
+[00:02:24] Nå ser vi at rentene begynner å bevege seg oppover,
+
+[00:02:27] og inflasjonen da, det er litt mer sticky enn jeg tror mange hadde håpet for noen måneder siden.
+
+[00:02:34] Så nå begynner man å bli litt mer forberedt på at inflasjon er noe som ikke blir borte med det første.
+
+[00:02:39] Rentene skal opp, ikke bare en eller to ganger,
+
+[00:02:42] men de skal oppnå gjemt over en litt lengre periode.
+
+[00:02:45] Og da endrer det dynamikken i aksjemarkedet.
+
+[00:02:48] For fallende renter, det er positivt for aksjer.
+
+[00:02:51] Begynner rentene å stige litt mer systematisk, så blir det en mye mer utfordrende situasjon.
+
+[00:02:56] Og det å være short, altså kunne få avkastning når markedet faller,
+
+[00:03:00] det er ikke noe vi snakker så mye om til vanlig,
+
+[00:03:03] og ikke noe vi anbefaler folk i det brede lag.
+
+[00:03:07] Men av de profesjonelle investorene jeg har snakket med,
+
+[00:03:10] så sier de at det er vanskelig i markedet nå,
+
+[00:03:15] fordi det er ikke så rett frem lett å ligge short heller,
+
+[00:03:18] selv om du tror at det skal ned.
+
+[00:03:19] Nei, det er nettopp det at jeg tror mange av de som er forholdsvis bearish, kan du si,
+
+[00:03:24] er litt forberedt på at de kanskje får en rekyl relativt snart,
+
+[00:03:28] fordi at sentimentet er såpass utbombet nå.
+
+[00:03:31] Vi nevnte jo dette forrige uke, at den ukentlige Bull og Bear survey forrige uke
+
+[00:03:35] var på det mest bearish siden mars 2009.
+
+[00:03:39] Og de som var med på det tidspunktet husker akkurat mars 2009
+
+[00:03:44] som det punktet hvor markedet bunnet ut etter finanskrisen.
+
+[00:03:49] Så det er et sånt type nivå som er egentlig ganske uvanlig,
+
+[00:03:53] og før det så må de helt tilbake til i 90-tallet til å finne tilsvarende bearish sentiment.
+
+[00:03:57] Så på kort sikt så kan man lage et case på at alle er for negative akkurat nå,
+
+[00:04:03] og da er oddsen kanskje heller at det skal en tur opp.
+
+[00:04:07] Men jeg tror ikke de som er bearish,
+
+[00:04:09] blir så veldig overbevist utover eventuelt en kort rebound.
+
+[00:04:14] Da blir markedet litt sånn støkk nå, og de klarer ikke helt å bestemme hva de skal gjøre.
+
+[00:04:18] Og nå får vi jo se da, hvordan det ender denne fredagen i USA,
+
+[00:04:23] men denne Nasdaq 100-indeksen som vi har snakket om en del i det siste,
+
+[00:04:29] den er jo på nye bunnnivåer hittil i år,
+
+[00:04:33] så det i seg selv ser jo ikke bra ut,
+
+[00:04:36] men vi må jo gå litt mer under indekset,
+
+[00:04:39] overflaten på da.
+
+[00:04:41] Ja, før vi går løs på fengene og tekke,
+
+[00:04:45] så vil du kanskje nevne lange renter først da.
+
+[00:04:50] Ja, for jeg tror dette er en viktig del av forklaringen her,
+
+[00:04:54] for nå ser vi i dag, egentlig i går ettermiddag,
+
+[00:04:58] så kom 10-årsrenten over 3% for første gang på en god stund.
+
+[00:05:03] Det blir spennende å se om den klarer å etablere seg over 3%,
+
+[00:05:06] og at det da blir et støttenivå fremover.
+
+[00:05:09] Men det som egentlig er viktigere her,
+
+[00:05:10] spesielt når det gjelder prising av aksjemarkedet,
+
+[00:05:13] er hvordan realrenten utvikler seg.
+
+[00:05:15] Og ser vi tilbake til midten av mars,
+
+[00:05:17] så var den på minus 1,1%,
+
+[00:05:20] nå er den på pluss 0,2%.
+
+[00:05:22] Så det er egentlig en ganske vesentlig endring,
+
+[00:05:24] og den korrelerer veldig tett med P-multipler.
+
+[00:05:28] Så når realrenten stiger,
+
+[00:05:29] da faller P-multiplen stort sett,
+
+[00:05:31] og da kommer multiplen under press,
+
+[00:05:34] så er man veldig avhengig av at inntjening eventuelt må dra hele lasset,
+
+[00:05:38] og det er ikke så lett,
+
+[00:05:38] og lett å få såpass store overraskelser,
+
+[00:05:40] at det kan veie opp for stigende rente.
+
+[00:05:43] Og hvis vi ser på det,
+
+[00:05:45] hva skal vi kalle det da?
+
+[00:05:46] Lønnsom tech, ikke sant?
+
+[00:05:48] Som lytterne våre vet,
+
+[00:05:50] teknologi er jo for eksempel en sektor da,
+
+[00:05:53] som er særlig utsatt når rentene stiger,
+
+[00:05:55] og da særlig ulønnsom tech.
+
+[00:05:57] Men hvis vi starter med den lønnsomme teknologien,
+
+[00:05:59] og ser på fengene,
+
+[00:06:01] altså de største, mest verdifulle selskapene i USA,
+
+[00:06:08] de tretten mest verdifulle selskapene i Nasdaq-indeksen,
+
+[00:06:13] er i rødt så langt i år.
+
+[00:06:16] Apple, Microsoft, Amazon er alle ned,
+
+[00:06:19] henholdsvis 12, 17 og 30 prosent,
+
+[00:06:21] og da har vi ikke begynt å snakke om Meta eller Facebook,
+
+[00:06:25] som er en enda tristere historie.
+
+[00:06:28] Så det går jo for seg her også nå.
+
+[00:06:31] Ja, det er jo sånn at vekst er jo mer utsatt for høyere renter,
+
+[00:06:35] og det gjelder også de store kvalitetssituasjonene,
+
+[00:06:37] de store kvalitetsselskapene her.
+
+[00:06:39] Så man må se litt igjen i det litt lengre perspektivet,
+
+[00:06:43] så har disse aksjene gitt fenomenal avkastning i mange år,
+
+[00:06:48] i veldig mange tilfeller.
+
+[00:06:50] Men nå som det makrobildet begynner å snu,
+
+[00:06:52] sånn at det ikke er like fordelaktig lenger,
+
+[00:06:55] så er det en mye vanskeligere situasjon,
+
+[00:06:58] og de er jo en stor del av indeksen i USA.
+
+[00:07:02] Så når vi snakker om tech der,
+
+[00:07:05] så tenker vi at techindeksen er vel pluss minus 25% av S&P 500,
+
+[00:07:10] men det inkluderer ikke mange av de aksjene som man tenker på,
+
+[00:07:13] som også er en del av det.
+
+[00:07:16] Så Google, Facebook, Amazon,
+
+[00:07:19] det er ikke regnet for tech innenfor den sektorklassifiseringen,
+
+[00:07:23] så legger du de på i tillegg,
+
+[00:07:25] da er du oppe i type 40% pluss av indeksen.
+
+[00:07:28] Så det er mye større vekt i de type selskapene
+
+[00:07:31] enn det er i Oslo for eksempel.
+
+[00:07:33] Og det er klart, faller de,
+
+[00:07:35] da er det vanskelig for indeksen å holde stand da.
+
+[00:07:38] Ja, det er jo nettopp det at matematikken får man ikke gjort så veldig mye med,
+
+[00:07:42] bortsett fra å observere hva det er,
+
+[00:07:45] sånn sett så er det tungt for amerikanske aksjer.
+
+[00:07:49] Men er det forskjeller i bevegelsene her til,
+
+[00:07:52] hvis vi ser på ulønnsom tech da,
+
+[00:07:55] hvis vi skal kalle det det,
+
+[00:07:57] altså selskaper der inntjeningen ligger veldig langt frem i tid,
+
+[00:08:00] er det noe sånn, er det nyanser her,
+
+[00:08:02] som har vært å ta med seg?
+
+[00:08:04] Ja, og det er jo sånn teorien sier også,
+
+[00:08:07] for poenget med renter er at
+
+[00:08:09] jo lenger frem i tid lønnsomheten til selskapet er,
+
+[00:08:12] jo mer følsom er de for oppgang i renter.
+
+[00:08:15] Så hvis vi ser bare på utviklingen i går for eksempel,
+
+[00:08:18] så var FANG-indeksen ned rundt 6%,
+
+[00:08:21] mens ulønnsom tech var ned 10%.
+
+[00:08:24] Og den ARK Innovation ETF'en,
+
+[00:08:26] den var ned i underkant av 10% den også.
+
+[00:08:28] Så det er der hvor du liksom virkelig får en smell,
+
+[00:08:31] mens rentene fortsetter å stige.
+
+[00:08:33] Men hva med defensive norske aksjer da,
+
+[00:08:37] det har vi også klødd oss litt i hodet over,
+
+[00:08:39] at det har kanskje ikke holdt så bra stand som vi hadde håpet?
+
+[00:08:44] Nei, der har liksom problemet heller vært at estimatene ...
+
+[00:08:48] Orkla Enside, kanskje også Telenor er jo eksempler på dette.
+
+[00:08:51] Ja, altså estimatene har liksom vært litt skuffende der,
+
+[00:08:54] at det har vært litt små nedjusteringer gjennom året.
+
+[00:08:57] Så de har ikke vært like defensive som man skulle ha håpet,
+
+[00:09:01] men både Telenor og Orkla hadde tall denne uken.
+
+[00:09:04] Ingen av de var egentlig noe til å rope sånn voldsomt hurra for, synes jeg.
+
+[00:09:08] Telenor var kanskje hakket mer skuffende enn Orkla,
+
+[00:09:11] for Orkla var jo litt bedre enn ventet,
+
+[00:09:13] men det var den hydropower som var bedre,
+
+[00:09:17] og det er noe som ikke er så lett å ekstrapolere fremover.
+
+[00:09:20] For har du først brukt det vannet,
+
+[00:09:23] så får du ikke brukt det en gang til.
+
+[00:09:25] Sånn sett så var Orkla greit,
+
+[00:09:28] men ikke noe mer enn greit, synes jeg.
+
+[00:09:31] Men begge to har vært relativt flat denne uken,
+
+[00:09:34] og det er sånne type aksjer som er mye mindre påvirket av renteutviklingen.
+
+[00:09:38] Hva står vi igjen med da?
+
+[00:09:40] Da er det olje og laks som fortsatt klarer seg.
+
+[00:09:45] Det er de to sektorene, kanskje sammen med andre råvarer,
+
+[00:09:49] som har vært best hittil i år.
+
+[00:09:51] Nå var kjømet ganske svak denne uken.
+
+[00:09:54] Det var ikke noen spesielle nyheter,
+
+[00:09:56] men det er mange av de som kommer med tall neste uke.
+
+[00:09:59] Så jeg tenker at det er kanskje en del som velger å sikre
+
+[00:10:01] litt gevinst her, just in case.
+
+[00:10:03] Det er jo når aksjene har gått veldig bra i forkant av tallene,
+
+[00:10:07] så er terskelen for å få en positiv reaksjon da enda litt høyere.
+
+[00:10:12] Så det er ikke så veldig overraskende, synes jeg,
+
+[00:10:14] at det blir litt gevinstsikring i enkelt av de casene.
+
+[00:10:17] Men kjømet er en av de dårligste sektorene denne uken.
+
+[00:10:21] Men bortsett fra det så har Equinor hatt tall de også,
+
+[00:10:25] og det var bra.
+
+[00:10:26] Kanskje litt skuffende at det ikke økte utbytte,
+
+[00:10:29] og aksjene begynte litt ned.
+
+[00:10:31] på dagen når de rapporterte,
+
+[00:10:33] men det endte opp rundt tre prosent, hvis jeg husker riktig.
+
+[00:10:36] Så i sum så var det absolutt godkjent.
+
+[00:10:40] Kanskje litt umusikalsk hvis utbytte hadde vært alt for stort
+
+[00:10:44] i denne omgang, ettersom det var jo litt skattehjelp her
+
+[00:10:49] i forbindelse med covid, som jo sikkert noen hadde tenkt på.
+
+[00:10:53] Ja, jeg tror det er egentlig det som ligger i bånd her,
+
+[00:10:56] og det var egentlig litt det samme med AKBP også,
+
+[00:10:59] at de har en mulighet,
+
+[00:11:00] som rent finansielt, å betale ut mye mer enn det de gjør.
+
+[00:11:03] Men som du sier så er det kanskje ikke så taktisk
+
+[00:11:06] å betale ut mye når de har fått disse skattefordelene,
+
+[00:11:10] heller la det gå litt tid, og så kan de øke utbytte
+
+[00:11:13] når det ikke er like stor fokus på det lenger.
+
+[00:11:15] Ok, som jeg sa innledningsvis,
+
+[00:11:23] jeg har vært på tur til London denne uken,
+
+[00:11:27] primært for å bli oppdatert på fremtiden for 5G og tingenes internet,
+
+[00:11:34] eller IoT, det kommer det en helt egen episode om,
+
+[00:11:39] så det er bare å glede seg til folkens mye spennende her,
+
+[00:11:44] og der ser vi på litt lengre sikt.
+
+[00:11:46] Men når jeg var i London, så fikk jeg også en del oppdateringer
+
+[00:11:52] fra flere globale investeringsbanker,
+
+[00:11:55] og det var for så vidt ganske interessant,
+
+[00:11:57] så jeg tenkte på at jeg kunne bare dra gjennom noen av de høydepunktene,
+
+[00:12:01] og høre hvorvidt du på en måte er enig,
+
+[00:12:03] eller uenig, Greip-Land.
+
+[00:12:06] Ja da, alt er interessant å høre hva andre mener.
+
+[00:12:08] Ja, så strategi blant annet da, som jo du og jeg snakker mye om,
+
+[00:12:14] og inflasjon selvfølgelig, så det var vel synlig mer eller mindre
+
+[00:12:18] at her er det rimelig å legge til grunn at inflasjonen i USA,
+
+[00:12:22] den piker snart, om det blir nå, eller om det blir om tre eller seks måneder,
+
+[00:12:27] det får vi se, men det skjer snart.
+
+[00:12:30] Og så må vi få da et par råd,
+
+[00:12:33] knep ned igjen før markedet skal bli litt betrygget,
+
+[00:12:37] og kunne roe seg litt, legge vekk litt av bekymringene rundt dette her,
+
+[00:12:42] og det er vel på en måte i tråd med hva du tenker på.
+
+[00:12:45] Ja, jeg tror når det gjelder inflasjon, så kommer det et tall neste uke,
+
+[00:12:49] og der er forventningen at den år-over-år-endringen
+
+[00:12:52] skal være litt lavere enn det var forrige måned,
+
+[00:12:54] så antageligvis så har vi sett toppen i hvert fall
+
+[00:12:57] for den år-over-år-endringen i inflasjon.
+
+[00:13:00] Det jeg kanskje synes,
+
+[00:13:02] hvis jeg skulle si noe litt annerledes her,
+
+[00:13:04] er at jeg tror de neste to-tre månedene,
+
+[00:13:07] så er det relativt enkelt for inflasjonen å komme ned,
+
+[00:13:10] for at du har disse baseeffektene,
+
+[00:13:12] det var nettopp for et år siden at inflasjonen virkelig begynte å øke fort,
+
+[00:13:16] så det kommer nesten av seg selv,
+
+[00:13:18] så det ville være veldig overraskende om inflasjonen ikke faller de neste to-tre månedene,
+
+[00:13:22] men det er på hvilket nivå det flater ut,
+
+[00:13:24] som er det jeg er mest spent på egentlig,
+
+[00:13:27] og det finner vi egentlig ikke ut før det har gått tre-fire måneder,
+
+[00:13:31] tre-fire måneder til kanskje.
+
+[00:13:33] Og for en litt lengre sikt,
+
+[00:13:35] så var jo også et av temaene som vi var inne om,
+
+[00:13:37] dette med deglobalisering,
+
+[00:13:39] og det mente de at det ville fortsette,
+
+[00:13:43] og alt annet like så betyr også det inflasjonspress da,
+
+[00:13:48] oppover, men det blir jo mer på det lange bildet.
+
+[00:13:52] Når det gjelder denne resesjonsrisiko,
+
+[00:13:55] så opplevde jeg det sånn at man ser at det absolutt er sjanse for
+
+[00:14:00] en resesjon, men at hvis den kommer,
+
+[00:14:03] så blir den ikke blant de største denne gangen,
+
+[00:14:06] og dermed så klarer man å komme seg videre ut av det.
+
+[00:14:09] Ja, så det er jo ingen garanti i sak at det kommer en resesjon,
+
+[00:14:14] for vi må huske at veksttakten i utgangspunktet er jo relativt sterk,
+
+[00:14:19] og en viktig ting som er litt annerledes nå enn tidligere sykluser,
+
+[00:14:25] er at det har ikke bygget opp noen sånne voldsomme ubalanser.
+
+[00:14:28] Det kan jeg si unntaket muligens er staten,
+
+[00:14:30] men de fleste bedriftene har egentlig sånn noglunde håndterbare gjeld,
+
+[00:14:34] og husholdningene har egentlig bygget opp sparingen etter covid,
+
+[00:14:38] så sånn sett så er det ikke helt den samme sprengkraften
+
+[00:14:41] hvis det først begynner å gå dårlig,
+
+[00:14:43] at bedriftene nødvendigvis kommer til å få masse konkurser og så videre,
+
+[00:14:48] så sånn sett så kan det godt hende at det blir en forholdsvis mild variant
+
+[00:14:52] av en resesjon denne gangen,
+
+[00:14:54] heller enn at det er veldig mye å rydde opp i som det iblant er
+
+[00:14:57] hvis du har hatt en lengre syklus i forkant.
+
+[00:15:00] Og ellers da, på litt mer sektorbasis,
+
+[00:15:04] på spørsmål hva er det man skal investere i,
+
+[00:15:08] så var det det som ble trukket fram olje og helse,
+
+[00:15:11] så ingen bomber der vil jeg si.
+
+[00:15:14] Nei, olje er en av de områdene hvor det er veldig lite ledig kapasitet akkurat nå,
+
+[00:15:20] og du kan si at man tåler noe mindre etterspørsel
+
+[00:15:24] uten at det plutselig blir for lite etterspørsel i forhold til den kapasiteten.
+
+[00:15:28] Olje er jo sett på som en slags sensyklusk sektor,
+
+[00:15:32] så oljeprisen har en tendens til å toppe ut en liten stund etter aksjemarkedet gjør det
+
+[00:15:37] i en sånn resesjonsscenario,
+
+[00:15:39] så energi er gjerne et av de stedene man skal holde ut lengst
+
+[00:15:42] når man begynner å nærme slutten av syklusen.
+
+[00:15:44] Fikk også en oppdatering på råvaresiden til disse store bankene,
+
+[00:15:51] og ja, det er jo ganske bearish da,
+
+[00:15:55] i form av at etterspørselen er langt sterkere enn det tilbudet man har.
+
+[00:16:01] Det er selvfølgelig positivt for de som har råvarer,
+
+[00:16:04] men for alle andre så er det jo negativt,
+
+[00:16:08] og her har vi jo selvfølgelig da krigen som på en måte fremskinner og sørger for en ekstra skvis.
+
+[00:16:14] Noe jeg har bedt meg merke i, som også synes var fornuftig,
+
+[00:16:18] det er at det er to store forskjeller fra 70-tallet og nå.
+
+[00:16:23] Det ene er at nå handler det om energisituasjonen i Europa,
+
+[00:16:27] ikke i USA, som det vel gjorde den gangen,
+
+[00:16:30] og det andre er at nå handler det om alle typer råvarer,
+
+[00:16:36] ikke bare olje, at alt er egentlig ferdig med å bli mangelvare.
+
+[00:16:41] Ja, det er et interessant punkt,
+
+[00:16:43] fordi at et av de tingene som gjerne blir argumentert da,
+
+[00:16:47] at dette ikke er et 70-talls scenario,
+
+[00:16:49] er det at økonomien nå, eller i hvert fall vestlige økonomier,
+
+[00:16:52] er jo mindre avhengig av olje enn de var før.
+
+[00:16:55] Så både det at det er mindre industri som prosent av økonomien,
+
+[00:17:00] og du bruker mindre bensin, biler er mer effektivt og så videre enn tidligere,
+
+[00:17:05] sånn sett så er man ikke like avhengig av olje som man var på 70-tallet,
+
+[00:17:09] men som du sier så gjelder dette alle forskjellige råvarer,
+
+[00:17:12] så man kommer ikke unna av den grunnen.
+
+[00:17:15] Eller så spurte jeg da, ser dere noe tegn til at det er signaler fra myndighetene,
+
+[00:17:23] som vil gjøre det mer politisk korrekt for de store oljeselskapene,
+
+[00:17:27] og vil og selvfølgelig da tørre å investere betydelig mer i kapasitet.
+
+[00:17:34] Men nei, det var jeg veldig tydelig på at det var det ikke snutten av.
+
+[00:17:41] Jeg tror en av de politiske signalene man har fått nå de siste par årene,
+
+[00:17:45] er at olje er ikke noe som blir støttet av myndigheter i hvert fall på lengre sikt,
+
+[00:17:51] og det er nettopp det som er den viktige faktoren her,
+
+[00:17:54] at olje er ikke en sånn bransje hvor du investerer i dag og så har du produksjonen i morgen.
+
+[00:17:59] Det er langsiktige vurderinger som skal til her,
+
+[00:18:02] og dette har vi jo nevnt litt i sammenheng med hvor positivt man skal være til oil service for eksempel,
+
+[00:18:08] at beslutningen om å både lete etter nye felt og bygge de ut og produsere og så videre,
+
+[00:18:13] det er noe hvor du må tenke i en sånn 10-20 år pluss type perspektiv,
+
+[00:18:18] og hvis man tror at myndighetene sier,
+
+[00:18:20] ja produser mer olje nå, men om 5-6 år så sier de ja nå skal det stenges ned og så videre,
+
+[00:18:26] så vil det sørge for at det egentlig ikke blir noe lønnsom investering.
+
+[00:18:30] Så jeg tror det er mange oljeselskaper som konkluderer kanskje litt i det stille,
+
+[00:18:35] at her er det heller bedre kanskje å la produksjonen være litt lav,
+
+[00:18:38] så får man bedre betalt for de fatene man produserer nå,
+
+[00:18:42] og så får vi heller se litt hvordan det ser ut om en liten stund.
+
+[00:18:47] Men jeg tror det er mange som ikke er helt klare til å gjøre,
+
+[00:18:49] de store investeringene, og det er heller det mindre investeringen,
+
+[00:18:53] som kanskje kan øke litt effektiviteten på enkelte felt,
+
+[00:18:56] og mindre sånn type tieback prosjekter.
+
+[00:18:58] Ja, og noe av den umiddelbare utfordringen er at vi trenger energi nå,
+
+[00:19:04] og det gjorde vel Thor Olav Trøy med et poeng ut av under DNB Invest konferansen,
+
+[00:19:11] som gikk av stabelen tidligere denne uken.
+
+[00:19:13] Her er det mulig å se opptaket ute på nettsiden til DNB.
+
+[00:19:17] Han kalte seg jo for hydrokarbonist, og gjorde et poeng ut av nettopp dette da,
+
+[00:19:24] at verden kommer til å trenge hydrokarboner i mange år enda,
+
+[00:19:28] om enn bare for en overgangsperiode.
+
+[00:19:31] Ja, det er nettopp det at den overgangsperioden tror jeg kommer til å ta lengre tid,
+
+[00:19:35] kanskje enn mange av de største optimistene hadde håpet på i hvert fall.
+
+[00:19:39] Det er alltid lettere sagt enn gjort å gjøre disse store overgangene,
+
+[00:19:44] og selv om det blir til slutt sånn at dette her,
+
+[00:19:46] at disse forskjellige grønne teknologiene kommer til å bli veldig stort sikkert,
+
+[00:19:53] så tar sånne endringer alltid lengre tid enn man tror,
+
+[00:19:57] og da blir det veldig vanskelig å komme unna at man trenger hydrokarboner en god stund til.
+
+[00:20:03] Ja, ja. Nei, som du var inne om, Paul,
+
+[00:20:05] mange selskaper har jo rapportert denne uken sånn i sum.
+
+[00:20:11] Her får vi fortsatt litt oppløftende signaler,
+
+[00:20:16] men da, alt er ikke bare negativt.
+
+[00:20:19] Nei, så jeg tror egentlig det viktigste, eller det jeg egentlig legger mest vekt på,
+
+[00:20:23] er ikke om tallene har vært bedre eller dårligere enn ventet,
+
+[00:20:26] for det er jo egentlig å se i bakspeilet.
+
+[00:20:28] Så det jeg er opptatt av å følge mest på er hvordan er det forventningen til inntjeningen endres
+
+[00:20:34] fra dagen før selskapene rapporterer tall frem til nå.
+
+[00:20:38] Så er det sånn at analytikerne nå, når de har gått gjennom rapporten og hørt hva selskapsledelse har sagt,
+
+[00:20:44] tror de selskapene kommer til å tjene mer penger til neste år enn det de trodde før rapportene kom.
+
+[00:20:50] Og i sum så er det faktisk litt opp her.
+
+[00:20:54] Ikke veldig mye, men det er sånn størrelsesoiden 1% opp, sånn cirka i snitt.
+
+[00:20:59] Og jeg var litt bekymret i forkant at det her ville komme mange meldinger om høyere kostnader
+
+[00:21:05] og marginpress og liknende, at det ville ende opp med at kanskje omsetningsforventninger kom litt opp,
+
+[00:21:12] men EBIT og EPS-forventningene ville komme litt ned på grunn av det marginpresset.
+
+[00:21:18] Så det at det i det hele tatt er litt opp, tror jeg egentlig er en liten positiv overraskelse i hvert fall for meg.
+
+[00:21:24] Ja, og så trakk du jo fram Telenor, som leverte litt dårlig igjen.
+
+[00:21:33] Vi får håpe analytikeren vår, Frank, har rett i at man nå er i bunnen av bølgedalen,
+
+[00:21:40] at man på en måte har nådd toppen av investeringer ved likehold og alt som de er nødt til å bruke penger på.
+
+[00:21:50] Ja, jeg tror det som er det største problemet her er at når man argumenterer hvorfor er det man skal eie Telenor,
+
+[00:21:56] så er det første som de aller fleste nevner er utbytte, at du får en sånn 7% direkte avkastning i dette caset.
+
+[00:22:03] Men jeg tror i hvert fall utlendinger og de som ikke eier aksjen i dag og som skal gjøre opp en mening,
+
+[00:22:08] skal jeg kjøpe den eller ikke?
+
+[00:22:10] Når de ser på inntjening til selskapet, så ser de at det er litt lavere enn utbytte.
+
+[00:22:15] Og da spør de seg, kan dette utbyttet bli opprettholdt fremover?
+
+[00:22:20] Vi tror at det skal gå helt greit, at inntjeningen kommer til å vokse.
+
+[00:22:24] Men når det er noe tvil på det som er hovedgrunnen til å eventuelt eie den aksjen,
+
+[00:22:29] så er det veldig lett å si at jeg gir et kvartal til og se hvordan det går.
+
+[00:22:33] Og spesielt når selskapet da ikke klarer å levere noe bedre enn antatt, så er det veldig fort gjort å si at
+
+[00:22:38] ja, da begynte vi enda et kvartal før.
+
+[00:22:40] Det er det vi gjør nå.
+
+[00:22:42] Jeg fikk jo en veldig god gjennomgang av europeisk telekomsektor generelt.
+
+[00:22:50] Her kom det veldig tydelig fram, synes jeg, at den store triggeren i de neste årene er konsolidering.
+
+[00:23:05] Her er man prisgitt reguleringsmyndigheter i EU,
+
+[00:23:09] og så langt så har jo de villet beskytte forbrukerne.
+
+[00:23:12] Og der er det en konsekvens at da blir det ikke konsolidering.
+
+[00:23:16] Og så har du amerikanske telekomselskaper, og ikke minst kinesere da, som er mye lenger fremme på en del ting som blant annet 5G.
+
+[00:23:23] Så i sum så må jeg si at på europeisk telekoms vegne så var det helt klart på den bæriske siden,
+
+[00:23:32] altså at i sum så er det rett og slett et reguleringsbett.
+
+[00:23:39] Ja, jeg tror akkurat på det reguleringspunktet så har jo EU gitt noen signaler at de kanskje er litt mer fleksible enn de har vært tidligere.
+
+[00:23:46] Så vi har jo egentlig håpet når det gjelder Telenor spesielt, at Danmark og Sverige kan jo være markedet som tidligere har fått signaler
+
+[00:23:54] at EU ikke godtar konsolidering, da liksom fra fire ned til tre operatører.
+
+[00:23:59] Men nå har det jo vært noe bevegelse at det kanskje kan gå an allikevel, og det er noe av det vi har håpet på, at det skulle skje et eller annet.
+
+[00:24:07] Ja, jeg tror akkurat på det reguleringspunktet så har EU gitt noen signaler at de kanskje er litt mer fleksible enn de har vært tidligere.
+
+[00:24:08] Ja, jeg tror akkurat på det reguleringspunktet så har EU gitt noen signaler at det skulle skje et eller annet.
+
+[00:24:10] så det er en sånn mulig catalyst som vi har snakket om i, jeg husker ikke helt hvor lenge nå, sikkert et eller annet år pluss,
+
+[00:24:17] men frem til det skjer, så ja, da er det vanskelig å vite om man skal tørre å satse på at det kommer rundt neste sving.
+
+[00:24:24] Ja, nei vi får se. Det er jo sånn paradoks da, altså hvor avhengig er vi ikke av telekom da, ikke sant,
+
+[00:24:30] med tanke på hvor mye vi bruker telefonen og kobler den til internett i forhold til hva vi betaler for det.
+
+[00:24:38] Ja, det er klart dette er noe som jeg tror de aller fleste ville være villige til å gå tapt ganske mye før de gir opp telefonen,
+
+[00:24:47] så det tror jeg du kan trygt si, men det er jo som du sier en slags utility greie hvor det er ikke så lett å si at
+
+[00:24:54] å si Telenor sitt brevbånd er noe bedre enn noen andre sitt brevbånd, det er en commodity produkt det er snakk om,
+
+[00:25:03] og da må man sørge for at det er nok kapasitet i nettet,
+
+[00:25:05] og da er det en kommoditiv produkt det er snakk om, og da må man sørge for at det er nok kapasitet i nettet,
+
+[00:25:06] og da er det en kommoditiv produkt det er snakk om, og da er det en kommoditiv produkt det er snakk om,
+
+[00:25:07] og da er det en kommoditiv produkt det er snakk om, og da er det en type bransje som egner seg for å være et regulert business fremover,
+
+[00:25:14] hvor myndighetene må egentlig da konkludere hva er en slags fair return on capital for den investeringen,
+
+[00:25:20] og sørge for at det da blir bygd ut nok infrastruktur men at det ikke blir noe superprofit på Telekom operatørene.
+
+[00:25:27] Og ser man fremover altså de neste årene, mot 2030 så er det jo utrullingen og optimaliseringen av telefonen,
+
+[00:25:34] og ser man fremover altså de neste årene, mot 2030 så er det jo utrullingen og optimaliseringen av telefonen,
+
+[00:25:35] optimaliseringen av 5G-nettet,
+
+[00:25:37] som er liksom den store greia.
+
+[00:25:41] 6G kommer vel også etter hvert,
+
+[00:25:44] men dette her vil jo i hvert fall bidra til,
+
+[00:25:47] etter alle solmerker og fjule,
+
+[00:25:50] IoT, tingenes internett,
+
+[00:25:53] og det er jo ventet å vokse videre i overskuelig fremtid,
+
+[00:25:57] som vil gi masse muligheter for de som klarer å posisjonere seg.
+
+[00:26:02] Så får vi se hvem det blir.
+
+[00:26:03] Som sagt, dette her kommer det en egen episode på
+
+[00:26:06] med forvalter Audun Vikstrand Iversen,
+
+[00:26:08] og undertegner det om ikke så veldig lenge,
+
+[00:26:12] så følg med folkens,
+
+[00:26:14] så kommer det mer om det ganske snart.
+
+[00:26:18] Avslutningsvis, Paul,
+
+[00:26:20] vi får jobbtall fra USA om ikke så veldig lenge,
+
+[00:26:24] og som du sa, inflasjonstall kommer i neste uke.
+
+[00:26:28] Noen sånne tanker avslutningsvis om både det,
+
+[00:26:31] og selvfølgelig,
+
+[00:26:32] hvordan vi marker det i sin helhet, da.
+
+[00:26:34] Altså, nå tror jeg du kanskje prøver å lure meg å si et eller annet,
+
+[00:26:37] når jeg tenker på at denne blir sendt ut etter at tallene kommer ut,
+
+[00:26:41] så da er det veldig smart av meg å si et eller annet,
+
+[00:26:44] som da viser seg å være feil innen noen får hørt dette her.
+
+[00:26:47] Så jeg skal være litt forsiktig med å spå så veldig mye rundt dette,
+
+[00:26:51] men det er klart at det er jo blant de tallene
+
+[00:26:53] som får mest oppmerksomhet hver måned av makrotall.
+
+[00:26:58] Så egentlig det jeg er kanskje mest opptatt av her,
+
+[00:27:01] er å se det de kaller «labor force participation».
+
+[00:27:05] Da i stedet for å fokusere på arbeidsledighet,
+
+[00:27:07] ser vi hvor stor andel av befolkningen er i jobb.
+
+[00:27:11] For når det eventuelt begynner å flate ut,
+
+[00:27:14] det er da du får enda litt mer press på inflasjon,
+
+[00:27:18] og vi ser lønnsnivået holde seg forholdsvis høyt nå,
+
+[00:27:22] men etter hvert, som det er færre og færre ledige til å ta av,
+
+[00:27:26] så blir det enda vanskeligere å holde kontroll på den lønnsveksten.
+
+[00:27:30] Så det er egentlig det jeg tror er,
+
+[00:27:31] mest interessant å følge med på.
+
+[00:27:33] Når er det du får tegn til at det begynner å flate ut,
+
+[00:27:36] heller enn om det er 300 000 eller 350 000 nye som kommer i jobb for det.
+
+[00:27:41] Der er det såpass store avvike og revideringer,
+
+[00:27:45] månedene etter og så videre,
+
+[00:27:46] at det blir iblant lagt litt for mye vekt på de tallene.
+
+[00:27:49] Og så får vi bare se på markedet da,
+
+[00:27:51] men at det vil fortsette å svinge,
+
+[00:27:53] det må vi regne med.
+
+[00:27:55] Ja da, markedet er jo litt som en pendel,
+
+[00:27:58] at svinger det veldig langt den ene veien,
+
+[00:27:59] så har det en tendens til å svinge,
+
+[00:28:01] tilbake og så enda litt mer ut motsatt vei igjen,
+
+[00:28:05] heller enn at det bare stopper når det kommer til midten.
+
+[00:28:07] Så når du først kommer inn i en volatil periode,
+
+[00:28:09] så pleier ikke det å stoppe med en gang.
+
+[00:28:11] Bra!
+
+[00:28:13] Det betyr at vi har kommet til vei sende for nå.
+
+[00:28:16] Tusen takk Paul for at du var med og ga oss en oppdatering.
+
+[00:28:20] Og sist men ikke minst folkens,
+
+[00:28:21] tusen takk til alle dere som hørte på.

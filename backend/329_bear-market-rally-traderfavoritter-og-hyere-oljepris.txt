@@ -1,0 +1,1863 @@
+Episode 329: Bear market rally, traderfavoritter og høyere oljepris
+Publisert: Sat, 04 Fe
+Vert: Marius Brun Haugen
+Varighet: 59 minutter
+Lytt her: https://shows.acast.com/utbytte/episodes/bear-market-rally-traderfavoritter-og-hoyere-oljepris
+
+--- Transkripsjon ---
+
+[00:00:00] Oljeprisen falt gjennom andre halvåret i fjor, men analysetimet til Denby Market ser et klart skifte gjennom 2023, hvor oljebalansen returnerer til underskudd og ledig produksjonskapasitet i OPEC eroderes til ubehagelige lave nivåer.
+
+[00:00:17] I dagens episode skal du få høre fra oljeanalytikeren her på huset, Helge André Martinsen. Han og teamet er ute med ny oljemarkedsrapport og prisanslag.
+
+[00:00:28] I tillegg skal Paul Harper dele sitt syn på hvordan man bør navigere i aksjemarkedet etter det som har vært en heftig makro- og rapporteringsuke.
+
+[00:00:38] Han mener fortsatt vi er et bear market rally heller enn starten på en langsiktig aksjeoppgang.
+
+[00:00:44] Og jeg har sett nærmere på traderfavorittene blant privatinvestorene som handler aksjer via oss i DNB.
+
+[00:00:59] Velkommen til Utbytte, DNB-podkasten der vi forklarer hva som skjer innen global økonomien.
+
+[00:01:04] Jeg er Marius Brunhaugen, og med meg har jeg aksjestrateg Paul Harper.
+
+[00:01:11] Hei, Marius.
+
+[00:01:12] Ja, det er fredag 3. februar når vi sitter her. Klokken har passert ti på formiddagen.
+
+[00:01:20] Det betyr at markedet er i gang, det har åpnet, men vi får ikke med oss stengingen i dag eller åpningen i USA,
+
+[00:01:28] heller ikke den amerikanske arbeidsmarkedsrapporten som kommer i ettermiddag.
+
+[00:01:33] Men uansett, Paul, så er det nok å ta tak i denne uken.
+
+[00:01:38] Ja da, vi har kommet i gang med rapporteringssesongen i Norge, men kanskje det som har fått mest oppmerksomhet er Fed-møte som vi hadde tidligere i uken,
+
+[00:01:47] også møte fra sentralbanken i Europa, så det har vært mer enn nok makro-ting i tillegg til selskapene.
+
+[00:01:52] Ja, ja, dette skal vi straks komme inn på.
+
+[00:01:54] Får bare ta med at vi har en ekstra lang episode til dere denne uken, folkens, men det håper jeg også at dere lyttere setter pris på.
+
+[00:02:02] Vi blir som sagt på en relativt grunnig gjennomgang av oljemarkedet denne uken, og det bør være relevant for veldig mange investorer, håper jeg.
+
+[00:02:14] Når vi ser på hvordan ting har forløpt seg i markedet denne uken, så er norske aksjer ganske flatt på indeksnivå.
+
+[00:02:23] Nå har amerikanske Nasdaq fått seg en videre boost av sentimentet og selskapsrapporter,
+
+[00:02:31] men så kan det jo bli en liten motoreaksjon i dag etter at flere av tech-gantene har kommet med tall.
+
+[00:02:38] Det gjenstår å se, den amerikanske 10-årsrenten ligger på rundt 3,4 prosent og forsiktig ned for uken,
+
+[00:02:44] og norsk olje er også litt ned til lave 80-tallet akkurat når vi sitter her.
+
+[00:02:50] Men Fed altså, i fokus denne uken, den amerikanske sentralbanken, hevet renten med en kvarting til intervallet 4,5 til 4,5,
+
+[00:03:01] 4,75 prosent, nå er vi nesten på 5 prosentpål, så spørsmålet er hva betyr dette her for aksjemarkedet?
+
+[00:03:09] Det var jo som ventet, så det er vel mer hva signaliserte Fed og hva sa de?
+
+[00:03:13] Ja, så det var den signaliseringsdelen som var det som jeg tror fikk mest effekt på markedet,
+
+[00:03:20] så markedet er veldig opptatt av det å prøve å beregne når siste renteøkning kommer og hvor rentetoppen er.
+
+[00:03:26] En av de tingene som var kanskje litt rart, synes jeg, var at det sa i,
+
+[00:03:31] i statementen blant annet at de så behov for flere renteøkninger, ikke bare en flere renteendring.
+
+[00:03:38] Sånn sett så er jo indikasjonen at det kommer to, i hvert fall to til her, mens markedet egentlig bare priser inn en,
+
+[00:03:46] så den første reaksjonen var litt nede på markedet.
+
+[00:03:49] Men så i pressekonferansen så begynte markedet å gå, så de fleste partene av kommentarene som kom frem i pressekonferansen
+
+[00:03:57] ble tolket duete, blant annet spesielt en kommentar hvor,
+
+[00:04:01] hvor han ble egentlig invitert til å bekrefte det at de såkalte «financial conditions» har blitt mye lettere.
+
+[00:04:09] Financial conditions er egentlig en slags sammensatt indeks av rentespredder og rentenivå, en del sånne type ting,
+
+[00:04:17] som prøver å måle hvordan er det for bedrifter å få finansiering, for det er jo ikke Fed-fans-renten som bedrifter betaler.
+
+[00:04:26] Og den har jo da blitt en god del lavere etter hvert nå,
+
+[00:04:30] og egentlig er på lignende nivå som vi var i juni i fjor, til tross for at rentene har beveget seg ganske mye opp.
+
+[00:04:37] Så han ble invitert til å påpeke at «financial conditions har blitt mye lettere, så da må vi fortsette å holde presset åpnet».
+
+[00:04:45] Men i stedet for så sa han at «nei, financial conditions de er strammere».
+
+[00:04:50] Det er vanskelig å finne noe indeks som egentlig bekrefter den påstanden,
+
+[00:04:52] men det at han sier det blir tolket som at han egentlig ikke er noe særlig bekymret for den endringen,
+
+[00:05:00] og det var kanskje spesielt det, pluss litt annet småtteri, men det var kanskje allermest det som styrte det.
+
+[00:05:06] Men markedet bestemmer da, så markedsreaksjonen tyder jo på at Fed ikke lykkes med sin kommunikasjon, kan man jo si da,
+
+[00:05:12] altså i hvert fall dersom de faktisk tror mest på at renten skal være høy lengre.
+
+[00:05:17] Ja, så det er jo litt det, en av de tingene som har vært litt vanskelig, da var det et sånn misslykket forsøk på å være haukete,
+
+[00:05:23] eller er det egentlig litt stemningsskifte der nå?
+
+[00:05:26] Så en av de tingene som kanskje gir grunnlag for å bli litt mer optimistisk,
+
+[00:05:30] er at vi fikk en statistikk for lønnsvekst, noe som heter Employment Cost Index,
+
+[00:05:37] noe som får egentlig mindre oppmerksomhet enn det fortjener,
+
+[00:05:40] men dette er da den litt mer sånn guldstandarden når det gjelder å få data for hvordan lønnsveksten har endret seg,
+
+[00:05:48] for den average hourly earnings som vi kommer til å få i ettermiddag,
+
+[00:05:50] så er det ganske mye støy i den statistikken, blant annet mix-effekter,
+
+[00:05:54] at det har litt å si om det er endringer i sammensetning av arbeidsstyrken,
+
+[00:05:59] heller enn hva den underliggende endringen er.
+
+[00:06:02] Men i hvert fall den Employment Cost Index, det fikk jeg et nedtikk,
+
+[00:06:05] og det tror jeg Fed er ganske fornøyd med.
+
+[00:06:08] Det er ikke så lavt at de kan si at jobb done her på noe vis,
+
+[00:06:12] men jeg tror det har i hvert fall gitt de litt mer tillit her til at det ikke er kanskje like stert behov for å være så haukete som det har vært tidligere.
+
+[00:06:19] Og så i EU og Storbritannia har rentene blitt hevet denne uken,
+
+[00:06:23] men reaksjonen på statsrentene eller langrentene har vært motsatt?
+
+[00:06:27] Ja, det er jo det at markedsrendene,
+
+[00:06:29] ikke det som handler på forventningene fremover,
+
+[00:06:33] det har jo blitt til at det virker som markedene nå er mer confident på at toppen er innenfor rekkevidde,
+
+[00:06:41] selv om vi ikke nødvendigvis er der helt enda,
+
+[00:06:43] så er det jo sånn at markedet til enhver tid prøver å se seks måneder frem i tid,
+
+[00:06:47] og hvis det da tror at toppen er i løpet av de seks månedene,
+
+[00:06:51] så kan det begynne å slappe av litt der,
+
+[00:06:53] og så begynne å se frem til når det eventuelt kommer rentekutt.
+
+[00:06:56] Ja, og i sum da, for aksjer,
+
+[00:06:59] og rentesensitive aksjer da, vekstaksjer,
+
+[00:07:02] fortsatt å stige da,
+
+[00:07:05] mer av denne boosten som vi også har sett før i år.
+
+[00:07:10] Ja da, så renter har jo vært den dominerende faktoren på børsen nå,
+
+[00:07:14] hele fjoråret, og også da inn i starten av i år.
+
+[00:07:17] Jeg er litt overrasket egentlig at markedet har vært så villig til å gå på dette her,
+
+[00:07:25] for egentlig så har jo markedet gått noe mer enn det rentene skulle,
+
+[00:07:29] eller tilsi, men når du ser på hva er det som har gått best hittil i år,
+
+[00:07:33] så er det nettopp de rentesensitive aksjene,
+
+[00:07:35] så spesielt sånne ting som non-profitable tech-indeksen i USA,
+
+[00:07:38] er jo oppover 30% hittil i år,
+
+[00:07:41] så det er klart det er der det slår aller mest når rentene kommer noe ned.
+
+[00:07:46] Ja, vi kommer inn om det etterpå.
+
+[00:07:48] Tenkte vi fikk ta med Kina også i ennåpningen,
+
+[00:07:51] der går jo fremover de økonomiske indikatorene,
+
+[00:07:56] i hvert fall PMI-ene som kom,
+
+[00:07:59] viser jo en tjenestesektor i bedring.
+
+[00:08:02] Ja, alt dette her i sum,
+
+[00:08:03] altså bra for overpål, bra for verdensøkonomien,
+
+[00:08:06] kanskje ikke så bra hvis du er bekymret for inflasjon og høyere renter på litt sikt.
+
+[00:08:11] Altså det er jo egentlig litt sånn interessant,
+
+[00:08:13] for her kommer vi litt tilbake til noen av de dilemmaene som vi har snakket om tidligere,
+
+[00:08:18] at til å få forklare en slags fundamental oppgang her,
+
+[00:08:23] så er man avhengig av at skal inntjeningen komme i mål,
+
+[00:08:26] da trenger du egentlig at inflasjonen holder seg høyt,
+
+[00:08:29] og råvarer holder seg relativt høyt,
+
+[00:08:31] eller så tror jeg det er litt sånn synlig at estimatene ikke må kuttes en del,
+
+[00:08:35] men hvis det skjer, da skal rentene antagelig være høyere enn det som markedet legger til grunn.
+
+[00:08:40] Så en av de som den Kina-gjenåpningen,
+
+[00:08:42] hvis det skal virkelig gi en boom,
+
+[00:08:44] så blir det jo til at alt annet vikt,
+
+[00:08:47] så skal jo det egentlig da trekke renteforventningen opp,
+
+[00:08:49] heller enn ned.
+
+[00:08:50] Så det er en del sånne contradictions her,
+
+[00:08:52] som jeg synes ikke er like lett å helt klare å resonere frem,
+
+[00:08:56] hvordan du egentlig kan få alle disse forskjellige tingene til å slå tilbake,
+
+[00:08:59] til at det kan godt hende at inflasjonen kommer fort ned,
+
+[00:09:02] men da ender det opp med at inntjeningen misser,
+
+[00:09:05] eller eventuelt motsatt,
+
+[00:09:06] men helt hvordan du skal få alle disse tingene til å balansere på et eller annet vis,
+
+[00:09:10] synes jeg er vanskeligere å komme frem til.
+
+[00:09:13] Rapporteringssesongen da, Paul,
+
+[00:09:14] hva er inntrykket du sitter med så langt?
+
+[00:09:17] Altså her hjemme er det først neste uke,
+
+[00:09:19] det er virkelig brakerløs,
+
+[00:09:21] men vi har hatt rapporter her også denne uken,
+
+[00:09:25] også internasjonalt, særlig i USA,
+
+[00:09:27] altså UPSX,
+
+[00:09:28] sånn Caterpillar, McDonalds,
+
+[00:09:30] flere av tech-gigantene som ETA,
+
+[00:09:32] Google, Amazon, oss og videre.
+
+[00:09:36] Noe spesielt du har merket deg og kan trekke frem?
+
+[00:09:39] Det kom jo en del norske uttale i går,
+
+[00:09:41] og de var stort sett egentlig veldig sterke,
+
+[00:09:43] så det har vært en god start på rapportene i Norge.
+
+[00:09:47] En del mer blandet, vil jeg si,
+
+[00:09:48] når du ser i resten av Norden og utenlands,
+
+[00:09:51] og i Norden totalt sett,
+
+[00:09:53] så vil jeg si at det var en litt svak start på rapporteringssesongen.
+
+[00:09:57] Det har kommet seg litt bedre nå,
+
+[00:09:58] de siste par dagene.
+
+[00:10:00] Men vi ser fortsatt at estimatene kommer heller litt ned enn opp,
+
+[00:10:04] og det ser vi det samme i USA også.
+
+[00:10:07] Og det kommer litt tilbake til det punktet
+
+[00:10:10] at når du ser på det fundamentale,
+
+[00:10:12] så trekker egentlig ting fortsatt i en negativ retning,
+
+[00:10:15] at estimatene er lavere nå enn de var for noen uker siden.
+
+[00:10:19] Prisen er høyere på aksekursene i de fleste stedene,
+
+[00:10:22] så da har du et dyrere marked enn før.
+
+[00:10:25] Og alt annet likt, hvis estimatene blir justert ned,
+
+[00:10:28] eller i en litt sånn ekstra margin of safety her,
+
+[00:10:31] at den ene i PE-brøken antageligvis burde være noe lavere
+
+[00:10:35] enn det er akkurat for øyeblikket.
+
+[00:10:38] Så igjen da, du har et teknisk bilde som egentlig ser gradvis bedre ut
+
+[00:10:42] etter hvert som markedet stiger,
+
+[00:10:44] men et fundamentalt bilde som jeg synes ser gradvis svakere ut.
+
+[00:10:48] Er det noen kvalitative mønstre i form av hva de sier rundt kostnadsvekst,
+
+[00:10:53] hvordan de klarer å videreføre prisøkninger, guiding og så videre?
+
+[00:10:58] Jeg synes det er litt vanskelig å trekke frem noe som virker systematisk,
+
+[00:11:02] at det er litt mer sånn anekdotefasen når det er fortsatt relativt tidlig rapporteringssesongen.
+
+[00:11:08] Men en ting som jeg har lagt merke til blant de svenske selskapene,
+
+[00:11:11] at de fleste innenfor industrisegmentet rapporterer ordringang,
+
+[00:11:15] og det har i stort sett vært positivt nå egentlig siden covid,
+
+[00:11:19] men for første gang nå siden 2020,
+
+[00:11:22] så ser vi at der er det stort sett de aller fleste da har lavere enn ventet ordringang.
+
+[00:11:26] Og det er jo noe som selvfølgelig da,
+
+[00:11:28] leder inntjeningen når du da ser et par, tre kvartaler fremover.
+
+[00:11:33] Så det er en klart merkemønster nå at det er noe svakere etterspørsel.
+
+[00:11:39] Marginpresset er der fremdeles,
+
+[00:11:41] men det har ikke egentlig vært noe verre enn det var i forrige kvartal,
+
+[00:11:44] det er mitt inntrykk.
+
+[00:11:45] Så sånn sett så har det ikke vært den type kollapsen som enkelte hadde forventet.
+
+[00:11:49] Og mitt syn her er at når det er den sammenhengen mellom inflasjon og inntjening,
+
+[00:11:55] som jeg tror mange egentlig undervurderer hvor viktig det er,
+
+[00:11:58] egentlig en slags motvind nå som kommer til å trekke ut igjennom hele året,
+
+[00:12:02] det er ikke bare en sånn engangsgreie hvor det blir en smell i Q4,
+
+[00:12:06] sånn at den lavere inflasjonen bygger seg gradvis opp igjennom året.
+
+[00:12:10] Så jeg tror det blir mer en jevn nedjustering i estimaten igjennom året,
+
+[00:12:14] heller enn at alt sammen kommer nå med guiding for 2023.
+
+[00:12:18] Jeg snakket jo om markedsbevegelsene på ukesbasis innledningsvis.
+
+[00:12:23] Løfte vi blikk litt og gjør opp status for januar,
+
+[00:12:27] som vi akkurat har.
+
+[00:12:28] Passert så ser vi jo at aksjer var oppe 50-10 prosent i januar,
+
+[00:12:34] med unntak av det norske markedet,
+
+[00:12:37] som er en av få som gjorde det litt dårligere enn de andre.
+
+[00:12:42] Best for Nasdaq, som var oppe 10 prosent.
+
+[00:12:44] Vi så også at de lange amerikanske rentene falt 9 prosent i måneden som gikk.
+
+[00:12:49] Verdensindeksen var oppe 5 prosent,
+
+[00:12:50] også hovedindeksen da, flat, trukket ned av Equinor.
+
+[00:12:54] Men et sånn positivt sentiment,
+
+[00:12:57] i hvert fall utepål,
+
+[00:13:00] og selv om deler av aksjemarkedene da har opprettholdt dette positive sentimentet
+
+[00:13:06] fra sen høst og den forløpige bunnen i oktober,
+
+[00:13:10] så mener du det er gode grunner til at vi fortsatt er i et bear market.
+
+[00:13:15] Hvorfor det?
+
+[00:13:16] Jeg tror det er flere faktorer her,
+
+[00:13:19] men sikkert den største utfordringen er at
+
+[00:13:22] hvis det fortsatt blir en resesjon,
+
+[00:13:25] så er det noe som antageligvis slår til litt senere på året.
+
+[00:13:30] Når man ser på historikken,
+
+[00:13:31] så har det aldri vært et tilfelle hvor markedet har bunnet ut såpass tidlig
+
+[00:13:35] relativt til resesjonen.
+
+[00:13:37] Så det er mange forskjellige krysspeilinger her,
+
+[00:13:40] men vi har aldri unngått en resesjon
+
+[00:13:42] når du har hatt en så dypt invertert deal-kurve,
+
+[00:13:46] eller når du har hatt så svak new orders på ISM-indeksen,
+
+[00:13:50] eller ledenindikatoren har vært såpass negativ.
+
+[00:13:53] Så det er mange ledenindikatorer
+
+[00:13:55] som egentlig sier at oddsen at det blir en resesjon
+
+[00:13:57] på et eller annet tidspunkt ikke er så veldig usannsynlig.
+
+[00:14:01] Men markedet pleier stort sett da å bunne ut
+
+[00:14:04] gjerne i starten av resesjonen,
+
+[00:14:06] eller midten av resesjonen,
+
+[00:14:07] ikke seks måneder før resesjonen,
+
+[00:14:10] eller hvis du tar markedet bunnet ut i oktober,
+
+[00:14:13] så vil det i så fall være at du skulle bunne
+
+[00:14:15] 69 måneder eller enda lenger i forkant.
+
+[00:14:19] Så det virker litt for tidlig å begynne å se gjennom en event
+
+[00:14:21] hvor du vet ikke når du begynner en gang,
+
+[00:14:24] eller hvor dypt det kommer til.
+
+[00:14:25] Så jeg synes egentlig det er litt for optimistisk
+
+[00:14:30] å tro at alt dette her er lagt bak oss,
+
+[00:14:33] og at vi kan se igjennom den eventuelt nedturen
+
+[00:14:36] som vi tror kommer etter hvert.
+
+[00:14:38] Ja, jeg er helt enig med deg.
+
+[00:14:40] Og så har vi jo denne,
+
+[00:14:42] det har jo vært så godt varslet da,
+
+[00:14:44] denne resesjonen som er litt sånn,
+
+[00:14:46] spiller vel inn på en eller annen måte.
+
+[00:14:49] Og som du sier, momentet i markedet,
+
+[00:14:52] det kan jo være en stund til,
+
+[00:14:54] altså før folks,
+
+[00:14:55] forbruksevner virkelig skrus til, ikke sant?
+
+[00:15:00] Jo mindre lønnsveksten kommer og klinker til
+
+[00:15:03] på en eller annen måte,
+
+[00:15:04] men da vil jo ha inflasjon igjen.
+
+[00:15:06] Men i det korte bildet,
+
+[00:15:07] altså kjørterne kan bli skvist mer i.
+
+[00:15:09] Ja da, absolutt.
+
+[00:15:10] Så man må alltid huske det at
+
+[00:15:12] markedet har en tendens til å overreagere
+
+[00:15:15] både på oppsiden og nedsiden,
+
+[00:15:16] så det er veldig skummelt å egentlig være helt på stand
+
+[00:15:19] at nå er det en topp,
+
+[00:15:21] og nå kan det ikke gå noe videre.
+
+[00:15:22] Og det tekniske bildet som jeg sa tidligere,
+
+[00:15:24] det ser jo egentlig litt,
+
+[00:15:25] litt bedre ut nå,
+
+[00:15:26] at det har klart å bryte ut av den negative trenden
+
+[00:15:29] som egentlig var etablert
+
+[00:15:30] siden starten av 2022.
+
+[00:15:33] Så jeg tror man skal være litt forberedt på
+
+[00:15:36] at det kan fortsette litt til
+
+[00:15:38] før det eventuelt stopper opp.
+
+[00:15:40] Ja da.
+
+[00:15:41] Ellers hadde vi Dag Hammer i podcasten
+
+[00:15:44] i starten av uken.
+
+[00:15:45] Han er forvalter av to norske aksjefond.
+
+[00:15:49] Han trakk frem sjømat og energi
+
+[00:15:52] i tillegg til shipping,
+
+[00:15:53] som sektorerne forvandler,
+
+[00:15:55] foretrekker.
+
+[00:15:57] Jeg synes det er vanskelig å være uenig med det.
+
+[00:16:00] Energi skal vi snart få mer om.
+
+[00:16:02] Når det gjelder laks,
+
+[00:16:03] så må vi jo innom det også denne uken,
+
+[00:16:06] på alle vis.
+
+[00:16:06] Du hadde en livesending med kunder i går.
+
+[00:16:09] Bare minutter før,
+
+[00:16:10] så kom det melding i Finansavisen,
+
+[00:16:13] et intervju der med Vedum,
+
+[00:16:15] der han uttalte seg om grunneren til skatten.
+
+[00:16:17] Stikk i strid med det som Pollestad
+
+[00:16:21] i samme parti sa.
+
+[00:16:24] 23. januar.
+
+[00:16:26] Så det er ikke helt lett å bli klok på det som kommuniseres
+
+[00:16:29] rundt grunnerenteskatt fra politikerne om dagen.
+
+[00:16:33] Og ja, det er også lett å forstå den kritikken
+
+[00:16:36] fra utenlandske investorer som er investert i sektoren.
+
+[00:16:40] Ja, så vi kan si at det er en ærlig sak
+
+[00:16:43] om du er for eller imot grunnerenteskatten.
+
+[00:16:45] Men jeg tror uansett hvilken side av debatten du står på,
+
+[00:16:48] så er det veldig vanskelig å kunne forsvare
+
+[00:16:50] måten dette her har blitt håndtert på.
+
+[00:16:52] Så det å komme med meldinger
+
+[00:16:54] og kontrameldinger og at det kommer frem i avisen
+
+[00:16:57] og ikke noe type pressemeldinger,
+
+[00:16:58] er noe som man kan liksom ikke drive på på den måten.
+
+[00:17:02] Og det er ganske skadelig, tror jeg, for Norges renommé
+
+[00:17:05] når vi tenker på kapitalmarkedet.
+
+[00:17:08] Og du trenger egentlig ikke å gå lenger tilbake enn 20 år.
+
+[00:17:11] Når jeg jobbet i London da, så var Norge egentlig sett på
+
+[00:17:14] egentlig litt som en emerging market
+
+[00:17:16] når det gjaldt type corporate governance
+
+[00:17:18] og sånne type ting.
+
+[00:17:19] Og så har vi sånn gradvis bygget opp tillit
+
+[00:17:22] blant utlendinger.
+
+[00:17:23] Og så har man gjort dette her nå,
+
+[00:17:25] håndtert noe på en ekstremt klønte måte.
+
+[00:17:28] Og det tar jo lang tid å bygge opp tillit,
+
+[00:17:32] og det tar veldig kort tid å ødelegge det.
+
+[00:17:35] Og dessverre så tror jeg ikke politikeren liksom skjønner
+
+[00:17:38] konsekvensen av dette her.
+
+[00:17:39] Og vi ser for eksempel i går da at aksjeprisene falt kraftig,
+
+[00:17:44] men jeg synes relativt sett,
+
+[00:17:46] altså falt kanskje Movi litt mer enn det bundet har gjort
+
+[00:17:49] relativt til noen av de andre aksjene.
+
+[00:17:51] Og det kan nok godt hende at det er typisk
+
+[00:17:53] den aksjen hvor utlendinger er mer vektet.
+
+[00:17:57] Så dette er noe som, det er ikke liksom så lett
+
+[00:18:00] å måle dette her helt nøyaktig, hvordan det egentlig slår ut
+
+[00:18:04] at utlendinger kanskje kaster kortene her.
+
+[00:18:07] Men vi skal liksom ikke undervurdere dette,
+
+[00:18:09] at hvis utlendinger ikke vil være eksponert på Oslo Børs
+
+[00:18:13] for at de synes det er for uforutsigbart,
+
+[00:18:16] så har jo dette konsekvenser ikke bare for sjømat,
+
+[00:18:18] men hele indeksen.
+
+[00:18:19] Neida, og så får vi jo se da,
+
+[00:18:22] hva som blir enden på visa når det gjelder grunnrenteskatten
+
+[00:18:28] omfor sjømatsektoren.
+
+[00:18:31] Vi sendte jo ut en oppdatering på dette her tidligere denne uken,
+
+[00:18:35] ligger blant annet en video gjennomgang på sektoren
+
+[00:18:38] tilgjengelig inne i aksjehandelsløsningen
+
+[00:18:40] for de som har lyst til å se mer om det.
+
+[00:18:43] Og det viktige her å huske på, Paul, er jo i hvert fall
+
+[00:18:48] at analysstimen i Demo Markets har en positiv syn
+
+[00:18:51] på sektoren, og det skal vi kalle det fundamentale,
+
+[00:18:56] altså tilbudet, spørsmålssituasjonen,
+
+[00:19:00] driften for næringen ser bra ut.
+
+[00:19:03] Ja, så vi kan jo si at en fordel her er at når det blir
+
+[00:19:06] såpass mye støy og at enkelte da bare kaster korten
+
+[00:19:10] og gir opp, så blir det jo til at da er det bedre
+
+[00:19:14] avkastningspotensial på lengre sikt.
+
+[00:19:16] Så når man snakker om det blir en høyere cost of capital,
+
+[00:19:21] høyere kapitalkostnader for bedriftene, så betyr jo det at
+
+[00:19:25] hvis det er du som har kapitalen, da får du en høyere avkastning.
+
+[00:19:28] Så sånn sett så er jo en lav cost of capital, det er ikke så
+
+[00:19:32] gunstig for deg som er investor.
+
+[00:19:34] Så klarer man å sitte igjennom en sånn volatilitet,
+
+[00:19:37] så betyr det jo egentlig da at man antageligvis får
+
+[00:19:40] noe bedre avkastning over tid enn man heller ellers hadde gjort.
+
+[00:19:43] Nå skal vi over til olje- og gassprisene.
+
+[00:19:48] Jeg satt meg ned med Helge-Andre Martinsen tidligere
+
+[00:19:51] denne uken for å prate om hans nye rapport og prisanslag
+
+[00:19:55] for de kommende årene. Og etter intervjuet med Helge
+
+[00:19:59] så skal Paul og jeg se nærmere på aksjene som ble mest handlet
+
+[00:20:03] av private investorerne i januar. Velkommen i studio, Helge.
+
+[00:20:13] Takk for det.
+
+[00:20:14] Når vi spiller inn dette her, så er det tirsdag 31. januar
+
+[00:20:18] og du har med deg en rykende fersk rapport om utsiktene
+
+[00:20:22] for oljeprisen. Og jeg tenker, la oss bare rive av plasten
+
+[00:20:26] med en eneste gang. Du mener at oljeprisen skal stige
+
+[00:20:30] gjennom hele 2023, for så å justere seg litt ned gjennom
+
+[00:20:34] 24 og 25. Anslagene er også godt over det fremtidskontraktene
+
+[00:20:40] viser i hele prognoseperioden. Og er det noe vi liker,
+
+[00:20:43] så er det jo tydelige oljeanalytikere, og du er
+
+[00:20:47] veldig tydelig på at retningen er opp.
+
+[00:20:50] Ja, det fundamentale bildet peker i den retningen,
+
+[00:20:54] og da må vi på en måte være tro
+
+[00:20:56] mot tallene. Og da går vi mot et strammere oljemarked.
+
+[00:21:00] Vi kommer til å få mindre produksjon enn konsum,
+
+[00:21:05] så lagerne kommer til å trekke, og vi kommer til å ha ubehagelig
+
+[00:21:09] lav eller lite ledig produksjonskapasitet,
+
+[00:21:13] spesielt i andre halvår. Og den miksen gjør normalt sett
+
+[00:21:17] at oljeprisen stiger, og det tror vi da også vi gjør
+
+[00:21:20] denne gangen. Når vi sitter her, så er oljeprisen Nordsjøljen
+
+[00:21:26] midt på 80-tallet et sted, så tror du at kvartal for kvartal
+
+[00:21:30] så skal dette bevege seg oppover mot 105 dollar.
+
+[00:21:34] Ser vi konkrete prisanslag år for år, så snakker vi altså
+
+[00:21:38] 99 dollar for i år, 95 for 24 og 90 for 25, men det er mer
+
+[00:21:46] interessert i helgen. Ligger det mye blod, svett og tårer
+
+[00:21:48] bak rapporten, eller var konklusjonen enkel denne gangen?
+
+[00:21:53] Nei, det er altså det man skal være liksom var på,
+
+[00:21:56] det er jo at makroøkonomiske bildet ser jo litt svagt ut,
+
+[00:22:01] og da skal man på en måte passe på å gjøre jobben ordentlig
+
+[00:22:05] på balansen, for det er jo normalt sett ikke noe man liker
+
+[00:22:07] i oljemarkedet, at veksten svekker seg globalt,
+
+[00:22:12] men det som skjer nå er at vi har jo denne svekkede veksten
+
+[00:22:17] som vi tror på gjennom året, men det blir da på en måte kompensert av at Kina
+
+[00:22:26] og omkringliggende land i Asia skal på en måte normalisere mobiliteten,
+
+[00:22:29] så vi skal ha opp reiseaktivitet, handelsaktivitet, og som på en måte
+
+[00:22:34] vil kontre denne svekkede makroøkonomien, og det er litt unikt
+
+[00:22:41] for den perioden vi er inne i nå.
+
+[00:22:43] Ja, hvis vi skal komme tilbake til det, ser det ut til å være litt forskjellige
+
+[00:22:47] vekstbilder avhengig av om du ser på de industrialiserte landene,
+
+[00:22:50] eller om du ser på Kina og de omkringliggende landene, men hvis vi bare zoomer ut
+
+[00:22:55] en liten stund før vi går løs på detaljene som ligger til grunn for oljeprisanslagene
+
+[00:23:02] og forventningene, og ser på olje som en del av hele energimiksen, hvordan ser det ut
+
+[00:23:07] når vi tar med alt fra gass til fornybart kjernekraft, kull, og så videre,
+
+[00:23:12] altså hvor viktig kommer olje til å være når vi kommer ut mot slutten av dette
+
+[00:23:18] 10 året, altså rundt 2030? Dette er jo selvfølgelig langt utover prognoseperioden
+
+[00:23:24] og rapporten din, så det er veldig viktig.
+
+[00:23:25] Som vi hovedsakelig skal snakke om i dag, men poenget mitt er altså hvis det ikke skjer
+
+[00:23:30] noe sånn revolusjonerende med hvor effektivt og hvor mye fornybart vi produserer,
+
+[00:23:34] så er det jo vanskelig å se at ikke olje vil fortsette å spille en viktig rolle,
+
+[00:23:39] og i tillegg så vet vi at olje er også en veldig viktig innsatsfaktori, veldig mye som lages av,
+
+[00:23:46] ja, nær sagt, alt mulig.
+
+[00:23:48] Ja, nei, det som jeg tror er viktig i det store spørsmålet, og spesielt når vi ser frem til
+
+[00:23:55] 2030, så tror jeg vi man kan si med veldig stor grad av trygghet at olje kommer til å være ekstremt viktig.
+
+[00:24:02] Men det som er, hvis vi ser på det store bildet, så må vi huske på det at olje lever litt sånn sitt eget liv,
+
+[00:24:09] oljemarkedet, de konkurrerer ikke direkte mot fornybar energi.
+
+[00:24:14] Så hvis vi installerer mye, mye mer vind og solkapasitet fram til 2030, så vil jo det generere elektrisitet
+
+[00:24:25] og vi bruker veldig lite av oljen til å lage elektrisitet, så sol og vind konkurrerer lite i direkte head to head mot olje.
+
+[00:24:35] Så der hvor på en måte oljen møter konkurranse nå, det er jo gjennom elbilene.
+
+[00:24:42] Og det vi skal huske da, det er to elementer, det ene er da at om disse elbilene går på strøm fra kull eller vind,
+
+[00:24:50] spiller for så vidt ingen rolle for hvordan de påvirker olje etterspørselen.
+
+[00:24:54] Så vi må egentlig telle elbilen og se på elbil penetrasjon i nybilsalget, og så er det andre elementet i det,
+
+[00:25:02] det er at vi må huske at vi konsumerer cirka 100 millioner fat per dag med olje totalt sett,
+
+[00:25:09] og så er litt over 25 prosent av det personbiler, så elbilene spiser av en fjerde av oljemarkedet.
+
+[00:25:18] Og dermed så vil dette her ta tid, fordi at vi kan ikke bare elektrifisere,
+
+[00:25:24] vi må gjøre noe med personbilmarkedet, vi må gjøre noe med veitransporten, vi må gjøre noe med fly, vi må gjøre noe med marine,
+
+[00:25:32] og så er det som du sier at vi har en betydelig andel av oljekonsumet, også til industriellt bruk, primært petrokemi,
+
+[00:25:40] og det summerer seg opp til cirka 30 prosent av oljeforbruket, det industrielle.
+
+[00:25:48] Så sammensetningen her gjør at oljeetterspørselen nok er mer robust,
+
+[00:25:54] enn det man ser for seg når man går en tur i Oslo og ser på alle elbilene.
+
+[00:25:59] Ok, ok, men la oss ta det nære, det som du legger til grunn når du gjør anslagene dine,
+
+[00:26:09] hovedpunktene av det man må rett og slett pløye gjennom for å komme frem til å kunne si noe fornuftig om retningen på oljeprisen.
+
+[00:26:17] Du har nevnt Kina allerede, så la oss ta den med en gang.
+
+[00:26:22] Vi har jo en gjennåpning i Kina nå som på mange måter man kan si ser ut til å gå overraskende ok så langt.
+
+[00:26:30] Det gir positive effekter for resten av Asia også sannsynligvis,
+
+[00:26:35] og da må det vel nesten legge til grunn at dette bidrar på vekst i den globale oljespørselen i år, alt annet like.
+
+[00:26:42] Ja, definitivt Kina er kanskje den viktigste enkeltfaktoren.
+
+[00:26:45] Som du sier at vi skal ha to effekter her, vi skal ha forbedret mobilitet,
+
+[00:26:51] det vil si at reisemønsteren,
+
+[00:26:52] reisemønsterne skal normaliseres,
+
+[00:26:55] og spesielt flytrafikken internasjonalt skal kraftig opp.
+
+[00:26:59] Vi ser også tendenser til på en måte at trafikk på vei forbedres kraftig.
+
+[00:27:04] Så Kina vil ha mobilitetsgjeninnhenting,
+
+[00:27:08] og i tillegg så forventer vi også at det kommer på en måte økonomisk stimuli
+
+[00:27:11] for å få opp den generelle økonomiske veksten der.
+
+[00:27:14] Og så tror vi dette også får ringvirkninger av omkringliggende land og nære handelspartnere i Asia,
+
+[00:27:20] som vil gjøre at etterspørselsveksten i 2023 er på en måte det er Asia som er nøkkelen der egentlig.
+
+[00:27:30] Så det at dette går sånn som du tror, det er et viktig premiss?
+
+[00:27:36] Ja, det er viktig.
+
+[00:27:37] Ser vi på en måte på isolerer vi den økonomiske veksten,
+
+[00:27:42] så skulle oljeterspørselsveksten i år vært ganske mager.
+
+[00:27:46] Men fordi at vi får dette mobilitetet,
+
+[00:27:50] eller vi har mobilitetsgjeninnhentingen,
+
+[00:27:51] spesielt i Asia,
+
+[00:27:53] gjør at vi kommer litt over det vi kan kalle langsiktig trendvekst.
+
+[00:27:57] Vi tror oljeterspørselen vil øke med 1,4 millioner fat hver dag,
+
+[00:28:02] sammenlignet med i forrige år.
+
+[00:28:04] Og så har vi amerikanske skiferoljen og veksten her.
+
+[00:28:10] Den ligger an til å begrenses av tilgjengelig kapasitet i oljeserviceindustrien.
+
+[00:28:18] Hvis jeg har forstått rapporten riktig,
+
+[00:28:20] Hvor viktig er det at denne delen av tilbudssiden begrenses?
+
+[00:28:25] Det er veldig viktig faktisk,
+
+[00:28:27] fordi ser vi litt historisk på det,
+
+[00:28:30] så er det jo skiferolden som har skapt hodebri for OPEC.
+
+[00:28:34] Når oljeprisene har blitt for høy,
+
+[00:28:35] så har tilbudsresponsen fra skiferindustrien blitt for stor,
+
+[00:28:42] og det har utfordret markedsandelene til OPEC.
+
+[00:28:46] Så var vi nå inne i en periode
+
+[00:28:48] hvor disse skiferprodusentene hadde endret litt adferd,
+
+[00:28:53] hvor de var mer disiplinerte i forhold til investeringsnivået sitt.
+
+[00:28:57] Det gjorde at vi hadde en avtagende vekstakt i skiferoljen
+
+[00:29:02] basert på oljeselskapenes adferd.
+
+[00:29:06] Men så har de også nå tatt ned giringen på balansen kraftig,
+
+[00:29:10] så de har nå solid balanse.
+
+[00:29:12] De betaler utbytte, de fleste gjør tilbakekjøp av aksjer,
+
+[00:29:16] og de har en god kontantstrøm,
+
+[00:29:17] så man kunne egentlig se for seg at de begynte å komme litt mer investeringsmodus igjen.
+
+[00:29:24] Men så kommer da denne kapasitetsbegrensningen i servicesektoren,
+
+[00:29:30] og det er egentlig ganske stramt i de fleste leddene i industrien i skiferoljen.
+
+[00:29:38] Høy inflasjonstakt hadde det i fjor,
+
+[00:29:40] og fortsetter med tosifret inflasjon i år, forventer vi,
+
+[00:29:43] og som gjør at vekstlysten ikke er så høy,
+
+[00:29:47] fordi at du vet at hvis du øker investeringene dine,
+
+[00:29:50] så vil det stort sett bli spist opp av inflasjon og bli lite aktivitetsvekst.
+
+[00:29:54] Og så snakker man med disse oljeservice-selskapene,
+
+[00:29:59] så er det sånn at de har jo hatt magre tider i nesten 7-8 år,
+
+[00:30:04] så de er egentlig ikke veldig interessert i å øke kapasiteten sin.
+
+[00:30:09] De vil ha høyere marginer, bedre kontantstrøm,
+
+[00:30:13] og betalende gjeld, begynne å betale utbytte, gjøre det som oljeselskapene har gjort,
+
+[00:30:17] og det er det på en måte nå serviceindustrien sin tur til å gjøre.
+
+[00:30:20] Og det vil medføre at vi kommer til å sitte med en stram kapasitet,
+
+[00:30:25] tror vi, både i år og inn i neste år,
+
+[00:30:27] og som vil begrense den underliggende vekstpotensialet i skiforoljen.
+
+[00:30:34] Og så er det vel også signaler om at det skal gjøres mer på vann,
+
+[00:30:41] ikke bare på land også?
+
+[00:30:44] Ja, man ser jo på en måte at investeringstakten,
+
+[00:30:46] er på vei oppover i industrien,
+
+[00:30:51] så både på land og på vann, og med inflasjonen økende både på land og på vann også.
+
+[00:30:58] Så det er viktige trender å følge med på,
+
+[00:31:01] og spesielt de nasjonale oljeselskapene i Midtøsten,
+
+[00:31:04] ser jo at de tar, vi skal kalle det investeringsansvar,
+
+[00:31:08] og prøver å jobbe med sin produksjonskapasitet,
+
+[00:31:13] gjennom å øke investeringen og aktiviteten ganske betydelig.
+
+[00:31:16] Men amerikanerne, de har ikke så store reservelager å skippe ut i markedet lenger, har de vel det?
+
+[00:31:22] Nei, nå er du jo inne på tematikken rundt de strategiske oljelagerne,
+
+[00:31:27] hvor i etterkant av invasjonen fra Russland,
+
+[00:31:31] så vedtok Biden å slippe olje som myndighetene eier og kontrollerer, ut i markedet.
+
+[00:31:39] Dette er jo normalt sett nødlager, hvor man slipper når man har betydelige forstyrrelser i verden,
+
+[00:31:46] rundt oljeproduksjonen, så kan man diskutere, hadde man det etter invasjonen?
+
+[00:31:50] Nei, ikke sånn dramatisk mye i hvert fall.
+
+[00:31:53] Så noen ville jo hevde at det var på en måte litt sånn politisk manipulering,
+
+[00:31:57] hvor man prøvde å bekjempe høye pumpepriser i USA,
+
+[00:32:01] og inflasjonen i samme slengen, før mellomvalget.
+
+[00:32:05] Men resultatet var jo at vi har hatt betydelig olje ut i markedet i 2022,
+
+[00:32:10] som kommer fra myndighetskontrollerte lager, og blir sluppet ut i markedet,
+
+[00:32:14] og er på en måte en sånn kunstig,
+
+[00:32:16] tilbud i oljemarkedet gjennom 2022,
+
+[00:32:19] og har ganske vesentlig størrelse, en snitt på 800 000 fat per dag,
+
+[00:32:24] og som nå har tørket opp.
+
+[00:32:26] Amerikanerne kan ikke gjøre dette her igjen,
+
+[00:32:28] fordi strategiske lagerne er på ubehagelige lave nivåer,
+
+[00:32:31] så den faktoren som egentlig har vært litt sånn negativ for oljeprisen gjennom 2022,
+
+[00:32:36] den faktoren skal vi ikke ha med oss i 2023,
+
+[00:32:39] og hvis vi skal få noe dynamikk på myndighetskontrollerte lager,
+
+[00:32:43] så er det jo mer det at amerikanerne nå må kjøpe olje,
+
+[00:32:46] for å bygge opp igjen disse lagerne.
+
+[00:32:49] Da har vi vært innom Kina og Østen, vi har vært i USA,
+
+[00:32:55] da må vi ta turen til Europa, her har vi jo fortsatt krigen i Ukraina,
+
+[00:33:01] vi har på en måte gassutfordringene som skjer på grunn av situasjonen med Russland,
+
+[00:33:07] og ikke minst disse sanksjonene som man legger mot Russland,
+
+[00:33:13] som også treffer russiske olje,
+
+[00:33:16] og så skal vi komme tilbake til gassituasjonen og gassprisene etter hvert,
+
+[00:33:20] men er ikke liksom summen av alt det som skjer i Europa,
+
+[00:33:25] det må jo fortsatt være støttende for oljeprisen da,
+
+[00:33:28] selv om jeg skjønner at det ikke nødvendigvis er enkelt å forutse alle konsekvenser av både sanksjoner og krig?
+
+[00:33:35] Ja, nei, du har jo rett i det at underliggende så er det jo tilstrammende det som skjer,
+
+[00:33:39] men samtidig har jo russerne da vist evne til å få mer olje ut enn det de fleste trodde,
+
+[00:33:46] så det er noen russiske olje som finner veien til markedet både via herfra og derfra,
+
+[00:33:51] det må bare innom et eller annet annet sted enn der det pleier?
+
+[00:33:54] Ja, og så er det jo sånn at vestlige land og USA også ønsker,
+
+[00:33:59] de står litt i skvis, for de ønsker liksom ikke å ødelegge oljeeksporten ut av Russland for mye,
+
+[00:34:08] for da stiger oljeprisene internasjonalt, men samtidig så vil de prøve å begrense russernes inntekter da,
+
+[00:34:15] fra oljesalg og det, det er jo en hårfin balanse hvordan de skal få til det,
+
+[00:34:20] så det som har skjedd er jo det at Europa nå importerer nesten null av russisk olje,
+
+[00:34:28] og så går da disse volymene primært til Asia, og den største liksom nye kjøperen av russisk olje er jo India,
+
+[00:34:36] så det som har skjedd så langt er at egentlig at flow eller flyt av olje på vann har skiftet i vesentlig grad,
+
+[00:34:44] mens totaleksportnivåene har ikke falt så mye som man trodde inisielt,
+
+[00:34:51] så det har vært fleksibilitet, og selvfølgelig også er det mye penger å tjene for de aktørene som involverer seg i dette,
+
+[00:34:59] så det er jo sterke økonomiske insentiver for å få den oljen til å strømme,
+
+[00:35:04] som gjør at det da har levert kanskje over forventning, men så kommer det da nye sanksjoner 3. kraft nå 5. februar,
+
+[00:35:12] hvor EU skal ha en embargo mot ikke russisk olje, men oljeprodukter, typisk diesel, bensin, fyringsolje, den type ting,
+
+[00:35:22] og vi får også disse G7-lavnene å komme med sin pris-cap, og den dynamikken, det er hvor russerne så langt av viss er gode til å finne nye kjøpere til rålige,
+
+[00:35:33] så tror vi de sliter litt mer med oljeproduktene, så vi forventer da at russisk oljeproduksjon faller med ca. en halv million fat,
+
+[00:35:40] og grunnen til det er at russerne ikke får solgt oljeproduktene sine, så de må raffinere mindre,
+
+[00:35:45] og når raffineriene på en måte skal ha mindre gjennomstrømning, så må de back ut egenprodusert olje,
+
+[00:35:53] og som vil presse oljeproduksjonen noe ned i Russland.
+
+[00:35:58] Men jeg vil bare poengtere det at sånn som det internasjonale energibyrået,
+
+[00:36:02] de forventer et fall i russisk oljeproduksjon på 1,7 millioner fat hver dag i løpet av noen få måneder,
+
+[00:36:07] så sånn sett kan du si at vi er forsikre.
+
+[00:36:10] Det er riktig i forhold til hva vi forventer av produksjonsfallet i Russland.
+
+[00:36:14] Ok, men så russerne selger til India, og helt sikkert til Kina,
+
+[00:36:21] får vi kjøpe den oljen vi trenger, da tenker jeg ikke på Norge, men Vesten da,
+
+[00:36:26] den oljen de trenger av Saudi-Arabia og de andre OPEC-landene?
+
+[00:36:30] Ja, det blir jo egentlig bare en sånn, du bare reskiffler over internasjonalt,
+
+[00:36:37] så det er jo selvfølgelig da veldig positivt for skiffene,
+
+[00:36:40] fordi at du skal flytte olje fra der den har naturlig tilhørighet,
+
+[00:36:44] til regioner hvor den ikke har tilhørighet,
+
+[00:36:47] og så må du da kompensere med å få ny olje da inn i det europeiske markedet,
+
+[00:36:52] og det samme gjelder på oljeproduktene,
+
+[00:36:55] så dette her er jo veldig, man kan kalle det tonnmil intensivt da, for skiffing,
+
+[00:37:00] og sånn sett har det vært en veldig positiv faktor for etterspørselen etter råolje- og oljeproduktfrøkt.
+
+[00:37:08] Ja.
+
+[00:37:09] Men dette tar oss til OPEC da, vi kom jo ikke utenom de,
+
+[00:37:13] altså er poenget ditt at verden kommer til å trenge mer olje fra OPEC?
+
+[00:37:19] Ja, det ser sånn ut, hvis vi går inn i andre halvår i år og inn i neste år,
+
+[00:37:24] så kommer verden til å behøve mer bidrag fra OPEC,
+
+[00:37:29] og utfordringen da er jo det at de har relativt begrenset med produksjonskapasitet.
+
+[00:37:36] Hva ligger i det, altså hvor begrenset er det?
+
+[00:37:38] Nei, altså.
+
+[00:37:39] Vi vet kanskje ikke.
+
+[00:37:40] Nei, altså de har vel aldri produsert liksom helt på maks,
+
+[00:37:43] og en ting er at man er veldig opptatt av disse produksjonsrekordene,
+
+[00:37:46] men de er ofte bare på månedsbasis,
+
+[00:37:48] men hvis man liksom tar på seg ingeniørhatten da,
+
+[00:37:52] og ser hva som er utfordrende for et oljefelt,
+
+[00:37:55] så er det jo det å holde høy produksjon over tid,
+
+[00:37:58] for da blir volymutaket veldig høyt,
+
+[00:38:00] og da får du trykkfall i reservoaret ditt,
+
+[00:38:02] og da må du også erstatte det med å injisere mer enten vann,
+
+[00:38:07] eller gass inn i oljereservoaret ditt,
+
+[00:38:09] og det gjør at du må på en måte ha et veldig høyt aktivitetsnivå,
+
+[00:38:15] for å kunne tillate deg å holde høy produksjonstakt over tid,
+
+[00:38:20] og det har vi liksom ikke testet enda.
+
+[00:38:22] Deres evne til å produsere høyt på rekordnivåer over tid er liksom uttestet,
+
+[00:38:27] så vi tror jo at når vi kommer inn i andre halvdelen neste år,
+
+[00:38:31] så ligger da den ledige produksjonskapasiteten i verden på kanskje litt over en million fat,
+
+[00:38:37] i et marked som konsumerer hundre,
+
+[00:38:39] så det er jo på en veldig høy utnyttelsesgrad,
+
+[00:38:42] og det gjør oljemarkedet sårbart til å håndtere uforutsette situasjoner.
+
+[00:38:47] Hvis vi skulle få et eller annet opprør,
+
+[00:38:50] eller politisk situasjon i et midtøstenland som er oljeprodusent,
+
+[00:38:54] eller for eksempel hvis verdensøkonomien overrasker på oppsiden,
+
+[00:38:58] og oljehetsspørsmålet blir noe sterkere enn det vi forutser,
+
+[00:39:02] så har vi liten kapasitet til å håndtere det,
+
+[00:39:05] og du kan egentlig bare si det enkelt at nå bremser jo verdensøkonomien,
+
+[00:39:10] hvis verdensøkonomien hadde på en måte gått på normalvekst da,
+
+[00:39:15] si 3,5% i år og neste år,
+
+[00:39:17] så hadde vi spist opp den ledige produksjonskapasiteten,
+
+[00:39:20] så sånn sett kan vi si at denne nedkjølingen av verdensøkonomien
+
+[00:39:25] egentlig har vært nødvendig for å balansere oljemarkedet.
+
+[00:39:29] Men OPEC da, de sitter vel i et sånt her scenario,
+
+[00:39:34] og tenker at tja, dette her er jo ikke så verst,
+
+[00:39:38] her har vi ganske grei kontroll på det som skjer,
+
+[00:39:42] og det er til vår fordel.
+
+[00:39:44] Definitivt, og de har jo,
+
+[00:39:46] kan si at OPEC selvtillit har økt i takt med forståelsene
+
+[00:39:50] at skiferoljen ikke er den trusselen som det en gang var,
+
+[00:39:53] for det er det som har vært hodepinnen for OPEC,
+
+[00:39:55] at hvis de på en måte ønsket å ha prisen opp på et høyere nivå,
+
+[00:40:00] så ville skiferoljen komme å ødelegge.
+
+[00:40:03] Det er de nok mer komfortabele med nå,
+
+[00:40:05] samtidig så ser du at verdensøkonomien er litt i trøbbel,
+
+[00:40:09] så jeg tror ikke de er for grådige,
+
+[00:40:11] men for OPEC nå så blir det jo mer å finne hvor høyt
+
+[00:40:15] kan normalprisnivået være uten at det går vesentlig ut
+
+[00:40:20] over olje- og etterspørselsveksten,
+
+[00:40:22] så det er nok det de på en måte sikter mot nå,
+
+[00:40:25] men uten å være for grådige i det korte bildet,
+
+[00:40:29] for de vil på en måte ikke sende verden ut i resten,
+
+[00:40:33] det er nok å ta en liten prisesjon og fyre opp under inflasjonen,
+
+[00:40:37] og holde oljemarkedet for stramt.
+
+[00:40:40] Så da kan du gjøre i hvert fall et argument ut av at,
+
+[00:40:43] hva skal vi si, OPEC har alle forutsetninger for å ha
+
+[00:40:47] ganske god kontroll på nedsiden i forhold til oljeprisen
+
+[00:40:51] fra der vi er i dag.
+
+[00:40:53] Definitivt, og det er et viktig argument som vi er helt enige i, Marius,
+
+[00:40:59] det er at kjerne-OPEC-landene,
+
+[00:41:01] de produserer fortsatt på nesten rekordnivåer,
+
+[00:41:05] som gjør at de ganske komfortabelt kan skalere oljeprodusjonen sin
+
+[00:41:10] noe tilbake hvis prisene softner,
+
+[00:41:13] mens du kan også fort tegne et bilde av at de mister
+
+[00:41:17] kontrollen på prisen på oppsiden,
+
+[00:41:19] fordi at de ikke har denne produsjonskapasiteten som er nødvendig
+
+[00:41:23] hvis det på en måte blir et uforutsett produsjonsbordfall
+
+[00:41:25] et eller annet sted i verden,
+
+[00:41:27] eller hvis oljekonsumet kommer tilbake sterkere enn det var,
+
+[00:41:30] og da måler prisen opp på nivåer hvor du begynner å ødelegge
+
+[00:41:37] oljeuterspørsel for å balansere markedet,
+
+[00:41:40] og da snakker vi vesentlig høyere nivåer enn der vi er i dag.
+
+[00:41:45] Ja, så da blir jokeren, altså, hva skal vi si,
+
+[00:41:50] hvor hard blir den økonomiske tilbakeslagen,
+
+[00:41:54] eller nedturen, eller resesjonen for de industrialiserte landene,
+
+[00:41:58] dette har vi jo snakket om,
+
+[00:41:59] dette har vi jo snakket om allerede helgen,
+
+[00:42:04] og her kan man jo tegne både det ene og det andre bildet,
+
+[00:42:08] jeg så en overskrift i dag,
+
+[00:42:10] IMF tiser på oljeprisen ned 16% i 2023,
+
+[00:42:15] så de er jo uenige med deg, hvis jeg forstod det riktig,
+
+[00:42:17] da snakker vi altså om oljepriser på lave 70-tallet,
+
+[00:42:20] og det er jo blant annet begrunnet i lavere forbruk fra folk,
+
+[00:42:24] fordi økonomiske tider blir tøffere.
+
+[00:42:26] Ja, og det skal man være klar over,
+
+[00:42:28] at normalt sett så er jo det som vi var inne på til å begynne med her,
+
+[00:42:31] at svakere økonomisk vekst pleier ikke å være noe suksessfaktor for oljemarkedet,
+
+[00:42:36] men vi skal også notere oss at IMF da reviderer opp anslagene,
+
+[00:42:43] så selv om de på en måte har et litt sånn forsiktig bilde for økonomisk vekst,
+
+[00:42:47] så ser vi tendenser til at BNP-anslagene for 2023 blir revidert opp,
+
+[00:42:53] og det gjorde også våre egne makroøkonomer,
+
+[00:42:56] som fortsatt liksom har et ganske sånn forsiktig anslag for økonomisk vekst i 2023,
+
+[00:43:03] men det er på en oppreviderende trend,
+
+[00:43:06] og det ser vi stort sett overalt,
+
+[00:43:08] og det er jo for så vidt i seg selv noe positivt,
+
+[00:43:12] men jeg er da uenig med IMF,
+
+[00:43:17] og som vi var inne på, hovedargumentet på et spørsmål siden,
+
+[00:43:19] Du er vel ikke den eneste?
+
+[00:43:20] Neida, det er ikke det,
+
+[00:43:21] men hovedargumentet på et spørsmål siden er jo dette med mobilitet,
+
+[00:43:25] og normalisering av mobilitet,
+
+[00:43:26] og ikke den økonomiske veksten i seg selv,
+
+[00:43:28] den er for svagt å drive oljehetsspørsmålet noe vesentlig opp i 2023,
+
+[00:43:33] så den blir drevet av mobilitetsforbedring.
+
+[00:43:36] Ok, men poenget altså,
+
+[00:43:39] hvis skal vi si resesjonen eller tilbakeslaget blir relativt kortvarig,
+
+[00:43:44] som du sa, så vil vi se potensial for at oljeprisene også kan gå betydelig høyere,
+
+[00:43:51] alt kommer litt an på dette her.
+
+[00:43:54] Definitivt, og det er klart at makroøkonomiske situasjoner er uoversiktlige,
+
+[00:44:00] spesielt med dette med inflasjon og harhet i klypa fra sentralbankene på rentesettingen,
+
+[00:44:07] så det er den største usikkerhetsfaktoren i denne mixen på oljebalansen.
+
+[00:44:13] Og så vet vi jo da, Helge, at er det noe som svinger?
+
+[00:44:16] Hva er det?
+
+[00:44:17] Jo, det er oljeprisen.
+
+[00:44:19] Den har en tendens av og til til å svinge noe veldig.
+
+[00:44:23] Så spørsmålet mitt er vel egentlig,
+
+[00:44:25] er det grunn til å forvente stor volatilitet i år?
+
+[00:44:28] Altså oljeprisen går jo ikke bare i en rett linje opp selv om du anslår det.
+
+[00:44:32] Nei, den går veldig sjeldent i en rett linje,
+
+[00:44:34] og vi kommer jo med punktanslag på oljepris,
+
+[00:44:38] og vi prøver på en måte å treffe på fundamental utvikling i oljebalansen,
+
+[00:44:45] og at oljeprisen holder tritt med det.
+
+[00:44:49] Men det kommer til å svinge rundt det,
+
+[00:44:52] og historien har vist at volatilitet er med oss,
+
+[00:44:56] både i fallende og stigende markeder,
+
+[00:44:59] og det må vi forvente oss i år.
+
+[00:45:01] Men vi kan trøste oss med at oljemarkedet er blekner
+
+[00:45:07] i forhold til hva som har skjedd i gassmarkedet de siste par årene.
+
+[00:45:11] Ja, og der ga det meg et bra springbrett, Helge,
+
+[00:45:14] for jeg tenkte vi får avslutte litt med det da.
+
+[00:45:17] Altså i det europeiske gassmarkedet har prisene falt med over 80%, er det ikke det?
+
+[00:45:21] Siden de rekordet prisene i august.
+
+[00:45:25] Så det ene spørsmålet er jo om gasskrisen kan avblåses i Europa.
+
+[00:45:31] Ja, altså du kan si at de ekstremprisene som vi hadde,
+
+[00:45:35] de tror jeg vi kan si at det ekstremt lite sannsynlig kommer igjen.
+
+[00:45:40] Og hovedgrunnen til det er jo at etterspørselen etter gass i Europa
+
+[00:45:45] har vært svakere enn det man kunne forvente.
+
+[00:45:48] Og så i tillegg til det så har vi fått hjelp av
+
+[00:45:49] og så i tillegg til det så har vi fått hjelp av
+
+[00:45:51] vær på toppen også.
+
+[00:45:53] Vinteren har vært varmere enn normalt,
+
+[00:45:55] og gassetterspørselen i vinterhalvåret er veldig sensitivt på temperatur,
+
+[00:46:01] fordi at vi bruker gass til oppvarming.
+
+[00:46:04] Ja, ja, og europæerne har vært veldig heldige rett og slett.
+
+[00:46:06] Ja, vi har blitt hjulpet,
+
+[00:46:08] og så har vi da i tillegg fått veldig mye flytende naturgass inn i Europa,
+
+[00:46:13] sånn at mye flytende naturgass inn i Europa kombinert med etterspørsel,
+
+[00:46:19] som er overraskende svak,
+
+[00:46:21] har gjort at gasslagerne har gått,
+
+[00:46:24] spoler vi ett år tilbake, står vi i januar 2022,
+
+[00:46:27] så var gasslagerne ekstremt presset i Europa,
+
+[00:46:30] så vi gikk inn med veldig lave gasslagere.
+
+[00:46:32] Men gjennom kriseåret 2022,
+
+[00:46:35] så har da gasslagerne bygget seg opp,
+
+[00:46:37] og det er som en følge av disse rekordhøye prisene,
+
+[00:46:40] så nå er gasslagerne i Europa på nesten rekordnivåer.
+
+[00:46:44] Og det betyr at vi gjennom vinteren i år garantert kommer med det
+
+[00:46:48] å lande på beina,
+
+[00:46:50] men gasslagerne er så høye at det også får implikasjoner for neste vinter,
+
+[00:46:54] at vi ikke allerede nå kan se konturene av at vi går inn i neste vinter
+
+[00:46:59] med gasslagere som er på gode nivåer,
+
+[00:47:03] at vi ikke trenger disse ekstremprisene vi hadde i sommeren 2022,
+
+[00:47:09] for å lande på beina med hensyn til å ha gode gasslagere
+
+[00:47:15] før vi starter neste vinter.
+
+[00:47:16] Men da snakker vi jo bare om å,
+
+[00:47:18] å klare seg da på en måte,
+
+[00:47:20] altså at man har nok,
+
+[00:47:22] vi er vel ikke der at vi har funnet løsningen på at Europa skal klare seg uten russisk gass?
+
+[00:47:29] Nei, altså løsningen vår så langt har jo vært to ting som vi er inne på,
+
+[00:47:32] rekordhøye LNG-import og demand destruction,
+
+[00:47:37] og den rekordhøye LNG-importen den må vi fortsatt ha,
+
+[00:47:41] det betyr at vi må fortsatt ta LNG inn i Europa som normalt sett hører til Asia,
+
+[00:47:46] så vi må konkurrere med Asia på pris om disse flytene naturgassen,
+
+[00:47:52] som gjør at vi ikke kan forvente at gassprisen normaliserer seg,
+
+[00:47:57] fordi at det kommer til å være en kamp de neste årene om å sikre seg den gassen.
+
+[00:48:02] Så fortsatt historisk høye nivåer på gassprisen selv om du ikke har de megatoppene?
+
+[00:48:06] Ja, vi har jo blitt litt sånn fartsblinde, ikke sant,
+
+[00:48:09] fordi at vi var på ekstremnivåer,
+
+[00:48:11] så du kan si at gassprisene nå er vel sånn røffelige,
+
+[00:48:15] nesten dobbelt så høye som du kan si ville vært normalt,
+
+[00:48:21] og så tenker man at jo, men dette her er jo lavt,
+
+[00:48:24] fordi at man kommer fra ekstremnivåene,
+
+[00:48:26] men vi skal ligge betydelig over historiske snittnivåer på gassen,
+
+[00:48:31] også må vi følge med på etterspørselen,
+
+[00:48:33] for det som har skjedd er jo som du var inne på,
+
+[00:48:35] at gassprisene har jo falt gjennom høsten betydelig,
+
+[00:48:39] men vi ser ikke noen respons på gassetterspørselen fra lavere gasspriser,
+
+[00:48:44] så det venter litt på seg,
+
+[00:48:46] og hvis vi prøver å justere ut temperatureffektene,
+
+[00:48:50] så er europeisk gassetterspørsel nå underliggende,
+
+[00:48:53] ned ca 15% i forhold til normalnivå,
+
+[00:48:56] og det er mer enn vi behøver,
+
+[00:48:58] så per nå fjerner vi mer gass enn det vi egentlig behøver å fjerne,
+
+[00:49:03] og da må vi vente litt og se,
+
+[00:49:05] er det liksom forsinket demand response på fallende priser,
+
+[00:49:08] man kan jo tenke seg for eksempel noe som industri,
+
+[00:49:11] industriell gassetterspørsel har falt mye i Europa,
+
+[00:49:13] tar det litt tid før industrien på en måte blir komfortabel med å skru opp kapasiteten igjen,
+
+[00:49:19] du har visibilitet på at marginene er tilbake,
+
+[00:49:22] og at det er visse tidsforsynkelser,
+
+[00:49:26] det er logisk,
+
+[00:49:29] så vi må følge med Argus øynene på om etterspørselsbildet i Europa bedrer seg noe,
+
+[00:49:35] for vi ligger nå på 15% demand destruction,
+
+[00:49:38] og så beregner vi i våre modeller at for år i år,
+
+[00:49:42] så holder vi kanskje med 10% demand destruction,
+
+[00:49:44] så vi har litt å gå på.
+
+[00:49:47] Ja, og hvordan dette her går får jo også veldig implikasjoner for en rekke selskaper,
+
+[00:49:52] hvis du tar det ned på mikronivå,
+
+[00:49:54] alt fra Yara til oljeselskapene som også har gass og så videre,
+
+[00:50:00] så det er mange ringvirkninger av hvordan dette her går.
+
+[00:50:05] Definitivt, men det som på en måte er positivt for Norge og olje- og gassindustrien,
+
+[00:50:12] er jo at det fortsatt er et veldig stramt marked,
+
+[00:50:17] og som du er inne på at ja, vi har ikke disse ekstremprisene,
+
+[00:50:20] men Europa har fortsatt et problem som må løses,
+
+[00:50:23] og fra et industrielt perspektiv så er det jo hodebry,
+
+[00:50:28] at vi har så høye energipriser,
+
+[00:50:30] og at man flytter da investeringer ut til andre regioner,
+
+[00:50:34] så det er et politisk problem som må tas tak i,
+
+[00:50:37] og som gjør at norsk olje- og gassindustri,
+
+[00:50:41] står jo vesentlig bedre stilt kontra det den gjorde for et par år siden,
+
+[00:50:49] i forhold til å få aksept fra resten av Europa,
+
+[00:50:53] for viktigheten i forhold til dette med energisikkerhet,
+
+[00:50:56] som jo er kommet mye høyere opp på den politiske agendaen.
+
+[00:51:01] Bra det, Elge.
+
+[00:51:03] Jeg tror vi får sette strek der, men det var ikke dårlig dette her,
+
+[00:51:07] og det ble mye lengre enn det som egentlig hadde planlagt,
+
+[00:51:09] men det var fordi det var veldig interessant,
+
+[00:51:12] så jeg må si godt å ha deg tilbake i studio for en oppdatering,
+
+[00:51:17] du får komme tilbake om ikke altfor lenge da.
+
+[00:51:21] Jeg stiller når du roper, Marius.
+
+[00:51:23] Herlig, herlig. Takk for at du kom, Elge.
+
+[00:51:26] Ja, Paul, hvis Elge får rett i retningen på oljeprisen,
+
+[00:51:35] så bør vel det være godt nytt for når jeg har sagt alt da,
+
+[00:51:39] olje- og oljeserviceaksjer, eller hva?
+
+[00:51:41] Ja da, det var jo å si det som rett,
+
+[00:51:44] vi har reddet indeksen i fjor, men det er det som veier litt tungt
+
+[00:51:47] akkurat nå i starten av året,
+
+[00:51:50] så Oslo Børs så kommer du aldri unna av akkurat det med oljeprisen,
+
+[00:51:55] at det slår jo selvfølgelig direkte i de største selskapene på børsen,
+
+[00:51:59] og til en viss grad så er det jo også nokon effekt på mye annet i tillegg,
+
+[00:52:03] så olje blir alltid viktig her.
+
+[00:52:06] Ja, tar du opp chartet for oljeserviceindeksen på Oslo Børs, Obo 6,
+
+[00:52:12] så ser du at den har gått kraftig fra bunnen,
+
+[00:52:16] men tar du et litt langt chart med historien,
+
+[00:52:19] så ser du på de forrige toppene, så er det rom for i hvert fall en dobling til.
+
+[00:52:24] Ja, det er en sektor som har slitt i mange år her,
+
+[00:52:28] så sånn sett så har det en del catch-up potensiale etterhvert,
+
+[00:52:33] og de store problemene de hadde da, at etter,
+
+[00:52:36] eller i finanskriseperioden da, så ble det bestilt alt for mye av så å si,
+
+[00:52:41] alt av utstyr, for mye rigger, for mye båter,
+
+[00:52:45] så da i etterkant så endte man opp med at det var rett og slett ikke noe pricing power,
+
+[00:52:51] at det var rolleselskapene som kunne bestemme prisen,
+
+[00:52:54] og oljeservice gikk så vidt i null omtrent,
+
+[00:52:57] så nå er maktbalansen endret litt,
+
+[00:53:01] at nå er det klart å skrote ganske mye av litt sånn eldre båter og sånne type ting,
+
+[00:53:06] og da er det plutselig oljeservice som igjen sitter i føresetet,
+
+[00:53:09] og kan begynne å presse marginene opp,
+
+[00:53:11] mens det er rolleselskapene som nå må finne seg i høyere kostnader.
+
+[00:53:15] Ja, og jeg har som alltid, som jeg gjør hver måned,
+
+[00:53:18] sett på hvilke aksjer som har blitt det mest tradet av kundene,
+
+[00:53:23] som handler via aksjensløsningen til DNB,
+
+[00:53:28] og PGS utmerket seg som en av de aksjene i januar måned,
+
+[00:53:36] da er vi jo innen oljeservice,
+
+[00:53:38] og da er det seismikk,
+
+[00:53:40] her har jo analytikeren hos oss i DNB Markets en salgssambefaling,
+
+[00:53:46] og har ligget feil i forhold til retningen i aksjekursutviklingen,
+
+[00:53:52] her er det flere som er optimistiske, åpenbart, blant investorene.
+
+[00:53:56] Ja, altså PGS blir liksom en veldig sånn giret bett på oljeservice,
+
+[00:54:00] både i form av at de har mye gjeld,
+
+[00:54:03] så da blir det sånn at små forbedringer slår veldig mye på aksjekursen,
+
+[00:54:07] selv om det ikke nødvendigvis slår like mye på EVN til selskap,
+
+[00:54:11] eller market capen pluss nettogjeld,
+
+[00:54:15] så det er en av de aksjene som det er,
+
+[00:54:18] man kan egentlig nesten se på det som en slags opsjon nærmest,
+
+[00:54:21] når det gjelder prisingen av aksjekapitalen,
+
+[00:54:24] så når det begynner å gå riktig vei, så kan det slå veldig mye,
+
+[00:54:28] og du kan si at seismikk er et av de områdene som også er veldig sensitiv,
+
+[00:54:32] med tanke på at hvis oljeprisen holder seg litt sånn,
+
+[00:54:36] så er det litt mer fristende for oljeselskapene
+
+[00:54:40] å stort sett egentlig bare utvikle det de allerede har funnet,
+
+[00:54:43] men jo høyere oljeprisen kommer,
+
+[00:54:45] jo mer fristende er det å begynne å prøve å finne nye felt,
+
+[00:54:49] og da blir seismikk et område som får mye sterkere etterspørsel etter hvert.
+
+[00:54:54] Ta med at PGS ble netto-solgt i januar måned,
+
+[00:55:01] men det var helt marginalt.
+
+[00:55:04] Litt mer tydelig,
+
+[00:55:06] var det når vi ser på Equinor, Vår Energi og Aker BP,
+
+[00:55:11] som er på topp 4-listen av de mest handlede aksjene i januar måned,
+
+[00:55:19] og de ble helt, helt klart netto-kjøpt.
+
+[00:55:23] Så her er det åpenbart mange som har benyttet kursfallene,
+
+[00:55:27] som jo var ganske kraftige, 14% ned for Equinor,
+
+[00:55:31] og 10% rundt, vel, var det for Vår Energi,
+
+[00:55:34] energi i måneden som gikk,
+
+[00:55:36] benyttet anledningen til å kjøpe på.
+
+[00:55:38] Ja, så oljeprisene har jo kommet ned en god del fra toppen,
+
+[00:55:41] og gassprisene har jo falt mye de også,
+
+[00:55:44] sånn sett så er det,
+
+[00:55:46] hvis man tror på at oljeprisen kommer opp etter hvert,
+
+[00:55:49] så kan det vise seg at dette her er en veldig god kjøpsmulighet.
+
+[00:55:52] Analytikerne driver å må kutte estimatene litt nå,
+
+[00:55:56] fordi at oljeprisene har kommet ned mer enn de hadde forventet for noen måneder siden,
+
+[00:56:01] men det er nettopp det,
+
+[00:56:02] og det klarer man å ta i med bunnen i disse selskapene,
+
+[00:56:04] så tror jeg det kan være veldig hyggelig å oppsige det etter hvert.
+
+[00:56:07] Flyr og Norwegian, flyselskapene,
+
+[00:56:09] har det også vært mye handelig i januar,
+
+[00:56:12] og når det kommer til flyr,
+
+[00:56:14] så har jo det fått en trist slutt dessverre,
+
+[00:56:17] konkursmuligheten kom tirsdag kveld,
+
+[00:56:21] altså 31. januar,
+
+[00:56:23] så er jo spørsmålet da,
+
+[00:56:25] om dette kan slå positivt ut for Norwegian på,
+
+[00:56:30] og om de kan få litt mer,
+
+[00:56:32] hva skal vi si,
+
+[00:56:33] kraftig forhold til å ta høyere priser for bilettene.
+
+[00:56:38] Vi har jo en kjøpsambefaling på aksjen,
+
+[00:56:41] analytikeren Kursmål,
+
+[00:56:42] på 12 kroner justerte det opp i dag faktisk,
+
+[00:56:46] fra 9 var det vel.
+
+[00:56:47] Ja, det er klart,
+
+[00:56:48] fjerner du en konkurrent,
+
+[00:56:50] og spesielt en som er i en sånn etableringsfase,
+
+[00:56:52] så er det litt,
+
+[00:56:54] da tror jeg vi kommer til å merke det på prisene,
+
+[00:56:56] så det er klart positivt både på Norwegian og SAS,
+
+[00:57:00] så det kan jeg si i Norwegians tilfelle da,
+
+[00:57:01] siden SAS fortsatt driver på i sånn Chapter 11,
+
+[00:57:05] sine negotiations,
+
+[00:57:06] så er det jo sånn at Norwegian er egentlig den eneste alternativet,
+
+[00:57:09] hvis du er noe redd for utfall i SAS også,
+
+[00:57:12] så Norwegian synes vi også ser bra ut.
+
+[00:57:15] Av siste aksje som vi får trekke fram i dag,
+
+[00:57:18] så synes jeg det er verdt å nevne Telenor.
+
+[00:57:21] Her har vi jo sett at kundene har ligget og nettokjøpt en stund,
+
+[00:57:24] mens kursutviklingen har vært dårlig.
+
+[00:57:26] Telenor har fått en bra start på året,
+
+[00:57:29] og de leverte tall,
+
+[00:57:31] denne uken på,
+
+[00:57:33] og vi ser positivt på det,
+
+[00:57:35] har en kjøpsambefaling på aksjen,
+
+[00:57:38] og det er jo hyggelig da at Telenor kan overraske positivt igjen.
+
+[00:57:41] Ja, det er jo lenge siden sist,
+
+[00:57:43] og det er jo en av de utfordringene vi har hatt på Oslo Børs,
+
+[00:57:47] at det er relativt få defansive aksjer,
+
+[00:57:49] og da når i tillegg de defansive aksjene heller ikke leveres,
+
+[00:57:53] så har det vært veldig få steder du kan gjemme deg,
+
+[00:57:55] hvis du er redd for nedsidet i indeksen,
+
+[00:57:58] så dette her er,
+
+[00:57:59] jeg vil si,
+
+[00:58:00] gode nyheter tror jeg for ikke bare de som er aksjonærer i Telenor allerede,
+
+[00:58:04] men at det da er en kandidat hvor man eventuelt kan vurdere nå
+
+[00:58:08] å gjemme seg hvis man er litt mer bekymret,
+
+[00:58:11] spesielt da etter at EnSidie skuffet med sine tall her for en uke siden,
+
+[00:58:15] så er det fint at det har da en av de defansive selskapene som begynner å levere.
+
+[00:58:20] Ja da, og for å unnskyld også ta med da at Telenor ble nettopp solgt av kundene våre
+
+[00:58:26] i måneden som gikk,
+
+[00:58:28] så kan vi ikke som noen sikre litt,
+
+[00:58:31] forhåpentligvis da,
+
+[00:58:33] gevinst der etter kursoppgangen.
+
+[00:58:35] Med det så er vi kommet til veis ende for i dag skjønte jeg,
+
+[00:58:39] egentlig ganske mye flere aksjer jeg gjerne skulle snakke om,
+
+[00:58:42] men det får vi ta i neste uke.
+
+[00:58:44] Tusen takk til deg,
+
+[00:58:45] og ikke minst til alle dere som lytter.
+
+[00:58:48] Avslutningsvis bare å si at liker du podcasten,
+
+[00:58:51] så vi vil veldig gjerne at du legger igjen en kommentar,
+
+[00:58:54] eller gir oss en hyggelig rating,
+
+[00:58:56] og dersom du har ønsker om gjester,
+
+[00:58:57] vi skal invitere,
+
+[00:58:58] temaer vi skal ta opp,
+
+[00:58:59] eller aksjer vi skal kommentere,
+
+[00:59:01] kan du gjerne sende oss en mail på utbyttepodden
+
+[00:59:04] at dnb.no.
+
+[00:59:08] Takk for oss folkens,
+
+[00:59:09] og på igjenhør.
+
+[00:59:11] Denne sendingen ble publisert i podcasten Utbytte.

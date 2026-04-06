@@ -8,7 +8,6 @@ The system downloads, transcribes, and semantically indexes all 580 podcast epis
 >
 > **580/580 episodes** fully transcribed with Whisper large-v3. ChromaDB index: 11,836 chunks. Pipeline complete.
 >
-> **Live demo:** [kevinha98.github.io/DNB-Utbytte-Podcast-RAG-Pipeline](https://kevinha98.github.io/DNB-Utbytte-Podcast-RAG-Pipeline/) | **Backend:** [utbytte-backend-production.up.railway.app](https://utbytte-backend-production.up.railway.app)
 
 ---
 
@@ -479,8 +478,6 @@ Deploy manually using the provided script (uses `git worktree` — safe for giti
 PowerShell -ExecutionPolicy Bypass -File deploy-pages.ps1
 # Never use -SkipBuild after code changes
 ```
-
-Live URL: `https://kevinha98.github.io/DNB-Utbytte-Podcast-RAG-Pipeline/`
 
 The script builds Next.js, exports to `out/`, pushes to the `gh-pages` branch via a temp worktree. It never touches `backend/storage/`.
 

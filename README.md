@@ -1,10 +1,14 @@
 ﻿# Utbytte Agenten
 
+> **Snapshot — April 2026.** This repository is a point-in-time export of the project as it stood in early April 2026. The pipeline was complete (580/580 episodes), the full-stack app was live, and the custom instructions + supervised feedback feature had just shipped. No further development is planned in this public repo.
+
 AI-powered Q&A for the **[Utbytte](https://feeds.acast.com/public/shows/utbytte)** podcast by DNB.
 
-The system downloads, transcribes, and semantically indexes all 580 podcast episodes, then answers natural-language questions in Norwegian with full source citations  pointing to the exact episode, timestamp, and quote that supports each answer.
+The system downloads, transcribes, and semantically indexes all 580 podcast episodes, then answers natural-language questions in Norwegian with full source citations pointing to the exact episode, timestamp, and quote that supports each answer.
 
-> Built with FastAPI, Next.js 14, ChromaDB, sentence-transformers, faster-whisper, and Claude Opus 4.6 (EU) via Radical Gateway.
+![Screenshot of the Utbytte chat interface — dark mode, showing the question input, episode list, and suggested prompts](docs/screenshot.png)
+
+> Built with FastAPI, Next.js 14, ChromaDB, sentence-transformers, faster-whisper, and Claude Opus 4.6 (EU) via an OpenAI-compatible proxy.
 >
 > **580/580 episodes** fully transcribed with Whisper large-v3. ChromaDB index: 11,836 chunks. Pipeline complete.
 >

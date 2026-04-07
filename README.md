@@ -591,6 +591,3 @@ See **[docs/development.md](docs/development.md)** for:
 
 ---
 
-## License
-
-Internal  DNB WMIO. Not for public distribution.
